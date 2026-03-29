@@ -1,0 +1,129 @@
+{
+  "tlId": "zbk4qr9",
+  "dj": "MYKRIS",
+  "stage": "Mainstage",
+  "date": "2026-03-28",
+  "year": 2026,
+  "genre": "Mainstage",
+  "tracksIdentified": 5,
+  "tracksTotal": 6,
+  "duration": "",
+  "views": 135,
+  "likes": 2,
+  "url": "https://www.1001tracklists.com/tracklist/zbk4qr9/mykris-mainstage-ultra-music-festival-miami-united-states-2026-03-28.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "AVAO",
+      "title": "Algorhythmic",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13673945",
+      "row": 1,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "1116512",
+        "youtube": "1116512",
+        "soundcloud": "1116512",
+        "appleMusic": "1116512"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Noah Seven & PoLYED & Relevus",
+      "title": "Walk Away",
+      "remix": "",
+      "label": "NEVERFAIL",
+      "trackId": "13673946",
+      "row": 2,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "1085480",
+        "youtube": "1085480",
+        "soundcloud": "1085480",
+        "appleMusic": "1085480"
+      },
+      "blendGroup": [
+        {
+          "artist": "Noah Seven & PoLYED & Relevus",
+          "title": "Walk Away",
+          "remix": "",
+          "trackId": "13673946"
+        },
+        {
+          "artist": "John Summit ft. HAYLA",
+          "title": "Where You Are (Acappella)",
+          "remix": "",
+          "trackId": "13673947"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "John Summit ft. HAYLA",
+      "title": "Where You Are (Acappella)",
+      "remix": "",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13673947",
+      "row": 2,
+      "type": "blend",
+      "mediaIds": {
+        "spotify": "871184",
+        "youtube": "871184",
+        "soundcloud": "871184",
+        "appleMusic": "871184"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13673948",
+      "row": 3,
+      "type": "normal",
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "MYKRIS & KEN",
+      "title": "JUMP",
+      "remix": "",
+      "label": "ACTUATION",
+      "trackId": "13673949",
+      "row": 4,
+      "type": "normal",
+      "mediaIds": {
+        "soundcloud": "13673949"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Blasterjaxx",
+      "title": "Unfaithful",
+      "remix": "",
+      "label": "MAXXIMIZE (SPINNIN')",
+      "trackId": "13673950",
+      "row": 5,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "1128581",
+        "youtube": "1128581",
+        "soundcloud": "1128581",
+        "appleMusic": "1128581"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "MYKRIS",
+      "slug": "mykris"
+    }
+  ],
+  "scrapedAt": "2026-03-28T21:45:55.550Z"
+}

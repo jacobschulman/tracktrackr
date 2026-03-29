@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TrackTrackr — Ultra Music Festival Dashboard</title>
+  <meta name="description" content="25+ years of Ultra Music Festival DJ sets, tracklists, and hidden patterns — visualized.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- Sidebar nav -->
+  <nav id="sidebar">
+    <a href="#/" class="logo">
+      <span class="logo-icon">▦</span>
+      <span class="logo-text">TrackTrackr</span>
+    </a>
+
+    <div class="nav-links">
+      <a href="#/" class="nav-link" data-view="overview">
+        <span class="nav-icon">▦</span> Overview
+      </a>
+      <a href="#/discoveries" class="nav-link" data-view="discoveries">
+        <span class="nav-icon">✦</span> Discoveries
+      </a>
+      <a href="#/djs" class="nav-link" data-view="djs">
+        <span class="nav-icon">◎</span> DJs
+      </a>
+      <a href="#/year" class="nav-link" data-view="year">
+        <span class="nav-icon">◷</span> Years
+      </a>
+      <a href="#/stages" class="nav-link" data-view="stages">
+        <span class="nav-icon">⬡</span> Stages
+      </a>
+      <a href="#/labels" class="nav-link" data-view="labels">
+        <span class="nav-icon">↕</span> Labels
+      </a>
+      <a href="#/b2b" class="nav-link" data-view="b2b">
+        <span class="nav-icon">⇆</span> B2B
+      </a>
+    </div>
+
+    <div class="sidebar-footer">
+      <div class="data-credit">
+        Data from <a href="https://www.1001tracklists.com" target="_blank" rel="noopener">1001Tracklists</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Mobile bottom tab bar -->
+  <nav id="mobile-tabs">
+    <a href="#/" class="tab-link" data-view="overview">▦<span>Overview</span></a>
+    <a href="#/discoveries" class="tab-link" data-view="discoveries">✦<span>Discover</span></a>
+    <a href="#/djs" class="tab-link" data-view="djs">◎<span>DJs</span></a>
+    <a href="#/year" class="tab-link" data-view="year">◷<span>Years</span></a>
+    <a href="#/stages" class="tab-link" data-view="stages">⬡<span>More</span></a>
+  </nav>
+
+  <!-- Main content -->
+  <main id="content">
+    <header id="header">
+      <div id="breadcrumbs"></div>
+      <div id="search-container">
+        <input type="text" id="global-search" placeholder="Search DJs & tracks..." autocomplete="off">
+        <div id="search-results" class="search-dropdown hidden"></div>
+      </div>
+    </header>
+    <div id="view-container"></div>
+  </main>
+
+  <!-- CDN dependencies -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script type="module" src="js/app.js?v=2"></script>
+</body>
+</html>

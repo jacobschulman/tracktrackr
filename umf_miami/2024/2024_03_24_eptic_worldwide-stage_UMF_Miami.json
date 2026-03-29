@@ -1,0 +1,177 @@
+{
+  "tlId": "2q4n0cmk",
+  "dj": "Eptic",
+  "stage": "Worldwide Stage",
+  "date": "2024-03-24",
+  "year": 2024,
+  "genre": "Dubstep, Trap",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "views": 14,
+  "likes": 5,
+  "url": "https://www.1001tracklists.com/tracklist/2q4n0cmk/eptic-worldwide-stage-ultra-music-festival-miami-united-states-2024-03-24.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Eptic",
+      "title": "CYBERHELL",
+      "remix": "",
+      "label": "OVERLORD",
+      "trackId": "10321128",
+      "row": 1,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "977707",
+        "youtube": "977707",
+        "soundcloud": "977707",
+        "appleMusic": "977707"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Eptic ft. Joey Valence & Brae",
+      "title": "Tactix",
+      "remix": "",
+      "label": "OVERLORD",
+      "trackId": "10321129",
+      "row": 2,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "879013",
+        "youtube": "879013",
+        "soundcloud": "879013",
+        "appleMusic": "879013"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Space Laces",
+      "title": "Digital Gangsta (Eptic Remix)",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "10321130",
+      "row": 3,
+      "type": "normal",
+      "mediaIds": {
+        "youtube": "976248"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Excision & Space Laces",
+      "title": "Rumble",
+      "remix": "",
+      "label": "NEVER SAY DIE/EXCISION",
+      "trackId": "10321131",
+      "row": 4,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "398325",
+        "youtube": "398325",
+        "soundcloud": "398325",
+        "appleMusic": "398325"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Space Laces",
+          "title": "Rumble",
+          "remix": "",
+          "trackId": "10321131"
+        },
+        {
+          "artist": "MASTERHAND",
+          "title": "CRACK YA NECK",
+          "remix": "",
+          "trackId": "10321132"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MASTERHAND",
+      "title": "CRACK YA NECK",
+      "remix": "",
+      "label": "",
+      "trackId": "10321132",
+      "row": 4,
+      "type": "blend",
+      "mediaIds": {
+        "youtube": "939567",
+        "soundcloud": "939567"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Eptic & MARAUDA",
+      "title": "Wall Of Death",
+      "remix": "",
+      "label": "OVERLORD",
+      "trackId": "10321133",
+      "row": 5,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "783355",
+        "youtube": "783355",
+        "soundcloud": "783355",
+        "appleMusic": "783355"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Skrillex & Mr. Oizo ft. Missy Elliott",
+      "title": "RATATA",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "10321134",
+      "row": 6,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "615904",
+        "youtube": "615904",
+        "soundcloud": "615904",
+        "appleMusic": "615904"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Mr. Oizo ft. Missy Elliott",
+          "title": "RATATA",
+          "remix": "",
+          "trackId": "10321134"
+        },
+        {
+          "artist": "Space Laces & Eptic",
+          "title": "WORM TIME",
+          "remix": "",
+          "trackId": "10321135"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Space Laces & Eptic",
+      "title": "WORM TIME",
+      "remix": "",
+      "label": "HIGH VAULTAGE",
+      "trackId": "10321135",
+      "row": 6,
+      "type": "blend",
+      "mediaIds": {
+        "spotify": "1097577",
+        "youtube": "1097577",
+        "appleMusic": "1097577"
+      }
+    }
+  ],
+  "djs": [
+    {
+      "name": "Eptic",
+      "slug": "eptic"
+    }
+  ],
+  "scrapedAt": "2026-03-28T21:59:45.641Z"
+}

@@ -1,0 +1,220 @@
+{
+  "tlId": "kw8qf2k",
+  "dj": "Maceo Plex",
+  "stage": "Carl Cox Megastructure",
+  "date": "2019-03-31",
+  "year": 2019,
+  "genre": "Techno",
+  "tracksIdentified": 10,
+  "tracksTotal": 12,
+  "duration": "1h",
+  "views": 41,
+  "likes": 4,
+  "url": "https://www.1001tracklists.com/tracklist/kw8qf2k/maceo-plex-carl-cox-megastructure-ultra-music-festival-miami-miami-music-week-united-states-2019-03-31.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Bushwacka!",
+      "title": "West Side (Christian Smith & Wehbba Remix)",
+      "remix": "",
+      "label": "TRONIC",
+      "trackId": "4034740",
+      "row": 1,
+      "type": "normal",
+      "mediaIds": {
+        "youtube": "65949",
+        "soundcloud": "65949"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Dino Lenny",
+      "title": "Guilty Officer (Maceo Plex Remix)",
+      "remix": "",
+      "label": "ELLUM",
+      "trackId": "4034741",
+      "row": 2,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "441994",
+        "youtube": "441994",
+        "soundcloud": "441994",
+        "appleMusic": "441994"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "JSPR",
+      "title": "Demons",
+      "remix": "",
+      "label": "ORANGE",
+      "trackId": "4034742",
+      "row": 3,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "498621",
+        "youtube": "498621",
+        "soundcloud": "498621",
+        "appleMusic": "498621"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Maceo Plex",
+      "title": "Mutant Robotics",
+      "remix": "",
+      "label": "ELLUM",
+      "trackId": "4034743",
+      "row": 4,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "441995",
+        "youtube": "441995",
+        "soundcloud": "441995",
+        "appleMusic": "441995"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "CJ Bolland & The Advent",
+      "title": "Camargue 2019 (Maceo Plex Remix)",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "4034744",
+      "row": 5,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "516993",
+        "youtube": "516993",
+        "soundcloud": "516993",
+        "appleMusic": "516993"
+      },
+      "blendGroup": [
+        {
+          "artist": "CJ Bolland & The Advent",
+          "title": "Camargue 2019 (Maceo Plex Remix)",
+          "remix": "",
+          "trackId": "4034744"
+        },
+        {
+          "artist": "Kelevra ft. Whiskey Pete",
+          "title": "Jak Muzik",
+          "remix": "(Sample)",
+          "trackId": "4035508"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kelevra ft. Whiskey Pete",
+      "title": "Jak Muzik",
+      "remix": "(Sample)",
+      "label": "",
+      "trackId": "4035508",
+      "row": 5,
+      "type": "blend",
+      "mediaIds": null
+    },
+    {
+      "pos": "06",
+      "artist": "Madben",
+      "title": "Blooming",
+      "remix": "",
+      "label": "ELLUM",
+      "trackId": "4034745",
+      "row": 6,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "507461",
+        "youtube": "507461",
+        "soundcloud": "507461",
+        "appleMusic": "507461"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4034746",
+      "row": 7,
+      "type": "normal",
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Bushwacka!",
+      "title": "West Side (Christian Smith & Wehbba Remix)",
+      "remix": "",
+      "label": "TRONIC",
+      "trackId": "4034747",
+      "row": 8,
+      "type": "normal",
+      "mediaIds": {
+        "youtube": "65949",
+        "soundcloud": "65949"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Maceo Plex",
+      "title": "Mutant Tones",
+      "remix": "",
+      "label": "ELLUM",
+      "trackId": "4034748",
+      "row": 9,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "486458",
+        "youtube": "486458",
+        "soundcloud": "486458",
+        "appleMusic": "486458"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4034749",
+      "row": 10,
+      "type": "normal",
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Jon Hopkins",
+      "title": "Singularity (ANNA Remix)",
+      "remix": "",
+      "label": "DOMINO",
+      "trackId": "4034750",
+      "row": 11,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "453263",
+        "youtube": "453263",
+        "soundcloud": "453263",
+        "appleMusic": "453263"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Maceo Plex",
+      "slug": "maceoplex"
+    }
+  ],
+  "scrapedAt": "2026-03-28T22:42:58.431Z"
+}

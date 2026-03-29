@@ -1,0 +1,634 @@
+{
+  "tlId": "xbpp1jt",
+  "dj": "Seven Lions",
+  "stage": "Worldwide Stage",
+  "date": "2024-03-23",
+  "year": 2024,
+  "genre": "Trance, Dubstep",
+  "tracksIdentified": 31,
+  "tracksTotal": 32,
+  "duration": "1h 1m",
+  "views": 42,
+  "likes": 4,
+  "url": "https://www.1001tracklists.com/tracklist/xbpp1jt/seven-lions-worldwide-stage-ultra-music-festival-miami-united-states-2024-03-23.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Seven Lions & Wooli & AMIDY",
+      "title": "Shadows",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "10315783",
+      "row": 1,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "681614",
+        "youtube": "681614",
+        "soundcloud": "681614",
+        "appleMusic": "681614"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "SVDDEN DEATH & Wooli",
+      "title": "Mind Control",
+      "remix": "",
+      "label": "VOYD",
+      "trackId": "10315784",
+      "row": 2,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "952228",
+        "youtube": "952228",
+        "soundcloud": "952228",
+        "appleMusic": "952228"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Flume ft. Tove Lo",
+      "title": "Say It",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "10315785",
+      "row": 3,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "305187",
+        "youtube": "305187",
+        "soundcloud": "305187",
+        "appleMusic": "305187"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flume ft. Tove Lo",
+          "title": "Say It",
+          "remix": "",
+          "trackId": "10315785"
+        },
+        {
+          "artist": "Trivecta ft. Isaac Warburton",
+          "title": "Back To The Start (VIP)",
+          "remix": "",
+          "trackId": "10315786"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Trivecta ft. Isaac Warburton",
+      "title": "Back To The Start (VIP)",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "10315786",
+      "row": 3,
+      "type": "blend",
+      "mediaIds": {
+        "spotify": "883712",
+        "youtube": "883712",
+        "soundcloud": "883712",
+        "appleMusic": "883712"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Mark Sixma",
+      "title": "Adagio For Strings",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "10315787",
+      "row": 4,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "207489",
+        "youtube": "207489",
+        "soundcloud": "207489",
+        "appleMusic": "207489"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mark Sixma",
+          "title": "Adagio For Strings",
+          "remix": "",
+          "trackId": "10315787"
+        },
+        {
+          "artist": "Seven Lions",
+          "title": "Cusp",
+          "remix": "",
+          "trackId": "10315788"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions",
+      "title": "Cusp",
+      "remix": "",
+      "label": "WHO'S AFRAID OF 138 (ARMADA)",
+      "trackId": "10315788",
+      "row": 4,
+      "type": "blend",
+      "mediaIds": {
+        "spotify": "273393",
+        "youtube": "273393",
+        "soundcloud": "273393",
+        "appleMusic": "273393"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Seven Lions ft. So Below",
+      "title": "Every Time",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "10315789",
+      "row": 5,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "819344",
+        "youtube": "819344",
+        "soundcloud": "819344",
+        "appleMusic": "819344"
+      },
+      "blendGroup": [
+        {
+          "artist": "Seven Lions ft. So Below",
+          "title": "Every Time",
+          "remix": "",
+          "trackId": "10315789"
+        },
+        {
+          "artist": "Seven Lions ft. So Below",
+          "title": "Every Time (Kompany Remix)",
+          "remix": "",
+          "trackId": "10315790"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions ft. So Below",
+      "title": "Every Time (Kompany Remix)",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "10315790",
+      "row": 5,
+      "type": "blend",
+      "mediaIds": {
+        "spotify": "882369",
+        "youtube": "882369",
+        "soundcloud": "882369",
+        "appleMusic": "882369"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Millennial Trash",
+      "title": "Homologation Rules",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "10315791",
+      "row": 6,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "983177",
+        "youtube": "983177",
+        "soundcloud": "983177",
+        "appleMusic": "983177"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "The Chainsmokers ft. Daya",
+      "title": "Don't Let Me Down (ILLENIUM Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "10315792",
+      "row": 7,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "301678",
+        "youtube": "301678",
+        "soundcloud": "301678",
+        "appleMusic": "301678"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers ft. Daya",
+          "title": "Don't Let Me Down (ILLENIUM Remix)",
+          "remix": "",
+          "trackId": "10315792"
+        },
+        {
+          "artist": "Seven Lions & SLANDER & Dabin ft. Dylan Matthew",
+          "title": "First Time",
+          "remix": "",
+          "trackId": "10315793"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions & SLANDER & Dabin ft. Dylan Matthew",
+      "title": "First Time",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "10315793",
+      "row": 7,
+      "type": "blend",
+      "mediaIds": {
+        "spotify": "446977",
+        "youtube": "446977",
+        "soundcloud": "446977",
+        "appleMusic": "446977"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Kompany & Wooli",
+      "title": "Thicc Boi",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "10315794",
+      "row": 8,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "447093",
+        "youtube": "447093",
+        "soundcloud": "447093",
+        "appleMusic": "447093"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kompany & Wooli",
+          "title": "Thicc Boi",
+          "remix": "",
+          "trackId": "10315794"
+        },
+        {
+          "artist": "Space Laces",
+          "title": "IN THE PLACE",
+          "remix": "",
+          "trackId": "10315795"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Space Laces",
+      "title": "IN THE PLACE",
+      "remix": "",
+      "label": "HIGH VAULTAGE",
+      "trackId": "10315795",
+      "row": 8,
+      "type": "blend",
+      "mediaIds": {
+        "spotify": "950668",
+        "youtube": "950668",
+        "soundcloud": "950668",
+        "appleMusic": "950668"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Jason Ross & Blastoyz",
+      "title": "Opera Haus",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "10315796",
+      "row": 9,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "930640",
+        "youtube": "930640",
+        "soundcloud": "930640",
+        "appleMusic": "930640"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "RIOT",
+      "title": "Redemption",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "10315797",
+      "row": 10,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "947935",
+        "youtube": "947935",
+        "soundcloud": "947935",
+        "appleMusic": "947935"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Kill The Noise & Trivecta ft. Doktor",
+      "title": "Feel The Vibe",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "10315798",
+      "row": 11,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "983893",
+        "youtube": "983893",
+        "soundcloud": "983893",
+        "appleMusic": "983893"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Seven Lions ft. Lights",
+      "title": "Stop Thinking",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "10315799",
+      "row": 12,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "834363",
+        "youtube": "834363",
+        "soundcloud": "834363",
+        "appleMusic": "834363"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "TC",
+      "title": "Tap Ho (A.M.C Remix)",
+      "remix": "",
+      "label": "DON'T PLAY",
+      "trackId": "10315800",
+      "row": 13,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "357477",
+        "youtube": "357477",
+        "soundcloud": "357477",
+        "appleMusic": "357477"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "The Prodigy",
+      "title": "Breathe (Camo & Krooked & Mefjus Remix)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "10315801",
+      "row": 14,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "839204",
+        "youtube": "839204",
+        "soundcloud": "839204",
+        "appleMusic": "839204"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Seven Lions & Jason Ross & Crystal Skies ft. Jonathan Mendelsohn",
+      "title": "Foolish of Me",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "10315802",
+      "row": 15,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "614736",
+        "youtube": "614736",
+        "soundcloud": "614736",
+        "appleMusic": "614736"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Illenium & Said The Sky & 1788-L & Kerli",
+      "title": "Sound Of Where'd U Go",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "10315803",
+      "row": 16,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "417185",
+        "youtube": "417185",
+        "soundcloud": "417185",
+        "appleMusic": "417185"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Above & Beyond & Seven Lions ft. Opposite The Other",
+      "title": "Over Now",
+      "remix": "",
+      "label": "ANJUNABEATS/OPHELIA",
+      "trackId": "10315804",
+      "row": 17,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "928685",
+        "youtube": "928685",
+        "soundcloud": "928685",
+        "appleMusic": "928685"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Above & Beyond ft. Richard Bedford",
+      "title": "Sun & Moon",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "10315805",
+      "row": 18,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "27878",
+        "youtube": "27878",
+        "soundcloud": "27878",
+        "appleMusic": "27878"
+      },
+      "blendGroup": [
+        {
+          "artist": "Above & Beyond ft. Richard Bedford",
+          "title": "Sun & Moon",
+          "remix": "",
+          "trackId": "10315805"
+        },
+        {
+          "artist": "Porter Robinson ft. Bright Lights",
+          "title": "Language",
+          "remix": "",
+          "trackId": "10315806"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Porter Robinson ft. Bright Lights",
+      "title": "Language",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "10315806",
+      "row": 18,
+      "type": "blend",
+      "mediaIds": {
+        "spotify": "69003",
+        "youtube": "69003",
+        "soundcloud": "69003",
+        "appleMusic": "69003"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Space Laces",
+      "title": "Dominate",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "10315807",
+      "row": 19,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "673857",
+        "youtube": "673857",
+        "soundcloud": "673857",
+        "appleMusic": "673857"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Space Laces",
+      "title": "Dominate (Boombox Cartel Edit)",
+      "remix": "",
+      "label": "HIGH VAULTAGE",
+      "trackId": "10315808",
+      "row": 20,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "929013",
+        "youtube": "929013",
+        "soundcloud": "929013",
+        "appleMusic": "929013"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Seven Lions & Andrew Bayer ft. Fiora",
+      "title": "Places I Belong",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "10315809",
+      "row": 21,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "962491",
+        "youtube": "962491",
+        "soundcloud": "962491",
+        "appleMusic": "962491"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Seven Lions & Myon & Shane 54 ft. Tove Lo",
+      "title": "Strangers",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "10315810",
+      "row": 22,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "147905",
+        "youtube": "147905",
+        "soundcloud": "147905",
+        "appleMusic": "147905"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Seven Lions & Wooli & Trivecta ft. Nevve",
+      "title": "Island (Blastoyz Remix)",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "10315811",
+      "row": 23,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "499051",
+        "youtube": "499051",
+        "soundcloud": "499051",
+        "appleMusic": "499051"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "SLANDER ft. RØRY & Dylan Matthew",
+      "title": "Walk On Water (Trivecta & Wooli Remix)",
+      "remix": "",
+      "label": "SLANDER MUSIC",
+      "trackId": "10315812",
+      "row": 24,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "849429",
+        "youtube": "849429",
+        "soundcloud": "849429",
+        "appleMusic": "849429"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Seven Lions & Trivecta",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10315813",
+      "row": 25,
+      "type": "normal",
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "ILLENIUM & Seven Lions ft. ÁSDÍS",
+      "title": "Not Even Love",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "10315814",
+      "row": 26,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "983794",
+        "youtube": "983794",
+        "soundcloud": "983794",
+        "appleMusic": "983794"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Seven Lions",
+      "slug": "sevenlions"
+    }
+  ],
+  "scrapedAt": "2026-03-28T22:02:37.923Z"
+}

@@ -1,0 +1,102 @@
+{
+  "tlId": "2ttx5ptk",
+  "dj": "Becky Hill",
+  "stage": "Live Stage",
+  "date": "2023-03-25",
+  "year": 2023,
+  "genre": "House, Melodic House/Techno",
+  "tracksIdentified": 3,
+  "tracksTotal": 4,
+  "duration": "",
+  "views": 961,
+  "likes": 2,
+  "url": "https://www.1001tracklists.com/tracklist/2ttx5ptk/becky-hill-live-stage-ultra-music-festival-miami-united-states-2023-03-25.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "MK & Jonas Blue & Becky Hill",
+      "title": "Back And Forth (6am Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "8856662",
+      "row": 1,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "497837",
+        "youtube": "497837",
+        "appleMusic": "497837"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "MEDUZA x Becky Hill x GOODBOYS",
+      "title": "Lose Control",
+      "remix": "",
+      "label": "VIRGIN/POLYDOR",
+      "trackId": "8856663",
+      "row": 2,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "528460",
+        "youtube": "528460",
+        "soundcloud": "528460",
+        "appleMusic": "528460"
+      },
+      "blendGroup": [
+        {
+          "artist": "MEDUZA x Becky Hill x GOODBOYS",
+          "title": "Lose Control",
+          "remix": "",
+          "trackId": "8856663"
+        },
+        {
+          "artist": "MEDUZA x Becky Hill x GOODBOYS",
+          "title": "Lose Control",
+          "remix": "",
+          "trackId": "8856664"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MEDUZA x Becky Hill x GOODBOYS",
+      "title": "Lose Control",
+      "remix": "",
+      "label": "VIRGIN/POLYDOR",
+      "trackId": "8856664",
+      "row": 2,
+      "type": "blend",
+      "mediaIds": {
+        "spotify": "528460",
+        "youtube": "528460",
+        "soundcloud": "528460",
+        "appleMusic": "528460"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Becky Hill & Topic",
+      "title": "My Heart Goes (La Di Da)",
+      "remix": "",
+      "label": "POLYDOR/EKO",
+      "trackId": "8856665",
+      "row": 3,
+      "type": "normal",
+      "mediaIds": {
+        "spotify": "718757",
+        "youtube": "718757",
+        "soundcloud": "718757",
+        "appleMusic": "718757"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Becky Hill",
+      "slug": "beckyhill"
+    }
+  ],
+  "scrapedAt": "2026-03-28T22:09:06.498Z"
+}
