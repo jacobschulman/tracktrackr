@@ -2,8 +2,8 @@
  * app.js — TrackTrackr router, navigation, and global state
  */
 
-import { CONFIG, initChartDefaults } from './config.js?v=2';
-import { loadIndex, getTopTracks, isAllLoaded, trackKey } from './data.js?v=2';
+import { CONFIG, initChartDefaults } from './config.js?v=5';
+import { loadIndex, getTopTracks, isAllLoaded, trackKey } from './data.js?v=5';
 
 // ── Global state ───────────────────────────────────
 export const state = {
@@ -13,18 +13,24 @@ export const state = {
 };
 
 // ── View imports (lazy, cache-bust with version) ───
-const V = '?v=2';
+const V = '?v=5';
 const views = {
   overview:    () => import('./views/overview.js' + V),
-  discoveries: () => import('./views/discoveries.js' + V),
   djs:         () => import('./views/heatmap.js' + V),
   heatmap:     () => import('./views/heatmap.js' + V),
   dj:          () => import('./views/dj.js' + V),
+  tracks:      () => import('./views/tracks.js' + V),
   track:       () => import('./views/track.js' + V),
+  set:         () => import('./views/set.js' + V),
   year:        () => import('./views/year.js' + V),
   stages:      () => import('./views/stages.js' + V),
   labels:      () => import('./views/labels.js' + V),
   b2b:         () => import('./views/b2b.js' + V),
+  versus:      () => import('./views/versus.js' + V),
+  journeys:    () => import('./views/journeys.js' + V),
+  dna:         () => import('./views/dna.js' + V),
+  // Legacy redirect
+  discoveries: () => import('./views/overview.js' + V),
 };
 
 // ── DOM refs ───────────────────────────────────────
@@ -103,17 +109,29 @@ async function route() {
 
 // ── Nav highlighting ───────────────────────────────
 function updateNav(view) {
+  // Map detail views to their parent nav item
+  const viewToNav = {
+    dj: 'djs',
+    heatmap: 'djs',
+    track: 'tracks',
+    set: 'tracks',
+    discoveries: 'overview',
+    labels: 'tracks',
+    b2b: 'djs',
+  };
+  const navView = viewToNav[view] || view;
+
   // Sidebar
   document.querySelectorAll('.nav-link').forEach(link => {
     const linkView = link.dataset.view;
-    link.classList.toggle('active', linkView === view ||
-      (view === '' && linkView === 'overview'));
+    link.classList.toggle('active', linkView === navView ||
+      (navView === '' && linkView === 'overview'));
   });
   // Mobile tabs
   document.querySelectorAll('.tab-link').forEach(link => {
     const linkView = link.dataset.view;
-    link.classList.toggle('active', linkView === view ||
-      (view === '' && linkView === 'overview'));
+    link.classList.toggle('active', linkView === navView ||
+      (navView === '' && linkView === 'overview'));
   });
 }
 
@@ -122,16 +140,20 @@ function updateBreadcrumbs(view, params) {
   const el = breadcrumbs();
   if (!el) return;
 
-  const crumbs = [{ label: 'Overview', href: '#/' }];
+  const crumbs = [{ label: 'Home', href: '#/' }];
   const viewLabels = {
-    discoveries: 'Discoveries',
     djs: 'DJs',
     heatmap: 'DJs',
     dj: 'DJs',
+    tracks: 'Tracks',
     track: 'Tracks',
+    set: 'Sets',
     year: 'Years',
     stages: 'Stages',
     labels: 'Labels',
+    versus: 'Versus',
+    journeys: 'Journeys',
+    dna: 'DNA',
     b2b: 'B2B',
   };
 
@@ -148,7 +170,18 @@ function updateBreadcrumbs(view, params) {
   } else if (view === 'track' && params[0]) {
     const parts = decodeURIComponent(params[0]).split('|||');
     if (parts.length === 2) {
-      crumbs.push({ label: `${parts[0]} — ${parts[1]}` });
+      crumbs.push({ label: `${titleCase(parts[0])} — ${titleCase(parts[1])}` });
+    }
+  } else if (view === 'set' && params[0] && state.index) {
+    const tlId = params[0];
+    const set = state.index.sets.find(s => s.tlId === tlId);
+    if (set) {
+      // Add DJ breadcrumb
+      const djSlug = set.djs?.[0]?.slug;
+      if (djSlug) {
+        crumbs.push({ label: set.dj, href: `#/dj/${djSlug}` });
+      }
+      crumbs.push({ label: `${set.year} ${set.stage}` });
     }
   } else if (view === 'year' && params[0]) {
     crumbs.push({ label: params[0] });
@@ -298,6 +331,11 @@ function highlightMatch(text, query) {
   return text.slice(0, idx) +
     `<strong style="color:var(--purple-lt)">${text.slice(idx, idx + query.length)}</strong>` +
     text.slice(idx + query.length);
+}
+
+function titleCase(str) {
+  if (!str) return '';
+  return str.replace(/\b\w/g, c => c.toUpperCase());
 }
 
 // ── Helper: navigate programmatically ──────────────

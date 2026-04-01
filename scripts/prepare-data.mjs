@@ -3,11 +3,11 @@
  * prepare-data.mjs — Transform raw scraped UMF data into TrackTrackr format.
  *
  * Input:
- *   ~/Downloads/tracklore_index_complete_1467sets.json
- *   ~/Downloads/umf_miami/{year}/*.json
+ *   data/ultra-miami/index.json       (existing index — used as set catalog)
+ *   data/ultra-miami/{year}/*.json    (individual scraped set files)
  *
  * Output:
- *   data/ultra-miami/index.json       (all sets, metadata only)
+ *   data/ultra-miami/index.json       (all sets, metadata only — overwritten)
  *   data/ultra-miami/sets/{tlId}.json  (individual sets with tracks)
  */
 
@@ -15,11 +15,72 @@ import { readFileSync, writeFileSync, readdirSync, statSync, mkdirSync, existsSy
 import { join, resolve } from 'path';
 
 // ── Paths ────────────────────────────────────────
-const HOME = process.env.HOME;
-const INDEX_SRC = join(HOME, 'Downloads', 'tracklore_index_complete_1467sets.json');
-const SETS_SRC = join(HOME, 'Downloads', 'umf_miami');
 const OUT_DIR = resolve(import.meta.dirname, '..', 'data', 'ultra-miami');
+const INDEX_SRC = resolve(import.meta.dirname, '..', 'tracklore_index_1508sets.json');
+const SETS_SRC = OUT_DIR;  // year folders live alongside index.json
 const OUT_SETS = join(OUT_DIR, 'sets');
+
+// ── DJ alias/group mapping ────────────────────────
+// Maps DJ slugs to their other known slugs (solo ↔ group acts).
+// Used to enrich each set's djs array with an `aliases` field.
+const DJ_ALIASES = {
+  // Swedish House Mafia members
+  'axwell':              ['axwellingrosso', 'axwellandingrosso', 'swedishhousemafia'],
+  'sebastianingrosso':   ['axwellingrosso', 'axwellandingrosso', 'swedishhousemafia'],
+  'steveangello':        ['swedishhousemafia'],
+  'axwellingrosso':      ['axwell', 'sebastianingrosso'],
+  'axwellandingrosso':   ['axwell', 'sebastianingrosso'],
+  'swedishhousemafia':   ['axwell', 'sebastianingrosso', 'steveangello'],
+
+  // Skrillex / side projects
+  'skrillex':            ['dogblood', 'jacku'],
+  'dogblood':            ['skrillex', 'boysnoize'],
+  'jacku':               ['skrillex', 'diplo'],
+
+  // Diplo / side projects
+  'diplo':               ['jacku', 'majorlazer'],
+  'majorlazer':          ['diplo'],
+
+  // deadmau5 / Testpilot
+  'deadmau5':            ['testpilot'],
+  'testpilot':           ['deadmau5'],
+
+  // Eric Prydz / Cirez D / Pryda
+  'ericprydz':           ['cirezd', 'pryda'],
+  'cirezd':              ['ericprydz'],
+  'pryda':               ['ericprydz'],
+
+  // Everything Always (Dom Dolla & John Summit)
+  'everythingalways':    ['domdolla', 'johnsummit'],
+  'domdolla':            ['everythingalways'],
+  'johnsummit':          ['everythingalways'],
+
+  // Gaia (Armin van Buuren & Benno de Goeij)
+  'gaia-nl':             ['arminvanbuuren'],
+  'arminvanbuuren':      ['gaia-nl'],
+
+  // 3 Are Legend (Dimitri Vegas & Like Mike & Steve Aoki)
+  '3arelegend':          ['dimitrivegas', 'likemike', 'dimitrivegasandlikemike', 'steveaoki'],
+  'steveaoki':           ['3arelegend'],
+
+  // Destroid (Downlink & Excision & KJ Sawka)
+  'destroid':            ['excision', 'downlink', 'kjsawka'],
+  'excision':            ['destroid'],
+
+
+  // W&W / NWYR
+  'wandw':               ['nwyr'],
+  'nwyr':                ['wandw'],
+
+  // Ferry Corsten / Markus Schulz / New World Punx
+  'newworldpunx':        ['ferrycorsten', 'markusschulz'],
+
+  // Dimitri Vegas & Like Mike
+  'dimitrivegaslikem':   ['dimitrivegas', 'likemike'],
+  'dimitrivegas':        ['dimitrivegaslikem', 'dimitrivegasandlikemike'],
+  'likemike':            ['dimitrivegaslikem', 'dimitrivegasandlikemike'],
+  'dimitrivegasandlikemike': ['dimitrivegas', 'likemike'],
+};
 
 // ── Known single acts with "&" in their name ────
 const SINGLE_ACTS = new Set([
@@ -279,7 +340,7 @@ function parseDJs(djString) {
 // ── Main ─────────────────────────────────────────
 console.log('Loading index...');
 const indexRaw = JSON.parse(readFileSync(INDEX_SRC, 'utf-8'));
-const indexSets = Object.values(indexRaw.sets);
+const indexSets = Array.isArray(indexRaw) ? indexRaw : Object.values(indexRaw.sets);
 console.log(`  Index entries: ${indexSets.length}`);
 
 // Load all set files
@@ -323,6 +384,7 @@ console.log('Building index...');
 const outputSets = [];
 const allStages = new Set();
 const allDJSlugs = new Map(); // slug -> name
+let skippedRadio = 0;
 
 for (const entry of indexSets) {
   const tlId = entry.tlId;
@@ -337,9 +399,22 @@ for (const entry of indexSets) {
     djs = parseDJs(entry.dj);
   }
 
+  // Enrich with aliases
+  djs = djs.map(d => ({
+    ...d,
+    aliases: DJ_ALIASES[d.slug] || [],
+  }));
+
   // Stage normalization
   const stageRaw = (setData ? setData.stage : entry.stage) || 'Unknown Stage';
   const stage = normalizeStage(stageRaw);
+
+  // Skip non-festival sets (radio shows, podcasts)
+  if (stage === 'Radio/Podcast') {
+    skippedRadio++;
+    continue;
+  }
+
   allStages.add(stage);
 
   // Track djs
@@ -407,15 +482,8 @@ for (const [tlId, data] of setFiles) {
     continue;
   }
 
-  // Filter out ID/unidentified tracks
-  const isIDTrack = (artist, title) => {
-    const a = (artist || '').trim().toUpperCase();
-    const t = (title || '').trim().toUpperCase();
-    return a === 'ID' || t === 'ID' || a === '' || t === '' || t === 'ID?' || a === 'ID?';
-  };
-
+  // Keep all tracks including ID/unidentified — the UI handles rendering them
   const tracks = (data.tracks || [])
-    .filter(t => !isIDTrack(t.artist, t.title))
     .map(t => ({
       pos: t.pos,
       artist: t.artist || '',
@@ -424,7 +492,7 @@ for (const [tlId, data] of setFiles) {
       label: t.label || '',
       trackId: t.trackId || '',
       type: t.type || 'normal',
-      blendGroup: t.blendGroup ? t.blendGroup.filter(bg => !isIDTrack(bg.artist, bg.title)) : null,
+      blendGroup: t.blendGroup || null,
     }));
 
   // Count stats
@@ -439,6 +507,19 @@ for (const [tlId, data] of setFiles) {
     }
   }
 
+  // Compute tracksIdentified/tracksTotal from actual data if metadata is missing
+  const isIDTrack = (artist, title) => {
+    const a = (artist || '').trim().toUpperCase();
+    const t = (title || '').trim().toUpperCase();
+    return a === 'ID' || t === 'ID' || a === '' || t === '' || t === 'ID?' || a === 'ID?';
+  };
+  const allNonBlend = tracks.filter(t => t.type !== 'blend');
+  const identifiedCount = allNonBlend.filter(t => !isIDTrack(t.artist, t.title)).length;
+  const totalCount = allNonBlend.length;
+
+  const tracksIdentified = (data.tracksIdentified > 0) ? data.tracksIdentified : identifiedCount;
+  const tracksTotal = (data.tracksTotal > 0) ? data.tracksTotal : totalCount;
+
   const setOutput = {
     tlId,
     dj: data.dj,
@@ -448,13 +529,14 @@ for (const [tlId, data] of setFiles) {
     date: data.date,
     year: data.year,
     genre: data.genre || '',
-    tracksIdentified: data.tracksIdentified || 0,
-    tracksTotal: data.tracksTotal || 0,
+    tracksIdentified,
+    tracksTotal,
     duration: data.duration || '',
     views: data.views || 0,
     likes: data.likes || 0,
     url: data.url || '',
     tracks,
+    recordings: data.recordings || [],
   };
 
   writeFileSync(join(OUT_SETS, `${tlId}.json`), JSON.stringify(setOutput));
@@ -463,10 +545,32 @@ for (const [tlId, data] of setFiles) {
 
 console.log(`  Wrote ${setsWritten} set files`);
 
+// Backfill index entries with computed tracksIdentified/tracksTotal
+let backfilled = 0;
+for (const entry of outputSets) {
+  if (entry.tracksIdentified === 0 && entry.tracksTotal === 0 && setFiles.has(entry.tlId)) {
+    const data = setFiles.get(entry.tlId);
+    const rawTracks = (data.tracks || []).filter(t => (t.type || 'normal') !== 'blend');
+    const isID = (a, t) => {
+      const au = (a || '').trim().toUpperCase();
+      const tu = (t || '').trim().toUpperCase();
+      return au === 'ID' || tu === 'ID' || au === '' || tu === '' || tu === 'ID?' || au === 'ID?';
+    };
+    entry.tracksTotal = rawTracks.length;
+    entry.tracksIdentified = rawTracks.filter(t => !isID(t.artist, t.title)).length;
+    if (entry.tracksTotal > 0) backfilled++;
+  }
+}
+console.log(`  Backfilled metadata for ${backfilled} sets`);
+
+// Re-write index with backfilled data
+writeFileSync(join(OUT_DIR, 'index.json'), JSON.stringify(indexOutput));
+
 // Summary
 console.log('\n═══ SUMMARY ═══');
 console.log(`Total sets in index: ${outputSets.length}`);
 console.log(`Scraped sets:        ${setsWritten}`);
+console.log(`Skipped (radio):     ${skippedRadio}`);
 console.log(`Years covered:       ${yearsInData[0]}–${yearsInData[yearsInData.length - 1]} (${yearsInData.length} years)`);
 console.log(`Unique DJs:          ${allDJSlugs.size}`);
 console.log(`Total normal tracks: ${totalTracks}`);

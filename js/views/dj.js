@@ -1,17 +1,29 @@
 /**
- * dj.js — DJ Detail view (magazine-style layout)
+ * dj.js — DJ Detail view (story-driven layout)
  * Route: #/dj/{slug}
+ *
+ * Tells the story of a DJ at Ultra: their patterns, anthems, and actual setlists.
  */
 
-import { getDJHistory, getDJStats, getDJStreak, getDJRepeatRate, getDJPopularTracks, loadSet, loadAllSets, isAllLoaded, trackKey } from '../data.js?v=2';
-import { CONFIG, getStageColor } from '../config.js?v=2';
-import { fmt, stageBadge, navigateTo } from '../app.js?v=2';
+import { getDJHistory, getDJStats, getDJStreak, getDJRepeatRate, getDJPopularTracks, loadSet, loadAllSets, isAllLoaded, trackKey } from '../data.js?v=5';
+import { CONFIG, getStageColor } from '../config.js?v=5';
+import { fmt, stageBadge, navigateTo } from '../app.js?v=5';
 
 let _cleanup = [];
 
 export function destroy() {
   _cleanup.forEach(fn => fn());
   _cleanup = [];
+}
+
+function formatDate(dateStr) {
+  if (!dateStr) return '\u2014';
+  try {
+    const d = new Date(dateStr + 'T00:00:00');
+    return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+  } catch {
+    return dateStr;
+  }
 }
 
 export async function render(container, index, params) {
@@ -37,8 +49,8 @@ export async function render(container, index, params) {
   const uniqueYears = years.length;
   const streak = getDJStreak(slug);
 
-  // Avg ID rate
-  const withTracks = history.filter(s => s.tracksTotal > 0);
+  // Avg ID rate (tracksTotal is now always computed if set data exists)
+  const withTracks = history.filter(s => s.tracksTotal > 0 && s.hasSetFile);
   const avgIdRate = withTracks.length > 0
     ? withTracks.reduce((sum, s) => sum + (s.tracksIdentified / s.tracksTotal), 0) / withTracks.length
     : 0;
@@ -72,17 +84,17 @@ export async function render(container, index, params) {
 
   const yearTrackCounts = {};
   for (const s of history) {
-    yearTrackCounts[s.year] = (yearTrackCounts[s.year] || 0) + (s.tracksIdentified || 0);
+    yearTrackCounts[s.year] = (yearTrackCounts[s.year] || 0) + (s.tracksTotal || s.tracksIdentified || 0);
   }
   const maxTrackCount = Math.max(1, ...Object.values(yearTrackCounts));
 
-  // Build year info map for popup
+  // Build year info map
   const yearInfoMap = {};
   for (const s of history) {
-    if (!yearInfoMap[s.year]) yearInfoMap[s.year] = { sets: 0, stages: [], tracks: 0 };
-    yearInfoMap[s.year].sets++;
+    if (!yearInfoMap[s.year]) yearInfoMap[s.year] = { sets: [], stages: [], tracks: 0 };
+    yearInfoMap[s.year].sets.push(s);
     if (!yearInfoMap[s.year].stages.includes(s.stage)) yearInfoMap[s.year].stages.push(s.stage);
-    yearInfoMap[s.year].tracks += (s.tracksIdentified || 0);
+    yearInfoMap[s.year].tracks += (s.tracksTotal || s.tracksIdentified || 0);
   }
 
   let timelineColsHtml = '';
@@ -92,7 +104,7 @@ export async function render(container, index, params) {
     const size = active ? Math.max(10, Math.round(8 + 16 * (trackCount / maxTrackCount))) : 6;
     const bg = active ? 'var(--purple-lt)' : 'rgba(100,116,139,0.3)';
     const opacity = active ? '1' : '0.3';
-    timelineColsHtml += `<div class="timeline-year-col${active ? ' active' : ''}" data-year="${y}" style="opacity:${opacity};">
+    timelineColsHtml += `<div class="timeline-year-col${active ? ' active' : ''}" data-year="${y}" style="opacity:${opacity};cursor:${active ? 'pointer' : 'default'};">
       <div class="timeline-dot" style="width:${size}px;height:${size}px;background:${bg};"></div>
       <span class="year-label">${y}</span>
     </div>`;
@@ -115,31 +127,13 @@ export async function render(container, index, params) {
   }
   const b2bPartners = [...b2bMap.values()].sort((a, b) => b.count - a.count);
 
-  const b2bHtml = b2bPartners.length > 0
-    ? b2bPartners.map(p =>
-      `<a class="dj-link" href="#/dj/${p.slug}" style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;background:var(--surface2);border-radius:8px;font-size:0.8125rem;margin:0 6px 6px 0;">
-        ${p.name}
-        <span class="pill pill-purple">${p.count}x</span>
-        <span style="font-size:0.6875rem;color:var(--muted)">${p.years.join(', ')}</span>
-      </a>`
-    ).join('')
-    : '<div style="color:var(--muted);font-size:0.875rem;">No B2B sets found.</div>';
-
-  // ── Set history table ──────────────────────────────
-  const sortedHistory = [...history].sort((a, b) => b.date.localeCompare(a.date));
-  const setTableRowsHtml = sortedHistory.map(s => {
-    const dateFormatted = formatDate(s.date);
-    const duration = s.duration || '\u2014';
-    const tracks = s.tracksTotal > 0 ? `${s.tracksIdentified}/${s.tracksTotal}` : '\u2014';
-    const url = `https://www.1001tracklists.com/tracklist/${s.tlId}/`;
-    return `<tr>
-      <td>${dateFormatted}</td>
-      <td>${stageBadge(s.stage)}</td>
-      <td>${duration}</td>
-      <td>${tracks}</td>
-      <td><a href="${url}" target="_blank" rel="noopener" class="ext-link" style="color:var(--purple-lt);font-size:0.8125rem;">1001TL</a></td>
-    </tr>`;
-  }).join('');
+  // ── Sets by Year data ──────────────────────────────
+  const setsByYear = {};
+  for (const s of history) {
+    if (!setsByYear[s.year]) setsByYear[s.year] = [];
+    setsByYear[s.year].push(s);
+  }
+  const sortedYears = Object.keys(setsByYear).sort((a, b) => Number(b) - Number(a));
 
   // ── Render page ────────────────────────────────────
   container.innerHTML = `
@@ -172,7 +166,7 @@ export async function render(container, index, params) {
         <div class="stat-number">${(avgIdRate * 100).toFixed(0)}%</div>
         <div class="stat-label">Avg ID Rate</div>
       </div>
-      <div class="stat-tooltip" data-tip="% of tracks this DJ has played more than once across their Ultra sets — higher = more consistent setlist">
+      <div class="stat-tooltip" data-tip="% of tracks this DJ has played more than once across their Ultra sets">
         <div class="stat-card">
           <div class="stat-number" id="dj-repeat-rate">\u2014</div>
           <div class="stat-label">Track Repeat Rate</div>
@@ -180,7 +174,7 @@ export async function render(container, index, params) {
       </div>
       <div class="stat-card">
         <div class="stat-number" id="dj-unique-tracks">\u2014</div>
-        <div class="stat-label">Total Unique Tracks</div>
+        <div class="stat-label">Unique Tracks</div>
       </div>
     </div>
 
@@ -191,7 +185,7 @@ export async function render(container, index, params) {
         <div class="timeline-interactive" id="dj-timeline">
           ${timelineColsHtml}
         </div>
-        <div class="timeline-popup hidden" id="timeline-popup"></div>
+        <div id="timeline-expanded" style="overflow:hidden;transition:max-height 0.3s ease;max-height:0;"></div>
       </div>
     </div>
 
@@ -206,12 +200,29 @@ export async function render(container, index, params) {
       </div>
     </div>
 
-    <!-- 5. B2B Partners -->
+    <!-- 5. Signature Tracks (Anthems) -->
+    <div class="card" style="margin-bottom:24px;" id="anthems-section">
+      <div class="card-header">
+        <div class="card-title" style="font-size:1rem;">Signature Tracks</div>
+        <div class="text-muted" style="font-size:0.75rem;">Tracks played across 2+ years at Ultra</div>
+      </div>
+      <div id="anthems-list">
+        <div style="color:var(--muted);font-size:0.875rem;padding:8px 0;">Loading track data...</div>
+      </div>
+    </div>
+
+    <!-- 6. B2B Partners -->
     ${b2bPartners.length > 0 ? `
     <div class="card" style="margin-bottom:24px;">
       <div class="card-header"><div class="card-title">B2B Partners</div></div>
-      <div style="display:flex;flex-wrap:wrap;">
-        ${b2bHtml}
+      <div style="display:flex;flex-wrap:wrap;gap:6px;">
+        ${b2bPartners.map(p =>
+          `<a class="dj-link" href="#/dj/${p.slug}" style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;background:var(--surface2);border-radius:8px;font-size:0.8125rem;transition:background var(--transition);" onmouseover="this.style.background='var(--surface3)'" onmouseout="this.style.background='var(--surface2)'">
+            ${p.name}
+            <span class="pill pill-purple">${p.count}x</span>
+            <span style="font-size:0.6875rem;color:var(--muted)">${p.years.join(', ')}</span>
+          </a>`
+        ).join('')}
       </div>
     </div>` : ''}
 
@@ -221,92 +232,97 @@ export async function render(container, index, params) {
       <div class="progress-bar-container"><div class="progress-bar" id="dj-loading-progress" style="width:0%"></div></div>
     </div>
 
-    <!-- 6. Most Played Tracks -->
-    <div class="card" style="margin-bottom:24px;" id="most-played-section">
-      <div class="card-header">
-        <div class="card-title">MOST PLAYED TRACKS</div>
-        <div class="text-muted" style="font-size:0.75rem;">Tracks played in 2+ different years</div>
-      </div>
-      <div id="most-played-list">
-        <div style="color:var(--muted);font-size:0.875rem;">Loading...</div>
-      </div>
-    </div>
-
-    <!-- 7. Their Most Popular Tracks -->
-    <div class="card" style="margin-bottom:24px;display:none;" id="popular-tracks-section">
-      <div class="card-header">
-        <div class="card-title">THEIR MOST POPULAR TRACKS</div>
-        <div class="text-muted" style="font-size:0.75rem;">Tracks by ${djName} played by other DJs at Ultra</div>
-      </div>
-      <div id="popular-tracks-list"></div>
-    </div>
-
-    <!-- 8. Set History Table -->
-    <div class="card">
-      <div class="card-header"><div class="card-title">Set History</div></div>
-      <div style="overflow-x:auto;">
-        <table class="data-table">
-          <thead>
-            <tr>
-              <th>Date</th>
-              <th>Stage</th>
-              <th>Duration</th>
-              <th>Tracks</th>
-              <th>Link</th>
-            </tr>
-          </thead>
-          <tbody>
-            ${setTableRowsHtml}
-          </tbody>
-        </table>
+    <!-- 7. Sets by Year (Accordions with quick peek) -->
+    <div style="margin-bottom:24px;">
+      <div style="font-size:1rem;font-weight:600;text-transform:uppercase;letter-spacing:0.05em;color:var(--text-bright);margin-bottom:12px;">Sets by Year</div>
+      <div id="sets-by-year">
+        ${sortedYears.map(year => {
+          const setsThisYear = setsByYear[year];
+          const stagesThisYear = [...new Set(setsThisYear.map(s => s.stage))];
+          return `
+            <div class="accordion-item" data-year="${year}">
+              <div class="accordion-header">
+                <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
+                  <span style="font-weight:700;font-size:1.125rem;color:var(--purple-lt);">${year}</span>
+                  <span class="pill">${setsThisYear.length} set${setsThisYear.length > 1 ? 's' : ''}</span>
+                  <span style="font-size:0.75rem;color:var(--muted);">${stagesThisYear.join(', ')}</span>
+                </div>
+                <span class="arrow">&#9654;</span>
+              </div>
+              <div class="accordion-body">
+                <div class="accordion-body-inner" id="year-sets-${year}">
+                  <div style="color:var(--muted);font-size:0.8125rem;">Loading...</div>
+                </div>
+              </div>
+            </div>`;
+        }).join('')}
       </div>
     </div>
   `;
 
   // ── Timeline click interaction ─────────────────────
   const timelineEl = document.getElementById('dj-timeline');
-  const popupEl = document.getElementById('timeline-popup');
-  let activePopupYear = null;
+  const expandedEl = document.getElementById('timeline-expanded');
+  let activeTimelineYear = null;
 
-  function showTimelinePopup(yearCol, year) {
+  function expandTimelineYear(year) {
     const info = yearInfoMap[year];
     if (!info) return;
-    popupEl.innerHTML = `<strong>${year}: ${info.sets} set${info.sets > 1 ? 's' : ''}</strong><br>${info.stages.join(', ')}<br>${info.tracks} tracks ID'd`;
-    popupEl.classList.remove('hidden');
 
-    // Position above the dot
-    const colRect = yearCol.getBoundingClientRect();
-    const containerRect = timelineEl.parentElement.getBoundingClientRect();
-    const left = colRect.left - containerRect.left + colRect.width / 2;
-    popupEl.style.left = `${left}px`;
-    popupEl.style.transform = 'translateX(-50%)';
-    popupEl.style.bottom = 'auto';
-    popupEl.style.top = `${colRect.top - containerRect.top - popupEl.offsetHeight - 8}px`;
-    activePopupYear = year;
+    // Highlight the clicked dot
+    timelineEl.querySelectorAll('.timeline-year-col').forEach(col => {
+      col.style.outline = '';
+    });
+    const activeCol = timelineEl.querySelector(`.timeline-year-col[data-year="${year}"]`);
+    if (activeCol) {
+      activeCol.style.outline = '2px solid var(--purple-lt)';
+      activeCol.style.outlineOffset = '3px';
+      activeCol.style.borderRadius = '8px';
+    }
+
+    const setsHtml = info.sets.map(s => {
+      const dateStr = formatDate(s.date);
+      return `<div style="display:inline-flex;align-items:center;gap:8px;padding:6px 10px;background:var(--surface2);border-radius:8px;font-size:0.8125rem;">
+        <span style="color:var(--muted-lt);">${dateStr}</span>
+        ${stageBadge(s.stage)}
+        ${s.duration ? `<span style="color:var(--muted);font-size:0.75rem;">${s.duration}</span>` : ''}
+        <a href="#/set/${s.tlId}" style="color:var(--purple-lt);font-size:0.75rem;">View set &rarr;</a>
+      </div>`;
+    }).join('');
+
+    expandedEl.innerHTML = `<div style="padding:12px 0;display:flex;flex-wrap:wrap;gap:8px;">
+      <div style="font-size:0.8125rem;font-weight:600;color:var(--text-bright);width:100%;margin-bottom:4px;">${year}: ${info.sets.length} set${info.sets.length > 1 ? 's' : ''}, ${info.tracks} tracks ID'd</div>
+      ${setsHtml}
+    </div>`;
+    expandedEl.style.maxHeight = '300px';
+    activeTimelineYear = year;
   }
 
-  function hideTimelinePopup() {
-    popupEl.classList.add('hidden');
-    activePopupYear = null;
+  function collapseTimeline() {
+    expandedEl.style.maxHeight = '0';
+    timelineEl.querySelectorAll('.timeline-year-col').forEach(col => {
+      col.style.outline = '';
+    });
+    activeTimelineYear = null;
   }
 
   function onTimelineClick(e) {
     const col = e.target.closest('.timeline-year-col.active');
     if (!col) {
-      hideTimelinePopup();
+      collapseTimeline();
       return;
     }
     const year = parseInt(col.dataset.year, 10);
-    if (activePopupYear === year) {
-      hideTimelinePopup();
+    if (activeTimelineYear === year) {
+      collapseTimeline();
     } else {
-      showTimelinePopup(col, year);
+      expandTimelineYear(year);
     }
   }
 
   function onDocumentClick(e) {
-    if (!e.target.closest('.timeline-interactive') && !e.target.closest('.timeline-popup')) {
-      hideTimelinePopup();
+    if (!e.target.closest('.timeline-interactive') && !e.target.closest('#timeline-expanded')) {
+      collapseTimeline();
     }
   }
 
@@ -319,7 +335,97 @@ export async function render(container, index, params) {
     });
   }
 
-  // ── Load all sets for sections 6, 7, and stat updates ──
+  // ── Year accordion interaction ─────────────────────
+  // Track which years have been loaded and opened
+  const loadedYears = new Set();
+  const setsByYearEl = document.getElementById('sets-by-year');
+
+  if (setsByYearEl) {
+    const onAccordionClick = async (e) => {
+      const header = e.target.closest('.accordion-header');
+      if (!header) return;
+      const item = header.closest('.accordion-item');
+      if (!item) return;
+      const year = item.dataset.year;
+
+      const wasOpen = item.classList.contains('open');
+      item.classList.toggle('open');
+
+      // If opening and not yet loaded, load the sets for this year
+      if (!wasOpen && !loadedYears.has(year)) {
+        loadedYears.add(year);
+        const bodyEl = document.getElementById(`year-sets-${year}`);
+        if (!bodyEl) return;
+
+        const setsThisYear = setsByYear[year];
+        bodyEl.innerHTML = setsThisYear.map(s => {
+          const dateStr = formatDate(s.date);
+          const stageColor = getStageColor(s.stage);
+          return `<div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-sm);padding:14px 16px;margin-bottom:10px;">
+            <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:8px;">
+              <span style="font-size:0.8125rem;color:var(--muted-lt);">${dateStr}</span>
+              ${stageBadge(s.stage)}
+              ${s.duration ? `<span style="font-size:0.75rem;color:var(--muted);">${s.duration}</span>` : ''}
+              <span style="font-size:0.75rem;color:var(--muted);">${s.tracksIdentified > 0 ? `${s.tracksIdentified}/${s.tracksTotal} tracks` : s.hasSetFile ? 'tracks available' : 'no data'}</span>
+              <a href="#/set/${s.tlId}" style="color:var(--purple-lt);font-size:0.8125rem;margin-left:auto;">View full set &rarr;</a>
+            </div>
+            <div id="quick-peek-${s.tlId}" style="border-top:1px solid var(--border);padding-top:8px;">
+              <div style="color:var(--muted);font-size:0.75rem;">Loading tracklist...</div>
+            </div>
+          </div>`;
+        }).join('');
+
+        // Load each set and show a quick peek of the first 5 tracks
+        for (const s of setsThisYear) {
+          loadSet(s.tlId).then(setData => {
+            const peekEl = document.getElementById(`quick-peek-${s.tlId}`);
+            if (!peekEl || !setData) return;
+
+            const tracks = (setData.tracks || []).filter(t => t.type === 'normal' || t.type === 'blend');
+            const previewTracks = tracks.slice(0, 5);
+
+            if (previewTracks.length === 0) {
+              peekEl.innerHTML = `<div style="color:var(--muted);font-size:0.75rem;font-style:italic;">No track data available.</div>`;
+              return;
+            }
+
+            const trackListHtml = previewTracks.map((t, i) => {
+              const isID = isIDTrack(t.artist, t.title);
+              if (isID) {
+                return `<div style="display:flex;align-items:baseline;gap:8px;padding:3px 0;">
+                  <span style="color:var(--muted);font-size:0.6875rem;width:18px;text-align:right;flex-shrink:0;">${i + 1}</span>
+                  <span style="font-size:0.8125rem;color:var(--muted);">ID \u2014 ID</span>
+                </div>`;
+              }
+              const key = trackKey(t.artist, t.title);
+              const encodedKey = encodeURIComponent(key);
+              return `<div style="display:flex;align-items:baseline;gap:8px;padding:3px 0;">
+                <span style="color:var(--muted);font-size:0.6875rem;width:18px;text-align:right;flex-shrink:0;">${i + 1}</span>
+                <a href="#/track/${encodedKey}" class="track-link" style="font-size:0.8125rem;">
+                  <span style="font-weight:500;">${t.artist}</span>
+                  <span style="color:var(--muted-lt);"> \u2014 ${t.title}</span>
+                  ${t.remix ? `<span style="color:var(--muted);font-size:0.75rem;"> (${t.remix})</span>` : ''}
+                </a>
+              </div>`;
+            }).join('');
+
+            const remaining = tracks.length - 5;
+            peekEl.innerHTML = `
+              ${trackListHtml}
+              ${remaining > 0 ? `<a href="#/set/${s.tlId}" style="display:inline-block;margin-top:6px;font-size:0.75rem;color:var(--purple-lt);">+ ${remaining} more tracks \u2014 View full set &rarr;</a>` : ''}
+            `;
+          });
+        }
+      }
+    };
+
+    setsByYearEl.addEventListener('click', onAccordionClick);
+    _cleanup.push(() => {
+      setsByYearEl.removeEventListener('click', onAccordionClick);
+    });
+  }
+
+  // ── Load all sets for anthems, repeat rate, unique tracks ──
   if (!isAllLoaded()) {
     const loadingBar = document.getElementById('dj-loading-bar');
     const loadingLabel = document.getElementById('dj-loading-label');
@@ -347,59 +453,38 @@ export async function render(container, index, params) {
   const uniqueTracksEl = document.getElementById('dj-unique-tracks');
   if (uniqueTracksEl) uniqueTracksEl.textContent = fmt(repeatData.totalUniqueTracks);
 
-  // ── Section 6: Most Played Tracks ──────────────────
+  // ── Section 5: Signature Tracks (Anthems) ──────────
   if (stats) {
-    const listEl = document.getElementById('most-played-list');
+    const listEl = document.getElementById('anthems-list');
     if (listEl) {
       if (stats.anthems.length === 0) {
-        listEl.innerHTML = '<div style="color:var(--muted);font-size:0.875rem;">No tracks found that were played across multiple years.</div>';
+        listEl.innerHTML = '<div style="color:var(--muted);font-size:0.875rem;padding:8px 0;">No tracks found that were played across multiple years.</div>';
       } else {
         listEl.innerHTML = stats.anthems.map((a, i) => {
-          const yearPills = a.years.map(y => `<span class="pill pill-purple" style="margin-right:3px;font-size:0.6875rem;">${y}</span>`).join('');
+          const yearPills = a.years.map(y => `<span class="pill pill-purple" style="margin-right:3px;font-size:0.75rem;">${y}</span>`).join('');
           const encodedKey = encodeURIComponent(a.key);
-          return `<div style="display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--border);">
-            <span style="color:var(--muted);font-size:0.75rem;width:24px;text-align:right;flex-shrink:0;">${i + 1}</span>
-            <a href="#/track/${encodedKey}" class="track-link" style="flex:1;min-width:0;">
-              <span style="font-size:0.875rem;font-weight:500;">${a.artist}</span>
-              <span style="color:var(--muted);font-size:0.8125rem;"> \u2014 ${a.title}</span>
-            </a>
-            <div style="display:flex;flex-wrap:wrap;gap:3px;flex-shrink:0;">
-              ${yearPills}
+          return `<div style="display:flex;align-items:center;gap:12px;padding:12px 0;${i < stats.anthems.length - 1 ? 'border-bottom:1px solid var(--border);' : ''}">
+            <span style="color:var(--muted);font-size:0.8125rem;width:28px;text-align:right;flex-shrink:0;font-weight:600;">${i + 1}</span>
+            <div style="flex:1;min-width:0;">
+              <a href="#/track/${encodedKey}" class="track-link" style="font-size:0.9375rem;">
+                <span style="font-weight:600;">${a.artist}</span>
+                <span style="color:var(--muted-lt);"> \u2014 ${a.title}</span>
+              </a>
+              <div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+                ${yearPills}
+              </div>
             </div>
-            <span class="pill" style="flex-shrink:0;">${a.count}x</span>
+            <span class="pill pill-purple" style="flex-shrink:0;font-size:0.8125rem;font-weight:600;">${a.count}x</span>
           </div>`;
         }).join('');
       }
     }
   }
-
-  // ── Section 7: Their Most Popular Tracks ───────────
-  const popularTracks = getDJPopularTracks(slug, djName);
-  const popularSection = document.getElementById('popular-tracks-section');
-  const popularList = document.getElementById('popular-tracks-list');
-
-  if (popularTracks.length > 0 && popularSection && popularList) {
-    popularSection.style.display = '';
-    popularList.innerHTML = popularTracks.map((t, i) => {
-      const encodedKey = encodeURIComponent(t.key);
-      return `<div style="display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--border);">
-        <span style="color:var(--muted);font-size:0.75rem;width:24px;text-align:right;flex-shrink:0;">${i + 1}</span>
-        <a href="#/track/${encodedKey}" class="track-link" style="flex:1;min-width:0;">
-          <span style="font-size:0.875rem;font-weight:500;">${t.artist}</span>
-          <span style="color:var(--muted);font-size:0.8125rem;"> \u2014 ${t.title}</span>
-        </a>
-        <span style="font-size:0.75rem;color:var(--muted);flex-shrink:0;">Played by ${t.otherDJCount} other DJ${t.otherDJCount !== 1 ? 's' : ''} (${t.otherDJPlays} times)</span>
-      </div>`;
-    }).join('');
-  }
 }
 
-function formatDate(dateStr) {
-  if (!dateStr) return '\u2014';
-  try {
-    const d = new Date(dateStr + 'T00:00:00');
-    return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
-  } catch {
-    return dateStr;
-  }
+function isIDTrack(artist, title) {
+  const a = (artist || '').toLowerCase().trim();
+  const t = (title || '').toLowerCase().trim();
+  return a === 'id' || t === 'id' || a === '' || t === '' ||
+    t.startsWith('id (') || t === 'id?' || a === 'id?';
 }

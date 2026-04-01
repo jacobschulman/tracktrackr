@@ -1,18 +1,15 @@
 /**
  * track.js — Track Detail view
  * Route: #/track/{encodedTrackKey}
+ *
+ * Typographic layout: champion DJ + cloud instead of bar charts.
  */
 
-import { loadAllSets, isAllLoaded, getTrackHistory, getTrackStreak, getBlendAppearances, getTopTracks, trackKey, parseTrackKey } from '../data.js?v=2';
-import { CONFIG, getStageColor } from '../config.js?v=2';
-import { fmt, stageBadge, navigateTo } from '../app.js?v=2';
+import { loadAllSets, isAllLoaded, getTrackHistory, getTrackStreak, getBlendAppearances, trackKey, parseTrackKey } from '../data.js?v=5';
+import { CONFIG, getStageColor } from '../config.js?v=5';
+import { fmt, stageBadge, navigateTo } from '../app.js?v=5';
 
-let charts = [];
-
-export function destroy() {
-  charts.forEach(c => c.destroy());
-  charts = [];
-}
+export function destroy() {}
 
 export async function render(container, index, params) {
   const rawKey = params[0];
@@ -27,7 +24,6 @@ export async function render(container, index, params) {
     return;
   }
 
-  // Display name with proper casing
   const displayArtist = titleCase(artist);
   const displayTitle = titleCase(title);
 
@@ -74,9 +70,14 @@ export async function render(container, index, params) {
 
   // Update play count badge
   const playCountEl = document.getElementById('track-play-count');
-  if (playCountEl) playCountEl.textContent = `${history.length} plays`;
+  if (playCountEl) {
+    const mashupPlays = history.filter(a => a.matchType === 'mashup-inferred').length;
+    playCountEl.textContent = mashupPlays > 0
+      ? `${history.length} plays (${mashupPlays} via mashup)`
+      : `${history.length} play${history.length !== 1 ? 's' : ''}`;
+  }
 
-  // Streak / orbit timeline
+  // ── Orbit Timeline ──────────────────────────────────────────────
   const minYear = CONFIG.years.min;
   const maxYear = CONFIG.years.max;
   const orbitByYear = streak.orbitByYear || {};
@@ -97,21 +98,106 @@ export async function render(container, index, params) {
     timelineLabelsHtml += `<div style="width:${size}px;text-align:center;font-size:0.5625rem;color:var(--muted);flex-shrink:0;">${showLabel ? y : ''}</div>`;
   }
 
-  // Play history table (newest first — already sorted by getTrackHistory)
+  // ── DJ play counts ──────────────────────────────────────────────
+  const djPlayCounts = {};
+  const djSlugMap = {};
+  const djYearsMap = {};
+  for (const a of history) {
+    const djName = a.dj;
+    djPlayCounts[djName] = (djPlayCounts[djName] || 0) + 1;
+    if (a.djSlugs && a.djSlugs[0]) {
+      djSlugMap[djName] = a.djSlugs[0];
+    }
+    if (!djYearsMap[djName]) djYearsMap[djName] = new Set();
+    djYearsMap[djName].add(a.year);
+  }
+
+  const sortedDJs = Object.entries(djPlayCounts).sort((a, b) => b[1] - a[1]);
+  const uniqueDJCount = sortedDJs.length;
+
+  // ── Champion section ────────────────────────────────────────────
+  const topDJ = sortedDJs[0];
+  const topName = topDJ[0];
+  const topCount = topDJ[1];
+  const topSlug = djSlugMap[topName] || '';
+  const topYears = djYearsMap[topName] ? [...djYearsMap[topName]].sort() : [];
+  const topYearsStr = topYears.join(', ');
+  const hasChampion = topCount > 1;
+  const otherDJCount = uniqueDJCount - 1;
+
+  let championHtml = '';
+  if (hasChampion) {
+    const nameLink = topSlug
+      ? `<a href="#/dj/${topSlug}" style="color:var(--green);text-decoration:none;">${topName}</a>`
+      : `<span style="color:var(--green);">${topName}</span>`;
+    championHtml = `
+      <div class="card" style="margin-bottom:24px;">
+        <div class="card-header"><div class="card-title">The Champion</div></div>
+        <div style="padding:8px 0 4px;">
+          <div style="font-size:1.5rem;font-weight:900;line-height:1.2;">${nameLink}</div>
+          <div style="font-size:0.875rem;color:var(--muted);margin-top:6px;">
+            played it <strong style="color:var(--text)">${topCount} times</strong> across ${topYearsStr}
+          </div>
+          ${otherDJCount > 0 ? `<div style="font-size:0.8125rem;color:var(--muted-lt);margin-top:12px;">and ${otherDJCount} other DJ${otherDJCount !== 1 ? 's' : ''}</div>` : ''}
+        </div>
+      </div>`;
+  }
+
+  // ── DJ Cloud ────────────────────────────────────────────────────
+  const cloudDJs = hasChampion ? sortedDJs.slice(1) : sortedDJs;
+  let cloudHtml = '';
+  if (cloudDJs.length > 0) {
+    const cloudItems = cloudDJs.map(([name, count]) => {
+      const slug = djSlugMap[name] || '';
+      const years = djYearsMap[name] ? [...djYearsMap[name]].sort() : [];
+      let fontSize, color;
+      if (count >= 3) {
+        fontSize = '1.125rem';
+        color = 'var(--green)';
+      } else if (count === 2) {
+        fontSize = '1rem';
+        color = 'var(--text)';
+      } else {
+        fontSize = '0.8125rem';
+        color = 'var(--muted-lt)';
+      }
+      const nameEl = slug
+        ? `<a href="#/dj/${slug}" style="color:${color};text-decoration:none;font-size:${fontSize};font-weight:${count >= 2 ? '700' : '400'};">${name}</a>`
+        : `<span style="color:${color};font-size:${fontSize};font-weight:${count >= 2 ? '700' : '400'};">${name}</span>`;
+      return `<div style="text-align:center;">
+        ${nameEl}
+        <div style="font-size:0.5625rem;color:var(--muted);margin-top:2px;">${years.join(', ')}${count > 1 ? ` (${count}x)` : ''}</div>
+      </div>`;
+    }).join('');
+
+    const cloudTitle = hasChampion ? 'Also Played By' : 'Played By';
+    cloudHtml = `
+      <div class="card" style="margin-bottom:24px;">
+        <div class="card-header"><div class="card-title">${cloudTitle}</div></div>
+        <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;padding:8px 0;">
+          ${cloudItems}
+        </div>
+      </div>`;
+  }
+
+  // ── Play History table ──────────────────────────────────────────
+  const mashupCount = history.filter(a => a.matchType === 'mashup-inferred').length;
   const tableRowsHtml = history.map(a => {
     const djSlug = a.djSlugs && a.djSlugs[0] ? a.djSlugs[0] : '';
     const dateFormatted = formatDate(a.date);
-    const type = a.pos && a.pos.startsWith('w/') ? '<span class="pill">blend</span>' : '<span class="pill pill-green">standalone</span>';
+    const inferredBadge = a.matchType === 'mashup-inferred'
+      ? ' <span title="Inferred from a mashup/medley entry on 1001Tracklists" style="font-size:0.625rem;color:var(--muted);cursor:help;border:1px solid var(--border);border-radius:4px;padding:1px 4px;">via mashup</span>'
+      : '';
     return `<tr>
       <td>${a.year}</td>
-      <td>${djSlug ? `<a href="#/dj/${djSlug}" class="dj-link">${a.dj}</a>` : a.dj}</td>
+      <td>${djSlug ? `<a href="#/dj/${djSlug}" class="dj-link">${a.dj}</a>` : a.dj}${inferredBadge}</td>
       <td>${stageBadge(a.stage)}</td>
       <td>${dateFormatted}</td>
-      <td>${type}</td>
+      <td>${a.tlId ? `<a href="#/set/${a.tlId}" class="track-link" style="font-size:0.8125rem;">View Set</a>` : '—'}</td>
     </tr>`;
   }).join('');
 
-  // Blend appearances
+  // ── Blend Appearances ───────────────────────────────────────────
   let blendsHtml = '';
   if (blends.length > 0) {
     blendsHtml = `
@@ -127,6 +213,7 @@ export async function render(container, index, params) {
               <th>Year</th>
               <th>DJ</th>
               <th>Blended With</th>
+              <th>Set</th>
             </tr>
           </thead>
           <tbody>
@@ -141,6 +228,7 @@ export async function render(container, index, params) {
                 <td>${b.year}</td>
                 <td>${djSlug ? `<a href="#/dj/${djSlug}" class="dj-link">${b.dj}</a>` : b.dj}</td>
                 <td>${pairedLinks}</td>
+                <td>${b.tlId ? `<a href="#/set/${b.tlId}" class="track-link" style="font-size:0.8125rem;">View Set</a>` : '—'}</td>
               </tr>`;
             }).join('')}
           </tbody>
@@ -149,19 +237,19 @@ export async function render(container, index, params) {
     </div>`;
   }
 
-  // Build DJ play counts for "Who Plays This Most" chart
-  const djPlayCounts = {};
-  const djSlugMap = {};
-  for (const a of history) {
-    const djName = a.dj;
-    djPlayCounts[djName] = (djPlayCounts[djName] || 0) + 1;
-    if (a.djSlugs && a.djSlugs[0]) {
-      djSlugMap[djName] = a.djSlugs[0];
-    }
+  // ── Assemble page ───────────────────────────────────────────────
+  const yearSpan = streak.years && streak.years.length > 0
+    ? `${Math.min(...streak.years)}–${Math.max(...streak.years)}`
+    : '';
+
+  // Update header with year span
+  const headerEl = container.querySelector('.detail-meta');
+  if (headerEl && yearSpan) {
+    const spanBadge = document.createElement('span');
+    spanBadge.className = 'pill';
+    spanBadge.textContent = yearSpan;
+    headerEl.appendChild(spanBadge);
   }
-  const sortedDJs = Object.entries(djPlayCounts)
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 15);
 
   const contentEl = document.getElementById('track-content');
   if (!contentEl) return;
@@ -196,7 +284,7 @@ export async function render(container, index, params) {
             <div class="stat-label">Years</div>
           </div>
           <div class="stat-card">
-            <div class="stat-number">${Object.keys(djPlayCounts).length}</div>
+            <div class="stat-number">${uniqueDJCount}</div>
             <div class="stat-label">Unique DJs</div>
           </div>
           <div class="stat-card">
@@ -207,20 +295,14 @@ export async function render(container, index, params) {
       </div>
     </div>
 
-    ${sortedDJs.length > 1 ? `
-    <div class="card" style="margin-bottom:24px;">
-      <div class="card-header">
-        <div class="card-title">Who Plays This Most</div>
-      </div>
-      <div class="chart-container" style="height:${Math.max(200, sortedDJs.length * 36)}px;">
-        <canvas id="track-dj-chart"></canvas>
-      </div>
-    </div>` : ''}
+    ${championHtml}
+
+    ${cloudHtml}
 
     <div class="card" style="margin-bottom:24px;">
       <div class="card-header">
         <div class="card-title">Play History</div>
-        <div class="text-muted" style="font-size:0.75rem;">${history.length} appearances</div>
+        <div class="text-muted" style="font-size:0.75rem;">${history.length} appearance${history.length !== 1 ? 's' : ''}</div>
       </div>
       <div style="overflow-x:auto;">
         <table class="data-table">
@@ -230,7 +312,7 @@ export async function render(container, index, params) {
               <th>DJ</th>
               <th>Stage</th>
               <th>Date</th>
-              <th>Type</th>
+              <th>Set</th>
             </tr>
           </thead>
           <tbody>
@@ -242,83 +324,6 @@ export async function render(container, index, params) {
 
     ${blendsHtml}
   `;
-
-  // Render "Who Plays This Most" chart
-  if (sortedDJs.length > 1 && typeof Chart !== 'undefined') {
-    const canvas = document.getElementById('track-dj-chart');
-    if (canvas) {
-      const labels = sortedDJs.map(([name]) => name);
-      const data = sortedDJs.map(([, count]) => count);
-
-      const chart = new Chart(canvas, {
-        type: 'bar',
-        data: {
-          labels,
-          datasets: [{
-            data,
-            backgroundColor: sortedDJs.map(([, count], i) => {
-              const opacity = 0.5 + (0.5 * (1 - i / sortedDJs.length));
-              return `rgba(0, 255, 136, ${opacity})`;
-            }),
-            borderColor: 'rgba(0, 255, 136, 0.6)',
-            borderWidth: 1,
-            borderRadius: 4,
-            barThickness: 24,
-          }],
-        },
-        options: {
-          indexAxis: 'y',
-          responsive: true,
-          maintainAspectRatio: false,
-          plugins: {
-            tooltip: {
-              callbacks: {
-                afterLabel: (ctx) => {
-                  const djName = sortedDJs[ctx.dataIndex][0];
-                  const djApps = history.filter(a => a.dj === djName);
-                  const djYears = [...new Set(djApps.map(a => a.year))].sort();
-                  return `Years: ${djYears.join(', ')}`;
-                },
-              },
-            },
-          },
-          scales: {
-            x: {
-              grid: { color: '#1e1e2e' },
-              ticks: {
-                color: '#94a3b8',
-                font: { size: 11 },
-                stepSize: 1,
-              },
-              title: { display: true, text: 'Play Count', color: '#64748b' },
-            },
-            y: {
-              grid: { display: false },
-              ticks: {
-                color: '#e2e8f0',
-                font: { size: 12 },
-              },
-            },
-          },
-          onClick: (e, elements) => {
-            if (elements.length > 0) {
-              const idx = elements[0].index;
-              const djName = sortedDJs[idx][0];
-              const djSlug = djSlugMap[djName];
-              if (djSlug) {
-                location.hash = `#/dj/${djSlug}`;
-              }
-            }
-          },
-          onHover: (e, elements) => {
-            e.native.target.style.cursor = elements.length ? 'pointer' : 'default';
-          },
-        },
-      });
-
-      charts.push(chart);
-    }
-  }
 }
 
 function formatDate(dateStr) {

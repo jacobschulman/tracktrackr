@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/style.css?v=5">
 </head>
 <body>
   <!-- Sidebar nav -->
@@ -20,13 +20,13 @@
 
     <div class="nav-links">
       <a href="#/" class="nav-link" data-view="overview">
-        <span class="nav-icon">▦</span> Overview
-      </a>
-      <a href="#/discoveries" class="nav-link" data-view="discoveries">
-        <span class="nav-icon">✦</span> Discoveries
+        <span class="nav-icon">◆</span> Home
       </a>
       <a href="#/djs" class="nav-link" data-view="djs">
         <span class="nav-icon">◎</span> DJs
+      </a>
+      <a href="#/tracks" class="nav-link" data-view="tracks">
+        <span class="nav-icon">♫</span> Tracks
       </a>
       <a href="#/year" class="nav-link" data-view="year">
         <span class="nav-icon">◷</span> Years
@@ -34,11 +34,17 @@
       <a href="#/stages" class="nav-link" data-view="stages">
         <span class="nav-icon">⬡</span> Stages
       </a>
-      <a href="#/labels" class="nav-link" data-view="labels">
-        <span class="nav-icon">↕</span> Labels
+
+      <div class="nav-divider"></div>
+
+      <a href="#/versus" class="nav-link" data-view="versus">
+        <span class="nav-icon">⚔</span> Versus
       </a>
-      <a href="#/b2b" class="nav-link" data-view="b2b">
-        <span class="nav-icon">⇆</span> B2B
+      <a href="#/journeys" class="nav-link" data-view="journeys">
+        <span class="nav-icon">↝</span> Journeys
+      </a>
+      <a href="#/dna" class="nav-link" data-view="dna">
+        <span class="nav-icon">◉</span> DNA
       </a>
     </div>
 
@@ -51,11 +57,11 @@
 
   <!-- Mobile bottom tab bar -->
   <nav id="mobile-tabs">
-    <a href="#/" class="tab-link" data-view="overview">▦<span>Overview</span></a>
-    <a href="#/discoveries" class="tab-link" data-view="discoveries">✦<span>Discover</span></a>
+    <a href="#/" class="tab-link" data-view="overview">◆<span>Home</span></a>
     <a href="#/djs" class="tab-link" data-view="djs">◎<span>DJs</span></a>
+    <a href="#/tracks" class="tab-link" data-view="tracks">♫<span>Tracks</span></a>
     <a href="#/year" class="tab-link" data-view="year">◷<span>Years</span></a>
-    <a href="#/stages" class="tab-link" data-view="stages">⬡<span>More</span></a>
+    <a href="#/stages" class="tab-link" data-view="stages">⬡<span>Stages</span></a>
   </nav>
 
   <!-- Main content -->
@@ -73,6 +79,6 @@
   <!-- CDN dependencies -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
-  <script type="module" src="js/app.js?v=2"></script>
+  <script type="module" src="js/app.js?v=5"></script>
 </body>
 </html>

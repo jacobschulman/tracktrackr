@@ -3,9 +3,9 @@
  * Route: #/b2b
  */
 
-import { getB2BSets, getB2BDetail, loadAllSets, isAllLoaded } from '../data.js?v=2';
-import { CONFIG, getStageColor } from '../config.js?v=2';
-import { fmt, stageBadge, navigateTo } from '../app.js?v=2';
+import { getB2BSets, getB2BDetail, loadAllSets, isAllLoaded } from '../data.js?v=5';
+import { CONFIG, getStageColor } from '../config.js?v=5';
+import { fmt, stageBadge, navigateTo } from '../app.js?v=5';
 
 let openPairKey = null;
 

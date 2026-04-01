@@ -3,9 +3,9 @@
  * Route: #/year or #/year/{year}
  */
 
-import { getYearStats, loadAllSets, isAllLoaded, getTopTracks } from '../data.js?v=2';
-import { CONFIG, getStageColor } from '../config.js?v=2';
-import { fmt, stageBadge, navigateTo } from '../app.js?v=2';
+import { getYearStats, loadAllSets, isAllLoaded, getTopTracks } from '../data.js?v=5';
+import { CONFIG, getStageColor } from '../config.js?v=5';
+import { fmt, stageBadge, navigateTo } from '../app.js?v=5';
 
 let charts = [];
 let selectedYear = null;
@@ -351,7 +351,7 @@ export async function render(container, index, params) {
       const tracksId = s.tracksIdentified || 0;
 
       return `
-        <div class="set-card" data-tlid="${s.tlId}">
+        <div class="set-card" data-tlid="${s.tlId}" onclick="location.hash='#/set/${s.tlId}'">
           <div class="set-card-dj">${djNames}</div>
           <div style="margin-bottom:6px">${stageBadge(s.stage)}</div>
           <div class="set-card-meta">

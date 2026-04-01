@@ -1,2 +1,7 @@
 .DS_Store
 .claude/
+scraper/
+tracklore_index_*.json
+data/ultra-miami/[0-9]*/
+data/ultra-miami/_manifest.txt
+mashup_resolution_review.md

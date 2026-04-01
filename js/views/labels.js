@@ -3,9 +3,9 @@
  * Route: #/labels
  */
 
-import { getLabelTimeline, loadAllSets, isAllLoaded } from '../data.js?v=2';
-import { CONFIG } from '../config.js?v=2';
-import { fmt } from '../app.js?v=2';
+import { getLabelTimeline, loadAllSets, isAllLoaded } from '../data.js?v=5';
+import { CONFIG } from '../config.js?v=5';
+import { fmt } from '../app.js?v=5';
 
 let charts = [];
 

@@ -3,9 +3,9 @@
  * Route: #/djs or #/heatmap
  */
 
-import { getDJHistory, getDJStreak, loadSet } from '../data.js?v=2';
-import { CONFIG, getStageColor } from '../config.js?v=2';
-import { fmt, navigateTo, stageBadge } from '../app.js?v=2';
+import { getDJHistory, getDJStreak, loadSet } from '../data.js?v=5';
+import { CONFIG, getStageColor } from '../config.js?v=5';
+import { fmt, navigateTo, stageBadge } from '../app.js?v=5';
 
 let tooltip = null;
 
@@ -74,8 +74,30 @@ export async function render(container, index, params) {
   const allDJs = buildDJData(index);
   const allStages = [...new Set(index.sets.map(s => s.stage))].sort();
 
+  // Find spotlight DJs
+  const topByYears = [...allDJs].sort((a, b) => b.yearsCount - a.yearsCount);
+  const topByStreak = [...allDJs].sort((a, b) => b.streak - a.streak);
+  const mostYears = topByYears[0];
+  const longestStreak = topByStreak[0];
+
   container.innerHTML = `
     <h2 style="margin-bottom:16px;">DJs</h2>
+
+    <!-- Insight cards -->
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:24px;">
+      ${mostYears ? `
+      <div class="card" style="border-left:3px solid var(--purple-lt);padding:16px 20px;cursor:pointer;" onclick="location.hash='#/dj/${encodeURIComponent(mostYears.slug)}'">
+        <div style="font-size:0.6875rem;color:var(--purple-lt);text-transform:uppercase;letter-spacing:0.05em;font-weight:600;margin-bottom:4px;">Most Tenured</div>
+        <div style="font-size:1.25rem;font-weight:900;color:var(--text-bright);margin-bottom:2px;">${mostYears.name}</div>
+        <div style="font-size:0.8125rem;color:var(--muted-lt);">${mostYears.yearsCount} years at Ultra (${mostYears.firstYear}\u2013${mostYears.lastYear})</div>
+      </div>` : ''}
+      ${longestStreak && longestStreak.streak > 1 ? `
+      <div class="card" style="border-left:3px solid var(--green);padding:16px 20px;cursor:pointer;" onclick="location.hash='#/dj/${encodeURIComponent(longestStreak.slug)}'">
+        <div style="font-size:0.6875rem;color:var(--green);text-transform:uppercase;letter-spacing:0.05em;font-weight:600;margin-bottom:4px;">Longest Streak</div>
+        <div style="font-size:1.25rem;font-weight:900;color:var(--text-bright);margin-bottom:2px;">${longestStreak.name}</div>
+        <div style="font-size:0.8125rem;color:var(--muted-lt);">${longestStreak.streak} consecutive years &middot; ${longestStreak.totalSets} total sets</div>
+      </div>` : ''}
+    </div>
 
     <!-- Section A: DJ Leaderboard -->
     <div class="card">

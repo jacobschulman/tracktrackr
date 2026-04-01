@@ -3,9 +3,9 @@
  * 10 discovery sections with Chart.js visualizations and scroll-reveal animations
  */
 
-import { loadAllSets, isAllLoaded, computeDiscoveries, getTopTracks, trackKey } from '../data.js?v=2';
-import { CONFIG, getStageColor } from '../config.js?v=2';
-import { fmt, stageBadge, navigateTo } from '../app.js?v=2';
+import { loadAllSets, isAllLoaded, computeDiscoveries, getTopTracks, trackKey } from '../data.js?v=5';
+import { CONFIG, getStageColor } from '../config.js?v=5';
+import { fmt, stageBadge, navigateTo } from '../app.js?v=5';
 
 let charts = [];
 let heroInterval = null;

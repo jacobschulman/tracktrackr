@@ -30,6 +30,42 @@ function isIDTrack(artist, title) {
     t.startsWith('id (') || t === 'id?' || a === 'id?';
 }
 
+// ── Canonical track grouping ──────────────────────
+// Strips remix/edit/bootleg suffixes and expands mashups ("vs.")
+// so all variants of a track are counted together.
+
+function _stripRemix(title) {
+  const stripped = title
+    .replace(/\s*[\(\[][^\)\]]*\b(remix|edit|bootleg|mashup|flip|mix|rework|version|vip|dub|re-?edit|tribute|instrumental|intro|original|feat\.?|ft\.?|featuring)\b[^\)\]]*[\)\]]/gi, '')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+  return stripped || title;
+}
+
+function _stripFeaturing(artist) {
+  const stripped = artist
+    .replace(/\s+(?:ft\.?|feat\.?|featuring)\s+.*/i, '')
+    .trim();
+  return stripped || artist;
+}
+
+function _expandTrack(artist, title) {
+  const cleanTitle = _stripRemix(title);
+  const titleParts = cleanTitle.split(/\s+vs\.?\s+/i);
+
+  if (titleParts.length > 1) {
+    const artistParts = artist.split(/\s+vs\.?\s+/i);
+    return titleParts.map((tp, i) => {
+      const a = _stripFeaturing((artistParts[i] || artistParts[0]).trim());
+      const t = tp.trim();
+      return { artist: a, title: t, key: trackKey(a, t), titleOnly: t.toLowerCase().trim() };
+    }).filter(p => !isIDTrack(p.artist, p.title));
+  }
+
+  const canonArtist = _stripFeaturing(artist);
+  return [{ artist: canonArtist, title: cleanTitle, key: trackKey(canonArtist, cleanTitle), titleOnly: null }];
+}
+
 // ═══════════════════════════════════════════════════
 // Loading
 // ═══════════════════════════════════════════════════
@@ -78,28 +114,120 @@ export function isAllLoaded() { return _allSetsLoaded; }
 // ── Build indexes after all sets loaded ────────────
 function _buildTrackIndex() {
   _trackIndex = new Map();
+  // First pass: index all tracks normally
+  const pendingTitleLookups = []; // mashup sub-tracks that might need title-based resolution
   for (const [tlId, setData] of _setCache) {
     if (!setData || !setData.tracks) continue;
+    const seenCanonical = new Set(); // dedup within a single set
+    // Collect all DJ slugs including aliases for this set
+    const djSlugs = _collectDJSlugs(setData.djs);
     for (const t of setData.tracks) {
-      if (t.type !== 'normal') continue;
+      // Count both normal and blend tracks as plays
+      if (t.type !== 'normal' && t.type !== 'blend') continue;
       if (isIDTrack(t.artist, t.title)) continue;
-      const key = trackKey(t.artist, t.title);
-      if (!_trackIndex.has(key)) _trackIndex.set(key, []);
-      _trackIndex.get(key).push({
-        tlId,
-        pos: t.pos,
-        year: setData.year,
-        dj: setData.dj,
-        djSlugs: (setData.djs || []).map(d => d.slug),
-        stage: setData.stage,
-        date: setData.date,
-        label: t.label || '',
-        artist: t.artist,
-        title: t.title,
-        remix: t.remix || '',
-      });
+
+      const expanded = _expandTrack(t.artist, t.title);
+      const appearance = {
+        tlId, pos: t.pos, year: setData.year, dj: setData.dj,
+        djSlugs, stage: setData.stage, date: setData.date,
+        label: t.label || '', remix: t.remix || '',
+      };
+      for (const { artist, title, key, titleOnly } of expanded) {
+        // Only count each canonical track once per set
+        const dedupKey = `${tlId}|||${key}`;
+        if (seenCanonical.has(dedupKey)) continue;
+        seenCanonical.add(dedupKey);
+
+        if (!_trackIndex.has(key)) _trackIndex.set(key, []);
+        _trackIndex.get(key).push({ ...appearance, artist, title });
+
+        // If this came from a mashup expansion, remember it for title-based resolution
+        if (titleOnly) {
+          pendingTitleLookups.push({ key, titleOnly, tlId, seenCanonical, appearance: { ...appearance, artist, title } });
+        }
+      }
     }
   }
+
+  // Second pass: for mashup sub-tracks, try to find an existing canonical entry
+  // by matching title AND requiring artist word overlap.
+  // Resolved plays are tagged matchType:'mashup' so the UI can flag them.
+  const titleToCanonical = new Map();
+  for (const [key, apps] of _trackIndex) {
+    const title = key.split('|||')[1];
+    if (!title) continue;
+    if (!titleToCanonical.has(title)) titleToCanonical.set(title, []);
+    titleToCanonical.get(title).push(key);
+  }
+
+  const _artistWords = (a) => {
+    const words = new Set();
+    for (const w of a.toLowerCase().split(/[\s&,]+/)) {
+      if (w.length > 2 && !['the','and','vs','feat','ft'].includes(w)) words.add(w);
+    }
+    return words;
+  };
+  const _artistsOverlap = (a1, a2) => {
+    const w1 = _artistWords(a1), w2 = _artistWords(a2);
+    for (const w of w1) { if (w2.has(w)) return true; }
+    return false;
+  };
+
+  let resolved = 0;
+  for (const { key, titleOnly, tlId, seenCanonical, appearance } of pendingTitleLookups) {
+    const mashupArtist = key.split('|||')[0];
+    const candidates = titleToCanonical.get(titleOnly) || [];
+
+    // Filter: must share artist words AND have >= 2 plays
+    const eligible = [];
+    for (const ck of candidates) {
+      if (ck === key) continue;
+      const apps = _trackIndex.get(ck);
+      if (!apps || apps.length < 2) continue;
+      if (_artistsOverlap(mashupArtist, ck.split('|||')[0])) {
+        eligible.push({ key: ck, count: apps.length });
+      }
+    }
+    if (eligible.length === 0) continue;
+
+    // Pick best candidate; require 2x dominance over runner-up
+    eligible.sort((a, b) => b.count - a.count);
+    const best = eligible[0];
+    const second = eligible[1];
+
+    // If ambiguous, only resolve if all candidates overlap with each other (same song, formatting variants)
+    if (second && best.count < second.count * 2) {
+      const allOverlap = eligible.every((a, i) =>
+        eligible.every((b, j) => i === j || _artistsOverlap(a.key.split('|||')[0], b.key.split('|||')[0]))
+      );
+      if (!allOverlap) continue;
+    }
+
+    const dedupKey = `${tlId}|||${best.key}`;
+    if (seenCanonical.has(dedupKey)) continue;
+    seenCanonical.add(dedupKey);
+
+    const canonApps = _trackIndex.get(best.key);
+    if (canonApps) {
+      // Tag as mashup-inferred so the UI can flag it
+      canonApps.push({ ...appearance, artist: canonApps[0].artist, title: canonApps[0].title, matchType: 'mashup-inferred' });
+      resolved++;
+    }
+  }
+  if (resolved > 0) console.log(`[data] Resolved ${resolved} mashup sub-tracks via title+artist matching`);
+}
+
+// Collect all slugs for a set's DJs, including their aliases
+function _collectDJSlugs(djs) {
+  if (!djs) return [];
+  const slugs = new Set();
+  for (const d of djs) {
+    slugs.add(d.slug);
+    if (d.aliases) {
+      for (const a of d.aliases) slugs.add(a);
+    }
+  }
+  return [...slugs];
 }
 
 function _buildBlendIndex() {
@@ -231,9 +359,30 @@ export function getBlendAppearances(artist, title) {
 
 export function getDJHistory(slug) {
   if (!_index) return [];
+  // Build set of slugs to match: the slug itself + any alias that references it
+  const matchSlugs = _getDJSlugsWithAliases(slug);
   return _index.sets
-    .filter(s => s.djs.some(d => d.slug === slug))
+    .filter(s => s.djs.some(d => matchSlugs.has(d.slug)))
     .sort((a, b) => a.date.localeCompare(b.date));
+}
+
+// Get all slugs that represent the same person/act
+function _getDJSlugsWithAliases(slug) {
+  if (!_index) return new Set([slug]);
+  const result = new Set([slug]);
+  // Find any DJ entry with this slug and collect its aliases
+  for (const s of _index.sets) {
+    for (const d of s.djs) {
+      if (d.slug === slug && d.aliases) {
+        for (const a of d.aliases) result.add(a);
+      }
+      // Also check if any DJ lists this slug as an alias
+      if (d.aliases && d.aliases.includes(slug)) {
+        result.add(d.slug);
+      }
+    }
+  }
+  return result;
 }
 
 export function getDJStats(slug) {
@@ -580,7 +729,7 @@ export function getYearStats(year) {
       if (setData.year !== year) continue;
       if (!setData.tracks) continue;
       for (const t of setData.tracks) {
-        if (t.type === 'normal') totalTracks++;
+        if (t.type === 'normal' || t.type === 'blend') totalTracks++;
         if (t.type === 'blend') totalBlends++;
       }
     }
@@ -673,6 +822,133 @@ export function getLabelTimeline() {
   });
 
   result.sort((a, b) => b.totalPlays - a.totalPlays);
+  return result;
+}
+
+
+// ═══════════════════════════════════════════════════
+// Year Spotlight (for homepage)
+// ═══════════════════════════════════════════════════
+
+export function getYearSpotlight(year) {
+  if (!_index) return null;
+
+  const yearSets = _index.sets.filter(s => s.year === year);
+  if (yearSets.length === 0) return null;
+
+  // DJs this year
+  const djMap = new Map();
+  for (const s of yearSets) {
+    for (const d of s.djs) {
+      if (!djMap.has(d.slug)) djMap.set(d.slug, { name: d.name, slug: d.slug, sets: 0 });
+      djMap.get(d.slug).sets++;
+    }
+  }
+
+  // All DJs across all years (for determining debuts/returns)
+  const djAllYears = new Map(); // slug -> Set<year>
+  for (const s of _index.sets) {
+    for (const d of s.djs) {
+      if (!djAllYears.has(d.slug)) djAllYears.set(d.slug, new Set());
+      djAllYears.get(d.slug).add(s.year);
+    }
+  }
+
+  // Debuts: DJs whose only year is this year
+  const debuts = [];
+  for (const [slug, info] of djMap) {
+    const allYears = djAllYears.get(slug);
+    if (allYears && allYears.size === 1 && allYears.has(year)) {
+      debuts.push(info);
+    }
+  }
+
+  // Comebacks: DJs who returned after 3+ years away
+  const comebacks = [];
+  for (const [slug, info] of djMap) {
+    const allYears = [...(djAllYears.get(slug) || [])].sort((a, b) => a - b);
+    const idx = allYears.indexOf(year);
+    if (idx > 0) {
+      const gap = year - allYears[idx - 1];
+      if (gap >= 3) {
+        comebacks.push({ ...info, gap, lastSeen: allYears[idx - 1] });
+      }
+    }
+  }
+  comebacks.sort((a, b) => b.gap - a.gap);
+
+  // Veterans: DJs with longest streak including this year
+  const veterans = [];
+  for (const [slug, info] of djMap) {
+    const allYears = [...(djAllYears.get(slug) || [])].sort((a, b) => a - b);
+    // Count consecutive years ending at `year`
+    let streak = 1;
+    const idx = allYears.indexOf(year);
+    for (let i = idx - 1; i >= 0; i--) {
+      if (allYears[i] === allYears[i + 1] - 1) streak++;
+      else break;
+    }
+    if (streak >= 3) {
+      veterans.push({ ...info, streak, since: year - streak + 1, totalYears: allYears.length });
+    }
+  }
+  veterans.sort((a, b) => b.streak - a.streak);
+
+  // Stages
+  const stages = {};
+  for (const s of yearSets) stages[s.stage] = (stages[s.stage] || 0) + 1;
+
+  const result = {
+    year,
+    setCount: yearSets.length,
+    djCount: djMap.size,
+    stageCount: Object.keys(stages).length,
+    stages,
+    debuts,
+    comebacks,
+    veterans: veterans.slice(0, 10),
+    sets: yearSets,
+  };
+
+  // Track-dependent data (requires all sets loaded)
+  if (_trackIndex) {
+    // Top tracks of the year
+    result.topTracks = getTopTracks(10, { year });
+
+    // DJs who repeated the most tracks from prior years
+    const repeatOffenders = [];
+    for (const [slug, info] of djMap) {
+      const djTrackKeys = new Set();
+      const repeatedFromPriorYears = [];
+
+      for (const [key, apps] of _trackIndex) {
+        const thisYearApps = apps.filter(a => a.djSlugs.includes(slug) && a.year === year);
+        const priorApps = apps.filter(a => a.djSlugs.includes(slug) && a.year < year);
+        if (thisYearApps.length > 0 && priorApps.length > 0) {
+          const priorYears = [...new Set(priorApps.map(a => a.year))].sort((a, b) => a - b);
+          repeatedFromPriorYears.push({
+            key,
+            artist: thisYearApps[0].artist,
+            title: thisYearApps[0].title,
+            priorYears,
+          });
+        }
+        if (thisYearApps.length > 0) djTrackKeys.add(key);
+      }
+
+      if (repeatedFromPriorYears.length > 0) {
+        repeatOffenders.push({
+          ...info,
+          repeatedTracks: repeatedFromPriorYears.sort((a, b) => b.priorYears.length - a.priorYears.length),
+          totalTracksThisYear: djTrackKeys.size,
+          repeatRate: djTrackKeys.size > 0 ? repeatedFromPriorYears.length / djTrackKeys.size : 0,
+        });
+      }
+    }
+    repeatOffenders.sort((a, b) => b.repeatedTracks.length - a.repeatedTracks.length);
+    result.repeatOffenders = repeatOffenders.slice(0, 10);
+  }
+
   return result;
 }
 

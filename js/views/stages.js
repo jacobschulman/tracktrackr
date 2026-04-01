@@ -3,9 +3,9 @@
  * Route: #/stages
  */
 
-import { getStageHistory } from '../data.js?v=2';
-import { CONFIG, getStageColor } from '../config.js?v=2';
-import { fmt, navigateTo } from '../app.js?v=2';
+import { getStageHistory } from '../data.js?v=5';
+import { CONFIG, getStageColor } from '../config.js?v=5';
+import { fmt, navigateTo } from '../app.js?v=5';
 
 let charts = [];
 let svgRef = null;
