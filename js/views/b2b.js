@@ -176,9 +176,7 @@ export async function render(container, index, params) {
                 <td>${stageBadge(s.stage)}</td>
                 <td>${durationMin ? `${durationMin} min` : '—'}</td>
                 <td>
-                  <a href="https://www.1001tracklists.com/tracklist/${s.tlId}" target="_blank" rel="noopener" class="ext-link" style="color:var(--purple-lt);font-size:0.8125rem;">
-                    1001TL
-                  </a>
+                  <a href="https://www.1001tracklists.com/tracklist/${s.tlId}/" target="_blank" rel="noopener" class="ext-link" style="color:var(--purple-lt);font-size:0.8125rem;">1001TL</a>
                 </td>
               </tr>
             `;

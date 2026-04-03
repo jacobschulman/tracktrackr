@@ -109,7 +109,14 @@ function renderTrackOfFestival(spotlight) {
 
   const t = tracks[0];
   const encodedKey = encodeURIComponent(t.key);
-  const djList = (t.djs || []).slice(0, 8);
+
+  // Build set links — map each tlId to the DJ who played it
+  const setLinks = (t.tlIds || []).slice(0, 8).map(tlId => {
+    const setObj = spotlight.sets.find(s => s.tlId === tlId);
+    if (!setObj) return '';
+    const djName = setObj.dj || setObj.djs.map(d => d.name).join(' & ');
+    return `<a href="#/set/${tlId}" class="pill pill-purple dj-link" style="text-decoration:none">${escHtml(djName)}</a>`;
+  }).filter(Boolean).join('');
 
   return `
     <div class="card" style="margin-bottom:24px">
@@ -123,14 +130,11 @@ function renderTrackOfFestival(spotlight) {
         </a>
         <div style="margin-top:12px;color:var(--muted);font-size:0.9rem">
           Played <strong style="color:var(--green)">${t.playCount}</strong> time${t.playCount !== 1 ? 's' : ''}
-          across ${t.djs.length} DJ${t.djs.length !== 1 ? 's' : ''}
+          across ${t.tlIds.length} set${t.tlIds.length !== 1 ? 's' : ''}
         </div>
         <div style="margin-top:14px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center">
-          ${djList.map(slug => {
-            const name = djDisplayName(slug, spotlight);
-            return `<a href="#/dj/${slug}" class="pill pill-purple dj-link" style="text-decoration:none">${escHtml(name)}</a>`;
-          }).join('')}
-          ${t.djs.length > 8 ? `<span class="pill" style="opacity:0.6">+${t.djs.length - 8} more</span>` : ''}
+          ${setLinks}
+          ${t.tlIds.length > 8 ? `<span class="pill" style="opacity:0.6">+${t.tlIds.length - 8} more</span>` : ''}
         </div>
       </div>
     </div>`;

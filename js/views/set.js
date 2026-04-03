@@ -42,6 +42,28 @@ export async function render(container, index, params) {
   const tracks = setData.tracks || [];
   const normalTracks = tracks.filter(t => t.type === 'normal' || t.type === 'blend');
 
+  // Build recording embeds/links
+  const recordings = setData.recordings || [];
+  const ytRec = recordings.find(r => r.platform === 'youtube');
+  const scRec = recordings.find(r => r.platform === 'soundcloud');
+  let recordingLinksHtml = '';
+  if (ytRec || scRec) {
+    let parts = [];
+    if (ytRec) {
+      const ytId = ytRec.url.includes('youtube.com/watch') ? new URL(ytRec.url).searchParams.get('v') : ytRec.url.split('/').pop();
+      parts.push(`<div style="border-radius:8px;overflow:hidden;flex:1;min-width:280px;max-width:560px;">
+        <iframe width="100%" height="160" src="https://www.youtube.com/embed/${ytId}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="display:block;"></iframe>
+      </div>`);
+    }
+    if (scRec) {
+      const scWidgetUrl = `https://w.soundcloud.com/player/?url=${encodeURIComponent(scRec.url)}&color=%23f97316&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=false`;
+      parts.push(`<div style="border-radius:8px;overflow:hidden;flex:1;min-width:280px;max-width:560px;">
+        <iframe width="100%" height="120" scrolling="no" frameborder="no" src="${scWidgetUrl}" style="display:block;"></iframe>
+      </div>`);
+    }
+    recordingLinksHtml = `<div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:16px;">${parts.join('')}</div>`;
+  }
+
   container.innerHTML = `
     <div class="set-detail-hero" style="border-left: 4px solid ${stageColor}; padding-left: 20px; margin-bottom: 32px;">
       <div style="font-size: 0.75rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">${setData.year} &middot; ${setData.stage}</div>
@@ -58,6 +80,7 @@ export async function render(container, index, params) {
         <span class="separator">&middot;</span>
         <a href="https://www.1001tracklists.com/tracklist/${tlId}/" target="_blank" rel="noopener" class="ext-link" style="color:var(--purple-lt);font-size:0.8125rem;">1001Tracklists</a>
       </div>
+      ${recordingLinksHtml}
     </div>
 
     ${otherSets.length > 0 ? `
@@ -222,6 +245,7 @@ function renderTracklist(tracks, enriched, index, setData, djSlug) {
       continue;
     }
 
+    const spotifyQ = encodeURIComponent(`${t.artist} ${t.title}`);
     html += `
       <div class="set-track">
         <div class="set-track-pos">${t.pos || ''}</div>
@@ -236,6 +260,7 @@ function renderTracklist(tracks, enriched, index, setData, djSlug) {
         <div class="set-track-badges">
           ${anthemYears ? `<span class="pill pill-purple" title="Also played by ${setData.dj} in ${anthemYears.join(', ')}" style="font-size:0.625rem;cursor:help;">&#9733; ${anthemYears.length}yr</span>` : ''}
           ${otherDJCount ? `<span class="pill" title="${otherDJCount} other DJs played this" style="font-size:0.625rem;cursor:help;">${otherDJCount} DJs</span>` : ''}
+          <a href="https://open.spotify.com/search/${spotifyQ}" target="_blank" rel="noopener" title="Search on Spotify" class="spotify-link" style="font-size:0.625rem;color:var(--green);opacity:0.4;text-decoration:none;transition:opacity var(--transition);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.4'">&#9835;</a>
         </div>
       </div>
       ${blendHtml}`;

@@ -148,7 +148,7 @@ function updateBreadcrumbs(view, params) {
     tracks: 'Tracks',
     track: 'Tracks',
     set: 'Sets',
-    year: 'Years',
+    year: 'Sets',
     stages: 'Stages',
     labels: 'Labels',
     versus: 'Versus',
@@ -201,7 +201,24 @@ let searchTimeout = null;
 function initSearch() {
   const input = searchInput();
   const results = searchResults();
+  const toggle = document.getElementById('search-toggle');
+  const container = document.getElementById('search-container');
   if (!input || !results) return;
+
+  // Mobile search toggle
+  if (toggle && container) {
+    toggle.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const isOpen = container.classList.toggle('search-open');
+      if (isOpen) {
+        input.focus();
+      } else {
+        input.blur();
+        input.value = '';
+        results.classList.add('hidden');
+      }
+    });
+  }
 
   input.addEventListener('input', () => {
     clearTimeout(searchTimeout);
@@ -218,6 +235,8 @@ function initSearch() {
   document.addEventListener('click', (e) => {
     if (!e.target.closest('#search-container')) {
       results.classList.add('hidden');
+      // Also close mobile search
+      if (container) container.classList.remove('search-open');
     }
   });
 
@@ -244,6 +263,7 @@ function initSearch() {
       focused.click();
     } else if (e.key === 'Escape') {
       results.classList.add('hidden');
+      if (container) container.classList.remove('search-open');
       input.blur();
     }
   });
@@ -258,13 +278,14 @@ function performSearch(query) {
     return;
   }
 
-  const q = query.toLowerCase();
+  const stripAccents = s => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  const q = stripAccents(query.toLowerCase());
 
   // Search DJs
   const djMap = new Map();
   for (const set of state.index.sets) {
     for (const dj of set.djs) {
-      if (dj.name.toLowerCase().includes(q) && !djMap.has(dj.slug)) {
+      if (stripAccents(dj.name.toLowerCase()).includes(q) && !djMap.has(dj.slug)) {
         djMap.set(dj.slug, dj.name);
       }
     }
@@ -276,7 +297,7 @@ function performSearch(query) {
   if (isAllLoaded()) {
     const allTracks = getTopTracks(5000);
     trackResults = allTracks
-      .filter(t => `${t.artist} ${t.title}`.toLowerCase().includes(q))
+      .filter(t => stripAccents(`${t.artist} ${t.title}`.toLowerCase()).includes(q))
       .slice(0, 8);
   }
 
@@ -321,6 +342,8 @@ function performSearch(query) {
       location.hash = item.dataset.href;
       results.classList.add('hidden');
       searchInput().value = '';
+      const sc = document.getElementById('search-container');
+      if (sc) sc.classList.remove('search-open');
     });
   });
 }

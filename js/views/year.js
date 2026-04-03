@@ -1,19 +1,20 @@
 /**
- * year.js — Year Browser view
+ * year.js — Sets Browser view (by year)
  * Route: #/year or #/year/{year}
  */
 
-import { getYearStats, loadAllSets, isAllLoaded, getTopTracks } from '../data.js?v=5';
+import { getYearStats, loadSet } from '../data.js?v=5';
 import { CONFIG, getStageColor } from '../config.js?v=5';
-import { fmt, stageBadge, navigateTo } from '../app.js?v=5';
+import { fmt, stageBadge } from '../app.js?v=5';
 
-let charts = [];
 let selectedYear = null;
+let activeStage = 'all';
+let sortOrder = 'date-asc'; // date-asc, date-desc
 
 export function destroy() {
-  charts.forEach(c => c.destroy());
-  charts = [];
   selectedYear = null;
+  activeStage = 'all';
+  sortOrder = 'date-asc';
 }
 
 export async function render(container, index, params) {
@@ -39,23 +40,20 @@ export async function render(container, index, params) {
   container.querySelectorAll('.year-pill').forEach(btn => {
     btn.addEventListener('click', () => {
       selectedYear = parseInt(btn.dataset.year);
+      activeStage = 'all';
+      sortOrder = 'date-asc';
       container.querySelectorAll('.year-pill').forEach(p => p.classList.remove('active'));
       btn.classList.add('active');
       renderContent();
     });
   });
 
-  // Initial render of content below pills
+  // Initial render
   renderContent();
 
-  /* ── Render everything below the year pills ──────── */
-  function renderContent() {
+  async function renderContent() {
     const content = document.getElementById('year-content');
     if (!content) return;
-
-    // Destroy previous charts
-    charts.forEach(c => c.destroy());
-    charts = [];
 
     const stats = getYearStats(selectedYear);
     if (!stats) {
@@ -63,7 +61,8 @@ export async function render(container, index, params) {
       return;
     }
 
-    const tracksIDd = stats.sets.reduce((sum, s) => sum + (s.tracksIdentified || 0), 0);
+    // Get unique stages for filter chips
+    const stages = [...new Set(stats.sets.map(s => s.stage))].sort();
 
     content.innerHTML = `
       <div class="stat-bar" id="year-stats">
@@ -79,287 +78,169 @@ export async function render(container, index, params) {
           <div class="stat-number">${fmt(stats.stageCount)}</div>
           <div class="stat-label">Stages</div>
         </div>
-        <div class="stat-card">
-          <div class="stat-number">${fmt(tracksIDd)}</div>
-          <div class="stat-label">Tracks ID'd</div>
+      </div>
+
+      <div class="sets-filters" id="sets-filters">
+        <div class="sets-filter-row">
+          <button class="filter-chip${activeStage === 'all' ? ' active' : ''}" data-filter-stage="all">All stages</button>
+          ${stages.map(st => {
+            const color = getStageColor(st);
+            return `<button class="filter-chip${activeStage === st ? ' active' : ''}" data-filter-stage="${st}" style="--chip-color:${color};">${st}</button>`;
+          }).join('')}
+        </div>
+        <div class="sets-filter-row">
+          <button class="filter-chip${sortOrder === 'date-asc' ? ' active' : ''}" data-sort="date-asc">Date ↑</button>
+          <button class="filter-chip${sortOrder === 'date-desc' ? ' active' : ''}" data-sort="date-desc">Date ↓</button>
         </div>
       </div>
 
-      <div id="top-tracks-section"></div>
-      <div id="stages-accordion-section"></div>
-      <div id="dj-highlights-section"></div>
-
-      <div class="section-title" id="sets-heading">Sets \u2014 ${selectedYear}</div>
       <div class="set-grid" id="set-grid"></div>
     `;
 
-    // Render sections that work from index data immediately
-    renderStagesAccordion(stats);
-    renderDJHighlights(stats);
+    // Filter chip handlers
+    content.querySelectorAll('[data-filter-stage]').forEach(chip => {
+      chip.addEventListener('click', () => {
+        activeStage = chip.dataset.filterStage;
+        content.querySelectorAll('[data-filter-stage]').forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+        renderSetGrid(stats.sets);
+      });
+    });
+
+    // Sort handlers
+    content.querySelectorAll('[data-sort]').forEach(chip => {
+      chip.addEventListener('click', () => {
+        sortOrder = chip.dataset.sort;
+        content.querySelectorAll('[data-sort]').forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+        renderSetGrid(stats.sets);
+      });
+    });
+
     renderSetGrid(stats.sets);
 
-    // Top tracks need loadAllSets
-    renderTopTracksSection(stats);
+    // Progressively load set details for recordings + tracks
+    enrichSetCards(stats.sets);
   }
 
-  /* ── Top 10 Tracks (leaderboard) ─────────────────── */
-  async function renderTopTracksSection(stats) {
-    const section = document.getElementById('top-tracks-section');
-    if (!section) return;
-
-    if (!isAllLoaded()) {
-      section.innerHTML = `
-        <div class="card" style="margin-bottom:24px;">
-          <div class="card-header">
-            <div class="card-title">Top 10 Tracks</div>
-          </div>
-          <div style="padding:16px;">
-            <div class="progress-label" id="year-loading-label">Loading sets...</div>
-            <div class="progress-bar-container"><div class="progress-bar" id="year-loading-progress" style="width:0%"></div></div>
-          </div>
-        </div>
-      `;
-
-      await loadAllSets(null, (loaded, total) => {
-        const label = document.getElementById('year-loading-label');
-        const bar = document.getElementById('year-loading-progress');
-        if (label) label.textContent = `Loading ${loaded} of ${total} sets... ${Math.round((loaded / total) * 100)}%`;
-        if (bar) bar.style.width = `${Math.round((loaded / total) * 100)}%`;
-      });
-    }
-
-    // Re-fetch stats now that track index is built
-    const freshStats = getYearStats(selectedYear);
-    const topTracks = freshStats ? freshStats.topTracks : [];
-
-    if (!topTracks || topTracks.length === 0) {
-      section.innerHTML = '';
-      return;
-    }
-
-    section.innerHTML = `
-      <div class="card" style="margin-bottom:24px;">
-        <div class="card-header">
-          <div class="card-title">Top 10 Tracks</div>
-        </div>
-        <div class="leaderboard">
-          ${topTracks.map((t, i) => {
-            const rank = i + 1;
-            const top3Class = rank <= 3 ? 'top3' : '';
-            const key = encodeURIComponent(t.key);
-            return `
-              <div class="leaderboard-row" data-href="#/track/${key}">
-                <div class="leaderboard-rank ${top3Class}">${rank}</div>
-                <div class="leaderboard-info">
-                  <div class="leaderboard-name">${t.artist} \u2014 ${t.title}</div>
-                  <div class="leaderboard-meta">
-                    <span>${t.djs.length} DJs played this</span>
-                  </div>
-                </div>
-                <div>
-                  <div class="leaderboard-count">${t.playCount}</div>
-                  <div class="leaderboard-count-label">plays</div>
-                </div>
-              </div>
-            `;
-          }).join('')}
-        </div>
-      </div>
-    `;
-
-    // Click handlers for leaderboard rows
-    section.querySelectorAll('.leaderboard-row').forEach(row => {
-      row.style.cursor = 'pointer';
-      row.addEventListener('click', () => {
-        const href = row.dataset.href;
-        if (href) navigateTo(href);
-      });
-    });
-  }
-
-  /* ── Stages Accordion ────────────────────────────── */
-  function renderStagesAccordion(stats) {
-    const section = document.getElementById('stages-accordion-section');
-    if (!section) return;
-
-    const stageNames = Object.keys(stats.stages).sort((a, b) => stats.stages[b] - stats.stages[a]);
-    if (stageNames.length === 0) {
-      section.innerHTML = '';
-      return;
-    }
-
-    // Group sets by stage
-    const setsByStage = {};
-    for (const s of stats.sets) {
-      if (!setsByStage[s.stage]) setsByStage[s.stage] = [];
-      setsByStage[s.stage].push(s);
-    }
-
-    section.innerHTML = `
-      <div class="card" style="margin-bottom:24px;">
-        <div class="card-header">
-          <div class="card-title">Stages This Year</div>
-        </div>
-        <div style="padding:0;">
-          ${stageNames.map(stageName => {
-            const color = getStageColor(stageName);
-            const setCount = stats.stages[stageName];
-            const stageSets = (setsByStage[stageName] || []).sort((a, b) => a.date.localeCompare(b.date));
-
-            const bodyHtml = stageSets.map(s => {
-              const djLinks = s.djs.map(d =>
-                `<a href="#/dj/${d.slug}" class="dj-link" onclick="event.stopPropagation()">${d.name}</a>`
-              ).join(' & ');
-              const tracksId = s.tracksIdentified || 0;
-              return `
-                <div style="display:flex;justify-content:space-between;align-items:center;padding:6px 0;border-bottom:1px solid var(--border);">
-                  <div>
-                    <div style="font-size:0.875rem;">${djLinks}</div>
-                    <div style="font-size:0.75rem;color:var(--muted);">${s.date}</div>
-                  </div>
-                  <span style="font-size:0.75rem;color:var(--muted-lt);white-space:nowrap;">${tracksId} tracks ID'd</span>
-                </div>
-              `;
-            }).join('');
-
-            return `
-              <div class="accordion-item">
-                <div class="accordion-header">
-                  <div style="display:flex;align-items:center;gap:8px">
-                    <span class="dot" style="background:${color};width:8px;height:8px;border-radius:50%;display:inline-block"></span>
-                    <span style="font-weight:600">${stageName}</span>
-                    <span class="text-muted" style="font-size:0.75rem">${setCount} sets</span>
-                  </div>
-                  <span class="arrow">\u25B6</span>
-                </div>
-                <div class="accordion-body">
-                  <div class="accordion-body-inner">
-                    ${bodyHtml}
-                  </div>
-                </div>
-              </div>
-            `;
-          }).join('')}
-        </div>
-      </div>
-    `;
-
-    // Accordion toggle handlers
-    section.querySelectorAll('.accordion-header').forEach(header => {
-      header.addEventListener('click', () => {
-        const item = header.closest('.accordion-item');
-        if (item) item.classList.toggle('open');
-      });
-    });
-  }
-
-  /* ── DJ Highlights ───────────────────────────────── */
-  function renderDJHighlights(stats) {
-    const section = document.getElementById('dj-highlights-section');
-    if (!section) return;
-
-    // Build DJ stats from the sets for this year
-    const djMap = new Map(); // slug -> { name, slug, sets, tracksIdentified }
-    for (const s of stats.sets) {
-      for (const d of s.djs) {
-        if (!djMap.has(d.slug)) {
-          djMap.set(d.slug, { name: d.name, slug: d.slug, sets: 0, tracksIdentified: 0 });
-        }
-        const entry = djMap.get(d.slug);
-        entry.sets++;
-        entry.tracksIdentified += (s.tracksIdentified || 0);
-      }
-    }
-
-    const allDJs = [...djMap.values()];
-
-    // Most Tracks ID'd — top 5
-    const topByTracks = [...allDJs]
-      .sort((a, b) => b.tracksIdentified - a.tracksIdentified)
-      .slice(0, 5);
-
-    // Most Sets — DJs with 2+ sets
-    const topBySets = [...allDJs]
-      .filter(d => d.sets >= 2)
-      .sort((a, b) => b.sets - a.sets);
-
-    if (topByTracks.length === 0 && topBySets.length === 0) {
-      section.innerHTML = '';
-      return;
-    }
-
-    const tracksTable = topByTracks.length > 0 ? `
-      <div class="card" style="flex:1;min-width:0;">
-        <div class="card-header">
-          <div class="card-title">Most Tracks ID'd</div>
-        </div>
-        <table class="data-table">
-          <thead><tr><th>#</th><th>DJ</th><th>Tracks</th></tr></thead>
-          <tbody>
-            ${topByTracks.map((d, i) => `
-              <tr>
-                <td>${i + 1}</td>
-                <td><a href="#/dj/${d.slug}" class="dj-link">${d.name}</a></td>
-                <td>${fmt(d.tracksIdentified)}</td>
-              </tr>
-            `).join('')}
-          </tbody>
-        </table>
-      </div>
-    ` : '';
-
-    const setsTable = topBySets.length > 0 ? `
-      <div class="card" style="flex:1;min-width:0;">
-        <div class="card-header">
-          <div class="card-title">Most Sets</div>
-        </div>
-        <table class="data-table">
-          <thead><tr><th>#</th><th>DJ</th><th>Sets</th></tr></thead>
-          <tbody>
-            ${topBySets.map((d, i) => `
-              <tr>
-                <td>${i + 1}</td>
-                <td><a href="#/dj/${d.slug}" class="dj-link">${d.name}</a></td>
-                <td>${d.sets}</td>
-              </tr>
-            `).join('')}
-          </tbody>
-        </table>
-      </div>
-    ` : '';
-
-    section.innerHTML = `
-      <div style="display:flex;gap:20px;margin-bottom:24px;flex-wrap:wrap;">
-        ${tracksTable}
-        ${setsTable}
-      </div>
-    `;
-  }
-
-  /* ── All Sets Grid ───────────────────────────────── */
   function renderSetGrid(sets) {
     const grid = document.getElementById('set-grid');
     if (!grid) return;
 
-    const sorted = [...sets].sort((a, b) => a.date.localeCompare(b.date));
+    let filtered = activeStage === 'all' ? [...sets] : sets.filter(s => s.stage === activeStage);
 
-    grid.innerHTML = sorted.map(s => {
+    filtered.sort((a, b) => {
+      const cmp = a.date.localeCompare(b.date);
+      return sortOrder === 'date-desc' ? -cmp : cmp;
+    });
+
+    grid.innerHTML = filtered.map(s => {
       const djNames = s.djs.map(d =>
         `<a href="#/dj/${d.slug}" class="dj-link" onclick="event.stopPropagation()">${d.name}</a>`
       ).join(' & ');
 
-      const tracksId = s.tracksIdentified || 0;
+      const stageColor = getStageColor(s.stage);
 
       return `
-        <div class="set-card" data-tlid="${s.tlId}" onclick="location.hash='#/set/${s.tlId}'">
+        <div class="set-card" data-tlid="${s.tlId}" onclick="location.hash='#/set/${s.tlId}'" style="border-left:3px solid ${stageColor};">
           <div class="set-card-dj">${djNames}</div>
-          <div style="margin-bottom:6px">${stageBadge(s.stage)}</div>
-          <div class="set-card-meta">
-            <span>${s.date}</span>
-            <span>${tracksId} tracks ID'd</span>
+          <div class="set-card-meta" style="margin-bottom:8px;">
+            ${stageBadge(s.stage)}
+            <span class="separator">&middot;</span>
+            <span>${formatDateShort(s.date)}</span>
+            ${s.duration ? `<span class="separator">&middot;</span><span>${s.duration}</span>` : ''}
+          </div>
+          <div class="set-card-enrich" id="enrich-${s.tlId}">
+            <div style="font-size:0.75rem;color:var(--muted);">Loading...</div>
           </div>
         </div>
       `;
     }).join('');
+  }
+
+  async function enrichSetCards(sets) {
+    const setsWithFiles = sets.filter(s => s.hasSetFile);
+    const BATCH = 15;
+
+    for (let i = 0; i < setsWithFiles.length; i += BATCH) {
+      const batch = setsWithFiles.slice(i, i + BATCH);
+      const results = await Promise.all(batch.map(s => loadSet(s.tlId)));
+
+      for (const setData of results) {
+        if (!setData) continue;
+        const el = document.getElementById(`enrich-${setData.tlId}`);
+        if (!el) continue;
+        el.innerHTML = buildEnrichHtml(setData);
+      }
+    }
+
+    // Clear "Loading..." for sets without files
+    for (const s of sets) {
+      if (s.hasSetFile) continue;
+      const el = document.getElementById(`enrich-${s.tlId}`);
+      if (el) el.innerHTML = '';
+    }
+  }
+
+  function buildEnrichHtml(setData) {
+    let html = '';
+
+    // Recording play buttons
+    const recordings = setData.recordings || [];
+    const ytRec = recordings.find(r => r.platform === 'youtube');
+    const scRec = recordings.find(r => r.platform === 'soundcloud');
+    const spRec = recordings.find(r => r.platform === 'source_36');
+
+    if (ytRec || scRec || spRec) {
+      let btns = '';
+      if (ytRec) {
+        const ytId = ytRec.url.includes('youtube.com/watch')
+          ? new URL(ytRec.url).searchParams.get('v')
+          : ytRec.url.split('/').pop();
+        btns += `<a href="https://www.youtube.com/watch?v=${ytId}" target="_blank" rel="noopener" class="rec-btn rec-btn-yt" onclick="event.stopPropagation();" title="Watch on YouTube">&#9654; YouTube</a>`;
+      }
+      if (spRec) {
+        btns += `<a href="${spRec.url.replace('/embed/', '/').replace('?utm_source=generator', '')}" target="_blank" rel="noopener" class="rec-btn rec-btn-sp" onclick="event.stopPropagation();" title="Listen on Spotify">&#9835; Spotify</a>`;
+      }
+      if (scRec) {
+        btns += `<a href="${scRec.url}" target="_blank" rel="noopener" class="rec-btn rec-btn-sc" onclick="event.stopPropagation();" title="Listen on SoundCloud">&#9654; SoundCloud</a>`;
+      }
+      html += `<div class="set-card-play-row">${btns}</div>`;
+    }
+
+    // First 1-2 identified tracks
+    const tracks = (setData.tracks || []).filter(t =>
+      (t.type === 'normal' || t.type === 'blend') && !isIDTrack(t.artist, t.title)
+    );
+    if (tracks.length > 0) {
+      const preview = tracks.slice(0, 2);
+      html += `<div class="set-card-track-preview">`;
+      html += preview.map((t, i) =>
+        `<div class="set-card-track-line">${t.artist} &mdash; ${t.title}${t.remix ? ' (' + t.remix + ')' : ''}</div>`
+      ).join('');
+      if (tracks.length > 2) {
+        html += `<div class="set-card-track-more">+ ${tracks.length - 2} more tracks</div>`;
+      }
+      html += `</div>`;
+    }
+
+    return html;
+  }
+}
+
+function isIDTrack(artist, title) {
+  const a = (artist || '').toLowerCase().trim();
+  const t = (title || '').toLowerCase().trim();
+  return a === 'id' || t === 'id' || a === '' || t === '' ||
+    t.startsWith('id (') || t === 'id?' || a === 'id?';
+}
+
+function formatDateShort(dateStr) {
+  if (!dateStr) return '\u2014';
+  try {
+    const d = new Date(dateStr + 'T00:00:00');
+    return d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
+  } catch {
+    return dateStr;
   }
 }

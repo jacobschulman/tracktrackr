@@ -29,7 +29,7 @@
         <span class="nav-icon">♫</span> Tracks
       </a>
       <a href="#/year" class="nav-link" data-view="year">
-        <span class="nav-icon">◷</span> Years
+        <span class="nav-icon">◷</span> Sets
       </a>
       <a href="#/stages" class="nav-link" data-view="stages">
         <span class="nav-icon">⬡</span> Stages
@@ -60,15 +60,20 @@
     <a href="#/" class="tab-link" data-view="overview">◆<span>Home</span></a>
     <a href="#/djs" class="tab-link" data-view="djs">◎<span>DJs</span></a>
     <a href="#/tracks" class="tab-link" data-view="tracks">♫<span>Tracks</span></a>
-    <a href="#/year" class="tab-link" data-view="year">◷<span>Years</span></a>
+    <a href="#/year" class="tab-link" data-view="year">◷<span>Sets</span></a>
     <a href="#/stages" class="tab-link" data-view="stages">⬡<span>Stages</span></a>
   </nav>
 
   <!-- Main content -->
   <main id="content">
     <header id="header">
+      <a href="#/" class="header-brand">
+        <span class="header-brand-icon">▦</span>
+        <span class="header-brand-text">TrackTrackr</span>
+      </a>
       <div id="breadcrumbs"></div>
       <div id="search-container">
+        <button id="search-toggle" class="search-toggle" aria-label="Search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></button>
         <input type="text" id="global-search" placeholder="Search DJs & tracks..." autocomplete="off">
         <div id="search-results" class="search-dropdown hidden"></div>
       </div>
