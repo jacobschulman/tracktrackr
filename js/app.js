@@ -2,8 +2,8 @@
  * app.js — TrackTrackr router, navigation, and global state
  */
 
-import { CONFIG, initChartDefaults } from './config.js?v=5';
-import { loadIndex, getTopTracks, isAllLoaded, trackKey } from './data.js?v=5';
+import { CONFIG, initChartDefaults } from './config.js?v=6';
+import { loadIndex, getTopTracks, isAllLoaded, trackKey } from './data.js?v=6';
 
 // ── Global state ───────────────────────────────────
 export const state = {
@@ -13,7 +13,7 @@ export const state = {
 };
 
 // ── View imports (lazy, cache-bust with version) ───
-const V = '?v=5';
+const V = '?v=6';
 const views = {
   overview:    () => import('./views/overview.js' + V),
   djs:         () => import('./views/heatmap.js' + V),

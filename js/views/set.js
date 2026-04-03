@@ -4,9 +4,9 @@
  * Shows a full setlist with links to tracks, DJ anthems highlighted
  */
 
-import { loadSet, loadAllSets, isAllLoaded, getTrackHistory, trackKey, getDJHistory } from '../data.js?v=5';
-import { CONFIG, getStageColor } from '../config.js?v=5';
-import { fmt, stageBadge, navigateTo, playInBar } from '../app.js?v=5';
+import { loadSet, loadAllSets, isAllLoaded, getTrackHistory, trackKey, getDJHistory } from '../data.js?v=6';
+import { CONFIG, getStageColor } from '../config.js?v=6';
+import { fmt, stageBadge, navigateTo, playInBar } from '../app.js?v=6';
 
 export function destroy() {}
 

@@ -5,9 +5,9 @@
  * Tells the story of a DJ at Ultra: their patterns, anthems, and actual setlists.
  */
 
-import { getDJHistory, getDJStats, getDJStreak, getDJRepeatRate, getDJPopularTracks, loadSet, loadAllSets, isAllLoaded, trackKey } from '../data.js?v=5';
-import { CONFIG, getStageColor } from '../config.js?v=5';
-import { fmt, stageBadge, navigateTo, playInBar } from '../app.js?v=5';
+import { getDJHistory, getDJStats, getDJStreak, getDJRepeatRate, getDJPopularTracks, loadSet, loadAllSets, isAllLoaded, trackKey } from '../data.js?v=6';
+import { CONFIG, getStageColor } from '../config.js?v=6';
+import { fmt, stageBadge, navigateTo, playInBar } from '../app.js?v=6';
 
 let _cleanup = [];
 

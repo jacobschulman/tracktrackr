@@ -3,9 +3,9 @@
  * Route: #/year or #/year/{year}
  */
 
-import { getYearStats, loadSet } from '../data.js?v=5';
-import { CONFIG, getStageColor } from '../config.js?v=5';
-import { fmt, stageBadge, playInBar } from '../app.js?v=5';
+import { getYearStats, loadSet } from '../data.js?v=6';
+import { CONFIG, getStageColor } from '../config.js?v=6';
+import { fmt, stageBadge, playInBar } from '../app.js?v=6';
 
 let selectedYear = null;
 let activeStage = 'all';

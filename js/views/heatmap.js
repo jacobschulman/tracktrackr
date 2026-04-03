@@ -3,9 +3,9 @@
  * Route: #/djs or #/heatmap
  */
 
-import { getDJHistory, getDJStreak, loadSet } from '../data.js?v=5';
-import { CONFIG, getStageColor } from '../config.js?v=5';
-import { fmt, navigateTo, stageBadge } from '../app.js?v=5';
+import { getDJHistory, getDJStreak, loadSet } from '../data.js?v=6';
+import { CONFIG, getStageColor } from '../config.js?v=6';
+import { fmt, navigateTo, stageBadge } from '../app.js?v=6';
 
 let tooltip = null;
 

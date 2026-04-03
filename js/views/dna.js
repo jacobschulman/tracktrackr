@@ -6,9 +6,9 @@
  * and stages defined it and how it differed from other years.
  */
 
-import { loadAllSets, isAllLoaded, getTopTracks, getYearStats } from '../data.js?v=5';
-import { getStageColor } from '../config.js?v=5';
-import { fmt, navigateTo } from '../app.js?v=5';
+import { loadAllSets, isAllLoaded, getTopTracks, getYearStats } from '../data.js?v=6';
+import { getStageColor } from '../config.js?v=6';
+import { fmt, navigateTo } from '../app.js?v=6';
 
 let _cleanup = [];
 

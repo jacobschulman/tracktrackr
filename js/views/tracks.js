@@ -6,9 +6,9 @@
  * No Chart.js — pure DOM rendering.
  */
 
-import { loadAllSets, isAllLoaded, getTopTracks, computeDiscoveries, trackKey } from '../data.js?v=5';
-import { CONFIG, getStageColor } from '../config.js?v=5';
-import { fmt, stageBadge, navigateTo } from '../app.js?v=5';
+import { loadAllSets, isAllLoaded, getTopTracks, computeDiscoveries, trackKey } from '../data.js?v=6';
+import { CONFIG, getStageColor } from '../config.js?v=6';
+import { fmt, stageBadge, navigateTo } from '../app.js?v=6';
 
 let _filterListeners = [];
 

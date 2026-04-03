@@ -5,9 +5,9 @@
  * Two phases: picker (choose two DJs) and comparison (side-by-side stats).
  */
 
-import { getDJHistory, getDJStats, getDJStreak, getDJRepeatRate, loadAllSets, isAllLoaded, trackKey, getTopTracks } from '../data.js?v=5';
-import { CONFIG, getStageColor } from '../config.js?v=5';
-import { fmt, stageBadge, navigateTo } from '../app.js?v=5';
+import { getDJHistory, getDJStats, getDJStreak, getDJRepeatRate, loadAllSets, isAllLoaded, trackKey, getTopTracks } from '../data.js?v=6';
+import { CONFIG, getStageColor } from '../config.js?v=6';
+import { fmt, stageBadge, navigateTo } from '../app.js?v=6';
 
 let _cleanup = [];
 

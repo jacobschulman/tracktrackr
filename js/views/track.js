@@ -5,9 +5,9 @@
  * Typographic layout: champion DJ + cloud instead of bar charts.
  */
 
-import { loadAllSets, isAllLoaded, getTrackHistory, getTrackStreak, getBlendAppearances, trackKey, parseTrackKey } from '../data.js?v=5';
-import { CONFIG, getStageColor } from '../config.js?v=5';
-import { fmt, stageBadge, navigateTo, playInBar } from '../app.js?v=5';
+import { loadAllSets, isAllLoaded, getTrackHistory, getTrackStreak, getBlendAppearances, trackKey, parseTrackKey } from '../data.js?v=6';
+import { CONFIG, getStageColor } from '../config.js?v=6';
+import { fmt, stageBadge, navigateTo, playInBar } from '../app.js?v=6';
 
 export function destroy() {}
 
