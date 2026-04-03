@@ -7,7 +7,7 @@
 
 import { loadAllSets, isAllLoaded, getTrackHistory, getTrackStreak, getBlendAppearances, trackKey, parseTrackKey } from '../data.js?v=5';
 import { CONFIG, getStageColor } from '../config.js?v=5';
-import { fmt, stageBadge, navigateTo } from '../app.js?v=5';
+import { fmt, stageBadge, navigateTo, playInBar } from '../app.js?v=5';
 
 export function destroy() {}
 
@@ -182,20 +182,46 @@ export async function render(container, index, params) {
       </div>`;
   }
 
-  // ── Play History table ──────────────────────────────────────────
+  // ── Play History table (with play buttons from recordings) ──────
   const mashupCount = history.filter(a => a.matchType === 'mashup-inferred').length;
+
+  // Pre-load recordings for each set (all cached since loadAllSets already ran)
+  const setRecordings = new Map();
+  await Promise.all(
+    [...new Set(history.map(a => a.tlId).filter(Boolean))].map(async tlId => {
+      const sd = await loadSet(tlId);
+      if (sd?.recordings?.length) setRecordings.set(tlId, sd.recordings);
+    })
+  );
+
   const tableRowsHtml = history.map(a => {
     const djSlug = a.djSlugs && a.djSlugs[0] ? a.djSlugs[0] : '';
     const dateFormatted = formatDate(a.date);
     const inferredBadge = a.matchType === 'mashup-inferred'
       ? ' <span title="Inferred from a mashup/medley entry on 1001Tracklists" style="font-size:0.625rem;color:var(--muted);cursor:help;border:1px solid var(--border);border-radius:4px;padding:1px 4px;">via mashup</span>'
       : '';
+
+    // Play buttons from recordings
+    let playBtns = '';
+    const recs = a.tlId ? setRecordings.get(a.tlId) : null;
+    if (recs) {
+      const setTitle = `${a.dj} @ ${a.stage} · Ultra Miami · ${a.year}`;
+      const ytRec = recs.find(r => r.platform === 'youtube');
+      const scRec = recs.find(r => r.platform === 'soundcloud');
+      if (ytRec) {
+        playBtns += `<button class="rec-btn rec-btn-yt rec-btn-sm" data-platform="youtube" data-url="${ytRec.url}" data-title="${setTitle}" data-tlid="${a.tlId}">&#9654;</button>`;
+      }
+      if (scRec) {
+        playBtns += `<button class="rec-btn rec-btn-sc rec-btn-sm" data-platform="soundcloud" data-url="${scRec.url}" data-title="${setTitle}" data-tlid="${a.tlId}">&#9654;</button>`;
+      }
+    }
+
     return `<tr>
       <td>${a.year}</td>
       <td>${djSlug ? `<a href="#/dj/${djSlug}" class="dj-link">${a.dj}</a>` : a.dj}${inferredBadge}</td>
       <td>${stageBadge(a.stage)}</td>
       <td>${dateFormatted}</td>
-      <td>${a.tlId ? `<a href="#/set/${a.tlId}" class="track-link" style="font-size:0.8125rem;">View Set</a>` : '—'}</td>
+      <td style="white-space:nowrap;">${playBtns}${a.tlId ? ` <a href="#/set/${a.tlId}" class="track-link" style="font-size:0.8125rem;">Set</a>` : '—'}</td>
     </tr>`;
   }).join('');
 
@@ -325,6 +351,14 @@ export async function render(container, index, params) {
 
     ${blendsHtml}
   `;
+
+  // Wire up play buttons in the history table
+  contentEl.querySelectorAll('[data-platform]').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      playInBar(btn.dataset.platform, btn.dataset.url, btn.dataset.title, btn.dataset.tlid);
+    });
+  });
 }
 
 function formatDate(dateStr) {

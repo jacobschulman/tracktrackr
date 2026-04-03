@@ -393,7 +393,7 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
   font-weight: 500;
 }
 
-/* ── Year pills ─────────────────────────────────── */
+/* ── Year pills (legacy) ───────────────────────── */
 .year-pills {
   display: flex;
   gap: 6px;
@@ -416,6 +416,65 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
   background: var(--purple-dim);
   color: var(--purple-lt);
   border-color: var(--purple);
+}
+
+/* ── Sets Toolbar ──────────────────────────────── */
+.sets-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.sets-select {
+  appearance: none;
+  -webkit-appearance: none;
+  background: var(--surface2) url("data:image/svg+xml,%3Csvg width='10' height='6' viewBox='0 0 10 6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%2394a3b8' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right 10px center;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 6px 28px 6px 10px;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  font-family: inherit;
+  color: var(--text);
+  cursor: pointer;
+  transition: border-color var(--transition), background var(--transition);
+}
+.sets-select:hover { border-color: var(--border-lt); background-color: var(--surface3); }
+.sets-select:focus {
+  outline: none;
+  border-color: var(--purple);
+  box-shadow: 0 0 0 2px var(--purple-dim);
+}
+.sets-select option {
+  background: var(--surface);
+  color: var(--text);
+}
+.sets-checkbox {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--muted-lt);
+  cursor: pointer;
+  padding: 5px 10px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--surface2);
+  transition: all var(--transition);
+  user-select: none;
+}
+.sets-checkbox:hover { border-color: var(--border-lt); color: var(--text); }
+.sets-checkbox:has(input:checked) {
+  border-color: var(--purple);
+  background: var(--purple-dim);
+  color: var(--purple-lt);
+}
+.sets-checkbox input {
+  accent-color: var(--purple-lt);
+  margin: 0;
+  cursor: pointer;
 }
 
 /* ── Stage badge ────────────────────────────────── */
@@ -1156,6 +1215,9 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
   font-size: 0.8125rem;
   text-decoration: none;
   font-weight: 600;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
   transition: background var(--transition);
 }
 .rec-btn-yt {
@@ -1163,6 +1225,21 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
   color: var(--red);
 }
 .rec-btn-yt:hover { background: var(--surface3); }
+.rec-btn-sc {
+  background: var(--surface2);
+  color: var(--orange);
+}
+.rec-btn-sc:hover { background: var(--surface3); }
+.rec-btn-sp {
+  background: var(--surface2);
+  color: var(--green);
+}
+.rec-btn-sp:hover { background: var(--surface3); }
+.rec-btn-sm {
+  padding: 3px 8px;
+  font-size: 0.6875rem;
+  border-radius: 4px;
+}
 .set-card-tracks {
   border-top: 1px solid var(--border);
   padding-top: 8px;
@@ -1754,6 +1831,139 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
   .journey-timeline { padding-left: 60px; }
   .journey-year-label { left: -60px; width: 45px; font-size: 0.875rem; }
   .dna-year-hero .dna-year-number { font-size: 2rem; }
+}
+
+/* ── Persistent Player Bar ──────────────────────── */
+.player-bar {
+  position: fixed;
+  bottom: 0; left: 0; right: 0;
+  z-index: 150;
+  background: var(--surface);
+  border-top: 1px solid var(--border-lt);
+  transition: transform 0.25s ease, visibility 0.25s ease;
+  visibility: visible;
+}
+.player-bar.hidden {
+  transform: translateY(calc(100% + 60px));
+  pointer-events: none;
+  visibility: hidden;
+}
+.player-bar-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 5px 12px;
+  background: var(--surface2);
+}
+.player-bar-label {
+  font-size: 0.5625rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--purple-lt);
+  flex-shrink: 0;
+}
+.player-bar-title {
+  font-size: 0.6875rem;
+  color: var(--muted-lt);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1;
+  min-width: 0;
+  text-decoration: none;
+  transition: color var(--transition);
+}
+.player-bar-title:hover { color: var(--text-bright); }
+.player-bar-ext {
+  flex-shrink: 0;
+  color: var(--muted);
+  font-size: 0.8125rem;
+  text-decoration: none;
+  padding: 0 2px;
+  transition: color var(--transition);
+}
+.player-bar-ext:hover { color: var(--text-bright); }
+.player-bar-ext.hidden { display: none; }
+.player-bar-close {
+  flex-shrink: 0;
+  background: none;
+  border: none;
+  color: var(--muted);
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 0 4px;
+  line-height: 1;
+  transition: color var(--transition);
+}
+.player-bar-close:hover { color: var(--text); }
+.player-bar-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 12px 8px;
+}
+.player-bar-play {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--purple);
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 0.6875rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background var(--transition);
+  line-height: 1;
+}
+.player-bar-play:hover { background: var(--purple-lt); }
+.player-bar-progress {
+  flex: 1;
+  height: 4px;
+  background: var(--surface3);
+  border-radius: 2px;
+  cursor: pointer;
+  position: relative;
+  min-width: 0;
+}
+.player-bar-progress:hover { height: 6px; }
+.player-bar-progress-fill {
+  height: 100%;
+  background: var(--purple-lt);
+  border-radius: 2px;
+  width: 0%;
+  transition: width 0.4s linear;
+}
+.player-bar-time {
+  font-size: 0.6875rem;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  flex-shrink: 0;
+  min-width: 36px;
+  text-align: right;
+}
+/* Fallback embed area (Spotify) */
+.player-bar-embed {
+  line-height: 0;
+}
+.player-bar-embed:empty { display: none; }
+.player-bar-embed iframe {
+  display: block;
+  width: 100%;
+  border: none;
+}
+
+/* Desktop: bar at very bottom, sidebar offset */
+@media (min-width: 769px) {
+  .player-bar { left: var(--sidebar-w); }
+  body.player-open #content { padding-bottom: 80px; }
+}
+/* Mobile: bar sits above the tab bar */
+@media (max-width: 768px) {
+  .player-bar { bottom: 60px; }
+  body.player-open #content { padding-bottom: 120px; }
 }
 
 @media (max-width: 480px) {

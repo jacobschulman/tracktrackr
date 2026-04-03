@@ -6,7 +6,7 @@
 
 import { loadSet, loadAllSets, isAllLoaded, getTrackHistory, trackKey, getDJHistory } from '../data.js?v=5';
 import { CONFIG, getStageColor } from '../config.js?v=5';
-import { fmt, stageBadge, navigateTo } from '../app.js?v=5';
+import { fmt, stageBadge, navigateTo, playInBar } from '../app.js?v=5';
 
 export function destroy() {}
 
@@ -42,26 +42,21 @@ export async function render(container, index, params) {
   const tracks = setData.tracks || [];
   const normalTracks = tracks.filter(t => t.type === 'normal' || t.type === 'blend');
 
-  // Build recording embeds/links
+  // Build recording play buttons (persistent player bar)
   const recordings = setData.recordings || [];
   const ytRec = recordings.find(r => r.platform === 'youtube');
   const scRec = recordings.find(r => r.platform === 'soundcloud');
+  const setTitle = `${djName} @ ${setData.stage} · Ultra Miami · ${setData.year}`;
   let recordingLinksHtml = '';
   if (ytRec || scRec) {
-    let parts = [];
+    let btns = '';
     if (ytRec) {
-      const ytId = ytRec.url.includes('youtube.com/watch') ? new URL(ytRec.url).searchParams.get('v') : ytRec.url.split('/').pop();
-      parts.push(`<div style="border-radius:8px;overflow:hidden;flex:1;min-width:280px;max-width:560px;">
-        <iframe width="100%" height="160" src="https://www.youtube.com/embed/${ytId}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="display:block;"></iframe>
-      </div>`);
+      btns += `<button class="rec-btn rec-btn-yt" data-platform="youtube" data-url="${ytRec.url}" data-title="${setTitle}" data-tlid="${tlId}">&#9654; Play on YouTube</button>`;
     }
     if (scRec) {
-      const scWidgetUrl = `https://w.soundcloud.com/player/?url=${encodeURIComponent(scRec.url)}&color=%23f97316&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=false`;
-      parts.push(`<div style="border-radius:8px;overflow:hidden;flex:1;min-width:280px;max-width:560px;">
-        <iframe width="100%" height="120" scrolling="no" frameborder="no" src="${scWidgetUrl}" style="display:block;"></iframe>
-      </div>`);
+      btns += `<button class="rec-btn rec-btn-sc" data-platform="soundcloud" data-url="${scRec.url}" data-title="${setTitle}" data-tlid="${tlId}">&#9654; Play on SoundCloud</button>`;
     }
-    recordingLinksHtml = `<div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:16px;">${parts.join('')}</div>`;
+    recordingLinksHtml = `<div class="set-play-btns" style="display:flex;gap:8px;flex-wrap:wrap;margin-top:16px;">${btns}</div>`;
   }
 
   container.innerHTML = `
@@ -119,6 +114,13 @@ export async function render(container, index, params) {
       <div class="progress-bar-container"><div class="progress-bar" id="set-loading-progress" style="width:0%"></div></div>
     </div>
   `;
+
+  // Wire up play buttons for persistent player bar
+  container.querySelectorAll('.set-play-btns [data-platform]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      playInBar(btn.dataset.platform, btn.dataset.url, btn.dataset.title, btn.dataset.tlid);
+    });
+  });
 
   // Render basic tracklist immediately
   renderTracklist(tracks, false, null, setData, djSlug);

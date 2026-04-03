@@ -7,7 +7,7 @@
 
 import { getDJHistory, getDJStats, getDJStreak, getDJRepeatRate, getDJPopularTracks, loadSet, loadAllSets, isAllLoaded, trackKey } from '../data.js?v=5';
 import { CONFIG, getStageColor } from '../config.js?v=5';
-import { fmt, stageBadge, navigateTo } from '../app.js?v=5';
+import { fmt, stageBadge, navigateTo, playInBar } from '../app.js?v=5';
 
 let _cleanup = [];
 
@@ -517,39 +517,29 @@ async function renderSetCards(sets, container, prominent) {
         const spotifyRec = recordings.find(r => r.platform === 'source_36');
         const parts = [];
 
+        const setTitle = `${s.dj || 'DJ'} @ ${s.stage} · Ultra Miami · ${s.year}`;
+        const commonAttrs = `data-title="${setTitle}" data-tlid="${s.tlId}"`;
         if (ytRec) {
-          const ytId = ytRec.url.includes('youtube.com/watch') ? new URL(ytRec.url).searchParams.get('v') : ytRec.url.split('/').pop();
-          if (prominent) {
-            parts.push(`<div class="rec-embed rec-yt">
-              <iframe width="100%" height="180" src="https://www.youtube.com/embed/${ytId}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-            </div>`);
-          } else {
-            parts.push(`<a href="https://www.youtube.com/watch?v=${ytId}" target="_blank" rel="noopener" class="rec-btn rec-btn-yt">&#9654; YouTube</a>`);
-          }
+          parts.push(`<button class="rec-btn rec-btn-yt" data-platform="youtube" data-url="${ytRec.url}" ${commonAttrs}>&#9654; YouTube</button>`);
         }
 
         if (spotifyRec) {
-          // Spotify embed URLs from data are already in embed format
-          let embedUrl = spotifyRec.url;
-          // Ensure it uses the compact embed size
-          if (!embedUrl.includes('embed')) {
-            embedUrl = embedUrl.replace('open.spotify.com/', 'open.spotify.com/embed/');
-          }
-          parts.push(`<div class="rec-embed rec-spotify">
-            <iframe src="${embedUrl}" width="100%" height="${prominent ? '152' : '80'}" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
-          </div>`);
+          parts.push(`<button class="rec-btn rec-btn-sp" data-platform="spotify" data-url="${spotifyRec.url}" ${commonAttrs}>&#9835; Spotify</button>`);
         }
 
         if (scRec) {
-          const scWidgetUrl = `https://w.soundcloud.com/player/?url=${encodeURIComponent(scRec.url)}&color=%23f97316&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=false`;
-          parts.push(`<div class="rec-embed rec-sc">
-            <iframe width="100%" height="${prominent ? '120' : '20'}" scrolling="no" frameborder="no" src="${scWidgetUrl}"></iframe>
-          </div>`);
+          parts.push(`<button class="rec-btn rec-btn-sc" data-platform="soundcloud" data-url="${scRec.url}" ${commonAttrs}>&#9654; SoundCloud</button>`);
         }
 
         if (parts.length) {
           recEl.innerHTML = parts.join('');
           recEl.style.display = 'flex';
+          recEl.querySelectorAll('[data-platform]').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+              e.stopPropagation();
+              playInBar(btn.dataset.platform, btn.dataset.url, btn.dataset.title, btn.dataset.tlid);
+            });
+          });
         }
       }
 

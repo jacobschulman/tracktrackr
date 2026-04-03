@@ -81,6 +81,25 @@
     <div id="view-container"></div>
   </main>
 
+  <!-- Persistent player bar -->
+  <div id="player-bar" class="player-bar hidden">
+    <div class="player-bar-header">
+      <span class="player-bar-label">NOW PLAYING</span>
+      <a id="player-bar-title" class="player-bar-title" href="#/"></a>
+      <a id="player-bar-ext" class="player-bar-ext" href="#" target="_blank" rel="noopener" aria-label="Open in app" title="Open in app">&#8599;</a>
+      <button id="player-bar-close" class="player-bar-close" aria-label="Close player">&times;</button>
+    </div>
+    <div class="player-bar-controls" id="player-bar-controls">
+      <button id="player-bar-play" class="player-bar-play" aria-label="Play/Pause">&#9654;</button>
+      <div class="player-bar-progress" id="player-bar-progress">
+        <div class="player-bar-progress-fill" id="player-bar-progress-fill"></div>
+      </div>
+      <span id="player-bar-time" class="player-bar-time">0:00</span>
+    </div>
+    <div id="player-bar-embed" class="player-bar-embed"></div>
+    <div id="player-bar-iframe-wrap" aria-hidden="true" style="position:absolute;width:1px;height:1px;overflow:hidden;opacity:0;pointer-events:none;left:-9999px;"></div>
+  </div>
+
   <!-- CDN dependencies -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>

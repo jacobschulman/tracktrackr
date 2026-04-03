@@ -361,6 +361,215 @@ function titleCase(str) {
   return str.replace(/\b\w/g, c => c.toUpperCase());
 }
 
+// ── Persistent Player Bar ──────────────────────────
+const player = {
+  platform: null,
+  widget: null,
+  playing: false,
+  duration: 0,
+  poll: null,
+};
+
+// API loaders (each loads once)
+let _scApi = null;
+function loadSCApi() {
+  if (_scApi) return _scApi;
+  _scApi = new Promise(resolve => {
+    const s = document.createElement('script');
+    s.src = 'https://w.soundcloud.com/player/api.js';
+    s.onload = resolve;
+    s.onerror = resolve; // degrade gracefully
+    document.head.appendChild(s);
+  });
+  return _scApi;
+}
+
+let _ytApi = null;
+function loadYTApi() {
+  if (_ytApi) return _ytApi;
+  _ytApi = new Promise(resolve => {
+    window.onYouTubeIframeAPIReady = resolve;
+    const s = document.createElement('script');
+    s.src = 'https://www.youtube.com/iframe_api';
+    s.onerror = resolve;
+    document.head.appendChild(s);
+  });
+  return _ytApi;
+}
+
+function cleanupPlayer() {
+  if (player.poll) { clearInterval(player.poll); player.poll = null; }
+  if (player.platform === 'youtube' && player.widget) {
+    try { player.widget.destroy(); } catch(e) {}
+  }
+  player.widget = null;
+  player.platform = null;
+  player.playing = false;
+  player.duration = 0;
+  const wrap = document.getElementById('player-bar-iframe-wrap');
+  if (wrap) wrap.innerHTML = '';
+  const embed = document.getElementById('player-bar-embed');
+  if (embed) embed.innerHTML = '';
+  const controls = document.getElementById('player-bar-controls');
+  if (controls) controls.style.display = '';
+  const fill = document.getElementById('player-bar-progress-fill');
+  if (fill) fill.style.width = '0%';
+  const time = document.getElementById('player-bar-time');
+  if (time) time.textContent = '0:00';
+  const btn = document.getElementById('player-bar-play');
+  if (btn) btn.innerHTML = '&#9654;';
+}
+
+function fmtTime(sec) {
+  const m = Math.floor(sec / 60);
+  const s = Math.floor(sec % 60);
+  return `${m}:${s.toString().padStart(2, '0')}`;
+}
+
+function updateProgress(current, duration) {
+  const fill = document.getElementById('player-bar-progress-fill');
+  const time = document.getElementById('player-bar-time');
+  if (fill && duration > 0) fill.style.width = `${(current / duration) * 100}%`;
+  if (time) time.textContent = fmtTime(current);
+}
+
+function startYTPoll() {
+  if (player.poll) clearInterval(player.poll);
+  player.poll = setInterval(() => {
+    if (!player.widget || !player.playing) return;
+    try {
+      const cur = player.widget.getCurrentTime();
+      const dur = player.widget.getDuration() || player.duration;
+      updateProgress(cur, dur);
+    } catch(e) {}
+  }, 500);
+}
+
+export async function playInBar(platform, url, title, tlId) {
+  const bar = document.getElementById('player-bar');
+  if (!bar) return;
+
+  cleanupPlayer();
+
+  const titleEl = document.getElementById('player-bar-title');
+  titleEl.textContent = title || '';
+  titleEl.href = tlId ? `#/set/${tlId}` : '#/';
+
+  // External link — open on the source platform
+  const extEl = document.getElementById('player-bar-ext');
+  if (platform === 'youtube') {
+    const ytId = url.includes('youtube.com/watch') ? new URL(url).searchParams.get('v') : url.split('/').pop();
+    extEl.href = `https://www.youtube.com/watch?v=${ytId}`;
+    extEl.classList.remove('hidden');
+  } else if (platform === 'soundcloud') {
+    extEl.href = url;
+    extEl.classList.remove('hidden');
+  } else {
+    extEl.classList.add('hidden');
+  }
+
+  bar.classList.remove('hidden');
+  document.body.classList.add('player-open');
+  player.platform = platform;
+
+  const playBtn = document.getElementById('player-bar-play');
+  const wrap = document.getElementById('player-bar-iframe-wrap');
+
+  if (platform === 'youtube') {
+    await loadYTApi();
+    if (typeof YT === 'undefined' || !YT.Player) return;
+    const ytId = url.includes('youtube.com/watch') ? new URL(url).searchParams.get('v') : url.split('/').pop();
+    wrap.innerHTML = '<div id="player-yt"></div>';
+    player.widget = new YT.Player('player-yt', {
+      height: '1', width: '1',
+      videoId: ytId,
+      playerVars: { autoplay: 1, controls: 0 },
+      events: {
+        onReady: (e) => {
+          e.target.playVideo();
+          player.duration = e.target.getDuration();
+          player.playing = true;
+          playBtn.innerHTML = '&#9646;&#9646;';
+          startYTPoll();
+        },
+        onStateChange: (e) => {
+          if (e.data === YT.PlayerState.ENDED) {
+            player.playing = false;
+            playBtn.innerHTML = '&#9654;';
+          }
+        },
+      },
+    });
+  } else if (platform === 'soundcloud') {
+    await loadSCApi();
+    if (typeof SC === 'undefined' || !SC.Widget) return;
+    const scUrl = `https://w.soundcloud.com/player/?url=${encodeURIComponent(url)}&color=%23f97316&auto_play=true&buying=false&sharing=false&download=false&show_artwork=false&show_playcount=false&show_user=false&hide_related=true&show_comments=false&show_reposts=false&show_teaser=false&visual=false`;
+    wrap.innerHTML = `<iframe id="player-sc" width="1" height="1" scrolling="no" frameborder="no" allow="autoplay" src="${scUrl}"></iframe>`;
+    const widget = SC.Widget(document.getElementById('player-sc'));
+    player.widget = widget;
+    widget.bind(SC.Widget.Events.READY, () => {
+      widget.getDuration(d => { player.duration = d; });
+      widget.play();
+      player.playing = true;
+      playBtn.innerHTML = '&#9646;&#9646;';
+    });
+    widget.bind(SC.Widget.Events.PLAY_PROGRESS, (e) => {
+      updateProgress(e.currentPosition / 1000, player.duration / 1000);
+    });
+    widget.bind(SC.Widget.Events.FINISH, () => {
+      player.playing = false;
+      playBtn.innerHTML = '&#9654;';
+    });
+  } else if (platform === 'spotify') {
+    // No controllable API — show Spotify embed, hide custom controls
+    document.getElementById('player-bar-controls').style.display = 'none';
+    let embedUrl = url;
+    if (!embedUrl.includes('embed')) embedUrl = embedUrl.replace('open.spotify.com/', 'open.spotify.com/embed/');
+    document.getElementById('player-bar-embed').innerHTML =
+      `<iframe src="${embedUrl}" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy" style="display:block;"></iframe>`;
+  }
+}
+
+function initPlayerBar() {
+  const closeBtn = document.getElementById('player-bar-close');
+  const playBtn = document.getElementById('player-bar-play');
+  const progress = document.getElementById('player-bar-progress');
+
+  if (closeBtn) {
+    closeBtn.addEventListener('click', () => {
+      cleanupPlayer();
+      document.getElementById('player-bar')?.classList.add('hidden');
+      document.body.classList.remove('player-open');
+    });
+  }
+
+  if (playBtn) {
+    playBtn.addEventListener('click', () => {
+      if (!player.widget) return;
+      if (player.playing) {
+        if (player.platform === 'youtube') player.widget.pauseVideo();
+        else if (player.platform === 'soundcloud') player.widget.pause();
+        player.playing = false;
+        playBtn.innerHTML = '&#9654;';
+      } else {
+        if (player.platform === 'youtube') { player.widget.playVideo(); startYTPoll(); }
+        else if (player.platform === 'soundcloud') player.widget.play();
+        player.playing = true;
+        playBtn.innerHTML = '&#9646;&#9646;';
+      }
+    });
+  }
+
+  if (progress) {
+    progress.addEventListener('click', (e) => {
+      if (!player.widget || !player.duration) return;
+      const pct = (e.clientX - progress.getBoundingClientRect().left) / progress.offsetWidth;
+      if (player.platform === 'youtube') player.widget.seekTo(pct * player.duration, true);
+      else if (player.platform === 'soundcloud') player.widget.seekTo(pct * player.duration);
+    });
+  }
+}
+
 // ── Helper: navigate programmatically ──────────────
 export function navigateTo(hash) {
   location.hash = hash;
@@ -388,6 +597,9 @@ async function init() {
 
   // Init search
   initSearch();
+
+  // Init player bar
+  initPlayerBar();
 
   // Route
   window.addEventListener('hashchange', route);
