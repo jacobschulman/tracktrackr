@@ -26,6 +26,7 @@ export async function render(container, index, params) {
 
   const displayArtist = titleCase(artist);
   const displayTitle = titleCase(title);
+  const spotifySearch = encodeURIComponent(`${displayArtist} ${displayTitle}`);
 
   // Show loading state while sets load
   container.innerHTML = `
@@ -33,6 +34,7 @@ export async function render(container, index, params) {
       <h1 class="detail-name">${displayArtist} &mdash; ${displayTitle}</h1>
       <div class="detail-meta">
         <span class="pill pill-purple" id="track-play-count">Loading...</span>
+        <a href="https://open.spotify.com/search/${spotifySearch}" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:4px;padding:4px 12px;background:var(--green-dim);border-radius:100px;font-size:0.75rem;color:var(--green);text-decoration:none;font-weight:600;transition:opacity var(--transition);" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">&#9835; Spotify</a>
       </div>
     </div>
     <div id="track-loading">
@@ -255,43 +257,42 @@ export async function render(container, index, params) {
   if (!contentEl) return;
 
   contentEl.innerHTML = `
-    <div class="detail-grid">
-      <div class="card">
-        <div class="card-header"><div class="card-title">Orbit Timeline</div></div>
-        <div style="overflow-x:auto;">
-          <div style="display:flex;align-items:center;gap:4px;min-width:max-content;padding:8px 0;">
-            ${timelineHtml}
-          </div>
-          <div style="display:flex;align-items:flex-start;gap:4px;min-width:max-content;">
-            ${timelineLabelsHtml}
-          </div>
+    <div class="stats-row" style="margin-bottom:24px;">
+      <div class="stat-card">
+        <div class="stat-number">${history.length}</div>
+        <div class="stat-label">Plays</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">${streak.totalYears}</div>
+        <div class="stat-label">Years</div>
+      </div>
+      ${streak.streak > 1 ? `<div class="stat-card">
+        <div class="stat-number">${streak.streak}</div>
+        <div class="stat-label">Year Streak</div>
+      </div>` : ''}
+      <div class="stat-card">
+        <div class="stat-number">${uniqueDJCount}</div>
+        <div class="stat-label">Unique DJs</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">${blends.length}</div>
+        <div class="stat-label">Blends</div>
+      </div>
+    </div>
+
+    <div class="card" style="margin-bottom:24px;">
+      <div class="card-header"><div class="card-title">Orbit Timeline</div></div>
+      <div style="overflow-x:auto;">
+        <div style="display:flex;align-items:center;gap:4px;min-width:max-content;padding:8px 0;">
+          ${timelineHtml}
         </div>
-        <div style="margin-top:12px;display:flex;gap:16px;font-size:0.75rem;color:var(--muted);">
-          <span><strong style="color:var(--text)">${streak.totalYears}</strong> years played</span>
-          ${streak.streak > 1 ? `<span><strong style="color:var(--text)">${streak.streak}</strong>-year streak (${streak.startYear}&ndash;${streak.endYear})</span>` : ''}
+        <div style="display:flex;align-items:flex-start;gap:4px;min-width:max-content;">
+          ${timelineLabelsHtml}
         </div>
       </div>
-
-      <div class="card">
-        <div class="card-header"><div class="card-title">Stats</div></div>
-        <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;">
-          <div class="stat-card">
-            <div class="stat-number">${history.length}</div>
-            <div class="stat-label">Total Plays</div>
-          </div>
-          <div class="stat-card">
-            <div class="stat-number">${streak.totalYears}</div>
-            <div class="stat-label">Years</div>
-          </div>
-          <div class="stat-card">
-            <div class="stat-number">${uniqueDJCount}</div>
-            <div class="stat-label">Unique DJs</div>
-          </div>
-          <div class="stat-card">
-            <div class="stat-number">${blends.length}</div>
-            <div class="stat-label">Blends</div>
-          </div>
-        </div>
+      <div style="margin-top:12px;display:flex;gap:16px;font-size:0.75rem;color:var(--muted);">
+        <span><strong style="color:var(--text)">${streak.totalYears}</strong> years played</span>
+        ${streak.streak > 1 ? `<span><strong style="color:var(--text)">${streak.streak}</strong>-year streak (${streak.startYear}&ndash;${streak.endYear})</span>` : ''}
       </div>
     </div>
 
