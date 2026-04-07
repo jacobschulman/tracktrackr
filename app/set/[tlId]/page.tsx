@@ -4,6 +4,7 @@ import { fmt } from '@/lib/data';
 import { trackSlug, slugify } from '@/lib/slugs';
 import { StageBadge } from '@/components/StageBadge';
 import Link from 'next/link';
+import { PlayButtons } from './PlayButtons';
 
 export function generateStaticParams() {
   const index = loadIndex();
@@ -174,30 +175,12 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
           </a>
         </div>
         {/* Recording play buttons */}
-        {(ytRec || scRec) && (
-          <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap', marginTop: '16px' }}>
-            {ytRec && (
-              <a
-                href={ytRec.url}
-                target="_blank"
-                rel="noopener"
-                className="rec-btn rec-btn-yt"
-              >
-                &#9654; Play on YouTube
-              </a>
-            )}
-            {scRec && (
-              <a
-                href={scRec.url}
-                target="_blank"
-                rel="noopener"
-                className="rec-btn rec-btn-sc"
-              >
-                &#9654; Play on SoundCloud
-              </a>
-            )}
-          </div>
-        )}
+        <PlayButtons
+          ytUrl={ytRec?.url}
+          scUrl={scRec?.url}
+          title={`${djName} @ ${setData.stage} · Ultra Miami · ${setData.year}`}
+          tlId={tlId}
+        />
       </div>
 
       {/* DJ's other sets */}

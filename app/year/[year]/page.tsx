@@ -3,6 +3,7 @@ import { CONFIG, getStageColor } from '@/lib/config';
 import { trackSlug } from '@/lib/slugs';
 import { StageBadge } from '@/components/StageBadge';
 import Link from 'next/link';
+import { YearSelect } from './YearPageClient';
 
 export function generateStaticParams() {
   const index = loadIndex();
@@ -114,27 +115,8 @@ export default async function YearDetailPage({ params }: { params: Promise<{ yea
   return (
     <>
       {/* Year selector toolbar */}
-      <div className="sets-toolbar" style={{ marginBottom: 16 }}>
-        <div
-          className="year-pills"
-          style={{
-            overflowX: 'auto',
-            whiteSpace: 'nowrap',
-            display: 'flex',
-            gap: 6,
-          }}
-        >
-          {index.years.map((y) => (
-            <Link
-              key={y}
-              href={`/year/${y}`}
-              className={`year-pill${y === year ? ' active' : ''}`}
-              style={{ textDecoration: 'none' }}
-            >
-              {y}
-            </Link>
-          ))}
-        </div>
+      <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 16 }}>
+        <YearSelect years={index.years} current={year} />
       </div>
 
       {/* Stats bar */}
@@ -157,16 +139,16 @@ export default async function YearDetailPage({ params }: { params: Promise<{ yea
         </div>
       </div>
 
-      {/* Top 10 Tracks */}
+      {/* Top Tracks */}
       {topTracks.length > 0 && (
         <div className="card" style={{ marginBottom: '24px' }}>
           <div className="card-header">
-            <div className="card-title">Top 10 Tracks</div>
+            <div className="card-title">Top Tracks</div>
+            <Link href="/tracks" style={{ fontSize: '0.75rem', color: 'var(--purple-lt)' }}>View all &rarr;</Link>
           </div>
           <div className="leaderboard">
-            {topTracks.map((t, i) => {
+            {topTracks.slice(0, 3).map((t, i) => {
               const rank = i + 1;
-              const top3Class = rank <= 3 ? 'top3' : '';
               const slug = trackSlug(t.artist, t.title);
               return (
                 <Link
@@ -175,7 +157,7 @@ export default async function YearDetailPage({ params }: { params: Promise<{ yea
                   className="leaderboard-row"
                   style={{ cursor: 'pointer', textDecoration: 'none' }}
                 >
-                  <div className={`leaderboard-rank ${top3Class}`}>{rank}</div>
+                  <div className="leaderboard-rank top3">{rank}</div>
                   <div className="leaderboard-info">
                     <div className="leaderboard-name">
                       {t.artist} &mdash; {t.title}
@@ -195,178 +177,6 @@ export default async function YearDetailPage({ params }: { params: Promise<{ yea
         </div>
       )}
 
-      {/* Stages This Year */}
-      {stageNames.length > 0 && (
-        <div className="card" style={{ marginBottom: '24px' }}>
-          <div className="card-header">
-            <div className="card-title">Stages This Year</div>
-          </div>
-          <div style={{ padding: 0 }}>
-            {stageNames.map((stageName) => {
-              const color = getStageColor(stageName);
-              const setCount = stageCountMap[stageName];
-              const stageSets = (setsByStage[stageName] || []).sort((a, b) =>
-                a.date.localeCompare(b.date)
-              );
-
-              return (
-                <details key={stageName} className="accordion-item">
-                  <summary className="accordion-header">
-                    <div
-                      style={{
-                        display: 'flex',
-                        alignItems: 'center',
-                        gap: '8px',
-                      }}
-                    >
-                      <span
-                        className="dot"
-                        style={{
-                          background: color,
-                          width: '8px',
-                          height: '8px',
-                          borderRadius: '50%',
-                          display: 'inline-block',
-                        }}
-                      />
-                      <span style={{ fontWeight: 600 }}>{stageName}</span>
-                      <span
-                        className="text-muted"
-                        style={{ fontSize: '0.75rem' }}
-                      >
-                        {setCount} sets
-                      </span>
-                    </div>
-                    <span className="arrow">&#9654;</span>
-                  </summary>
-                  <div className="accordion-body">
-                    <div className="accordion-body-inner">
-                      {stageSets.map((s) => (
-                        <div
-                          key={s.tlId}
-                          style={{
-                            display: 'flex',
-                            justifyContent: 'space-between',
-                            alignItems: 'center',
-                            padding: '6px 0',
-                            borderBottom: '1px solid var(--border)',
-                          }}
-                        >
-                          <div>
-                            <div style={{ fontSize: '0.875rem' }}>
-                              {s.djs.map((d, di) => (
-                                <span key={d.slug}>
-                                  {di > 0 && ' & '}
-                                  <Link
-                                    href={`/dj/${d.slug}`}
-                                    className="dj-link"
-                                  >
-                                    {d.name}
-                                  </Link>
-                                </span>
-                              ))}
-                            </div>
-                            <div
-                              style={{
-                                fontSize: '0.75rem',
-                                color: 'var(--muted)',
-                              }}
-                            >
-                              {s.date}
-                            </div>
-                          </div>
-                          <Link
-                            href={`/set/${s.tlId}`}
-                            style={{
-                              fontSize: '0.75rem',
-                              color: 'var(--purple-lt)',
-                              whiteSpace: 'nowrap',
-                              marginLeft: 8,
-                            }}
-                          >
-                            {s.tracksIdentified || 0} tracks &rarr;
-                          </Link>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                </details>
-              );
-            })}
-          </div>
-        </div>
-      )}
-
-      {/* DJ Highlights */}
-      {(topByTracks.length > 0 || topBySets.length > 0) && (
-        <div
-          style={{
-            display: 'flex',
-            gap: '20px',
-            marginBottom: '24px',
-            flexWrap: 'wrap',
-          }}
-        >
-          {topByTracks.length > 0 && (
-            <div className="card" style={{ flex: 1, minWidth: 0 }}>
-              <div className="card-header">
-                <div className="card-title">Most Tracks ID&apos;d</div>
-              </div>
-              <table className="data-table">
-                <thead>
-                  <tr>
-                    <th>#</th>
-                    <th>DJ</th>
-                    <th>Tracks</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {topByTracks.map((d, i) => (
-                    <tr key={d.slug}>
-                      <td>{i + 1}</td>
-                      <td>
-                        <Link href={`/dj/${d.slug}`} className="dj-link">
-                          {d.name}
-                        </Link>
-                      </td>
-                      <td>{fmt(d.tracksIdentified)}</td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
-          )}
-          {topBySets.length > 0 && (
-            <div className="card" style={{ flex: 1, minWidth: 0 }}>
-              <div className="card-header">
-                <div className="card-title">Most Sets</div>
-              </div>
-              <table className="data-table">
-                <thead>
-                  <tr>
-                    <th>#</th>
-                    <th>DJ</th>
-                    <th>Sets</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {topBySets.map((d, i) => (
-                    <tr key={d.slug}>
-                      <td>{i + 1}</td>
-                      <td>
-                        <Link href={`/dj/${d.slug}`} className="dj-link">
-                          {d.name}
-                        </Link>
-                      </td>
-                      <td>{d.sets}</td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
-          )}
-        </div>
-      )}
 
       {/* All Sets Grid */}
       <div className="section-title">Sets &mdash; {year}</div>
