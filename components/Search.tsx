@@ -26,7 +26,7 @@ export function Search() {
   const [results, setResults] = useState<SearchResult[]>([]);
   const [isOpen, setIsOpen] = useState(false);
   const [focusedIdx, setFocusedIdx] = useState(-1);
-  const [index, setIndex] = useState<any>(null);
+  const [djIndex, setDjIndex] = useState<any[] | null>(null);
   const [trackIndex, setTrackIndex] = useState<any[] | null>(null);
   const inputRef = useRef<HTMLInputElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
@@ -34,24 +34,16 @@ export function Search() {
   const searchTimeoutRef = useRef<NodeJS.Timeout>(undefined);
 
   const loadData = useCallback(async () => {
-    if (index) return;
+    if (djIndex) return;
     try {
-      const [indexRes, trackRes] = await Promise.all([
-        fetch('/data/ultra-miami/index.json'),
-        fetch('/data/track-search.json'),
-      ]);
-      const indexData = await indexRes.json();
-      setIndex(indexData);
-      try {
-        const trackData = await trackRes.json();
-        setTrackIndex(trackData);
-      } catch {
-        setTrackIndex([]);
-      }
+      const res = await fetch('/api/search');
+      const data = await res.json();
+      setDjIndex(data.djs);
+      setTrackIndex(data.tracks);
     } catch (e) {
       console.error('Failed to load search data', e);
     }
-  }, [index]);
+  }, [djIndex]);
 
   useEffect(() => {
     const handleClickOutside = (e: MouseEvent) => {
@@ -64,7 +56,7 @@ export function Search() {
   }, []);
 
   const performSearch = useCallback((q: string) => {
-    if (!index || q.length < 2) {
+    if (!djIndex || q.length < 2) {
       setResults([]);
       setIsOpen(false);
       return;
@@ -74,16 +66,11 @@ export function Search() {
     const allResults: SearchResult[] = [];
 
     // Search DJs
-    const djMap = new Map<string, string>();
-    for (const set of index.sets) {
-      for (const dj of set.djs) {
-        if (dj.name.toLowerCase().includes(lower) && !djMap.has(dj.slug)) {
-          djMap.set(dj.slug, dj.name);
-        }
-      }
-    }
-    for (const [slug, name] of [...djMap.entries()].slice(0, 8)) {
-      allResults.push({ type: 'dj', slug, name });
+    const djMatches = djIndex
+      .filter((d: any) => d.name.toLowerCase().includes(lower))
+      .slice(0, 8);
+    for (const d of djMatches) {
+      allResults.push({ type: 'dj', slug: d.slug, name: d.name });
     }
 
     // Search tracks
@@ -99,7 +86,7 @@ export function Search() {
     setResults(allResults);
     setIsOpen(allResults.length > 0);
     setFocusedIdx(-1);
-  }, [index, trackIndex]);
+  }, [djIndex, trackIndex]);
 
   const handleInput = (value: string) => {
     setQuery(value);
