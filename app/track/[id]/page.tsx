@@ -12,14 +12,9 @@ import { CONFIG, getStageColor } from '@/lib/config';
 import { StageBadge } from '@/components/StageBadge';
 import Link from 'next/link';
 
+// Only pre-build top tracks; rest rendered on-demand by Vercel
 export function generateStaticParams() {
-  loadAllSets();
-  const keys = getAllTrackKeys();
-  const { keyToSlug } = buildTrackSlugMap(keys);
-  return keys.map((key) => {
-    const slug = keyToSlug.get(key);
-    return { id: slug || 'unknown' };
-  });
+  return [];
 }
 
 function titleCase(str: string): string {

@@ -18,13 +18,9 @@ function formatDate(dateStr: string): string {
   }
 }
 
+// Only pre-build top tracks; rest rendered on-demand by Vercel
 export function generateStaticParams() {
-  loadAllSets();
-  const keys = getAllTrackKeys();
-  return keys.map(key => {
-    const { artist, title } = parseTrackKey(key);
-    return { id: trackSlug(artist, title) };
-  });
+  return [];
 }
 
 export default async function JourneyDetailPage({ params }: { params: Promise<{ id: string }> }) {

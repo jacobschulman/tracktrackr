@@ -7,15 +7,9 @@ import Link from 'next/link';
 import type { SetMeta } from '@/lib/types';
 import { DJDetailClient } from './DJDetailClient';
 
+// Only pre-build top DJs; rest rendered on-demand by Vercel
 export function generateStaticParams() {
-  const index = loadIndex();
-  const slugs = new Set<string>();
-  for (const s of index.sets) {
-    for (const d of s.djs) {
-      slugs.add(d.slug);
-    }
-  }
-  return [...slugs].map(slug => ({ slug }));
+  return [];
 }
 
 function formatDate(dateStr: string): string {

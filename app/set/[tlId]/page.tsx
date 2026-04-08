@@ -6,9 +6,9 @@ import { StageBadge } from '@/components/StageBadge';
 import Link from 'next/link';
 import { PlayButtons } from './PlayButtons';
 
+// Only pre-build recent sets; rest rendered on-demand by Vercel
 export function generateStaticParams() {
-  const index = loadIndex();
-  return index.sets.filter((s) => s.hasSetFile).map((s) => ({ tlId: s.tlId }));
+  return [];
 }
 
 function isIDTrack(artist: string, title: string): boolean {
