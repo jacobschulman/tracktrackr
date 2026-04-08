@@ -7,6 +7,8 @@ import { Search } from '@/components/Search';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { HashRedirect } from '@/components/HashRedirect';
 import { PlayerBar } from '@/components/PlayerBar';
+import { Analytics } from '@vercel/analytics/next';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -36,6 +38,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </div>
         </main>
         <PlayerBar />
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
