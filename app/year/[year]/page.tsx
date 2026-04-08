@@ -1,9 +1,8 @@
 import { loadIndex, loadAllSets, loadSet, getTopTracks, getYearStats, getYearSpotlight, fmt } from '@/lib/data';
 import { CONFIG, getStageColor } from '@/lib/config';
 import { trackSlug } from '@/lib/slugs';
-import { StageBadge } from '@/components/StageBadge';
 import Link from 'next/link';
-import { YearSelect } from './YearPageClient';
+import { YearSelect, FilterableSetGrid } from './YearPageClient';
 
 export function generateStaticParams() {
   const index = loadIndex();
@@ -93,15 +92,25 @@ export default async function YearDetailPage({ params }: { params: Promise<{ yea
     a.date.localeCompare(b.date)
   );
 
-  // Build set enrichment data (track previews)
-  const setEnrich: Record<string, { tracks: { artist: string; title: string; remix: string }[]; totalTracks: number }> = {};
+  // Build set enrichment data (track previews + recordings)
+  const setEnrich: Record<string, {
+    tracks: { artist: string; title: string; remix: string }[];
+    totalTracks: number;
+    hasYouTube: boolean;
+    hasSoundCloud: boolean;
+    ytUrl?: string;
+    scUrl?: string;
+  }> = {};
   for (const s of yearSets) {
     if (!s.hasSetFile) continue;
     const setData = loadSet(s.tlId);
-    if (!setData || !setData.tracks) continue;
-    const tracks = setData.tracks.filter(
+    if (!setData) continue;
+    const tracks = (setData.tracks || []).filter(
       t => (t.type === 'normal' || t.type === 'blend') && !isIDTrack(t.artist, t.title)
     );
+    const recordings = (setData as any).recordings || [];
+    const ytRec = recordings.find((r: any) => r.platform === 'youtube');
+    const scRec = recordings.find((r: any) => r.platform === 'soundcloud');
     setEnrich[s.tlId] = {
       totalTracks: tracks.length,
       tracks: tracks.slice(0, 2).map(t => ({
@@ -109,8 +118,33 @@ export default async function YearDetailPage({ params }: { params: Promise<{ yea
         title: t.title,
         remix: t.remix || '',
       })),
+      hasYouTube: !!ytRec,
+      hasSoundCloud: !!scRec,
+      ytUrl: ytRec?.url,
+      scUrl: scRec?.url,
     };
   }
+
+  // Build data for client grid
+  const setCards = sortedSets.map(s => {
+    const enrich = setEnrich[s.tlId];
+    return {
+      tlId: s.tlId,
+      djName: s.djs.map(d => d.name).join(' & '),
+      stage: s.stage,
+      stageColor: getStageColor(s.stage),
+      date: s.date,
+      dateFormatted: formatDateShort(s.date),
+      duration: s.duration || '',
+      tracksIdentified: s.tracksIdentified || 0,
+      hasYouTube: enrich?.hasYouTube || false,
+      hasSoundCloud: enrich?.hasSoundCloud || false,
+      ytUrl: enrich?.ytUrl,
+      scUrl: enrich?.scUrl,
+      tracks: enrich?.tracks || [],
+      totalTracks: enrich?.totalTracks || 0,
+    };
+  });
 
   return (
     <>
@@ -178,54 +212,9 @@ export default async function YearDetailPage({ params }: { params: Promise<{ yea
       )}
 
 
-      {/* All Sets Grid */}
+      {/* All Sets Grid — filterable */}
       <div className="section-title">Sets &mdash; {year}</div>
-      <div className="set-grid">
-        {sortedSets.map((s) => {
-          const stageColor = getStageColor(s.stage);
-          const enrich = setEnrich[s.tlId];
-          return (
-            <Link
-              key={s.tlId}
-              href={`/set/${s.tlId}`}
-              className="set-card"
-              style={{ textDecoration: 'none', color: 'inherit', borderLeft: `3px solid ${stageColor}` }}
-            >
-              <div className="set-card-dj">
-                {s.djs.map((d) => d.name).join(' & ')}
-              </div>
-              <div className="set-card-meta" style={{ marginBottom: 8 }}>
-                <StageBadge stage={s.stage} />
-                <span className="separator">&middot;</span>
-                <span>{formatDateShort(s.date)}</span>
-                {s.duration && (
-                  <>
-                    <span className="separator">&middot;</span>
-                    <span>{s.duration}</span>
-                  </>
-                )}
-              </div>
-              {enrich && enrich.tracks.length > 0 && (
-                <div className="set-card-track-preview">
-                  {enrich.tracks.map((t, i) => (
-                    <div key={i} className="set-card-track-line">
-                      {t.artist} &mdash; {t.title}{t.remix ? ` (${t.remix})` : ''}
-                    </div>
-                  ))}
-                  {enrich.totalTracks > 2 && (
-                    <div className="set-card-track-more">+ {enrich.totalTracks - 2} more tracks</div>
-                  )}
-                </div>
-              )}
-              {!enrich && (
-                <div className="set-card-meta">
-                  <span>{s.tracksIdentified || 0} tracks ID&apos;d</span>
-                </div>
-              )}
-            </Link>
-          );
-        })}
-      </div>
+      <FilterableSetGrid sets={setCards} stages={stageNames} />
     </>
   );
 }

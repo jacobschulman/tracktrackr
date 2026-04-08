@@ -387,12 +387,6 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
   outline: none;
 }
 .filter-select:focus { border-color: var(--purple); }
-.filter-label {
-  font-size: 0.75rem;
-  color: var(--muted);
-  font-weight: 500;
-}
-
 /* ── Year pills (legacy) ───────────────────────── */
 .year-pills {
   display: flex;
@@ -1288,6 +1282,34 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
 }
 .filter-chip[data-filter-stage].active {
   border-left-color: var(--chip-color, var(--purple));
+}
+.filter-chip-yt {
+  border-left: 3px solid #f44;
+}
+.filter-chip-yt.active {
+  background: rgba(255, 68, 68, 0.12);
+  border-color: #f44;
+  color: #f66;
+}
+.filter-chip-sc {
+  border-left: 3px solid #f80;
+}
+.filter-chip-sc.active {
+  background: rgba(255, 136, 0, 0.12);
+  border-color: #f80;
+  color: #fa4;
+}
+.filter-label {
+  font-size: 0.6875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  padding: 5px 4px 5px 0;
+  min-width: 40px;
+}
+.set-card-play .rec-btn {
+  font-size: 0.6875rem;
+  padding: 3px 10px;
 }
 
 /* ── Accordion ──────────────────────────────────── */
