@@ -14,12 +14,6 @@ interface TimelineBar {
   festivals: string[];
 }
 
-interface YearInfo {
-  sets: { tlId: string; date: string; stage: string; duration: string; festival: string }[];
-  stages: string[];
-  tracks: number;
-  festivals: string[];
-}
 
 interface SetForFilter {
   tlId: string;
@@ -43,7 +37,6 @@ interface TrackPreview {
 
 interface Props {
   timelineBars: TimelineBar[];
-  yearInfoMap: Record<number, YearInfo>;
   allSets: SetForFilter[];
   allFestivals: string[];
   festivalColors: Record<string, string>;
@@ -64,8 +57,7 @@ function formatDate(dateStr: string): string {
   }
 }
 
-export function DJDetailClient({ timelineBars, yearInfoMap, allSets, allFestivals, festivalColors, sortedYears, totalSets, setTrackPreviews, setRecordings, djName }: Props) {
-  const [activeVtYear, setActiveVtYear] = useState<number | null>(null);
+export function DJDetailClient({ timelineBars, allSets, allFestivals, festivalColors, sortedYears, totalSets, setTrackPreviews, setRecordings, djName }: Props) {
   const [filterYear, setFilterYear] = useState<string>('all');
   const [filterFestival, setFilterFestival] = useState<string>('all');
   const [showAllSets, setShowAllSets] = useState(false);
@@ -83,27 +75,12 @@ export function DJDetailClient({ timelineBars, yearInfoMap, allSets, allFestival
       const isExpanded = list.classList.contains('expanded');
       btn.textContent = isExpanded ? 'Show less' : (btn as HTMLElement).dataset.originalText || 'Show all';
     };
-    // Store original text on mount
     document.querySelectorAll('.signature-expand-btn').forEach(btn => {
       (btn as HTMLElement).dataset.originalText = btn.textContent || '';
     });
     document.addEventListener('click', handler);
     return () => document.removeEventListener('click', handler);
   }, []);
-
-  // Close timeline on outside click
-  useEffect(() => {
-    const handler = (e: MouseEvent) => {
-      const target = e.target as HTMLElement;
-      if (!target.closest('.visual-timeline-card')) {
-        setActiveVtYear(null);
-      }
-    };
-    document.addEventListener('click', handler);
-    return () => document.removeEventListener('click', handler);
-  }, []);
-
-  const vtInfo = activeVtYear ? yearInfoMap[activeVtYear] : null;
 
   // Filtered sets
   const filteredSets = allSets.filter(s => {

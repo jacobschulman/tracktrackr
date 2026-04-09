@@ -228,42 +228,40 @@ export function getFestivalSummaries() {
 let _fileIndex: Map<string, string> | null = null;
 let _recordingIndex: Map<string, { yt?: string; sc?: string }> | null = null;
 
-// Load the pre-built track index (from scripts/build-track-index.js)
-function loadPrebuiltIndex(): boolean {
-  if (_trackIndex) return true;
-  const indexPath = path.join(DATA_ROOT, 'track-index.json');
+function loadFileIndex(): Map<string, string> {
+  if (_fileIndex) return _fileIndex;
+  _fileIndex = new Map();
   try {
-    if (!fs.existsSync(indexPath)) return false;
-    const raw = fs.readFileSync(indexPath, 'utf-8');
+    const raw = fs.readFileSync(path.join(DATA_ROOT, 'file-index.json'), 'utf-8');
     const data = JSON.parse(raw);
-
-    // Track index
-    _trackIndex = new Map();
-    for (const [key, appearances] of Object.entries(data.trackIndex)) {
-      _trackIndex.set(key, appearances as TrackAppearance[]);
-    }
-
-    // Blend index
-    _blendIndex = new Map();
-    for (const [key, appearances] of Object.entries(data.blendIndex)) {
-      _blendIndex.set(key, appearances as BlendAppearance[]);
-    }
-
-    // File index
-    _fileIndex = new Map();
-    for (const [tlId, relPath] of Object.entries(data.fileIndex)) {
+    for (const [tlId, relPath] of Object.entries(data)) {
       _fileIndex.set(tlId, path.join(DATA_ROOT, relPath as string));
     }
+  } catch {}
+  return _fileIndex;
+}
 
-    // Recording index
-    _recordingIndex = new Map();
-    for (const [tlId, rec] of Object.entries(data.recordingIndex)) {
+function loadRecordingIndex(): Map<string, { yt?: string; sc?: string }> {
+  if (_recordingIndex) return _recordingIndex;
+  _recordingIndex = new Map();
+  try {
+    const raw = fs.readFileSync(path.join(DATA_ROOT, 'recordings.json'), 'utf-8');
+    const data = JSON.parse(raw);
+    for (const [tlId, rec] of Object.entries(data)) {
       _recordingIndex.set(tlId, rec as { yt?: string; sc?: string });
     }
+  } catch {}
+  return _recordingIndex;
+}
 
-    return true;
+// Load a pre-built DJ index (from scripts/build-dj-indexes.js)
+export function loadDJIndex(slug: string): any | null {
+  const djPath = path.join(DATA_ROOT, 'djs', `${slug}.json`);
+  try {
+    const raw = fs.readFileSync(djPath, 'utf-8');
+    return JSON.parse(raw);
   } catch {
-    return false;
+    return null;
   }
 }
 
@@ -272,13 +270,12 @@ export function loadSet(tlId: string): SetData | null {
   if (_setCache.has(tlId)) return _setCache.get(tlId)!;
 
   loadIndex();
-  loadPrebuiltIndex(); // ensure file index is loaded
-
   const festivalSlug = _tlIdToFestival.get(tlId);
   if (!festivalSlug) return null;
 
-  // Try file index first
-  const filePath = _fileIndex?.get(tlId);
+  // Try file index first (fast)
+  const fi = loadFileIndex();
+  const filePath = fi.get(tlId);
   if (filePath) {
     try {
       const raw = fs.readFileSync(filePath, 'utf-8');
@@ -317,18 +314,15 @@ export function loadSet(tlId: string): SetData | null {
 
 // Get recording URLs for a set (from pre-built index, no file read needed)
 export function getSetRecordings(tlId: string): { ytUrl?: string; scUrl?: string } | null {
-  loadPrebuiltIndex();
-  const rec = _recordingIndex?.get(tlId);
+  const ri = loadRecordingIndex();
+  const rec = ri.get(tlId);
   if (!rec) return null;
   return { ytUrl: rec.yt, scUrl: rec.sc };
 }
 
-// Load all sets and build indexes
+// Load all sets and build indexes (expensive - only called when track index needed)
 export function loadAllSets(): void {
   if (_trackIndex) return;
-  // Try pre-built index first (instant)
-  if (loadPrebuiltIndex()) return;
-  // Fallback: load every set file (slow)
   const index = loadIndex();
   const scraped = index.sets.filter(s => s.hasSetFile);
   for (const s of scraped) {

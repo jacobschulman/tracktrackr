@@ -1,11 +1,9 @@
-import { loadIndex, loadAllSets, loadSet, getDJHistory, getDJStats, getDJStreak, getDJRepeatRate, getTopTracks, getMostSupportedTracks, getSetRecordings, trackKey, parseTrackKey } from '@/lib/data';
-import { getStageColor, FESTIVALS } from '@/lib/festivals';
+import { loadIndex, loadSet, getDJHistory, getSetRecordings, loadDJIndex } from '@/lib/data';
+import { FESTIVALS } from '@/lib/festivals';
 import { fmt } from '@/lib/data';
 import { trackSlug } from '@/lib/slugs';
-import { StageBadge } from '@/components/StageBadge';
 import { FestivalBadge } from '@/components/FestivalBadge';
 import Link from 'next/link';
-import type { SetMeta } from '@/lib/types';
 import { DJDetailClient } from './DJDetailClient';
 import { AnimatedNumber } from '@/components/AnimatedNumber';
 
@@ -34,9 +32,11 @@ function isIDTrack(artist: string, title: string): boolean {
 export default async function DJPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const index = loadIndex();
-  loadAllSets();
 
+  // Try pre-built DJ index first (fast path - no loadAllSets needed)
+  const djIdx = loadDJIndex(slug);
   const history = getDJHistory(slug);
+
   if (history.length === 0) {
     return (
       <div className="empty-state">
@@ -46,48 +46,45 @@ export default async function DJPage({ params }: { params: Promise<{ slug: strin
     );
   }
 
-  // -- Basic info --
+  // -- Basic info (from pre-built index or computed) --
   const djEntry = history[0].djs.find(d => d.slug === slug);
-  const djName = djEntry ? djEntry.name : slug;
-  const years = [...new Set(history.map(s => s.year))].sort((a, b) => a - b);
+  const djName = djIdx?.name || (djEntry ? djEntry.name : slug);
+  const years = djIdx?.years || [...new Set(history.map(s => s.year))].sort((a: number, b: number) => a - b);
   const firstYear = years[0];
   const lastYear = years[years.length - 1];
-  const totalSets = history.length;
-  const uniqueYears = years.length;
+  const totalSets = djIdx?.totalSets || history.length;
+  const uniqueYears = djIdx?.uniqueYears || years.length;
   const yearSpan = lastYear - firstYear;
-  const streak = getDJStreak(slug);
-  const festivals = [...new Set(history.map(s => s.festival))];
+  const streak = djIdx?.streak || 0;
+  const festivals: string[] = djIdx?.festivals || [...new Set(history.map(s => s.festival))];
+  const avgIdRate = djIdx ? djIdx.idRate / 100 : 0;
+  const repeatData = djIdx
+    ? { totalUniqueTracks: djIdx.totalUniqueTracks, repeatRate: djIdx.repeatRate / 100 }
+    : { totalUniqueTracks: 0, repeatRate: 0 };
 
-  const withTracks = history.filter(s => s.tracksTotal > 0 && s.hasSetFile);
-  const avgIdRate = withTracks.length > 0
-    ? withTracks.reduce((sum, s) => sum + (s.tracksIdentified / s.tracksTotal), 0) / withTracks.length
-    : 0;
-
-  // -- Repeat rate + unique tracks --
-  const repeatData = getDJRepeatRate(slug);
-
-  // -- Visual timeline data --
-  const yearInfoMap: Record<number, { sets: SetMeta[]; stages: string[]; tracks: number; festivals: string[] }> = {};
-  for (const s of history) {
-    if (!yearInfoMap[s.year]) yearInfoMap[s.year] = { sets: [], stages: [], tracks: 0, festivals: [] };
-    yearInfoMap[s.year].sets.push(s);
-    if (!yearInfoMap[s.year].stages.includes(s.stage)) yearInfoMap[s.year].stages.push(s.stage);
-    if (!yearInfoMap[s.year].festivals.includes(s.festival)) yearInfoMap[s.year].festivals.push(s.festival);
-    yearInfoMap[s.year].tracks += (s.tracksTotal || s.tracksIdentified || 0);
-  }
-
-  // Build visual timeline bars from first to last year (with gaps)
+  // -- Timeline from pre-built index or computed --
   const timelineBars: { year: number; active: boolean; stages: string[]; setCount: number; tracks: number; festivals: string[] }[] = [];
-  for (let y = firstYear; y <= lastYear; y++) {
-    const info = yearInfoMap[y];
-    if (info) {
-      timelineBars.push({ year: y, active: true, stages: info.stages, setCount: info.sets.length, tracks: info.tracks, festivals: info.festivals });
-    } else {
-      timelineBars.push({ year: y, active: false, stages: [], setCount: 0, tracks: 0, festivals: [] });
+  if (djIdx?.timeline) {
+    for (let y = firstYear; y <= lastYear; y++) {
+      const info = djIdx.timeline[y];
+      if (info) {
+        timelineBars.push({ year: y, active: true, stages: [], setCount: info.sets, tracks: 0, festivals: info.festivals });
+      } else {
+        timelineBars.push({ year: y, active: false, stages: [], setCount: 0, tracks: 0, festivals: [] });
+      }
+    }
+  } else {
+    for (let y = firstYear; y <= lastYear; y++) {
+      const ySets = history.filter(s => s.year === y);
+      if (ySets.length > 0) {
+        timelineBars.push({ year: y, active: true, stages: [], setCount: ySets.length, tracks: 0, festivals: [...new Set(ySets.map(s => s.festival))] });
+      } else {
+        timelineBars.push({ year: y, active: false, stages: [], setCount: 0, tracks: 0, festivals: [] });
+      }
     }
   }
 
-  // -- B2B partners (with set links) --
+  // -- B2B partners --
   const b2bMap = new Map<string, { slug: string; name: string; count: number; years: number[]; tlIds: string[] }>();
   for (const s of history) {
     if (s.djs.length > 1) {
@@ -105,20 +102,14 @@ export default async function DJPage({ params }: { params: Promise<{ slug: strin
   }
   const b2bPartners = [...b2bMap.values()].sort((a, b) => b.count - a.count);
 
-  // -- Sets by Year --
-  const setsByYear: Record<number, SetMeta[]> = {};
-  for (const s of history) {
-    if (!setsByYear[s.year]) setsByYear[s.year] = [];
-    setsByYear[s.year].push(s);
-  }
-  const sortedYearsDesc = Object.keys(setsByYear).map(Number).sort((a, b) => b - a);
+  // -- Sets --
+  const sortedYearsDesc = [...new Set(history.map(s => s.year))].sort((a, b) => b - a);
   const allSetsSorted = [...history].sort((a, b) => b.date.localeCompare(a.date));
   const allFestivals = [...new Set(history.map(s => s.festival))].sort();
 
-  // -- Set track previews (only first 8 sets) + recording info (from pre-built index) --
+  // -- Set track previews (only first 8) + recording info (from pre-built index) --
   const setTrackPreviews: Record<string, { tracks: { artist: string; title: string; remix: string; isID: boolean }[]; totalTracks: number }> = {};
   const setRecordingsMap: Record<string, { ytUrl?: string; scUrl?: string }> = {};
-  // Track previews: only load actual set files for a few
   for (const s of allSetsSorted.slice(0, 8)) {
     if (!s.hasSetFile) continue;
     const setData = loadSet(s.tlId);
@@ -134,33 +125,16 @@ export default async function DJPage({ params }: { params: Promise<{ slug: strin
       })),
     };
   }
-  // Recordings: use pre-built index (no file reads!)
   for (const s of allSetsSorted) {
     const rec = getSetRecordings(s.tlId);
     if (rec) setRecordingsMap[s.tlId] = rec;
   }
 
-  // -- Signature Tracks: most played by this DJ --
-  const djTopTracks = getTopTracks(100, { djSlug: slug });
-  const signatureTracks = djTopTracks
-    .filter(t => t.playCount >= 2)
-    .map(t => ({ artist: t.artist, title: t.title, key: t.key, count: t.playCount, years: t.years }));
+  // -- Signature + Supported tracks from pre-built index --
+  const signatureTracks = djIdx?.signatureTracks || [];
+  const supportedTracks = djIdx?.supportedTracks || [];
 
-  // -- Most Supported Tracks: tracks by this DJ played by other DJs --
-  const supportedTracks = getMostSupportedTracks(slug, 20);
-
-  // Serialize yearInfoMap for client component
-  const yearInfoSerialized: Record<number, { sets: { tlId: string; date: string; stage: string; duration: string; festival: string }[]; stages: string[]; tracks: number; festivals: string[] }> = {};
-  for (const [y, info] of Object.entries(yearInfoMap)) {
-    yearInfoSerialized[Number(y)] = {
-      sets: info.sets.map(s => ({ tlId: s.tlId, date: s.date, stage: s.stage, duration: s.duration, festival: s.festival })),
-      stages: info.stages,
-      tracks: info.tracks,
-      festivals: info.festivals,
-    };
-  }
-
-  // Serialize sets for client filter component
+  // Serialize sets for client
   const allSetsForClient = allSetsSorted.map(s => ({
     tlId: s.tlId,
     year: s.year,
@@ -222,7 +196,6 @@ export default async function DJPage({ params }: { params: Promise<{ slug: strin
       {/* 2. Visual Timeline + Sets (client component) */}
       <DJDetailClient
         timelineBars={timelineBars}
-        yearInfoMap={yearInfoSerialized}
         allSets={allSetsForClient}
         allFestivals={allFestivals}
         festivalColors={Object.fromEntries(allFestivals.map(f => [f, FESTIVALS[f]?.accent || '#64748b']))}
