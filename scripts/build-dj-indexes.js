@@ -318,15 +318,15 @@ function makeTrackSlug(artist, title) {
   return slug.length > 200 ? slug.substring(0, 200) : slug;
 }
 
-// Aggregate all tracks with per-year and per-festival counts
-const trackAgg = new Map(); // key -> { artist, title, totalPlays, years, yearCounts, festivalCounts, djs, festivals }
+// Aggregate all tracks with per-year, per-festival, and cross-tab counts
+const trackAgg = new Map();
 for (const [slug, djTracks] of tracksByDJ) {
   for (const [key, t] of djTracks) {
     if (!trackAgg.has(key)) {
       trackAgg.set(key, {
         artist: t.artist, title: t.title,
         totalPlays: 0, years: new Set(), djs: new Set(), festivals: new Set(),
-        yearCounts: {}, festivalCounts: {},
+        yearCounts: {}, festivalCounts: {}, yearFestivalCounts: {},
       });
     }
     const entry = trackAgg.get(key);
@@ -336,12 +336,14 @@ for (const [slug, djTracks] of tracksByDJ) {
       entry.years.add(y);
       entry.yearCounts[y] = (entry.yearCounts[y] || 0) + t.count;
     }
-    // We need festival info per track - get it from the set metadata
+    // Festival info from set metadata + year-festival cross counts
     for (const tlId of t.sets) {
       const setMeta = allSets.find(s => s.tlId === tlId);
       if (setMeta) {
         entry.festivals.add(setMeta.festival);
         entry.festivalCounts[setMeta.festival] = (entry.festivalCounts[setMeta.festival] || 0) + 1;
+        const yfKey = `${setMeta.year}:${setMeta.festival}`;
+        entry.yearFestivalCounts[yfKey] = (entry.yearFestivalCounts[yfKey] || 0) + 1;
       }
     }
   }
@@ -360,6 +362,7 @@ const leaderboard = [...trackAgg.entries()]
     festivals: [...t.festivals],
     yearCounts: t.yearCounts,
     festivalCounts: t.festivalCounts,
+    yearFestivalCounts: t.yearFestivalCounts,
   }))
   .sort((a, b) => b.playCount - a.playCount)
   .slice(0, 500);

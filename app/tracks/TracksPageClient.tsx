@@ -16,6 +16,7 @@ interface TrackRow {
   festivals: string[];
   yearCounts: Record<string, number>;
   festivalCounts: Record<string, number>;
+  yearFestivalCounts?: Record<string, number>;
 }
 
 interface FestivalLabel {
@@ -36,21 +37,22 @@ export function TracksPageClient({ tracks, years, festivalLabels }: TracksPageCl
 
   const filteredTracks = useMemo(() => {
     let result = tracks;
-    if (yearFilter) {
+    if (yearFilter && festivalFilter) {
+      // Use cross-tab: only include tracks actually played at this festival in this year
+      const yfKey = `${yearFilter}:${festivalFilter}`;
+      result = result.filter(t => (t.yearFestivalCounts?.[yfKey] || 0) > 0);
+    } else if (yearFilter) {
       const y = parseInt(yearFilter);
       result = result.filter((t) => t.years.includes(y));
-    }
-    if (festivalFilter) {
+    } else if (festivalFilter) {
       result = result.filter((t) => t.festivals.includes(festivalFilter));
     }
     // Re-rank by filtered play count
     const ranked = result.map(t => {
       let filteredCount = t.playCount;
       if (yearFilter && festivalFilter) {
-        filteredCount = Math.min(
-          t.yearCounts[yearFilter] || 0,
-          t.festivalCounts[festivalFilter] || 0
-        );
+        const yfKey = `${yearFilter}:${festivalFilter}`;
+        filteredCount = t.yearFestivalCounts?.[yfKey] || 0;
       } else if (yearFilter) {
         filteredCount = t.yearCounts[yearFilter] || 0;
       } else if (festivalFilter) {
