@@ -278,47 +278,77 @@ if (fs.existsSync(oldIndex)) {
   console.log(`Removed old ${oldIndex}`);
 }
 
-// Build lightweight track search index
-const trackSearchEntries = [];
-const trackSearchMap = new Map(); // key -> { artist, title, playCount, years, djs }
-for (const [slug, djTracks] of tracksByDJ) {
-  for (const [key, t] of djTracks) {
-    if (!trackSearchMap.has(key)) {
-      trackSearchMap.set(key, { a: t.artist, t: t.title, p: 0, y: new Set(), d: new Set() });
-    }
-    const entry = trackSearchMap.get(key);
-    entry.p += t.count;
-    for (const y of t.years) entry.y.add(y);
-    entry.d.add(slug);
-  }
-}
-for (const [key, t] of trackSearchMap) {
-  trackSearchEntries.push({
-    a: t.a,
-    t: t.t,
-    s: '', // computed below
-    p: t.p,
-    y: t.y.size,
-    d: t.d.size,
-  });
-}
-// Sort by play count, take top 5000 for search
-trackSearchEntries.sort((a, b) => b.p - a.p);
-const topTracks = trackSearchEntries.slice(0, 5000);
-
-// Compute slugs
+// Build track leaderboard + search index
 function slugify(str) {
-  return str.toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-|-$/g, '');
+  return str.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
 function makeTrackSlug(artist, title) {
   return slugify(artist) + '-' + slugify(title);
 }
-for (const t of topTracks) {
-  t.s = makeTrackSlug(t.a, t.t);
+
+// Aggregate all tracks with per-year and per-festival counts
+const trackAgg = new Map(); // key -> { artist, title, totalPlays, years, yearCounts, festivalCounts, djs, festivals }
+for (const [slug, djTracks] of tracksByDJ) {
+  for (const [key, t] of djTracks) {
+    if (!trackAgg.has(key)) {
+      trackAgg.set(key, {
+        artist: t.artist, title: t.title,
+        totalPlays: 0, years: new Set(), djs: new Set(), festivals: new Set(),
+        yearCounts: {}, festivalCounts: {},
+      });
+    }
+    const entry = trackAgg.get(key);
+    entry.totalPlays += t.count;
+    entry.djs.add(slug);
+    for (const y of t.years) {
+      entry.years.add(y);
+      entry.yearCounts[y] = (entry.yearCounts[y] || 0) + t.count;
+    }
+    // We need festival info per track - get it from the set metadata
+    for (const tlId of t.sets) {
+      const setMeta = allSets.find(s => s.tlId === tlId);
+      if (setMeta) {
+        entry.festivals.add(setMeta.festival);
+        entry.festivalCounts[setMeta.festival] = (entry.festivalCounts[setMeta.festival] || 0) + 1;
+      }
+    }
+  }
 }
 
+// Build top 500 for the leaderboard page (with full breakdown data)
+const leaderboard = [...trackAgg.entries()]
+  .map(([key, t]) => ({
+    key,
+    artist: t.artist,
+    title: t.title,
+    slug: makeTrackSlug(t.artist, t.title),
+    playCount: t.totalPlays,
+    years: [...t.years].sort((a, b) => a - b),
+    djs: [...t.djs],
+    festivals: [...t.festivals],
+    yearCounts: t.yearCounts,
+    festivalCounts: t.festivalCounts,
+  }))
+  .sort((a, b) => b.playCount - a.playCount)
+  .slice(0, 500);
+
+const lbPath = path.join(DATA_ROOT, 'tracks-leaderboard.json');
+fs.writeFileSync(lbPath, JSON.stringify(leaderboard));
+console.log(`Saved ${lbPath}: ${leaderboard.length} tracks (${(fs.statSync(lbPath).size / 1024).toFixed(0)}KB)`);
+
+// Build lightweight search index (top 5000, minimal fields)
+const searchTracks = [...trackAgg.entries()]
+  .sort((a, b) => b[1].totalPlays - a[1].totalPlays)
+  .slice(0, 5000)
+  .map(([key, t]) => ({
+    a: t.artist,
+    t: t.title,
+    s: makeTrackSlug(t.artist, t.title),
+    p: t.totalPlays,
+    y: t.years.size,
+    d: t.djs.size,
+  }));
+
 const searchPath = path.join(DATA_ROOT, 'track-search.json');
-fs.writeFileSync(searchPath, JSON.stringify(topTracks));
-console.log(`Saved ${searchPath}: ${topTracks.length} tracks (${(fs.statSync(searchPath).size / 1024).toFixed(0)}KB)`);
+fs.writeFileSync(searchPath, JSON.stringify(searchTracks));
+console.log(`Saved ${searchPath}: ${searchTracks.length} tracks (${(fs.statSync(searchPath).size / 1024).toFixed(0)}KB)`);

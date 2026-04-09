@@ -13,7 +13,7 @@ interface TrackRow {
   years: number[];
   djs: string[];
   festivals: string[];
-  yearCounts: Record<number, number>;
+  yearCounts: Record<string, number>;
   festivalCounts: Record<string, number>;
 }
 
@@ -47,11 +47,11 @@ export function TracksPageClient({ tracks, years, festivalLabels }: TracksPageCl
       let filteredCount = t.playCount;
       if (yearFilter && festivalFilter) {
         filteredCount = Math.min(
-          t.yearCounts[parseInt(yearFilter)] || 0,
+          t.yearCounts[yearFilter] || 0,
           t.festivalCounts[festivalFilter] || 0
         );
       } else if (yearFilter) {
-        filteredCount = t.yearCounts[parseInt(yearFilter)] || 0;
+        filteredCount = t.yearCounts[yearFilter] || 0;
       } else if (festivalFilter) {
         filteredCount = t.festivalCounts[festivalFilter] || 0;
       }

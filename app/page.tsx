@@ -1,12 +1,12 @@
 import Link from 'next/link';
-import { loadIndex, loadAllSets, getTopTracks, getFestivalSummaries, fmt } from '@/lib/data';
-import { trackSlug } from '@/lib/slugs';
+import { loadIndex, getFestivalSummaries, fmt } from '@/lib/data';
 import { FestivalBadge } from '@/components/FestivalBadge';
 import { SpotifyButton } from '@/components/SpotifyButton';
+import fs from 'fs';
+import path from 'path';
 
 export default function HomePage() {
   const index = loadIndex();
-  loadAllSets();
 
   const totalSets = index.sets.length;
   const totalDJs = new Set(index.sets.flatMap(s => s.djs.map(d => d.slug))).size;
@@ -23,10 +23,18 @@ export default function HomePage() {
     })
     .sort((a, b) => b.maxDate.localeCompare(a.maxDate))[0];
 
-  // Top tracks across all festivals this year
+  // Top tracks from pre-built leaderboard
   const latestYear = Math.max(...index.years);
-  const topTracks = getTopTracks(5, { year: latestYear });
-  const maxPlayCount = topTracks[0]?.playCount ?? 1;
+  let allLeaderboard: any[] = [];
+  try {
+    const raw = fs.readFileSync(path.join(process.cwd(), 'data', 'tracks-leaderboard.json'), 'utf-8');
+    allLeaderboard = JSON.parse(raw);
+  } catch {}
+  const topTracks = allLeaderboard
+    .filter(t => t.years.includes(latestYear))
+    .sort((a: any, b: any) => (b.yearCounts?.[latestYear] || 0) - (a.yearCounts?.[latestYear] || 0))
+    .slice(0, 5);
+  const maxPlayCount = topTracks[0]?.yearCounts?.[latestYear] ?? topTracks[0]?.playCount ?? 1;
 
   // Up Next: Coachella (if it exists in the data)
   const upNextFestival = festivalSummaries.find(f => f.slug === 'coachella') || null;
@@ -165,11 +173,12 @@ export default function HomePage() {
           </div>
           {topTracks.map((t, i) => {
             const rank = i + 1;
-            const pct = (t.playCount / maxPlayCount) * 100;
+            const yearCount = t.yearCounts?.[latestYear] || t.playCount;
+            const pct = (yearCount / maxPlayCount) * 100;
             return (
               <Link
                 key={t.key}
-                href={`/track/${trackSlug(t.artist, t.title)}`}
+                href={`/track/${t.slug}`}
                 className="leaderboard-row"
                 style={{ textDecoration: 'none', cursor: 'pointer' }}
               >
@@ -190,7 +199,7 @@ export default function HomePage() {
                   </div>
                 </div>
                 <div>
-                  <div className="leaderboard-count">{t.playCount}</div>
+                  <div className="leaderboard-count">{yearCount}</div>
                   <div className="leaderboard-count-label">plays</div>
                 </div>
                 <SpotifyButton artist={t.artist} title={t.title} />
