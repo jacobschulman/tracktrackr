@@ -1,4 +1,4 @@
-import { loadIndex, loadSet, loadAllSets, getTrackHistory, trackKey, getDJHistory } from '@/lib/data';
+import { loadIndex, loadSet, loadDJIndex, trackKey, getDJHistory } from '@/lib/data';
 import { getStageColor } from '@/lib/festivals';
 import { fmt } from '@/lib/data';
 import { trackSlug, slugify } from '@/lib/slugs';
@@ -39,7 +39,6 @@ function formatDate(dateStr: string): string {
 export default async function SetPage({ params }: { params: Promise<{ tlId: string }> }) {
   const { tlId } = await params;
   const index = loadIndex();
-  loadAllSets();
   const setData = loadSet(tlId);
 
   if (!setData) {
@@ -75,30 +74,30 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
     (t) => t.type === 'normal' || t.type === 'blend'
   );
 
-  // Build enrichment data: DJ anthems and track popularity
+  // Build enrichment data from pre-built DJ index (no loadAllSets needed)
   const djAnthems = new Map<string, number[]>();
   const trackPopularity = new Map<string, number>();
 
-  for (const t of tracks) {
-    if (t.type !== 'normal' && t.type !== 'blend') continue;
-    if (isIDTrack(t.artist, t.title)) continue;
-    const key = trackKey(t.artist, t.title);
-    const history = getTrackHistory(t.artist, t.title);
-    if (history.length > 0) {
-      const djYears = history
-        .filter(
-          (a) => a.djSlugs?.includes(djSlug) && a.year !== setData.year
-        )
-        .map((a) => a.year);
-      if (djYears.length > 0) {
-        djAnthems.set(key, [...new Set(djYears)].sort((a, b) => a - b));
+  const djIdx = djSlug ? loadDJIndex(djSlug) : null;
+  if (djIdx) {
+    // Signature tracks = tracks this DJ plays repeatedly (anthems)
+    const sigMap = new Map<string, number[]>();
+    for (const st of (djIdx.signatureTracks || [])) {
+      sigMap.set(st.key, st.years);
+    }
+    for (const t of tracks) {
+      if (t.type !== 'normal' && t.type !== 'blend') continue;
+      if (isIDTrack(t.artist, t.title)) continue;
+      const key = trackKey(t.artist, t.title);
+      const sigYears = sigMap.get(key);
+      if (sigYears && sigYears.length > 0) {
+        const otherYears = sigYears.filter((y: number) => y !== setData.year);
+        if (otherYears.length > 0) djAnthems.set(key, otherYears);
       }
-      const otherDJs = new Set(
-        history.filter((a) => !a.djSlugs?.includes(djSlug)).map((a) => a.dj)
-      );
-      if (otherDJs.size > 0) {
-        trackPopularity.set(key, otherDJs.size);
-      }
+    }
+    // Supported tracks = tracks by this DJ played by others
+    for (const st of (djIdx.supportedTracks || [])) {
+      trackPopularity.set(st.key, st.playedByCount);
     }
   }
 

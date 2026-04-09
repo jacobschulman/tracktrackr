@@ -49,38 +49,28 @@ export default async function DJPage({ params }: { params: Promise<{ slug: strin
   // -- Basic info (from pre-built index or computed) --
   const djEntry = history[0].djs.find(d => d.slug === slug);
   const djName = djIdx?.name || (djEntry ? djEntry.name : slug);
-  const years = djIdx?.years || [...new Set(history.map(s => s.year))].sort((a: number, b: number) => a - b);
+  // Always derive from history (source of truth for what the page shows)
+  const years = [...new Set(history.map(s => s.year))].sort((a, b) => a - b);
   const firstYear = years[0];
   const lastYear = years[years.length - 1];
-  const totalSets = djIdx?.totalSets || history.length;
-  const uniqueYears = djIdx?.uniqueYears || years.length;
+  const totalSets = history.length;
+  const uniqueYears = years.length;
   const yearSpan = lastYear - firstYear;
   const streak = djIdx?.streak || 0;
-  const festivals: string[] = djIdx?.festivals || [...new Set(history.map(s => s.festival))];
+  const festivals: string[] = [...new Set(history.map(s => s.festival))];
   const avgIdRate = djIdx ? djIdx.idRate / 100 : 0;
   const repeatData = djIdx
     ? { totalUniqueTracks: djIdx.totalUniqueTracks, repeatRate: djIdx.repeatRate / 100 }
     : { totalUniqueTracks: 0, repeatRate: 0 };
 
-  // -- Timeline from pre-built index or computed --
+  // -- Timeline from history (source of truth) --
   const timelineBars: { year: number; active: boolean; stages: string[]; setCount: number; tracks: number; festivals: string[] }[] = [];
-  if (djIdx?.timeline) {
-    for (let y = firstYear; y <= lastYear; y++) {
-      const info = djIdx.timeline[y];
-      if (info) {
-        timelineBars.push({ year: y, active: true, stages: [], setCount: info.sets, tracks: 0, festivals: info.festivals });
-      } else {
-        timelineBars.push({ year: y, active: false, stages: [], setCount: 0, tracks: 0, festivals: [] });
-      }
-    }
-  } else {
-    for (let y = firstYear; y <= lastYear; y++) {
-      const ySets = history.filter(s => s.year === y);
-      if (ySets.length > 0) {
-        timelineBars.push({ year: y, active: true, stages: [], setCount: ySets.length, tracks: 0, festivals: [...new Set(ySets.map(s => s.festival))] });
-      } else {
-        timelineBars.push({ year: y, active: false, stages: [], setCount: 0, tracks: 0, festivals: [] });
-      }
+  for (let y = firstYear; y <= lastYear; y++) {
+    const ySets = history.filter(s => s.year === y);
+    if (ySets.length > 0) {
+      timelineBars.push({ year: y, active: true, stages: [], setCount: ySets.length, tracks: 0, festivals: [...new Set(ySets.map(s => s.festival))] });
+    } else {
+      timelineBars.push({ year: y, active: false, stages: [], setCount: 0, tracks: 0, festivals: [] });
     }
   }
 
