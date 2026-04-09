@@ -12,6 +12,8 @@ import { trackSlug, buildTrackSlugMap } from '@/lib/slugs';
 
 import { StageBadge } from '@/components/StageBadge';
 import Link from 'next/link';
+import fs from 'fs';
+import path from 'path';
 
 // Only pre-build top tracks; rest rendered on-demand by Vercel
 export function generateStaticParams() {
@@ -39,26 +41,67 @@ function formatDate(dateStr: string): string {
 
 export default async function TrackPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
-  loadAllSets();
 
-  // Reverse lookup: slug -> trackKey
-  const keys = getAllTrackKeys();
-  const { slugToKey } = buildTrackSlugMap(keys);
-  const internalKey = slugToKey.get(id);
+  // Try pre-built track index first (fast path)
+  let history: any[] = [];
+  let streak: any = { streak: 0, startYear: null, endYear: null, totalYears: 0, years: [], orbitByYear: {} };
+  let blends: any[] = [];
+  let artist = '';
+  let title = '';
 
-  if (!internalKey) {
-    return (
-      <div className="empty-state">
-        <div className="empty-state-icon">?</div>
-        <div className="empty-state-text">Track not found.</div>
-      </div>
-    );
+  const trackIndexPath = path.join(process.cwd(), 'data', 'tracks', `${id}.json`);
+  let found = false;
+  try {
+    if (fs.existsSync(trackIndexPath)) {
+      const raw = fs.readFileSync(trackIndexPath, 'utf-8');
+      const data = JSON.parse(raw);
+      artist = data.artist;
+      title = data.title;
+      history = data.history || [];
+      streak = data.streak || streak;
+      blends = data.blends || [];
+      found = true;
+    }
+  } catch {}
+
+  // Fallback: use slug map + loadAllSets for tracks without pre-built indexes
+  if (!found) {
+    // Try slug map for key lookup
+    let internalKey: string | undefined;
+    try {
+      const slugMapRaw = fs.readFileSync(path.join(process.cwd(), 'data', 'track-slugs.json'), 'utf-8');
+      const slugMap = JSON.parse(slugMapRaw);
+      internalKey = slugMap[id];
+    } catch {}
+
+    if (!internalKey) {
+      // Last resort: full index
+      loadAllSets();
+      const keys = getAllTrackKeys();
+      const { slugToKey } = buildTrackSlugMap(keys);
+      internalKey = slugToKey.get(id);
+    }
+
+    if (!internalKey) {
+      return (
+        <div className="empty-state">
+          <div className="empty-state-icon">?</div>
+          <div className="empty-state-text">Track not found.</div>
+        </div>
+      );
+    }
+
+    const parsed = parseTrackKey(internalKey);
+    artist = parsed.artist;
+    title = parsed.title;
+
+    // Need full track data - load all sets
+    loadAllSets();
+    history = getTrackHistory(artist, title);
+    streak = getTrackStreak(artist, title);
+    blends = getBlendAppearances(artist, title);
+    found = history.length > 0;
   }
-
-  const { artist, title } = parseTrackKey(internalKey);
-  const history = getTrackHistory(artist, title);
-  const streak = getTrackStreak(artist, title);
-  const blends = getBlendAppearances(artist, title);
 
   if (history.length === 0) {
     return (
@@ -92,7 +135,7 @@ export default async function TrackPage({ params }: { params: Promise<{ id: stri
   const maxYear = Math.max(...index.years);
   const orbitByYear = streak.orbitByYear || {};
   const activeYears = new Set(streak.years || []);
-  const maxOrbit = Math.max(1, ...Object.values(orbitByYear));
+  const maxOrbit = Math.max(1, ...(Object.values(orbitByYear) as number[]));
 
   // DJ play counts
   const djPlayCounts: Record<string, number> = {};
@@ -513,7 +556,7 @@ export default async function TrackPage({ params }: { params: Promise<{ id: stri
                         )}
                       </td>
                       <td>
-                        {b.pairedWith.map((p, pi) => (
+                        {b.pairedWith.map((p: any, pi: number) => (
                           <span key={pi}>
                             {pi > 0 && ', '}
                             <Link

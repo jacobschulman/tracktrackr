@@ -105,6 +105,8 @@ for (const { slug } of festivals) {
 const recordingIndex = {};
 const tracksByDJ = new Map(); // djSlug -> Map<trackKey, { artist, title, count, years }>
 const globalTrackPlayers = new Map(); // trackKey -> Set<djSlug> (for "most supported")
+const trackAppearances = new Map(); // trackKey -> [{ tlId, year, dj, djSlugs, stage, date, festival, festivalName, label, remix }]
+const blendAppearances = new Map(); // trackKey -> [{ tlId, year, dj, djSlugs, pairedWith, festival }]
 
 console.log(`Processing ${djSets.size} DJs across ${allSets.length} sets...`);
 
@@ -133,11 +135,40 @@ for (const [tlId, relPath] of Object.entries(fileIndex)) {
       (t.type === 'normal' || t.type === 'blend') && !isIDTrack(t.artist, t.title)
     );
 
+    const setFestival = allSets.find(s => s.tlId === data.tlId)?.festival || '';
+    const setFestivalName = allSets.find(s => s.tlId === data.tlId)?.festivalName || '';
+
     for (const t of tracks) {
       const artist = stripFeaturing(t.artist);
       const title = stripRemix(t.title);
       const key = trackKey(artist, title);
       const year = data.year;
+
+      // Track appearances (for per-track pages)
+      if (!trackAppearances.has(key)) trackAppearances.set(key, []);
+      trackAppearances.get(key).push({
+        tlId: data.tlId, year, dj: data.dj || '', djSlugs,
+        stage: data.stage || '', date: data.date || '',
+        festival: setFestival, festivalName: setFestivalName,
+        label: t.label || '', remix: t.remix || '',
+        artist, title,
+      });
+
+      // Blend appearances
+      if (t.type === 'normal' && t.blendGroup && t.blendGroup.length >= 2) {
+        for (const bg of t.blendGroup) {
+          if (isIDTrack(bg.artist, bg.title)) continue;
+          const bgKey = trackKey(stripFeaturing(bg.artist), stripRemix(bg.title));
+          if (!blendAppearances.has(bgKey)) blendAppearances.set(bgKey, []);
+          blendAppearances.get(bgKey).push({
+            tlId: data.tlId, year, dj: data.dj || '', djSlugs,
+            stage: data.stage || '', date: data.date || '',
+            pairedWith: t.blendGroup.filter(b => trackKey(b.artist, b.title) !== bgKey)
+              .map(b => ({ artist: b.artist, title: b.title, remix: b.remix || '' })),
+            festival: setFestival, festivalName: setFestivalName,
+          });
+        }
+      }
 
       // Global track players (for most-supported)
       if (!globalTrackPlayers.has(key)) globalTrackPlayers.set(key, new Set());
@@ -283,7 +314,8 @@ function slugify(str) {
   return str.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
 function makeTrackSlug(artist, title) {
-  return slugify(artist) + '-' + slugify(title);
+  const slug = slugify(artist) + '-' + slugify(title);
+  return slug.length > 200 ? slug.substring(0, 200) : slug;
 }
 
 // Aggregate all tracks with per-year and per-festival counts
@@ -352,3 +384,68 @@ const searchTracks = [...trackAgg.entries()]
 const searchPath = path.join(DATA_ROOT, 'track-search.json');
 fs.writeFileSync(searchPath, JSON.stringify(searchTracks));
 console.log(`Saved ${searchPath}: ${searchTracks.length} tracks (${(fs.statSync(searchPath).size / 1024).toFixed(0)}KB)`);
+
+// Build per-track index files for top tracks only (ones people actually visit)
+const TRACK_DIR = path.join(DATA_ROOT, 'tracks');
+if (!fs.existsSync(TRACK_DIR)) fs.mkdirSync(TRACK_DIR, { recursive: true });
+// Clean old files
+for (const f of fs.readdirSync(TRACK_DIR)) { try { fs.unlinkSync(path.join(TRACK_DIR, f)); } catch {} }
+
+// Only build indexes for top tracks by play count (keeps file count manageable)
+const topTrackKeys = [...trackAppearances.entries()]
+  .sort((a, b) => b[1].length - a[1].length)
+  .slice(0, 5000);
+
+const slugToKey = {};
+let trackFileCount = 0;
+for (const [key, appearances] of topTrackKeys) {
+  const parts = key.split('|||');
+  const slug = makeTrackSlug(parts[0], parts[1]);
+  slugToKey[slug] = key;
+
+  const sorted = appearances.sort((a, b) => b.date.localeCompare(a.date));
+  const years = [...new Set(appearances.map(a => a.year))].sort((a, b) => a - b);
+
+  // Streak
+  let bestStreak = 1, curStreak = 1, bestStart = years[0];
+  for (let i = 1; i < years.length; i++) {
+    if (years[i] === years[i - 1] + 1) { curStreak++; if (curStreak > bestStreak) { bestStreak = curStreak; bestStart = years[i] - curStreak + 1; } }
+    else curStreak = 1;
+  }
+
+  // Orbit by year
+  const orbitByYear = {};
+  for (const a of appearances) {
+    if (!orbitByYear[a.year]) orbitByYear[a.year] = new Set();
+    orbitByYear[a.year].add(a.dj);
+  }
+  const orbitCounts = {};
+  for (const [y, s] of Object.entries(orbitByYear)) orbitCounts[y] = s.size;
+
+  const blends = blendAppearances.get(key) || [];
+
+  fs.writeFileSync(path.join(TRACK_DIR, `${slug}.json`), JSON.stringify({
+    slug, key, artist: parts[0], title: parts[1],
+    history: sorted, years, playCount: appearances.length,
+    streak: { streak: bestStreak, startYear: bestStart, endYear: bestStart + bestStreak - 1, totalYears: years.length, years, orbitByYear: orbitCounts },
+    blends,
+  }));
+  trackFileCount++;
+}
+
+// Also save slug->key for all tracks (for reverse lookup on track pages)
+// Include ALL tracks, not just pre-built ones
+for (const [key] of trackAppearances) {
+  const parts = key.split('|||');
+  const slug = makeTrackSlug(parts[0], parts[1]);
+  if (!slugToKey[slug]) slugToKey[slug] = key;
+}
+const slugMapPath = path.join(DATA_ROOT, 'track-slugs.json');
+fs.writeFileSync(slugMapPath, JSON.stringify(slugToKey));
+
+console.log(`Built ${trackFileCount} track indexes in ${TRACK_DIR}/`);
+const trackDirSize = (fs.readdirSync(TRACK_DIR).reduce((sum, f) => {
+  try { return sum + fs.statSync(path.join(TRACK_DIR, f)).size; } catch { return sum; }
+}, 0) / 1024 / 1024).toFixed(1);
+console.log(`  Total size: ${trackDirSize}MB`);
+console.log(`Saved ${slugMapPath}: ${Object.keys(slugToKey).length} slug mappings (${(fs.statSync(slugMapPath).size / 1024).toFixed(0)}KB)`);
