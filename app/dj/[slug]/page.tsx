@@ -1,4 +1,4 @@
-import { loadIndex, loadAllSets, loadSet, getDJHistory, getDJStats, getDJStreak, getDJRepeatRate, getTopTracks, getMostSupportedTracks, trackKey, parseTrackKey } from '@/lib/data';
+import { loadIndex, loadAllSets, loadSet, getDJHistory, getDJStats, getDJStreak, getDJRepeatRate, getTopTracks, getMostSupportedTracks, getSetRecordings, trackKey, parseTrackKey } from '@/lib/data';
 import { getStageColor, FESTIVALS } from '@/lib/festivals';
 import { fmt } from '@/lib/data';
 import { trackSlug } from '@/lib/slugs';
@@ -115,35 +115,29 @@ export default async function DJPage({ params }: { params: Promise<{ slug: strin
   const allSetsSorted = [...history].sort((a, b) => b.date.localeCompare(a.date));
   const allFestivals = [...new Set(history.map(s => s.festival))].sort();
 
-  // -- Set track previews + recording info (only first 20 to keep load fast) --
+  // -- Set track previews (only first 8 sets) + recording info (from pre-built index) --
   const setTrackPreviews: Record<string, { tracks: { artist: string; title: string; remix: string; isID: boolean }[]; totalTracks: number }> = {};
-  const setRecordings: Record<string, { ytUrl?: string; scUrl?: string }> = {};
-  const setsToEnrich = allSetsSorted.slice(0, 20);
-  for (const s of setsToEnrich) {
+  const setRecordingsMap: Record<string, { ytUrl?: string; scUrl?: string }> = {};
+  // Track previews: only load actual set files for a few
+  for (const s of allSetsSorted.slice(0, 8)) {
     if (!s.hasSetFile) continue;
     const setData = loadSet(s.tlId);
-    if (!setData) continue;
-    if (setData.tracks) {
-      const tracks = setData.tracks.filter(t => t.type === 'normal' || t.type === 'blend');
-      setTrackPreviews[s.tlId] = {
-        totalTracks: tracks.length,
-        tracks: tracks.slice(0, 5).map(t => ({
-          artist: t.artist,
-          title: t.title,
-          remix: t.remix || '',
-          isID: isIDTrack(t.artist, t.title),
-        })),
-      };
-    }
-    const recordings = setData.recordings || [];
-    const yt = recordings.find(r => r.platform === 'youtube');
-    const sc = recordings.find(r => r.platform === 'soundcloud');
-    if (yt || sc) {
-      setRecordings[s.tlId] = {
-        ytUrl: yt?.url,
-        scUrl: sc?.url,
-      };
-    }
+    if (!setData || !setData.tracks) continue;
+    const tracks = setData.tracks.filter(t => t.type === 'normal' || t.type === 'blend');
+    setTrackPreviews[s.tlId] = {
+      totalTracks: tracks.length,
+      tracks: tracks.slice(0, 5).map(t => ({
+        artist: t.artist,
+        title: t.title,
+        remix: t.remix || '',
+        isID: isIDTrack(t.artist, t.title),
+      })),
+    };
+  }
+  // Recordings: use pre-built index (no file reads!)
+  for (const s of allSetsSorted) {
+    const rec = getSetRecordings(s.tlId);
+    if (rec) setRecordingsMap[s.tlId] = rec;
   }
 
   // -- Signature Tracks: most played by this DJ --
@@ -235,7 +229,7 @@ export default async function DJPage({ params }: { params: Promise<{ slug: strin
         sortedYears={sortedYearsDesc.map(String)}
         totalSets={totalSets}
         setTrackPreviews={setTrackPreviews}
-        setRecordings={setRecordings}
+        setRecordings={setRecordingsMap}
         djName={djName}
       />
 

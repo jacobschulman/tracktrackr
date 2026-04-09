@@ -224,25 +224,83 @@ export function getFestivalSummaries() {
   return summaries;
 }
 
-// Load a single set (auto-detects festival from tlId)
+// Pre-built index caches
+let _fileIndex: Map<string, string> | null = null;
+let _recordingIndex: Map<string, { yt?: string; sc?: string }> | null = null;
+
+// Load the pre-built track index (from scripts/build-track-index.js)
+function loadPrebuiltIndex(): boolean {
+  if (_trackIndex) return true;
+  const indexPath = path.join(DATA_ROOT, 'track-index.json');
+  try {
+    if (!fs.existsSync(indexPath)) return false;
+    const raw = fs.readFileSync(indexPath, 'utf-8');
+    const data = JSON.parse(raw);
+
+    // Track index
+    _trackIndex = new Map();
+    for (const [key, appearances] of Object.entries(data.trackIndex)) {
+      _trackIndex.set(key, appearances as TrackAppearance[]);
+    }
+
+    // Blend index
+    _blendIndex = new Map();
+    for (const [key, appearances] of Object.entries(data.blendIndex)) {
+      _blendIndex.set(key, appearances as BlendAppearance[]);
+    }
+
+    // File index
+    _fileIndex = new Map();
+    for (const [tlId, relPath] of Object.entries(data.fileIndex)) {
+      _fileIndex.set(tlId, path.join(DATA_ROOT, relPath as string));
+    }
+
+    // Recording index
+    _recordingIndex = new Map();
+    for (const [tlId, rec] of Object.entries(data.recordingIndex)) {
+      _recordingIndex.set(tlId, rec as { yt?: string; sc?: string });
+    }
+
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+// Load a single set by tlId
 export function loadSet(tlId: string): SetData | null {
   if (_setCache.has(tlId)) return _setCache.get(tlId)!;
 
-  loadIndex(); // ensure tlId map is built
+  loadIndex();
+  loadPrebuiltIndex(); // ensure file index is loaded
+
   const festivalSlug = _tlIdToFestival.get(tlId);
   if (!festivalSlug) return null;
 
-  // Find the set's year from the index to narrow the search
+  // Try file index first
+  const filePath = _fileIndex?.get(tlId);
+  if (filePath) {
+    try {
+      const raw = fs.readFileSync(filePath, 'utf-8');
+      const data = JSON.parse(raw) as SetData;
+      const config = FESTIVALS[festivalSlug];
+      data.festival = festivalSlug;
+      data.festivalName = config?.shortName || festivalSlug;
+      _setCache.set(tlId, data);
+      return data;
+    } catch { /* fall through */ }
+  }
+
+  // Fallback: scan year directory
   const setMeta = _allSets.find(s => s.tlId === tlId);
   if (!setMeta) return null;
-
   const yearDir = path.join(DATA_ROOT, festivalSlug, String(setMeta.year));
   try {
     const files = fs.readdirSync(yearDir).filter((f: string) => f.endsWith('.json'));
     for (const file of files) {
-      const filePath = path.join(yearDir, file);
+      const fp = path.join(yearDir, file);
       try {
-        const raw = fs.readFileSync(filePath, 'utf-8');
+        const raw = fs.readFileSync(fp, 'utf-8');
         const data = JSON.parse(raw) as SetData;
         if (data.tlId === tlId) {
           const config = FESTIVALS[festivalSlug];
@@ -251,20 +309,26 @@ export function loadSet(tlId: string): SetData | null {
           _setCache.set(tlId, data);
           return data;
         }
-      } catch {
-        continue;
-      }
+      } catch { continue; }
     }
-  } catch {
-    // year dir doesn't exist
-  }
-
+  } catch {}
   return null;
+}
+
+// Get recording URLs for a set (from pre-built index, no file read needed)
+export function getSetRecordings(tlId: string): { ytUrl?: string; scUrl?: string } | null {
+  loadPrebuiltIndex();
+  const rec = _recordingIndex?.get(tlId);
+  if (!rec) return null;
+  return { ytUrl: rec.yt, scUrl: rec.sc };
 }
 
 // Load all sets and build indexes
 export function loadAllSets(): void {
   if (_trackIndex) return;
+  // Try pre-built index first (instant)
+  if (loadPrebuiltIndex()) return;
+  // Fallback: load every set file (slow)
   const index = loadIndex();
   const scraped = index.sets.filter(s => s.hasSetFile);
   for (const s of scraped) {
