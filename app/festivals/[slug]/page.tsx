@@ -128,6 +128,22 @@ export default async function FestivalDetailPage({ params }: { params: Promise<{
         <p className="hero-subtitle">{minYear}&ndash;{maxYear}</p>
       </div>
 
+      {/* Coming soon banner for festivals missing current year */}
+      {!years.includes(new Date().getFullYear()) && (
+        <div style={{
+          padding: '14px 20px',
+          background: `${config.accent}12`,
+          border: `1px solid ${config.accent}40`,
+          borderRadius: 10,
+          textAlign: 'center',
+          marginBottom: 24,
+          fontSize: '0.875rem',
+          color: 'var(--muted-lt)',
+        }}>
+          Not yet updated for {new Date().getFullYear()}. Check back soon!
+        </div>
+      )}
+
       {/* Stats */}
       <div className="stat-bar" style={{ marginBottom: 32 }}>
         <div className="stat-card">

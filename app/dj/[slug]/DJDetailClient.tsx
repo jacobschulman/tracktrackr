@@ -154,24 +154,16 @@ export function DJDetailClient({ timelineBars, allSets, allFestivals, festivalCo
         <div className="sets-filters" style={{ display: 'flex', gap: 8, alignItems: 'center', flexWrap: 'wrap' }}>
           {/* Festival filter */}
           {allFestivals.length > 1 && (
-            <>
-              <button
-                className={`filter-chip${filterFestival === 'all' ? ' active' : ''}`}
-                onClick={() => setFilterFestival('all')}
-              >
-                All Festivals
-              </button>
+            <select
+              className="filter-select"
+              value={filterFestival}
+              onChange={e => setFilterFestival(e.target.value)}
+            >
+              <option value="all">All Festivals</option>
               {allFestivals.map(f => (
-                <button
-                  key={f}
-                  className={`filter-chip${filterFestival === f ? ' active' : ''}`}
-                  onClick={() => setFilterFestival(f)}
-                >
-                  <FestivalBadge festival={f} size="sm" />
-                </button>
+                <option key={f} value={f}>{f.split('-').map(w => w[0].toUpperCase() + w.slice(1)).join(' ')}</option>
               ))}
-              <span style={{ width: 1, height: 20, background: 'var(--border)', margin: '0 4px' }} />
-            </>
+            </select>
           )}
           {/* Year dropdown */}
           <select
