@@ -47,7 +47,7 @@ export default function HomePage() {
       </div>
 
       {/* Global stats */}
-      <div className="stat-bar" style={{ marginBottom: 32, maxWidth: 420, marginLeft: 'auto', marginRight: 'auto' }}>
+      <div className="stat-bar" style={{ marginBottom: 32, display: 'flex', justifyContent: 'center', gap: 10 }}>
         <div className="stat-card">
           <div className="stat-number">{fmt(totalFestivals)}</div>
           <div className="stat-label">Festivals</div>
