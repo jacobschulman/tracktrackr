@@ -126,11 +126,19 @@ export function Search() {
   const djResults = results.filter(r => r.type === 'dj') as DJResult[];
   const trackResults = results.filter(r => r.type === 'track') as TrackResult[];
 
+  const closeMobileSearch = () => {
+    containerRef.current?.classList.remove('search-open');
+    setIsOpen(false);
+    setQuery('');
+  };
+
   const toggleMobileSearch = () => {
     const el = containerRef.current;
     if (!el) return;
-    el.classList.toggle('search-open');
     if (el.classList.contains('search-open')) {
+      closeMobileSearch();
+    } else {
+      el.classList.add('search-open');
       loadData();
       setTimeout(() => inputRef.current?.focus(), 50);
     }
@@ -141,17 +149,40 @@ export function Search() {
       <button className="search-toggle" onClick={toggleMobileSearch} aria-label="Search">
         &#128269;
       </button>
-      <input
-        ref={inputRef}
-        type="text"
-        id="global-search"
-        placeholder="Search DJs & tracks..."
-        autoComplete="off"
-        value={query}
-        onFocus={loadData}
-        onChange={e => handleInput(e.target.value)}
-        onKeyDown={handleKeyDown}
-      />
+      <div style={{ position: 'relative' }}>
+        <input
+          ref={inputRef}
+          type="text"
+          id="global-search"
+          placeholder="Search DJs & tracks..."
+          autoComplete="off"
+          value={query}
+          onFocus={loadData}
+          onChange={e => handleInput(e.target.value)}
+          onKeyDown={handleKeyDown}
+        />
+        {query && (
+          <button
+            onClick={() => { setQuery(''); setResults([]); setIsOpen(false); inputRef.current?.focus(); }}
+            style={{
+              position: 'absolute',
+              right: 10,
+              top: '50%',
+              transform: 'translateY(-50%)',
+              background: 'none',
+              border: 'none',
+              color: 'var(--muted)',
+              fontSize: '1.125rem',
+              cursor: 'pointer',
+              padding: '0 4px',
+              lineHeight: 1,
+            }}
+            aria-label="Clear search"
+          >
+            &times;
+          </button>
+        )}
+      </div>
       {isOpen && results.length > 0 && (
         <div className="search-dropdown">
           {djResults.length > 0 && (
