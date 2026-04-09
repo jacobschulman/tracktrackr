@@ -13,7 +13,18 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'TrackTrackr',
-  description: 'Explore festival DJ sets, tracklists, and hidden patterns across Ultra, EDC, Coachella, and more — visualized.',
+  description: 'Listen to festival sets. Dive deep into tracklists. Discover your next favorite track.',
+  openGraph: {
+    title: 'TrackTrackr',
+    description: 'Listen to festival sets. Dive deep into tracklists. Discover your next favorite track.',
+    siteName: 'TrackTrackr',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'TrackTrackr',
+    description: 'Listen to festival sets. Dive deep into tracklists. Discover your next favorite track.',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
