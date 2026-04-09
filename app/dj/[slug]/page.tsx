@@ -340,7 +340,7 @@ function DJSupportedTracks({ tracks }: { tracks: { artist: string; title: string
                 <span style={{ color: 'var(--muted-lt)' }}> &mdash; {t.title}</span>
               </Link>
               <div style={{ fontSize: '0.75rem', color: 'var(--muted)', marginTop: 3 }}>
-                Played by {t.playedBy.slice(0, 5).join(', ')}{t.playedByCount > 5 ? ` + ${t.playedByCount - 5} more` : ''}
+                Played by {t.playedByCount} other DJ{t.playedByCount !== 1 ? 's' : ''}
               </div>
             </div>
             <span className="count-badge" title={`${t.playedByCount} other DJs`}>{t.playedByCount} DJs</span>
