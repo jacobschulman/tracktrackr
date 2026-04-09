@@ -192,19 +192,21 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
           >
             {djName} sets:
           </span>
-          {otherSets.slice(0, 12).map((s) => (
-            <Link
-              key={s.tlId}
-              href={`/set/${s.tlId}`}
-              className={`pill${s.year === setData.year ? ' pill-purple' : ''}`}
-              style={{ cursor: 'pointer', fontSize: '0.6875rem' }}
-            >
-              {s.year}
-              {s.stage === setData.stage
-                ? ''
-                : ` \u00B7 ${s.stage.split(' ')[0]}`}
-            </Link>
-          ))}
+          {otherSets.slice(0, 12).map((s) => {
+            const label = s.festival === setData.festival && s.stage === setData.stage
+              ? `${s.year}`
+              : `${s.year} \u00B7 ${s.festivalName || s.festival}`;
+            return (
+              <Link
+                key={s.tlId}
+                href={`/set/${s.tlId}`}
+                className={`pill${s.year === setData.year && s.festival === setData.festival ? ' pill-purple' : ''}`}
+                style={{ cursor: 'pointer', fontSize: '0.6875rem' }}
+              >
+                {label}
+              </Link>
+            );
+          })}
           {otherSets.length > 12 && (
             <Link
               href={`/dj/${djSlug}`}
