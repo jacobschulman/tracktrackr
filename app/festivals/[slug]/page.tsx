@@ -7,8 +7,24 @@ import { getStageColor } from '@/lib/festivals';
 import { Heatmap } from '@/components/Heatmap';
 import { SpotifyButton } from '@/components/SpotifyButton';
 
+import type { Metadata } from 'next';
+
 export function generateStaticParams() {
   return [];
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const config = getFestival(slug);
+  if (!config) return { title: 'Festival | TrackTrackr' };
+  const title = `${config.shortName} | TrackTrackr`;
+  const desc = `Explore ${config.shortName} DJ sets, tracklists, and data on TrackTrackr`;
+  return {
+    title,
+    description: desc,
+    openGraph: { title, description: desc },
+    twitter: { title, description: desc },
+  };
 }
 
 export default async function FestivalDetailPage({ params }: { params: Promise<{ slug: string }> }) {

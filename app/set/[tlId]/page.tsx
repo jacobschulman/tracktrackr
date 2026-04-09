@@ -6,10 +6,28 @@ import { StageBadge } from '@/components/StageBadge';
 import { FestivalBadge } from '@/components/FestivalBadge';
 import Link from 'next/link';
 import { PlayButtons } from './PlayButtons';
+import type { Metadata } from 'next';
 
-// Only pre-build recent sets; rest rendered on-demand by Vercel
 export function generateStaticParams() {
   return [];
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ tlId: string }> }): Promise<Metadata> {
+  const { tlId } = await params;
+  const setData = loadSet(tlId);
+  if (!setData) return { title: 'Set | TrackTrackr' };
+  const djName = setData.dj || 'Unknown DJ';
+  const festival = setData.festivalName || setData.festival || '';
+  const year = setData.year;
+  const title = `${djName} at ${festival} ${year} | TrackTrackr`;
+  const tracks = (setData.tracks || []).filter(t => t.type === 'normal' || t.type === 'blend').length;
+  const desc = `${djName} at ${festival} ${year} — ${tracks} tracks`;
+  return {
+    title,
+    description: desc,
+    openGraph: { title, description: desc },
+    twitter: { title, description: desc },
+  };
 }
 
 function isIDTrack(artist: string, title: string): boolean {

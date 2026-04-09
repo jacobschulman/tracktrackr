@@ -15,9 +15,32 @@ import Link from 'next/link';
 import fs from 'fs';
 import path from 'path';
 
-// Only pre-build top tracks; rest rendered on-demand by Vercel
+import type { Metadata } from 'next';
+
 export function generateStaticParams() {
   return [];
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {
+  const { id } = await params;
+  const trackPath = path.join(process.cwd(), 'data', 'tracks', `${id}.json`);
+  try {
+    if (fs.existsSync(trackPath)) {
+      const data = JSON.parse(fs.readFileSync(trackPath, 'utf-8'));
+      const artist = (data.artist || '').replace(/\b\w/g, (c: string) => c.toUpperCase());
+      const title = (data.title || '').replace(/\b\w/g, (c: string) => c.toUpperCase());
+      const plays = data.playCount || 0;
+      const pageTitle = `${artist} — ${title} | TrackTrackr`;
+      const desc = `${artist} — ${title} — played ${plays} times across festival sets`;
+      return {
+        title: pageTitle,
+        description: desc,
+        openGraph: { title: pageTitle, description: desc },
+        twitter: { title: pageTitle, description: desc },
+      };
+    }
+  } catch {}
+  return { title: 'Track | TrackTrackr' };
 }
 
 function titleCase(str: string): string {

@@ -6,10 +6,25 @@ import { FestivalBadge } from '@/components/FestivalBadge';
 import Link from 'next/link';
 import { DJDetailClient } from './DJDetailClient';
 import { AnimatedNumber } from '@/components/AnimatedNumber';
+import type { Metadata } from 'next';
 
-// Only pre-build top DJs; rest rendered on-demand by Vercel
 export function generateStaticParams() {
   return [];
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const djIdx = loadDJIndex(slug);
+  const name = djIdx?.name || slug;
+  const sets = djIdx?.totalSets || 0;
+  const festivals = djIdx?.festivals?.length || 0;
+  const desc = `${name} — ${sets} sets across ${festivals} festival${festivals !== 1 ? 's' : ''} on TrackTrackr`;
+  return {
+    title: `${name} | TrackTrackr`,
+    description: desc,
+    openGraph: { title: `${name} | TrackTrackr`, description: desc },
+    twitter: { title: `${name} | TrackTrackr`, description: desc },
+  };
 }
 
 function formatDate(dateStr: string): string {
