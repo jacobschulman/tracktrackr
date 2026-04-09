@@ -351,9 +351,8 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
 .search-dropdown {
   position: absolute;
   top: calc(100% + 8px);
-  right: 0;
+  left: 0;
   width: 400px;
-  max-width: calc(100vw - 32px);
   max-height: 420px;
   overflow-y: auto;
   background: var(--surface);
@@ -2063,6 +2062,7 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
   }
   .search-dropdown {
     width: calc(100vw - 32px);
+    left: auto;
     right: 0;
   }
 
