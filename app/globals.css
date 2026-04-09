@@ -328,7 +328,7 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
 #breadcrumbs .separator { color: var(--border-lt); }
 
 /* ── Search ─────────────────────────────────────── */
-#search-container { position: relative; }
+#search-container { position: relative; z-index: 100; }
 
 #global-search {
   width: 280px;
@@ -352,11 +352,13 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
   position: absolute;
   top: calc(100% + 8px);
   right: 0;
-  width: 360px;
+  width: 400px;
+  max-width: calc(100vw - 32px);
   max-height: 420px;
   overflow-y: auto;
   background: var(--surface);
   border: 1px solid var(--border);
+  z-index: 100;
   border-radius: var(--radius);
   box-shadow: 0 12px 40px rgba(0,0,0,0.5);
   z-index: 200;
