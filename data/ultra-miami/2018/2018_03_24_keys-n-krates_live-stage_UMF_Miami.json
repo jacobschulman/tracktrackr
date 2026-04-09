@@ -1,0 +1,81 @@
+{
+  "tlId": "jx9x9m9",
+  "dj": "Keys N Krates",
+  "stage": "Live Stage",
+  "date": "2018-03-24",
+  "year": 2018,
+  "genre": "Afro House",
+  "tracksIdentified": 2,
+  "tracksTotal": 3,
+  "duration": "",
+  "views": 26,
+  "likes": 2,
+  "url": "https://www.1001tracklists.com/tracklist/jx9x9m9/keys-n-krates-live-stage-ultra-music-festival-miami-miami-music-week-united-states-2018-03-24.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "(Intro)",
+      "label": "",
+      "trackId": "3220914",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Keys N Krates",
+      "title": "I Know U",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "3220915",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "270382",
+        "youtube": "270382",
+        "soundcloud": "270382",
+        "appleMusic": "270382"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Keys N Krates ft. Tory Lanez",
+      "title": "Music To My Ears",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "3220916",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "399680",
+        "youtube": "399680",
+        "soundcloud": "399680",
+        "appleMusic": "399680"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Keys N Krates",
+      "slug": "keysnkrates"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "750442",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:35:30.900Z",
+  "scrapeVersion": 2
+}

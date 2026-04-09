@@ -1,0 +1,462 @@
+{
+  "tlId": "7dunr51",
+  "dj": "DVBBS",
+  "stage": "UMF Radio Stage",
+  "date": "2014-03-28",
+  "year": 2014,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "35m",
+  "views": 194,
+  "likes": 14,
+  "url": "https://www.1001tracklists.com/tracklist/7dunr51/dvbbs-umf-radio-stage-ultra-music-festival-miami-united-states-2014-03-28.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Sandro Silva ft. Jack Miz",
+      "title": "Let Go Tonight (MAKJ Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "1348774",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "122946",
+        "youtube": "122946",
+        "soundcloud": "122946",
+        "appleMusic": "122946"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Benny Benassi",
+      "title": "House Music",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "864999",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "23328",
+        "youtube": "23328",
+        "soundcloud": "23328",
+        "appleMusic": "23328"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "David Guetta ft. Sia",
+      "title": "She Wolf (Falling To Pieces) (Sandro Silva Remix)",
+      "remix": "",
+      "label": "WHAT A MUSIC",
+      "trackId": "837960",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 20,
+      "mediaIds": {
+        "spotify": "89702",
+        "youtube": "89702",
+        "soundcloud": "89702",
+        "appleMusic": "89702"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Guetta ft. Sia",
+          "title": "She Wolf (Falling To Pieces) (Sandro Silva Remix)",
+          "remix": "",
+          "trackId": "837960"
+        },
+        {
+          "artist": "DVBBS & BORGEOUS",
+          "title": "Tsunami (Frankie Sanchez Bootleg)",
+          "remix": "",
+          "trackId": "837961"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DVBBS & BORGEOUS",
+      "title": "Tsunami (Frankie Sanchez Bootleg)",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "837961",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 43,
+      "mediaIds": {
+        "youtube": "157391",
+        "soundcloud": "157391"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Martin Garrix",
+      "title": "Animals (Milk N Cookies Festival Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "837962",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 136,
+      "mediaIds": {
+        "youtube": "147774",
+        "soundcloud": "147774"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Fedde Le Grand",
+      "title": "Rockin' N' Rollin'",
+      "remix": "",
+      "label": "FLAMINGO",
+      "trackId": "837966",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "130230",
+        "youtube": "130230",
+        "soundcloud": "130230",
+        "appleMusic": "130230"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Blur vs. Reece Low",
+      "title": "What's Your Song 2 (MAKJ Edit)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)/NEON",
+      "trackId": "837963",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 190,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Orkestrated & Fries & Shine ft. Big Nab",
+      "title": "Melbourne Bounce (Deorro Remix)",
+      "remix": "",
+      "label": "ONELOVE",
+      "trackId": "837965",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 250,
+      "mediaIds": {
+        "spotify": "150038",
+        "soundcloud": "150038",
+        "appleMusic": "150038"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "3rd Prototype",
+      "title": "Tango Down",
+      "remix": "",
+      "label": "INTRAXX",
+      "trackId": "837967",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 390,
+      "mediaIds": {
+        "spotify": "150885",
+        "youtube": "150885",
+        "soundcloud": "150885",
+        "appleMusic": "150885"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Martin Garrix & Jay Hardway",
+      "title": "Error 404",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "837968",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 450,
+      "mediaIds": {
+        "spotify": "116324",
+        "youtube": "116324",
+        "soundcloud": "116324",
+        "appleMusic": "116324"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Henry Fong vs. Mike Hawkins & Pablo Oliveros & Pablo Oliveros",
+      "title": "JUMP!",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "837969",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 549,
+      "mediaIds": {
+        "spotify": "132158",
+        "youtube": "132158",
+        "soundcloud": "132158",
+        "appleMusic": "132158"
+      },
+      "blendGroup": [
+        {
+          "artist": "Henry Fong vs. Mike Hawkins & Pablo Oliveros & Pablo Oliveros",
+          "title": "JUMP!",
+          "remix": "",
+          "trackId": "837969"
+        },
+        {
+          "artist": "Bassjackers",
+          "title": "Crackin (Martin Garrix Edit)",
+          "remix": "",
+          "trackId": "837971"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bassjackers",
+      "title": "Crackin (Martin Garrix Edit)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "837971",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 637,
+      "mediaIds": {
+        "spotify": "170526",
+        "youtube": "170526",
+        "soundcloud": "170526",
+        "appleMusic": "170526"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bassjackers",
+          "title": "Crackin (Martin Garrix Edit)",
+          "remix": "",
+          "trackId": "837971"
+        },
+        {
+          "artist": "Borgore",
+          "title": "Legend (Carnage & Borgore Remix)",
+          "remix": "",
+          "trackId": "837973"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Borgore",
+      "title": "Legend (Carnage & Borgore Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "837973",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 676,
+      "mediaIds": {
+        "spotify": "140361",
+        "youtube": "140361",
+        "appleMusic": "140361"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Gregori Klosman & Wahlstedt",
+      "title": "Come On",
+      "remix": "",
+      "label": "GURU",
+      "trackId": "837974",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 837,
+      "mediaIds": {
+        "spotify": "143342",
+        "youtube": "143342",
+        "soundcloud": "143342",
+        "appleMusic": "143342"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "DVBBS & Tony Junior",
+      "title": "Immortal",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "837975",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "172846",
+        "youtube": "172846",
+        "soundcloud": "172846",
+        "appleMusic": "172846"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Ummet Ozcan & R3HAB & NERVO",
+      "title": "Revolution (Instrumental Mix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "837976",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "156685",
+        "youtube": "156685",
+        "soundcloud": "156685",
+        "appleMusic": "156685"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "R3HAB & Bassjackers",
+      "title": "Raise Those Hands",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "837977",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "135996",
+        "youtube": "135996",
+        "soundcloud": "135996",
+        "appleMusic": "135996"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Thomas Newson",
+      "title": "Pallaroid",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "837978",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "158998",
+        "youtube": "158998",
+        "soundcloud": "158998",
+        "appleMusic": "158998"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "DVBBS & VINAI",
+      "title": "Raveology",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "837979",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "168335",
+        "youtube": "168335",
+        "soundcloud": "168335",
+        "appleMusic": "168335"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Krewella",
+      "title": "Alive (TJR Bounce Bootleg)",
+      "remix": "",
+      "label": "KREWELLA",
+      "trackId": "837980",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1575,
+      "mediaIds": {
+        "youtube": "141335"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Daddy's Groove & Cryogenix",
+      "title": "Tilt",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "837981",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": {
+        "spotify": "123658",
+        "youtube": "123658",
+        "appleMusic": "123658"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "MOTi",
+      "title": "Heat It Up",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "837982",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1920,
+      "mediaIds": {
+        "spotify": "149540",
+        "youtube": "149540",
+        "soundcloud": "149540",
+        "appleMusic": "149540"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "DVBBS",
+      "slug": "dvbbs"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "195666",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=AqfK4TNGzh8"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "166618",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/EFMrage"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "164648",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:46:07.781Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,691 @@
+{
+  "tlId": "zbkc9p9",
+  "dj": "John Summit",
+  "stage": "Ultra Music Festival Miami",
+  "date": "2026-03-29",
+  "year": 2026,
+  "genre": "Afro House",
+  "tracksIdentified": 26,
+  "tracksTotal": 28,
+  "duration": "",
+  "views": 0,
+  "likes": 0,
+  "url": "https://www.1001tracklists.com/tracklist/zbkc9p9/john-summit-mainstage-ultra-music-festival-miami-united-states-2026-03-29.html",
+  "djs": [
+    {
+      "name": "John Summit",
+      "slug": "johnsummit"
+    }
+  ],
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "John Summit & LAVINIA",
+      "title": "SHADOWS (Marshll Remix)",
+      "remix": "(Intro Edit)",
+      "label": "EXPERTS ONLY",
+      "trackId": "13713221",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 11,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "John Summit & LAVINIA",
+          "title": "SHADOWS (Marshll Remix)",
+          "remix": "(Intro Edit)",
+          "trackId": "13713221"
+        },
+        {
+          "artist": "John Summit",
+          "title": "LIGHTS GO OUT",
+          "remix": "(Acappella)",
+          "trackId": "13713222"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "John Summit",
+      "title": "LIGHTS GO OUT",
+      "remix": "(Acappella)",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13713222",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1147377",
+        "youtube": "1147377",
+        "soundcloud": "1147377",
+        "appleMusic": "1147377"
+      },
+      "blendGroup": [
+        {
+          "artist": "John Summit",
+          "title": "LIGHTS GO OUT",
+          "remix": "(Acappella)",
+          "trackId": "13713222"
+        },
+        {
+          "artist": "John Summit & LAVINIA",
+          "title": "SHADOWS",
+          "remix": "",
+          "trackId": "13679494"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "John Summit & LAVINIA",
+      "title": "SHADOWS",
+      "remix": "",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13679494",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1151007",
+        "youtube": "1151007",
+        "soundcloud": "1151007",
+        "appleMusic": "1151007"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "BYOR & Mentum",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679495",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 140,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Mesto",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679496",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 198,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Mesto",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13679496"
+        },
+        {
+          "artist": "John Summit",
+          "title": "In Chicago",
+          "remix": "(Acappella)",
+          "trackId": "13680125"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "John Summit",
+      "title": "In Chicago",
+      "remix": "(Acappella)",
+      "label": "EXPERTS ONLY",
+      "trackId": "13680125",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 198,
+      "mediaIds": {
+        "spotify": "792194",
+        "youtube": "792194",
+        "soundcloud": "792194",
+        "appleMusic": "792194"
+      },
+      "blendGroup": [
+        {
+          "artist": "John Summit",
+          "title": "In Chicago",
+          "remix": "(Acappella)",
+          "trackId": "13680125"
+        },
+        {
+          "artist": "Tiësto",
+          "title": "Lethal Industry",
+          "remix": "",
+          "trackId": "13680126"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto",
+      "title": "Lethal Industry",
+      "remix": "",
+      "label": "MAGIK MUZIK (BLACK HOLE)",
+      "trackId": "13680126",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 202,
+      "mediaIds": {
+        "spotify": "5268",
+        "youtube": "5268",
+        "soundcloud": "5268",
+        "appleMusic": "5268"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "John Summit & HAYLA",
+      "title": "Shiver",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "13679497",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 311,
+      "mediaIds": {
+        "spotify": "953671",
+        "youtube": "953671",
+        "soundcloud": "953671",
+        "appleMusic": "953671"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Westend",
+      "title": "The Ceiling",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "13679498",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 531,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Maesic",
+      "title": "Technologic",
+      "remix": "",
+      "label": "",
+      "trackId": "13679499",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 743,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "John Summit & Julia Wolf",
+      "title": "WITH ME",
+      "remix": "",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13679500",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 815,
+      "mediaIds": {
+        "spotify": "1155911",
+        "youtube": "1155911",
+        "soundcloud": "1155911",
+        "appleMusic": "1155911"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "John Summit & The Chainsmokers & Ilsey",
+      "title": "ALL THE TIME",
+      "remix": "",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13679501",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1004,
+      "mediaIds": {
+        "spotify": "1151526",
+        "youtube": "1151526",
+        "soundcloud": "1151526",
+        "appleMusic": "1151526"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Foreigner vs. TroyBoi",
+      "title": "Cold As Ice vs. O.G (GorillaT Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13679502",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1185,
+      "mediaIds": {
+        "soundcloud": "13679502"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "John Summit",
+      "title": "LIGHTS GO OUT",
+      "remix": "",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13679503",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1275,
+      "mediaIds": {
+        "spotify": "1147377",
+        "youtube": "1147377",
+        "soundcloud": "1147377",
+        "appleMusic": "1147377"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "John Summit ft. Echoes",
+      "title": "Human",
+      "remix": "",
+      "label": "FFRR (PARLOPHONE)",
+      "trackId": "13679505",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1443,
+      "mediaIds": {
+        "spotify": "742351",
+        "youtube": "742351",
+        "soundcloud": "742351",
+        "appleMusic": "742351"
+      },
+      "blendGroup": [
+        {
+          "artist": "John Summit ft. Echoes",
+          "title": "Human",
+          "remix": "",
+          "trackId": "13679505"
+        },
+        {
+          "artist": "KI/KI",
+          "title": "What's A Girl To Do In '25",
+          "remix": "",
+          "trackId": "13679504"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "KI/KI",
+      "title": "What's A Girl To Do In '25",
+      "remix": "",
+      "label": "DISORDER",
+      "trackId": "13679504",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1484,
+      "mediaIds": {
+        "spotify": "1119261",
+        "youtube": "1119261",
+        "soundcloud": "1119261",
+        "appleMusic": "1119261"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Rihanna",
+      "title": "Where Have You Been (John Summit & Wooli Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13679506",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1610,
+      "mediaIds": {
+        "youtube": "1135449",
+        "soundcloud": "1135449",
+        "appleMusic": "1135449"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "John Summit & Feid",
+      "title": "CHICA 305",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "13679507",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1769,
+      "mediaIds": {
+        "spotify": "1164009",
+        "youtube": "1164009",
+        "soundcloud": "1164009",
+        "appleMusic": "1164009"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "John Summit ft. Inéz",
+      "title": "crystallized",
+      "remix": "",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13679508",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1974,
+      "mediaIds": {
+        "spotify": "1109940",
+        "youtube": "1109940",
+        "soundcloud": "1109940",
+        "appleMusic": "1109940"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "ALOK & DENNIS ft. Nyasia",
+      "title": "Mimosa (Now And Forever)",
+      "remix": "",
+      "label": "B1 (SONY)",
+      "trackId": "13679509",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2169,
+      "mediaIds": {
+        "spotify": "1129577",
+        "youtube": "1129577",
+        "soundcloud": "1129577",
+        "appleMusic": "1129577"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "John Summit & Abby Keen",
+      "title": "Don't Believe It",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "13679510",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2296,
+      "mediaIds": {
+        "youtube": "13679510"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "John Summit & Gorgon City ft. rhys from the sticks",
+      "title": "Is Everybody Having Fun?",
+      "remix": "",
+      "label": "EXPERTS ONLY/REALM",
+      "trackId": "13679511",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2475,
+      "mediaIds": {
+        "spotify": "1095058",
+        "youtube": "1095058",
+        "soundcloud": "1095058",
+        "appleMusic": "1095058"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "John Summit & venbee",
+      "title": "palm of my hands (Odd Mob Remix)",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "13679512",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2530,
+      "mediaIds": {
+        "spotify": "1033438",
+        "youtube": "1033438",
+        "soundcloud": "1033438",
+        "appleMusic": "1033438"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Devault",
+      "title": "Feels Like Us",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "13679513",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2720,
+      "mediaIds": {
+        "spotify": "1124468",
+        "youtube": "1124468",
+        "soundcloud": "1124468",
+        "appleMusic": "1124468"
+      },
+      "blendGroup": [
+        {
+          "artist": "Devault",
+          "title": "Feels Like Us",
+          "remix": "",
+          "trackId": "13679513"
+        },
+        {
+          "artist": "Devault",
+          "title": "Feels Like Us (Capochino Flip)",
+          "remix": "",
+          "trackId": "13679514"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Devault",
+      "title": "Feels Like Us (Capochino Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "13679514",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 2750,
+      "mediaIds": {
+        "youtube": "1163684",
+        "soundcloud": "1163684"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "The Temper Trap",
+      "title": "Sweet Disposition (John Summit & Silver Panda Remix)",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "13679515",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2915,
+      "mediaIds": {
+        "spotify": "941368",
+        "youtube": "941368",
+        "soundcloud": "941368",
+        "appleMusic": "941368"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "John Summit ft. Inéz",
+      "title": "light years",
+      "remix": "",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13679516",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3047,
+      "mediaIds": {
+        "spotify": "1080122",
+        "youtube": "1080122",
+        "soundcloud": "1080122",
+        "appleMusic": "1080122"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "John Summit & Devault ft. Julia Church",
+      "title": "Shades Of Blue",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "13679517",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3250,
+      "mediaIds": {
+        "soundcloud": "1163681"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Britney Spears",
+      "title": "I Wanna Go (John Summit Remix)",
+      "remix": "",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13679518",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3454,
+      "mediaIds": {
+        "spotify": "1107802",
+        "youtube": "1107802",
+        "soundcloud": "1107802",
+        "appleMusic": "1107802"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "SIDEPIECE",
+      "title": "WILD",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "13679519",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3615,
+      "mediaIds": {
+        "spotify": "1155910",
+        "youtube": "1155910",
+        "soundcloud": "1155910",
+        "appleMusic": "1155910"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Tove Lo",
+      "title": "Talking Body (Costa Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13679520",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3700,
+      "mediaIds": {
+        "youtube": "1163683",
+        "soundcloud": "1163683"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "John Summit & Rohaan",
+      "title": "SATA",
+      "remix": "",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13679521",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3822,
+      "mediaIds": {
+        "spotify": "1159364",
+        "youtube": "1159364",
+        "soundcloud": "1159364",
+        "appleMusic": "1159364"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "John Summit & Sub Focus ft. Julia Church",
+      "title": "Go Back",
+      "remix": "",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13679522",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3966,
+      "mediaIds": {
+        "spotify": "999393",
+        "youtube": "999393",
+        "soundcloud": "999393",
+        "appleMusic": "999393"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "John Summit ft. HAYLA",
+      "title": "Where You Are (GRiZ Remix)",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "13679688",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 4185,
+      "mediaIds": {
+        "spotify": "892782",
+        "youtube": "892782",
+        "soundcloud": "892782",
+        "appleMusic": "892782"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "5284373",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=aloPGSlq31Y"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "5284468",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/2293085621"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "5284397",
+      "idSource": "40",
+      "url": "https://hearthis.at/14064952/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:08:14.741Z",
+  "scrapeVersion": 2
+}

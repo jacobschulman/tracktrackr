@@ -1,0 +1,180 @@
+{
+  "tlId": "250wxn89",
+  "dj": "UMF Miami - Official Aftermovie",
+  "stage": "Unknown Stage",
+  "date": "2016-10-03",
+  "year": 2016,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "15m",
+  "views": 33,
+  "likes": 9,
+  "url": "https://www.1001tracklists.com/tracklist/250wxn89/umf-miami-official-aftermovie-2016-10-03.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Nicky Romero & Nile Rodgers",
+      "title": "Future Funk",
+      "remix": "",
+      "label": "PROTOCOL",
+      "trackId": "2290377",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 49,
+      "mediaIds": {
+        "spotify": "296390",
+        "youtube": "296390",
+        "soundcloud": "296390",
+        "appleMusic": "296390"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Jonas Aden",
+      "title": "Feel My Soul",
+      "remix": "",
+      "label": "SPRS (SPINNIN')",
+      "trackId": "2290378",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 168,
+      "mediaIds": {
+        "spotify": "319743",
+        "youtube": "319743",
+        "soundcloud": "319743",
+        "appleMusic": "319743"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "DBSTF",
+      "title": "B U M P (Mps Drop Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2290379",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 250,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Galantis",
+      "title": "No Money",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "2290380",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 333,
+      "mediaIds": {
+        "spotify": "300668",
+        "youtube": "300668",
+        "soundcloud": "300668",
+        "appleMusic": "300668"
+      },
+      "blendGroup": [
+        {
+          "artist": "Galantis",
+          "title": "No Money",
+          "remix": "",
+          "trackId": "2290380"
+        },
+        {
+          "artist": "Galantis",
+          "title": "No Money (Wuki Remix)",
+          "remix": "",
+          "trackId": "2290381"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Galantis",
+      "title": "No Money (Wuki Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "2290381",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 409,
+      "mediaIds": {
+        "spotify": "307851",
+        "youtube": "307851",
+        "soundcloud": "307851",
+        "appleMusic": "307851"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Sander van Doorn x Fred Pellichero",
+      "title": "The Snake 2016",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "2290382",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 485,
+      "mediaIds": {
+        "spotify": "325624",
+        "youtube": "325624",
+        "appleMusic": "325624"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Noir",
+      "title": "Bataille",
+      "remix": "",
+      "label": "TRONIC",
+      "trackId": "2290383",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 578,
+      "mediaIds": {
+        "spotify": "301476",
+        "soundcloud": "301476"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Otto Knows ft. Avicii",
+      "title": "Back Where I Belong",
+      "remix": "",
+      "label": "WARNER SWEDEN",
+      "trackId": "2290384",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 696,
+      "mediaIds": {
+        "spotify": "311091",
+        "youtube": "311091",
+        "soundcloud": "311091",
+        "appleMusic": "311091"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "UMF Miami - Official Aftermovie",
+      "slug": "umfmiamiofficialaftermovie"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "494719",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=cvFdFAr_7po"
+    }
+  ],
+  "scrapedAt": "2026-04-08T06:09:39.185Z",
+  "scrapeVersion": 2
+}

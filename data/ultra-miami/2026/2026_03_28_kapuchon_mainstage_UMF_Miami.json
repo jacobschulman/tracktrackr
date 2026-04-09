@@ -1,0 +1,131 @@
+{
+  "tlId": "trr7y3t",
+  "dj": "Kapuchon",
+  "stage": "Mainstage",
+  "date": "2026-03-28",
+  "year": 2026,
+  "genre": "Afro House",
+  "tracksIdentified": 4,
+  "tracksTotal": 5,
+  "duration": "",
+  "views": 174,
+  "likes": 2,
+  "url": "https://www.1001tracklists.com/tracklist/trr7y3t/kapuchon-mainstage-ultra-music-festival-miami-united-states-2026-03-28.html",
+  "djs": [
+    {
+      "name": "Kapuchon",
+      "slug": "kapuchon"
+    }
+  ],
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "VITO (UK) & Marian (BR)",
+      "title": "Simple Things",
+      "remix": "",
+      "label": "MVSON",
+      "trackId": "13677783",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1158177",
+        "youtube": "1158177",
+        "soundcloud": "1158177",
+        "appleMusic": "1158177"
+      },
+      "blendGroup": [
+        {
+          "artist": "VITO (UK) & Marian (BR)",
+          "title": "Simple Things",
+          "remix": "",
+          "trackId": "13677783"
+        },
+        {
+          "artist": "iLoveMakonnen ft. Drake",
+          "title": "Club Goin Up (Tuesday)",
+          "remix": "(Acappella)",
+          "trackId": "13677784"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "iLoveMakonnen ft. Drake",
+      "title": "Club Goin Up (Tuesday)",
+      "remix": "(Acappella)",
+      "label": "OVO",
+      "trackId": "13677784",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "212507",
+        "youtube": "212507",
+        "soundcloud": "212507",
+        "appleMusic": "212507"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "21 Savage & Metro Boomin",
+      "title": "No Heart",
+      "remix": "",
+      "label": "SLAUGHTER GANG",
+      "trackId": "13677785",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "340959",
+        "youtube": "340959",
+        "soundcloud": "340959",
+        "appleMusic": "340959"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Bountyhunter",
+      "title": "Woops (Dimitri Vegas & Junkie Kid Remix / BRANDON Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13677786",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "1145918"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Kapuchon & Sven Fields",
+      "title": "Work",
+      "remix": "",
+      "label": "SB",
+      "trackId": "13677809",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1032889",
+        "youtube": "1032889",
+        "soundcloud": "1032889",
+        "appleMusic": "1032889"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "hearthis",
+      "idMedia": "5284482",
+      "idSource": "40",
+      "url": "https://hearthis.at/14065231/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:10:09.118Z",
+  "scrapeVersion": 2
+}

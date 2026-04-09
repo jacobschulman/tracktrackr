@@ -1,0 +1,618 @@
+{
+  "tlId": "2ck11yst",
+  "dj": "DVBBS",
+  "stage": "Mainstage",
+  "date": "2016-03-19",
+  "year": 2016,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "1h",
+  "views": 459,
+  "likes": 30,
+  "url": "https://www.1001tracklists.com/tracklist/2ck11yst/dvbbs-mainstage-ultra-music-festival-miami-united-states-2016-03-19.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "DVBBS & MOTi",
+      "title": "Switch",
+      "remix": "",
+      "label": "KANARY/SPINNIN'",
+      "trackId": "1953251",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 3,
+      "mediaIds": {
+        "spotify": "300772",
+        "youtube": "300772",
+        "soundcloud": "300772",
+        "appleMusic": "300772"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Borgore & Caked Up",
+      "title": "Tomahawk",
+      "remix": "",
+      "label": "BUYGORE",
+      "trackId": "1953252",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 77,
+      "mediaIds": {
+        "youtube": "284008",
+        "soundcloud": "284008",
+        "appleMusic": "284008"
+      },
+      "blendGroup": [
+        {
+          "artist": "Borgore & Caked Up",
+          "title": "Tomahawk",
+          "remix": "",
+          "trackId": "1953252"
+        },
+        {
+          "artist": "Henry Fong",
+          "title": "Wine Dem (AyOne Bootleg)",
+          "remix": "",
+          "trackId": "1953253"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Henry Fong",
+      "title": "Wine Dem (AyOne Bootleg)",
+      "remix": "",
+      "label": "BANZAI RECS",
+      "trackId": "1953253",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 148,
+      "mediaIds": null
+    },
+    {
+      "pos": "03",
+      "artist": "DVBBS",
+      "title": "Jackin'",
+      "remix": "",
+      "label": "ULTRA/KANARY",
+      "trackId": "1953254",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 180,
+      "mediaIds": {
+        "spotify": "615690",
+        "youtube": "615690",
+        "soundcloud": "615690",
+        "appleMusic": "615690"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Yellow Claw",
+      "title": "Run Away (Mike Cervello Remix)",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "1955749",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 300,
+      "mediaIds": {
+        "youtube": "260065",
+        "soundcloud": "260065"
+      },
+      "blendGroup": [
+        {
+          "artist": "Yellow Claw",
+          "title": "Run Away (Mike Cervello Remix)",
+          "remix": "",
+          "trackId": "1955749"
+        },
+        {
+          "artist": "Matisse & Sadko",
+          "title": "Lock 'N' Load",
+          "remix": "",
+          "trackId": "1953256"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Matisse & Sadko",
+      "title": "Lock 'N' Load",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1953256",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 345,
+      "mediaIds": {
+        "spotify": "269208",
+        "youtube": "269208",
+        "soundcloud": "269208",
+        "appleMusic": "269208"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "DVBBS & Dropgun ft. Sanjin",
+      "title": "Pyramids",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1953257",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 380,
+      "mediaIds": {
+        "spotify": "217910",
+        "youtube": "217910",
+        "soundcloud": "217910",
+        "appleMusic": "217910"
+      },
+      "blendGroup": [
+        {
+          "artist": "DVBBS & Dropgun ft. Sanjin",
+          "title": "Pyramids",
+          "remix": "",
+          "trackId": "1953257"
+        },
+        {
+          "artist": "Gama",
+          "title": "Everybody Ready",
+          "remix": "",
+          "trackId": "1953258"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gama",
+      "title": "Everybody Ready",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1953258",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 522,
+      "mediaIds": {
+        "spotify": "288078",
+        "youtube": "288078",
+        "soundcloud": "288078"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "DVBBS",
+      "title": "Raveheart",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1953259",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 582,
+      "mediaIds": {
+        "spotify": "259904",
+        "youtube": "259904",
+        "soundcloud": "259904",
+        "appleMusic": "259904"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "BURNS",
+      "title": "Make It Clap",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "1953255",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 751,
+      "mediaIds": {
+        "spotify": "255493",
+        "youtube": "255493",
+        "soundcloud": "255493",
+        "appleMusic": "255493"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "DVBBS",
+      "title": "Ur On My Mind",
+      "remix": "",
+      "label": "KANARY",
+      "trackId": "1953261",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 909,
+      "mediaIds": {
+        "spotify": "300773",
+        "youtube": "300773",
+        "soundcloud": "300773",
+        "appleMusic": "300773"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Chocolate Puma & Tommie Sunshine ft. DJ Funk",
+      "title": "Scrub The Ground",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "1953262",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1111,
+      "mediaIds": {
+        "spotify": "269179",
+        "youtube": "269179",
+        "soundcloud": "269179",
+        "appleMusic": "269179"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Sander van Doorn & Martin Garrix & DVBBS ft. Aleesia",
+      "title": "Gold Skies",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1953263",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1188,
+      "mediaIds": {
+        "spotify": "182675",
+        "youtube": "182675",
+        "soundcloud": "182675",
+        "appleMusic": "182675"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "DVBBS",
+      "title": "We Were Young",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1953955",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1320,
+      "mediaIds": {
+        "spotify": "201277",
+        "youtube": "201277",
+        "soundcloud": "201277",
+        "appleMusic": "201277"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Yellow Claw & Dirtcaps",
+      "title": "Smoke it",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "1953225",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1438,
+      "mediaIds": {
+        "spotify": "255128",
+        "youtube": "255128",
+        "soundcloud": "255128",
+        "appleMusic": "255128"
+      },
+      "blendGroup": [
+        {
+          "artist": "Yellow Claw & Dirtcaps",
+          "title": "Smoke it",
+          "remix": "",
+          "trackId": "1953225"
+        },
+        {
+          "artist": "Mightyfools & Yellow Claw",
+          "title": "Lick Dat (Cesqeaux Remix)",
+          "remix": "",
+          "trackId": "1953226"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mightyfools & Yellow Claw",
+      "title": "Lick Dat (Cesqeaux Remix)",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "1953226",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1595,
+      "mediaIds": {
+        "youtube": "209889",
+        "soundcloud": "209889"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Valentino Khan ft. DJ Kool",
+      "title": "Make Some Noise",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "1953227",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1690,
+      "mediaIds": {
+        "spotify": "206102",
+        "youtube": "206102",
+        "soundcloud": "206102",
+        "appleMusic": "206102"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "MAKJ & Lil Jon",
+      "title": "Let's Get F*cked Up (Zatox Hardstyle Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1953228",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1741,
+      "mediaIds": {
+        "youtube": "244485",
+        "soundcloud": "244485"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "DVBBS",
+      "title": "24k",
+      "remix": "",
+      "label": "KANARY",
+      "trackId": "1953276",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1864,
+      "mediaIds": {
+        "spotify": "301583",
+        "youtube": "301583",
+        "soundcloud": "301583",
+        "appleMusic": "301583"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "MUST DIE!",
+      "title": "Neo Tokyo",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "1953231",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1998,
+      "mediaIds": {
+        "spotify": "268414",
+        "youtube": "268414",
+        "soundcloud": "268414",
+        "appleMusic": "268414"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Boaz van de Beatz ft. Mr. Polska & Ronnie Flex & Riff Raff",
+      "title": "No Way Home",
+      "remix": "",
+      "label": "NOUVEAU RICHE",
+      "trackId": "1953232",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2112,
+      "mediaIds": {
+        "youtube": "202802",
+        "soundcloud": "202802"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Migos",
+      "title": "Look At My Dab (Mustard & 4B Remix)",
+      "remix": "",
+      "label": "QUALITY CONTROL",
+      "trackId": "1953233",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2229,
+      "mediaIds": {
+        "youtube": "296119",
+        "soundcloud": "296119"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "DVBBS & MOTi",
+      "title": "This Is Dirty",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "1953234",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2392,
+      "mediaIds": {
+        "spotify": "189072",
+        "youtube": "189072",
+        "soundcloud": "189072",
+        "appleMusic": "189072"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "DVBBS",
+      "title": "Bass Up (Track Name Unconfirmed)",
+      "remix": "",
+      "label": "KANARY",
+      "trackId": "1953264",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2582,
+      "mediaIds": {
+        "youtube": "506263"
+      },
+      "blendGroup": [
+        {
+          "artist": "DVBBS",
+          "title": "Bass Up (Track Name Unconfirmed)",
+          "remix": "",
+          "trackId": "1953264"
+        },
+        {
+          "artist": "Tony Junior",
+          "title": "Nobody Beats The Fucking Drum",
+          "remix": "",
+          "trackId": "1953265"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tony Junior",
+      "title": "Nobody Beats The Fucking Drum",
+      "remix": "",
+      "label": "TIGER RECORDS",
+      "trackId": "1953265",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 2687,
+      "mediaIds": {
+        "youtube": "124664"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "DVBBS & Tony Junior",
+      "title": "Immortal",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1953266",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2696,
+      "mediaIds": {
+        "spotify": "172846",
+        "youtube": "172846",
+        "soundcloud": "172846",
+        "appleMusic": "172846"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "DVBBS & BORGEOUS",
+      "title": "Tsunami",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "1953267",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2918,
+      "mediaIds": {
+        "spotify": "144474",
+        "youtube": "144474",
+        "soundcloud": "144474",
+        "appleMusic": "144474"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "DVBBS",
+      "title": "Never Leave",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1953268",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3061,
+      "mediaIds": {
+        "spotify": "265709",
+        "youtube": "265709",
+        "soundcloud": "265709",
+        "appleMusic": "265709"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "DVBBS ft. Cody Simpson",
+      "title": "Living The Day",
+      "remix": "(Live)",
+      "label": "KANARY",
+      "trackId": "1953274",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3200,
+      "mediaIds": {
+        "youtube": "1953274"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "DVBBS & Shaun Frank ft. Delaney Jane",
+      "title": "La La Land",
+      "remix": "(Live)",
+      "label": "KANARY/SPINNIN'",
+      "trackId": "1953278",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3402,
+      "mediaIds": {
+        "spotify": "298315",
+        "youtube": "298315",
+        "soundcloud": "298315",
+        "appleMusic": "298315"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "DVBBS",
+      "slug": "dvbbs"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "420203",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=YQWx26h4s2s"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "417579",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/EatDanceRaveRepeat"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "417938",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T06:28:48.604Z",
+  "scrapeVersion": 2
+}

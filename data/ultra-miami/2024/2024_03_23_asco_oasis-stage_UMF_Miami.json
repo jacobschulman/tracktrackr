@@ -1,0 +1,572 @@
+{
+  "tlId": "2dum27hk",
+  "dj": "ASCO",
+  "stage": "Oasis Stage",
+  "date": "2024-03-23",
+  "year": 2024,
+  "genre": "Afro House",
+  "tracksIdentified": 23,
+  "tracksTotal": 28,
+  "duration": "58m",
+  "views": 842,
+  "likes": 5,
+  "url": "https://www.1001tracklists.com/tracklist/2dum27hk/asco-oasis-stage-ultra-music-festival-miami-united-states-2024-03-23.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ASCO",
+      "title": "Lacrimosa",
+      "remix": "",
+      "label": "CAOS",
+      "trackId": "10316376",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 16,
+      "mediaIds": {
+        "spotify": "860506",
+        "youtube": "860506",
+        "soundcloud": "860506",
+        "appleMusic": "860506"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ASCO",
+      "title": "Born Slippy",
+      "remix": "",
+      "label": "CAOS",
+      "trackId": "10316377",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 264,
+      "mediaIds": {
+        "spotify": "807724",
+        "youtube": "807724",
+        "soundcloud": "807724",
+        "appleMusic": "807724"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Lorenzo Mariani",
+      "title": "Fur Elise",
+      "remix": "",
+      "label": "CAOS",
+      "trackId": "10316378",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 491,
+      "mediaIds": {
+        "spotify": "978492",
+        "youtube": "978492",
+        "soundcloud": "978492",
+        "appleMusic": "978492"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Sam Smith ft. Kim Petras",
+      "title": "Unholy (ASCO Urbex Remix)",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "10316379",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 550,
+      "mediaIds": {
+        "youtube": "840697",
+        "soundcloud": "840697"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10316380",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 749,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "David Guetta vs. Benny Benassi",
+      "title": "Satisfaction (Hardwell & Maddix Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "10316381",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 810,
+      "mediaIds": {
+        "spotify": "812289",
+        "youtube": "812289",
+        "soundcloud": "812289",
+        "appleMusic": "812289"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Guetta vs. Benny Benassi",
+          "title": "Satisfaction (Hardwell & Maddix Remix)",
+          "remix": "",
+          "trackId": "10316381"
+        },
+        {
+          "artist": "Måneskin",
+          "title": "I Wanna Be Your Slave",
+          "remix": "",
+          "trackId": "10316382"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Måneskin",
+      "title": "I Wanna Be Your Slave",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "10316382",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "698767",
+        "appleMusic": "698767"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10316383",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 970,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Kanye West & Ty Dolla $ign pres. ¥$ ft. Playboi Carti & Rich The Kid",
+      "title": "CARNIVAL (ASCO Bootleg Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "10316384",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1204,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Alex M & Richard Reynolds",
+      "title": "Cyprus",
+      "remix": "",
+      "label": "CAOS",
+      "trackId": "10316385",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1368,
+      "mediaIds": {
+        "spotify": "866016",
+        "youtube": "866016",
+        "soundcloud": "866016",
+        "appleMusic": "866016"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alex M & Richard Reynolds",
+          "title": "Cyprus",
+          "remix": "",
+          "trackId": "10316385"
+        },
+        {
+          "artist": "Anyma",
+          "title": "Pictures Of You",
+          "remix": "(Acappella)",
+          "trackId": "10316386"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Anyma",
+      "title": "Pictures Of You",
+      "remix": "(Acappella)",
+      "label": "AFTERLIFE/INTERSCOPE",
+      "trackId": "10316386",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 1516,
+      "mediaIds": {
+        "spotify": "957896",
+        "youtube": "957896",
+        "soundcloud": "957896",
+        "appleMusic": "957896"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10316387",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1694,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "10316387"
+        },
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Save The World (Acappella)",
+          "remix": "",
+          "trackId": "10316388"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Save The World (Acappella)",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "10316388",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1733,
+      "mediaIds": {
+        "spotify": "31007",
+        "youtube": "61666",
+        "soundcloud": "61666",
+        "appleMusic": "31007"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10316389",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1836,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "10316389"
+        },
+        {
+          "artist": "Avicii & Nicky Romero ft. Noonie Bao",
+          "title": "I Could Be The One (Acappella)",
+          "remix": "",
+          "trackId": "10316390"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii & Nicky Romero ft. Noonie Bao",
+      "title": "I Could Be The One (Acappella)",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "10316390",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1877,
+      "mediaIds": {
+        "spotify": "63651",
+        "youtube": "63651",
+        "soundcloud": "63651",
+        "appleMusic": "63651"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Swedish House Mafia",
+      "title": "Miami 2 Antidote (MR.BLACK Tribute Remix)",
+      "remix": "",
+      "label": "POPHOUSE/EMI",
+      "trackId": "10316391",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1966,
+      "mediaIds": {
+        "soundcloud": "414623"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Blasterjaxx & ASCO ft. Norah B.",
+      "title": "Alive",
+      "remix": "",
+      "label": "MAXXIMIZE (SPINNIN')",
+      "trackId": "10316392",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2052,
+      "mediaIds": {
+        "spotify": "561912",
+        "youtube": "561912",
+        "soundcloud": "561912",
+        "appleMusic": "561912"
+      },
+      "blendGroup": [
+        {
+          "artist": "Blasterjaxx & ASCO ft. Norah B.",
+          "title": "Alive",
+          "remix": "",
+          "trackId": "10316392"
+        },
+        {
+          "artist": "Alan Walker ft. Iselin Solheim",
+          "title": "Faded (Acappella)",
+          "remix": "",
+          "trackId": "10316393"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alan Walker ft. Iselin Solheim",
+      "title": "Faded (Acappella)",
+      "remix": "",
+      "label": "MER",
+      "trackId": "10316393",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "291547",
+        "youtube": "291547",
+        "soundcloud": "291547",
+        "appleMusic": "291547"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alan Walker ft. Iselin Solheim",
+          "title": "Faded (Acappella)",
+          "remix": "",
+          "trackId": "10316393"
+        },
+        {
+          "artist": "Corona",
+          "title": "The Rhythm Of The Night (Acappella)",
+          "remix": "",
+          "trackId": "10316394"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Corona",
+      "title": "The Rhythm Of The Night (Acappella)",
+      "remix": "",
+      "label": "ZYX",
+      "trackId": "10316394",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2598",
+        "youtube": "8651",
+        "soundcloud": "2598",
+        "appleMusic": "2598"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Will Atkinson",
+      "title": "Telescope (Maddix Remix)",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "10316395",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2199,
+      "mediaIds": {
+        "spotify": "837249",
+        "youtube": "837249",
+        "soundcloud": "837249",
+        "appleMusic": "837249"
+      },
+      "blendGroup": [
+        {
+          "artist": "Will Atkinson",
+          "title": "Telescope (Maddix Remix)",
+          "remix": "",
+          "trackId": "10316395"
+        },
+        {
+          "artist": "Domenico Modugno",
+          "title": "Volare",
+          "remix": "",
+          "trackId": "10316396"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Domenico Modugno",
+      "title": "Volare",
+      "remix": "",
+      "label": "",
+      "trackId": "10316396",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "888394",
+        "soundcloud": "888394",
+        "appleMusic": "888394"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Creeds",
+      "title": "Push Up (ASCO Orchestral Remix)",
+      "remix": "",
+      "label": "RAVE ALERT",
+      "trackId": "10316397",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2324,
+      "mediaIds": {
+        "youtube": "10316397"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "ASCO",
+      "title": "Bla Bla Bla",
+      "remix": "",
+      "label": "",
+      "trackId": "10316398",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2416,
+      "mediaIds": {
+        "soundcloud": "947328"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "BENNETT",
+      "title": "Vois Sur Ton Chemin (Techno Mix)",
+      "remix": "",
+      "label": "WARNER MUSIC GERMANY",
+      "trackId": "10316399",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2543,
+      "mediaIds": {
+        "spotify": "917635",
+        "youtube": "917635",
+        "soundcloud": "917635",
+        "appleMusic": "917635"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "ASCO",
+      "title": "In The End",
+      "remix": "",
+      "label": "CAOS",
+      "trackId": "10316400",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2668,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10316401",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2875,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "ASCO",
+      "title": "Verona",
+      "remix": "",
+      "label": "CAOS",
+      "trackId": "10316402",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3106,
+      "mediaIds": {
+        "spotify": "937203",
+        "youtube": "937203",
+        "soundcloud": "937203",
+        "appleMusic": "937203"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "ASCO",
+      "title": "Fortuna",
+      "remix": "",
+      "label": "CAOS",
+      "trackId": "10316403",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3300,
+      "mediaIds": {
+        "spotify": "828995",
+        "youtube": "828995",
+        "soundcloud": "828995",
+        "appleMusic": "828995"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "ASCO",
+      "slug": "asco"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "4026032",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1783023159"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:55:21.893Z",
+  "scrapeVersion": 2
+}

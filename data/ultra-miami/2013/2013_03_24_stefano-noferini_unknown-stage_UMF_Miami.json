@@ -1,0 +1,192 @@
+{
+  "tlId": "1zcytt9",
+  "dj": "Stefano Noferini",
+  "stage": "Unknown Stage",
+  "date": "2013-03-24",
+  "year": 2013,
+  "genre": "Afro House",
+  "tracksIdentified": 8,
+  "tracksTotal": 10,
+  "duration": "1h",
+  "views": 38,
+  "likes": 5,
+  "url": "https://www.1001tracklists.com/tracklist/1zcytt9/stefano-noferini-ultra-music-festival-miami-united-states-2013-03-24.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "458949",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Piatto",
+      "title": "Not Satisfied (Kirill Mixer Remix)",
+      "remix": "",
+      "label": "IAMT",
+      "trackId": "458950",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Stefano Noferini",
+      "title": "Flash",
+      "remix": "",
+      "label": "DEEPERFECT",
+      "trackId": "458951",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "91713",
+        "soundcloud": "91713",
+        "appleMusic": "91713"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Stefano Noferini",
+      "title": "You Can Do It",
+      "remix": "",
+      "label": "DEEPERFECT",
+      "trackId": "458952",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 960,
+      "mediaIds": {
+        "soundcloud": "125131"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Stefano Noferini",
+      "title": "Let The Bass",
+      "remix": "",
+      "label": "DEEPERFECT",
+      "trackId": "458953",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "71160"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "UMEK & Stefano Noferini",
+      "title": "Goes On",
+      "remix": "",
+      "label": "DEEPERFECT",
+      "trackId": "458954",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1860,
+      "mediaIds": {
+        "youtube": "57593"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Stefano Noferini",
+      "title": "Room 52",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "458955",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "101985",
+        "soundcloud": "101985",
+        "appleMusic": "101985"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Mars Bill",
+      "title": "Rhombus",
+      "remix": "",
+      "label": "LOOSE",
+      "trackId": "458956",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "111203"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "458957",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "458957"
+        },
+        {
+          "artist": "Stefano Noferini",
+          "title": "Fact",
+          "remix": "",
+          "trackId": "459052"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Stefano Noferini",
+      "title": "Fact",
+      "remix": "",
+      "label": "100% PURE",
+      "trackId": "459052",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 3060,
+      "mediaIds": {
+        "soundcloud": "39339"
+      }
+    }
+  ],
+  "djs": [
+    {
+      "name": "Stefano Noferini",
+      "slug": "stefanonoferini"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "78365",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/85173376"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:53:25.339Z",
+  "scrapeVersion": 2
+}

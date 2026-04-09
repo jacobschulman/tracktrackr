@@ -1,0 +1,808 @@
+{
+  "tlId": "108c01tk",
+  "dj": "Holy Priest",
+  "stage": "Worldwide Stage",
+  "date": "2026-03-29",
+  "year": 2026,
+  "genre": "Afro House",
+  "tracksIdentified": 25,
+  "tracksTotal": 39,
+  "duration": "",
+  "views": 72,
+  "likes": 0,
+  "url": "https://www.1001tracklists.com/tracklist/108c01tk/holy-priest-worldwide-stage-ultra-music-festival-miami-united-states-2026-03-29.html",
+  "djs": [
+    {
+      "name": "Holy Priest",
+      "slug": "holypriest"
+    }
+  ],
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Zatox",
+      "title": "Destroy",
+      "remix": "",
+      "label": "",
+      "trackId": "13678667",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 81,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Zatox & Holy Priest",
+      "title": "New Shit",
+      "remix": "",
+      "label": "FXCK",
+      "trackId": "13678668",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 144,
+      "mediaIds": {
+        "spotify": "1126656",
+        "youtube": "1126656",
+        "soundcloud": "1126656",
+        "appleMusic": "1126656"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Lynyrd Skynyrd",
+      "title": "Free Bird (Crankdat Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13678669",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 219,
+      "mediaIds": {
+        "youtube": "1103500",
+        "soundcloud": "1103500"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lynyrd Skynyrd",
+          "title": "Free Bird (Crankdat Remix)",
+          "remix": "",
+          "trackId": "13678669"
+        },
+        {
+          "artist": "333CXT",
+          "title": "Hardcore Bxtch",
+          "remix": "",
+          "trackId": "13678670"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "333CXT",
+      "title": "Hardcore Bxtch",
+      "remix": "",
+      "label": "RECKLESS",
+      "trackId": "13678670",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 219,
+      "mediaIds": {
+        "spotify": "13678670"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "DR. OBLITERANE",
+      "title": "CRANK THAT",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13678671",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 265,
+      "mediaIds": {
+        "soundcloud": "13678671"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "BEAUZ",
+      "title": "Ocho",
+      "remix": "",
+      "label": "BADDIE UP",
+      "trackId": "13678672",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 369,
+      "mediaIds": {
+        "spotify": "1033482",
+        "youtube": "1033482",
+        "appleMusic": "1033482"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "BEAUZ & CLAESSENS ft. MC Hughie Babe",
+      "title": "KLUBHEAD (KARAMUSTAN Hard Edit)",
+      "remix": "",
+      "label": "BADDIE UP",
+      "trackId": "13678673",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 446,
+      "mediaIds": {
+        "soundcloud": "13678673"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Holy Priest & Coone",
+      "title": "Get High",
+      "remix": "",
+      "label": "FXCK",
+      "trackId": "13678674",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 531,
+      "mediaIds": {
+        "spotify": "1161133",
+        "youtube": "1161133",
+        "soundcloud": "1161133",
+        "appleMusic": "1161133"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Coone",
+      "title": "4 BY 4 BEATS (I Don't Care)",
+      "remix": "",
+      "label": "DIRTY WORKZ",
+      "trackId": "13678675",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 668,
+      "mediaIds": {
+        "spotify": "1064044",
+        "youtube": "1064044",
+        "soundcloud": "1064044",
+        "appleMusic": "1064044"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Rooler",
+      "title": "ID",
+      "remix": "(Kick That Bass)",
+      "label": "",
+      "trackId": "13678676",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 745,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Holy Priest & Manji",
+      "title": "No Balance",
+      "remix": "",
+      "label": "FXCK",
+      "trackId": "13678677",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 875,
+      "mediaIds": {
+        "spotify": "1054302",
+        "youtube": "1054302",
+        "soundcloud": "1054302",
+        "appleMusic": "1054302"
+      },
+      "blendGroup": [
+        {
+          "artist": "Holy Priest & Manji",
+          "title": "No Balance",
+          "remix": "",
+          "trackId": "13678677"
+        },
+        {
+          "artist": "Holy Priest & Manji",
+          "title": "No Balance (UNVIZION Edit)",
+          "remix": "",
+          "trackId": "13678678"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Holy Priest & Manji",
+      "title": "No Balance (UNVIZION Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13678678",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 976,
+      "mediaIds": null
+    },
+    {
+      "pos": "11",
+      "artist": "Holy Priest & Rekkt",
+      "title": "DOMINATION",
+      "remix": "",
+      "label": "FXCK",
+      "trackId": "13678679",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1000,
+      "mediaIds": {
+        "spotify": "1124234",
+        "youtube": "1124234",
+        "soundcloud": "1124234",
+        "appleMusic": "1124234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Holy Priest & CATALYST (NL) & Warface",
+      "title": "HELLFIRE",
+      "remix": "",
+      "label": "",
+      "trackId": "13678680",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1106,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Holy Priest",
+      "title": "ID",
+      "remix": "(Say Your Prayer)",
+      "label": "",
+      "trackId": "13678681",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1225,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Holy Priest & Krowdexx",
+      "title": "FREESTYLER",
+      "remix": "",
+      "label": "",
+      "trackId": "13678682",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1355,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Black Eyed Peas",
+      "title": "Pump It (Ricardo Moreno Remix)",
+      "remix": "",
+      "label": "A&M",
+      "trackId": "13678683",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1550,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Black Eyed Peas",
+          "title": "Pump It (Ricardo Moreno Remix)",
+          "remix": "",
+          "trackId": "13678683"
+        },
+        {
+          "artist": "Aversion & Dual Damage",
+          "title": "Pump It (N-XD Edit)",
+          "remix": "",
+          "trackId": "13678684"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Aversion & Dual Damage",
+      "title": "Pump It (N-XD Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13678684",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1606,
+      "mediaIds": {
+        "soundcloud": "13678684"
+      },
+      "blendGroup": [
+        {
+          "artist": "Aversion & Dual Damage",
+          "title": "Pump It (N-XD Edit)",
+          "remix": "",
+          "trackId": "13678684"
+        },
+        {
+          "artist": "Black Eyed Peas",
+          "title": "Pump It (Tantron DnB Bootleg)",
+          "remix": "",
+          "trackId": "13678685"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Black Eyed Peas",
+      "title": "Pump It (Tantron DnB Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "13678685",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1650,
+      "mediaIds": {
+        "youtube": "874262",
+        "soundcloud": "874262"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Holy Priest & Sullivan King",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13678686",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1688,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Bountyhunter",
+      "title": "Woops (Anderex Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13678687",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1866,
+      "mediaIds": {
+        "youtube": "1109772",
+        "soundcloud": "1109772"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Bloodlust & Holy Priest",
+      "title": "Hit The Floor",
+      "remix": "",
+      "label": "END OF LINE",
+      "trackId": "13678688",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1954,
+      "mediaIds": {
+        "spotify": "1009933",
+        "youtube": "1009933",
+        "soundcloud": "1009933",
+        "appleMusic": "1009933"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bloodlust & Holy Priest",
+          "title": "Hit The Floor",
+          "remix": "",
+          "trackId": "13678688"
+        },
+        {
+          "artist": "Bloodlust & Holy Priest",
+          "title": "Hit The Floor",
+          "remix": "",
+          "trackId": "13678689"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bloodlust & Holy Priest",
+      "title": "Hit The Floor",
+      "remix": "",
+      "label": "END OF LINE",
+      "trackId": "13678689",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 2021,
+      "mediaIds": {
+        "spotify": "1009933",
+        "youtube": "1009933",
+        "soundcloud": "1009933",
+        "appleMusic": "1009933"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Coolio & 1World & Holy Priest",
+      "title": "Gangsta's Paradise",
+      "remix": "",
+      "label": "KONTOR",
+      "trackId": "13678690",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2073,
+      "mediaIds": {
+        "spotify": "921424",
+        "youtube": "921424",
+        "soundcloud": "921424",
+        "appleMusic": "921424"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Save The World (Holy Priest Remix)",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "13678691",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2212,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Lil Nas X ft. Jack Harlow",
+      "title": "INDUSTRY BABY (Crankdat Remix)",
+      "remix": "",
+      "label": "PATREON",
+      "trackId": "13678692",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2392,
+      "mediaIds": {
+        "youtube": "748536",
+        "soundcloud": "748536"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "DEEZL",
+      "title": "More Than Human",
+      "remix": "",
+      "label": "GEARBOX",
+      "trackId": "13678693",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2458,
+      "mediaIds": {
+        "spotify": "708333",
+        "youtube": "708333",
+        "soundcloud": "708333",
+        "appleMusic": "708333"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Endymion",
+      "title": "Pussy Motherfuckerz (D-Fence Remix / Chaos Project & Sakyra Edit)",
+      "remix": "",
+      "label": "MILLENIUM",
+      "trackId": "13678694",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2522,
+      "mediaIds": {
+        "spotify": "1099785",
+        "youtube": "1099785",
+        "soundcloud": "1099785",
+        "appleMusic": "1099785"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "BLVCK CROWZ",
+      "title": "HardTekk Pussy",
+      "remix": "",
+      "label": "",
+      "trackId": "13678695",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2606,
+      "mediaIds": {
+        "spotify": "13678695",
+        "soundcloud": "13678695"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Klofama & SLVL",
+      "title": "S6TP",
+      "remix": "",
+      "label": "ALTRUISM",
+      "trackId": "13678696",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2687,
+      "mediaIds": {
+        "spotify": "1101983",
+        "youtube": "1101983",
+        "soundcloud": "1101983",
+        "appleMusic": "1101983"
+      },
+      "blendGroup": [
+        {
+          "artist": "Klofama & SLVL",
+          "title": "S6TP",
+          "remix": "",
+          "trackId": "13678696"
+        },
+        {
+          "artist": "Kai Wachi & Dylan Matthew",
+          "title": "Run (RUVLO Remix)",
+          "remix": "",
+          "trackId": "13678697"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kai Wachi & Dylan Matthew",
+      "title": "Run (RUVLO Remix)",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "13678697",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 2734,
+      "mediaIds": {
+        "spotify": "627538",
+        "youtube": "627538",
+        "soundcloud": "627538",
+        "appleMusic": "627538"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kai Wachi & Dylan Matthew",
+          "title": "Run (RUVLO Remix)",
+          "remix": "",
+          "trackId": "13678697"
+        },
+        {
+          "artist": "Klofama & SLVL",
+          "title": "S6TP",
+          "remix": "",
+          "trackId": "13680634"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Klofama & SLVL",
+      "title": "S6TP",
+      "remix": "",
+      "label": "ALTRUISM",
+      "trackId": "13680634",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 2763,
+      "mediaIds": {
+        "spotify": "1101983",
+        "youtube": "1101983",
+        "soundcloud": "1101983",
+        "appleMusic": "1101983"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "DJ Kool",
+      "title": "Let Me Clear My Throat (Oldschool Reunion Remix 96)",
+      "remix": "",
+      "label": "AMERICAN RECORDINGS/WARNER BROS.",
+      "trackId": "13678698",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2813,
+      "mediaIds": {
+        "spotify": "46203",
+        "appleMusic": "46203"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Kool",
+          "title": "Let Me Clear My Throat (Oldschool Reunion Remix 96)",
+          "remix": "",
+          "trackId": "13678698"
+        },
+        {
+          "artist": "Rooler & Kronos",
+          "title": "FCK DAT! (Kronos DOOM Edit)",
+          "remix": "",
+          "trackId": "13678699"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rooler & Kronos",
+      "title": "FCK DAT! (Kronos DOOM Edit)",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "13678699",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 2855,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Rooler & Kronos",
+          "title": "FCK DAT! (Kronos DOOM Edit)",
+          "remix": "",
+          "trackId": "13678699"
+        },
+        {
+          "artist": "Rooler & Kronos",
+          "title": "FCK DAT!",
+          "remix": "",
+          "trackId": "13678700"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rooler & Kronos",
+      "title": "FCK DAT!",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "13678700",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 2881,
+      "mediaIds": {
+        "spotify": "891206",
+        "youtube": "891206",
+        "soundcloud": "891206",
+        "appleMusic": "891206"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "Holy Priest & Lil Texas",
+      "title": "Like A Boss",
+      "remix": "",
+      "label": "FXCK",
+      "trackId": "13678701",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2931,
+      "mediaIds": {
+        "spotify": "1068225",
+        "youtube": "1068225",
+        "soundcloud": "1068225",
+        "appleMusic": "1068225"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Milleniumkid & JBS",
+      "title": "Vielleicht Vielleicht (elMefti & Holy Priest Remix)",
+      "remix": "",
+      "label": "WARNER MUSIC GERMANY",
+      "trackId": "13678702",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3019,
+      "mediaIds": {
+        "spotify": "1085198",
+        "youtube": "1085198",
+        "soundcloud": "1085198",
+        "appleMusic": "1085198"
+      },
+      "blendGroup": [
+        {
+          "artist": "Milleniumkid & JBS",
+          "title": "Vielleicht Vielleicht (elMefti & Holy Priest Remix)",
+          "remix": "",
+          "trackId": "13678702"
+        },
+        {
+          "artist": "Milleniumkid & JBS",
+          "title": "Vielleicht Vielleicht (D-Sturb Bootleg)",
+          "remix": "",
+          "trackId": "13678703"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Milleniumkid & JBS",
+      "title": "Vielleicht Vielleicht (D-Sturb Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "13678703",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 3117,
+      "mediaIds": null
+    },
+    {
+      "pos": "29",
+      "artist": "Holy Priest & Netherworld",
+      "title": "Holy Atlantis",
+      "remix": "",
+      "label": "BAMBOO ARTISTS",
+      "trackId": "13678704",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3215,
+      "mediaIds": {
+        "spotify": "1146034",
+        "youtube": "1146034",
+        "soundcloud": "1146034",
+        "appleMusic": "1146034"
+      },
+      "blendGroup": [
+        {
+          "artist": "Holy Priest & Netherworld",
+          "title": "Holy Atlantis",
+          "remix": "",
+          "trackId": "13678704"
+        },
+        {
+          "artist": "Holy Priest & Netherworld",
+          "title": "Holy Atlantis (Krowdexx Edit)",
+          "remix": "",
+          "trackId": "13678705"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Holy Priest & Netherworld",
+      "title": "Holy Atlantis (Krowdexx Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13678705",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 3295,
+      "mediaIds": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "5288448",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=MVd9veFGBgQ"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "5284389",
+      "idSource": "40",
+      "url": "https://hearthis.at/14064938/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:06:34.101Z",
+  "scrapeVersion": 2
+}

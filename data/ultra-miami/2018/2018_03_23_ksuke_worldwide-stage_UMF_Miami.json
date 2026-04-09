@@ -1,0 +1,181 @@
+{
+  "tlId": "2lgq8k51",
+  "dj": "KSUKE",
+  "stage": "Worldwide Stage",
+  "date": "2018-03-23",
+  "year": 2018,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "11m",
+  "views": 68,
+  "likes": 0,
+  "url": "https://www.1001tracklists.com/tracklist/2lgq8k51/ksuke-worldwide-stage-ultra-music-festival-miami-miami-music-week-united-states-2018-03-23.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Zomboy",
+      "title": "Like A Bitch",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "11311927",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "291288",
+        "youtube": "291288",
+        "soundcloud": "291288",
+        "appleMusic": "291288"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zomboy",
+          "title": "Like A Bitch",
+          "remix": "",
+          "trackId": "11311927"
+        },
+        {
+          "artist": "Zomboy",
+          "title": "Like A Bitch (Ghrym Flip)",
+          "remix": "",
+          "trackId": "11311928"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zomboy",
+      "title": "Like A Bitch (Ghrym Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "11311928",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "11311928"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "GTA ft. DJ Funk",
+      "title": "Booty Bounce (GTA HYPRR MIX)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "11311929",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "244281",
+        "soundcloud": "244281"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Higher Brothers ft. Famous Dex",
+      "title": "Made In China (Lil Texas Hard Club Mix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "11311930",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "KSUKE ft. AMBER from f(x)",
+      "title": "Breathe Again",
+      "remix": "",
+      "label": "WARNER MUSIC",
+      "trackId": "11311931",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "509622",
+        "appleMusic": "509622"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Marshmello & Selena Gomez",
+      "title": "Wolves & Alone (KSUKE Mashup)",
+      "remix": "",
+      "label": "MONSTERCAT / INTERSCOPE",
+      "trackId": "11311932",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Rick Ross",
+      "title": "Hustlin'",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "11311933",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "19935",
+        "youtube": "19935",
+        "soundcloud": "19935",
+        "appleMusic": "19935"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rick Ross",
+          "title": "Hustlin'",
+          "remix": "",
+          "trackId": "11311933"
+        },
+        {
+          "artist": "Major Lazer ft. The Partysquad",
+          "title": "Original Don (Party Favor Edit)",
+          "remix": "",
+          "trackId": "11311934"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Major Lazer ft. The Partysquad",
+      "title": "Original Don (Party Favor Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "11311934",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "351827",
+        "soundcloud": "351827"
+      }
+    }
+  ],
+  "djs": [
+    {
+      "name": "KSUKE",
+      "slug": "ksuke"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4427836",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=velJ8w15QWQ"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:37:22.380Z",
+  "scrapeVersion": 2
+}

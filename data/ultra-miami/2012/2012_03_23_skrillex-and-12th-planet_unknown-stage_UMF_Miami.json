@@ -1,0 +1,907 @@
+{
+  "tlId": "4dfsj6t",
+  "dj": "Skrillex & 12th Planet",
+  "stage": "Unknown Stage",
+  "date": "2012-03-23",
+  "year": 2012,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "1h 25m",
+  "views": 306,
+  "likes": 18,
+  "url": "https://www.1001tracklists.com/tracklist/4dfsj6t/skrillex-12th-planet-ultra-music-festival-miami-miami-winter-music-conference-united-states-2012-03-23.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Skrillex & The Doors",
+      "title": "Breakin' A Sweat (It's Alright)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "193345",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 22,
+      "mediaIds": {
+        "spotify": "52807",
+        "youtube": "52807",
+        "soundcloud": "52807",
+        "appleMusic": "52807"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Skrillex",
+      "title": "Right In",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "193346",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 141,
+      "mediaIds": {
+        "spotify": "60143",
+        "youtube": "60143",
+        "soundcloud": "60143",
+        "appleMusic": "60143"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Skrillex & 12th Planet & Kill The Noise ft. GMCFOSHO",
+      "title": "Burst",
+      "remix": "",
+      "label": "SMOG",
+      "trackId": "193347",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 218,
+      "mediaIds": {
+        "spotify": "62949",
+        "youtube": "62949",
+        "soundcloud": "62949",
+        "appleMusic": "62949"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Skrillex",
+      "title": "Scary Bolly Dub",
+      "remix": "",
+      "label": "NEST (OWSLA)",
+      "trackId": "193348",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 293,
+      "mediaIds": {
+        "spotify": "92962",
+        "youtube": "92962",
+        "soundcloud": "92962"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex",
+          "title": "Scary Bolly Dub",
+          "remix": "",
+          "trackId": "193348"
+        },
+        {
+          "artist": "Skrillex ft. Foreign Beggars",
+          "title": "Still Gettin It",
+          "remix": "",
+          "trackId": "196793"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex ft. Foreign Beggars",
+      "title": "Still Gettin It",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "196793",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 300,
+      "mediaIds": {
+        "spotify": "30975",
+        "youtube": "30975",
+        "soundcloud": "30975",
+        "appleMusic": "30975"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex ft. Foreign Beggars",
+          "title": "Still Gettin It",
+          "remix": "",
+          "trackId": "196793"
+        },
+        {
+          "artist": "Genetix",
+          "title": "Squid Attack",
+          "remix": "",
+          "trackId": "193349"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Genetix",
+      "title": "Squid Attack",
+      "remix": "",
+      "label": "AUDIO PHREAKS",
+      "trackId": "193349",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 406,
+      "mediaIds": {
+        "spotify": "69377",
+        "youtube": "69377",
+        "soundcloud": "69377",
+        "appleMusic": "69377"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Damian Marley",
+      "title": "Welcome To Jamrock",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "193351",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 467,
+      "mediaIds": {
+        "spotify": "16466",
+        "youtube": "16466",
+        "soundcloud": "16466",
+        "appleMusic": "16466"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Skrillex & Damian Marley",
+      "title": "Make It Bun Dem",
+      "remix": "",
+      "label": "BIG BEAT/OWSLA",
+      "trackId": "193350",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 503,
+      "mediaIds": {
+        "spotify": "71742",
+        "youtube": "71742",
+        "soundcloud": "71742",
+        "appleMusic": "71742"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Skrillex & 12th Planet & Kill The Noise",
+      "title": "Right On Time",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "193352",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 581,
+      "mediaIds": {
+        "spotify": "62581",
+        "youtube": "62581",
+        "soundcloud": "62581",
+        "appleMusic": "62581"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "The Juggernaut",
+      "title": "I Hate Dubstep",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "193353",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 757,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "16bit",
+      "title": "Milky Bar Kid",
+      "remix": "",
+      "label": "TOGETHER AS ONE",
+      "trackId": "3255193",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 816,
+      "mediaIds": {
+        "youtube": "83976"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Avicii",
+      "title": "Levels (Skrillex Remix)",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "193354",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 868,
+      "mediaIds": {
+        "spotify": "57858",
+        "youtube": "57858",
+        "soundcloud": "57858",
+        "appleMusic": "57858"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Knife Party",
+      "title": "Fire Hive",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "193355",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1064,
+      "mediaIds": {
+        "spotify": "42145",
+        "youtube": "42145",
+        "soundcloud": "42145",
+        "appleMusic": "42145"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Major Lazer ft. Flux Pavilion",
+      "title": "Jah No Partial",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "203880",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1142,
+      "mediaIds": {
+        "spotify": "71743",
+        "youtube": "71743",
+        "soundcloud": "71743",
+        "appleMusic": "71743"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Spenca ft. Synclan",
+      "title": "Do It Live (The Juggernaut Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "193356",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1253,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Buraka Som Sistema",
+      "title": "Hangover (BaBaBa) (Caspa Remix)",
+      "remix": "",
+      "label": "ENCHUFADA",
+      "trackId": "193357",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1328,
+      "mediaIds": {
+        "spotify": "46348",
+        "youtube": "46348",
+        "soundcloud": "46348",
+        "appleMusic": "46348"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Skrillex ft. pennybirdrabbit",
+      "title": "All I Ask Of You (12th Planet Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "193358",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1423,
+      "mediaIds": {
+        "youtube": "69378",
+        "soundcloud": "69378"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Skrillex ft. Alvin Risk",
+      "title": "Try It Out",
+      "remix": "",
+      "label": "OWSLA/BIG BEAT",
+      "trackId": "193359",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1500,
+      "mediaIds": {
+        "spotify": "58332",
+        "youtube": "58332",
+        "soundcloud": "58332",
+        "appleMusic": "58332"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Flinch ft. Jamtech",
+      "title": "Bad Boy",
+      "remix": "",
+      "label": "OWSLA/FREE",
+      "trackId": "193360",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1671,
+      "mediaIds": {
+        "youtube": "69379",
+        "soundcloud": "69379"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Nero",
+      "title": "Promises (Skrillex & Nero Remix)",
+      "remix": "",
+      "label": "MTA/MERCURY",
+      "trackId": "193361",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1833,
+      "mediaIds": {
+        "spotify": "44570",
+        "youtube": "44570",
+        "soundcloud": "44570",
+        "appleMusic": "44570"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nero",
+          "title": "Promises (Skrillex & Nero Remix)",
+          "remix": "",
+          "trackId": "193361"
+        },
+        {
+          "artist": "Nero",
+          "title": "Promises (Skrillex & Nero VIP Remix)",
+          "remix": "",
+          "trackId": "246966"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nero",
+      "title": "Promises (Skrillex & Nero VIP Remix)",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "246966",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 1980,
+      "mediaIds": {
+        "youtube": "72576",
+        "soundcloud": "72576"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Skrillex",
+      "title": "Ruffneck (Flex) (Alvin Risk Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "193362",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2041,
+      "mediaIds": {
+        "youtube": "76158",
+        "soundcloud": "76158"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Rusko",
+      "title": "Everyday (Netsky Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "193363",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2280,
+      "mediaIds": {
+        "spotify": "35508",
+        "youtube": "35508",
+        "soundcloud": "35508",
+        "appleMusic": "35508"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Rusko",
+      "title": "Everyday",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1811766",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "35507",
+        "youtube": "35507",
+        "soundcloud": "35507"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "12th Planet & Juakali",
+      "title": "Reasons (Doctor P Remix)",
+      "remix": "",
+      "label": "SMOG",
+      "trackId": "193364",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2413,
+      "mediaIds": {
+        "spotify": "30973",
+        "youtube": "30973",
+        "soundcloud": "30973",
+        "appleMusic": "30973"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Skrillex",
+      "title": "First Of The Year (Equinox)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "193365",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2443,
+      "mediaIds": {
+        "spotify": "35602",
+        "youtube": "35602",
+        "soundcloud": "35602",
+        "appleMusic": "35602"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Krome & Time",
+      "title": "The Licence (Doctor P Remix)",
+      "remix": "",
+      "label": "STREETLIFE",
+      "trackId": "193366",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2589,
+      "mediaIds": {
+        "spotify": "55346",
+        "youtube": "55346",
+        "soundcloud": "55346",
+        "appleMusic": "55346"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Clockwork",
+      "title": "Hulk (Dillon Francis Remix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "193367",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2797,
+      "mediaIds": {
+        "spotify": "64653",
+        "youtube": "64653",
+        "soundcloud": "64653",
+        "appleMusic": "64653"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Fatman Scoop ft. Crooklyn Clan",
+      "title": "Be Faithful (Put Your Hands Up)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "193368",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2895,
+      "mediaIds": {
+        "spotify": "52812",
+        "youtube": "52812",
+        "soundcloud": "52812",
+        "appleMusic": "52812"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Skrillex",
+      "title": "Reptile's Theme",
+      "remix": "",
+      "label": "WATERTOWER",
+      "trackId": "193369",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2989,
+      "mediaIds": {
+        "spotify": "30966",
+        "youtube": "30966",
+        "soundcloud": "30966",
+        "appleMusic": "30966"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Skrillex ft. Sirah",
+      "title": "Bangarang",
+      "remix": "",
+      "label": "OWSLA/BIG BEAT",
+      "trackId": "193370",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3083,
+      "mediaIds": {
+        "spotify": "47297",
+        "youtube": "47297",
+        "soundcloud": "47297",
+        "appleMusic": "47297"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Benny Benassi ft. Gary Go",
+      "title": "Cinema (Skrillex Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "193371",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3215,
+      "mediaIds": {
+        "spotify": "30681",
+        "youtube": "30681",
+        "soundcloud": "30681",
+        "appleMusic": "30681"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Skrillex & 12th Planet",
+      "title": "Needed Change",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "193372",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3508,
+      "mediaIds": {
+        "youtube": "42966",
+        "soundcloud": "42966"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "KillaGraham",
+      "title": "Arise",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "196795",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3676,
+      "mediaIds": {
+        "spotify": "78282",
+        "youtube": "78282",
+        "soundcloud": "78282",
+        "appleMusic": "78282"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "SKisM ft. Virus Syndicate",
+      "title": "Like This",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "196796",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 3751,
+      "mediaIds": {
+        "spotify": "75150",
+        "youtube": "75150",
+        "soundcloud": "75150",
+        "appleMusic": "75150"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Bong",
+      "title": "Theta Waves (Genetix Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "246967",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 3875,
+      "mediaIds": {
+        "spotify": "80975",
+        "youtube": "80975",
+        "soundcloud": "80975"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Emalkay",
+      "title": "Fabrication",
+      "remix": "",
+      "label": "DUB POLICE",
+      "trackId": "196797",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3963,
+      "mediaIds": {
+        "spotify": "35023",
+        "youtube": "35023",
+        "soundcloud": "35023",
+        "appleMusic": "35023"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Chuckie",
+      "title": "Who Is Ready To Jump (Dillon Francis Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "196798",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 4058,
+      "mediaIds": {
+        "spotify": "58334",
+        "youtube": "58334",
+        "soundcloud": "58334",
+        "appleMusic": "58334"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Muffler",
+      "title": "Calling Your Name (SKisM Remix)",
+      "remix": "",
+      "label": "SUBHUMAN",
+      "trackId": "196799",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 4151,
+      "mediaIds": {
+        "youtube": "70914",
+        "soundcloud": "70914"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "12th Planet & Flinch",
+      "title": "The End Is Near Pt. 1",
+      "remix": "",
+      "label": "SMOG",
+      "trackId": "196801",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 4272,
+      "mediaIds": {
+        "spotify": "69884",
+        "youtube": "69884",
+        "soundcloud": "69884",
+        "appleMusic": "69884"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Nero",
+      "title": "Guilt",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "196800",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 4391,
+      "mediaIds": {
+        "spotify": "36477",
+        "youtube": "36477",
+        "soundcloud": "36477",
+        "appleMusic": "36477"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Skrillex",
+      "title": "Ruffneck (Flex)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "196802",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 4527,
+      "mediaIds": {
+        "spotify": "35609",
+        "youtube": "35609",
+        "soundcloud": "35609",
+        "appleMusic": "35609"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Steve Aoki ft. Rivers Cuomo",
+      "title": "Earthquakey People (Alvin Risk Remix)",
+      "remix": "",
+      "label": "ULTRA/DIM MAK",
+      "trackId": "196803",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 4618,
+      "mediaIds": {
+        "spotify": "56640",
+        "youtube": "56640",
+        "soundcloud": "56640",
+        "appleMusic": "56640"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "Talay Riley",
+      "title": "Sergeant Smash (Roksonix Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "196804",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 4677,
+      "mediaIds": {
+        "youtube": "37079",
+        "soundcloud": "37079"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "Waka Flocka Flame ft. Kebo Gotti",
+      "title": "Grove St. Party",
+      "remix": "",
+      "label": "1017 BRICK SQUAD",
+      "trackId": "196805",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 4751,
+      "mediaIds": {
+        "spotify": "69885",
+        "youtube": "69885",
+        "soundcloud": "69885",
+        "appleMusic": "69885"
+      },
+      "blendGroup": [
+        {
+          "artist": "Waka Flocka Flame ft. Kebo Gotti",
+          "title": "Grove St. Party",
+          "remix": "",
+          "trackId": "196805"
+        },
+        {
+          "artist": "Trolley Snatcha",
+          "title": "Make My Whole World",
+          "remix": "",
+          "trackId": "1985307"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Trolley Snatcha",
+      "title": "Make My Whole World",
+      "remix": "",
+      "label": "DUB POLICE",
+      "trackId": "1985307",
+      "row": 42,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69356",
+        "youtube": "69356",
+        "soundcloud": "69356",
+        "appleMusic": "69356"
+      }
+    },
+    {
+      "pos": "43",
+      "artist": "Skrillex ft. Sirah",
+      "title": "Kyoto",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "196806",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 4899,
+      "mediaIds": {
+        "spotify": "57220",
+        "youtube": "57220",
+        "soundcloud": "57220",
+        "appleMusic": "57220"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Skrillex",
+      "slug": "skrillex"
+    },
+    {
+      "name": "12th Planet",
+      "slug": "12thplanet"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "1036322",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/42514591"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "2450379",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=JwtJBx2sL9U"
+    }
+  ],
+  "scrapedAt": "2026-04-08T08:35:18.330Z",
+  "scrapeVersion": 2
+}

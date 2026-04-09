@@ -1,0 +1,910 @@
+{
+  "tlId": "1hmw70kk",
+  "dj": "Team EZY",
+  "stage": "UMF Radio Stage OWSLA",
+  "date": "2017-03-25",
+  "year": 2017,
+  "genre": "Afro House",
+  "tracksIdentified": 44,
+  "tracksTotal": 53,
+  "duration": "1h 13m",
+  "views": 23,
+  "likes": 3,
+  "url": "https://www.1001tracklists.com/tracklist/1hmw70kk/team-ezy-umf-radio-stage-owsla-ultra-music-festival-miami-miami-music-week-united-states-2017-03-25.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Cosmo's Midnight",
+      "title": "The Dofflin",
+      "remix": "",
+      "label": "",
+      "trackId": "2585969",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Mura Masa",
+      "title": "Lotus Eater",
+      "remix": "",
+      "label": "JAKARTA",
+      "trackId": "2585970",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 120,
+      "mediaIds": {
+        "spotify": "238668",
+        "youtube": "238668",
+        "soundcloud": "238668",
+        "appleMusic": "238668"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "QUIX",
+      "title": "Laundry",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "2585971",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 169,
+      "mediaIds": {
+        "spotify": "320879",
+        "youtube": "320879",
+        "soundcloud": "320879",
+        "appleMusic": "320879"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Clams Casino & Imogen Heap",
+      "title": "I'm God (San Holo Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2585972",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 210,
+      "mediaIds": {
+        "youtube": "328236"
+      },
+      "blendGroup": [
+        {
+          "artist": "Clams Casino & Imogen Heap",
+          "title": "I'm God (San Holo Edit)",
+          "remix": "",
+          "trackId": "2585972"
+        },
+        {
+          "artist": "Danny Brown",
+          "title": "Dip (Acappella)",
+          "remix": "",
+          "trackId": "2585973"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Danny Brown",
+      "title": "Dip (Acappella)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "2585973",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "161263",
+        "youtube": "161263",
+        "soundcloud": "205043",
+        "appleMusic": "161263"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Danny Brown",
+      "title": "Dip (Yung Wiggins Remix)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "2585974",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 337,
+      "mediaIds": {
+        "youtube": "309544"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2585975",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 378,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "GTA ft. RKCB",
+      "title": "Pressure",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "2585976",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 428,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Boombox Cartel & QUIX ft. Anjulie",
+      "title": "Supernatural",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2585977",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 519,
+      "mediaIds": {
+        "spotify": "311739",
+        "youtube": "311739",
+        "soundcloud": "311739",
+        "appleMusic": "311739"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "RÜFÜS DU SOL",
+      "title": "Innerbloom (What So Not Remix)",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "2585978",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 609,
+      "mediaIds": {
+        "spotify": "300257",
+        "youtube": "300257",
+        "soundcloud": "300257",
+        "appleMusic": "300257"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Flux Pavilion",
+      "title": "I Can't Stop (Ekali Tribute)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2585979",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 739,
+      "mediaIds": {
+        "spotify": "307068",
+        "youtube": "307068",
+        "soundcloud": "307068",
+        "appleMusic": "307068"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Kill The Noise ft. AWOLNATION",
+      "title": "All In My Head (Team EZY Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2585980",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 817,
+      "mediaIds": {
+        "youtube": "309877",
+        "soundcloud": "309877"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "RL Grime & What So Not & Skrillex",
+      "title": "Waiting",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "2585981",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 840,
+      "mediaIds": {
+        "spotify": "332178",
+        "youtube": "332178",
+        "soundcloud": "332178",
+        "appleMusic": "332178"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2585982",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1011,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "WiDE AWAKE & UNKWN",
+      "title": "Crown",
+      "remix": "",
+      "label": "NEW NOISE (DIM MAK)",
+      "trackId": "2585983",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1081,
+      "mediaIds": {
+        "spotify": "335717",
+        "soundcloud": "335717",
+        "appleMusic": "335717"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "UZ & ATLiens",
+      "title": "Cavern (UNKWN Remix)",
+      "remix": "",
+      "label": "QUALITY GOODS",
+      "trackId": "2585984",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1177,
+      "mediaIds": {
+        "spotify": "340295",
+        "youtube": "340295",
+        "soundcloud": "340295",
+        "appleMusic": "340295"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "DMVU",
+      "title": "Bloccd",
+      "remix": "",
+      "label": "DEEP DARK & DANGEROUS",
+      "trackId": "2585986",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1304,
+      "mediaIds": {
+        "spotify": "345977",
+        "youtube": "345977",
+        "soundcloud": "345977",
+        "appleMusic": "345977"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "What So Not",
+      "title": "Divide & Conquer",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "2585987",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1408,
+      "mediaIds": {
+        "spotify": "323842",
+        "youtube": "323842",
+        "soundcloud": "323842",
+        "appleMusic": "323842"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2585988",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1463,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2585989",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1514,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "RL Grime & What So Not",
+      "title": "Tell Me",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2585990",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1590,
+      "mediaIds": {
+        "spotify": "179065",
+        "youtube": "179065",
+        "soundcloud": "179065",
+        "appleMusic": "179065"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "RL Grime",
+      "title": "Core",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "2585991",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1692,
+      "mediaIds": {
+        "spotify": "205232",
+        "youtube": "205232",
+        "soundcloud": "205232",
+        "appleMusic": "205232"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Rickyxsan",
+      "title": "SoCal",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "2585992",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1719,
+      "mediaIds": {
+        "spotify": "325692",
+        "youtube": "325692",
+        "soundcloud": "325692",
+        "appleMusic": "325692"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Ian Munro",
+      "title": "Squad",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2585993",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1757,
+      "mediaIds": {
+        "youtube": "273943",
+        "soundcloud": "273943"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Keys N Krates",
+      "title": "Dum Dee Dum (NGHTMRE Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2585994",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1795,
+      "mediaIds": {
+        "spotify": "251367",
+        "youtube": "251367",
+        "soundcloud": "251367"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Mr. Carmack",
+      "title": "Pay (For What) (Alexander Lewis Trombone Flip)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2585995",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 1897,
+      "mediaIds": {
+        "youtube": "311810",
+        "soundcloud": "311810"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Kaaris",
+      "title": "Chargé (Mr. Carmack Remix / Boombox Cartel Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "2585996",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 1949,
+      "mediaIds": {
+        "youtube": "334230",
+        "soundcloud": "334230"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Wuki",
+      "title": "DADADADA",
+      "remix": "",
+      "label": "WUKILEAKS",
+      "trackId": "2585997",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2016,
+      "mediaIds": {
+        "youtube": "326790",
+        "soundcloud": "326790"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2585998",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2127,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Flume ft. George Maple",
+      "title": "That Look (Vincent Flip)",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "2585999",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2179,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Bassnectar & ATLiens",
+      "title": "Interlock",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2586000",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2281,
+      "mediaIds": {
+        "spotify": "351479",
+        "youtube": "351479",
+        "soundcloud": "351479",
+        "appleMusic": "351479"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Dillon Francis & What So Not ft. Dawn Golden",
+      "title": "Arrows (Instrumental Mix)",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "2586321",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2350,
+      "mediaIds": {
+        "youtube": "292928"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2586001",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2383,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Eliminate",
+      "title": "Snake Bite (VIP)",
+      "remix": "",
+      "label": "ARTIST INTELLIGENCE",
+      "trackId": "2586002",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 2420,
+      "mediaIds": {
+        "spotify": "337607",
+        "youtube": "337607",
+        "soundcloud": "337607",
+        "appleMusic": "337607"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2586003",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 2470,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "NOAHPLAUSE",
+      "title": "Runnin' (Ray Volpe Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2586004",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 2554,
+      "mediaIds": {
+        "youtube": "260152",
+        "soundcloud": "260152"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Catt Moop",
+      "title": "Nova",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2586005",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 2655,
+      "mediaIds": {
+        "youtube": "252308",
+        "soundcloud": "252308"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Athletixx",
+      "title": "PNTHR",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "2586006",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 2715,
+      "mediaIds": {
+        "spotify": "307367",
+        "youtube": "307367",
+        "soundcloud": "307367"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Tchami",
+      "title": "Siaw",
+      "remix": "",
+      "label": "CONFESSION/FREE",
+      "trackId": "2586007",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 2791,
+      "mediaIds": {
+        "spotify": "322416",
+        "youtube": "322416",
+        "soundcloud": "322416",
+        "appleMusic": "322416"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Dombresky",
+      "title": "Utopia",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "2586009",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 2989,
+      "mediaIds": {
+        "spotify": "329577",
+        "youtube": "329577",
+        "soundcloud": "329577",
+        "appleMusic": "329577"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Jaded",
+      "title": "4000Hz (Gully Goose Remix)",
+      "remix": "",
+      "label": "BLACK BUTTER",
+      "trackId": "2586010",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 3003,
+      "mediaIds": {
+        "spotify": "322801",
+        "youtube": "322801",
+        "soundcloud": "322801",
+        "appleMusic": "322801"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "BELLECOUR",
+      "title": "Fonky Beat",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "2586011",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 3200,
+      "mediaIds": {
+        "spotify": "324344",
+        "youtube": "324344",
+        "soundcloud": "324344",
+        "appleMusic": "324344"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "Bolier",
+      "title": "Ipanema (Firebeatz Remix)",
+      "remix": "",
+      "label": "SPINNIN' DEEP",
+      "trackId": "2586012",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 3247,
+      "mediaIds": {
+        "spotify": "317585",
+        "youtube": "317585",
+        "appleMusic": "317585"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "43",
+      "artist": "Crookers",
+      "title": "Heavy",
+      "remix": "",
+      "label": "CIAO",
+      "trackId": "2586013",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 3339,
+      "mediaIds": {
+        "spotify": "142722",
+        "youtube": "142722"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "44",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2586014",
+      "row": 44,
+      "type": "normal",
+      "cueTime": 3420,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "45",
+      "artist": "Bingo Players",
+      "title": "Devotion (Wuki Edit)",
+      "remix": "",
+      "label": "SNEAKERZ (SPINNIN')",
+      "trackId": "2586015",
+      "row": 45,
+      "type": "normal",
+      "cueTime": 3498,
+      "mediaIds": {
+        "youtube": "355278",
+        "soundcloud": "355278"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "46",
+      "artist": "Medasin & X&G ft. Josh Pan",
+      "title": "The Zoo",
+      "remix": "",
+      "label": "ELYSIAN",
+      "trackId": "2586016",
+      "row": 46,
+      "type": "normal",
+      "cueTime": 3558,
+      "mediaIds": {
+        "spotify": "306301",
+        "youtube": "306301",
+        "soundcloud": "306301",
+        "appleMusic": "306301"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "47",
+      "artist": "MC Bin Laden",
+      "title": "O Faraó Ta De R1 (Ruxell & Marginal Men Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "2586017",
+      "row": 47,
+      "type": "normal",
+      "cueTime": 3651,
+      "mediaIds": {
+        "soundcloud": "328296"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "48",
+      "artist": "Denzel Curry ft. Yung Simmie & Robb Bank$",
+      "title": "Threatz (Ekali & Gravez Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2586018",
+      "row": 48,
+      "type": "normal",
+      "cueTime": 3757,
+      "mediaIds": {
+        "youtube": "270306",
+        "soundcloud": "270306"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "49",
+      "artist": "Coastal",
+      "title": "Money Isn't Everything",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2586019",
+      "row": 49,
+      "type": "normal",
+      "cueTime": 3840,
+      "mediaIds": {
+        "soundcloud": "331959"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "50",
+      "artist": "Drezo",
+      "title": "Guap",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2586020",
+      "row": 50,
+      "type": "normal",
+      "cueTime": 3895,
+      "mediaIds": {
+        "spotify": "273941",
+        "youtube": "273941",
+        "soundcloud": "273941",
+        "appleMusic": "273941"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "51",
+      "artist": "Skrillex & Team EZY ft. NJOMZA",
+      "title": "Pretty Bye Bye",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2586021",
+      "row": 51,
+      "type": "normal",
+      "cueTime": 3940,
+      "mediaIds": {
+        "spotify": "292933",
+        "youtube": "292933",
+        "soundcloud": "292933",
+        "appleMusic": "292933"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "52",
+      "artist": "Alphaville",
+      "title": "Forever Young",
+      "remix": "",
+      "label": "WARNER MUSIC GERMANY",
+      "trackId": "2586022",
+      "row": 52,
+      "type": "normal",
+      "cueTime": 4138,
+      "mediaIds": {
+        "spotify": "125080",
+        "youtube": "125080",
+        "soundcloud": "125080",
+        "appleMusic": "125080"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Team EZY",
+      "slug": "teamezy"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "577771",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=FIkkuP5kX7U"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "670942",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/316308881"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:54:36.524Z",
+  "scrapeVersion": 2
+}

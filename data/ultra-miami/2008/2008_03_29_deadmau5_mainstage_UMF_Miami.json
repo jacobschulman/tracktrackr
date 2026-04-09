@@ -1,0 +1,168 @@
+{
+  "tlId": "yx8w2lk",
+  "dj": "deadmau5",
+  "stage": "Mainstage",
+  "date": "2008-03-29",
+  "year": 2008,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "8m",
+  "views": 636,
+  "likes": 0,
+  "url": "https://www.1001tracklists.com/tracklist/yx8w2lk/deadmau5-mainstage-ultra-music-festival-miami-10-united-states-2008-03-29.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "deadmau5",
+      "title": "UMF 2008 Intro",
+      "remix": "",
+      "label": "",
+      "trackId": "3878865",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 32,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "deadmau5",
+      "title": "Rubiq",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "3878866",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 65,
+      "mediaIds": {
+        "youtube": "1081604",
+        "soundcloud": "1081604"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5",
+          "title": "Rubiq",
+          "remix": "",
+          "trackId": "3878866"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Acappella)",
+          "remix": "",
+          "trackId": "3878867"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "3878867",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 146,
+      "mediaIds": {
+        "spotify": "8354",
+        "youtube": "8354",
+        "soundcloud": "8354",
+        "appleMusic": "8354"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "deadmau5",
+      "title": "The Cow Likes Cheese (UMF Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "3878868",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 274,
+      "mediaIds": {
+        "youtube": "3878868"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "deadmau5",
+      "title": "Subvert",
+      "remix": "",
+      "label": "PLAY RECORDS",
+      "trackId": "3878869",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 299,
+      "mediaIds": {
+        "spotify": "923813",
+        "youtube": "923813",
+        "appleMusic": "923813"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "deadmau5 vs. JELO",
+      "title": "The Reward Is Cheese",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "3878870",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 375,
+      "mediaIds": {
+        "spotify": "1763",
+        "youtube": "1763",
+        "soundcloud": "1763"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "deadmau5",
+      "title": "Stereo Fidelity (Unorganised Mix)",
+      "remix": "",
+      "label": "PLAY RECORDS",
+      "trackId": "3878871",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 480,
+      "mediaIds": {
+        "youtube": "3878871"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "deadmau5",
+      "title": "Overdraft/Faxing Berlin",
+      "remix": "",
+      "label": "",
+      "trackId": "3878872",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "deadmau5",
+      "slug": "deadmau5"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1023590",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=7P0ZTryDZSw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T12:49:23.333Z",
+  "scrapeVersion": 2
+}

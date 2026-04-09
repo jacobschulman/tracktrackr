@@ -1,0 +1,553 @@
+{
+  "tlId": "1hmvb0u1",
+  "dj": "Tchami",
+  "stage": "Mainstage",
+  "date": "2017-03-24",
+  "year": 2017,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "59m",
+  "views": 556,
+  "likes": 44,
+  "url": "https://www.1001tracklists.com/tracklist/1hmvb0u1/tchami-mainstage-ultra-music-festival-miami-miami-music-week-united-states-2017-03-24.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Madskies",
+      "title": "In Nomine",
+      "remix": "(Intro Edit)",
+      "label": "CONFESSION",
+      "trackId": "2574488",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "344316",
+        "soundcloud": "344316",
+        "appleMusic": "344316"
+      },
+      "blendGroup": [
+        {
+          "artist": "Madskies",
+          "title": "In Nomine",
+          "remix": "(Intro Edit)",
+          "trackId": "2574488"
+        },
+        {
+          "artist": "BROHUG",
+          "title": "If I'm Wrong",
+          "remix": "",
+          "trackId": "2574489"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "BROHUG",
+      "title": "If I'm Wrong",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "2574489",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 131,
+      "mediaIds": {
+        "spotify": "331482",
+        "youtube": "331482",
+        "soundcloud": "331482",
+        "appleMusic": "331482"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Tchami",
+      "title": "Siaw",
+      "remix": "",
+      "label": "CONFESSION/FREE",
+      "trackId": "2574490",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 247,
+      "mediaIds": {
+        "spotify": "322416",
+        "youtube": "322416",
+        "soundcloud": "322416",
+        "appleMusic": "322416"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tchami",
+          "title": "Siaw",
+          "remix": "",
+          "trackId": "2574490"
+        },
+        {
+          "artist": "Bojac & DSTRQT",
+          "title": "Formula",
+          "remix": "",
+          "trackId": "2574491"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bojac & DSTRQT",
+      "title": "Formula",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "2574491",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 390,
+      "mediaIds": {
+        "spotify": "327690",
+        "soundcloud": "327690",
+        "appleMusic": "327690"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "ANGELZ",
+      "title": "Devils",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "2564837",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 514,
+      "mediaIds": {
+        "spotify": "337568",
+        "youtube": "337568",
+        "soundcloud": "337568",
+        "appleMusic": "337568"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Chris Lorenzo",
+      "title": "Come Down",
+      "remix": "",
+      "label": "SIXTY6MUSIC",
+      "trackId": "2564838",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 621,
+      "mediaIds": {
+        "spotify": "330403",
+        "youtube": "330403",
+        "soundcloud": "330403",
+        "appleMusic": "330403"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chris Lorenzo",
+          "title": "Come Down",
+          "remix": "",
+          "trackId": "2564838"
+        },
+        {
+          "artist": "GODAMN",
+          "title": "Messin'",
+          "remix": "",
+          "trackId": "2593995"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GODAMN",
+      "title": "Messin'",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "2593995",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 661,
+      "mediaIds": {
+        "spotify": "382009",
+        "youtube": "382009",
+        "soundcloud": "382009",
+        "appleMusic": "382009"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "essess ft. Malika",
+      "title": "Trust In Me (Taim Remix)",
+      "remix": "",
+      "label": "GET TWISTED",
+      "trackId": "2564789",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 708,
+      "mediaIds": {
+        "spotify": "351463",
+        "soundcloud": "351463",
+        "appleMusic": "351463"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Tchami & AC Slater ft. Kaleem Taylor vs. Martin Garrix & Jay Hardway",
+      "title": "Missing You vs. Wizard (Tchami Mashup)",
+      "remix": "",
+      "label": "SPRS (SPINNIN')/CONFESSION",
+      "trackId": "2564790",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 827,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "JOYRYDE vs. Eric Prydz",
+      "title": "Hot Drum vs. Pjanoo (Tchami Mashup)",
+      "remix": "",
+      "label": "PRYDA/DATA REC./OWSLA",
+      "trackId": "2815561",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1035,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Wiwek & Skrillex ft. Eliphant",
+      "title": "Killa (Moksi Switch Up)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2564793",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1230,
+      "mediaIds": {
+        "youtube": "352287",
+        "soundcloud": "352287"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "JOYRYDE ft. Darnell Williams",
+      "title": "New Breed",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2564794",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1364,
+      "mediaIds": {
+        "spotify": "357973",
+        "youtube": "357973",
+        "soundcloud": "357973",
+        "appleMusic": "357973"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Valentino Khan",
+      "title": "Pump",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2564796",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1472,
+      "mediaIds": {
+        "spotify": "357320",
+        "youtube": "357320",
+        "soundcloud": "357320",
+        "appleMusic": "357320"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Candyland & Zak Waters",
+      "title": "Not Coming Down (Tchami Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2564795",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1622,
+      "mediaIds": {
+        "spotify": "188277",
+        "youtube": "188277",
+        "appleMusic": "188277"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Janet Jackson",
+      "title": "Go Deep (Tchami VIP Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2564797",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1728,
+      "mediaIds": {
+        "youtube": "649830"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Waze & Odyssey & R. Kelly vs. Tchami & Marshall Jefferson",
+      "title": "Bump N' Grind vs. Move Your Body (Tchami Mashup)",
+      "remix": "",
+      "label": "JIVE/RCA (SONY)/ARISTA",
+      "trackId": "2627032",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1864,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Rob Base & DJ E-Z Rock vs. Tchami & Marshall Jefferson",
+      "title": "It Takes Two vs. Move Your Body (Tchami Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "5810021",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1966,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "DJ Snake & Moksi",
+      "title": "Pigalle",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "2564811",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1982,
+      "mediaIds": {
+        "spotify": "316511",
+        "youtube": "316511",
+        "soundcloud": "316511",
+        "appleMusic": "316511"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Sikdope",
+      "title": "Snakes",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "2564812",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2109,
+      "mediaIds": {
+        "spotify": "299439",
+        "youtube": "299439",
+        "soundcloud": "299439",
+        "appleMusic": "299439"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "BELLECOUR",
+      "title": "Everybody Goes",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "2574492",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2158,
+      "mediaIds": {
+        "spotify": "352288",
+        "youtube": "352288",
+        "soundcloud": "352288",
+        "appleMusic": "352288"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Tchami ft. Taiki Nulight",
+      "title": "Godspell",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "2574493",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2304,
+      "mediaIds": {
+        "spotify": "345196",
+        "youtube": "345196",
+        "soundcloud": "345196",
+        "appleMusic": "345196"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Tchami ft. Kaleem Taylor",
+      "title": "Promesses",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "2574494",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2407,
+      "mediaIds": {
+        "spotify": "169079",
+        "youtube": "169079",
+        "soundcloud": "169079",
+        "appleMusic": "169079"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "DJ Snake & AlunaGeorge & Tchami vs. The Fugees",
+      "title": "You Know You Like It vs. Ready Or Not (Tchami Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "2564883",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2485,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Tchami ft. Stacy Barthe",
+      "title": "After Life",
+      "remix": "",
+      "label": "FFORMAT",
+      "trackId": "2564884",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2608,
+      "mediaIds": {
+        "spotify": "245139",
+        "youtube": "245139",
+        "soundcloud": "245139",
+        "appleMusic": "245139"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Tchami & Malaa vs. DJ Snake & G4SHI vs. Badjokes",
+      "title": "Prophecy vs. 4 Life (Tchami Mashup)",
+      "remix": "",
+      "label": "DJ SNAKE/CONFESSION",
+      "trackId": "2574495",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2824,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Tchami vs. Sonny Banks & Stereoliez",
+      "title": "Shot Caller vs. Mollybreath (Tchami Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "2574497",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2935,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Kideko & George Kwali",
+      "title": "Crank It",
+      "remix": "",
+      "label": "TMT",
+      "trackId": "2574498",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3112,
+      "mediaIds": {
+        "spotify": "287948",
+        "youtube": "287948",
+        "soundcloud": "287948",
+        "appleMusic": "287948"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Tchami",
+      "title": "Adieu vs. Adieu Pt. II (Tchami Outro Mashup)",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "2574499",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3203,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Tchami",
+      "slug": "tchami"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "581014",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=RyAbwF_4ehg"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "575474",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=ck9RusiGEwc"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "574447",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/315100461"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "571102",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/edmmachine"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "572217",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/tracklistfromslovakia"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "575772",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T06:07:23.031Z",
+  "scrapeVersion": 2
+}

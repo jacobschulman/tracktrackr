@@ -1,0 +1,200 @@
+{
+  "tlId": "4hf40nt",
+  "dj": "Bassjackers",
+  "stage": "Unknown Stage",
+  "date": "2012-03-24",
+  "year": 2012,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "views": 46,
+  "likes": 1,
+  "url": "https://www.1001tracklists.com/tracklist/4hf40nt/bassjackers-ultra-music-festival-miami-miami-winter-music-conference-united-states-2012-03-24.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "The Wanted",
+      "title": "Glad You Came (Bassjackers Dub)",
+      "remix": "",
+      "label": "ISLAND DEF JAM (UMG)",
+      "trackId": "193233",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "45384",
+        "appleMusic": "45384"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Firebeatz",
+      "title": "Where's Your Head At",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "193234",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "59241",
+        "youtube": "59241",
+        "soundcloud": "59241",
+        "appleMusic": "59241"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Dada Life",
+      "title": "White Noise / Red Meat (Bassjackers Remix)",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "193235",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "26413",
+        "soundcloud": "26413",
+        "appleMusic": "26413"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dada Life",
+          "title": "White Noise / Red Meat (Bassjackers Remix)",
+          "remix": "",
+          "trackId": "193235"
+        },
+        {
+          "artist": "Estelle ft. Kardinal Offishall",
+          "title": "Freak(Prod. by David Guetta) (Acappella)",
+          "remix": "",
+          "trackId": "207355"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Estelle ft. Kardinal Offishall",
+      "title": "Freak(Prod. by David Guetta) (Acappella)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "207355",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 900,
+      "mediaIds": {
+        "spotify": "17164",
+        "youtube": "17164",
+        "appleMusic": "17164"
+      },
+      "blendGroup": [
+        {
+          "artist": "Estelle ft. Kardinal Offishall",
+          "title": "Freak(Prod. by David Guetta) (Acappella)",
+          "remix": "",
+          "trackId": "207355"
+        },
+        {
+          "artist": "Angger Dimas",
+          "title": "Hey Freak!",
+          "remix": "",
+          "trackId": "193236"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Angger Dimas",
+      "title": "Hey Freak!",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "193236",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "30778",
+        "soundcloud": "30778"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Drumsound & Bassline Smith",
+      "title": "Freak (Bassjackers Remix)",
+      "remix": "",
+      "label": "NEW STATE",
+      "trackId": "193237",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 1200,
+      "mediaIds": {
+        "spotify": "30662",
+        "soundcloud": "30662",
+        "appleMusic": "30662"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Angger Dimas & Bassjackers",
+      "title": "RIA",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "193238",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "61234",
+        "youtube": "61234",
+        "soundcloud": "61234",
+        "appleMusic": "61234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Bassjackers & Yves V",
+      "title": "Bronx",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "207356",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1620,
+      "mediaIds": {
+        "spotify": "85186",
+        "youtube": "85186",
+        "soundcloud": "85186",
+        "appleMusic": "85186"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Fedde Le Grand & Nicky Romero ft. MC Gee",
+      "title": "Slacking",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "207357",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Bassjackers",
+      "slug": "bassjackers"
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T08:31:45.734Z",
+  "scrapeVersion": 2
+}

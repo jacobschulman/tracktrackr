@@ -1,0 +1,191 @@
+{
+  "tlId": "u6dwm3k",
+  "dj": "Matthias Tanzmann",
+  "stage": "Resistance Stage",
+  "date": "2017-03-25",
+  "year": 2017,
+  "genre": "Afro House",
+  "tracksIdentified": 7,
+  "tracksTotal": 10,
+  "duration": "1h 2m",
+  "views": 25,
+  "likes": 2,
+  "url": "https://www.1001tracklists.com/tracklist/u6dwm3k/matthias-tanzmann-resistance-stage-ultra-music-festival-miami-united-states-be-at-tv-2017-03-25.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Andrea Oliva",
+      "title": "Chaos",
+      "remix": "",
+      "label": "RELIEF",
+      "trackId": "2567223",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "363915"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Supernova",
+      "title": "Get Hot",
+      "remix": "",
+      "label": "ELROW",
+      "trackId": "2567224",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "344121"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Riva Starr",
+      "title": "Another Dimension",
+      "remix": "",
+      "label": "PLAY IT SAY IT",
+      "trackId": "2567225",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "350657",
+        "youtube": "350657",
+        "soundcloud": "350657",
+        "appleMusic": "350657"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2567226",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Idris Elba",
+      "title": "Make It Bump (Andrea Oliva Remix)",
+      "remix": "",
+      "label": "7WALLACE",
+      "trackId": "2567227",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2567228",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Ki Creighton & Makanan",
+      "title": "Freak On",
+      "remix": "",
+      "label": "ELROW",
+      "trackId": "2567229",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Cuartero",
+      "title": "Cheer Up",
+      "remix": "",
+      "label": "REPOPULATE MARS",
+      "trackId": "2567230",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "306685"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2567231",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "2567231"
+        },
+        {
+          "artist": "Danny Serrano",
+          "title": "Sultan",
+          "remix": "",
+          "trackId": "2692882"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Danny Serrano",
+      "title": "Sultan",
+      "remix": "",
+      "label": "",
+      "trackId": "2692882",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 3410,
+      "mediaIds": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Matthias Tanzmann",
+      "slug": "matthiastanzmann"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "573808",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=T5bj8PeStgc"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "572329",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T06:00:40.428Z",
+  "scrapeVersion": 2
+}

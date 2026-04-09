@@ -1,0 +1,105 @@
+{
+  "tlId": "2pw203n1",
+  "dj": "Infected Mushroom",
+  "stage": "Live Stage",
+  "date": "2018-03-25",
+  "year": 2018,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "views": 322,
+  "likes": 0,
+  "url": "https://www.1001tracklists.com/tracklist/2pw203n1/infected-mushroom-live-stage-ultra-music-festival-miami-united-states-2018-03-25.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Infected Mushroom",
+      "title": "Becoming Insane (Warriors Remix)",
+      "remix": "",
+      "label": "LIQUID (SPINNIN')",
+      "trackId": "4186876",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "371277",
+        "youtube": "371277",
+        "soundcloud": "371277",
+        "appleMusic": "371277"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Infected Mushroom",
+      "title": "Deeply Disturbed",
+      "remix": "",
+      "label": "BNE/YOYO",
+      "trackId": "4186877",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "317551",
+        "soundcloud": "317551",
+        "appleMusic": "317551"
+      },
+      "blendGroup": [
+        {
+          "artist": "Infected Mushroom",
+          "title": "Deeply Disturbed",
+          "remix": "",
+          "trackId": "4186877"
+        },
+        {
+          "artist": "Infected Mushroom",
+          "title": "Deeply Disturbed (Infected Mushroom Remix)",
+          "remix": "",
+          "trackId": "4186878"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Infected Mushroom",
+      "title": "Deeply Disturbed (Infected Mushroom Remix)",
+      "remix": "",
+      "label": "BNE",
+      "trackId": "4186878",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "317552",
+        "youtube": "317552",
+        "appleMusic": "317552"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Infected Mushroom",
+      "title": "Cities Of The Future",
+      "remix": "",
+      "label": "BNE/YOYO",
+      "trackId": "4186879",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "148469",
+        "appleMusic": "148469"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Infected Mushroom",
+      "slug": "infectedmushroom"
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T05:24:36.804Z",
+  "scrapeVersion": 2
+}

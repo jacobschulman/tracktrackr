@@ -1,0 +1,609 @@
+{
+  "tlId": "80p1m2t",
+  "dj": "Zedd",
+  "stage": "Unknown Stage",
+  "date": "2012-03-24",
+  "year": 2012,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "views": 182,
+  "likes": 17,
+  "url": "https://www.1001tracklists.com/tracklist/80p1m2t/zedd-ultra-music-festival-miami-miami-winter-music-conference-united-states-2012-03-24.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Save The World (Zedd Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "192401",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "37806",
+        "youtube": "37806",
+        "soundcloud": "37806",
+        "appleMusic": "37806"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Tristan Garner",
+      "title": "Raven",
+      "remix": "",
+      "label": "XTRALIFE",
+      "trackId": "192402",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "57071",
+        "youtube": "57071",
+        "soundcloud": "57071",
+        "appleMusic": "57071"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tristan Garner",
+          "title": "Raven",
+          "remix": "",
+          "trackId": "192402"
+        },
+        {
+          "artist": "Nicky Romero",
+          "title": "Generation 303",
+          "remix": "",
+          "trackId": "192403"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nicky Romero",
+      "title": "Generation 303",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "192403",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "55618",
+        "youtube": "55618",
+        "soundcloud": "55618",
+        "appleMusic": "55618"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Swedish House Mafia",
+      "title": "One",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "192404",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "16112",
+        "youtube": "16112",
+        "soundcloud": "16112",
+        "appleMusic": "16112"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia",
+          "title": "One",
+          "remix": "",
+          "trackId": "192404"
+        },
+        {
+          "artist": "Lil Jon ft. Claude Kelly",
+          "title": "Oh What A Night (Acappella)",
+          "remix": "",
+          "trackId": "192405"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lil Jon ft. Claude Kelly",
+      "title": "Oh What A Night (Acappella)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "192405",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20171",
+        "youtube": "20171",
+        "soundcloud": "20171"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lil Jon ft. Claude Kelly",
+          "title": "Oh What A Night (Acappella)",
+          "remix": "",
+          "trackId": "192405"
+        },
+        {
+          "artist": "Skrillex",
+          "title": "Scary Monsters And Nice Sprites",
+          "remix": "",
+          "trackId": "192406"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex",
+      "title": "Scary Monsters And Nice Sprites",
+      "remix": "",
+      "label": "BIG BEAT/MAU5TRAP",
+      "trackId": "192406",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "23595",
+        "youtube": "23595",
+        "soundcloud": "23595",
+        "appleMusic": "23595"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex",
+          "title": "Scary Monsters And Nice Sprites",
+          "remix": "",
+          "trackId": "192406"
+        },
+        {
+          "artist": "Lil Jon ft. Claude Kelly",
+          "title": "Oh What A Night (Chuckie Remix)",
+          "remix": "",
+          "trackId": "192407"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lil Jon ft. Claude Kelly",
+      "title": "Oh What A Night (Chuckie Remix)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "192407",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 300,
+      "mediaIds": {
+        "youtube": "20172"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+      "title": "Fall Into The Sky",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "192408",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 300,
+      "mediaIds": {
+        "spotify": "97743",
+        "youtube": "97743",
+        "soundcloud": "97743",
+        "appleMusic": "97743"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+          "title": "Fall Into The Sky",
+          "remix": "",
+          "trackId": "192408"
+        },
+        {
+          "artist": "Chuckie",
+          "title": "Who Is Ready To Jump (Acappella)",
+          "remix": "",
+          "trackId": "729656"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chuckie",
+      "title": "Who Is Ready To Jump (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "729656",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "44701",
+        "youtube": "60632",
+        "soundcloud": "44701",
+        "appleMusic": "44701"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Zedd",
+      "title": "The Legend Of Zelda",
+      "remix": "",
+      "label": "BAZOOKA",
+      "trackId": "192409",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30936",
+        "youtube": "30936",
+        "soundcloud": "30936",
+        "appleMusic": "30936"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Daft Punk",
+      "title": "One More Time (Mike Candys & Jack Holiday Remix)",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE",
+      "trackId": "192410",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 360,
+      "mediaIds": {
+        "youtube": "44698",
+        "soundcloud": "44698"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Zedd",
+      "title": "Shotgun",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "192412",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "68586",
+        "youtube": "68586",
+        "soundcloud": "68586",
+        "appleMusic": "68586"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Headhunterz & Wildstylez & Noisecontrollers & Wildstylez",
+      "title": "Tonight (Alpha² Remix)",
+      "remix": "",
+      "label": "HARD WITH STYLE ORIGINS",
+      "trackId": "192413",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1020,
+      "mediaIds": {
+        "spotify": "69593",
+        "youtube": "69593",
+        "soundcloud": "69593",
+        "appleMusic": "69593"
+      },
+      "blendGroup": [
+        {
+          "artist": "Headhunterz & Wildstylez & Noisecontrollers & Wildstylez",
+          "title": "Tonight (Alpha² Remix)",
+          "remix": "",
+          "trackId": "192413"
+        },
+        {
+          "artist": "Skrillex",
+          "title": "First Of The Year (Equinox) (Acappella)",
+          "remix": "",
+          "trackId": "1330693"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex",
+      "title": "First Of The Year (Equinox) (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1330693",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1138,
+      "mediaIds": {
+        "spotify": "35602",
+        "youtube": "35602",
+        "soundcloud": "35602",
+        "appleMusic": "35602"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Knife Party",
+      "title": "Internet Friends",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "192414",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "42147",
+        "youtube": "42147",
+        "soundcloud": "42147",
+        "appleMusic": "42147"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Bingo Players",
+      "title": "Rattle",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "192415",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "46307",
+        "youtube": "46307",
+        "soundcloud": "46307",
+        "appleMusic": "46307"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Pendulum",
+      "title": "Salt In The Wounds",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "192416",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "52809",
+        "youtube": "52809",
+        "soundcloud": "52809",
+        "appleMusic": "52809"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Wolfgang Gartner",
+      "title": "Menage A Trois",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "192417",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "41551",
+        "youtube": "41551",
+        "appleMusic": "41551"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Reel 2 Real ft. The Mad Stuntman",
+      "title": "I Like To Move It (Klaas Remix)",
+      "remix": "",
+      "label": "STRICTLY RHYTHM",
+      "trackId": "192418",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69300",
+        "youtube": "69300",
+        "appleMusic": "69300"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "The Bloody Beetroots ft. Steve Aoki",
+      "title": "Warp 1.9",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "192419",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "6516",
+        "youtube": "6516",
+        "soundcloud": "6516",
+        "appleMusic": "6516"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "AFROJACK & Steve Aoki ft. Miss Palmer",
+      "title": "No Beef",
+      "remix": "",
+      "label": "WALL/ULTRA",
+      "trackId": "192420",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "17453",
+        "youtube": "17453",
+        "soundcloud": "17453",
+        "appleMusic": "17453"
+      },
+      "blendGroup": [
+        {
+          "artist": "AFROJACK & Steve Aoki ft. Miss Palmer",
+          "title": "No Beef",
+          "remix": "",
+          "trackId": "192420"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Acappella)",
+          "remix": "",
+          "trackId": "192421"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "192421",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8354",
+        "youtube": "8354",
+        "soundcloud": "8354",
+        "appleMusic": "8354"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Acappella)",
+          "remix": "",
+          "trackId": "192421"
+        },
+        {
+          "artist": "Alesso",
+          "title": "Raise Your Head",
+          "remix": "",
+          "trackId": "192422"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alesso",
+      "title": "Raise Your Head",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "192422",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "47971",
+        "youtube": "47971",
+        "soundcloud": "47971",
+        "appleMusic": "47971"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Zedd",
+      "title": "Slam The Door",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "229022",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1980,
+      "mediaIds": {
+        "spotify": "58616",
+        "youtube": "58616",
+        "soundcloud": "58616",
+        "appleMusic": "58616"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd",
+          "title": "Slam The Door",
+          "remix": "",
+          "trackId": "229022"
+        },
+        {
+          "artist": "Diddy Dirty Money ft. Skylar Grey",
+          "title": "Coming Home (Acappella)",
+          "remix": "",
+          "trackId": "229024"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Diddy Dirty Money ft. Skylar Grey",
+      "title": "Coming Home (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "229024",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "28394",
+        "youtube": "28394",
+        "soundcloud": "28394",
+        "appleMusic": "28394"
+      },
+      "blendGroup": [
+        {
+          "artist": "Diddy Dirty Money ft. Skylar Grey",
+          "title": "Coming Home (Acappella)",
+          "remix": "",
+          "trackId": "229024"
+        },
+        {
+          "artist": "Benny Benassi ft. Gary Go",
+          "title": "Cinema (Skrillex Remix)",
+          "remix": "",
+          "trackId": "229023"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Benny Benassi ft. Gary Go",
+      "title": "Cinema (Skrillex Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "229023",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30681",
+        "youtube": "30681",
+        "soundcloud": "30681",
+        "appleMusic": "30681"
+      }
+    }
+  ],
+  "djs": [
+    {
+      "name": "Zedd",
+      "slug": "zedd"
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T08:33:38.431Z",
+  "scrapeVersion": 2
+}

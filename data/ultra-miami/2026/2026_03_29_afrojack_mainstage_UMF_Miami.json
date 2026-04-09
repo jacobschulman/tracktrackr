@@ -1,0 +1,1162 @@
+{
+  "tlId": "22r0yk79",
+  "dj": "AFROJACK",
+  "stage": "Mainstage",
+  "date": "2026-03-29",
+  "year": 2026,
+  "genre": "Afro House",
+  "tracksIdentified": 17,
+  "tracksTotal": 26,
+  "duration": "",
+  "views": 143,
+  "likes": 1,
+  "url": "https://www.1001tracklists.com/tracklist/22r0yk79/afrojack-mainstage-ultra-music-festival-miami-united-states-2026-03-29.html",
+  "djs": [
+    {
+      "name": "AFROJACK",
+      "slug": "afrojack"
+    }
+  ],
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "AFROJACK",
+      "title": "ID",
+      "remix": "(Intro Edit)",
+      "label": "",
+      "trackId": "13678737",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 11,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "AFROJACK",
+          "title": "ID",
+          "remix": "(Intro Edit)",
+          "trackId": "13678737"
+        },
+        {
+          "artist": "David Guetta ft. Sia",
+          "title": "Titanium(Co-Prod. by AFROJACK) (Acappella)",
+          "remix": "",
+          "trackId": "13678738"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta ft. Sia",
+      "title": "Titanium(Co-Prod. by AFROJACK) (Acappella)",
+      "remix": "",
+      "label": "FMIF",
+      "trackId": "13678738",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 42,
+      "mediaIds": {
+        "spotify": "42436",
+        "youtube": "95897",
+        "soundcloud": "95897",
+        "appleMusic": "42436"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "AFROJACK",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13678752",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 219,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "AFROJACK",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13678752"
+        },
+        {
+          "artist": "FISHER & Aatig",
+          "title": "Take It Off",
+          "remix": "(Acappella)",
+          "trackId": "13678739"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "FISHER & Aatig",
+      "title": "Take It Off",
+      "remix": "(Acappella)",
+      "label": "CATCH & RELEASE",
+      "trackId": "13678739",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 220,
+      "mediaIds": {
+        "spotify": "886602",
+        "youtube": "886602",
+        "soundcloud": "886602",
+        "appleMusic": "886602"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Skrillex & Habstrakt",
+      "title": "Chicken Soup",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "13678753",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 290,
+      "mediaIds": {
+        "spotify": "357284",
+        "youtube": "357284",
+        "soundcloud": "357284",
+        "appleMusic": "357284"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Habstrakt",
+          "title": "Chicken Soup",
+          "remix": "",
+          "trackId": "13678753"
+        },
+        {
+          "artist": "R3HAB & AFROJACK",
+          "title": "Louder For The People",
+          "remix": "",
+          "trackId": "13678740"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "R3HAB & AFROJACK",
+      "title": "Louder For The People",
+      "remix": "",
+      "label": "TOMORROWLAND",
+      "trackId": "13678740",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 305,
+      "mediaIds": {
+        "spotify": "1128824",
+        "youtube": "1128824",
+        "soundcloud": "1128824",
+        "appleMusic": "1128824"
+      },
+      "blendGroup": [
+        {
+          "artist": "R3HAB & AFROJACK",
+          "title": "Louder For The People",
+          "remix": "",
+          "trackId": "13678740"
+        },
+        {
+          "artist": "Fallon",
+          "title": "Diet Coke",
+          "remix": "(Acappella)",
+          "trackId": "13678741"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fallon",
+      "title": "Diet Coke",
+      "remix": "(Acappella)",
+      "label": "EXPERTS ONLY",
+      "trackId": "13678741",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 332,
+      "mediaIds": {
+        "spotify": "1102463",
+        "youtube": "1102463",
+        "soundcloud": "1102463",
+        "appleMusic": "1102463"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fallon",
+          "title": "Diet Coke",
+          "remix": "(Acappella)",
+          "trackId": "13678741"
+        },
+        {
+          "artist": "AFROJACK & Steve Aoki ft. Miss Palmer",
+          "title": "No Beef",
+          "remix": "",
+          "trackId": "13678757"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AFROJACK & Steve Aoki ft. Miss Palmer",
+      "title": "No Beef",
+      "remix": "",
+      "label": "WALL/ULTRA",
+      "trackId": "13678757",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 350,
+      "mediaIds": {
+        "spotify": "17453",
+        "youtube": "17453",
+        "soundcloud": "17453",
+        "appleMusic": "17453"
+      },
+      "blendGroup": [
+        {
+          "artist": "AFROJACK & Steve Aoki ft. Miss Palmer",
+          "title": "No Beef",
+          "remix": "",
+          "trackId": "13678757"
+        },
+        {
+          "artist": "Mightyfools",
+          "title": "Footrocker (Get Your, Get Your Hands Up Acappella)",
+          "remix": "",
+          "trackId": "13678758"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mightyfools",
+      "title": "Footrocker (Get Your, Get Your Hands Up Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13678758",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 393,
+      "mediaIds": {
+        "spotify": "137470",
+        "youtube": "145416",
+        "soundcloud": "137470",
+        "appleMusic": "137470"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "AFROJACK & Arti Prjct",
+      "title": "Flow",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "13678902",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 451,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "AFROJACK & Arti Prjct",
+          "title": "Flow",
+          "remix": "",
+          "trackId": "13678902"
+        },
+        {
+          "artist": "Eminem",
+          "title": "Without Me (Acappella)",
+          "remix": "",
+          "trackId": "13678774"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eminem",
+      "title": "Without Me (Acappella)",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "13678774",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 548,
+      "mediaIds": {
+        "spotify": "208260",
+        "youtube": "208260",
+        "soundcloud": "208260",
+        "appleMusic": "208260"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Parris Mitchell Project ft. Wax Master",
+      "title": "Ghetto Shout Out!! (AFROJACK & HNTR Remix)",
+      "remix": "",
+      "label": "STRUT",
+      "trackId": "13683307",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 612,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "sombr",
+      "title": "12 to 12 (Gil Glaze Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "13678745",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 790,
+      "mediaIds": {
+        "soundcloud": "1158981"
+      },
+      "blendGroup": [
+        {
+          "artist": "sombr",
+          "title": "12 to 12 (Gil Glaze Remix)",
+          "remix": "",
+          "trackId": "13678745"
+        },
+        {
+          "artist": "Cloonee & InntRaw & Young M.A",
+          "title": "Stephanie",
+          "remix": "(Acappella)",
+          "trackId": "13678744"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cloonee & InntRaw & Young M.A",
+      "title": "Stephanie",
+      "remix": "(Acappella)",
+      "label": "HELLBENT",
+      "trackId": "13678744",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 790,
+      "mediaIds": {
+        "spotify": "1055165",
+        "youtube": "1055165",
+        "soundcloud": "1055165",
+        "appleMusic": "1055165"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Justė & Jaxstyle & Jon",
+      "title": "Turn The Lights Off (AFROJACK Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "13678952",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 920,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone",
+      "remix": "",
+      "label": "VIOLENT",
+      "trackId": "13678747",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1138,
+      "mediaIds": {
+        "spotify": "30450",
+        "youtube": "30450",
+        "soundcloud": "30450",
+        "appleMusic": "30450"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alice Deejay",
+          "title": "Better Off Alone",
+          "remix": "",
+          "trackId": "13678747"
+        },
+        {
+          "artist": "AFROJACK & Lucas & Steve",
+          "title": "Control",
+          "remix": "",
+          "trackId": "13678852"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AFROJACK & Lucas & Steve",
+      "title": "Control",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "13678852",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1165,
+      "mediaIds": {
+        "spotify": "1158027",
+        "youtube": "1158027",
+        "soundcloud": "1158027",
+        "appleMusic": "1158027"
+      },
+      "blendGroup": [
+        {
+          "artist": "AFROJACK & Lucas & Steve",
+          "title": "Control",
+          "remix": "",
+          "trackId": "13678852"
+        },
+        {
+          "artist": "Yeah Yeah Yeahs",
+          "title": "Heads Will Roll (A-Trak Remix)",
+          "remix": "",
+          "trackId": "13678853"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Heads Will Roll (A-Trak Remix)",
+      "remix": "",
+      "label": "DGC",
+      "trackId": "13678853",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1211,
+      "mediaIds": {
+        "spotify": "11556",
+        "youtube": "11556",
+        "soundcloud": "11556",
+        "appleMusic": "11556"
+      },
+      "blendGroup": [
+        {
+          "artist": "Yeah Yeah Yeahs",
+          "title": "Heads Will Roll (A-Trak Remix)",
+          "remix": "",
+          "trackId": "13678853"
+        },
+        {
+          "artist": "AFROJACK ft. Eva Simons",
+          "title": "Take Over Control (Acappella)",
+          "remix": "",
+          "trackId": "13678855"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AFROJACK ft. Eva Simons",
+      "title": "Take Over Control (Acappella)",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "13678855",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1269,
+      "mediaIds": {
+        "spotify": "17638",
+        "youtube": "17638",
+        "soundcloud": "17638",
+        "appleMusic": "17638"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Bart B More",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13678748",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1321,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Bart B More",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13678748"
+        },
+        {
+          "artist": "Travis Scott ft. Kendrick Lamar",
+          "title": "Goosebumps (Acappella)",
+          "remix": "",
+          "trackId": "13678860"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Travis Scott ft. Kendrick Lamar",
+      "title": "Goosebumps (Acappella)",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "13678860",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 1390,
+      "mediaIds": {
+        "spotify": "332173",
+        "youtube": "332173",
+        "soundcloud": "332173",
+        "appleMusic": "332173"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Gil Glaze & AFROJACK",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13678749",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1471,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Gil Glaze & AFROJACK",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13678749"
+        },
+        {
+          "artist": "Pryda",
+          "title": "Allein",
+          "remix": "",
+          "trackId": "13678861"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pryda",
+      "title": "Allein",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "13678861",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1471,
+      "mediaIds": {
+        "spotify": "73464",
+        "youtube": "73464",
+        "soundcloud": "73464",
+        "appleMusic": "73464"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13678750",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1653,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13678750"
+        },
+        {
+          "artist": "Avicii & Nicky Romero ft. Noonie Bao",
+          "title": "I Could Be The One (Acappella)",
+          "remix": "",
+          "trackId": "13678863"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii & Nicky Romero ft. Noonie Bao",
+      "title": "I Could Be The One (Acappella)",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "13678863",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1653,
+      "mediaIds": {
+        "spotify": "63651",
+        "youtube": "63651",
+        "soundcloud": "63651",
+        "appleMusic": "63651"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii & Nicky Romero ft. Noonie Bao",
+          "title": "I Could Be The One (Acappella)",
+          "remix": "",
+          "trackId": "13678863"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+          "title": "Tremor (Sensation 2014 Anthem)",
+          "remix": "",
+          "trackId": "13678864"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+      "title": "Tremor (Sensation 2014 Anthem)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "13678864",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1750,
+      "mediaIds": {
+        "spotify": "167281",
+        "youtube": "167281",
+        "soundcloud": "167281",
+        "appleMusic": "167281"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Miss Monique & Kapuchon",
+      "title": "Hot Sauce",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "13678751",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1823,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Miss Monique & Kapuchon",
+          "title": "Hot Sauce",
+          "remix": "",
+          "trackId": "13678751"
+        },
+        {
+          "artist": "Syndicate Of L.A.W.",
+          "title": "Right On Time (2000 Countdown The Holly Digit Acappella)",
+          "remix": "",
+          "trackId": "13678876"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Syndicate Of L.A.W.",
+      "title": "Right On Time (2000 Countdown The Holly Digit Acappella)",
+      "remix": "",
+      "label": "GUN RECORDS",
+      "trackId": "13678876",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1910,
+      "mediaIds": {
+        "spotify": "16904",
+        "youtube": "16904",
+        "soundcloud": "16904",
+        "appleMusic": "16904"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "AFROJACK",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13678754",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1976,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "AFROJACK & Gil Glaze & Layton Giordani",
+      "title": "ID",
+      "remix": "(Bad Girls)",
+      "label": "",
+      "trackId": "13678755",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2049,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Kanye West ft. Kid Cudi",
+      "title": "Father Stretch My Hands Pt. 1",
+      "remix": "",
+      "label": "GETTING OUT OUR DREAMS",
+      "trackId": "13678820",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2232,
+      "mediaIds": {
+        "spotify": "309682",
+        "youtube": "309682",
+        "soundcloud": "309682",
+        "appleMusic": "309682"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "AFROJACK & Virtual Riot",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13684098",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2317,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13678877",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2394,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Skrillex & ISOxo",
+      "title": "Killers",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "13678898",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2465,
+      "mediaIds": {
+        "youtube": "1086348",
+        "soundcloud": "1086348"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & ISOxo",
+          "title": "Killers",
+          "remix": "",
+          "trackId": "13678898"
+        },
+        {
+          "artist": "Jack Ü ft. Bunji Garlin & MX Prime",
+          "title": "Jungle Bae (Acappella)",
+          "remix": "",
+          "trackId": "13678899"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jack Ü ft. Bunji Garlin & MX Prime",
+      "title": "Jungle Bae (Acappella)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "13678899",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 2465,
+      "mediaIds": {
+        "spotify": "220647",
+        "youtube": "246552",
+        "soundcloud": "220647",
+        "appleMusic": "220647"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jack Ü ft. Bunji Garlin & MX Prime",
+          "title": "Jungle Bae (Acappella)",
+          "remix": "",
+          "trackId": "13678899"
+        },
+        {
+          "artist": "Skrillex & Bare Noize ft. Foreign Beggars",
+          "title": "Scatta",
+          "remix": "(Acappella)",
+          "trackId": "13678900"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Bare Noize ft. Foreign Beggars",
+      "title": "Scatta",
+      "remix": "(Acappella)",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "13678900",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 2475,
+      "mediaIds": {
+        "spotify": "37077",
+        "youtube": "37077",
+        "soundcloud": "37077",
+        "appleMusic": "37077"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Bare Noize ft. Foreign Beggars",
+          "title": "Scatta",
+          "remix": "(Acappella)",
+          "trackId": "13678900"
+        },
+        {
+          "artist": "Major Lazer ft. Vybz Kartel",
+          "title": "Pon De Floor(Co-Prod. by AFROJACK) (Acappella)",
+          "remix": "",
+          "trackId": "13678901"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Major Lazer ft. Vybz Kartel",
+      "title": "Pon De Floor(Co-Prod. by AFROJACK) (Acappella)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "13678901",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 2503,
+      "mediaIds": {
+        "spotify": "5749",
+        "youtube": "5749",
+        "soundcloud": "5749",
+        "appleMusic": "5749"
+      },
+      "blendGroup": [
+        {
+          "artist": "Major Lazer ft. Vybz Kartel",
+          "title": "Pon De Floor(Co-Prod. by AFROJACK) (Acappella)",
+          "remix": "",
+          "trackId": "13678901"
+        },
+        {
+          "artist": "Baauer",
+          "title": "Harlem Shake (Acappella)",
+          "remix": "",
+          "trackId": "13683308"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Baauer",
+      "title": "Harlem Shake (Acappella)",
+      "remix": "",
+      "label": "JEFFREE'S (MAD DECENT)",
+      "trackId": "13683308",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 2547,
+      "mediaIds": {
+        "spotify": "71677",
+        "youtube": "71677",
+        "soundcloud": "71677",
+        "appleMusic": "71677"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Nikki Nair",
+      "title": "Startrack",
+      "remix": "",
+      "label": "PRETTY WEIRD",
+      "trackId": "13678919",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2647,
+      "mediaIds": {
+        "spotify": "776773",
+        "youtube": "776773",
+        "soundcloud": "776773",
+        "appleMusic": "776773"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nikki Nair",
+          "title": "Startrack",
+          "remix": "",
+          "trackId": "13678919"
+        },
+        {
+          "artist": "Chris Brown ft. Lil Wayne & Busta Rhymes",
+          "title": "Look At Me Now (Acappella)",
+          "remix": "",
+          "trackId": "13678920"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chris Brown ft. Lil Wayne & Busta Rhymes",
+      "title": "Look At Me Now (Acappella)",
+      "remix": "",
+      "label": "JIVE",
+      "trackId": "13678920",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 2647,
+      "mediaIds": {
+        "spotify": "25536",
+        "youtube": "25536",
+        "soundcloud": "25536",
+        "appleMusic": "25536"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "AFROJACK ft. Wrabel",
+      "title": "Ten Feet Tall",
+      "remix": "",
+      "label": "ISLAND/WALL",
+      "trackId": "13678879",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2704,
+      "mediaIds": {
+        "spotify": "143301",
+        "youtube": "143301",
+        "soundcloud": "143301",
+        "appleMusic": "143301"
+      },
+      "blendGroup": [
+        {
+          "artist": "AFROJACK ft. Wrabel",
+          "title": "Ten Feet Tall",
+          "remix": "",
+          "trackId": "13678879"
+        },
+        {
+          "artist": "AFROJACK",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13678880"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AFROJACK",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13678880",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 2753,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "AFROJACK",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13678880"
+        },
+        {
+          "artist": "Mightyfools",
+          "title": "Footrocker (Get Your, Get Your Hands Up Acappella)",
+          "remix": "",
+          "trackId": "13683309"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mightyfools",
+      "title": "Footrocker (Get Your, Get Your Hands Up Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13683309",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 2766,
+      "mediaIds": {
+        "spotify": "137470",
+        "youtube": "145416",
+        "soundcloud": "137470",
+        "appleMusic": "137470"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "AFROJACK & Martin Garrix & David Guetta & Amél vs. Coldplay",
+      "title": "Our Time vs. A Sky Full Of Stars (AFROJACK Mashup)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)/SPINNIN'",
+      "trackId": "13678953",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2891,
+      "mediaIds": {
+        "youtube": "1083340",
+        "appleMusic": "1083340"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "AFROJACK & Martin Garrix",
+      "title": "Turn Up The Speakers",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "13678954",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3020,
+      "mediaIds": {
+        "spotify": "186041",
+        "youtube": "186041",
+        "soundcloud": "186041",
+        "appleMusic": "186041"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "SICK INDIVIDUALS & AFROJACK",
+      "title": "The Last Time",
+      "remix": "",
+      "label": "",
+      "trackId": "13678973",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3095,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "David Guetta & AFROJACK ft. Sia",
+      "title": "Awake Tonight",
+      "remix": "",
+      "label": "",
+      "trackId": "13678986",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3248,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Avicii",
+      "title": "Levels",
+      "remix": "",
+      "label": "LE7ELS/UMG",
+      "trackId": "13678987",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3440,
+      "mediaIds": {
+        "spotify": "33255",
+        "youtube": "33255",
+        "soundcloud": "33255",
+        "appleMusic": "33255"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii",
+          "title": "Levels",
+          "remix": "",
+          "trackId": "13678987"
+        },
+        {
+          "artist": "AFROJACK ft. Eva Simons",
+          "title": "Take Over Control",
+          "remix": "",
+          "trackId": "13678988"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AFROJACK ft. Eva Simons",
+      "title": "Take Over Control",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "13678988",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 3440,
+      "mediaIds": {
+        "spotify": "17638",
+        "youtube": "17638",
+        "soundcloud": "17638",
+        "appleMusic": "17638"
+      },
+      "blendGroup": [
+        {
+          "artist": "AFROJACK ft. Eva Simons",
+          "title": "Take Over Control",
+          "remix": "",
+          "trackId": "13678988"
+        },
+        {
+          "artist": "AFROJACK",
+          "title": "Bangduck",
+          "remix": "",
+          "trackId": "13679017"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AFROJACK",
+      "title": "Bangduck",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "13679017",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 3587,
+      "mediaIds": {
+        "spotify": "14329",
+        "youtube": "14329",
+        "soundcloud": "14329",
+        "appleMusic": "14329"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "5284437",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=fLyb8KvtSzw"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "5284384",
+      "idSource": "40",
+      "url": "https://hearthis.at/14064931/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:05:55.206Z",
+  "scrapeVersion": 2
+}

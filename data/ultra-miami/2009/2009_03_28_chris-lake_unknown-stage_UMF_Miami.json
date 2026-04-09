@@ -1,0 +1,147 @@
+{
+  "tlId": "5zytbt",
+  "dj": "Chris Lake",
+  "stage": "Unknown Stage",
+  "date": "2009-03-28",
+  "year": 2009,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "views": 2,
+  "likes": 0,
+  "url": "https://www.1001tracklists.com/tracklist/5zytbt/chris-lake-ultra-music-festival-miami-11-miami-winter-music-conference-united-states-2009-03-28.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Chris Lake & Sébastien Léger",
+      "title": "Word",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "7360",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "4209",
+        "youtube": "4209",
+        "soundcloud": "4209",
+        "appleMusic": "4209"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Sour Grapes",
+      "title": "Kharma",
+      "remix": "",
+      "label": "TELEVIZION",
+      "trackId": "7359",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 300,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "deadmau5 vs. JELO",
+      "title": "The Reward Is Cheese",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "7358",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1763",
+        "youtube": "1763",
+        "soundcloud": "1763"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5 vs. JELO",
+          "title": "The Reward Is Cheese",
+          "remix": "",
+          "trackId": "7358"
+        },
+        {
+          "artist": "Chris Lake",
+          "title": "Only One",
+          "remix": "",
+          "trackId": "7357"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chris Lake",
+      "title": "Only One",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "7357",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1532",
+        "youtube": "1532",
+        "appleMusic": "1532"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Chris Lake ft. Nastala",
+      "title": "If You Knew (ATFC Main Mix)",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "7356",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "9555"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Sebastien Drums vs. Tom Geiss & Eric G ft. Dawn Williams",
+      "title": "Funky Beep (Dub Mix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "7355",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "18502",
+        "youtube": "18502",
+        "appleMusic": "18502"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Dr. Kucho!",
+      "title": "Patricia Never Leaves The House (Dr. Kucho! Remix)",
+      "remix": "",
+      "label": "DISC DOCTOR",
+      "trackId": "7354",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Chris Lake",
+      "slug": "chrislake"
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T12:47:07.439Z",
+  "scrapeVersion": 2
+}

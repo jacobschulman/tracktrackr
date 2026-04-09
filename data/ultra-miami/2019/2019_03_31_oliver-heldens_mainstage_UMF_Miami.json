@@ -1,0 +1,664 @@
+{
+  "tlId": "1r4cbz61",
+  "dj": "Oliver Heldens",
+  "stage": "Mainstage",
+  "date": "2019-03-31",
+  "year": 2019,
+  "genre": "Afro House",
+  "tracksIdentified": 32,
+  "tracksTotal": 33,
+  "duration": "1h 32m",
+  "views": 707,
+  "likes": 65,
+  "url": "https://www.1001tracklists.com/tracklist/1r4cbz61/oliver-heldens-mainstage-ultra-music-festival-miami-miami-music-week-united-states-2019-03-31.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Oliver Heldens & Mesto vs. Tiësto",
+      "title": "The G.O.A.T. vs. Grapevine (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "MIXMASH/MUSICAL FREEDOM/HELDEEP",
+      "trackId": "4026284",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 7,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Oliver Heldens",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4026285",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Oliver Heldens",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4026285"
+        },
+        {
+          "artist": "Bell Biv DeVoe",
+          "title": "Poison",
+          "remix": "(Acappella)",
+          "trackId": "5769555"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bell Biv DeVoe",
+      "title": "Poison",
+      "remix": "(Acappella)",
+      "label": "MCA",
+      "trackId": "5769555",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "25390",
+        "youtube": "25390",
+        "soundcloud": "25390",
+        "appleMusic": "25390"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Marc Benjamin",
+      "title": "Wild Bill",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "4026286",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 420,
+      "mediaIds": {
+        "spotify": "541805",
+        "youtube": "541805",
+        "soundcloud": "541805",
+        "appleMusic": "541805"
+      },
+      "blendGroup": [
+        {
+          "artist": "Marc Benjamin",
+          "title": "Wild Bill",
+          "remix": "",
+          "trackId": "4026286"
+        },
+        {
+          "artist": "Technotronic",
+          "title": "Pump Up The Jam (Acappella)",
+          "remix": "",
+          "trackId": "4026343"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Technotronic",
+      "title": "Pump Up The Jam (Acappella)",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "4026343",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 427,
+      "mediaIds": {
+        "spotify": "5108",
+        "youtube": "10191",
+        "soundcloud": "5108",
+        "appleMusic": "5108"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Childish Gambino",
+      "title": "This Is America (Matroda VIP Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4026344",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 608,
+      "mediaIds": {
+        "soundcloud": "420194"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "HI-LO & Chocolate Puma vs. The Weeknd",
+      "title": "LazersX999 vs. Wicked Games (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "XO (REPUBLIC)/HELDEEP",
+      "trackId": "4026288",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 727,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Oliver Heldens ft. Shungudzo",
+      "title": "Fire In My Soul (Tom Staar Remix)",
+      "remix": "",
+      "label": "RCA/KANGAROOLI TRACKS",
+      "trackId": "4026289",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 925,
+      "mediaIds": {
+        "spotify": "464712",
+        "youtube": "464712",
+        "soundcloud": "464712",
+        "appleMusic": "464712"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Daddy's Groove",
+      "title": "Been A Long Time",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "4026290",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1106,
+      "mediaIds": {
+        "spotify": "480007",
+        "youtube": "480007",
+        "soundcloud": "480007",
+        "appleMusic": "480007"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Rebūke vs. Kanye West & Lil Pump & Adele Givens",
+      "title": "Along Came Polly vs. I Love It (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "4026291",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1342,
+      "mediaIds": {
+        "youtube": "4026291"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Oliver Heldens & Becky Hill",
+      "title": "Gecko (Overdrive)",
+      "remix": "",
+      "label": "FFRR/SPINNIN'",
+      "trackId": "4296432",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1542,
+      "mediaIds": {
+        "spotify": "194055",
+        "youtube": "194055",
+        "soundcloud": "194055",
+        "appleMusic": "194055"
+      },
+      "blendGroup": [
+        {
+          "artist": "Oliver Heldens & Becky Hill",
+          "title": "Gecko (Overdrive)",
+          "remix": "",
+          "trackId": "4296432"
+        },
+        {
+          "artist": "Sonny Fodera & Biscits",
+          "title": "Insane",
+          "remix": "",
+          "trackId": "4336360"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sonny Fodera & Biscits",
+      "title": "Insane",
+      "remix": "",
+      "label": "SOLOTOKO",
+      "trackId": "4336360",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 1586,
+      "mediaIds": {
+        "spotify": "466056",
+        "youtube": "466056",
+        "soundcloud": "466056",
+        "appleMusic": "466056"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Oliver Heldens ft. Devin & Nile Rodgers",
+      "title": "Summer Lover",
+      "remix": "",
+      "label": "RCA/KANGAROOLI TRACKS",
+      "trackId": "4026293",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1785,
+      "mediaIds": {
+        "spotify": "488183",
+        "youtube": "488183",
+        "soundcloud": "488183",
+        "appleMusic": "488183"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Chic",
+      "title": "Le Freak (Oliver Heldens Remix)",
+      "remix": "",
+      "label": "SPINNIN'/ATLANTIC",
+      "trackId": "4026294",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1933,
+      "mediaIds": {
+        "spotify": "448345",
+        "youtube": "448345",
+        "soundcloud": "448345",
+        "appleMusic": "448345"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Dr. Dre ft. Snoop Dogg & Kurupt & Nate Dogg",
+      "title": "The Next Episode (Liu Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4026295",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2160,
+      "mediaIds": {
+        "youtube": "354896",
+        "soundcloud": "354896"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Oliver Heldens & Sidney Samson",
+      "title": "Riverside 2099",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "4026296",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2317,
+      "mediaIds": {
+        "spotify": "419694",
+        "youtube": "419694",
+        "soundcloud": "419694",
+        "appleMusic": "419694"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Eats Everything & Charlotte De Witte vs. Clouds vs. Ron Carroll",
+      "title": "Space Raiders vs. Chained To A Dead Camel vs. Walking Down The Street (HI-LO Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "4026297",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2539,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "UMEK",
+      "title": "Amnesiac",
+      "remix": "",
+      "label": "FILTH ON ACID",
+      "trackId": "4026298",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2815,
+      "mediaIds": {
+        "spotify": "425841",
+        "youtube": "425841",
+        "soundcloud": "425841",
+        "appleMusic": "425841"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Wehbba",
+      "title": "Third Wave",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "4026299",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3065,
+      "mediaIds": {
+        "spotify": "478211",
+        "youtube": "478211",
+        "soundcloud": "478211",
+        "appleMusic": "478211"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wehbba",
+          "title": "Third Wave",
+          "remix": "",
+          "trackId": "4026299"
+        },
+        {
+          "artist": "Format:B",
+          "title": "Chunky (Acappella)",
+          "remix": "",
+          "trackId": "4034408"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Format:B",
+      "title": "Chunky (Acappella)",
+      "remix": "",
+      "label": "MINISTRY OF SOUND",
+      "trackId": "4034408",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 3130,
+      "mediaIds": {
+        "spotify": "237164",
+        "youtube": "237164",
+        "soundcloud": "390571",
+        "appleMusic": "237164"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Enrico Sangiuliano",
+      "title": "Symbiosis",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "4026301",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3270,
+      "mediaIds": {
+        "spotify": "416798",
+        "youtube": "416798",
+        "soundcloud": "416798",
+        "appleMusic": "416798"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Enrico Sangiuliano",
+      "title": "Astral Projection",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "4026302",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3575,
+      "mediaIds": {
+        "spotify": "363890",
+        "youtube": "363890",
+        "soundcloud": "363890",
+        "appleMusic": "363890"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "HI-LO & ALOK vs. Cardi B vs. Fetty Wap & Monty",
+      "title": "Alien Technology vs. Bodak Yellow vs. My Way (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "300 ENTERTAINMENT/HELDEEP/ATLANTIC (WARNER MUSIC)",
+      "trackId": "4026303",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3775,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Calvin Harris & Dua Lipa",
+      "title": "One Kiss (Oliver Heldens Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "4026304",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3968,
+      "mediaIds": {
+        "spotify": "419262",
+        "youtube": "419262",
+        "soundcloud": "419262",
+        "appleMusic": "419262"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Oliver Heldens & MOGUAI",
+      "title": "Cucumba",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "4026305",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 4117,
+      "mediaIds": {
+        "spotify": "491608",
+        "youtube": "491608",
+        "soundcloud": "491608",
+        "appleMusic": "491608"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "The Temper Trap",
+      "title": "Sweet Disposition (Axwell & Dirty South Remix)",
+      "remix": "",
+      "label": "INFECTIOUS/LIBERATION",
+      "trackId": "4026306",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 4296,
+      "mediaIds": {
+        "spotify": "10071",
+        "youtube": "10071",
+        "soundcloud": "10071",
+        "appleMusic": "10071"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Tiësto & Oliver Heldens",
+      "title": "Wombass",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "4026307",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 4475,
+      "mediaIds": {
+        "spotify": "275679",
+        "youtube": "275679",
+        "soundcloud": "275679",
+        "appleMusic": "275679"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & Oliver Heldens",
+          "title": "Wombass",
+          "remix": "",
+          "trackId": "4026307"
+        },
+        {
+          "artist": "Swedish House Mafia & Knife Party ft. ADL",
+          "title": "Antidote",
+          "remix": "",
+          "trackId": "4026427"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia & Knife Party ft. ADL",
+      "title": "Antidote",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "4026427",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 4500,
+      "mediaIds": {
+        "spotify": "43328",
+        "youtube": "43328",
+        "soundcloud": "43328",
+        "appleMusic": "43328"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia & Knife Party ft. ADL",
+          "title": "Antidote",
+          "remix": "",
+          "trackId": "4026427"
+        },
+        {
+          "artist": "Tiësto & Oliver Heldens ft. Natalie La Rose",
+          "title": "The Right Song (Wombass)",
+          "remix": "",
+          "trackId": "4026684"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & Oliver Heldens ft. Natalie La Rose",
+      "title": "The Right Song (Wombass)",
+      "remix": "",
+      "label": "PM:AM/MUSICAL FREEDOM",
+      "trackId": "4026684",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 4572,
+      "mediaIds": {
+        "spotify": "291933",
+        "youtube": "291933",
+        "soundcloud": "291933",
+        "appleMusic": "291933"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Oliver Heldens vs. Wamdue Project vs. Criminal Vibes vs. Madonna",
+      "title": "Koala vs. King Of My Castle vs. Calabria vs. Hung Up (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "STRICTLY RHYTHM/WARNER BROS./LOUDBIT/SPINNIN'",
+      "trackId": "4026345",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 4675,
+      "mediaIds": {
+        "youtube": "334838"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Oliver Heldens & Firebeatz & Schella ft. Carla Monroe",
+      "title": "Lift Me Up",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "4026393",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 4830,
+      "mediaIds": {
+        "spotify": "518287",
+        "youtube": "518287",
+        "soundcloud": "518287",
+        "appleMusic": "518287"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Adam Beyer & Bart Skils vs. Sander van Doorn & Chocolate Puma vs. Human Resource",
+      "title": "Your Mind vs. Raise Your Hands Up vs. Dominator (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "4026471",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 4996,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Dizzee Rascal & Armand van Helden",
+      "title": "Bonkers",
+      "remix": "",
+      "label": "DIRTEE STANK",
+      "trackId": "4026528",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 5258,
+      "mediaIds": {
+        "spotify": "3911",
+        "youtube": "3911",
+        "soundcloud": "3911",
+        "appleMusic": "3911"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Oliver Heldens",
+      "slug": "oliverheldens"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1141838",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=cuc7YmGKWs0"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "1144506",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/600645996"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:06:06.932Z",
+  "scrapeVersion": 2
+}

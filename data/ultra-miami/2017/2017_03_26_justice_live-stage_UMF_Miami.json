@@ -1,0 +1,364 @@
+{
+  "tlId": "29qbd2b1",
+  "dj": "Justice",
+  "stage": "Live Stage",
+  "date": "2017-03-26",
+  "year": 2017,
+  "genre": "Afro House",
+  "tracksIdentified": 13,
+  "tracksTotal": 14,
+  "duration": "48m",
+  "views": 85,
+  "likes": 9,
+  "url": "https://www.1001tracklists.com/tracklist/29qbd2b1/justice-live-stage-ultra-music-festival-miami-united-states-2017-03-26.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2570073",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Justice",
+      "title": "D.A.N.C.E.",
+      "remix": "(WWW)",
+      "label": "ED BANGER/BECAUSE MUSIC",
+      "trackId": "2571043",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 2,
+      "mediaIds": {
+        "spotify": "22909",
+        "youtube": "22909",
+        "soundcloud": "22909",
+        "appleMusic": "22909"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice",
+          "title": "D.A.N.C.E.",
+          "remix": "(WWW)",
+          "trackId": "2571043"
+        },
+        {
+          "artist": "Justice",
+          "title": "Safe And Sound",
+          "remix": "",
+          "trackId": "2571044"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice",
+      "title": "Safe And Sound",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2571044",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "316545",
+        "youtube": "316545",
+        "soundcloud": "316545",
+        "appleMusic": "316545"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Justice",
+      "title": "Canon",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2570074",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "65185",
+        "youtube": "65185",
+        "soundcloud": "65185",
+        "appleMusic": "65185"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Justice",
+      "title": "Genesis",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2570075",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "67026",
+        "youtube": "67026",
+        "soundcloud": "67026",
+        "appleMusic": "67026"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice",
+          "title": "Genesis",
+          "remix": "",
+          "trackId": "2570075"
+        },
+        {
+          "artist": "Justice",
+          "title": "Phantom",
+          "remix": "(Live Edit)",
+          "trackId": "2570077"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice",
+      "title": "Phantom",
+      "remix": "(Live Edit)",
+      "label": "ED BANGER",
+      "trackId": "2570077",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "12782",
+        "youtube": "12782",
+        "soundcloud": "12782",
+        "appleMusic": "12782"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Justice",
+      "title": "Pleasure",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2570076",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "351874",
+        "youtube": "351874",
+        "soundcloud": "351874",
+        "appleMusic": "351874"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Justice",
+      "title": "Heavy Metal",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2570078",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "351875",
+        "youtube": "351875",
+        "soundcloud": "351875",
+        "appleMusic": "351875"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice",
+          "title": "Heavy Metal",
+          "remix": "",
+          "trackId": "2570078"
+        },
+        {
+          "artist": "Justice",
+          "title": "DVNO",
+          "remix": "",
+          "trackId": "2575633"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice",
+      "title": "DVNO",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2575633",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "17655",
+        "youtube": "17655",
+        "soundcloud": "17655",
+        "appleMusic": "17655"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Justice",
+      "title": "Stress",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2570079",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "43234",
+        "youtube": "43234",
+        "soundcloud": "43234",
+        "appleMusic": "43234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Justice",
+      "title": "Love S.O.S.",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2570809",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "339032",
+        "youtube": "339032",
+        "soundcloud": "339032",
+        "appleMusic": "339032"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Justice",
+      "title": "Alakazam!",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2570810",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "331802",
+        "youtube": "331802",
+        "soundcloud": "331802",
+        "appleMusic": "331802"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice",
+          "title": "Alakazam!",
+          "remix": "",
+          "trackId": "2570810"
+        },
+        {
+          "artist": "Justice ft. M. Yaman",
+          "title": "Fire",
+          "remix": "",
+          "trackId": "2570082"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice ft. M. Yaman",
+      "title": "Fire",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2570082",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "337105",
+        "youtube": "337105",
+        "soundcloud": "337105",
+        "appleMusic": "337105"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice ft. M. Yaman",
+          "title": "Fire",
+          "remix": "",
+          "trackId": "2570082"
+        },
+        {
+          "artist": "Justice",
+          "title": "Love S.O.S.",
+          "remix": "",
+          "trackId": "2570084"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice",
+      "title": "Love S.O.S.",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2570084",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "339032",
+        "youtube": "339032",
+        "soundcloud": "339032",
+        "appleMusic": "339032"
+      }
+    }
+  ],
+  "djs": [
+    {
+      "name": "Justice",
+      "slug": "justice"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1464864",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=1Jpl6qA499Q"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "573426",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=aM5HElrS6ck"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "572768",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/edmmachine"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "573032",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/tracklistfromslovakia"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "573272",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:48:12.192Z",
+  "scrapeVersion": 2
+}

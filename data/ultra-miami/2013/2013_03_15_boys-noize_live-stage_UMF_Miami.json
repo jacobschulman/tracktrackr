@@ -1,0 +1,587 @@
+{
+  "tlId": "1wctf79",
+  "dj": "Boys Noize",
+  "stage": "Live Stage",
+  "date": "2013-03-15",
+  "year": 2013,
+  "genre": "Afro House",
+  "tracksIdentified": 29,
+  "tracksTotal": 31,
+  "duration": "1h 44m",
+  "views": 97,
+  "likes": 2,
+  "url": "https://www.1001tracklists.com/tracklist/1wctf79/boys-noize-live-stage-ultra-music-festival-miami-united-states-2013-03-15.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Boys Noize",
+      "title": "Gax",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "455769",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "104786",
+        "soundcloud": "104786",
+        "appleMusic": "104786"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "443357",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 75,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "443357"
+        },
+        {
+          "artist": "Boys Noize",
+          "title": "What You Want",
+          "remix": "",
+          "trackId": "443358"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Boys Noize",
+      "title": "What You Want",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "443358",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 180,
+      "mediaIds": {
+        "spotify": "86997",
+        "youtube": "86997",
+        "soundcloud": "86997",
+        "appleMusic": "86997"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Boys Noize",
+      "title": "What You Want (Chromeo Remix)",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "444575",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 195,
+      "mediaIds": {
+        "spotify": "120012",
+        "youtube": "120012",
+        "soundcloud": "120012"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Boys Noize",
+      "title": "Rocky 2",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "443359",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 455,
+      "mediaIds": {
+        "spotify": "102206",
+        "youtube": "102206",
+        "soundcloud": "102206"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Boys Noize",
+      "title": "Starter",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "444047",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 660,
+      "mediaIds": {
+        "youtube": "104787"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Boys Noize",
+      "title": "Kontact Me",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "444048",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 960,
+      "mediaIds": {
+        "spotify": "76836",
+        "youtube": "76836",
+        "soundcloud": "76836",
+        "appleMusic": "76836"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Boys Noize",
+      "title": "& Down",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "455770",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1200,
+      "mediaIds": {
+        "spotify": "104788",
+        "youtube": "104788",
+        "soundcloud": "104788",
+        "appleMusic": "104788"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Boys Noize",
+      "title": "Lava Lava",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "455771",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1455,
+      "mediaIds": {
+        "spotify": "104789",
+        "youtube": "104789",
+        "soundcloud": "104789",
+        "appleMusic": "104789"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Boys Noize",
+      "title": "Jeffer",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "443360",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1500,
+      "mediaIds": {
+        "spotify": "26205",
+        "youtube": "26205",
+        "appleMusic": "26205"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Boys Noize",
+      "title": "Missile",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "443361",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1680,
+      "mediaIds": {
+        "spotify": "100668",
+        "youtube": "100668",
+        "soundcloud": "100668",
+        "appleMusic": "100668"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Boys Noize",
+      "title": "XTC",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "443362",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1860,
+      "mediaIds": {
+        "spotify": "46779",
+        "youtube": "46779",
+        "soundcloud": "46779",
+        "appleMusic": "46779"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Boys Noize",
+      "title": "Oh!",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "443363",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2160,
+      "mediaIds": {
+        "spotify": "1397",
+        "appleMusic": "1397"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Boys Noize",
+      "title": "Reality",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "443364",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2340,
+      "mediaIds": {
+        "spotify": "101164",
+        "youtube": "101164",
+        "soundcloud": "101164",
+        "appleMusic": "101164"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Boys Noize",
+      "title": "Ich R U (Jacques Lu Cont Remix)",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "443365",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2669,
+      "mediaIds": {
+        "spotify": "108199",
+        "youtube": "108199",
+        "soundcloud": "108199",
+        "appleMusic": "108199"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Boys Noize",
+      "title": "Ich R U",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "695550",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2765,
+      "mediaIds": {
+        "spotify": "94679",
+        "youtube": "94679",
+        "soundcloud": "94679",
+        "appleMusic": "94679"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Erol Alkan & Boys Noize ft. Jarvis Cocker",
+      "title": "Avalanche (Terminal Velocity)",
+      "remix": "",
+      "label": "PHANTASY SOUND",
+      "trackId": "444576",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2940,
+      "mediaIds": {
+        "spotify": "16033",
+        "youtube": "16033",
+        "appleMusic": "16033"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Erol Alkan & Boys Noize",
+      "title": "Lemonade",
+      "remix": "",
+      "label": "PHANTASY SOUND",
+      "trackId": "455772",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3010,
+      "mediaIds": {
+        "spotify": "18825",
+        "youtube": "18825",
+        "soundcloud": "18825",
+        "appleMusic": "18825"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Boys Noize",
+      "title": "My Head (Para One Remix)",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "443366",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3300,
+      "mediaIds": {
+        "spotify": "20825",
+        "youtube": "20825",
+        "soundcloud": "20825",
+        "appleMusic": "20825"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Boys Noize",
+      "title": "Stop",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "443367",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3480,
+      "mediaIds": {
+        "spotify": "99196",
+        "youtube": "99196",
+        "soundcloud": "99196",
+        "appleMusic": "99196"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "The Chemical Brothers",
+      "title": "Swoon (Boys Noize Summer Mix)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "443368",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3720,
+      "mediaIds": {
+        "spotify": "19876",
+        "youtube": "19876",
+        "appleMusic": "19876"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chemical Brothers",
+          "title": "Swoon (Boys Noize Summer Mix)",
+          "remix": "",
+          "trackId": "443368"
+        },
+        {
+          "artist": "Boys Noize",
+          "title": "Yeah",
+          "remix": "",
+          "trackId": "444577"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Boys Noize",
+      "title": "Yeah",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "444577",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 3862,
+      "mediaIds": {
+        "spotify": "21235",
+        "youtube": "21235",
+        "soundcloud": "21235",
+        "appleMusic": "21235"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Feist",
+      "title": "My Moon My Man (Boys Noize Remix)",
+      "remix": "",
+      "label": "KITSUNÉ",
+      "trackId": "443369",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3960,
+      "mediaIds": {
+        "spotify": "14714",
+        "youtube": "14714",
+        "appleMusic": "14714"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "444049",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 4260,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "TJR",
+      "title": "Ode To Oi",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "444050",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 4555,
+      "mediaIds": {
+        "spotify": "104183",
+        "youtube": "104183",
+        "soundcloud": "104183",
+        "appleMusic": "104183"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Seamus Haji & Nelski",
+      "title": "Hey Boy Hey Girl",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "443370",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 4800,
+      "mediaIds": {
+        "spotify": "66223",
+        "appleMusic": "66223"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Jed Harper & Dzeko & Torres",
+      "title": "Diamond Rings (Michael Woods Edit)",
+      "remix": "",
+      "label": "PROVOKE",
+      "trackId": "443371",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 5040,
+      "mediaIds": {
+        "spotify": "57226",
+        "soundcloud": "57226",
+        "appleMusic": "57226"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Steve Forest & Nicola Fasano & Safran D!5co",
+      "title": "Sunrise (Die Hoerer Remix)",
+      "remix": "",
+      "label": "JOLLY ROGER",
+      "trackId": "443372",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 5280,
+      "mediaIds": {
+        "soundcloud": "72169"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Tegan & Sara",
+      "title": "Closer (Sultan + Shepard Remix)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "443373",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 5520,
+      "mediaIds": {
+        "soundcloud": "109773"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "JoeySuki",
+      "title": "Kiwistick",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "443374",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 5820,
+      "mediaIds": {
+        "spotify": "69198",
+        "youtube": "69198",
+        "soundcloud": "69198",
+        "appleMusic": "69198"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Christian Burns & Maison & Dragen",
+      "title": "Perfectly",
+      "remix": "",
+      "label": "ARMADA ZOUK",
+      "trackId": "443375",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 6120,
+      "mediaIds": {
+        "spotify": "118129",
+        "appleMusic": "118129"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Boys Noize",
+      "slug": "boysnoize"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "272600",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=w83Ffqn2jZ4"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "4164969",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=Wle5ZhqE8Vk"
+    }
+  ],
+  "scrapedAt": "2026-04-08T08:23:28.532Z",
+  "scrapeVersion": 2
+}

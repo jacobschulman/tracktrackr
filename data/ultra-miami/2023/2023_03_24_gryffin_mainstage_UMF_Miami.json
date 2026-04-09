@@ -1,0 +1,983 @@
+{
+  "tlId": "1w07hfpt",
+  "dj": "Gryffin",
+  "stage": "Mainstage",
+  "date": "2023-03-24",
+  "year": 2023,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "59m",
+  "views": 198,
+  "likes": 12,
+  "url": "https://www.1001tracklists.com/tracklist/1w07hfpt/gryffin-mainstage-ultra-music-festival-miami-united-states-2023-03-24.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Gryffin & Calle Lehmann",
+      "title": "Alive",
+      "remix": "(Intro Edit)",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8863024",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 7,
+      "mediaIds": {
+        "spotify": "794522",
+        "youtube": "794522",
+        "soundcloud": "794522",
+        "appleMusic": "794522"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gryffin & Calle Lehmann",
+          "title": "Alive",
+          "remix": "(Intro Edit)",
+          "trackId": "8863024"
+        },
+        {
+          "artist": "Anyma & Chris Avantgarde",
+          "title": "Consciousness",
+          "remix": "",
+          "trackId": "8863290"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Anyma & Chris Avantgarde",
+      "title": "Consciousness",
+      "remix": "",
+      "label": "AFTERLIFE",
+      "trackId": "8863290",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 115,
+      "mediaIds": {
+        "spotify": "774154",
+        "youtube": "774154",
+        "soundcloud": "774154",
+        "appleMusic": "774154"
+      },
+      "blendGroup": [
+        {
+          "artist": "Anyma & Chris Avantgarde",
+          "title": "Consciousness",
+          "remix": "",
+          "trackId": "8863290"
+        },
+        {
+          "artist": "Aspyer",
+          "title": "Phantom",
+          "remix": "",
+          "trackId": "8859984"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Aspyer",
+      "title": "Phantom",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "8859984",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 143,
+      "mediaIds": {
+        "spotify": "810035",
+        "youtube": "810035",
+        "soundcloud": "810035",
+        "appleMusic": "810035"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "VINNE",
+      "title": "IDGAF",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "8859985",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 200,
+      "mediaIds": {
+        "spotify": "837963",
+        "youtube": "837963",
+        "soundcloud": "837963",
+        "appleMusic": "837963"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Gryffin & Olivia O'Brien",
+      "title": "Caught Up",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "11792896",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": {
+        "spotify": "796226",
+        "youtube": "796226",
+        "soundcloud": "796226",
+        "appleMusic": "796226"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gryffin & Olivia O'Brien",
+          "title": "Caught Up",
+          "remix": "",
+          "trackId": "11792896"
+        },
+        {
+          "artist": "House Anatomy",
+          "title": "The One",
+          "remix": "",
+          "trackId": "8853715"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "House Anatomy",
+      "title": "The One",
+      "remix": "",
+      "label": "",
+      "trackId": "8853715",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 300,
+      "mediaIds": null
+    },
+    {
+      "pos": "04",
+      "artist": "Gryffin ft. Kyle Reynolds",
+      "title": "Best Is Yet To Come (if found Remix)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8853717",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 353,
+      "mediaIds": {
+        "spotify": "737007",
+        "youtube": "737007",
+        "soundcloud": "737007",
+        "appleMusic": "737007"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gryffin ft. Kyle Reynolds",
+          "title": "Best Is Yet To Come (if found Remix)",
+          "remix": "",
+          "trackId": "8853717"
+        },
+        {
+          "artist": "Marshmello & Ray Volpe",
+          "title": "Old School",
+          "remix": "",
+          "trackId": "8853718"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Marshmello & Ray Volpe",
+      "title": "Old School",
+      "remix": "",
+      "label": "JOYTIME COLLECTIVE",
+      "trackId": "8853718",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 460,
+      "mediaIds": {
+        "spotify": "869153",
+        "youtube": "869153",
+        "soundcloud": "869153",
+        "appleMusic": "869153"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "RL Grime & ISOxo",
+      "title": "Stinger",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "8853719",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 552,
+      "mediaIds": {
+        "spotify": "672055",
+        "youtube": "672055",
+        "soundcloud": "672055",
+        "appleMusic": "672055"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Gryffin ft. Iselin",
+      "title": "Just For A Moment (VIP)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8853720",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 580,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Gryffin ft. Iselin",
+          "title": "Just For A Moment (VIP)",
+          "remix": "",
+          "trackId": "8853720"
+        },
+        {
+          "artist": "Gryffin ft. Iselin",
+          "title": "Just For A Moment",
+          "remix": "",
+          "trackId": "8853721"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gryffin ft. Iselin",
+      "title": "Just For A Moment",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8853721",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 672,
+      "mediaIds": {
+        "spotify": "426352",
+        "youtube": "426352",
+        "soundcloud": "426352",
+        "appleMusic": "426352"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Gryffin ft. Iselin",
+      "title": "Just For A Moment (Myon Summer of Love Mix)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8859986",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 728,
+      "mediaIds": {
+        "spotify": "480223",
+        "youtube": "480223",
+        "soundcloud": "480223",
+        "appleMusic": "480223"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Supermode & MEDUZA vs. Gryffin & Zohara",
+      "title": "Tell Me Why vs. Remember (Gryffin Edit)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)/AXTONE",
+      "trackId": "8853722",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 815,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Snakehips & MØ & Gryffin vs. Wax Motif vs. Mau P",
+      "title": "Don't Leave vs. Wet vs. Drugs From Amsterdam (Gryffin Edit)",
+      "remix": "",
+      "label": "SONY/MAD DECENT/REPOPULATE MARS",
+      "trackId": "8853724",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 968,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Eurythmics vs. Halfway House",
+      "title": "Sweet Peak Dreams (MAKJ Edit)",
+      "remix": "",
+      "label": "BIG MACHINE/RCA/FLASHOVER PROGRESSIVE",
+      "trackId": "8853746",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1132,
+      "mediaIds": {
+        "youtube": "146699",
+        "soundcloud": "146699"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eurythmics vs. Halfway House",
+          "title": "Sweet Peak Dreams (MAKJ Edit)",
+          "remix": "",
+          "trackId": "8853746"
+        },
+        {
+          "artist": "Rae Sremmurd ft. Gucci Mane",
+          "title": "Black Beatles (MAKJ Remix)",
+          "remix": "",
+          "trackId": "8853747"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rae Sremmurd ft. Gucci Mane",
+      "title": "Black Beatles (MAKJ Remix)",
+      "remix": "",
+      "label": "EARDRUMMERS",
+      "trackId": "8853747",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1178,
+      "mediaIds": {
+        "youtube": "335449",
+        "soundcloud": "335449"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Ekali & SLUMBERJACK",
+      "title": "Helios (FOMO Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "8853749",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1230,
+      "mediaIds": {
+        "youtube": "443249",
+        "soundcloud": "443249"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ekali & SLUMBERJACK",
+          "title": "Helios (FOMO Remix)",
+          "remix": "",
+          "trackId": "8853749"
+        },
+        {
+          "artist": "JAY-Z & Kanye West",
+          "title": "Niggas In Paris",
+          "remix": "",
+          "trackId": "8853748"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAY-Z & Kanye West",
+      "title": "Niggas In Paris",
+      "remix": "",
+      "label": "ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "8853748",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1230,
+      "mediaIds": {
+        "spotify": "44703",
+        "youtube": "44703",
+        "soundcloud": "44703",
+        "appleMusic": "44703"
+      },
+      "blendGroup": [
+        {
+          "artist": "JAY-Z & Kanye West",
+          "title": "Niggas In Paris",
+          "remix": "",
+          "trackId": "8853748"
+        },
+        {
+          "artist": "Seven Lions & Wooli & Trivecta ft. Nevve",
+          "title": "Island",
+          "remix": "",
+          "trackId": "8853750"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions & Wooli & Trivecta ft. Nevve",
+      "title": "Island",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "8853750",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1294,
+      "mediaIds": {
+        "spotify": "459012",
+        "youtube": "459012",
+        "soundcloud": "459012",
+        "appleMusic": "459012"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Gryffin & SLANDER ft. Calle Lehmann",
+      "title": "All You Need To Know",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8853751",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1320,
+      "mediaIds": {
+        "spotify": "485444",
+        "youtube": "485444",
+        "soundcloud": "485444",
+        "appleMusic": "485444"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gryffin & SLANDER ft. Calle Lehmann",
+          "title": "All You Need To Know",
+          "remix": "",
+          "trackId": "8853751"
+        },
+        {
+          "artist": "Gryffin & SLANDER ft. Calle Lehmann",
+          "title": "All You Need To Know (Riggi & Piros Remix)",
+          "remix": "",
+          "trackId": "8853752"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gryffin & SLANDER ft. Calle Lehmann",
+      "title": "All You Need To Know (Riggi & Piros Remix)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8853752",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1468,
+      "mediaIds": {
+        "spotify": "602545",
+        "youtube": "602545",
+        "soundcloud": "602545",
+        "appleMusic": "602545"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "David Guetta & Sia vs. Brooks",
+      "title": "Titanium vs. Lynx (David Guetta Mashup)",
+      "remix": "",
+      "label": "FMIF/PARLOPHONE (WARNER MUSIC)/STMPD",
+      "trackId": "8860357",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1540,
+      "mediaIds": {
+        "appleMusic": "416506"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Guetta & Sia vs. Brooks",
+          "title": "Titanium vs. Lynx (David Guetta Mashup)",
+          "remix": "",
+          "trackId": "8860357"
+        },
+        {
+          "artist": "GENESI",
+          "title": "Everything You Have Done (MEDUZA Edit)",
+          "remix": "",
+          "trackId": "8853754"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GENESI",
+      "title": "Everything You Have Done (MEDUZA Edit)",
+      "remix": "",
+      "label": "AETERNA",
+      "trackId": "8853754",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 1620,
+      "mediaIds": {
+        "spotify": "870126",
+        "youtube": "870126",
+        "soundcloud": "870126",
+        "appleMusic": "870126"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Gryffin",
+      "title": "Dreams",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8860358",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1695,
+      "mediaIds": {
+        "spotify": "876720",
+        "youtube": "876720",
+        "soundcloud": "876720",
+        "appleMusic": "876720"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gryffin",
+          "title": "Dreams",
+          "remix": "",
+          "trackId": "8860358"
+        },
+        {
+          "artist": "Gryffin",
+          "title": "Dreams (Slippy Edit)",
+          "remix": "",
+          "trackId": "8866670"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gryffin",
+      "title": "Dreams (Slippy Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "8866670",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 1724,
+      "mediaIds": null
+    },
+    {
+      "pos": "15",
+      "artist": "Gryffin & Kid Joi",
+      "title": "Oceans",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8860359",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1785,
+      "mediaIds": {
+        "spotify": "896880",
+        "youtube": "896880",
+        "soundcloud": "896880",
+        "appleMusic": "896880"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Kygo & Gryffin & Calum Scott vs. Alesso & OneRepublic",
+      "title": "Woke Up In Love vs. If I Lose Myself (Gryffin Edit)",
+      "remix": "",
+      "label": "MOSLEY/INTERSCOPE/RCA (SONY)",
+      "trackId": "8860360",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1870,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Years & Years",
+      "title": "Desire (Gryffin Remix)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "8860363",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2110,
+      "mediaIds": {
+        "spotify": "269672",
+        "youtube": "269672",
+        "soundcloud": "269672",
+        "appleMusic": "269672"
+      },
+      "blendGroup": [
+        {
+          "artist": "Years & Years",
+          "title": "Desire (Gryffin Remix)",
+          "remix": "",
+          "trackId": "8860363"
+        },
+        {
+          "artist": "Years & Years",
+          "title": "Desire (Gryffin Remix / Slippy Edit)",
+          "remix": "",
+          "trackId": "8866671"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Years & Years",
+      "title": "Desire (Gryffin Remix / Slippy Edit)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "8866671",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 2140,
+      "mediaIds": null
+    },
+    {
+      "pos": "18",
+      "artist": "Freejak",
+      "title": "Sandstorm",
+      "remix": "",
+      "label": "PERFECT HAVOC",
+      "trackId": "8860364",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2230,
+      "mediaIds": {
+        "spotify": "754481",
+        "youtube": "754481",
+        "soundcloud": "754481",
+        "appleMusic": "754481"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Gryffin & Au/Ra",
+      "title": "Evergreen (Ørjan Nilsen Remix)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8860365",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2337,
+      "mediaIds": {
+        "spotify": "900257",
+        "youtube": "900257",
+        "soundcloud": "900257"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Gryffin",
+      "title": "What To Do",
+      "remix": "",
+      "label": "",
+      "trackId": "8860366",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2440,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Gryffin ft. Maia Wright",
+      "title": "Body Back",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8860367",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2528,
+      "mediaIds": {
+        "spotify": "531846",
+        "youtube": "531846",
+        "soundcloud": "531846",
+        "appleMusic": "531846"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gryffin ft. Maia Wright",
+          "title": "Body Back",
+          "remix": "",
+          "trackId": "8860367"
+        },
+        {
+          "artist": "Gryffin ft. Maia Wright",
+          "title": "Body Back (Deniz Koyu Remix)",
+          "remix": "",
+          "trackId": "8860368"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gryffin ft. Maia Wright",
+      "title": "Body Back (Deniz Koyu Remix)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8860368",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 2544,
+      "mediaIds": {
+        "spotify": "550838",
+        "youtube": "550838",
+        "soundcloud": "550838",
+        "appleMusic": "550838"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gryffin ft. Maia Wright",
+          "title": "Body Back (Deniz Koyu Remix)",
+          "remix": "",
+          "trackId": "8860368"
+        },
+        {
+          "artist": "Gryffin ft. Maia Wright",
+          "title": "Body Back (MitiS Remix)",
+          "remix": "",
+          "trackId": "8860369"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gryffin ft. Maia Wright",
+      "title": "Body Back (MitiS Remix)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8860369",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 2667,
+      "mediaIds": {
+        "spotify": "551760",
+        "youtube": "551760",
+        "soundcloud": "551760",
+        "appleMusic": "551760"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gryffin ft. Maia Wright",
+          "title": "Body Back (MitiS Remix)",
+          "remix": "",
+          "trackId": "8860369"
+        },
+        {
+          "artist": "Zomboy & MUST DIE!",
+          "title": "Last One Standing",
+          "remix": "",
+          "trackId": "8860370"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zomboy & MUST DIE!",
+      "title": "Last One Standing",
+      "remix": "",
+      "label": "ROTT N' ROLL",
+      "trackId": "8860370",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 2690,
+      "mediaIds": {
+        "spotify": "814340",
+        "youtube": "814340",
+        "soundcloud": "814340",
+        "appleMusic": "814340"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Gryffin ft. Bipolar Sunshine",
+      "title": "Whole Heart (Last Heroes Remix)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8860371",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2742,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Gryffin ft. Bipolar Sunshine",
+          "title": "Whole Heart (Last Heroes Remix)",
+          "remix": "",
+          "trackId": "8860371"
+        },
+        {
+          "artist": "Metrik",
+          "title": "Immortal",
+          "remix": "",
+          "trackId": "8860372"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Metrik",
+      "title": "Immortal",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "8860372",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 2845,
+      "mediaIds": {
+        "spotify": "867144",
+        "youtube": "867144",
+        "soundcloud": "867144",
+        "appleMusic": "867144"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Gryffin & Slippy ft. Calle Lehmann",
+      "title": "LONELY",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "8860373",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2927,
+      "mediaIds": {
+        "spotify": "945120",
+        "youtube": "945120",
+        "soundcloud": "945120",
+        "appleMusic": "945120"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Gryffin ft. Elley Duhé",
+      "title": "Tie Me Down",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8860374",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3035,
+      "mediaIds": {
+        "spotify": "434364",
+        "youtube": "434364",
+        "soundcloud": "434364",
+        "appleMusic": "434364"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gryffin ft. Elley Duhé",
+          "title": "Tie Me Down",
+          "remix": "",
+          "trackId": "8860374"
+        },
+        {
+          "artist": "W&W & AXMO ft. Haley Maze",
+          "title": "Rave Superstar",
+          "remix": "",
+          "trackId": "8863023"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "W&W & AXMO ft. Haley Maze",
+      "title": "Rave Superstar",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "8863023",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 3035,
+      "mediaIds": {
+        "spotify": "820882",
+        "youtube": "820882",
+        "soundcloud": "820882",
+        "appleMusic": "820882"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Gryffin & ILLENIUM ft. Daya",
+      "title": "Feel Good",
+      "remix": "(VIP Intro)",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8860375",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3232,
+      "mediaIds": {
+        "spotify": "349582",
+        "youtube": "349582",
+        "soundcloud": "349582",
+        "appleMusic": "349582"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Gryffin & ILLENIUM ft. Daya",
+      "title": "Feel Good",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "8860376",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3282,
+      "mediaIds": {
+        "spotify": "349582",
+        "youtube": "349582",
+        "soundcloud": "349582",
+        "appleMusic": "349582"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Gryffin",
+      "slug": "gryffin"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3297708",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=lv8Buoz5Lmo"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "3297694",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1478722894"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "3718316",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/UMFradio"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "3297482",
+      "idSource": "40",
+      "url": "https://hearthis.at/8564828/"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "3295255",
+      "idSource": "40",
+      "url": "https://hearthis.at/8532847/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:26:52.137Z",
+  "scrapeVersion": 2
+}

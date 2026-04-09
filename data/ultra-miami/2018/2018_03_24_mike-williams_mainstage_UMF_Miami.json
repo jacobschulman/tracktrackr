@@ -1,0 +1,899 @@
+{
+  "tlId": "2vfhyt3t",
+  "dj": "Mike Williams",
+  "stage": "Mainstage",
+  "date": "2018-03-24",
+  "year": 2018,
+  "genre": "Afro House",
+  "tracksIdentified": 40,
+  "tracksTotal": 41,
+  "duration": "58m",
+  "views": 121,
+  "likes": 19,
+  "url": "https://www.1001tracklists.com/tracklist/2vfhyt3t/mike-williams-mainstage-ultra-music-festival-miami-miami-music-week-united-states-2018-03-24.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Mike Williams",
+      "title": "The Beat",
+      "remix": "(Intro Edit)",
+      "label": "SPINNIN'",
+      "trackId": "3224301",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 9,
+      "mediaIds": {
+        "spotify": "427052",
+        "youtube": "427052",
+        "soundcloud": "427052",
+        "appleMusic": "427052"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mike Williams",
+          "title": "The Beat",
+          "remix": "(Intro Edit)",
+          "trackId": "3224301"
+        },
+        {
+          "artist": "Mike Williams ft. KABBA",
+          "title": "Give It Up",
+          "remix": "(Acappella)",
+          "trackId": "3224302"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mike Williams ft. KABBA",
+      "title": "Give It Up",
+      "remix": "(Acappella)",
+      "label": "SPINNIN'",
+      "trackId": "3224302",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "411083",
+        "youtube": "411083",
+        "soundcloud": "411083",
+        "appleMusic": "411083"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mike Williams ft. KABBA",
+          "title": "Give It Up",
+          "remix": "(Acappella)",
+          "trackId": "3224302"
+        },
+        {
+          "artist": "Ivan Gough & Feenixpawl ft. Georgi Kay",
+          "title": "In My Mind (Acappella)",
+          "remix": "",
+          "trackId": "3224303"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ivan Gough & Feenixpawl ft. Georgi Kay",
+      "title": "In My Mind (Acappella)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "3224303",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 124,
+      "mediaIds": {
+        "spotify": "58319",
+        "youtube": "120853",
+        "soundcloud": "58319",
+        "appleMusic": "58319"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Mike Williams & Brooks vs. Icona Pop & Charli XCX",
+      "title": "Jetlag vs. I Love It (WeDamnz Mashup)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)/SPINNIN'",
+      "trackId": "3224304",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 231,
+      "mediaIds": {
+        "youtube": "408299"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Sem Vox",
+      "title": "Waiting For You (Official DLDK Amsterdam 2017 Anthem)",
+      "remix": "",
+      "label": "DLDK MUSIC",
+      "trackId": "3224305",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 381,
+      "mediaIds": {
+        "spotify": "346601",
+        "youtube": "346601",
+        "soundcloud": "346601",
+        "appleMusic": "346601"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sem Vox",
+          "title": "Waiting For You (Official DLDK Amsterdam 2017 Anthem)",
+          "remix": "",
+          "trackId": "3224305"
+        },
+        {
+          "artist": "Mightyfools",
+          "title": "Footrocker (Get Your, Get Your Hands Up Acappella)",
+          "remix": "",
+          "trackId": "3410835"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mightyfools",
+      "title": "Footrocker (Get Your, Get Your Hands Up Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "3410835",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 497,
+      "mediaIds": {
+        "spotify": "137470",
+        "youtube": "145416",
+        "soundcloud": "137470",
+        "appleMusic": "137470"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Antoine Delvig & Felicity",
+      "title": "Jack That Body",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "3224306",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 512,
+      "mediaIds": {
+        "spotify": "401837",
+        "youtube": "401837",
+        "soundcloud": "401837",
+        "appleMusic": "401837"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Duck Sauce & Skrillex & Kill The Noise & Milo & Otis vs. Mike Williams",
+      "title": "NRG vs. Sweet & Sour",
+      "remix": "",
+      "label": "FOOL'S GOLD / MUSICAL FREEDOM",
+      "trackId": "3224307",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 542,
+      "mediaIds": {
+        "youtube": "3224307"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Lazy Jay",
+      "title": "Float My Boat (Bougenvilla Remix)",
+      "remix": "",
+      "label": "BIG & DIRTY (BE YOURSELF)",
+      "trackId": "3224309",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 700,
+      "mediaIds": {
+        "spotify": "394007",
+        "youtube": "394007",
+        "soundcloud": "394007",
+        "appleMusic": "394007"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lazy Jay",
+          "title": "Float My Boat (Bougenvilla Remix)",
+          "remix": "",
+          "trackId": "3224309"
+        },
+        {
+          "artist": "Justice vs. Simian",
+          "title": "We Are Your Friends (Acappella)",
+          "remix": "",
+          "trackId": "3224310"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice vs. Simian",
+      "title": "We Are Your Friends (Acappella)",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "3224310",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 718,
+      "mediaIds": {
+        "spotify": "8095",
+        "youtube": "8095",
+        "soundcloud": "3157",
+        "appleMusic": "8095"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Galantis",
+      "title": "Hunter (Mike Williams Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "3224311",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 760,
+      "mediaIds": {
+        "spotify": "361643",
+        "youtube": "361643",
+        "soundcloud": "361643",
+        "appleMusic": "361643"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Throttle ft. LunchMoney Lewis & Aston Merrygold",
+      "title": "Money Maker (Mike Williams Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "3224312",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 940,
+      "mediaIds": {
+        "spotify": "333487",
+        "youtube": "333487",
+        "soundcloud": "333487",
+        "appleMusic": "333487"
+      },
+      "blendGroup": [
+        {
+          "artist": "Throttle ft. LunchMoney Lewis & Aston Merrygold",
+          "title": "Money Maker (Mike Williams Remix)",
+          "remix": "",
+          "trackId": "3224312"
+        },
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "3224313"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+      "title": "Put Ya Fuckin Hands Up (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "3224313",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 974,
+      "mediaIds": {
+        "youtube": "16909",
+        "soundcloud": "16909"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Tommy Jayden vs. Migos ft. Lil Uzi Vert",
+      "title": "Bad Swirl (Mike Rush Mashup)",
+      "remix": "",
+      "label": "QUALITY CONTROL / STRANGE FRUITS",
+      "trackId": "3224314",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1030,
+      "mediaIds": {
+        "soundcloud": "3224314"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Felix Jaehn & Mike Williams ft. BullySongs",
+      "title": "Feel Good",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3224316",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1171,
+      "mediaIds": {
+        "spotify": "372134",
+        "youtube": "372134",
+        "soundcloud": "372134",
+        "appleMusic": "372134"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Lucas & Steve & Mike Williams x Curbi",
+      "title": "Let's Go",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3224317",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1320,
+      "mediaIds": {
+        "spotify": "364165",
+        "youtube": "364165",
+        "soundcloud": "364165",
+        "appleMusic": "364165"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lucas & Steve & Mike Williams x Curbi",
+          "title": "Let's Go",
+          "remix": "",
+          "trackId": "3224317"
+        },
+        {
+          "artist": "Fedde Le Grand",
+          "title": "Put Your Hands Up For Detroit (Acappella)",
+          "remix": "",
+          "trackId": "3226502"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fedde Le Grand",
+      "title": "Put Your Hands Up For Detroit (Acappella)",
+      "remix": "",
+      "label": "DATA REC. (MINISTRY OF SOUND)",
+      "trackId": "3226502",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1459,
+      "mediaIds": {
+        "spotify": "1206",
+        "youtube": "9801",
+        "soundcloud": "1206",
+        "appleMusic": "1206"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Selena Gomez & Marshmello vs. Mike Williams",
+      "title": "Wolves Melody (Lodato Bootleg)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/INTERSCOPE",
+      "trackId": "3224318",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1504,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "RetroVision",
+      "title": "Get Down",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "3224319",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1602,
+      "mediaIds": {
+        "spotify": "373393",
+        "youtube": "373393",
+        "soundcloud": "373393",
+        "appleMusic": "373393"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Mike Williams",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3224320",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1677,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Heads Will Roll (A-Trak Remix)",
+      "remix": "",
+      "label": "DGC",
+      "trackId": "3224321",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1752,
+      "mediaIds": {
+        "spotify": "11556",
+        "youtube": "11556",
+        "soundcloud": "11556",
+        "appleMusic": "11556"
+      },
+      "blendGroup": [
+        {
+          "artist": "Yeah Yeah Yeahs",
+          "title": "Heads Will Roll (A-Trak Remix)",
+          "remix": "",
+          "trackId": "3224321"
+        },
+        {
+          "artist": "Tommy Jayden",
+          "title": "Lush",
+          "remix": "",
+          "trackId": "3224322"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tommy Jayden",
+      "title": "Lush",
+      "remix": "",
+      "label": "ARMADA ZOUK",
+      "trackId": "3224322",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1811,
+      "mediaIds": {
+        "spotify": "374063",
+        "youtube": "374063",
+        "soundcloud": "374063",
+        "appleMusic": "374063"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tommy Jayden",
+          "title": "Lush",
+          "remix": "",
+          "trackId": "3224322"
+        },
+        {
+          "artist": "Hardwell & W&W",
+          "title": "Jumper (Acappella)",
+          "remix": "",
+          "trackId": "3410836"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hardwell & W&W",
+      "title": "Jumper (Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "3410836",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1809,
+      "mediaIds": {
+        "spotify": "153953",
+        "youtube": "153953",
+        "soundcloud": "125098",
+        "appleMusic": "125098"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hardwell & W&W",
+          "title": "Jumper (Acappella)",
+          "remix": "",
+          "trackId": "3410836"
+        },
+        {
+          "artist": "Will Sparks",
+          "title": "Ah Yeah! (Acappella)",
+          "remix": "",
+          "trackId": "3410837"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Will Sparks",
+      "title": "Ah Yeah! (Acappella)",
+      "remix": "",
+      "label": "HOUSE OF FUN",
+      "trackId": "3410837",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1810,
+      "mediaIds": {
+        "spotify": "113080",
+        "youtube": "113080",
+        "soundcloud": "113080",
+        "appleMusic": "113080"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Mike Williams ft. Brēzy",
+      "title": "Don't Hurt",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3224323",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1843,
+      "mediaIds": {
+        "spotify": "353219",
+        "youtube": "353219",
+        "soundcloud": "353219",
+        "appleMusic": "353219"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "R3HAB & Mike Williams ft. Mary Jane Smith",
+      "title": "Lullaby",
+      "remix": "",
+      "label": "CYB3RPVNK",
+      "trackId": "3224324",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1971,
+      "mediaIds": {
+        "spotify": "398328",
+        "youtube": "398328",
+        "soundcloud": "398328",
+        "appleMusic": "398328"
+      },
+      "blendGroup": [
+        {
+          "artist": "R3HAB & Mike Williams ft. Mary Jane Smith",
+          "title": "Lullaby",
+          "remix": "",
+          "trackId": "3224324"
+        },
+        {
+          "artist": "Jamie Lewis ft. Michael Watford",
+          "title": "For You (Put Your Hands Up In The Air Acappella)",
+          "remix": "",
+          "trackId": "3224325"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jamie Lewis ft. Michael Watford",
+      "title": "For You (Put Your Hands Up In The Air Acappella)",
+      "remix": "",
+      "label": "PURPLE MUSIC",
+      "trackId": "3224325",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 2085,
+      "mediaIds": {
+        "youtube": "14545"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Mike Williams",
+      "title": "Bambini",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "3224326",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2130,
+      "mediaIds": {
+        "spotify": "338092",
+        "youtube": "338092",
+        "soundcloud": "338092",
+        "appleMusic": "338092"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mike Williams",
+          "title": "Bambini",
+          "remix": "",
+          "trackId": "3224326"
+        },
+        {
+          "artist": "The Temper Trap",
+          "title": "Sweet Disposition (Acappella)",
+          "remix": "",
+          "trackId": "3224327"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Temper Trap",
+      "title": "Sweet Disposition (Acappella)",
+      "remix": "",
+      "label": "SONY BMG",
+      "trackId": "3224327",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 2131,
+      "mediaIds": {
+        "spotify": "5111",
+        "youtube": "5111",
+        "soundcloud": "5111",
+        "appleMusic": "5111"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Tiësto & Mike Williams",
+      "title": "I Want You",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/FREE",
+      "trackId": "3224328",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2242,
+      "mediaIds": {
+        "spotify": "316951",
+        "youtube": "316951",
+        "soundcloud": "316951",
+        "appleMusic": "316951"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Mike Williams ft. Robin Valo",
+      "title": "Feels Like Yesterday",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3224329",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2407,
+      "mediaIds": {
+        "spotify": "405224",
+        "youtube": "405224",
+        "soundcloud": "405224",
+        "appleMusic": "405224"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Mike Williams & Dastic",
+      "title": "You & I",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3224330",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2617,
+      "mediaIds": {
+        "spotify": "383543",
+        "youtube": "383543",
+        "soundcloud": "383543",
+        "appleMusic": "383543"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mike Williams & Dastic",
+          "title": "You & I",
+          "remix": "",
+          "trackId": "3224330"
+        },
+        {
+          "artist": "Mightyfools",
+          "title": "Footrocker (Get Your, Get Your Hands Up Acappella)",
+          "remix": "",
+          "trackId": "3410838"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mightyfools",
+      "title": "Footrocker (Get Your, Get Your Hands Up Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "3410838",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 2658,
+      "mediaIds": {
+        "spotify": "137470",
+        "youtube": "145416",
+        "soundcloud": "137470",
+        "appleMusic": "137470"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Mesto",
+      "title": "Back & Forth",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3224331",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2770,
+      "mediaIds": {
+        "spotify": "417031",
+        "youtube": "417031",
+        "soundcloud": "417031",
+        "appleMusic": "417031"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mesto",
+          "title": "Back & Forth",
+          "remix": "",
+          "trackId": "3224331"
+        },
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "3410839"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+      "title": "Put Ya Fuckin Hands Up (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "3410839",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 2818,
+      "mediaIds": {
+        "youtube": "16909",
+        "soundcloud": "16909"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Janieck",
+      "title": "Feel The Love (Mike Williams Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "3224332",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2852,
+      "mediaIds": {
+        "spotify": "325724",
+        "youtube": "325724",
+        "soundcloud": "325724",
+        "appleMusic": "325724"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "David Guetta & Martin Garrix & Brooks",
+      "title": "Like I Do",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "3224333",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3036,
+      "mediaIds": {
+        "spotify": "400746",
+        "youtube": "400746",
+        "soundcloud": "400746",
+        "appleMusic": "400746"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "The Police vs. Valentino Khan",
+      "title": "Message In A Bottle vs. Pump",
+      "remix": "",
+      "label": "A&M / MAD DECENT",
+      "trackId": "3224334",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3111,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Calvin Harris vs. Mike Williams",
+      "title": "Feel So Close vs. Rocket (Mike Williams Mashup)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)/DHARMA (SPINNIN')",
+      "trackId": "3224336",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3200,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "David Guetta & AFROJACK ft. Charli xcx & French Montana",
+      "title": "Dirty Sexy Money (KIIDA Remix)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "3224338",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3309,
+      "mediaIds": {
+        "spotify": "395538",
+        "youtube": "395538",
+        "soundcloud": "395538",
+        "appleMusic": "395538"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Mike Williams ft. KABBA",
+      "title": "Give It Up",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3224339",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3387,
+      "mediaIds": {
+        "spotify": "411083",
+        "youtube": "411083",
+        "soundcloud": "411083",
+        "appleMusic": "411083"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Mike Williams",
+      "slug": "mikewilliams"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "751005",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=tYJhW7dvLuA"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "753575",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/eyemax"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:31:56.610Z",
+  "scrapeVersion": 2
+}

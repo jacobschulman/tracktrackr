@@ -1,0 +1,3412 @@
+{
+  "tlId": "2gugs001",
+  "dj": "Wooli & Crankdat",
+  "stage": "Ultra Music Festival Miami",
+  "date": "2026-03-29",
+  "year": 2026,
+  "genre": "Afro House",
+  "tracksIdentified": 59,
+  "tracksTotal": 66,
+  "duration": "",
+  "views": 0,
+  "likes": 0,
+  "url": "https://www.1001tracklists.com/tracklist/2gugs001/wooli-crankdat-wankdat-worldwide-stage-ultra-music-festival-miami-united-states-2026-03-29.html",
+  "djs": [
+    {
+      "name": "Wooli",
+      "slug": "wooli"
+    },
+    {
+      "name": "Crankdat",
+      "slug": "crankdat"
+    }
+  ],
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Crankdat ft. SOFI",
+      "title": "Whiplash (Wooli Remix)",
+      "remix": "(Intro Edit)",
+      "label": "SELF RELEASED",
+      "trackId": "13679725",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 10,
+      "mediaIds": {
+        "appleMusic": "1105473"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Swedish House Mafia",
+      "title": "One",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "13679726",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 105,
+      "mediaIds": {
+        "spotify": "16112",
+        "youtube": "16112",
+        "soundcloud": "16112",
+        "appleMusic": "16112"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia",
+          "title": "One",
+          "remix": "",
+          "trackId": "13679726"
+        },
+        {
+          "artist": "Opus III",
+          "title": "It's A Fine Day (Acappella)",
+          "remix": "",
+          "trackId": "13679727"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Opus III",
+      "title": "It's A Fine Day (Acappella)",
+      "remix": "",
+      "label": "PWL",
+      "trackId": "13679727",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "6208",
+        "youtube": "6208",
+        "soundcloud": "6208",
+        "appleMusic": "6208"
+      },
+      "blendGroup": [
+        {
+          "artist": "Opus III",
+          "title": "It's A Fine Day (Acappella)",
+          "remix": "",
+          "trackId": "13679727"
+        },
+        {
+          "artist": "ISOxo",
+          "title": "FUCK THE SPEAKERZ UP (Crankdat Remix)",
+          "remix": "",
+          "trackId": "13679728"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ISOxo",
+      "title": "FUCK THE SPEAKERZ UP (Crankdat Remix)",
+      "remix": "",
+      "label": "H.C.D.",
+      "trackId": "13679728",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "03",
+      "artist": "Skrillex & ISOxo",
+      "title": "fuze (TRVCY Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13679729",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 215,
+      "mediaIds": {
+        "youtube": "1153875",
+        "soundcloud": "1153875"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Ship Wrek & Disco Lines",
+      "title": "I Don't Trust A Soul",
+      "remix": "(Acappella)",
+      "label": "EXPERTS ONLY",
+      "trackId": "13679730",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 269,
+      "mediaIds": {
+        "spotify": "1081606",
+        "youtube": "1081606",
+        "soundcloud": "1081606",
+        "appleMusic": "1081606"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ship Wrek & Disco Lines",
+          "title": "I Don't Trust A Soul",
+          "remix": "(Acappella)",
+          "trackId": "13679730"
+        },
+        {
+          "artist": "Wooli & HOL!",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13679731"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wooli & HOL!",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679731",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Wooli & HOL!",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13679731"
+        },
+        {
+          "artist": "New Order",
+          "title": "Blue Monday",
+          "remix": "(Sample)",
+          "trackId": "13679732"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "New Order",
+      "title": "Blue Monday",
+      "remix": "(Sample)",
+      "label": "FACTORY (WARNER MUSIC)",
+      "trackId": "13679732",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3264",
+        "youtube": "3264",
+        "soundcloud": "3264",
+        "appleMusic": "3264"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679733",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 309,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "DJ Khaled ft. Ludacris & Rick Ross & T-Pain & Snoop Dogg",
+      "title": "All I Do Is Win",
+      "remix": "",
+      "label": "E1 MUSIC",
+      "trackId": "13679734",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 357,
+      "mediaIds": {
+        "spotify": "52598",
+        "youtube": "52598",
+        "soundcloud": "52598",
+        "appleMusic": "52598"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Khaled ft. Ludacris & Rick Ross & T-Pain & Snoop Dogg",
+          "title": "All I Do Is Win",
+          "remix": "",
+          "trackId": "13679734"
+        },
+        {
+          "artist": "Wooli & MAD DUBZ",
+          "title": "Train Tune",
+          "remix": "",
+          "trackId": "13679735"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wooli & MAD DUBZ",
+      "title": "Train Tune",
+      "remix": "",
+      "label": "WOOLI MUSIC",
+      "trackId": "13679735",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1149488",
+        "youtube": "1149488",
+        "soundcloud": "1149488",
+        "appleMusic": "1149488"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wooli & MAD DUBZ",
+          "title": "Train Tune",
+          "remix": "",
+          "trackId": "13679735"
+        },
+        {
+          "artist": "Phiso",
+          "title": "Pattern Screamer",
+          "remix": "",
+          "trackId": "13679736"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Phiso",
+      "title": "Pattern Screamer",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "13679736",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "447685",
+        "youtube": "447685",
+        "soundcloud": "447685",
+        "appleMusic": "447685"
+      },
+      "blendGroup": [
+        {
+          "artist": "Phiso",
+          "title": "Pattern Screamer",
+          "remix": "",
+          "trackId": "13679736"
+        },
+        {
+          "artist": "DEAD APOSTLE & Hassan",
+          "title": "Zabaniya",
+          "remix": "",
+          "trackId": "13679737"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DEAD APOSTLE & Hassan",
+      "title": "Zabaniya",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13679737",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "470055",
+        "soundcloud": "470055"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "ABBA",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "13679738",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 492,
+      "mediaIds": {
+        "spotify": "170918",
+        "youtube": "170918",
+        "soundcloud": "170918",
+        "appleMusic": "170918"
+      },
+      "blendGroup": [
+        {
+          "artist": "ABBA",
+          "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+          "remix": "",
+          "trackId": "13679738"
+        },
+        {
+          "artist": "Zomboy",
+          "title": "Like A Bitch (Acappella)",
+          "remix": "",
+          "trackId": "13679739"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zomboy",
+      "title": "Like A Bitch (Acappella)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "13679739",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "349131",
+        "youtube": "349131",
+        "soundcloud": "349131",
+        "appleMusic": "349131"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zomboy",
+          "title": "Like A Bitch (Acappella)",
+          "remix": "",
+          "trackId": "13679739"
+        },
+        {
+          "artist": "Dabin & Kai Wachi & Lø Spirit",
+          "title": "Hollow (Crankdat Remix)",
+          "remix": "",
+          "trackId": "13679740"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dabin & Kai Wachi & Lø Spirit",
+      "title": "Hollow (Crankdat Remix)",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "13679740",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "913039",
+        "youtube": "913039",
+        "soundcloud": "913039",
+        "appleMusic": "913039"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Wooli & Cyclops",
+      "title": "Jazz Cabbage",
+      "remix": "",
+      "label": "WOOLI MUSIC",
+      "trackId": "13679741",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 545,
+      "mediaIds": {
+        "spotify": "1152963",
+        "youtube": "1152963",
+        "soundcloud": "1152963",
+        "appleMusic": "1152963"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Wiz Khalifa",
+      "title": "Black And Yellow (Levity & Crankdat Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "13679742",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 598,
+      "mediaIds": {
+        "soundcloud": "1147189"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Wooli & Tape B",
+      "title": "Dopamine",
+      "remix": "",
+      "label": "WOOLI MUSIC",
+      "trackId": "13679743",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 689,
+      "mediaIds": {
+        "spotify": "930800",
+        "youtube": "930800",
+        "soundcloud": "930800",
+        "appleMusic": "930800"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wooli & Tape B",
+          "title": "Dopamine",
+          "remix": "",
+          "trackId": "13679743"
+        },
+        {
+          "artist": "Kompany & Wooli",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13679744"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kompany & Wooli",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679744",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "11",
+      "artist": "Mau P",
+      "title": "Drugs From Amsterdam",
+      "remix": "",
+      "label": "REPOPULATE MARS",
+      "trackId": "13679745",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 806,
+      "mediaIds": {
+        "spotify": "810826",
+        "youtube": "810826",
+        "soundcloud": "810826",
+        "appleMusic": "810826"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mau P",
+          "title": "Drugs From Amsterdam",
+          "remix": "",
+          "trackId": "13679745"
+        },
+        {
+          "artist": "Subtronics",
+          "title": "Amnesia (Wooli Remix)",
+          "remix": "",
+          "trackId": "13679746"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Subtronics",
+      "title": "Amnesia (Wooli Remix)",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "13679746",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "12",
+      "artist": "Space Laces",
+      "title": "KEEP IT COOL",
+      "remix": "",
+      "label": "HIGH VAULTAGE",
+      "trackId": "13679747",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 863,
+      "mediaIds": {
+        "spotify": "1078901",
+        "youtube": "1078901",
+        "appleMusic": "1078901"
+      },
+      "blendGroup": [
+        {
+          "artist": "Space Laces",
+          "title": "KEEP IT COOL",
+          "remix": "",
+          "trackId": "13679747"
+        },
+        {
+          "artist": "Gwen Stefani",
+          "title": "Hollaback Girl (Acappella)",
+          "remix": "",
+          "trackId": "13679869"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gwen Stefani",
+      "title": "Hollaback Girl (Acappella)",
+      "remix": "",
+      "label": "JANGO (WORMLAND)",
+      "trackId": "13679869",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2153",
+        "youtube": "2153",
+        "soundcloud": "2153",
+        "appleMusic": "2153"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gwen Stefani",
+          "title": "Hollaback Girl (Acappella)",
+          "remix": "",
+          "trackId": "13679869"
+        },
+        {
+          "artist": "Wooli & Calcium",
+          "title": "Restraint",
+          "remix": "",
+          "trackId": "13679748"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wooli & Calcium",
+      "title": "Restraint",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "13679748",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "837376",
+        "youtube": "837376",
+        "soundcloud": "837376",
+        "appleMusic": "837376"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wooli & Calcium",
+          "title": "Restraint",
+          "remix": "",
+          "trackId": "13679748"
+        },
+        {
+          "artist": "Rick Ross ft. Styles P",
+          "title": "B.M.F. (Blowin' Money Fast) (Acappella)",
+          "remix": "",
+          "trackId": "13679749"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rick Ross ft. Styles P",
+      "title": "B.M.F. (Blowin' Money Fast) (Acappella)",
+      "remix": "",
+      "label": "MAYBACH",
+      "trackId": "13679749",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "52593",
+        "youtube": "76161",
+        "soundcloud": "52593",
+        "appleMusic": "52593"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Yung Joc ft. Nitti",
+      "title": "It's Goin' Down (Crankdat & BIG FLORIDA Remix)",
+      "remix": "",
+      "label": "BAD BOYS (INTERSCOPE)",
+      "trackId": "13679750",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 948,
+      "mediaIds": {
+        "youtube": "1098962",
+        "soundcloud": "1098962"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Wooli & Subtronics",
+      "title": "Hallelujah",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "13679751",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 998,
+      "mediaIds": {
+        "spotify": "1020523",
+        "youtube": "1020523",
+        "soundcloud": "1020523",
+        "appleMusic": "1020523"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wooli & Subtronics",
+          "title": "Hallelujah",
+          "remix": "",
+          "trackId": "13679751"
+        },
+        {
+          "artist": "Sam Smith ft. Kim Petras",
+          "title": "Unholy",
+          "remix": "(Acappella)",
+          "trackId": "13679752"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sam Smith ft. Kim Petras",
+      "title": "Unholy",
+      "remix": "(Acappella)",
+      "label": "CAPITOL (EMI)",
+      "trackId": "13679752",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "828410",
+        "youtube": "828410",
+        "soundcloud": "828410",
+        "appleMusic": "828410"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone",
+      "remix": "",
+      "label": "VIOLENT",
+      "trackId": "13679753",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1071,
+      "mediaIds": {
+        "spotify": "30450",
+        "youtube": "30450",
+        "soundcloud": "30450",
+        "appleMusic": "30450"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alice Deejay",
+          "title": "Better Off Alone",
+          "remix": "",
+          "trackId": "13679753"
+        },
+        {
+          "artist": "John Summit",
+          "title": "LIGHTS GO OUT",
+          "remix": "(Acappella)",
+          "trackId": "13679754"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "John Summit",
+      "title": "LIGHTS GO OUT",
+      "remix": "(Acappella)",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13679754",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1147377",
+        "youtube": "1147377",
+        "soundcloud": "1147377",
+        "appleMusic": "1147377"
+      },
+      "blendGroup": [
+        {
+          "artist": "John Summit",
+          "title": "LIGHTS GO OUT",
+          "remix": "(Acappella)",
+          "trackId": "13679754"
+        },
+        {
+          "artist": "Crankdat & NGHTMRE ft. Duke Deuce",
+          "title": "TYPE SH*T",
+          "remix": "",
+          "trackId": "13679755"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Crankdat & NGHTMRE ft. Duke Deuce",
+      "title": "TYPE SH*T",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13679755",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1078105",
+        "youtube": "1078105",
+        "soundcloud": "1078105",
+        "appleMusic": "1078105"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Crankdat & NGHTMRE ft. Duke Deuce",
+      "title": "TYPE SH*T (ERGOSUM Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13679756",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1154,
+      "mediaIds": {
+        "soundcloud": "1150717"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Steve Angello & Laidback Luke ft. Robin S",
+      "title": "Show Me Love",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "13679757",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1200,
+      "mediaIds": {
+        "spotify": "1489",
+        "youtube": "1489",
+        "soundcloud": "1489",
+        "appleMusic": "1489"
+      },
+      "blendGroup": [
+        {
+          "artist": "Steve Angello & Laidback Luke ft. Robin S",
+          "title": "Show Me Love",
+          "remix": "",
+          "trackId": "13679757"
+        },
+        {
+          "artist": "Excision & Wooli",
+          "title": "Titans",
+          "remix": "",
+          "trackId": "13679758"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Wooli",
+      "title": "Titans",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "13679758",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "854879",
+        "youtube": "854879",
+        "soundcloud": "854879",
+        "appleMusic": "854879"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Pitbull & Lil Jon",
+      "title": "Damn I Love Miami",
+      "remix": "",
+      "label": "MR. 305",
+      "trackId": "13679759",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1299,
+      "mediaIds": {
+        "spotify": "1163589",
+        "youtube": "1163589",
+        "appleMusic": "1163589"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pitbull & Lil Jon",
+          "title": "Damn I Love Miami",
+          "remix": "",
+          "trackId": "13679759"
+        },
+        {
+          "artist": "Crankdat ft. SOFI",
+          "title": "Whiplash",
+          "remix": "",
+          "trackId": "13679760"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Crankdat ft. SOFI",
+      "title": "Whiplash",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13679760",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1077570",
+        "youtube": "1077570",
+        "soundcloud": "1077570",
+        "appleMusic": "1077570"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Levity",
+      "title": "Front To Back",
+      "remix": "(Acappella)",
+      "label": "ULTRA",
+      "trackId": "13679761",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1401,
+      "mediaIds": {
+        "spotify": "981293",
+        "youtube": "981293",
+        "soundcloud": "981293",
+        "appleMusic": "981293"
+      },
+      "blendGroup": [
+        {
+          "artist": "Levity",
+          "title": "Front To Back",
+          "remix": "(Acappella)",
+          "trackId": "13679761"
+        },
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff",
+          "remix": "",
+          "trackId": "13679762"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Ghosts 'n' Stuff",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "13679762",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1761",
+        "youtube": "1761",
+        "soundcloud": "1761",
+        "appleMusic": "1761"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff",
+          "remix": "",
+          "trackId": "13679762"
+        },
+        {
+          "artist": "Knock2",
+          "title": "feel U luv Me (Crankdat Remix)",
+          "remix": "",
+          "trackId": "13679763"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knock2",
+      "title": "feel U luv Me (Crankdat Remix)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "13679763",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "20",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Ghosts 'n' Stuff (Wooli & Levity Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "13679764",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1489,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Crankdat",
+      "title": "Movement",
+      "remix": "(Live Edit)",
+      "label": "CRANK IT UP!",
+      "trackId": "13679765",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1616,
+      "mediaIds": {
+        "spotify": "1145924",
+        "youtube": "1145924",
+        "soundcloud": "1145924",
+        "appleMusic": "1145924"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Crankdat",
+      "title": "Movement (Kompany & Wooli Remix)",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "13679766",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1663,
+      "mediaIds": {
+        "spotify": "1152122",
+        "youtube": "1152122",
+        "soundcloud": "1152122",
+        "appleMusic": "1152122"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Dom Dolla ft. Clementine Douglas",
+      "title": "Miracle Maker",
+      "remix": "",
+      "label": "THREE SIX ZERO/SONY",
+      "trackId": "13679767",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1726,
+      "mediaIds": {
+        "spotify": "791747",
+        "youtube": "791747",
+        "soundcloud": "791747",
+        "appleMusic": "791747"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dom Dolla ft. Clementine Douglas",
+          "title": "Miracle Maker",
+          "remix": "",
+          "trackId": "13679767"
+        },
+        {
+          "artist": "Flux Pavilion",
+          "title": "Bass Cannon (Crankdat Remix)",
+          "remix": "",
+          "trackId": "13679768"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flux Pavilion",
+      "title": "Bass Cannon (Crankdat Remix)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "13679768",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1095844",
+        "youtube": "1095844",
+        "soundcloud": "1095844"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flux Pavilion",
+          "title": "Bass Cannon (Crankdat Remix)",
+          "remix": "",
+          "trackId": "13679768"
+        },
+        {
+          "artist": "Ray Volpe",
+          "title": "See You Drop",
+          "remix": "(Acappella)",
+          "trackId": "13679769"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ray Volpe",
+      "title": "See You Drop",
+      "remix": "(Acappella)",
+      "label": "MONSTERCAT",
+      "trackId": "13679769",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "977019",
+        "youtube": "977019",
+        "soundcloud": "977019",
+        "appleMusic": "977019"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Excision & Wooli",
+      "title": "Lockdown",
+      "remix": "",
+      "label": "EXCISION",
+      "trackId": "13679770",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1813,
+      "mediaIds": {
+        "spotify": "515655",
+        "youtube": "515655",
+        "soundcloud": "515655",
+        "appleMusic": "515655"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Wooli",
+          "title": "Lockdown",
+          "remix": "",
+          "trackId": "13679770"
+        },
+        {
+          "artist": "Ray Volpe",
+          "title": "See You Drop",
+          "remix": "(Acappella)",
+          "trackId": "13679771"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ray Volpe",
+      "title": "See You Drop",
+      "remix": "(Acappella)",
+      "label": "MONSTERCAT",
+      "trackId": "13679771",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "977019",
+        "youtube": "977019",
+        "soundcloud": "977019",
+        "appleMusic": "977019"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ray Volpe",
+          "title": "See You Drop",
+          "remix": "(Acappella)",
+          "trackId": "13679771"
+        },
+        {
+          "artist": "Subtronics & HOL!",
+          "title": "MIND PLUCK",
+          "remix": "",
+          "trackId": "13679772"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Subtronics & HOL!",
+      "title": "MIND PLUCK",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "13679772",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "892773",
+        "youtube": "892773",
+        "soundcloud": "892773",
+        "appleMusic": "892773"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Waka Flocka Flame",
+      "title": "Hard In Da Paint (Crankdat Remix)",
+      "remix": "",
+      "label": "1017 BRICK SQUAD",
+      "trackId": "13679773",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 1885,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Waka Flocka Flame",
+          "title": "Hard In Da Paint (Crankdat Remix)",
+          "remix": "",
+          "trackId": "13679773"
+        },
+        {
+          "artist": "TYNAN & Kompany",
+          "title": "on fire",
+          "remix": "",
+          "trackId": "13679774"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TYNAN & Kompany",
+      "title": "on fire",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "13679774",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1134234",
+        "youtube": "1134234",
+        "soundcloud": "1134234",
+        "appleMusic": "1134234"
+      },
+      "blendGroup": [
+        {
+          "artist": "TYNAN & Kompany",
+          "title": "on fire",
+          "remix": "",
+          "trackId": "13679774"
+        },
+        {
+          "artist": "Crankdat",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13679775"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Crankdat",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679775",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "26",
+      "artist": "Wooli",
+      "title": "Throw It Up (VIP)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13679776",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 1960,
+      "mediaIds": {
+        "youtube": "931976",
+        "soundcloud": "931976"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wooli",
+          "title": "Throw It Up (VIP)",
+          "remix": "",
+          "trackId": "13679776"
+        },
+        {
+          "artist": "Subfiltronik ft. Skullion Shadez",
+          "title": "Passout",
+          "remix": "",
+          "trackId": "13679777"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Subfiltronik ft. Skullion Shadez",
+      "title": "Passout",
+      "remix": "",
+      "label": "DUPLOC",
+      "trackId": "13679777",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "394575",
+        "youtube": "394575",
+        "soundcloud": "394575"
+      },
+      "blendGroup": [
+        {
+          "artist": "Subfiltronik ft. Skullion Shadez",
+          "title": "Passout",
+          "remix": "",
+          "trackId": "13679777"
+        },
+        {
+          "artist": "Excision & Wooli",
+          "title": "Name Drop (VIP)",
+          "remix": "",
+          "trackId": "13679778"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Wooli",
+      "title": "Name Drop (VIP)",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "13679778",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "872283",
+        "soundcloud": "872283"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "KAYZO",
+      "title": "This Time (GOMMI & TYEGUYS Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13679779",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2072,
+      "mediaIds": {
+        "youtube": "371100",
+        "soundcloud": "371100"
+      },
+      "blendGroup": [
+        {
+          "artist": "KAYZO",
+          "title": "This Time (GOMMI & TYEGUYS Remix)",
+          "remix": "",
+          "trackId": "13679779"
+        },
+        {
+          "artist": "Excision & Wooli ft. Sam King",
+          "title": "Evolution",
+          "remix": "(Acappella)",
+          "trackId": "13679780"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Wooli ft. Sam King",
+      "title": "Evolution",
+      "remix": "(Acappella)",
+      "label": "EXCISION",
+      "trackId": "13679780",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "520643",
+        "youtube": "520643",
+        "soundcloud": "520643",
+        "appleMusic": "520643"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Wooli ft. Sam King",
+          "title": "Evolution",
+          "remix": "(Acappella)",
+          "trackId": "13679780"
+        },
+        {
+          "artist": "HIVEMIND",
+          "title": "EXE",
+          "remix": "",
+          "trackId": "13679781"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "HIVEMIND",
+      "title": "EXE",
+      "remix": "",
+      "label": "STINGER SOUNDS",
+      "trackId": "13679781",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1073975",
+        "youtube": "1073975",
+        "soundcloud": "1073975",
+        "appleMusic": "1073975"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Kendrick Lamar",
+      "title": "DNA.",
+      "remix": "(Acappella)",
+      "label": "TOP DAWG",
+      "trackId": "13679782",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2114,
+      "mediaIds": {
+        "spotify": "356812",
+        "youtube": "356812",
+        "soundcloud": "356812",
+        "appleMusic": "356812"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kendrick Lamar",
+          "title": "DNA.",
+          "remix": "(Acappella)",
+          "trackId": "13679782"
+        },
+        {
+          "artist": "Sheck Wes",
+          "title": "Mo Bamba (Crankdat Re-Crank)",
+          "remix": "",
+          "trackId": "13679783"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sheck Wes",
+      "title": "Mo Bamba (Crankdat Re-Crank)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13679783",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "450544",
+        "soundcloud": "450544"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sheck Wes",
+          "title": "Mo Bamba (Crankdat Re-Crank)",
+          "remix": "",
+          "trackId": "13679783"
+        },
+        {
+          "artist": "Wooli & Crankdat",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13679784"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wooli & Crankdat",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679784",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Wooli & Crankdat",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13679784"
+        },
+        {
+          "artist": "Technotronic",
+          "title": "Pump Up The Jam",
+          "remix": "",
+          "trackId": "13679785"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Technotronic",
+      "title": "Pump Up The Jam",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "13679785",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5108",
+        "youtube": "5108",
+        "soundcloud": "5108",
+        "appleMusic": "5108"
+      },
+      "blendGroup": [
+        {
+          "artist": "Technotronic",
+          "title": "Pump Up The Jam",
+          "remix": "",
+          "trackId": "13679785"
+        },
+        {
+          "artist": "Reel 2 Real ft. The Mad Stuntman",
+          "title": "I Like To Move It",
+          "remix": "(Sample)",
+          "trackId": "13679786"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Reel 2 Real ft. The Mad Stuntman",
+      "title": "I Like To Move It",
+      "remix": "(Sample)",
+      "label": "STRICTLY RHYTHM",
+      "trackId": "13679786",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3068",
+        "youtube": "3068",
+        "soundcloud": "3068",
+        "appleMusic": "3068"
+      }
+    },
+    {
+      "pos": "29",
+      "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+      "title": "Tremor (Sensation 2014 Anthem)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "13679787",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2214,
+      "mediaIds": {
+        "spotify": "167281",
+        "youtube": "167281",
+        "soundcloud": "167281",
+        "appleMusic": "167281"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+          "title": "Tremor (Sensation 2014 Anthem)",
+          "remix": "",
+          "trackId": "13679787"
+        },
+        {
+          "artist": "Samplifire & YAKZ",
+          "title": "Menticide (Wooli Remix)",
+          "remix": "",
+          "trackId": "13679788"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Samplifire & YAKZ",
+      "title": "Menticide (Wooli Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "13679788",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "955871",
+        "soundcloud": "955871"
+      },
+      "blendGroup": [
+        {
+          "artist": "Samplifire & YAKZ",
+          "title": "Menticide (Wooli Remix)",
+          "remix": "",
+          "trackId": "13679788"
+        },
+        {
+          "artist": "Basement Jaxx",
+          "title": "Where's Your Head At? (Acappella)",
+          "remix": "",
+          "trackId": "13679789"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Basement Jaxx",
+      "title": "Where's Your Head At? (Acappella)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "13679789",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5190",
+        "youtube": "10129",
+        "soundcloud": "5190",
+        "appleMusic": "5190"
+      },
+      "blendGroup": [
+        {
+          "artist": "Basement Jaxx",
+          "title": "Where's Your Head At? (Acappella)",
+          "remix": "",
+          "trackId": "13679789"
+        },
+        {
+          "artist": "DJ Fresh ft. Sian Evans",
+          "title": "Louder (Acappella)",
+          "remix": "",
+          "trackId": "13679790"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Fresh ft. Sian Evans",
+      "title": "Louder (Acappella)",
+      "remix": "",
+      "label": "MINISTRY OF SOUND",
+      "trackId": "13679790",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "36024",
+        "youtube": "36024",
+        "soundcloud": "36024",
+        "appleMusic": "36024"
+      }
+    },
+    {
+      "pos": "30",
+      "artist": "Fred again.. & Skepta & PlaqueBoyMax",
+      "title": "Victory Lap (Crankdat Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "13679791",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2278,
+      "mediaIds": {
+        "youtube": "1137664",
+        "soundcloud": "1137664"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fred again.. & Skepta & PlaqueBoyMax",
+          "title": "Victory Lap (Crankdat Remix)",
+          "remix": "",
+          "trackId": "13679791"
+        },
+        {
+          "artist": "Yo Majesty",
+          "title": "Club Action (Smookie Illson Bootleg)",
+          "remix": "",
+          "trackId": "13679792"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Yo Majesty",
+      "title": "Club Action (Smookie Illson Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13679792",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "150661",
+        "soundcloud": "150661"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+      "title": "Tremor (Sensation 2014 Anthem) (Crankdat Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "13679793",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2318,
+      "mediaIds": {
+        "youtube": "1111103",
+        "soundcloud": "1111103"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Heads Will Roll (A-Trak Remix)",
+      "remix": "",
+      "label": "DGC",
+      "trackId": "13679794",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2378,
+      "mediaIds": {
+        "spotify": "11556",
+        "youtube": "11556",
+        "soundcloud": "11556",
+        "appleMusic": "11556"
+      },
+      "blendGroup": [
+        {
+          "artist": "Yeah Yeah Yeahs",
+          "title": "Heads Will Roll (A-Trak Remix)",
+          "remix": "",
+          "trackId": "13679794"
+        },
+        {
+          "artist": "Wooli",
+          "title": "Wackman",
+          "remix": "",
+          "trackId": "13679795"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wooli",
+      "title": "Wackman",
+      "remix": "",
+      "label": "WOOLI MUSIC",
+      "trackId": "13679795",
+      "row": 32,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1057214",
+        "youtube": "1057214",
+        "soundcloud": "1057214",
+        "appleMusic": "1057214"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wooli",
+          "title": "Wackman",
+          "remix": "",
+          "trackId": "13679795"
+        },
+        {
+          "artist": "Excision & Space Laces",
+          "title": "1 On 1",
+          "remix": "",
+          "trackId": "13679796"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Space Laces",
+      "title": "1 On 1",
+      "remix": "",
+      "label": "EXCISION",
+      "trackId": "13679796",
+      "row": 32,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "429255",
+        "youtube": "429255",
+        "soundcloud": "429255",
+        "appleMusic": "429255"
+      }
+    },
+    {
+      "pos": "33",
+      "artist": "French Montana ft. Rick Ross & Drake & Lil Wayne",
+      "title": "Pop That (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "13679797",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 2452,
+      "mediaIds": {
+        "spotify": "129779",
+        "youtube": "129779",
+        "soundcloud": "129779",
+        "appleMusic": "129779"
+      },
+      "blendGroup": [
+        {
+          "artist": "French Montana ft. Rick Ross & Drake & Lil Wayne",
+          "title": "Pop That (Acappella)",
+          "remix": "",
+          "trackId": "13679797"
+        },
+        {
+          "artist": "Lady GaGa ft. Colby O'Donis",
+          "title": "Just Dance",
+          "remix": "(Acappella)",
+          "trackId": "13679798"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lady GaGa ft. Colby O'Donis",
+      "title": "Just Dance",
+      "remix": "(Acappella)",
+      "label": "INTERSCOPE",
+      "trackId": "13679798",
+      "row": 33,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "12775",
+        "youtube": "12775",
+        "soundcloud": "12775",
+        "appleMusic": "12775"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lady GaGa ft. Colby O'Donis",
+          "title": "Just Dance",
+          "remix": "(Acappella)",
+          "trackId": "13679798"
+        },
+        {
+          "artist": "Mau P",
+          "title": "Drugs From Amsterdam",
+          "remix": "",
+          "trackId": "13679799"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mau P",
+      "title": "Drugs From Amsterdam",
+      "remix": "",
+      "label": "REPOPULATE MARS",
+      "trackId": "13679799",
+      "row": 33,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "810826",
+        "youtube": "810826",
+        "soundcloud": "810826",
+        "appleMusic": "810826"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mau P",
+          "title": "Drugs From Amsterdam",
+          "remix": "",
+          "trackId": "13679799"
+        },
+        {
+          "artist": "A$AP Ferg ft. A$AP Rocky & French Montana & Schoolboy Q & Trinidad James",
+          "title": "Work (Remix) (Crankdat Remix)",
+          "remix": "",
+          "trackId": "13679800"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "A$AP Ferg ft. A$AP Rocky & French Montana & Schoolboy Q & Trinidad James",
+      "title": "Work (Remix) (Crankdat Remix)",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "13679800",
+      "row": 33,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1097797",
+        "soundcloud": "1097797"
+      }
+    },
+    {
+      "pos": "34",
+      "artist": "EsDeeKid",
+      "title": "4 Raws",
+      "remix": "",
+      "label": "XV/LIZZY",
+      "trackId": "13679801",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 2567,
+      "mediaIds": {
+        "spotify": "1135947",
+        "youtube": "1135947",
+        "soundcloud": "1135947",
+        "appleMusic": "1135947"
+      },
+      "blendGroup": [
+        {
+          "artist": "EsDeeKid",
+          "title": "4 Raws",
+          "remix": "",
+          "trackId": "13679801"
+        },
+        {
+          "artist": "John Summit & Subtronics & Tape B ft. Sage The Gemini",
+          "title": "Gas Pedal (Crankdat Remix)",
+          "remix": "",
+          "trackId": "13679802"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "John Summit & Subtronics & Tape B ft. Sage The Gemini",
+      "title": "Gas Pedal (Crankdat Remix)",
+      "remix": "",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13679802",
+      "row": 34,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1111104",
+        "soundcloud": "1111104"
+      }
+    },
+    {
+      "pos": "35",
+      "artist": "Wooli & Shank Aaron & MACHAKI & ProbCause & Effin",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679803",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 2628,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Wooli & Shank Aaron & MACHAKI & ProbCause & Effin",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13679803"
+        },
+        {
+          "artist": "Sheck Wes",
+          "title": "Mo Bamba",
+          "remix": "(Acappella)",
+          "trackId": "13679804"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sheck Wes",
+      "title": "Mo Bamba",
+      "remix": "(Acappella)",
+      "label": "CACTUS JACK",
+      "trackId": "13679804",
+      "row": 35,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "414142",
+        "youtube": "414142",
+        "soundcloud": "414142",
+        "appleMusic": "414142"
+      }
+    },
+    {
+      "pos": "36",
+      "artist": "GRiZ & Wooli",
+      "title": "ID",
+      "remix": "(It's Chili Time)",
+      "label": "",
+      "trackId": "13679805",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 2701,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Wooli & Subtronics",
+      "title": "Lock In",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "13679806",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 2755,
+      "mediaIds": {
+        "spotify": "1079282",
+        "youtube": "1079282",
+        "soundcloud": "1079282",
+        "appleMusic": "1079282"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wooli & Subtronics",
+          "title": "Lock In",
+          "remix": "",
+          "trackId": "13679806"
+        },
+        {
+          "artist": "Wooli & Subtronics",
+          "title": "Lock In (VIP)",
+          "remix": "",
+          "trackId": "13679807"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wooli & Subtronics",
+      "title": "Lock In (VIP)",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "13679807",
+      "row": 37,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "38",
+      "artist": "Marshmello & Space Laces",
+      "title": "Rave Repeater",
+      "remix": "",
+      "label": "JOYTIME COLLECTIVE",
+      "trackId": "13679808",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 2810,
+      "mediaIds": {
+        "spotify": "1058254",
+        "youtube": "1058254",
+        "soundcloud": "1058254",
+        "appleMusic": "1058254"
+      },
+      "blendGroup": [
+        {
+          "artist": "Marshmello & Space Laces",
+          "title": "Rave Repeater",
+          "remix": "",
+          "trackId": "13679808"
+        },
+        {
+          "artist": "GloRilla ft. Sexyy Red",
+          "title": "WHATCHU KNO ABOUT ME",
+          "remix": "(Acappella)",
+          "trackId": "13679809"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GloRilla ft. Sexyy Red",
+      "title": "WHATCHU KNO ABOUT ME",
+      "remix": "(Acappella)",
+      "label": "CMG",
+      "trackId": "13679809",
+      "row": 38,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1044318",
+        "youtube": "1044318",
+        "soundcloud": "1044318",
+        "appleMusic": "1044318"
+      },
+      "blendGroup": [
+        {
+          "artist": "GloRilla ft. Sexyy Red",
+          "title": "WHATCHU KNO ABOUT ME",
+          "remix": "(Acappella)",
+          "trackId": "13679809"
+        },
+        {
+          "artist": "Kill The Noise ft. Mercedes",
+          "title": "Jump Ya Body (Badfella Flip N Dip)",
+          "remix": "",
+          "trackId": "13679810"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kill The Noise ft. Mercedes",
+      "title": "Jump Ya Body (Badfella Flip N Dip)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "13679810",
+      "row": 38,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "954228",
+        "soundcloud": "954228"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kill The Noise ft. Mercedes",
+          "title": "Jump Ya Body (Badfella Flip N Dip)",
+          "remix": "",
+          "trackId": "13679810"
+        },
+        {
+          "artist": "Wooli & Crankdat",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13679811"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wooli & Crankdat",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679811",
+      "row": 38,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "39",
+      "artist": "Black Eyed Peas",
+      "title": "Let's Get It Started (Levity & Crankdat Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13679812",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 2933,
+      "mediaIds": {
+        "youtube": "1109517",
+        "soundcloud": "1109517"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679813",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 3005,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "Dr. Dre ft. Snoop Dogg & Kurupt & Nate Dogg",
+      "title": "The Next Episode (Wooli VIP Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13679814",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 3044,
+      "mediaIds": {
+        "youtube": "1026421",
+        "soundcloud": "1026421"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "50 Cent ft. Olivia",
+      "title": "Candy Shop (Crankdat Remix)",
+      "remix": "",
+      "label": "SHADY (INTERSCOPE)",
+      "trackId": "13679815",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 3111,
+      "mediaIds": {
+        "spotify": "1081402",
+        "youtube": "1081402",
+        "soundcloud": "1081402",
+        "appleMusic": "1081402"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "43",
+      "artist": "Ciara ft. Petey Pablo",
+      "title": "Goodies (ALLEYCVT & Crankdat Remix)",
+      "remix": "",
+      "label": "LAFACE",
+      "trackId": "13679816",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 3195,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Ciara ft. Petey Pablo",
+          "title": "Goodies (ALLEYCVT & Crankdat Remix)",
+          "remix": "",
+          "trackId": "13679816"
+        },
+        {
+          "artist": "Dillon Francis & DJ Snake",
+          "title": "Get Low(Co-Prod. by Tchami) (Acappella)",
+          "remix": "",
+          "trackId": "13679817"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dillon Francis & DJ Snake",
+      "title": "Get Low(Co-Prod. by Tchami) (Acappella)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "13679817",
+      "row": 43,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "154490",
+        "youtube": "154490",
+        "soundcloud": "154490",
+        "appleMusic": "154490"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dillon Francis & DJ Snake",
+          "title": "Get Low(Co-Prod. by Tchami) (Acappella)",
+          "remix": "",
+          "trackId": "13679817"
+        },
+        {
+          "artist": "Diplo ft. Nicky Da B",
+          "title": "Express Yourself (Acappella)",
+          "remix": "",
+          "trackId": "13679818"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Diplo ft. Nicky Da B",
+      "title": "Express Yourself (Acappella)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "13679818",
+      "row": 43,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "68496",
+        "youtube": "68496",
+        "soundcloud": "156438",
+        "appleMusic": "68496"
+      },
+      "blendGroup": [
+        {
+          "artist": "Diplo ft. Nicky Da B",
+          "title": "Express Yourself (Acappella)",
+          "remix": "",
+          "trackId": "13679818"
+        },
+        {
+          "artist": "Lil Jon & The Eastside Boyz ft. Ying Yang Twins",
+          "title": "Get Low (Acappella)",
+          "remix": "",
+          "trackId": "13679819"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lil Jon & The Eastside Boyz ft. Ying Yang Twins",
+      "title": "Get Low (Acappella)",
+      "remix": "",
+      "label": "THE ORCHARD",
+      "trackId": "13679819",
+      "row": 43,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "91189",
+        "youtube": "91189",
+        "soundcloud": "91189",
+        "appleMusic": "91189"
+      }
+    },
+    {
+      "pos": "44",
+      "artist": "Zeds Dead & GRiZ",
+      "title": "Ecstasy Of Soul",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "13679820",
+      "row": 44,
+      "type": "normal",
+      "cueTime": 3302,
+      "mediaIds": {
+        "spotify": "851690",
+        "youtube": "851690",
+        "soundcloud": "851690",
+        "appleMusic": "851690"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zeds Dead & GRiZ",
+          "title": "Ecstasy Of Soul",
+          "remix": "",
+          "trackId": "13679820"
+        },
+        {
+          "artist": "Levity & Crankdat & Tape B",
+          "title": "Time To Hit (Working Title)",
+          "remix": "",
+          "trackId": "13679821"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Levity & Crankdat & Tape B",
+      "title": "Time To Hit (Working Title)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "13679821",
+      "row": 44,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1164853"
+      }
+    },
+    {
+      "pos": "45",
+      "artist": "Roscoe Dash & Soulja Boy",
+      "title": "All The Way Turnt Up (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "13679822",
+      "row": 45,
+      "type": "normal",
+      "cueTime": 3434,
+      "mediaIds": {
+        "spotify": "71029",
+        "youtube": "141450",
+        "soundcloud": "71029",
+        "appleMusic": "71029"
+      },
+      "blendGroup": [
+        {
+          "artist": "Roscoe Dash & Soulja Boy",
+          "title": "All The Way Turnt Up (Acappella)",
+          "remix": "",
+          "trackId": "13679822"
+        },
+        {
+          "artist": "Wooli & Crankdat",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13679823"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wooli & Crankdat",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679823",
+      "row": 45,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Wooli & Crankdat",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13679823"
+        },
+        {
+          "artist": "French Montana ft. Rick Ross & Drake & Lil Wayne",
+          "title": "Pop That (Acappella)",
+          "remix": "",
+          "trackId": "13679824"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "French Montana ft. Rick Ross & Drake & Lil Wayne",
+      "title": "Pop That (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "13679824",
+      "row": 45,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "129779",
+        "youtube": "129779",
+        "soundcloud": "129779",
+        "appleMusic": "129779"
+      }
+    },
+    {
+      "pos": "46",
+      "artist": "Seven Lions & Wooli & Trivecta ft. Nevve",
+      "title": "Island",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "13679825",
+      "row": 46,
+      "type": "normal",
+      "cueTime": 3523,
+      "mediaIds": {
+        "spotify": "459012",
+        "youtube": "459012",
+        "soundcloud": "459012",
+        "appleMusic": "459012"
+      },
+      "blendGroup": [
+        {
+          "artist": "Seven Lions & Wooli & Trivecta ft. Nevve",
+          "title": "Island",
+          "remix": "",
+          "trackId": "13679825"
+        },
+        {
+          "artist": "Excision",
+          "title": "The Paradox (Wooli Flip)",
+          "remix": "",
+          "trackId": "13679826"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision",
+      "title": "The Paradox (Wooli Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "13679826",
+      "row": 46,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "47",
+      "artist": "Doctor P",
+      "title": "Big Boss (Crankdat Remix)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "13679827",
+      "row": 47,
+      "type": "normal",
+      "cueTime": 3570,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Doctor P",
+          "title": "Big Boss (Crankdat Remix)",
+          "remix": "",
+          "trackId": "13679827"
+        },
+        {
+          "artist": "Wooli & Samplifire",
+          "title": "ACID",
+          "remix": "",
+          "trackId": "13679828"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wooli & Samplifire",
+      "title": "ACID",
+      "remix": "",
+      "label": "WOOLI MUSIC",
+      "trackId": "13679828",
+      "row": 47,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "926974",
+        "youtube": "926974",
+        "soundcloud": "926974",
+        "appleMusic": "926974"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wooli & Samplifire",
+          "title": "ACID",
+          "remix": "",
+          "trackId": "13679828"
+        },
+        {
+          "artist": "Cloonee",
+          "title": "Sippin' Yak",
+          "remix": "(Acappella)",
+          "trackId": "13679829"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cloonee",
+      "title": "Sippin' Yak",
+      "remix": "(Acappella)",
+      "label": "HELLBENT",
+      "trackId": "13679829",
+      "row": 47,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "980898",
+        "youtube": "980898",
+        "soundcloud": "980898",
+        "appleMusic": "980898"
+      }
+    },
+    {
+      "pos": "48",
+      "artist": "GRiZ & Wooli",
+      "title": "Chaos Theory (VIP)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13679830",
+      "row": 48,
+      "type": "normal",
+      "cueTime": 3622,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "GRiZ & Wooli",
+          "title": "Chaos Theory (VIP)",
+          "remix": "",
+          "trackId": "13679830"
+        },
+        {
+          "artist": "John Summit ft. Inéz",
+          "title": "crystallized",
+          "remix": "(Acappella)",
+          "trackId": "13679831"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "John Summit ft. Inéz",
+      "title": "crystallized",
+      "remix": "(Acappella)",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13679831",
+      "row": 48,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1109940",
+        "youtube": "1109940",
+        "soundcloud": "1109940",
+        "appleMusic": "1109940"
+      }
+    },
+    {
+      "pos": "49",
+      "artist": "GRiZ & Wooli",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679832",
+      "row": 49,
+      "type": "normal",
+      "cueTime": 3756,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "50",
+      "artist": "Dean Turnley",
+      "title": "Actin' Tough (Crankdat & Smoakland Remix)",
+      "remix": "",
+      "label": "HOME//GRXWN",
+      "trackId": "13679833",
+      "row": 50,
+      "type": "normal",
+      "cueTime": 3803,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "51",
+      "artist": "Sara Landry & Alt8",
+      "title": "Heaven",
+      "remix": "(Acappella)",
+      "label": "HEKATE",
+      "trackId": "13679834",
+      "row": 51,
+      "type": "normal",
+      "cueTime": 3872,
+      "mediaIds": {
+        "spotify": "1005479",
+        "youtube": "1005479",
+        "soundcloud": "1005479",
+        "appleMusic": "1005479"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sara Landry & Alt8",
+          "title": "Heaven",
+          "remix": "(Acappella)",
+          "trackId": "13679834"
+        },
+        {
+          "artist": "LMFAO ft. Lauren Bennett & Goonrock",
+          "title": "Party Rock Anthem",
+          "remix": "",
+          "trackId": "13679835"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "LMFAO ft. Lauren Bennett & Goonrock",
+      "title": "Party Rock Anthem",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "13679835",
+      "row": 51,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "33868",
+        "youtube": "33868",
+        "soundcloud": "33868",
+        "appleMusic": "33868"
+      },
+      "blendGroup": [
+        {
+          "artist": "LMFAO ft. Lauren Bennett & Goonrock",
+          "title": "Party Rock Anthem",
+          "remix": "",
+          "trackId": "13679835"
+        },
+        {
+          "artist": "Skrillex & Hawaii Slim",
+          "title": "SPITFIRE (Crankdat Remix)",
+          "remix": "",
+          "trackId": "13679836"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Hawaii Slim",
+      "title": "SPITFIRE (Crankdat Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "13679836",
+      "row": 51,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1095846",
+        "soundcloud": "1095846"
+      }
+    },
+    {
+      "pos": "52",
+      "artist": "Rihanna",
+      "title": "Where Have You Been (John Summit & Wooli Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13679837",
+      "row": 52,
+      "type": "normal",
+      "cueTime": 4010,
+      "mediaIds": {
+        "youtube": "1135449",
+        "soundcloud": "1135449",
+        "appleMusic": "1135449"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "53",
+      "artist": "HOL!",
+      "title": "SLIM SHADY",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13679838",
+      "row": 53,
+      "type": "normal",
+      "cueTime": 4113,
+      "mediaIds": {
+        "youtube": "1142273",
+        "soundcloud": "1142273"
+      },
+      "blendGroup": [
+        {
+          "artist": "HOL!",
+          "title": "SLIM SHADY",
+          "remix": "",
+          "trackId": "13679838"
+        },
+        {
+          "artist": "Sexyy Red",
+          "title": "SkeeYee (Crankdat Remix)",
+          "remix": "",
+          "trackId": "13679839"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sexyy Red",
+      "title": "SkeeYee (Crankdat Remix)",
+      "remix": "",
+      "label": "OPEN SHIFT",
+      "trackId": "13679839",
+      "row": 53,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "981478",
+        "soundcloud": "981478"
+      }
+    },
+    {
+      "pos": "54",
+      "artist": "Darude",
+      "title": "Sandstorm",
+      "remix": "",
+      "label": "NEO RECORDS/ROBBINS",
+      "trackId": "13679840",
+      "row": 54,
+      "type": "normal",
+      "cueTime": 4185,
+      "mediaIds": {
+        "spotify": "17045",
+        "youtube": "17045",
+        "soundcloud": "17045",
+        "appleMusic": "17045"
+      },
+      "blendGroup": [
+        {
+          "artist": "Darude",
+          "title": "Sandstorm",
+          "remix": "",
+          "trackId": "13679840"
+        },
+        {
+          "artist": "Quad City DJ's",
+          "title": "Space Jam",
+          "remix": "(Acappella)",
+          "trackId": "13679841"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Quad City DJ's",
+      "title": "Space Jam",
+      "remix": "(Acappella)",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "13679841",
+      "row": 54,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "528168",
+        "youtube": "528168",
+        "soundcloud": "528168",
+        "appleMusic": "528168"
+      },
+      "blendGroup": [
+        {
+          "artist": "Quad City DJ's",
+          "title": "Space Jam",
+          "remix": "(Acappella)",
+          "trackId": "13679841"
+        },
+        {
+          "artist": "Wooli & Subtronics",
+          "title": "Funny Man",
+          "remix": "",
+          "trackId": "13679842"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wooli & Subtronics",
+      "title": "Funny Man",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "13679842",
+      "row": 54,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "55",
+      "artist": "Crankdat & Subtronics",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679843",
+      "row": 55,
+      "type": "normal",
+      "cueTime": 4271,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Crankdat & Subtronics",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13679843"
+        },
+        {
+          "artist": "Warlord",
+          "title": "MR. SNAZZY JOGGED DUB",
+          "remix": "",
+          "trackId": "13679844"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Warlord",
+      "title": "MR. SNAZZY JOGGED DUB",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13679844",
+      "row": 55,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1110784",
+        "youtube": "1110784",
+        "soundcloud": "1110784",
+        "appleMusic": "1110784"
+      }
+    },
+    {
+      "pos": "56",
+      "artist": "Subtronics & Wooli & LEVEL UP",
+      "title": "Dingus",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "13679845",
+      "row": 56,
+      "type": "normal",
+      "cueTime": 4375,
+      "mediaIds": {
+        "spotify": "1118967",
+        "youtube": "1118967",
+        "soundcloud": "1118967",
+        "appleMusic": "1118967"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "57",
+      "artist": "Hardwell",
+      "title": "Spaceman",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13679846",
+      "row": 57,
+      "type": "normal",
+      "cueTime": 4420,
+      "mediaIds": {
+        "spotify": "51416",
+        "youtube": "51416",
+        "soundcloud": "51416",
+        "appleMusic": "51416"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hardwell",
+          "title": "Spaceman",
+          "remix": "",
+          "trackId": "13679846"
+        },
+        {
+          "artist": "AFROJACK & Steve Aoki ft. Miss Palmer",
+          "title": "No Beef (Acappella)",
+          "remix": "",
+          "trackId": "13679847"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AFROJACK & Steve Aoki ft. Miss Palmer",
+      "title": "No Beef (Acappella)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "13679847",
+      "row": 57,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "17453",
+        "youtube": "69025",
+        "soundcloud": "17453",
+        "appleMusic": "17453"
+      },
+      "blendGroup": [
+        {
+          "artist": "AFROJACK & Steve Aoki ft. Miss Palmer",
+          "title": "No Beef (Acappella)",
+          "remix": "",
+          "trackId": "13679847"
+        },
+        {
+          "artist": "Wooli",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13679848"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wooli",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679848",
+      "row": 57,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "58",
+      "artist": "Skrillex",
+      "title": "Scut (Wooli Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "13679849",
+      "row": 58,
+      "type": "normal",
+      "cueTime": 4491,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "59",
+      "artist": "ALLEYCVT",
+      "title": "Strangers",
+      "remix": "",
+      "label": "SUPERSONIC",
+      "trackId": "13679850",
+      "row": 59,
+      "type": "normal",
+      "cueTime": 4537,
+      "mediaIds": {
+        "spotify": "1081888",
+        "youtube": "1081888",
+        "soundcloud": "1081888",
+        "appleMusic": "1081888"
+      },
+      "blendGroup": [
+        {
+          "artist": "ALLEYCVT",
+          "title": "Strangers",
+          "remix": "",
+          "trackId": "13679850"
+        },
+        {
+          "artist": "Bon Jovi",
+          "title": "Livin' On A Prayer (Acappella)",
+          "remix": "",
+          "trackId": "13679851"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bon Jovi",
+      "title": "Livin' On A Prayer (Acappella)",
+      "remix": "",
+      "label": "MERCURY (UMG)",
+      "trackId": "13679851",
+      "row": 59,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "63512",
+        "youtube": "63512",
+        "soundcloud": "63512",
+        "appleMusic": "63512"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bon Jovi",
+          "title": "Livin' On A Prayer (Acappella)",
+          "remix": "",
+          "trackId": "13679851"
+        },
+        {
+          "artist": "GRiZ",
+          "title": "Let Him Cook",
+          "remix": "",
+          "trackId": "13679852"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GRiZ",
+      "title": "Let Him Cook",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13679852",
+      "row": 59,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1082171",
+        "soundcloud": "1082171"
+      },
+      "blendGroup": [
+        {
+          "artist": "GRiZ",
+          "title": "Let Him Cook",
+          "remix": "",
+          "trackId": "13679852"
+        },
+        {
+          "artist": "Crankdat",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13679853"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Crankdat",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679853",
+      "row": 59,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Crankdat",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13679853"
+        },
+        {
+          "artist": "MPH",
+          "title": "Funk Master",
+          "remix": "(Acappella)",
+          "trackId": "13679854"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MPH",
+      "title": "Funk Master",
+      "remix": "(Acappella)",
+      "label": "NIGHT BASS",
+      "trackId": "13679854",
+      "row": 59,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "974647",
+        "youtube": "974647",
+        "soundcloud": "974647",
+        "appleMusic": "974647"
+      }
+    },
+    {
+      "pos": "60",
+      "artist": "Wooli & Crankdat",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13679855",
+      "row": 60,
+      "type": "normal",
+      "cueTime": 4671,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "61",
+      "artist": "Future",
+      "title": "Fu*ck Up Some Commas",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "13679856",
+      "row": 61,
+      "type": "normal",
+      "cueTime": 4724,
+      "mediaIds": {
+        "spotify": "232673",
+        "youtube": "232673",
+        "soundcloud": "232673",
+        "appleMusic": "232673"
+      },
+      "blendGroup": [
+        {
+          "artist": "Future",
+          "title": "Fu*ck Up Some Commas",
+          "remix": "",
+          "trackId": "13679856"
+        },
+        {
+          "artist": "TroyBoi & Flosstradamus",
+          "title": "Soundclash",
+          "remix": "",
+          "trackId": "13679857"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TroyBoi & Flosstradamus",
+      "title": "Soundclash",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "13679857",
+      "row": 61,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "226289",
+        "youtube": "226289",
+        "soundcloud": "226289",
+        "appleMusic": "226289"
+      },
+      "blendGroup": [
+        {
+          "artist": "TroyBoi & Flosstradamus",
+          "title": "Soundclash",
+          "remix": "",
+          "trackId": "13679857"
+        },
+        {
+          "artist": "Excision & Downlink",
+          "title": "Robo Kitty (Wooli Flip)",
+          "remix": "",
+          "trackId": "13679858"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Downlink",
+      "title": "Robo Kitty (Wooli Flip)",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "13679858",
+      "row": 61,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "931978",
+        "soundcloud": "931978"
+      }
+    },
+    {
+      "pos": "62",
+      "artist": "Dimitri Vegas & MOGUAI & Like Mike",
+      "title": "Mammoth (Wooli Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "13679859",
+      "row": 62,
+      "type": "normal",
+      "cueTime": 4797,
+      "mediaIds": {
+        "youtube": "973316",
+        "soundcloud": "973316"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & MOGUAI & Like Mike",
+          "title": "Mammoth (Wooli Flip)",
+          "remix": "",
+          "trackId": "13679859"
+        },
+        {
+          "artist": "Tiësto & KSHMR ft. VASSY",
+          "title": "Secrets (Acappella)",
+          "remix": "",
+          "trackId": "13679860"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & KSHMR ft. VASSY",
+      "title": "Secrets (Acappella)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "13679860",
+      "row": 62,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "239625",
+        "youtube": "239625",
+        "soundcloud": "258327",
+        "appleMusic": "239625"
+      }
+    },
+    {
+      "pos": "63",
+      "artist": "Wooli & Samplifire",
+      "title": "ACID",
+      "remix": "",
+      "label": "WOOLI MUSIC",
+      "trackId": "13679861",
+      "row": 63,
+      "type": "normal",
+      "cueTime": 4863,
+      "mediaIds": {
+        "spotify": "926974",
+        "youtube": "926974",
+        "soundcloud": "926974",
+        "appleMusic": "926974"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wooli & Samplifire",
+          "title": "ACID",
+          "remix": "",
+          "trackId": "13679861"
+        },
+        {
+          "artist": "Green Velvet & Harvard Bass",
+          "title": "Lazer Beams",
+          "remix": "",
+          "trackId": "13679862"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Green Velvet & Harvard Bass",
+      "title": "Lazer Beams",
+      "remix": "",
+      "label": "RELIEF",
+      "trackId": "13679862",
+      "row": 63,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "99522",
+        "youtube": "99522",
+        "soundcloud": "99522",
+        "appleMusic": "99522"
+      }
+    },
+    {
+      "pos": "64",
+      "artist": "Vengaboys",
+      "title": "We Like To Party! (The Vengabus)",
+      "remix": "",
+      "label": "VIOLENT",
+      "trackId": "13679863",
+      "row": 64,
+      "type": "normal",
+      "cueTime": 4918,
+      "mediaIds": {
+        "spotify": "92224",
+        "youtube": "92224",
+        "soundcloud": "92224",
+        "appleMusic": "92224"
+      },
+      "blendGroup": [
+        {
+          "artist": "Vengaboys",
+          "title": "We Like To Party! (The Vengabus)",
+          "remix": "",
+          "trackId": "13679863"
+        },
+        {
+          "artist": "Lynyrd Skynyrd",
+          "title": "Free Bird (Crankdat Remix)",
+          "remix": "",
+          "trackId": "13679864"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lynyrd Skynyrd",
+      "title": "Free Bird (Crankdat Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13679864",
+      "row": 64,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1103500",
+        "soundcloud": "1103500"
+      }
+    },
+    {
+      "pos": "65",
+      "artist": "Porter Robinson ft. Bright Lights",
+      "title": "Language",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "13679865",
+      "row": 65,
+      "type": "normal",
+      "cueTime": 5036,
+      "mediaIds": {
+        "spotify": "69003",
+        "youtube": "69003",
+        "soundcloud": "69003",
+        "appleMusic": "69003"
+      },
+      "blendGroup": [
+        {
+          "artist": "Porter Robinson ft. Bright Lights",
+          "title": "Language",
+          "remix": "",
+          "trackId": "13679865"
+        },
+        {
+          "artist": "Crankdat",
+          "title": "Redo",
+          "remix": "",
+          "trackId": "13679866"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Crankdat",
+      "title": "Redo",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "13679866",
+      "row": 65,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "555361",
+        "youtube": "555361",
+        "soundcloud": "555361",
+        "appleMusic": "555361"
+      }
+    },
+    {
+      "pos": "66",
+      "artist": "M83",
+      "title": "Outro (Wooli Remix)",
+      "remix": "",
+      "label": "M83",
+      "trackId": "13679867",
+      "row": 66,
+      "type": "normal",
+      "cueTime": 5170,
+      "mediaIds": {
+        "youtube": "1126600",
+        "soundcloud": "1126600"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "5286811",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=LIljSj9WJuY"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "5287247",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/2294841413"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "5286792",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/2293015988"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "5284398",
+      "idSource": "40",
+      "url": "https://hearthis.at/14064955/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:09:31.581Z",
+  "scrapeVersion": 2
+}

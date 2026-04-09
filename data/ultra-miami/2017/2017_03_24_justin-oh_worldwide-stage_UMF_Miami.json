@@ -1,0 +1,186 @@
+{
+  "tlId": "u6dt2tt",
+  "dj": "Justin Oh",
+  "stage": "Worldwide Stage",
+  "date": "2017-03-24",
+  "year": 2017,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "1h 2m",
+  "views": 22,
+  "likes": 4,
+  "url": "https://www.1001tracklists.com/tracklist/u6dt2tt/justin-oh-worldwide-stage-ultra-music-festival-miami-miami-music-week-united-states-2017-03-24.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Galantis",
+      "title": "No Money",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "2564386",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300668",
+        "youtube": "300668",
+        "soundcloud": "300668",
+        "appleMusic": "300668"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "JAGGS",
+      "title": "Feels Good",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2564387",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "336153",
+        "youtube": "336153",
+        "soundcloud": "336153",
+        "appleMusic": "336153"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Jebu",
+      "title": "Go Ahead",
+      "remix": "",
+      "label": "METANOIA MUSIC",
+      "trackId": "2564388",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "308322",
+        "youtube": "308322",
+        "soundcloud": "308322",
+        "appleMusic": "308322"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "D.O.D & J-Trick",
+      "title": "Ping",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "2564389",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "334175",
+        "youtube": "334175",
+        "soundcloud": "334175",
+        "appleMusic": "334175"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "KUURO",
+      "title": "Savage",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "2564391",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "343668",
+        "youtube": "343668",
+        "soundcloud": "343668",
+        "appleMusic": "343668"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "DJ Snake",
+      "title": "Propaganda (Nom De Strip & TJR Remix)",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "2564392",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "290892",
+        "youtube": "290892",
+        "soundcloud": "290892",
+        "appleMusic": "290892"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake",
+          "title": "Propaganda (Nom De Strip & TJR Remix)",
+          "remix": "",
+          "trackId": "2564392"
+        },
+        {
+          "artist": "DJ Snake",
+          "title": "Propaganda (KUURO Remix)",
+          "remix": "",
+          "trackId": "2564412"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Snake",
+      "title": "Propaganda (KUURO Remix)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "2564412",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "351418",
+        "soundcloud": "351418"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Quintino",
+      "title": "Carnival",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2564413",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "345276",
+        "youtube": "345276",
+        "soundcloud": "345276",
+        "appleMusic": "345276"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Justin Oh",
+      "slug": "justinoh"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "571780",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T06:09:14.569Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,141 @@
+{
+  "tlId": "2gqzvt11",
+  "dj": "Don Diablo",
+  "stage": "Unknown Stage",
+  "date": "2015-03-29",
+  "year": 2015,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "12m",
+  "views": 113,
+  "likes": 1,
+  "url": "https://www.1001tracklists.com/tracklist/2gqzvt11/don-diablo-ultra-music-festival-miami-united-states-2015-03-29.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Alex Adair",
+      "title": "Make Me Feel Better (Don Diablo & CID Remix)",
+      "remix": "",
+      "label": "LILLY ERA",
+      "trackId": "10930205",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 108,
+      "mediaIds": {
+        "spotify": "239087",
+        "youtube": "239087",
+        "soundcloud": "239087",
+        "appleMusic": "239087"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alex Adair",
+          "title": "Make Me Feel Better (Don Diablo & CID Remix)",
+          "remix": "",
+          "trackId": "10930205"
+        },
+        {
+          "artist": "50 Cent",
+          "title": "Put Your Hands Up",
+          "remix": "",
+          "trackId": "10930206"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "50 Cent",
+      "title": "Put Your Hands Up",
+      "remix": "",
+      "label": "",
+      "trackId": "10930206",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "177434",
+        "youtube": "177434",
+        "soundcloud": "177434",
+        "appleMusic": "177434"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Don Diablo vs. Disclosure ft. Sam Smith",
+      "title": "Knight Time Latch (Don Diablo Rehex)",
+      "remix": "",
+      "label": "ISLAND (UMG)/SPRS (SPINNIN')",
+      "trackId": "10930207",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 291,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "King Arthur ft. Michael Meaco",
+      "title": "Belong To The Rhythm",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "10930208",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 443,
+      "mediaIds": {
+        "spotify": "243382",
+        "youtube": "243382",
+        "appleMusic": "243382"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Don Diablo ft. Maluca",
+      "title": "My Window",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "10930209",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 554,
+      "mediaIds": {
+        "spotify": "244002",
+        "youtube": "244002",
+        "soundcloud": "244002",
+        "appleMusic": "244002"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Yeah Yeah Yeahs & A-Trak vs. Mr. Polska & Boaz van de Beatz ft. Pitbull",
+      "title": "Ravotten Will Roll (Don Diablo ReHex)",
+      "remix": "",
+      "label": "DGC/POLYDOR/NOUVEAU RICHE",
+      "trackId": "10930210",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 634,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Don Diablo",
+      "slug": "dondiablo"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4289696",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=L9D9BfxDBtY"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:05:43.637Z",
+  "scrapeVersion": 2
+}

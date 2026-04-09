@@ -1,0 +1,264 @@
+{
+  "tlId": "57phmsk",
+  "dj": "Funkagenda",
+  "stage": "UMF Radio Stage",
+  "date": "2013-03-24",
+  "year": 2013,
+  "genre": "Afro House",
+  "tracksIdentified": 12,
+  "tracksTotal": 13,
+  "duration": "59m",
+  "views": 41,
+  "likes": 1,
+  "url": "https://www.1001tracklists.com/tracklist/57phmsk/funkagenda-umf-radio-stage-ultra-music-festival-miami-united-states-2013-03-24.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Guy J & Miriam Vaga",
+      "title": "Fly (Hybrid Soundsystem Remix)",
+      "remix": "",
+      "label": "BEDROCK",
+      "trackId": "452447",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "62412"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Robert Babicz",
+      "title": "Echo From The Past",
+      "remix": "",
+      "label": "BEDROCK",
+      "trackId": "452448",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": {
+        "soundcloud": "70824"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Nero",
+      "title": "Innocence (Funkagenda Remix)",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "452449",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 510,
+      "mediaIds": {
+        "youtube": "36713"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nero",
+          "title": "Innocence (Funkagenda Remix)",
+          "remix": "",
+          "trackId": "452449"
+        },
+        {
+          "artist": "Layo & Bushwacka!",
+          "title": "What Do You Say Now",
+          "remix": "",
+          "trackId": "453264"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Layo & Bushwacka!",
+      "title": "What Do You Say Now",
+      "remix": "",
+      "label": "OLMETO",
+      "trackId": "453264",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "31330",
+        "youtube": "31330",
+        "appleMusic": "31330"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Ange Siddhar",
+      "title": "Shut Up B**ch (Da Fresh Remix)",
+      "remix": "",
+      "label": "LABORATORY",
+      "trackId": "452450",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 1020,
+      "mediaIds": {
+        "soundcloud": "100729"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Anil Chawla",
+      "title": "Pondi",
+      "remix": "",
+      "label": "GLOBAL UNDERGROUND",
+      "trackId": "452451",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1380,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "452452",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "452452"
+        },
+        {
+          "artist": "Fatboy Slim",
+          "title": "Star 69 (Acappella)",
+          "remix": "",
+          "trackId": "452453"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fatboy Slim",
+      "title": "Star 69 (Acappella)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "452453",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1853",
+        "youtube": "1853",
+        "soundcloud": "1853",
+        "appleMusic": "1853"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Hot Chip",
+      "title": "Flutes (Sasha Remix)",
+      "remix": "",
+      "label": "LAST NIGHT ON EARTH",
+      "trackId": "452454",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1980,
+      "mediaIds": {
+        "spotify": "91238",
+        "youtube": "91238",
+        "soundcloud": "91238",
+        "appleMusic": "91238"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "John Digweed & Nick Muir",
+      "title": "Raise",
+      "remix": "",
+      "label": "BEDROCK",
+      "trackId": "452455",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 2400,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Maetrik",
+      "title": "The Reason",
+      "remix": "",
+      "label": "COCOON",
+      "trackId": "452456",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 2700,
+      "mediaIds": {
+        "spotify": "63936",
+        "youtube": "63936",
+        "soundcloud": "63936"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Christian Smith",
+      "title": "The Judgement",
+      "remix": "",
+      "label": "TRONIC",
+      "trackId": "452457",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2880,
+      "mediaIds": {
+        "soundcloud": "81297"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Massive Attack ft. Hope Sandoval",
+      "title": "Paradise Circus (Gui Boratto Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "452458",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 3240,
+      "mediaIds": {
+        "spotify": "13245",
+        "youtube": "13245",
+        "soundcloud": "13245",
+        "appleMusic": "13245"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Funkagenda",
+      "slug": "funkagenda"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "3842734",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/84798911"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "77332",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/EFMrage"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:54:01.782Z",
+  "scrapeVersion": 2
+}

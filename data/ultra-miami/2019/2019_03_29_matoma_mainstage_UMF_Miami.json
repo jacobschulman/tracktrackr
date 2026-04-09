@@ -1,0 +1,873 @@
+{
+  "tlId": "2fhm9yhk",
+  "dj": "Matoma",
+  "stage": "Mainstage",
+  "date": "2019-03-29",
+  "year": 2019,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "52m",
+  "views": 43,
+  "likes": 3,
+  "url": "https://www.1001tracklists.com/tracklist/2fhm9yhk/matoma-mainstage-ultra-music-festival-miami-miami-music-week-united-states-2019-03-29.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Will Smith",
+      "title": "Miami (Matoma Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "4020041",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Dr. Fresch ft. Baby Eazy-E",
+      "title": "Gangsta Gangsta",
+      "remix": "",
+      "label": "SERIOUS PIMP",
+      "trackId": "4020042",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 98,
+      "mediaIds": {
+        "spotify": "311748",
+        "youtube": "311748",
+        "soundcloud": "311748"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "J Balvin & Willy William",
+      "title": "Mi Gente (Henry Fong Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4020043",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 151,
+      "mediaIds": {
+        "spotify": "369803",
+        "youtube": "369803",
+        "soundcloud": "369803",
+        "appleMusic": "369803"
+      },
+      "blendGroup": [
+        {
+          "artist": "J Balvin & Willy William",
+          "title": "Mi Gente (Henry Fong Remix)",
+          "remix": "",
+          "trackId": "4020043"
+        },
+        {
+          "artist": "Dillon Francis & NGHTMRE",
+          "title": "Need You",
+          "remix": "",
+          "trackId": "4020044"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dillon Francis & NGHTMRE",
+      "title": "Need You",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "4020044",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 195,
+      "mediaIds": {
+        "spotify": "301795",
+        "youtube": "301795",
+        "soundcloud": "301795",
+        "appleMusic": "301795"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Matoma & Gia",
+      "title": "Heart Won't Forget (Luca Schreiner Remix)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "4020045",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 228,
+      "mediaIds": {
+        "spotify": "349227",
+        "youtube": "349227",
+        "soundcloud": "349227",
+        "appleMusic": "349227"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Matoma ft. The Vamps",
+      "title": "Staying Up",
+      "remix": "",
+      "label": "FFRR (PARLOPHONE)",
+      "trackId": "4020046",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 307,
+      "mediaIds": {
+        "spotify": "383267",
+        "youtube": "383267",
+        "soundcloud": "383267",
+        "appleMusic": "383267"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Stadiumx & Metrush",
+      "title": "Spacebird",
+      "remix": "",
+      "label": "FUTURE HOUSE MUSIC",
+      "trackId": "4020047",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 407,
+      "mediaIds": {
+        "spotify": "388841",
+        "youtube": "388841",
+        "soundcloud": "388841",
+        "appleMusic": "388841"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Matoma & Enrique Iglesias ft. Konshens",
+      "title": "I Don't Dance (Without You) (Joe Stone Remix)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "4020048",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 490,
+      "mediaIds": {
+        "spotify": "443329",
+        "youtube": "443329",
+        "appleMusic": "443329"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Zedd & Maren Morris & Grey",
+      "title": "The Middle (Bougenvilla Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "4020049",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 561,
+      "mediaIds": {
+        "youtube": "429548",
+        "soundcloud": "429548"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "A R I Z O N A",
+      "title": "Freaking Out (Matoma Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "4020050",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 644,
+      "mediaIds": {
+        "spotify": "485468",
+        "youtube": "485468",
+        "soundcloud": "485468",
+        "appleMusic": "485468"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Ava Max",
+      "title": "Sweet But Psycho (Morgan Page Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "4020051",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 720,
+      "mediaIds": {
+        "spotify": "458806",
+        "youtube": "458806",
+        "soundcloud": "458806",
+        "appleMusic": "458806"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ava Max",
+          "title": "Sweet But Psycho (Morgan Page Remix)",
+          "remix": "",
+          "trackId": "4020051"
+        },
+        {
+          "artist": "Jay Pryor",
+          "title": "All This",
+          "remix": "",
+          "trackId": "4020052"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jay Pryor",
+      "title": "All This",
+      "remix": "",
+      "label": "SELECTED.",
+      "trackId": "4020052",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 780,
+      "mediaIds": {
+        "spotify": "312080",
+        "youtube": "312080",
+        "soundcloud": "312080",
+        "appleMusic": "312080"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Loud Luxury ft. Brando",
+      "title": "Body (Dzeko Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "4020053",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 813,
+      "mediaIds": {
+        "spotify": "434115",
+        "youtube": "434115",
+        "soundcloud": "434115",
+        "appleMusic": "434115"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Galantis",
+      "title": "No Money (Misha K Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "4020054",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 968,
+      "mediaIds": {
+        "spotify": "307373",
+        "youtube": "307373",
+        "soundcloud": "307373",
+        "appleMusic": "307373"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Axwell Λ Ingrosso ft. Kristoffer Fogelmark",
+      "title": "More Than You Know (Albin Myers Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "4020055",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1042,
+      "mediaIds": {
+        "spotify": "370327",
+        "youtube": "370327",
+        "soundcloud": "370327",
+        "appleMusic": "370327"
+      },
+      "blendGroup": [
+        {
+          "artist": "Axwell Λ Ingrosso ft. Kristoffer Fogelmark",
+          "title": "More Than You Know (Albin Myers Remix)",
+          "remix": "",
+          "trackId": "4020055"
+        },
+        {
+          "artist": "Axwell Λ Ingrosso ft. Kristoffer Fogelmark",
+          "title": "More Than You Know (Candyland Remix)",
+          "remix": "",
+          "trackId": "4020056"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Axwell Λ Ingrosso ft. Kristoffer Fogelmark",
+      "title": "More Than You Know (Candyland Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "4020056",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 1172,
+      "mediaIds": {
+        "spotify": "382701",
+        "youtube": "382701",
+        "soundcloud": "382701",
+        "appleMusic": "382701"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Matoma & The Notorious B.I.G. ft. Ja Rule & Ralph Tresvant",
+      "title": "Old Thing Back",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "4020057",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1203,
+      "mediaIds": {
+        "spotify": "292385",
+        "youtube": "292385",
+        "soundcloud": "292385",
+        "appleMusic": "292385"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Matoma ft. JRM",
+      "title": "Not Coming Home",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "4020058",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1338,
+      "mediaIds": {
+        "spotify": "485364",
+        "youtube": "485364",
+        "soundcloud": "485364",
+        "appleMusic": "485364"
+      },
+      "blendGroup": [
+        {
+          "artist": "Matoma ft. JRM",
+          "title": "Not Coming Home",
+          "remix": "",
+          "trackId": "4020058"
+        },
+        {
+          "artist": "The Chainsmokers & NGHTMRE",
+          "title": "Save Yourself",
+          "remix": "",
+          "trackId": "4020115"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chainsmokers & NGHTMRE",
+      "title": "Save Yourself",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4020115",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1391,
+      "mediaIds": {
+        "spotify": "417013",
+        "youtube": "417013",
+        "soundcloud": "417013",
+        "appleMusic": "417013"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Post Malone ft. 21 Savage",
+      "title": "Rockstar (Crankdat Re-Crank)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "4020116",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1432,
+      "mediaIds": {
+        "youtube": "395193",
+        "soundcloud": "395193"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Kendrick Lamar",
+      "title": "HUMBLE. (Skrillex Remix)",
+      "remix": "",
+      "label": "TOP DAWG",
+      "trackId": "4020169",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1482,
+      "mediaIds": {
+        "spotify": "373720",
+        "youtube": "373720",
+        "soundcloud": "373720",
+        "appleMusic": "373720"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Travis Scott ft. Drake",
+      "title": "Sicko Mode (Skrillex Remix)",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "4020170",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1555,
+      "mediaIds": {
+        "spotify": "456620",
+        "youtube": "456620",
+        "soundcloud": "456620",
+        "appleMusic": "456620"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Panic! At The Disco",
+      "title": "High Hopes",
+      "remix": "",
+      "label": "FUELED BY RAMEN",
+      "trackId": "4020171",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1603,
+      "mediaIds": {
+        "spotify": "446747",
+        "youtube": "446747",
+        "soundcloud": "446747",
+        "appleMusic": "446747"
+      },
+      "blendGroup": [
+        {
+          "artist": "Panic! At The Disco",
+          "title": "High Hopes",
+          "remix": "",
+          "trackId": "4020171"
+        },
+        {
+          "artist": "Netsky & 1991",
+          "title": "Anything 4 U",
+          "remix": "",
+          "trackId": "4020172"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Netsky & 1991",
+      "title": "Anything 4 U",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "4020172",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 1650,
+      "mediaIds": {
+        "spotify": "460432",
+        "youtube": "460432",
+        "soundcloud": "460432",
+        "appleMusic": "460432"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Matoma ft. MAX",
+      "title": "Lonely",
+      "remix": "",
+      "label": "FFRR (PARLOPHONE)",
+      "trackId": "4020173",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1675,
+      "mediaIds": {
+        "spotify": "407682",
+        "youtube": "407682",
+        "soundcloud": "407682",
+        "appleMusic": "407682"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Matoma ft. Josie Dunne",
+      "title": "Sunday Morning",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "4020176",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1762,
+      "mediaIds": {
+        "spotify": "460278",
+        "youtube": "460278",
+        "appleMusic": "460278"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Steff Da Campo & SIKS vs. Fatboy Slim",
+      "title": "Make Me Praise You (Holl & Rush Mashup)",
+      "remix": "",
+      "label": "SKINT/HEXAGON",
+      "trackId": "4020177",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1852,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Jay Pryor",
+      "title": "Teenage Crime",
+      "remix": "",
+      "label": "RICHKID",
+      "trackId": "4020178",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1928,
+      "mediaIds": {
+        "spotify": "359594",
+        "youtube": "359594",
+        "soundcloud": "359594",
+        "appleMusic": "359594"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jay Pryor",
+          "title": "Teenage Crime",
+          "remix": "",
+          "trackId": "4020178"
+        },
+        {
+          "artist": "Firebeatz & Yozo",
+          "title": "Rock To The Rhythm",
+          "remix": "",
+          "trackId": "4020180"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Firebeatz & Yozo",
+      "title": "Rock To The Rhythm",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "4020180",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 1973,
+      "mediaIds": {
+        "spotify": "452700",
+        "youtube": "452700",
+        "soundcloud": "452700",
+        "appleMusic": "452700"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Calvin Harris & Dua Lipa",
+      "title": "One Kiss (R3HAB Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "4020181",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2027,
+      "mediaIds": {
+        "spotify": "420897",
+        "youtube": "420897",
+        "soundcloud": "420897",
+        "appleMusic": "420897"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Sheck Wes",
+      "title": "Mo Bamba",
+      "remix": "",
+      "label": "CACTUS JACK",
+      "trackId": "4020182",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2123,
+      "mediaIds": {
+        "spotify": "414142",
+        "youtube": "414142",
+        "soundcloud": "414142",
+        "appleMusic": "414142"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sheck Wes",
+          "title": "Mo Bamba",
+          "remix": "",
+          "trackId": "4020182"
+        },
+        {
+          "artist": "Jonas Aden",
+          "title": "I Dip You Dip",
+          "remix": "",
+          "trackId": "4020183"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jonas Aden",
+      "title": "I Dip You Dip",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4020183",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 2167,
+      "mediaIds": {
+        "spotify": "441723",
+        "youtube": "441723",
+        "soundcloud": "441723",
+        "appleMusic": "441723"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "The Chainsmokers & Coldplay",
+      "title": "Something Just Like This (Dimitri Vegas & Like Mike Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4020184",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2200,
+      "mediaIds": {
+        "spotify": "354512",
+        "youtube": "354512",
+        "soundcloud": "354512",
+        "appleMusic": "354512"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Lucas & Steve & Pep & Rash",
+      "title": "Feel Alive",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4020185",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2277,
+      "mediaIds": {
+        "spotify": "349386",
+        "youtube": "349386",
+        "soundcloud": "349386",
+        "appleMusic": "349386"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Noise Walkers",
+      "title": "What Is House",
+      "remix": "",
+      "label": "ELEPHANT HOUSE",
+      "trackId": "4020186",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2323,
+      "mediaIds": {
+        "spotify": "504449",
+        "youtube": "504449",
+        "soundcloud": "504449",
+        "appleMusic": "504449"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Avicii",
+      "title": "Levels",
+      "remix": "",
+      "label": "LE7ELS/UMG",
+      "trackId": "4020187",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2427,
+      "mediaIds": {
+        "spotify": "33255",
+        "youtube": "33255",
+        "soundcloud": "33255",
+        "appleMusic": "33255"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Martin Garrix & Dua Lipa",
+      "title": "Scared To Be Lonely (Brooks Remix)",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "4020212",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2480,
+      "mediaIds": {
+        "spotify": "350547",
+        "youtube": "350547",
+        "soundcloud": "350547",
+        "appleMusic": "350547"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "OneRepublic vs. Otto Knows",
+      "title": "Million Voices vs. Apologize",
+      "remix": "",
+      "label": "MOSLEY (INTERSCOPE)/REFUNE",
+      "trackId": "4020250",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2540,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Bastille",
+      "title": "Pompeii (Audien Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "4020251",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2672,
+      "mediaIds": {
+        "spotify": "172665",
+        "youtube": "172665",
+        "soundcloud": "172665",
+        "appleMusic": "172665"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Matoma ft. Becky Hill",
+      "title": "False Alarm",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "4020252",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 2810,
+      "mediaIds": {
+        "spotify": "316589",
+        "youtube": "316589",
+        "appleMusic": "316589"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Matoma & Faith Evans & The Notorious B.I.G ft. Snoop Dogg",
+      "title": "Party On The West Coast",
+      "remix": "",
+      "label": "RHINO ENTERTAINMENT (WARNER MUSIC)",
+      "trackId": "4020253",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 2885,
+      "mediaIds": {
+        "spotify": "437424",
+        "youtube": "437424",
+        "soundcloud": "437424",
+        "appleMusic": "437424"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "The Vamps & Matoma",
+      "title": "All Night",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "4020254",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 2995,
+      "mediaIds": {
+        "spotify": "408085",
+        "youtube": "408085",
+        "soundcloud": "408085",
+        "appleMusic": "408085"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Matoma ft. Noah Cyrus",
+      "title": "Slow",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "4020255",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 3113,
+      "mediaIds": {
+        "spotify": "390583",
+        "youtube": "390583",
+        "soundcloud": "390583",
+        "appleMusic": "390583"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Matoma",
+      "slug": "matoma"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "2506761",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/CreateRadio"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "1139851",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:21:51.416Z",
+  "scrapeVersion": 2
+}

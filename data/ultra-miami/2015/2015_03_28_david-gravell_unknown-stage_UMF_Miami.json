@@ -1,0 +1,495 @@
+{
+  "tlId": "23rxd7t",
+  "dj": "David Gravell",
+  "stage": "Unknown Stage",
+  "date": "2015-03-28",
+  "year": 2015,
+  "genre": "Afro House",
+  "tracksIdentified": 22,
+  "tracksTotal": 23,
+  "duration": "1h",
+  "views": 28,
+  "likes": 5,
+  "url": "https://www.1001tracklists.com/tracklist/23rxd7t/david-gravell-ultra-music-festival-miami-united-states-2015-03-28.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "David Gravell",
+      "title": "Supernova (Special Ultra 2015 Intro Mix)",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "1356903",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "216601",
+        "youtube": "216601",
+        "soundcloud": "216601",
+        "appleMusic": "216601"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Rafaël Frost",
+      "title": "Go!",
+      "remix": "",
+      "label": "FROST (RAZ NITZAN)",
+      "trackId": "1356904",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "157706",
+        "youtube": "157706",
+        "soundcloud": "157706",
+        "appleMusic": "157706"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rafaël Frost",
+          "title": "Go!",
+          "remix": "",
+          "trackId": "1356904"
+        },
+        {
+          "artist": "Hardwell & W&W",
+          "title": "The Dance Floor Is Yours",
+          "remix": "",
+          "trackId": "1356905"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hardwell & W&W",
+      "title": "The Dance Floor Is Yours",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1356905",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "212419",
+        "youtube": "212419",
+        "soundcloud": "212419",
+        "appleMusic": "212419"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hardwell & W&W",
+          "title": "The Dance Floor Is Yours",
+          "remix": "",
+          "trackId": "1356905"
+        },
+        {
+          "artist": "Andain",
+          "title": "Beautiful Things (David Gravell Rework)",
+          "remix": "",
+          "trackId": "1356906"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Andain",
+      "title": "Beautiful Things (David Gravell Rework)",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "1356906",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "178211"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Dash Berlin & Cerf & Mitiska & Jaren & Mitiska & Cerf",
+      "title": "Man On The Run (David Gravell Remix)",
+      "remix": "",
+      "label": "ARMADA CAPTIVATING",
+      "trackId": "1356907",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "238298",
+        "youtube": "238298",
+        "soundcloud": "238298",
+        "appleMusic": "238298"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "David Gravell",
+      "title": "Megatron",
+      "remix": "",
+      "label": "6K MUSIC (ARMADA)",
+      "trackId": "1356908",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "157709",
+        "youtube": "157709",
+        "soundcloud": "157709",
+        "appleMusic": "157709"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Gravell",
+          "title": "Megatron",
+          "remix": "",
+          "trackId": "1356908"
+        },
+        {
+          "artist": "David Gravell",
+          "title": "Bulldozer",
+          "remix": "",
+          "trackId": "1356909"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Gravell",
+      "title": "Bulldozer",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "1356909",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "136909",
+        "youtube": "136909",
+        "soundcloud": "136909"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "David Gravell",
+      "title": "Timebomb",
+      "remix": "",
+      "label": "ASOT (ARMADA)",
+      "trackId": "1356910",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "192375",
+        "youtube": "192375",
+        "soundcloud": "192375"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Gravell",
+          "title": "Timebomb",
+          "remix": "",
+          "trackId": "1356910"
+        },
+        {
+          "artist": "Armin van Buuren",
+          "title": "Ping Pong",
+          "remix": "",
+          "trackId": "1356911"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Armin van Buuren",
+      "title": "Ping Pong",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "1356911",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "166697",
+        "youtube": "166697",
+        "soundcloud": "166697",
+        "appleMusic": "166697"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Armin van Buuren",
+      "title": "Together (In A State Of Trance) (ASOT 700 Anthem) (David Gravell Remix)",
+      "remix": "",
+      "label": "ASOT (ARMADA)",
+      "trackId": "1356912",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "231649",
+        "soundcloud": "231649"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Veracocha",
+      "title": "Carte Blanche (David Gravell Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "1356913",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "205011",
+        "youtube": "205011",
+        "soundcloud": "205011",
+        "appleMusic": "205011"
+      },
+      "blendGroup": [
+        {
+          "artist": "Veracocha",
+          "title": "Carte Blanche (David Gravell Remix)",
+          "remix": "",
+          "trackId": "1356913"
+        },
+        {
+          "artist": "3LAU ft. Bright Lights",
+          "title": "How You Love Me (Acappella)",
+          "remix": "",
+          "trackId": "1356914"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "3LAU ft. Bright Lights",
+      "title": "How You Love Me (Acappella)",
+      "remix": "",
+      "label": "ISLAND DEF JAM (UMG)",
+      "trackId": "1356914",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "172848",
+        "youtube": "172848",
+        "soundcloud": "172848",
+        "appleMusic": "172848"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "David Gravell & Husman",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1356915",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Dan Chase ft. Danny Claire",
+      "title": "All We Are (Mixail Remix)",
+      "remix": "",
+      "label": "BLACK SUNSET",
+      "trackId": "1356916",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "233721"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "R3HAB & Sander van Doorn",
+      "title": "Phoenix Twisted Lift Off (David Gravell Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "1356917",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "TWOLOUD",
+      "title": "I'm Alive",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "1356918",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "199891",
+        "youtube": "199891",
+        "soundcloud": "199891",
+        "appleMusic": "199891"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Above & Beyond pres. OceanLab",
+      "title": "Satellite (David Gravell Remix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "1356919",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2400,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Above & Beyond pres. OceanLab",
+          "title": "Satellite (David Gravell Remix)",
+          "remix": "",
+          "trackId": "1356919"
+        },
+        {
+          "artist": "Calvin Harris ft. Ellie Goulding",
+          "title": "I Need Your Love (Acappella)",
+          "remix": "",
+          "trackId": "1356925"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris ft. Ellie Goulding",
+      "title": "I Need Your Love (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "1356925",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "103682",
+        "youtube": "103682",
+        "soundcloud": "144305",
+        "appleMusic": "103682"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Stan Serkin ft. Tom Tyler",
+      "title": "Soul Fire (Assaf Remix)",
+      "remix": "",
+      "label": "BLACK SUNSET",
+      "trackId": "1356920",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Stan Serkin ft. Tom Tyler",
+          "title": "Soul Fire (Assaf Remix)",
+          "remix": "",
+          "trackId": "1356920"
+        },
+        {
+          "artist": "Mark Sixma",
+          "title": "Shadow (W&W Edit)",
+          "remix": "",
+          "trackId": "1356921"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mark Sixma",
+      "title": "Shadow (W&W Edit)",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "1356921",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "202059",
+        "youtube": "202059",
+        "soundcloud": "202059",
+        "appleMusic": "202059"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "David Gravell ft. Christon",
+      "title": "It's In Your Heart",
+      "remix": "",
+      "label": "ARMADA CAPTIVATING",
+      "trackId": "1356922",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "253721",
+        "youtube": "253721",
+        "soundcloud": "253721"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Above & Beyond pres. OceanLab",
+      "title": "Satellite (David Gravell Remix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "1356923",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "David Gravell",
+      "title": "The Last Of Us",
+      "remix": "",
+      "label": "ARMADA CAPTIVATING",
+      "trackId": "1356924",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "207992",
+        "youtube": "207992",
+        "soundcloud": "207992",
+        "appleMusic": "207992"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "David Gravell",
+      "slug": "davidgravell"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "280893",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/198618436"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:15:06.449Z",
+  "scrapeVersion": 2
+}

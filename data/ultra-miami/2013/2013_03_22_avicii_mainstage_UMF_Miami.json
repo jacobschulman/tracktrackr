@@ -1,0 +1,835 @@
+{
+  "tlId": "5tkl1ft",
+  "dj": "Avicii",
+  "stage": "Mainstage",
+  "date": "2013-03-22",
+  "year": 2013,
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "1h 16m",
+  "views": 651,
+  "likes": 41,
+  "url": "https://www.1001tracklists.com/tracklist/5tkl1ft/avicii-mainstage-ultra-music-festival-miami-united-states-2013-03-22.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Avicii & Nicky Romero ft. Noonie Bao",
+      "title": "I Could Be The One (DubVision Remix)",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "450434",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "125228",
+        "youtube": "125228",
+        "soundcloud": "125228"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Dog Blood",
+      "title": "Next Order",
+      "remix": "",
+      "label": "BIG BEAT/BOYSNOIZE",
+      "trackId": "450437",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 150,
+      "mediaIds": {
+        "spotify": "88491",
+        "youtube": "88491",
+        "soundcloud": "88491",
+        "appleMusic": "88491"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dog Blood",
+          "title": "Next Order",
+          "remix": "",
+          "trackId": "450437"
+        },
+        {
+          "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+          "title": "Fall Into The Sky (Extended Mix)",
+          "remix": "",
+          "trackId": "450438"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+      "title": "Fall Into The Sky (Extended Mix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "450438",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "97743",
+        "youtube": "104175",
+        "soundcloud": "104175",
+        "appleMusic": "97743"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Macklemore & Ryan Lewis ft. Wanz",
+      "title": "Thrift Shop (Mikael Wills Bootleg)",
+      "remix": "",
+      "label": "MACKLEMORE",
+      "trackId": "450431",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 220,
+      "mediaIds": {
+        "youtube": "126883"
+      },
+      "blendGroup": [
+        {
+          "artist": "Macklemore & Ryan Lewis ft. Wanz",
+          "title": "Thrift Shop (Mikael Wills Bootleg)",
+          "remix": "",
+          "trackId": "450431"
+        },
+        {
+          "artist": "Nari & Milani",
+          "title": "Atom",
+          "remix": "",
+          "trackId": "450432"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nari & Milani",
+      "title": "Atom",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "450432",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "57099",
+        "youtube": "57099",
+        "soundcloud": "57099",
+        "appleMusic": "57099"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nari & Milani",
+          "title": "Atom",
+          "remix": "",
+          "trackId": "450432"
+        },
+        {
+          "artist": "Ashley Wallbridge",
+          "title": "Crush",
+          "remix": "",
+          "trackId": "450430"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ashley Wallbridge",
+      "title": "Crush",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "450430",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "113386",
+        "youtube": "113386",
+        "soundcloud": "113386",
+        "appleMusic": "113386"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ashley Wallbridge",
+          "title": "Crush",
+          "remix": "",
+          "trackId": "450430"
+        },
+        {
+          "artist": "Bingo Players",
+          "title": "Rattle",
+          "remix": "",
+          "trackId": "450433"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bingo Players",
+      "title": "Rattle",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "450433",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "46307",
+        "youtube": "46307",
+        "soundcloud": "46307",
+        "appleMusic": "46307"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Nicky Romero",
+      "title": "Toulouse",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "450436",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 360,
+      "mediaIds": {
+        "spotify": "56269",
+        "youtube": "56269",
+        "soundcloud": "56269",
+        "appleMusic": "56269"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Avicii ft. Salem Al Fakir",
+      "title": "Silhouettes (Syn Cole Creamfields Mix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "452056",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 440,
+      "mediaIds": {
+        "spotify": "91691",
+        "youtube": "91691",
+        "soundcloud": "91691",
+        "appleMusic": "91691"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "AN21 & Max Vangeli ft. Bnann",
+      "title": "Glow (AN21 & Max Vangeli & Promise Land Remix)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "452057",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 583,
+      "mediaIds": {
+        "spotify": "126862",
+        "youtube": "126862",
+        "soundcloud": "126862"
+      },
+      "blendGroup": [
+        {
+          "artist": "AN21 & Max Vangeli ft. Bnann",
+          "title": "Glow (AN21 & Max Vangeli & Promise Land Remix)",
+          "remix": "",
+          "trackId": "452057"
+        },
+        {
+          "artist": "Ivan Gough & Feenixpawl ft. Georgi Kay",
+          "title": "In My Mind (Axwell Mix)",
+          "remix": "",
+          "trackId": "452987"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ivan Gough & Feenixpawl ft. Georgi Kay",
+      "title": "In My Mind (Axwell Mix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "452987",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "59281",
+        "youtube": "59281",
+        "soundcloud": "59281",
+        "appleMusic": "59281"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Discopolis",
+      "title": "Committed To Sparkle Motion (DubVision Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "1344110",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 600,
+      "mediaIds": {
+        "spotify": "99863",
+        "youtube": "99863",
+        "soundcloud": "99863",
+        "appleMusic": "99863"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Ashley Wallbridge",
+      "title": "Crush (The Number You Have Reached Acappella)",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "456482",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 645,
+      "mediaIds": {
+        "spotify": "113386",
+        "youtube": "113386",
+        "soundcloud": "113386",
+        "appleMusic": "113386"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Nicky Romero & Sunnery James & Ryan Marciano ft. Fast Eddie",
+      "title": "S.O.T.U. (Sound Of The Underground)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "456483",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 648,
+      "mediaIds": {
+        "spotify": "124820",
+        "youtube": "124820",
+        "soundcloud": "124820",
+        "appleMusic": "124820"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Ralvero vs. Duck Sauce",
+      "title": "Get Down vs. Anyway (Avicii Bootleg)",
+      "remix": "",
+      "label": "DEAL/FOOL'S GOLD",
+      "trackId": "452058",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 735,
+      "mediaIds": {
+        "youtube": "28473"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Avicii ft. Wailin",
+      "title": "Radioactivity (X You)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "452059",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 900,
+      "mediaIds": {
+        "spotify": "136719",
+        "youtube": "136719",
+        "appleMusic": "136719"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Hard Rock Sofa & Swanky Tunes",
+      "title": "Here We Go",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "456484",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1065,
+      "mediaIds": {
+        "spotify": "73507",
+        "youtube": "73507",
+        "soundcloud": "73507",
+        "appleMusic": "73507"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Avicii",
+      "title": "UMF (Ultra Music Festival Anthem)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "452060",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1080,
+      "mediaIds": {
+        "spotify": "61157",
+        "youtube": "61157",
+        "appleMusic": "61157"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Florence + The Machine",
+      "title": "You've Got The Love (Mark Knight Remix)",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "452061",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1200,
+      "mediaIds": {
+        "spotify": "20916",
+        "youtube": "20916",
+        "soundcloud": "20916",
+        "appleMusic": "20916"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Deniz Koyu vs. Avicii & Albin Myers",
+      "title": "Bong Into Darkness (Avicii Bootleg)",
+      "remix": "",
+      "label": "LE7ELS/REFUNE",
+      "trackId": "452062",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1285,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Avicii",
+      "title": "Two Million",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "449903",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1560,
+      "mediaIds": {
+        "youtube": "77090",
+        "soundcloud": "77090"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Tim Berg",
+      "title": "Alcoholic (Avicii Dirty Mouth Edit)",
+      "remix": "",
+      "label": "JOIA",
+      "trackId": "449904",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1620,
+      "mediaIds": {
+        "spotify": "11199",
+        "youtube": "11199",
+        "appleMusic": "11199"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tim Berg",
+          "title": "Alcoholic (Avicii Dirty Mouth Edit)",
+          "remix": "",
+          "trackId": "449904"
+        },
+        {
+          "artist": "Tim Berg",
+          "title": "Alcoholic (CAZZETTE Trapleg Mix)",
+          "remix": "",
+          "trackId": "449908"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tim Berg",
+      "title": "Alcoholic (CAZZETTE Trapleg Mix)",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "449908",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "128052",
+        "youtube": "128052",
+        "appleMusic": "128052"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Pharoahe Monch & Filthy Disco vs. Plastik Funk & Tujamo",
+      "title": "Simon Says vs. Who (Avicii Bootleg)",
+      "remix": "",
+      "label": "CITY STARS/TRESCADECAPHOBIA",
+      "trackId": "449905",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Avicii ft. Etta James",
+      "title": "Levels (Vitzi Old School Intro Bootleg)",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "449664",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1890,
+      "mediaIds": {
+        "youtube": "50435",
+        "soundcloud": "50435"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii ft. Etta James",
+          "title": "Levels (Vitzi Old School Intro Bootleg)",
+          "remix": "",
+          "trackId": "449664"
+        },
+        {
+          "artist": "Etta James",
+          "title": "Something's Got A Hold On Me",
+          "remix": "",
+          "trackId": "449665"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Etta James",
+      "title": "Something's Got A Hold On Me",
+      "remix": "",
+      "label": "ARGO",
+      "trackId": "449665",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30650",
+        "youtube": "30650",
+        "soundcloud": "30650",
+        "appleMusic": "30650"
+      },
+      "blendGroup": [
+        {
+          "artist": "Etta James",
+          "title": "Something's Got A Hold On Me",
+          "remix": "",
+          "trackId": "449665"
+        },
+        {
+          "artist": "Avicii",
+          "title": "Levels",
+          "remix": "",
+          "trackId": "449666"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii",
+      "title": "Levels",
+      "remix": "",
+      "label": "LE7ELS/UMG",
+      "trackId": "449666",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "33255",
+        "youtube": "33255",
+        "soundcloud": "33255",
+        "appleMusic": "33255"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Avicii ft. Aloe Blacc",
+      "title": "Wake Me Up",
+      "remix": "",
+      "label": "PRMD/ISLAND",
+      "trackId": "449667",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2190,
+      "mediaIds": {
+        "spotify": "128053",
+        "youtube": "128053",
+        "soundcloud": "128053",
+        "appleMusic": "128053"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Avicii ft. Aloe Blacc & Mac Davis",
+      "title": "ID (Black And Blue) (Working Title)",
+      "remix": "",
+      "label": "PRMD",
+      "trackId": "449668",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2410,
+      "mediaIds": {
+        "youtube": "125747"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii ft. Aloe Blacc & Mac Davis",
+          "title": "ID (Black And Blue) (Working Title)",
+          "remix": "",
+          "trackId": "449668"
+        },
+        {
+          "artist": "Avicii ft. Blondfire",
+          "title": "Liar Liar (Avicii by Avicii)",
+          "remix": "",
+          "trackId": "452989"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii ft. Blondfire",
+      "title": "Liar Liar (Avicii by Avicii)",
+      "remix": "",
+      "label": "PRMD",
+      "trackId": "452989",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "185131",
+        "youtube": "185131",
+        "soundcloud": "185131",
+        "appleMusic": "185131"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Avicii ft. Audra Mae",
+      "title": "Addicted To You",
+      "remix": "",
+      "label": "PRMD/ISLAND",
+      "trackId": "449669",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2640,
+      "mediaIds": {
+        "spotify": "128955",
+        "youtube": "128955",
+        "soundcloud": "128955",
+        "appleMusic": "128955"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii ft. Audra Mae",
+          "title": "Addicted To You",
+          "remix": "",
+          "trackId": "449669"
+        },
+        {
+          "artist": "Avicii",
+          "title": "Speed (Burn & Lotus F1 Team Mix)",
+          "remix": "",
+          "trackId": "703105"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii",
+      "title": "Speed (Burn & Lotus F1 Team Mix)",
+      "remix": "",
+      "label": "",
+      "trackId": "703105",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 2700,
+      "mediaIds": {
+        "spotify": "153437",
+        "youtube": "153437",
+        "soundcloud": "153436",
+        "appleMusic": "153436"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Avicii ft. MØ",
+      "title": "Dear Boy",
+      "remix": "",
+      "label": "PRMD",
+      "trackId": "449670",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2880,
+      "mediaIds": {
+        "spotify": "125723",
+        "youtube": "125723",
+        "soundcloud": "125723",
+        "appleMusic": "125723"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Avicii ft. Linnea Henriksson",
+      "title": "Hope There's Someone (Avicii By Avicii)",
+      "remix": "",
+      "label": "PRMD",
+      "trackId": "449671",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3250,
+      "mediaIds": {
+        "spotify": "185126",
+        "youtube": "185126",
+        "soundcloud": "185126",
+        "appleMusic": "185126"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Avicii ft. Salem Al Fakir",
+      "title": "You Make Me",
+      "remix": "",
+      "label": "PRMD",
+      "trackId": "619367",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3459,
+      "mediaIds": {
+        "spotify": "129368",
+        "youtube": "129368",
+        "soundcloud": "129368",
+        "appleMusic": "129368"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Avicii ft. Audra Mae",
+      "title": "Long Road To Hell",
+      "remix": "",
+      "label": "PRMD",
+      "trackId": "449911",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3675,
+      "mediaIds": {
+        "spotify": "125994",
+        "youtube": "125994",
+        "soundcloud": "125994",
+        "appleMusic": "125994"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Avicii ft. Dan Reynolds",
+      "title": "Heart Upon My Sleeve (Vocal Mix)",
+      "remix": "",
+      "label": "PRMD",
+      "trackId": "452064",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3900,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Avicii ft. Dan Tyminski",
+      "title": "Hey Brother",
+      "remix": "",
+      "label": "PRMD/ISLAND",
+      "trackId": "452065",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 4200,
+      "mediaIds": {
+        "spotify": "128956",
+        "youtube": "128956",
+        "soundcloud": "128956",
+        "appleMusic": "128956"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Avicii",
+      "slug": "avicii"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "601329",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/84730327"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "4881024",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=A8PfxWVpHFo"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "653386",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=Vpvf6Q0TxtY"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "1162131",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=NX2oo8o6doo"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "76156",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/EFMrage"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "2022615",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T08:06:55.325Z",
+  "scrapeVersion": 2
+}

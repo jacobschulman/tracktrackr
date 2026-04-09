@@ -1,0 +1,578 @@
+{
+  "tlId": "1rf4b7wk",
+  "dj": "Ben Nicky",
+  "stage": "ASOT Stage",
+  "date": "2024-03-22",
+  "year": 2024,
+  "genre": "Afro House",
+  "tracksIdentified": 30,
+  "tracksTotal": 31,
+  "duration": "1h",
+  "views": 47,
+  "likes": 8,
+  "url": "https://www.1001tracklists.com/tracklist/1rf4b7wk/ben-nicky-asot-stage-ultra-music-festival-miami-united-states-2024-03-22.html",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Above & Beyond ft. Richard Bedford",
+      "title": "Sun & Moon (Blastoyz Remix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "10310310",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 7,
+      "mediaIds": {
+        "spotify": "616933",
+        "youtube": "616933",
+        "soundcloud": "616933",
+        "appleMusic": "616933"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Bassjackers",
+      "title": "Traffic",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "10310311",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 160,
+      "mediaIds": {
+        "spotify": "874298",
+        "youtube": "874298",
+        "soundcloud": "874298",
+        "appleMusic": "874298"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "John Summit ft. HAYLA",
+      "title": "Where You Are (Don Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "10310312",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": {
+        "soundcloud": "995631"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Delerium ft. Sarah McLachlan",
+      "title": "Silence (AVAO Remix)",
+      "remix": "",
+      "label": "NETTWERK",
+      "trackId": "10310313",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 428,
+      "mediaIds": {
+        "soundcloud": "482722"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Dimitri Vegas & Steve Aoki & Chapter & Verse",
+      "title": "Friends (Bassjackers Remix)",
+      "remix": "",
+      "label": "HOUSE OF HOUSE (SMASH THE HOUSE)",
+      "trackId": "10310314",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 595,
+      "mediaIds": {
+        "spotify": "878465",
+        "youtube": "878465",
+        "soundcloud": "878465",
+        "appleMusic": "878465"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Hardwell & Maddix & 4 Strings",
+      "title": "Take Me Away Again",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "10310315",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 660,
+      "mediaIds": {
+        "spotify": "848841",
+        "youtube": "848841",
+        "soundcloud": "848841",
+        "appleMusic": "848841"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hardwell & Maddix & 4 Strings",
+          "title": "Take Me Away Again",
+          "remix": "",
+          "trackId": "10310315"
+        },
+        {
+          "artist": "4 Strings ft. Susanne Teutenberg",
+          "title": "Take Me Away (Into The Night) (Darren Porter Rework)",
+          "remix": "",
+          "trackId": "10310316"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "4 Strings ft. Susanne Teutenberg",
+      "title": "Take Me Away (Into The Night) (Darren Porter Rework)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "10310316",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "471076",
+        "soundcloud": "471076"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "D-Block & S-te-Fan",
+      "title": "GODD Is A DJ",
+      "remix": "",
+      "label": "CHEEKY/BE YOURSELF",
+      "trackId": "10310434",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 875,
+      "mediaIds": {
+        "youtube": "808962"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Billy Gillies vs. Nadia Ali",
+      "title": "Rapture Disturbance (Lucas Deyong Mashup)",
+      "remix": "",
+      "label": "UMG/AFTERDARK (BLACK HOLE)",
+      "trackId": "10310317",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 952,
+      "mediaIds": {
+        "youtube": "535593",
+        "soundcloud": "535593"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Simon Patterson",
+      "title": "We'll See (Sean Tyas & WAIO Remix)",
+      "remix": "",
+      "label": "VII",
+      "trackId": "10310319",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1037,
+      "mediaIds": {
+        "spotify": "486587",
+        "youtube": "486587",
+        "soundcloud": "486587",
+        "appleMusic": "486587"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Kaimo K & Trance Classics & Mariske Hekkenberg",
+      "title": "Castles In The Sky",
+      "remix": "",
+      "label": "AMSTERDAM TRANCE (RAZ NITZAN)",
+      "trackId": "10310320",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1130,
+      "mediaIds": {
+        "spotify": "554861",
+        "youtube": "554861",
+        "appleMusic": "554861"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "The Temper Trap",
+      "title": "Sweet Disposition (Shugz Rework)",
+      "remix": "",
+      "label": "",
+      "trackId": "10328201",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1345,
+      "mediaIds": {
+        "soundcloud": "825482"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Ben Nicky & Distorted Dreams",
+      "title": "We Come 1 (Trey Pearce Remix)",
+      "remix": "",
+      "label": "XPLODED",
+      "trackId": "10310322",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1467,
+      "mediaIds": {
+        "spotify": "887095",
+        "youtube": "887095",
+        "soundcloud": "887095",
+        "appleMusic": "887095"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "EFESIAN",
+      "title": "Can't Be Stopped",
+      "remix": "",
+      "label": "EFESIAN",
+      "trackId": "10310323",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1560,
+      "mediaIds": {
+        "spotify": "901898",
+        "youtube": "901898",
+        "soundcloud": "901898",
+        "appleMusic": "901898"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Chicane ft. Moya Brennan",
+      "title": "Saltwater (Paul Webster & Patrick Gormley Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "10310324",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1655,
+      "mediaIds": {
+        "spotify": "977824",
+        "youtube": "977824",
+        "soundcloud": "977824",
+        "appleMusic": "977824"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Aly & Fila ft. Jwaydan",
+      "title": "We Control The Sunlight",
+      "remix": "",
+      "label": "FSOE",
+      "trackId": "10310325",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "29720",
+        "youtube": "29720",
+        "soundcloud": "29720",
+        "appleMusic": "29720"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Club Angel",
+      "title": "Bulletproof",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "10310326",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1960,
+      "mediaIds": {
+        "youtube": "951876",
+        "soundcloud": "951876"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Marlon Hoffstadt aka DJ Daddy Trance",
+      "title": "It's That Time",
+      "remix": "",
+      "label": "METHOD 808",
+      "trackId": "10310327",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2142,
+      "mediaIds": {
+        "spotify": "887970",
+        "youtube": "887970",
+        "soundcloud": "887970",
+        "appleMusic": "887970"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone (KEVU Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "10310328",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2208,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Alice Deejay",
+          "title": "Better Off Alone (KEVU Remix)",
+          "remix": "",
+          "trackId": "10310328"
+        },
+        {
+          "artist": "Matty Ralph",
+          "title": "No Whistle, No Party",
+          "remix": "",
+          "trackId": "10310346"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Matty Ralph",
+      "title": "No Whistle, No Party",
+      "remix": "",
+      "label": "",
+      "trackId": "10310346",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "926040",
+        "soundcloud": "926040"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Matty Ralph",
+      "title": "Satisfaction",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "10310347",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2295,
+      "mediaIds": {
+        "soundcloud": "979336"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Mark Sixma",
+      "title": "The Underground",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "10310348",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2405,
+      "mediaIds": {
+        "spotify": "980209",
+        "youtube": "980209",
+        "soundcloud": "980209",
+        "appleMusic": "980209"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Redlight",
+      "title": "9TS (90's Baby) (Matty Ralph Remix)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "10310361",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2570,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Zombie Nation",
+      "title": "Kernkraft 400 (SveTec Ht Rework)",
+      "remix": "",
+      "label": "GIGOLO",
+      "trackId": "10310349",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2700,
+      "mediaIds": {
+        "soundcloud": "905318"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Sons Of Charlie",
+      "title": "The Enemy Between My Ears (Ben Nicky Remix)",
+      "remix": "",
+      "label": "3BEAT",
+      "trackId": "10310379",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2790,
+      "mediaIds": {
+        "spotify": "905595",
+        "youtube": "905595",
+        "soundcloud": "905595",
+        "appleMusic": "905595"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Faithless",
+      "title": "Insomnia (Sub Zero Project Remix)",
+      "remix": "",
+      "label": "MINISTRY OF SOUND",
+      "trackId": "10310380",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2885,
+      "mediaIds": {
+        "youtube": "743223",
+        "appleMusic": "743223"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Wildchild",
+      "title": "Renegade Master (RALLYY Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "10310381",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2978,
+      "mediaIds": {
+        "soundcloud": "10310381"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Age Of Love",
+      "title": "The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix / SØLEN Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "10310383",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3050,
+      "mediaIds": {
+        "soundcloud": "992590"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Ben Nicky & Creeds",
+      "title": "Survive It",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "10310396",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3120,
+      "mediaIds": {
+        "spotify": "1020898",
+        "youtube": "1020898",
+        "soundcloud": "1020898",
+        "appleMusic": "1020898"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "CADZOW",
+      "title": "Hardcore Power (Stretch Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "10310397",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3300,
+      "mediaIds": {
+        "youtube": "1045103",
+        "soundcloud": "1045103"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "BYØRN",
+      "title": "Adagio For Strings",
+      "remix": "",
+      "label": "EKSTASIS",
+      "trackId": "10310382",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3370,
+      "mediaIds": {
+        "spotify": "858857",
+        "youtube": "858857",
+        "appleMusic": "858857"
+      },
+      "blendGroup": null
+    }
+  ],
+  "djs": [
+    {
+      "name": "Ben Nicky",
+      "slug": "bennicky"
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4029437",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=WQXdqZ9vens"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "4029455",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1785046755"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "4025002",
+      "idSource": "40",
+      "url": "https://hearthis.at/10999133/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:03:03.100Z",
+  "scrapeVersion": 2
+}
