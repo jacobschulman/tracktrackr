@@ -980,8 +980,8 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
 .leaderboard-row {
   display: flex;
   align-items: flex-start;
-  gap: 14px;
-  padding: 12px 16px;
+  gap: 10px;
+  padding: 10px 12px;
   border-radius: var(--radius-sm);
   transition: background var(--transition);
   cursor: pointer;
@@ -990,10 +990,10 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
 .leaderboard-row:last-child { border-bottom: none; }
 .leaderboard-row:hover { background: var(--surface2); }
 .leaderboard-rank {
-  font-size: 1.125rem;
+  font-size: 1rem;
   font-weight: 700;
   color: var(--purple-lt);
-  min-width: 28px;
+  min-width: 22px;
   text-align: right;
   font-variant-numeric: tabular-nums;
   padding-top: 2px;
@@ -2222,4 +2222,8 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
 @media (max-width: 480px) {
   .stat-bar { grid-template-columns: repeat(4, 1fr); }
   .filters { gap: 8px; }
+  .card { padding: 14px; }
+  .card-header { padding: 0 0 10px; }
+  .leaderboard-row { padding: 8px 6px; gap: 8px; }
+  .leaderboard-rank { min-width: 18px; font-size: 0.875rem; }
 }
