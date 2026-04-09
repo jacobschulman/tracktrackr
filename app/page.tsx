@@ -221,7 +221,7 @@ export default function HomePage() {
           <div style={{ fontSize: '0.75rem', color: 'var(--muted)' }}>Most played & trending</div>
         </Link>
         <Link href="/festivals" className="card" style={{ textDecoration: 'none', color: 'inherit', padding: '20px', textAlign: 'center' }}>
-          <div style={{ fontSize: '1.5rem', marginBottom: 4 }}>&#11177;</div>
+          <div style={{ fontSize: '1.5rem', marginBottom: 4 }}>&#9733;</div>
           <div style={{ fontWeight: 700, fontSize: '0.9375rem' }}>Festivals</div>
           <div style={{ fontSize: '0.75rem', color: 'var(--muted)' }}>All {totalFestivals} festivals</div>
         </Link>
