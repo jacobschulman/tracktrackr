@@ -277,3 +277,48 @@ if (fs.existsSync(oldIndex)) {
   fs.unlinkSync(oldIndex);
   console.log(`Removed old ${oldIndex}`);
 }
+
+// Build lightweight track search index
+const trackSearchEntries = [];
+const trackSearchMap = new Map(); // key -> { artist, title, playCount, years, djs }
+for (const [slug, djTracks] of tracksByDJ) {
+  for (const [key, t] of djTracks) {
+    if (!trackSearchMap.has(key)) {
+      trackSearchMap.set(key, { a: t.artist, t: t.title, p: 0, y: new Set(), d: new Set() });
+    }
+    const entry = trackSearchMap.get(key);
+    entry.p += t.count;
+    for (const y of t.years) entry.y.add(y);
+    entry.d.add(slug);
+  }
+}
+for (const [key, t] of trackSearchMap) {
+  trackSearchEntries.push({
+    a: t.a,
+    t: t.t,
+    s: '', // computed below
+    p: t.p,
+    y: t.y.size,
+    d: t.d.size,
+  });
+}
+// Sort by play count, take top 5000 for search
+trackSearchEntries.sort((a, b) => b.p - a.p);
+const topTracks = trackSearchEntries.slice(0, 5000);
+
+// Compute slugs
+function slugify(str) {
+  return str.toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+function makeTrackSlug(artist, title) {
+  return slugify(artist) + '-' + slugify(title);
+}
+for (const t of topTracks) {
+  t.s = makeTrackSlug(t.a, t.t);
+}
+
+const searchPath = path.join(DATA_ROOT, 'track-search.json');
+fs.writeFileSync(searchPath, JSON.stringify(topTracks));
+console.log(`Saved ${searchPath}: ${topTracks.length} tracks (${(fs.statSync(searchPath).size / 1024).toFixed(0)}KB)`);

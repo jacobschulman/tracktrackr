@@ -1,12 +1,15 @@
 import { NextResponse } from 'next/server';
-import { loadIndex, loadAllSets, getAllTrackKeys, parseTrackKey, getTrackHistory } from '@/lib/data';
-import { trackSlug } from '@/lib/slugs';
+import { loadIndex } from '@/lib/data';
+import fs from 'fs';
+import path from 'path';
 
-export async function GET() {
+let _searchData: { djs: any[]; tracks: any[] } | null = null;
+
+function loadSearchData() {
+  if (_searchData) return _searchData;
+
+  // DJs from festival indexes (fast)
   const index = loadIndex();
-  loadAllSets();
-
-  // Build DJ list
   const djMap = new Map<string, string>();
   for (const set of index.sets) {
     for (const dj of set.djs) {
@@ -15,21 +18,18 @@ export async function GET() {
   }
   const djs = [...djMap.entries()].map(([slug, name]) => ({ slug, name }));
 
-  // Build track list
-  const keys = getAllTrackKeys();
-  const tracks = keys.map(key => {
-    const { artist, title } = parseTrackKey(key);
-    const appearances = getTrackHistory(artist, title);
-    if (!appearances || appearances.length === 0) return null;
-    return {
-      a: artist,
-      t: title,
-      s: trackSlug(artist, title),
-      p: appearances.length,
-      y: new Set(appearances.map(a => a.year)).size,
-      d: new Set(appearances.flatMap(a => a.djSlugs)).size,
-    };
-  }).filter(Boolean);
+  // Tracks from pre-built search index (fast)
+  let tracks: any[] = [];
+  try {
+    const raw = fs.readFileSync(path.join(process.cwd(), 'data', 'track-search.json'), 'utf-8');
+    tracks = JSON.parse(raw);
+  } catch {}
 
-  return NextResponse.json({ djs, tracks });
+  _searchData = { djs, tracks };
+  return _searchData;
+}
+
+export async function GET() {
+  const data = loadSearchData();
+  return NextResponse.json(data);
 }
