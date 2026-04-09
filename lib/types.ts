@@ -42,6 +42,7 @@ export interface Track {
   label: string;
   trackId: string;
   type: 'normal' | 'blend' | string;
+  cueTime: number | null;
   blendGroup: { artist: string; title: string; remix?: string }[] | null;
 }
 

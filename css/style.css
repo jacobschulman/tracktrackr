@@ -1408,6 +1408,35 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
   margin-left: 4px;
 }
 
+/* Now-playing track highlight */
+.set-track-active {
+  background: rgba(168, 85, 247, 0.12);
+  margin: 0 -12px;
+  padding: 8px 12px;
+  border-radius: var(--radius-xs);
+  border-left: 3px solid var(--purple-lt);
+}
+.set-track-active .set-track-pos {
+  color: var(--purple-lt);
+  font-weight: 600;
+}
+
+/* Cue time badge */
+.set-track-cue {
+  font-size: 0.625rem;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  padding: 1px 6px;
+  border-radius: 4px;
+  background: var(--surface2);
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.set-track-active .set-track-cue {
+  color: var(--purple-lt);
+  background: rgba(168, 85, 247, 0.15);
+}
+
 /* ── DJ Cloud (track page) ─────────────────────── */
 .dj-cloud {
   display: flex;

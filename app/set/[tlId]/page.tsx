@@ -6,6 +6,7 @@ import { StageBadge } from '@/components/StageBadge';
 import { FestivalBadge } from '@/components/FestivalBadge';
 import Link from 'next/link';
 import { PlayButtons } from './PlayButtons';
+import { SetTracklist } from './SetTracklist';
 import type { Metadata } from 'next';
 
 export function generateStaticParams() {
@@ -199,215 +200,44 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
             {identifiedTracks.length} of {normalTracks.length} identified
           </div>
         </div>
-        <div>
-          {tracks.map((t, idx) => {
+        <SetTracklist
+          tlId={tlId}
+          djName={djName}
+          hasCueTimes={tracks.some(t => t.cueTime != null && t.cueTime > 0)}
+          tracks={tracks.map((t, idx) => {
             const isID = isIDTrack(t.artist, t.title);
             const key = !isID ? trackKey(t.artist, t.title) : null;
             const slug = key ? trackSlug(t.artist, t.title) : null;
-            const anthemYears = key ? djAnthems.get(key) : null;
-            const otherDJCount = key ? trackPopularity.get(key) : null;
-
-            // Skip blend-type tracks whose trackId is already shown in a parent's blendGroup
-            if (t.type === 'blend' && t.trackId && blendGroupTrackIds.has(t.trackId)) {
-              return null;
-            }
-
-            if (isID) {
-              return (
-                <div key={idx} className="set-track" style={{ opacity: 0.4 }}>
-                  <div className="set-track-pos">{t.pos || ''}</div>
-                  <div className="set-track-info">
-                    <span
-                      style={{ fontSize: '0.8125rem', color: 'var(--muted)' }}
-                    >
-                      ID &mdash; ID
-                    </span>
-                  </div>
-                </div>
-              );
-            }
-
-            // Blend sub-tracks for this normal track
-            const hasBlend = t.blendGroup && t.blendGroup.length >= 2;
+            const anthemYears = key ? djAnthems.get(key) || null : null;
+            const otherDJCount = key ? trackPopularity.get(key) || null : null;
+            const skipRender = t.type === 'blend' && !!t.trackId && blendGroupTrackIds.has(t.trackId);
+            const hasBlend = t.type === 'normal' && t.blendGroup && t.blendGroup.length >= 2;
             const blendTracks = hasBlend
-              ? t.blendGroup!.filter(
-                  (bg) =>
-                    !isIDTrack(bg.artist, bg.title) &&
-                    (bg as any).trackId !== t.trackId
-                )
+              ? t.blendGroup!
+                  .filter((bg) => !isIDTrack(bg.artist, bg.title) && (bg as any).trackId !== t.trackId)
+                  .map((bg) => ({ artist: bg.artist, title: bg.title, remix: bg.remix || '', slug: trackSlug(bg.artist, bg.title) }))
               : [];
 
-            if (t.type === 'blend') {
-              // Standalone w/ track
-              return (
-                <div
-                  key={idx}
-                  className="set-track blend-track"
-                  style={{
-                    marginLeft: '28px',
-                    borderLeft: '2px solid var(--pink)',
-                    paddingLeft: '12px',
-                  }}
-                >
-                  <div
-                    className="set-track-pos"
-                    style={{ color: 'var(--pink)', fontSize: '0.75rem' }}
-                  >
-                    w/
-                  </div>
-                  <div className="set-track-info">
-                    <Link
-                      href={`/track/${slug}`}
-                      className="track-link"
-                      style={{ fontSize: '0.8125rem' }}
-                    >
-                      <span style={{ fontWeight: 500 }}>{t.artist}</span>
-                      <span style={{ color: 'var(--muted-lt)' }}>
-                        {' '}
-                        &mdash; {t.title}
-                      </span>
-                      {t.remix && (
-                        <span
-                          style={{
-                            color: 'var(--muted)',
-                            fontSize: '0.75rem',
-                          }}
-                        >
-                          {' '}
-                          ({t.remix})
-                        </span>
-                      )}
-                    </Link>
-                    {t.label && (
-                      <div
-                        style={{
-                          fontSize: '0.6875rem',
-                          color: 'var(--muted)',
-                          marginTop: '1px',
-                        }}
-                      >
-                        {t.label}
-                      </div>
-                    )}
-                  </div>
-                </div>
-              );
-            }
-
-            const spotifyQ = encodeURIComponent(`${t.artist} ${t.title}`);
-
-            return (
-              <div key={idx}>
-                <div className="set-track">
-                  <div className="set-track-pos">{t.pos || ''}</div>
-                  <div className="set-track-info">
-                    <Link href={`/track/${slug}`} className="track-link">
-                      <span style={{ fontWeight: 500 }}>{t.artist}</span>
-                      <span style={{ color: 'var(--muted-lt)' }}>
-                        {' '}
-                        &mdash; {t.title}
-                      </span>
-                      {t.remix && (
-                        <span
-                          style={{
-                            color: 'var(--muted)',
-                            fontSize: '0.8125rem',
-                          }}
-                        >
-                          {' '}
-                          ({t.remix})
-                        </span>
-                      )}
-                    </Link>
-                    {t.label && (
-                      <div
-                        style={{
-                          fontSize: '0.6875rem',
-                          color: 'var(--muted)',
-                          marginTop: '1px',
-                        }}
-                      >
-                        {t.label}
-                      </div>
-                    )}
-                  </div>
-                  <div className="set-track-badges">
-                    {anthemYears && (
-                      <span
-                        className="pill pill-purple"
-                        title={`Also played by ${djName} in ${anthemYears.join(', ')}`}
-                        style={{ fontSize: '0.625rem', cursor: 'help' }}
-                      >
-                        &#9733; {anthemYears.length}yr
-                      </span>
-                    )}
-                    {otherDJCount ? (
-                      <span
-                        className="pill"
-                        title={`${otherDJCount} other DJs played this`}
-                        style={{ fontSize: '0.625rem', cursor: 'help' }}
-                      >
-                        {otherDJCount} DJs
-                      </span>
-                    ) : null}
-                    <a
-                      href={`https://open.spotify.com/search/${spotifyQ}`}
-                      target="_blank"
-                      rel="noopener"
-                      title="Search on Spotify"
-                      className="spotify-btn"
-                    >
-                      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
-                    </a>
-                  </div>
-                </div>
-                {/* Blend sub-tracks */}
-                {blendTracks.length > 0 && (
-                  <div
-                    className="set-track blend-track"
-                    style={{
-                      marginLeft: '28px',
-                      borderLeft: '2px solid var(--pink)',
-                      paddingLeft: '12px',
-                    }}
-                  >
-                    <div
-                      className="set-track-pos"
-                      style={{ color: 'var(--pink)', fontSize: '0.75rem' }}
-                    >
-                      w/
-                    </div>
-                    <div className="set-track-info">
-                      {blendTracks.map((bg, bi) => (
-                        <span key={bi}>
-                          {bi > 0 && (
-                            <span
-                              style={{
-                                color: 'var(--muted)',
-                                fontSize: '0.6875rem',
-                              }}
-                            >
-                              {' '}
-                              +{' '}
-                            </span>
-                          )}
-                          <Link
-                            href={`/track/${trackSlug(bg.artist, bg.title)}`}
-                            className="track-link"
-                            style={{ fontSize: '0.8125rem' }}
-                          >
-                            {bg.artist} &mdash; {bg.title}
-                            {bg.remix ? ` (${bg.remix})` : ''}
-                          </Link>
-                        </span>
-                      ))}
-                    </div>
-                  </div>
-                )}
-              </div>
-            );
+            return {
+              idx,
+              pos: t.pos,
+              artist: t.artist,
+              title: t.title,
+              remix: t.remix,
+              label: t.label,
+              trackId: t.trackId,
+              type: t.type,
+              cueTime: t.cueTime ?? null,
+              slug,
+              isID,
+              anthemYears,
+              otherDJCount,
+              blendTracks,
+              spotifyQ: encodeURIComponent(`${t.artist} ${t.title}`),
+              skipRender,
+            };
           })}
-        </div>
+        />
       </div>
 
       {/* Same day sets */}

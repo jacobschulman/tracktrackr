@@ -64,6 +64,15 @@ export function playInBar(platform: string, url: string, title: string, tlId?: s
   );
 }
 
+/**
+ * Call this to seek the current player to a specific time (seconds).
+ */
+export function seekPlayer(time: number) {
+  playerBus?.dispatchEvent(
+    new CustomEvent('seek', { detail: { time } })
+  );
+}
+
 // ── Component ─────────────────────────────────────
 export function PlayerBar() {
   const [state, setState] = useState<PlayerState>({
@@ -263,6 +272,33 @@ export function PlayerBar() {
     playerBus.addEventListener('play', handler);
     return () => playerBus.removeEventListener('play', handler);
   }, [startPlayback]);
+
+  // ── Broadcast progress to other components ──────
+  useEffect(() => {
+    if (!playerBus || !state.visible || !state.tlId) return;
+    const durSec = state.platform === 'soundcloud' ? state.duration / 1000 : state.duration;
+    playerBus.dispatchEvent(
+      new CustomEvent('progress', {
+        detail: { currentTime: state.currentTime, duration: durSec, tlId: state.tlId, playing: state.playing },
+      })
+    );
+  }, [state.currentTime, state.playing, state.visible, state.tlId, state.duration, state.platform]);
+
+  // ── Listen for seek requests from other components ──
+  useEffect(() => {
+    if (!playerBus) return;
+    const handler = (e: Event) => {
+      const { time } = (e as CustomEvent).detail;
+      if (!widgetRef.current) return;
+      if (state.platform === 'youtube') {
+        widgetRef.current.seekTo(time, true);
+      } else if (state.platform === 'soundcloud') {
+        widgetRef.current.seekTo(time * 1000);
+      }
+    };
+    playerBus.addEventListener('seek', handler);
+    return () => playerBus.removeEventListener('seek', handler);
+  }, [state.platform]);
 
   // ── Derived values ──────────────────────────────
   const progressPct =
