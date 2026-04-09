@@ -1,8 +1,9 @@
 import { loadIndex, loadSet, loadAllSets, getTrackHistory, trackKey, getDJHistory } from '@/lib/data';
-import { getStageColor } from '@/lib/config';
+import { getStageColor } from '@/lib/festivals';
 import { fmt } from '@/lib/data';
 import { trackSlug, slugify } from '@/lib/slugs';
 import { StageBadge } from '@/components/StageBadge';
+import { FestivalBadge } from '@/components/FestivalBadge';
 import Link from 'next/link';
 import { PlayButtons } from './PlayButtons';
 
@@ -53,7 +54,7 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
   const djSlug = setData.djs?.[0]?.slug || '';
   const djName = setData.dj || 'Unknown DJ';
   const dateFormatted = formatDate(setData.date);
-  const stageColor = getStageColor(setData.stage);
+  const stageColor = getStageColor(setData.festival || 'ultra-miami', setData.stage);
 
   // Same day sets on same stage
   const sameDaySets = index.sets
@@ -117,6 +118,10 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
   const ytRec = recordings.find((r: any) => r.platform === 'youtube');
   const scRec = recordings.find((r: any) => r.platform === 'soundcloud');
 
+  // Compute real identified count from actual track data
+  const identifiedTracks = normalTracks.filter(t => !isIDTrack(t.artist, t.title));
+  const festivalDisplayName = setData.festivalName || 'Festival';
+
   return (
     <>
       {/* Hero */}
@@ -127,18 +132,7 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
           marginBottom: '32px',
         }}
       >
-        <div
-          style={{
-            fontSize: '0.75rem',
-            color: 'var(--muted)',
-            textTransform: 'uppercase',
-            letterSpacing: '0.05em',
-            marginBottom: '4px',
-          }}
-        >
-          {setData.year} &middot; {setData.stage}
-        </div>
-        <h1 style={{ marginBottom: '8px' }}>
+        <h1 style={{ marginBottom: '6px', fontSize: '2rem' }}>
           {djSlug ? (
             <Link
               href={`/dj/${djSlug}`}
@@ -150,20 +144,17 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
           ) : (
             djName
           )}
+          <span style={{ color: 'var(--muted-lt)', fontWeight: 400 }}> at {festivalDisplayName}</span>
         </h1>
-        <div className="detail-meta">
-          <span>{dateFormatted}</span>
-          <span className="separator">&middot;</span>
+        <div style={{ fontSize: '0.9375rem', color: 'var(--muted-lt)', marginBottom: 12 }}>
+          {dateFormatted}
+          {(setData as any).duration && <> &middot; {(setData as any).duration}</>}
+          &nbsp;&middot;&nbsp;
           <StageBadge stage={setData.stage} />
-          {(setData as any).duration && (
-            <>
-              <span className="separator">&middot;</span>
-              <span>{(setData as any).duration}</span>
-            </>
-          )}
-          <span className="separator">&middot;</span>
-          <span>{normalTracks.length} tracks</span>
-          <span className="separator">&middot;</span>
+        </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 12, flexWrap: 'wrap', marginBottom: 12 }}>
+          <FestivalBadge festival={setData.festival || 'ultra-miami'} size="md" />
+          <span style={{ fontSize: '0.8125rem', color: 'var(--muted-lt)' }}>{identifiedTracks.length} of {normalTracks.length} tracks identified</span>
           <a
             href={`https://www.1001tracklists.com/tracklist/${tlId}/`}
             target="_blank"
@@ -171,14 +162,14 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
             className="ext-link"
             style={{ color: 'var(--purple-lt)', fontSize: '0.8125rem' }}
           >
-            1001Tracklists
+            1001Tracklists &rarr;
           </a>
         </div>
         {/* Recording play buttons */}
         <PlayButtons
           ytUrl={ytRec?.url}
           scUrl={scRec?.url}
-          title={`${djName} @ ${setData.stage} · Ultra Miami · ${setData.year}`}
+          title={`${djName} @ ${setData.stage} · ${festivalDisplayName} · ${setData.year}`}
           tlId={tlId}
         />
       </div>
@@ -200,7 +191,7 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
               alignSelf: 'center',
             }}
           >
-            {djName} at Ultra:
+            {djName} sets:
           </span>
           {otherSets.slice(0, 12).map((s) => (
             <Link
@@ -232,8 +223,7 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
         <div className="card-header">
           <div className="card-title">Tracklist</div>
           <div className="text-muted" style={{ fontSize: '0.75rem' }}>
-            {(setData as any).tracksIdentified || 0} of{' '}
-            {(setData as any).tracksTotal || tracks.length} identified
+            {identifiedTracks.length} of {normalTracks.length} identified
           </div>
         </div>
         <div>
@@ -392,15 +382,9 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
                       target="_blank"
                       rel="noopener"
                       title="Search on Spotify"
-                      className="spotify-link"
-                      style={{
-                        fontSize: '0.625rem',
-                        color: 'var(--green)',
-                        opacity: 0.4,
-                        textDecoration: 'none',
-                      }}
+                      className="spotify-btn"
                     >
-                      &#9835;
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
                     </a>
                   </div>
                 </div>

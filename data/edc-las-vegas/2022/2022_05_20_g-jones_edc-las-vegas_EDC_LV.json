@@ -1,0 +1,533 @@
+{
+  "tlId": "2n5jjqlk",
+  "dj": "G Jones",
+  "stage": "EDC Las Vegas",
+  "date": "2022-05-20",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/2n5jjqlk/g-jones-basspod-edc-las-vegas-united-states-2022-05-20.html",
+  "djs": [
+    {
+      "name": "G Jones",
+      "slug": "gjones"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Rustie",
+      "title": "Triadzz",
+      "remix": "",
+      "label": "NUMBERS",
+      "trackId": "7718652",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "130006",
+        "youtube": "130006",
+        "soundcloud": "130006",
+        "appleMusic": "130006"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "G Jones",
+      "title": "In Your Head",
+      "remix": "(Vocal Loop)",
+      "label": "ILLUSORY",
+      "trackId": "7718651",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "430792",
+        "youtube": "430792",
+        "soundcloud": "430792",
+        "appleMusic": "430792"
+      },
+      "blendGroup": [
+        {
+          "artist": "G Jones",
+          "title": "In Your Head",
+          "remix": "(Vocal Loop)",
+          "trackId": "7718651"
+        },
+        {
+          "artist": "Shadient & WAVEDASH",
+          "title": "Get Wicked",
+          "remix": "",
+          "trackId": "7718653"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Shadient & WAVEDASH",
+      "title": "Get Wicked",
+      "remix": "",
+      "label": "GUD VIBRATIONS",
+      "trackId": "7718653",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "520063",
+        "youtube": "520063",
+        "soundcloud": "520063",
+        "appleMusic": "520063"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "ISOxo",
+      "title": "GoneGirl",
+      "remix": "",
+      "label": "",
+      "trackId": "7718654",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 194,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "G Jones",
+      "title": "Immortal Light",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "7718655",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "529315",
+        "youtube": "529315",
+        "soundcloud": "529315",
+        "appleMusic": "529315"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "G Jones",
+      "title": "Elysian Hardcore",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "7712062",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "845794",
+        "youtube": "845794",
+        "soundcloud": "845794",
+        "appleMusic": "845794"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Shades",
+      "title": "Flame Unbroken",
+      "remix": "",
+      "label": "SQUARE",
+      "trackId": "7718656",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 462,
+      "mediaIds": {
+        "spotify": "1088821",
+        "youtube": "1088821",
+        "appleMusic": "1088821"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "G Jones",
+      "title": "Helix",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "7718657",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "309216",
+        "youtube": "309216",
+        "soundcloud": "309216",
+        "appleMusic": "309216"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "The Prodigy",
+      "title": "Out Of Space",
+      "remix": "",
+      "label": "XL",
+      "trackId": "9248189",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5760",
+        "youtube": "5760",
+        "soundcloud": "5760",
+        "appleMusic": "5760"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Prodigy",
+          "title": "Out Of Space",
+          "remix": "",
+          "trackId": "9248189"
+        },
+        {
+          "artist": "Rustie",
+          "title": "Terra Star",
+          "remix": "",
+          "trackId": "7718658"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rustie",
+      "title": "Terra Star",
+      "remix": "",
+      "label": "LUCKYME",
+      "trackId": "7718658",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "173663",
+        "soundcloud": "173663"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7718659",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 741,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7718659"
+        },
+        {
+          "artist": "ISOxo",
+          "title": "Ground (VIP)",
+          "remix": "",
+          "trackId": "7718660"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ISOxo",
+      "title": "Ground (VIP)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7718660",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "539523",
+        "soundcloud": "539523"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Project Paradis",
+      "title": "Bull Run",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "7712061",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "568203",
+        "youtube": "568203",
+        "soundcloud": "568203",
+        "appleMusic": "568203"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "G Jones",
+      "title": "Understanding The Possibility",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "7718661",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "423861",
+        "youtube": "423861",
+        "soundcloud": "423861",
+        "appleMusic": "423861"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "G Jones",
+      "title": "A2C2I2D",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "7718662",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "656349",
+        "youtube": "656349",
+        "soundcloud": "656349",
+        "appleMusic": "656349"
+      },
+      "blendGroup": [
+        {
+          "artist": "G Jones",
+          "title": "A2C2I2D",
+          "remix": "",
+          "trackId": "7718662"
+        },
+        {
+          "artist": "Aphex Twin ft. Run Jeremy",
+          "title": "Windowlicker",
+          "remix": "",
+          "trackId": "7718663"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Aphex Twin ft. Run Jeremy",
+      "title": "Windowlicker",
+      "remix": "",
+      "label": "WARP",
+      "trackId": "7718663",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "4379",
+        "youtube": "4379",
+        "soundcloud": "4379",
+        "appleMusic": "4379"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "ISOxo",
+      "title": "Click",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "7712063",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "546428",
+        "youtube": "546428",
+        "soundcloud": "546428",
+        "appleMusic": "546428"
+      },
+      "blendGroup": [
+        {
+          "artist": "ISOxo",
+          "title": "Click",
+          "remix": "",
+          "trackId": "7712063"
+        },
+        {
+          "artist": "Elsewhere",
+          "title": "Trippin'",
+          "remix": "(Vocal Loop)",
+          "trackId": "7712064"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Elsewhere",
+      "title": "Trippin'",
+      "remix": "(Vocal Loop)",
+      "label": "MINDSET",
+      "trackId": "7712064",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "742355",
+        "soundcloud": "742355"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "EPROM & G Jones",
+      "title": "On My Mind",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "7712065",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "771580",
+        "youtube": "771580",
+        "soundcloud": "771580",
+        "appleMusic": "771580"
+      },
+      "blendGroup": [
+        {
+          "artist": "EPROM & G Jones",
+          "title": "On My Mind",
+          "remix": "",
+          "trackId": "7712065"
+        },
+        {
+          "artist": "Knock2",
+          "title": "GEMS",
+          "remix": "",
+          "trackId": "7718665"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knock2",
+      "title": "GEMS",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "7718665",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "604990",
+        "youtube": "604990",
+        "soundcloud": "604990",
+        "appleMusic": "604990"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "EPROM & G Jones",
+      "title": "Hysteria",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "7712066",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "383786",
+        "youtube": "383786",
+        "soundcloud": "383786",
+        "appleMusic": "383786"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "4Hero vs. Outlander",
+      "title": "Cookin' Up Yah Brain vs. Vamp (EPROM Edit)",
+      "remix": "",
+      "label": "R&S/REINFORCED",
+      "trackId": "7712067",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "G Jones",
+      "title": "Dark Artifact",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "7712069",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "526948",
+        "youtube": "526948",
+        "soundcloud": "526948",
+        "appleMusic": "526948"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "G Jones",
+      "title": "In Your Head (EPROM Edit)",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "7712070",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "739935"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "EPROM",
+      "title": "Hurricane",
+      "remix": "",
+      "label": "RWINA",
+      "trackId": "7712071",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "174227",
+        "youtube": "174227",
+        "soundcloud": "174227",
+        "appleMusic": "174227"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "3427437",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/dsotm"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "3204660",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=r-tbuttp8qc"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:07:33.791Z",
+  "scrapeVersion": 2
+}

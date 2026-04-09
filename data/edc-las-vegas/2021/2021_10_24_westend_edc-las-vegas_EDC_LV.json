@@ -1,0 +1,606 @@
+{
+  "tlId": "11v5q94t",
+  "dj": "Westend",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-24",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/11v5q94t/westend-stereobloom-edc-las-vegas-united-states-2021-10-24.html",
+  "djs": [
+    {
+      "name": "Westend",
+      "slug": "westend"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Jaded",
+      "title": "Welcome To The People",
+      "remix": "",
+      "label": "HIGHER GROUND (MAD DECENT)",
+      "trackId": "7014958",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "722380",
+        "youtube": "722380",
+        "soundcloud": "722380",
+        "appleMusic": "722380"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "CID & Westend",
+      "title": "Let Me Take You",
+      "remix": "",
+      "label": "ARMADA SUBJEKT",
+      "trackId": "7014959",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "758361",
+        "youtube": "758361",
+        "soundcloud": "758361",
+        "appleMusic": "758361"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "DJ KUBA & NEITAN X Skytech",
+      "title": "Dancing (Wh0 Festival Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "7014960",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "718342",
+        "youtube": "718342",
+        "soundcloud": "718342",
+        "appleMusic": "718342"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Edwin Starr",
+      "title": "War (Westend Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "7014961",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Edwin Starr",
+          "title": "War (Westend Bootleg)",
+          "remix": "",
+          "trackId": "7014961"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Shane Patrick Riley Edit)",
+          "remix": "",
+          "trackId": "7014962"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger (Shane Patrick Riley Edit)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "7014962",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "627250"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Shane Patrick Riley Edit)",
+          "remix": "",
+          "trackId": "7014962"
+        },
+        {
+          "artist": "Westend",
+          "title": "Perfect",
+          "remix": "",
+          "trackId": "7014963"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Westend",
+      "title": "Perfect",
+      "remix": "",
+      "label": "D4 D4NCE (DEFECTED)",
+      "trackId": "7014963",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "738302",
+        "youtube": "738302",
+        "soundcloud": "738302",
+        "appleMusic": "738302"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Thomas Newson & Alterboy",
+      "title": "Rapapa",
+      "remix": "",
+      "label": "THE MYTH OF NYX",
+      "trackId": "7014964",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "705960",
+        "youtube": "705960",
+        "soundcloud": "705960",
+        "appleMusic": "705960"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Chapter & Verse",
+      "title": "Worlds End",
+      "remix": "",
+      "label": "ATOM BOMB",
+      "trackId": "7014965",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "749193",
+        "youtube": "749193",
+        "appleMusic": "749193"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Vintage Culture & Fancy Inc & Roland Clark",
+      "title": "Free",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "7014966",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "700825",
+        "youtube": "700825",
+        "soundcloud": "700825",
+        "appleMusic": "700825"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Dani Hageman",
+      "title": "Hello",
+      "remix": "",
+      "label": "PRISON",
+      "trackId": "7014967",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "317207",
+        "youtube": "317207",
+        "soundcloud": "317207",
+        "appleMusic": "317207"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "CID & Westend",
+      "title": "Jumpin'",
+      "remix": "",
+      "label": "REPOPULATE MARS",
+      "trackId": "7014968",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "654808",
+        "youtube": "654808",
+        "soundcloud": "654808",
+        "appleMusic": "654808"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Drake ft. Future & Young Thug",
+      "title": "Way 2 Sexy",
+      "remix": "",
+      "label": "OVO",
+      "trackId": "7014969",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "723971",
+        "youtube": "723971",
+        "soundcloud": "723971",
+        "appleMusic": "723971"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Josh Wink & Lil' Louis",
+      "title": "How's Your Evening So Far? (Chris Lake Remix)",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "7014970",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "482880",
+        "youtube": "482880",
+        "soundcloud": "482880",
+        "appleMusic": "482880"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Westend",
+      "title": "Lollipop",
+      "remix": "",
+      "label": "TECHNE",
+      "trackId": "7866492",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "777902",
+        "youtube": "777902",
+        "appleMusic": "777902"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "JOSHWA & Lee Foss",
+      "title": "My Humps",
+      "remix": "",
+      "label": "REPOPULATE MARS",
+      "trackId": "7014971",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "732385",
+        "youtube": "732385",
+        "soundcloud": "732385",
+        "appleMusic": "732385"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Fourword",
+      "title": "Snake Charmer",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "7014972",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "667154",
+        "youtube": "667154",
+        "soundcloud": "667154",
+        "appleMusic": "667154"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fourword",
+          "title": "Snake Charmer",
+          "remix": "",
+          "trackId": "7014972"
+        },
+        {
+          "artist": "Cloonee",
+          "title": "Sun Goes Down",
+          "remix": "",
+          "trackId": "7014973"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cloonee",
+      "title": "Sun Goes Down",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "7014973",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "506902",
+        "youtube": "506902",
+        "soundcloud": "506902",
+        "appleMusic": "506902"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Farruko ft. Victor Cardenas",
+      "title": "Pepas (GORDO & Shaun Frank Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "7014974",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "721326"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Westend",
+      "title": "Get This Party Started",
+      "remix": "",
+      "label": "GLASGOW UNDERGROUND",
+      "trackId": "7014975",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "701750",
+        "youtube": "701750",
+        "soundcloud": "701750",
+        "appleMusic": "701750"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Sonny Fodera & Dom Dolla",
+      "title": "Moving Blind (Biscits Remix)",
+      "remix": "",
+      "label": "SOLOTOKO",
+      "trackId": "7014976",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "610421",
+        "youtube": "610421",
+        "soundcloud": "610421",
+        "appleMusic": "610421"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Westend",
+      "title": "Give It To Me",
+      "remix": "",
+      "label": "IN / ROTATION",
+      "trackId": "7014977",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "575299",
+        "youtube": "575299",
+        "soundcloud": "575299",
+        "appleMusic": "575299"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Westend ft. Ranger Trucco",
+      "title": "Life Of Sin",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "7014978",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "724074",
+        "youtube": "724074",
+        "soundcloud": "724074",
+        "appleMusic": "724074"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "BrEaCh",
+      "title": "Jack",
+      "remix": "",
+      "label": "DIRTYBIRD",
+      "trackId": "7014979",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "124762",
+        "youtube": "124762",
+        "soundcloud": "124762",
+        "appleMusic": "124762"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Deeper Purpose",
+      "title": "Your Attention",
+      "remix": "",
+      "label": "TOMORROWLAND",
+      "trackId": "7014980",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "719306",
+        "youtube": "719306",
+        "appleMusic": "719306"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Adam Beyer & Bart Skils",
+      "title": "Your Mind",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "7014981",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "420891",
+        "youtube": "420891",
+        "soundcloud": "420891",
+        "appleMusic": "420891"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Eats Everything",
+      "title": "Space Raiders (Space 92 Remix)",
+      "remix": "",
+      "label": "KNEADED PAINS",
+      "trackId": "7014982",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "728338",
+        "youtube": "728338",
+        "soundcloud": "728338",
+        "appleMusic": "728338"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Eli Brown",
+      "title": "Fading To Black",
+      "remix": "",
+      "label": "ARCANE",
+      "trackId": "7014983",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "639870",
+        "youtube": "639870",
+        "soundcloud": "639870",
+        "appleMusic": "639870"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7014984",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Westend & Kyle Walker",
+      "title": "Vital",
+      "remix": "",
+      "label": "SINK OR SWIM",
+      "trackId": "7014985",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "693859",
+        "youtube": "693859",
+        "soundcloud": "693859",
+        "appleMusic": "693859"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Maur ft. Faber",
+      "title": "Set You Free",
+      "remix": "",
+      "label": "SOLA (ARMADA)",
+      "trackId": "7014986",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "613799",
+        "soundcloud": "613799",
+        "appleMusic": "613799"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Jaded & Westend",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7014987",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3541154",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=S3QToK5eUvY"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "2566224",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1162781218"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:14:09.626Z",
+  "scrapeVersion": 2
+}

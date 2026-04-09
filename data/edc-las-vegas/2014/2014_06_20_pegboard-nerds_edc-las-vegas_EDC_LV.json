@@ -1,0 +1,980 @@
+{
+  "tlId": "44qxy9t",
+  "dj": "Pegboard Nerds",
+  "stage": "EDC Las Vegas",
+  "date": "2014-06-20",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/44qxy9t/pegboard-nerds-basspod-edc-las-vegas-united-states-2014-06-20.html",
+  "djs": [
+    {
+      "name": "Pegboard Nerds",
+      "slug": "pegboardnerds"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Pegboard Nerds",
+      "title": "Close Encounter",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "958712",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "118240",
+        "soundcloud": "118240",
+        "appleMusic": "118240"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Pegboard Nerds",
+      "title": "New Style",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "981211",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "205745",
+        "youtube": "205745",
+        "soundcloud": "205745",
+        "appleMusic": "205745"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Pegboard Nerds",
+      "title": "Bassline Kickin (Silverback Remix)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "958713",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "199568",
+        "youtube": "199568",
+        "soundcloud": "199568"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Ummet Ozcan",
+      "title": "Raise Your Hands (SLANDER Festival Trap Edit)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "958714",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "194400",
+        "soundcloud": "194400"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Headhunterz ft. Tatu",
+      "title": "Colors",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "958716",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "144110",
+        "youtube": "144110",
+        "soundcloud": "144110",
+        "appleMusic": "144110"
+      },
+      "blendGroup": [
+        {
+          "artist": "Headhunterz ft. Tatu",
+          "title": "Colors",
+          "remix": "",
+          "trackId": "958716"
+        },
+        {
+          "artist": "Headhunterz ft. Tatu",
+          "title": "Colors (Yellow Claw Remix)",
+          "remix": "",
+          "trackId": "958715"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Headhunterz ft. Tatu",
+      "title": "Colors (Yellow Claw Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "958715",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "171272",
+        "youtube": "171272",
+        "soundcloud": "171272",
+        "appleMusic": "171272"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Krewella",
+      "title": "Party Monster",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "958717",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "155330",
+        "youtube": "155330",
+        "soundcloud": "155330"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Bro Safari & UFO! & Beauty Brain",
+      "title": "No Control",
+      "remix": "",
+      "label": "BRO SAFARI",
+      "trackId": "958718",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "200914",
+        "youtube": "200914",
+        "soundcloud": "200914",
+        "appleMusic": "200914"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "SNAILS & Bawdy",
+      "title": "RDM",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "965446",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "213566",
+        "youtube": "213566",
+        "soundcloud": "213566",
+        "appleMusic": "213566"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Pegboard Nerds",
+      "title": "20k (Aero Chord Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "958720",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "204312",
+        "soundcloud": "204312"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Pegboard Nerds ft. MC Mota",
+      "title": "Gunslinga",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "958721",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "213567",
+        "youtube": "213567",
+        "soundcloud": "213567",
+        "appleMusic": "213567"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Excision & Downlink",
+      "title": "Rock You",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "958723",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "179736",
+        "soundcloud": "179736"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Downlink",
+          "title": "Rock You",
+          "remix": "",
+          "trackId": "958723"
+        },
+        {
+          "artist": "Skrillex & Damian Marley",
+          "title": "Make It Bun Dem (Pegboard Nerds Remix)",
+          "remix": "",
+          "trackId": "958724"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Damian Marley",
+      "title": "Make It Bun Dem (Pegboard Nerds Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "958724",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "118243",
+        "soundcloud": "118243"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Pegboard Nerds",
+      "title": "Disconnected",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "958725",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "80982",
+        "youtube": "80982",
+        "soundcloud": "80982",
+        "appleMusic": "80982"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Laidback Luke & D.O.D",
+      "title": "Flashing Lights",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "958726",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "183959",
+        "youtube": "183959",
+        "soundcloud": "183959",
+        "appleMusic": "183959"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Showtek & Ookay",
+      "title": "Bouncer",
+      "remix": "",
+      "label": "SKINK",
+      "trackId": "958727",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "139037",
+        "youtube": "139037",
+        "soundcloud": "139037",
+        "appleMusic": "139037"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Duck Sauce",
+      "title": "NRG (Skrillex & Kill The Noise & Milo & Otis Remix)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "958728",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "186128",
+        "youtube": "186128",
+        "soundcloud": "186128",
+        "appleMusic": "186128"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "JumoDaddy",
+      "title": "Black Horse",
+      "remix": "",
+      "label": "PLAY ME TOO",
+      "trackId": "960812",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "202907",
+        "youtube": "202907",
+        "soundcloud": "202907",
+        "appleMusic": "202907"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Pegboard Nerds",
+      "title": "FrainBreeze",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "958730",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "155303",
+        "youtube": "155303",
+        "soundcloud": "155303",
+        "appleMusic": "155303"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Pegboard Nerds",
+      "title": "Fire In The Hole",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "958731",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "95170",
+        "youtube": "95170",
+        "soundcloud": "95170",
+        "appleMusic": "95170"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Pegboard Nerds & Tristam",
+      "title": "Razor Sharp (VIP)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "958876",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "154639",
+        "soundcloud": "154639",
+        "appleMusic": "154639"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Krewella",
+      "title": "Alive (Pegboard Nerds Remix)",
+      "remix": "",
+      "label": "KREWELLA",
+      "trackId": "958732",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "107668",
+        "youtube": "107668",
+        "soundcloud": "107668",
+        "appleMusic": "107668"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "MSD & Jillian Ann",
+      "title": "Quiet Riot (Pegboard Nerds Remix)",
+      "remix": "",
+      "label": "PRIME DUB",
+      "trackId": "958733",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "105400"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Pegboard Nerds ft. JFMee",
+      "title": "Bass Charmer",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "958734",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "303483",
+        "soundcloud": "303483",
+        "appleMusic": "303483"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Pegboard Nerds",
+      "title": "Self Destruct",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "958735",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "100198",
+        "youtube": "100198",
+        "soundcloud": "100198",
+        "appleMusic": "100198"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Flux Pavilion",
+      "title": "Exostomp (Jump Up High)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "958736",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "150101",
+        "youtube": "150101",
+        "soundcloud": "150101",
+        "appleMusic": "150101"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "TC",
+      "title": "Get Down Low",
+      "remix": "",
+      "label": "DON'T PLAY/OWSLA",
+      "trackId": "958737",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "126067",
+        "youtube": "126067",
+        "soundcloud": "126067",
+        "appleMusic": "126067"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Adventure Club ft. The Kite String Tangle",
+      "title": "Wonder (Pegboard Nerds Remix)",
+      "remix": "",
+      "label": "SONY BMG",
+      "trackId": "958738",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "179322",
+        "soundcloud": "179322"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Pegboard Nerds & MORTEN",
+      "title": "Baritone",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "958739",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "204325"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Kalm Kaoz ft. Trinity (JM)",
+      "title": "White Rabbit (Lets Be Friends Remix)",
+      "remix": "",
+      "label": "ID&T",
+      "trackId": "958740",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "198419",
+        "youtube": "198419",
+        "soundcloud": "198419"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Nero",
+      "title": "Satisfy",
+      "remix": "",
+      "label": "MERCURY (UMG)",
+      "trackId": "958741",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "195592",
+        "youtube": "195592",
+        "soundcloud": "195592",
+        "appleMusic": "195592"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "MORTEN ft. Rebecca & Fiona",
+      "title": "Larva (Far Away) (Pegboard Nerds Remix)",
+      "remix": "",
+      "label": "DISCO:WAX (SONY)",
+      "trackId": "958742",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "129033"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Pegboard Nerds",
+      "title": "Pressure Cooker",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "958743",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "107662",
+        "youtube": "107662",
+        "soundcloud": "107662",
+        "appleMusic": "107662"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Roksonix",
+      "title": "Full Flight",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "958744",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "175661"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Pegboard Nerds ft. Misterwives",
+      "title": "Coffins",
+      "remix": "",
+      "label": "FREE/MONSTERCAT",
+      "trackId": "958745",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "181002",
+        "soundcloud": "181002"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Fourward",
+      "title": "Phase Align",
+      "remix": "",
+      "label": "SHOGUN",
+      "trackId": "958746",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "182294",
+        "youtube": "182294",
+        "soundcloud": "182294",
+        "appleMusic": "182294"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Kairo Kingdom",
+      "title": "Don't Shake (Pegboard Nerds Remix)",
+      "remix": "",
+      "label": "DIFFUSED",
+      "trackId": "958747",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "191606",
+        "soundcloud": "191606",
+        "appleMusic": "191606"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Case & Point",
+      "title": "Savage",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "958748",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "177253",
+        "youtube": "177253",
+        "soundcloud": "177253",
+        "appleMusic": "177253"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Merk & Kremont",
+      "title": "Amen",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "6459581",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "171135",
+        "youtube": "171135",
+        "soundcloud": "171135",
+        "appleMusic": "171135"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Pegboard Nerds",
+      "title": "Swamp Thing",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "958750",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "258763",
+        "youtube": "258763",
+        "soundcloud": "258763",
+        "appleMusic": "258763"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Skrillex ft. Niki & The Dove",
+      "title": "Ease My Mind",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "958751",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "183830",
+        "youtube": "183830",
+        "soundcloud": "183830",
+        "appleMusic": "183830"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Pegboard Nerds",
+      "title": "Here It Comes",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "958752",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "200812",
+        "soundcloud": "200812",
+        "appleMusic": "200812"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger (Dillon Francis Remix)",
+      "remix": "",
+      "label": "DAFT LIFE",
+      "trackId": "958753",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "188234",
+        "soundcloud": "188234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "Hard Rock Sofa & Skidka",
+      "title": "Arms Around Me",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "958754",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "162940",
+        "youtube": "162940",
+        "soundcloud": "162940",
+        "appleMusic": "162940"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hard Rock Sofa & Skidka",
+          "title": "Arms Around Me",
+          "remix": "",
+          "trackId": "958754"
+        },
+        {
+          "artist": "Zomboy",
+          "title": "Terror Squad",
+          "remix": "",
+          "trackId": "958756"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zomboy",
+      "title": "Terror Squad",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "958756",
+      "row": 42,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "150802",
+        "youtube": "150802",
+        "soundcloud": "150802",
+        "appleMusic": "150802"
+      }
+    },
+    {
+      "pos": "43",
+      "artist": "Krewella",
+      "title": "Live For The Night (Pegboard Nerds Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "958757",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "162052",
+        "youtube": "162052",
+        "soundcloud": "162052",
+        "appleMusic": "162052"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "44",
+      "artist": "Pegboard Nerds ft. Splitbreed",
+      "title": "We Are One",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "958758",
+      "row": 44,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "100199",
+        "youtube": "100199",
+        "appleMusic": "100199"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "45",
+      "artist": "J. Viewz",
+      "title": "Far Too Close (Pegboard Nerds Remix)",
+      "remix": "",
+      "label": "LITTLE NOTES",
+      "trackId": "959325",
+      "row": 45,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "151570"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "46",
+      "artist": "Pegboard Nerds",
+      "title": "Revenge Of The Nerds (VIP)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "958759",
+      "row": 46,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "163473",
+        "soundcloud": "163473",
+        "appleMusic": "163473"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "47",
+      "artist": "Krewella & Pegboard Nerds",
+      "title": "This Is Not The End",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "958760",
+      "row": 47,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "115995",
+        "youtube": "115995",
+        "soundcloud": "115995",
+        "appleMusic": "115995"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "48",
+      "artist": "Infected Mushroom ft. Pegboard Nerds",
+      "title": "Nerds On Mushrooms",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "958761",
+      "row": 48,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "146404",
+        "youtube": "146404",
+        "soundcloud": "146404",
+        "appleMusic": "146404"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "49",
+      "artist": "Pegboard Nerds ft. Elizaveta",
+      "title": "Hero (Da Tweekaz 'Guitar Hero' Mix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "960813",
+      "row": 49,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "202977",
+        "soundcloud": "202977"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "50",
+      "artist": "Pegboard Nerds",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "958763",
+      "row": 50,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "282742",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=38FRcd3C5Gg"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "190907",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:06:50.618Z",
+  "scrapeVersion": 2
+}

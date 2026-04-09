@@ -1,0 +1,100 @@
+{
+  "tlId": "250uqvmk",
+  "dj": "KSHMR",
+  "stage": "Electric Zoo",
+  "date": "2016-09-03",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/250uqvmk/kshmr-mainstage-electric-zoo-united-states-2016-09-03.html",
+  "djs": [
+    {
+      "name": "KSHMR",
+      "slug": "kshmr"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "KSHMR & Bassjackers ft. Sirah",
+      "title": "Memories",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2242219",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "260141",
+        "youtube": "260141",
+        "soundcloud": "260141",
+        "appleMusic": "260141"
+      },
+      "blendGroup": [
+        {
+          "artist": "KSHMR & Bassjackers ft. Sirah",
+          "title": "Memories",
+          "remix": "",
+          "trackId": "2242219"
+        },
+        {
+          "artist": "KSHMR & Bassjackers ft. Sirah",
+          "title": "Memories (SickStrophe Remix)",
+          "remix": "",
+          "trackId": "2242220"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "KSHMR & Bassjackers ft. Sirah",
+      "title": "Memories (SickStrophe Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2242220",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "316039",
+        "soundcloud": "316039"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Carnage ft. Timmy Trumpet & KSHMR",
+      "title": "Toca",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "2242221",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "253874",
+        "youtube": "253874",
+        "soundcloud": "253874",
+        "appleMusic": "253874"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Tiësto & KSHMR ft. VASSY",
+      "title": "Secrets (KSHMR VIP Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2242222",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T03:48:30.495Z",
+  "scrapeVersion": 2
+}

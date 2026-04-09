@@ -1,0 +1,781 @@
+{
+  "tlId": "pt18fv1",
+  "dj": "Tiësto",
+  "stage": "Ultra Europe",
+  "date": "2022-07-10",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/pt18fv1/tiesto-mainstage-ultra-europe-croatia-2022-07-10.html",
+  "djs": [
+    {
+      "name": "Tiësto",
+      "slug": "tiesto"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Tiësto ft. James Bell",
+      "title": "The Business",
+      "remix": "(Intro Edit)",
+      "label": "ATLANTIC/MUSICAL FREEDOM",
+      "trackId": "7906200",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "615306",
+        "youtube": "615306",
+        "soundcloud": "615306",
+        "appleMusic": "615306"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto ft. James Bell",
+          "title": "The Business",
+          "remix": "(Intro Edit)",
+          "trackId": "7906200"
+        },
+        {
+          "artist": "Tiësto",
+          "title": "I'll Take You High",
+          "remix": "",
+          "trackId": "7906201"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto",
+      "title": "I'll Take You High",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7906201",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "723411",
+        "youtube": "723411",
+        "soundcloud": "723411",
+        "appleMusic": "723411"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "R3HAB & Deorro",
+      "title": "Flashlight",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "7906202",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "177775",
+        "youtube": "177775",
+        "soundcloud": "177775",
+        "appleMusic": "177775"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Tiësto & DallasK",
+      "title": "Show Me",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7906203",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "232618",
+        "youtube": "232618",
+        "soundcloud": "232618",
+        "appleMusic": "232618"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & DallasK",
+          "title": "Show Me",
+          "remix": "",
+          "trackId": "7906203"
+        },
+        {
+          "artist": "Green Velvet & Harvard Bass",
+          "title": "Lazer Beams (Acappella)",
+          "remix": "",
+          "trackId": "7906204"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Green Velvet & Harvard Bass",
+      "title": "Lazer Beams (Acappella)",
+      "remix": "",
+      "label": "RELIEF",
+      "trackId": "7906204",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "99522",
+        "youtube": "99522",
+        "soundcloud": "99522",
+        "appleMusic": "99522"
+      },
+      "blendGroup": [
+        {
+          "artist": "Green Velvet & Harvard Bass",
+          "title": "Lazer Beams (Acappella)",
+          "remix": "",
+          "trackId": "7906204"
+        },
+        {
+          "artist": "The Chemical Brothers",
+          "title": "Block Rockin Beats (Acappella)",
+          "remix": "",
+          "trackId": "7906205"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chemical Brothers",
+      "title": "Block Rockin Beats (Acappella)",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "7906205",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3498",
+        "youtube": "3498",
+        "soundcloud": "3498",
+        "appleMusic": "3498"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chemical Brothers",
+          "title": "Block Rockin Beats (Acappella)",
+          "remix": "",
+          "trackId": "7906205"
+        },
+        {
+          "artist": "Luis Torres & Corporate Slackrs",
+          "title": "Step Back",
+          "remix": "",
+          "trackId": "7906206"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Luis Torres & Corporate Slackrs",
+      "title": "Step Back",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "7906206",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "798473",
+        "youtube": "798473",
+        "soundcloud": "798473",
+        "appleMusic": "798473"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Tiësto & 7 Skies ft. RebMoe",
+      "title": "My Frequency",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7906207",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "547194",
+        "youtube": "547194",
+        "soundcloud": "547194",
+        "appleMusic": "547194"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Disco Lines ft. Morgan Harvill",
+      "title": "Techno + Tequila",
+      "remix": "",
+      "label": "DISCO DISCO DISCO",
+      "trackId": "7906208",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "791261",
+        "youtube": "791261",
+        "soundcloud": "791261",
+        "appleMusic": "791261"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "PAJANE",
+      "title": "Back Once More",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7906209",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "782693",
+        "youtube": "782693",
+        "soundcloud": "782693",
+        "appleMusic": "782693"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Tiësto & Charli xcx",
+      "title": "Hot In It (Tiësto Hotter Mix)",
+      "remix": "",
+      "label": "ATLANTIC/MUSICAL FREEDOM",
+      "trackId": "7906210",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "817266",
+        "youtube": "817266",
+        "soundcloud": "817266",
+        "appleMusic": "817266"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Tiësto & Ava Max",
+      "title": "The Motto",
+      "remix": "",
+      "label": "ATLANTIC/MUSICAL FREEDOM",
+      "trackId": "7906211",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "734843",
+        "youtube": "734843",
+        "soundcloud": "734843",
+        "appleMusic": "734843"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & Ava Max",
+          "title": "The Motto",
+          "remix": "",
+          "trackId": "7906211"
+        },
+        {
+          "artist": "Tiësto & Ava Max",
+          "title": "The Motto (Tiësto New Year's Eve VIP Mix)",
+          "remix": "",
+          "trackId": "7906212"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & Ava Max",
+      "title": "The Motto (Tiësto New Year's Eve VIP Mix)",
+      "remix": "",
+      "label": "ATLANTIC/MUSICAL FREEDOM",
+      "trackId": "7906212",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "744439",
+        "youtube": "744439",
+        "appleMusic": "744439"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Tiësto",
+      "title": "Baila Conmigo",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7906213",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "724843",
+        "youtube": "724843",
+        "soundcloud": "724843",
+        "appleMusic": "724843"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Farruko ft. Victor Cardenas",
+      "title": "Pepas (Tiësto Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "7906215",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "720704",
+        "youtube": "720704",
+        "soundcloud": "720704",
+        "appleMusic": "720704"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Smack & 22Bullets & Lovespeake vs. Tiësto & Karol G",
+      "title": "Ride Or Die vs. Don't Be Shy",
+      "remix": "",
+      "label": "",
+      "trackId": "7906216",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Tiësto & Sevenn",
+      "title": "BOOM",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/UMG",
+      "trackId": "7910074",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "351739",
+        "youtube": "351739",
+        "soundcloud": "351739",
+        "appleMusic": "351739"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & Sevenn",
+          "title": "BOOM",
+          "remix": "",
+          "trackId": "7910074"
+        },
+        {
+          "artist": "Öwnboss & Sevek",
+          "title": "Move Your Body (Tiësto Edit)",
+          "remix": "",
+          "trackId": "7910075"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Öwnboss & Sevek",
+      "title": "Move Your Body (Tiësto Edit)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7910075",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "768993",
+        "youtube": "768993",
+        "soundcloud": "768993",
+        "appleMusic": "768993"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "MGMT",
+      "title": "Kids (Tiësto Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "7963191",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "784515"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Tiësto & Black Eyed Peas",
+      "title": "Pump It Louder",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/ATLANTIC",
+      "trackId": "7963192",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "814519",
+        "youtube": "814519",
+        "soundcloud": "814519",
+        "appleMusic": "814519"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Tiësto",
+      "title": "WOW",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7907908",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "418109",
+        "youtube": "418109",
+        "soundcloud": "418109",
+        "appleMusic": "418109"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Tiësto & KSHMR ft. VASSY",
+      "title": "Secrets",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/PM:AM",
+      "trackId": "7963193",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "239625",
+        "youtube": "239625",
+        "soundcloud": "239625",
+        "appleMusic": "239625"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & KSHMR ft. VASSY",
+          "title": "Secrets",
+          "remix": "",
+          "trackId": "7963193"
+        },
+        {
+          "artist": "Sandro Silva & Quintino",
+          "title": "Epic (Garmiani Remix)",
+          "remix": "",
+          "trackId": "7963194"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sandro Silva & Quintino",
+      "title": "Epic (Garmiani Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7963194",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "429911",
+        "youtube": "429911",
+        "soundcloud": "429911",
+        "appleMusic": "429911"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "ZAXX",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7963195",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ZAXX",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7963195"
+        },
+        {
+          "artist": "Tiësto & Don Diablo ft. Thomas Troelsen",
+          "title": "Chemicals (ZAXX Remix)",
+          "remix": "",
+          "trackId": "7963196"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & Don Diablo ft. Thomas Troelsen",
+      "title": "Chemicals (ZAXX Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7963196",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "283554",
+        "appleMusic": "283554"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & Don Diablo ft. Thomas Troelsen",
+          "title": "Chemicals (ZAXX Remix)",
+          "remix": "",
+          "trackId": "7963196"
+        },
+        {
+          "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+          "title": "Fall Into The Sky (Everybody Fuckin Jump Acappella)",
+          "remix": "",
+          "trackId": "7963197"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+      "title": "Fall Into The Sky (Everybody Fuckin Jump Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "7963197",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "97743",
+        "youtube": "139706",
+        "soundcloud": "139706",
+        "appleMusic": "97743"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Sikdope vs. Tiësto & Michel Zitron vs. Dimitri Vangelis & Wyman & Envyro",
+      "title": "Stranger Synths vs. Red Lights vs. Blizzard",
+      "remix": "",
+      "label": "",
+      "trackId": "7907839",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Tiësto",
+      "title": "Grapevine",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7907843",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "418735",
+        "youtube": "418735",
+        "soundcloud": "418735",
+        "appleMusic": "418735"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto",
+          "title": "Grapevine",
+          "remix": "",
+          "trackId": "7907843"
+        },
+        {
+          "artist": "Tiësto & The Chainsmokers",
+          "title": "Split (Only U)",
+          "remix": "",
+          "trackId": "7907844"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & The Chainsmokers",
+      "title": "Split (Only U)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7907844",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "214231",
+        "youtube": "214231",
+        "soundcloud": "214231",
+        "appleMusic": "214231"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Sebastian Ingrosso & Alesso ft. Ryan Tedder",
+      "title": "Calling (Lose My Mind)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "7907845",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "63652",
+        "youtube": "63652",
+        "soundcloud": "63652",
+        "appleMusic": "63652"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sebastian Ingrosso & Alesso ft. Ryan Tedder",
+          "title": "Calling (Lose My Mind)",
+          "remix": "",
+          "trackId": "7907845"
+        },
+        {
+          "artist": "Otto Knows",
+          "title": "Million Voices (Acappella)",
+          "remix": "",
+          "trackId": "7907846"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Otto Knows",
+      "title": "Million Voices (Acappella)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "7907846",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "41674",
+        "youtube": "41674",
+        "soundcloud": "41674",
+        "appleMusic": "41674"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Delerium ft. Sarah McLachlan",
+      "title": "Silence (Tiësto 2022 Remix)",
+      "remix": "",
+      "label": "NETTWERK",
+      "trackId": "7907847",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "814378",
+        "appleMusic": "814378"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Cygnus X & Ummet Ozcan vs. Rozalla",
+      "title": "Feel Free Superstring (Ummet Ozcan Smashup)",
+      "remix": "",
+      "label": "EPIC (SONY BMG)/XTRAVAGANZA",
+      "trackId": "7907848",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "356703"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cygnus X & Ummet Ozcan vs. Rozalla",
+          "title": "Feel Free Superstring (Ummet Ozcan Smashup)",
+          "remix": "",
+          "trackId": "7907848"
+        },
+        {
+          "artist": "Crossnaders",
+          "title": "Tecno",
+          "remix": "",
+          "trackId": "7907849"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Crossnaders",
+      "title": "Tecno",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "7907849",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "534778",
+        "youtube": "534778",
+        "soundcloud": "534778",
+        "appleMusic": "534778"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Tiësto & Deorro",
+      "title": "Savage(Co-Prod. by SWACQ)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7907873",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "788129",
+        "youtube": "788129",
+        "soundcloud": "788129",
+        "appleMusic": "788129"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3741691",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=JA8IkP4Kgno"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:48:08.976Z",
+  "scrapeVersion": 2
+}

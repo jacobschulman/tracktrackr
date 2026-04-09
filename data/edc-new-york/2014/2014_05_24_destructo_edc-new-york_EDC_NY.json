@@ -1,0 +1,472 @@
+{
+  "tlId": "84tpzdt",
+  "dj": "Destructo",
+  "stage": "EDC New York",
+  "date": "2014-05-24",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/84tpzdt/destructo-cosmicmeadow-edc-new-york-united-states-2014-05-24.html",
+  "djs": [
+    {
+      "name": "Destructo",
+      "slug": "destructo"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Henry Fong",
+      "title": "Stand Up (Destructo Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "915281",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "177249",
+        "soundcloud": "177249",
+        "appleMusic": "177249"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Gold Rush",
+      "title": "Gutter Bass",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "9707451",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 243,
+      "mediaIds": {
+        "youtube": "195769",
+        "soundcloud": "195769"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Schoolboy Q",
+      "title": "Man Of The Year (Price (UK) Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "915282",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 364,
+      "mediaIds": {
+        "soundcloud": "915282"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Destructo",
+      "title": "Technology",
+      "remix": "",
+      "label": "BNR TRAX (BOYSNOIZE)",
+      "trackId": "915283",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "46598",
+        "youtube": "46598",
+        "soundcloud": "46598",
+        "appleMusic": "46598"
+      },
+      "blendGroup": [
+        {
+          "artist": "Destructo",
+          "title": "Technology",
+          "remix": "",
+          "trackId": "915283"
+        },
+        {
+          "artist": "Boys Noize",
+          "title": "Excuse Me",
+          "remix": "",
+          "trackId": "915284"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Boys Noize",
+      "title": "Excuse Me",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "915284",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 705,
+      "mediaIds": {
+        "spotify": "140256",
+        "youtube": "140256",
+        "soundcloud": "140256",
+        "appleMusic": "140256"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "House Of Pain vs. Micky Slim",
+      "title": "Jump Around (deadmau5 Edit)",
+      "remix": "",
+      "label": "RHINO ENTERTAINMENT (WARNER MUSIC)",
+      "trackId": "915285",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 938,
+      "mediaIds": {
+        "spotify": "155336",
+        "youtube": "155336",
+        "soundcloud": "155336",
+        "appleMusic": "155336"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Daddy's Groove & Congorock",
+      "title": "Synthemilk",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "915286",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1156,
+      "mediaIds": {
+        "spotify": "160789",
+        "youtube": "160789",
+        "soundcloud": "160789",
+        "appleMusic": "160789"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daddy's Groove & Congorock",
+          "title": "Synthemilk",
+          "remix": "",
+          "trackId": "915286"
+        },
+        {
+          "artist": "Boys Noize",
+          "title": "Go Hard",
+          "remix": "(Acappella)",
+          "trackId": "1085158"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Boys Noize",
+      "title": "Go Hard",
+      "remix": "(Acappella)",
+      "label": "BOYSNOIZE",
+      "trackId": "1085158",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 1353,
+      "mediaIds": {
+        "spotify": "141678",
+        "youtube": "141678",
+        "soundcloud": "141678",
+        "appleMusic": "141678"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Boys Noize",
+      "title": "Go Hard (Juyen Sebulba Remix)",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "915287",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1395,
+      "mediaIds": {
+        "spotify": "169536",
+        "youtube": "169536",
+        "appleMusic": "169536"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Destructo ft. YG",
+      "title": "Party Up",
+      "remix": "",
+      "label": "ALL MY FRIENDS",
+      "trackId": "915288",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1573,
+      "mediaIds": {
+        "spotify": "200772",
+        "youtube": "200772",
+        "soundcloud": "200772",
+        "appleMusic": "200772"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Fedde Le Grand & Sultan + Shepard",
+      "title": "No Good",
+      "remix": "",
+      "label": "SPINNIN'/ALTRA MODA",
+      "trackId": "915289",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1775,
+      "mediaIds": {
+        "spotify": "111035",
+        "youtube": "111035",
+        "soundcloud": "111035",
+        "appleMusic": "111035"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Erol Alkan & Boys Noize",
+      "title": "Lemonade",
+      "remix": "",
+      "label": "PHANTASY SOUND",
+      "trackId": "915290",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1966,
+      "mediaIds": {
+        "spotify": "18825",
+        "youtube": "18825",
+        "soundcloud": "18825",
+        "appleMusic": "18825"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Destructo",
+      "title": "Higher",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "915291",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2083,
+      "mediaIds": {
+        "spotify": "137960",
+        "youtube": "137960",
+        "soundcloud": "137960",
+        "appleMusic": "137960"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Bingo Players",
+      "title": "Rattle",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "915292",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2273,
+      "mediaIds": {
+        "spotify": "46307",
+        "youtube": "46307",
+        "soundcloud": "46307",
+        "appleMusic": "46307"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Nero",
+      "title": "Satisfy",
+      "remix": "",
+      "label": "MERCURY (UMG)",
+      "trackId": "915293",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2380,
+      "mediaIds": {
+        "spotify": "195592",
+        "youtube": "195592",
+        "soundcloud": "195592",
+        "appleMusic": "195592"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Bart B More",
+      "title": "Brap",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "915294",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2605,
+      "mediaIds": {
+        "spotify": "21239",
+        "youtube": "21239",
+        "soundcloud": "21239",
+        "appleMusic": "21239"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Congorock ft. Mr. Lexx",
+      "title": "Babylon",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "915295",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2814,
+      "mediaIds": {
+        "spotify": "16822",
+        "youtube": "16822",
+        "soundcloud": "16822",
+        "appleMusic": "16822"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Pryda",
+      "title": "F.A.T.",
+      "remix": "",
+      "label": "PRYDA",
+      "trackId": "915296",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2952,
+      "mediaIds": {
+        "spotify": "124605",
+        "youtube": "124605",
+        "soundcloud": "124605",
+        "appleMusic": "124605"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Bella",
+      "title": "Dripped Out",
+      "remix": "",
+      "label": "",
+      "trackId": "915297",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3133,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Jack Beats",
+      "title": "Get Down",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "915298",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3315,
+      "mediaIds": {
+        "youtube": "25182",
+        "soundcloud": "25182"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Stanton Warriors ft. Eboi",
+      "title": "Jerk That (Dustin Hulton Remix)",
+      "remix": "",
+      "label": "PUNKS",
+      "trackId": "915299",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3527,
+      "mediaIds": {
+        "soundcloud": "286946"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Dr. Dre ft. Snoop Dogg & Kurupt & Nate Dogg",
+      "title": "The Next Episode",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "915300",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3733,
+      "mediaIds": {
+        "spotify": "20863",
+        "youtube": "20863",
+        "soundcloud": "20863",
+        "appleMusic": "20863"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Destructo ft. Kurupt",
+      "title": "Scuzzlebutt",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "915301",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3854,
+      "mediaIds": {
+        "spotify": "264694",
+        "youtube": "264694",
+        "soundcloud": "264694"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Destructo ft. Oliver",
+      "title": "LA Funky",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "915302",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 4105,
+      "mediaIds": {
+        "youtube": "68297",
+        "soundcloud": "68297"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "181895",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/LiveDjSets"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "181501",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:48:48.307Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,510 @@
+{
+  "tlId": "w3z1dqk",
+  "dj": "Snakehips",
+  "stage": "EDC Mexico",
+  "date": "2019-02-24",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/w3z1dqk/snakehips-circuitgrounds-edc-mexico-2019-02-24.html",
+  "djs": [
+    {
+      "name": "Snakehips",
+      "slug": "snakehips"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Snakehips ft. Kaleem Taylor",
+      "title": "Forever (Pt. II)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "3944724",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "253449",
+        "youtube": "253449",
+        "soundcloud": "253449",
+        "appleMusic": "253449"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Craze & TroyBoi",
+      "title": "Baby Gurl",
+      "remix": "",
+      "label": "SLOW ROAST",
+      "trackId": "3944725",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "254330",
+        "soundcloud": "254330",
+        "appleMusic": "254330"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Snakehips & Sinead Harnett",
+      "title": "Days With You",
+      "remix": "",
+      "label": "HOFFMAN WEST",
+      "trackId": "3944726",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "203243",
+        "youtube": "203243",
+        "soundcloud": "203243",
+        "appleMusic": "203243"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "DJ Khaled ft. Rihanna & Bryson Tiller",
+      "title": "Wild Thoughts (Medasin Dance Remix)",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "3944727",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "376944",
+        "youtube": "376944",
+        "soundcloud": "376944",
+        "appleMusic": "376944"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Khaled ft. Rihanna & Bryson Tiller",
+          "title": "Wild Thoughts (Medasin Dance Remix)",
+          "remix": "",
+          "trackId": "3944727"
+        },
+        {
+          "artist": "Lil Jon & The Eastside Boyz ft. Ying Yang Twins",
+          "title": "Get Low (Acappella)",
+          "remix": "",
+          "trackId": "3944772"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lil Jon & The Eastside Boyz ft. Ying Yang Twins",
+      "title": "Get Low (Acappella)",
+      "remix": "",
+      "label": "THE ORCHARD",
+      "trackId": "3944772",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "91189",
+        "youtube": "91189",
+        "soundcloud": "91189",
+        "appleMusic": "91189"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Mura Masa",
+      "title": "Lovesick Fuck",
+      "remix": "",
+      "label": "ANCHOR POINT",
+      "trackId": "3944773",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "252092",
+        "youtube": "252092",
+        "soundcloud": "252092"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mura Masa",
+          "title": "Lovesick Fuck",
+          "remix": "",
+          "trackId": "3944773"
+        },
+        {
+          "artist": "G-Eazy ft. A$AP Rocky & Cardi B",
+          "title": "No Limit",
+          "remix": "(Acappella)",
+          "trackId": "3944774"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "G-Eazy ft. A$AP Rocky & Cardi B",
+      "title": "No Limit",
+      "remix": "(Acappella)",
+      "label": "RCA (SONY)",
+      "trackId": "3944774",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "388272",
+        "youtube": "388272",
+        "soundcloud": "388272",
+        "appleMusic": "388272"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Post Malone",
+      "title": "Candy Paint",
+      "remix": "(Acappella)",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "3944775",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "418060",
+        "soundcloud": "418060",
+        "appleMusic": "418060"
+      },
+      "blendGroup": [
+        {
+          "artist": "Post Malone",
+          "title": "Candy Paint",
+          "remix": "(Acappella)",
+          "trackId": "3944775"
+        },
+        {
+          "artist": "What So Not",
+          "title": "Touched (SLUMBERJACK Edit)",
+          "remix": "",
+          "trackId": "3944776"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "What So Not",
+      "title": "Touched (SLUMBERJACK Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3944776",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "211081",
+        "soundcloud": "211081"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Drake",
+      "title": "In My Feelings",
+      "remix": "",
+      "label": "YOUNG MONEY (CASH MONEY)",
+      "trackId": "3944777",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "428790",
+        "youtube": "428790",
+        "soundcloud": "428790",
+        "appleMusic": "428790"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "DMX",
+      "title": "Party Up (Up In Here) (Acappella)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "3944780",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "27196",
+        "youtube": "27196",
+        "soundcloud": "27196",
+        "appleMusic": "27196"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Snakehips & Anne-Marie ft. Joey Bada$$",
+      "title": "Either Way",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "3944782",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "375480",
+        "youtube": "375480",
+        "appleMusic": "375480"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Foster The People",
+      "title": "Pumped Up Kicks (Acappella)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "3944783",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "50554",
+        "youtube": "50554",
+        "soundcloud": "50554",
+        "appleMusic": "50554"
+      },
+      "blendGroup": [
+        {
+          "artist": "Foster The People",
+          "title": "Pumped Up Kicks (Acappella)",
+          "remix": "",
+          "trackId": "3944783"
+        },
+        {
+          "artist": "KRANE & Jupe",
+          "title": "Quartzz",
+          "remix": "",
+          "trackId": "3944784"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "KRANE & Jupe",
+      "title": "Quartzz",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "3944784",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "296409",
+        "youtube": "296409",
+        "soundcloud": "296409",
+        "appleMusic": "296409"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Meek Mill ft. Drake",
+      "title": "Going Bad",
+      "remix": "",
+      "label": "MAYBACH",
+      "trackId": "3944785",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "460957",
+        "youtube": "460957",
+        "soundcloud": "460957",
+        "appleMusic": "460957"
+      },
+      "blendGroup": [
+        {
+          "artist": "Meek Mill ft. Drake",
+          "title": "Going Bad",
+          "remix": "",
+          "trackId": "3944785"
+        },
+        {
+          "artist": "NGHTMRE & Boombox Cartel",
+          "title": "Aftershock",
+          "remix": "",
+          "trackId": "3944786"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "NGHTMRE & Boombox Cartel",
+      "title": "Aftershock",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "3944786",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "277700",
+        "youtube": "277700",
+        "soundcloud": "277700",
+        "appleMusic": "277700"
+      },
+      "blendGroup": [
+        {
+          "artist": "NGHTMRE & Boombox Cartel",
+          "title": "Aftershock",
+          "remix": "",
+          "trackId": "3944786"
+        },
+        {
+          "artist": "Anderson .Paak",
+          "title": "Bubblin",
+          "remix": "(Acappella)",
+          "trackId": "3944788"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Anderson .Paak",
+      "title": "Bubblin",
+      "remix": "(Acappella)",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "3944788",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "423471",
+        "soundcloud": "423471",
+        "appleMusic": "423471"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Drake",
+      "title": "God's Plan",
+      "remix": "",
+      "label": "OVO",
+      "trackId": "3944790",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "399604",
+        "youtube": "399604",
+        "soundcloud": "399604",
+        "appleMusic": "399604"
+      },
+      "blendGroup": [
+        {
+          "artist": "Drake",
+          "title": "God's Plan",
+          "remix": "",
+          "trackId": "3944790"
+        },
+        {
+          "artist": "Post Malone ft. 21 Savage",
+          "title": "Rockstar (GTA Bootleg)",
+          "remix": "",
+          "trackId": "3944792"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Post Malone ft. 21 Savage",
+      "title": "Rockstar (GTA Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "3944792",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "407015",
+        "soundcloud": "407015"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "TroyBoi",
+      "title": "Flamez",
+      "remix": "",
+      "label": "T DOT",
+      "trackId": "3944793",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "379417",
+        "youtube": "379417",
+        "soundcloud": "379417",
+        "appleMusic": "379417"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Snakehips ft. ZAYN",
+      "title": "Cruel",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "3944794",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "325553",
+        "soundcloud": "325553",
+        "appleMusic": "325553"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Snakehips ft. Rivers Cuomo & Kyle",
+      "title": "Gucci Rock N Rolla",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "3944819",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "477387",
+        "youtube": "477387",
+        "appleMusic": "477387"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Chris Lake ft. Alexis Roberts",
+      "title": "Turn Off The Lights (Cages Remix)",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "3944820",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "402971",
+        "youtube": "402971",
+        "appleMusic": "402971"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T18:17:01.616Z",
+  "scrapeVersion": 2
+}

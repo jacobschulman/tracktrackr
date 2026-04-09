@@ -1,0 +1,890 @@
+{
+  "tlId": "2q13z429",
+  "dj": "JAUZ",
+  "stage": "EDC Las Vegas",
+  "date": "2022-05-21",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/2q13z429/jauz-cosmicmeadow-edc-las-vegas-united-states-2022-05-21.html",
+  "djs": [
+    {
+      "name": "JAUZ",
+      "slug": "jauz"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Post Malone",
+      "title": "Hollywood's Bleeding (JAUZ Remix)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "7714483",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "563736",
+        "soundcloud": "563736"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Franky Nuts",
+      "title": "Jump Up",
+      "remix": "",
+      "label": "RAMPAGE",
+      "trackId": "7714484",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 150,
+      "mediaIds": {
+        "spotify": "402411",
+        "youtube": "402411",
+        "soundcloud": "402411",
+        "appleMusic": "402411"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "GTA",
+      "title": "Saria's Turn Up (JAUZ & BARELY ALIVE Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7714486",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 255,
+      "mediaIds": {
+        "soundcloud": "563735"
+      },
+      "blendGroup": [
+        {
+          "artist": "GTA",
+          "title": "Saria's Turn Up (JAUZ & BARELY ALIVE Remix)",
+          "remix": "",
+          "trackId": "7714486"
+        },
+        {
+          "artist": "GRiZ ft. Subtronics",
+          "title": "Griztronics",
+          "remix": "",
+          "trackId": "7714487"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GRiZ ft. Subtronics",
+      "title": "Griztronics",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "7714487",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "517065",
+        "youtube": "517065",
+        "soundcloud": "517065",
+        "appleMusic": "517065"
+      },
+      "blendGroup": [
+        {
+          "artist": "GRiZ ft. Subtronics",
+          "title": "Griztronics",
+          "remix": "",
+          "trackId": "7714487"
+        },
+        {
+          "artist": "GTA & Valentino Khan",
+          "title": "Break Your Neck (Pt. 2 VIP)",
+          "remix": "",
+          "trackId": "7714527"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GTA & Valentino Khan",
+      "title": "Break Your Neck (Pt. 2 VIP)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "7714527",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "485615",
+        "youtube": "485615",
+        "soundcloud": "485615",
+        "appleMusic": "485615"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Don Toliver",
+      "title": "Cardigan",
+      "remix": "",
+      "label": "CACTUS JACK",
+      "trackId": "7714488",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 330,
+      "mediaIds": {
+        "spotify": "573188",
+        "youtube": "573188",
+        "soundcloud": "573188",
+        "appleMusic": "573188"
+      },
+      "blendGroup": [
+        {
+          "artist": "Don Toliver",
+          "title": "Cardigan",
+          "remix": "",
+          "trackId": "7714488"
+        },
+        {
+          "artist": "Deadcrow",
+          "title": "Fallout (BROKN Remix)",
+          "remix": "",
+          "trackId": "7714489"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Deadcrow",
+      "title": "Fallout (BROKN Remix)",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "7714489",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 380,
+      "mediaIds": {
+        "youtube": "722951",
+        "soundcloud": "722951"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "JAUZ & Ricky West",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7714490",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 440,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Dr. Dre ft. Snoop Dogg & Kurupt & Nate Dogg",
+      "title": "The Next Episode",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "7714491",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 680,
+      "mediaIds": {
+        "spotify": "20863",
+        "youtube": "20863",
+        "soundcloud": "20863",
+        "appleMusic": "20863"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Snoop Dogg",
+      "title": "Gin & Juice",
+      "remix": "",
+      "label": "DEATH ROW",
+      "trackId": "7714492",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 800,
+      "mediaIds": {
+        "spotify": "60574",
+        "youtube": "60574",
+        "soundcloud": "60574",
+        "appleMusic": "60574"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Snoop Dogg vs. David Guetta",
+      "title": "Sweat",
+      "remix": "",
+      "label": "WHAT A MUSIC",
+      "trackId": "7714493",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 930,
+      "mediaIds": {
+        "spotify": "26874",
+        "youtube": "26874",
+        "soundcloud": "26874",
+        "appleMusic": "26874"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Snoop Dogg ft. Pharrell",
+      "title": "Drop It Like It's Hot",
+      "remix": "",
+      "label": "DOGGYSTYLE/GEFFEN",
+      "trackId": "7714494",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1125,
+      "mediaIds": {
+        "spotify": "69016",
+        "youtube": "69016",
+        "soundcloud": "69016",
+        "appleMusic": "69016"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "JAUZ & Habstrakt",
+      "title": "Like Before",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7714495",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1328,
+      "mediaIds": {
+        "spotify": "802686",
+        "youtube": "802686",
+        "soundcloud": "802686",
+        "appleMusic": "802686"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "JAUZ & Johnny Gold",
+      "title": "PPL",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "7714496",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1410,
+      "mediaIds": {
+        "spotify": "790041",
+        "youtube": "790041",
+        "soundcloud": "790041",
+        "appleMusic": "790041"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "JAUZ & Lazer Lazer Lazer",
+      "title": "Keep The Rave Alive",
+      "remix": "",
+      "label": "BITE THIS!",
+      "trackId": "7714497",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1595,
+      "mediaIds": {
+        "spotify": "418101",
+        "youtube": "418101",
+        "soundcloud": "418101",
+        "appleMusic": "418101"
+      },
+      "blendGroup": [
+        {
+          "artist": "JAUZ & Lazer Lazer Lazer",
+          "title": "Keep The Rave Alive",
+          "remix": "",
+          "trackId": "7714497"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Aerodynamic",
+          "remix": "",
+          "trackId": "7714528"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Aerodynamic",
+      "remix": "",
+      "label": "DAFT LIFE",
+      "trackId": "7714528",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2606",
+        "youtube": "2606",
+        "soundcloud": "2606",
+        "appleMusic": "2606"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Aerodynamic",
+          "remix": "",
+          "trackId": "7714528"
+        },
+        {
+          "artist": "Skrillex & Kill The Noise ft. Fatman Scoop & Michael Angelakos",
+          "title": "Recess (Acappella)",
+          "remix": "",
+          "trackId": "7714529"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Kill The Noise ft. Fatman Scoop & Michael Angelakos",
+      "title": "Recess (Acappella)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "7714529",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "183004",
+        "youtube": "183004",
+        "soundcloud": "210714",
+        "appleMusic": "183004"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Knock2",
+      "title": "dashstar*",
+      "remix": "",
+      "label": "NIGHTMODE",
+      "trackId": "7714498",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1730,
+      "mediaIds": {
+        "spotify": "653419",
+        "youtube": "653419",
+        "soundcloud": "653419",
+        "appleMusic": "653419"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "JAUZ & Nonsens",
+      "title": "The Beat",
+      "remix": "",
+      "label": "BITE THIS!",
+      "trackId": "7714499",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1780,
+      "mediaIds": {
+        "spotify": "549465",
+        "youtube": "549465",
+        "soundcloud": "549465",
+        "appleMusic": "549465"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "JAUZ & Ephwurd",
+      "title": "Rock The Party",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "7714500",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1890,
+      "mediaIds": {
+        "spotify": "253586",
+        "youtube": "253586",
+        "soundcloud": "253586",
+        "appleMusic": "253586"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Space Laces",
+      "title": "Dominate",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "7714501",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1971,
+      "mediaIds": {
+        "spotify": "673857",
+        "youtube": "673857",
+        "soundcloud": "673857",
+        "appleMusic": "673857"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Nonsens",
+      "title": "Make It Pop",
+      "remix": "",
+      "label": ":LABELMADE:",
+      "trackId": "7714502",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2005,
+      "mediaIds": {
+        "spotify": "414927",
+        "youtube": "414927",
+        "soundcloud": "414927",
+        "appleMusic": "414927"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "JAUZ",
+      "title": "Alpha",
+      "remix": "",
+      "label": "BITE THIS!",
+      "trackId": "7714503",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2110,
+      "mediaIds": {
+        "spotify": "374681",
+        "youtube": "374681",
+        "soundcloud": "374681",
+        "appleMusic": "374681"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Don't You Worry Child",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "7714504",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2180,
+      "mediaIds": {
+        "spotify": "84601",
+        "youtube": "84601",
+        "soundcloud": "84601",
+        "appleMusic": "84601"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Don't You Worry Child",
+          "remix": "",
+          "trackId": "7714504"
+        },
+        {
+          "artist": "Skrillex & JAUZ ft. Fatman Scoop",
+          "title": "Squad Out",
+          "remix": "",
+          "trackId": "7714505"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & JAUZ ft. Fatman Scoop",
+      "title": "Squad Out",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "7714505",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "268533",
+        "youtube": "268533",
+        "soundcloud": "268533",
+        "appleMusic": "268533"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "JAUZ & Zeds Dead",
+      "title": "Shake",
+      "remix": "",
+      "label": "DEADBEATS/BITE THIS!",
+      "trackId": "7714506",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2358,
+      "mediaIds": {
+        "spotify": "522126",
+        "youtube": "522126",
+        "soundcloud": "522126",
+        "appleMusic": "522126"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Jack Ü ft. Bunji Garlin vs. Tchami & Oliverse ft. Stacy Barthe",
+      "title": "After Life (Slushii Edit)",
+      "remix": "",
+      "label": "ATLANTIC/MAD DECENT/UKF",
+      "trackId": "7714507",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2460,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Jack Ü ft. Bunji Garlin vs. Tchami & Oliverse ft. Stacy Barthe",
+          "title": "After Life (Slushii Edit)",
+          "remix": "",
+          "trackId": "7714507"
+        },
+        {
+          "artist": "Skrillex",
+          "title": "FRICKY (JAUZ Remix)",
+          "remix": "",
+          "trackId": "7724998"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex",
+      "title": "FRICKY (JAUZ Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7724998",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "306170",
+        "soundcloud": "306170"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Lil Nas X ft. Jack Harlow",
+      "title": "INDUSTRY BABY (Crankdat Remix)",
+      "remix": "",
+      "label": "PATREON",
+      "trackId": "7714623",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2520,
+      "mediaIds": {
+        "youtube": "748536",
+        "soundcloud": "748536"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lil Nas X ft. Jack Harlow",
+          "title": "INDUSTRY BABY (Crankdat Remix)",
+          "remix": "",
+          "trackId": "7714623"
+        },
+        {
+          "artist": "Deadlyft",
+          "title": "SMD",
+          "remix": "",
+          "trackId": "7714624"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Deadlyft",
+      "title": "SMD",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7714624",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "632750",
+        "youtube": "632750",
+        "soundcloud": "632750",
+        "appleMusic": "632750"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "JAUZ & Masked Wolf",
+      "title": "Mercy",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "7714625",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2616,
+      "mediaIds": {
+        "spotify": "817180",
+        "youtube": "817180",
+        "soundcloud": "817180",
+        "appleMusic": "817180"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "KillaGraham",
+      "title": "Arise",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7714626",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2760,
+      "mediaIds": {
+        "spotify": "78282",
+        "youtube": "78282",
+        "soundcloud": "78282",
+        "appleMusic": "78282"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "GRiZ & JAUZ",
+      "title": "No Doubt",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "7714627",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2805,
+      "mediaIds": {
+        "spotify": "623619",
+        "youtube": "623619",
+        "soundcloud": "623619",
+        "appleMusic": "623619"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Spag Heddy",
+      "title": "Spaghetti Slap",
+      "remix": "",
+      "label": "TOMATO BASS",
+      "trackId": "7714628",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2920,
+      "mediaIds": {
+        "spotify": "771302",
+        "youtube": "771302",
+        "soundcloud": "771302",
+        "appleMusic": "771302"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "JAUZ & DJ Snake",
+      "title": "Gassed Up",
+      "remix": "",
+      "label": "BITE THIS!",
+      "trackId": "7714629",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2960,
+      "mediaIds": {
+        "spotify": "376599",
+        "youtube": "376599",
+        "soundcloud": "376599",
+        "appleMusic": "376599"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Tisoki",
+      "title": "4Ever",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7714630",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3090,
+      "mediaIds": {
+        "spotify": "801503",
+        "youtube": "801503",
+        "soundcloud": "801503",
+        "appleMusic": "801503"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "JAUZ & FIRST",
+      "title": "Velvet Paradise (Franky Nuts & Oliverse Remix)",
+      "remix": "",
+      "label": "BITE THIS!",
+      "trackId": "7714631",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3135,
+      "mediaIds": {
+        "spotify": "723945",
+        "youtube": "723945",
+        "soundcloud": "723945",
+        "appleMusic": "723945"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Shouse",
+      "title": "Love Tonight",
+      "remix": "",
+      "label": "HELL BEACH",
+      "trackId": "7714632",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3225,
+      "mediaIds": {
+        "spotify": "446899",
+        "youtube": "446899",
+        "soundcloud": "446899",
+        "appleMusic": "446899"
+      },
+      "blendGroup": [
+        {
+          "artist": "Shouse",
+          "title": "Love Tonight",
+          "remix": "",
+          "trackId": "7714632"
+        },
+        {
+          "artist": "JAUZ",
+          "title": "Make It Good",
+          "remix": "",
+          "trackId": "7714633"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAUZ",
+      "title": "Make It Good",
+      "remix": "",
+      "label": "HARD RECS (INSOMNIAC)",
+      "trackId": "7714633",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "726127",
+        "youtube": "726127",
+        "soundcloud": "726127",
+        "appleMusic": "726127"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "MK ft. Carla Munroe",
+      "title": "17",
+      "remix": "",
+      "label": "AREA10/SONY",
+      "trackId": "7714634",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3340,
+      "mediaIds": {
+        "spotify": "376475",
+        "youtube": "376475",
+        "soundcloud": "376475",
+        "appleMusic": "376475"
+      },
+      "blendGroup": [
+        {
+          "artist": "MK ft. Carla Munroe",
+          "title": "17",
+          "remix": "",
+          "trackId": "7714634"
+        },
+        {
+          "artist": "JAUZ vs. Route 94 vs. Botnek & Savage Skullz",
+          "title": "Feel The Volume Love (Henry Fong Mashup)",
+          "remix": "",
+          "trackId": "7714635"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAUZ vs. Route 94 vs. Botnek & Savage Skullz",
+      "title": "Feel The Volume Love (Henry Fong Mashup)",
+      "remix": "",
+      "label": "DIM MAK/RINSE/MAD DECENT",
+      "trackId": "7714635",
+      "row": 31,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "233025"
+      }
+    },
+    {
+      "pos": "32",
+      "artist": "SHAED",
+      "title": "Trampoline (JAUZ Remix)",
+      "remix": "",
+      "label": "PHOTO FINISH",
+      "trackId": "7714636",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 3450,
+      "mediaIds": {
+        "spotify": "499336",
+        "youtube": "499336",
+        "soundcloud": "499336",
+        "appleMusic": "499336"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2819783",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=Y27v8wBKe6Y"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "2815503",
+      "idSource": "40",
+      "url": "https://hearthis.at/6771853/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:58:02.904Z",
+  "scrapeVersion": 2
+}

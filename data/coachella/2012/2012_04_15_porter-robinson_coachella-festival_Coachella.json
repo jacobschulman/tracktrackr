@@ -1,0 +1,866 @@
+{
+  "tlId": "5b848pk",
+  "dj": "Porter Robinson",
+  "stage": "Coachella Festival",
+  "date": "2012-04-15",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/5b848pk/porter-robinson-sahara-tent-coachella-festival-united-states-2012-04-15.html",
+  "djs": [
+    {
+      "name": "Porter Robinson",
+      "slug": "porterrobinson"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Porter Robinson",
+      "title": "Say My Name",
+      "remix": "",
+      "label": "GLAMARA",
+      "trackId": "206058",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "20511",
+        "youtube": "20511",
+        "soundcloud": "20511",
+        "appleMusic": "20511"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Flux Pavilion",
+      "title": "Bass Cannon (Porter Robinson 2 Minute Electro Bootie)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "206059",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 60,
+      "mediaIds": {
+        "youtube": "80355",
+        "soundcloud": "80355"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Justice",
+      "title": "Stress",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "237192",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 130,
+      "mediaIds": {
+        "spotify": "43234",
+        "youtube": "43234",
+        "soundcloud": "43234",
+        "appleMusic": "43234"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice",
+          "title": "Stress",
+          "remix": "",
+          "trackId": "237192"
+        },
+        {
+          "artist": "Nari & Milani",
+          "title": "Atom (Blast Beat GO Acappella)",
+          "remix": "",
+          "trackId": "206060"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nari & Milani",
+      "title": "Atom (Blast Beat GO Acappella)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "206060",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 138,
+      "mediaIds": {
+        "spotify": "57099",
+        "youtube": "57099",
+        "soundcloud": "57099",
+        "appleMusic": "57099"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nari & Milani",
+          "title": "Atom (Blast Beat GO Acappella)",
+          "remix": "",
+          "trackId": "206060"
+        },
+        {
+          "artist": "Gesaffelstein",
+          "title": "Variations (Porter Robinson Edit)",
+          "remix": "",
+          "trackId": "206061"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gesaffelstein",
+      "title": "Variations (Porter Robinson Edit)",
+      "remix": "",
+      "label": "TURBO",
+      "trackId": "206061",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 138,
+      "mediaIds": null
+    },
+    {
+      "pos": "04",
+      "artist": "Tiësto",
+      "title": "Maximal Crazy (Porter Robinson Edit)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "206062",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 180,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Ørjan Nilsen",
+      "title": "In My Opinion",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "237193",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 320,
+      "mediaIds": {
+        "spotify": "36766",
+        "youtube": "36766"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ørjan Nilsen",
+          "title": "In My Opinion",
+          "remix": "",
+          "trackId": "237193"
+        },
+        {
+          "artist": "Michael Woods",
+          "title": "VMS",
+          "remix": "",
+          "trackId": "206063"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Michael Woods",
+      "title": "VMS",
+      "remix": "",
+      "label": "MINISTRY OF SOUND",
+      "trackId": "206063",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 340,
+      "mediaIds": {
+        "spotify": "32234",
+        "youtube": "32234",
+        "soundcloud": "32234"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Porter Robinson",
+      "title": "Unison",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "206064",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 375,
+      "mediaIds": {
+        "spotify": "45810",
+        "youtube": "45810",
+        "soundcloud": "45810",
+        "appleMusic": "45810"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Zedd",
+      "title": "Shotgun",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "206065",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 505,
+      "mediaIds": {
+        "spotify": "68586",
+        "youtube": "68586",
+        "soundcloud": "68586",
+        "appleMusic": "68586"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Porter Robinson ft. Jano",
+      "title": "The Seconds",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "206066",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "47414",
+        "youtube": "47414",
+        "soundcloud": "47414",
+        "appleMusic": "47414"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "deadmau5 & Wolfgang Gartner",
+      "title": "Animal Rights",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "206067",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 660,
+      "mediaIds": {
+        "spotify": "20780",
+        "youtube": "20780",
+        "soundcloud": "20780",
+        "appleMusic": "20780"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5 & Wolfgang Gartner",
+          "title": "Animal Rights",
+          "remix": "",
+          "trackId": "206067"
+        },
+        {
+          "artist": "Benny Benassi pres. The Biz",
+          "title": "Satisfaction (Acappella)",
+          "remix": "",
+          "trackId": "270132"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Benny Benassi pres. The Biz",
+      "title": "Satisfaction (Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "270132",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 700,
+      "mediaIds": {
+        "spotify": "2029",
+        "youtube": "2029",
+        "soundcloud": "2029",
+        "appleMusic": "2029"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Spencer & Hill ft. Lil Jon",
+      "title": "Less Go! (Porter Robinson Remix)",
+      "remix": "",
+      "label": "BAZOOKA",
+      "trackId": "206070",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 715,
+      "mediaIds": {
+        "spotify": "27693",
+        "youtube": "27693",
+        "soundcloud": "27693",
+        "appleMusic": "27693"
+      },
+      "blendGroup": [
+        {
+          "artist": "Spencer & Hill ft. Lil Jon",
+          "title": "Less Go! (Porter Robinson Remix)",
+          "remix": "",
+          "trackId": "206070"
+        },
+        {
+          "artist": "Justice",
+          "title": "Stress",
+          "remix": "",
+          "trackId": "206069"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice",
+      "title": "Stress",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "206069",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 808,
+      "mediaIds": {
+        "spotify": "43234",
+        "youtube": "43234",
+        "soundcloud": "43234",
+        "appleMusic": "43234"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Modek",
+      "title": "Goose Offender",
+      "remix": "",
+      "label": "BRONSON",
+      "trackId": "206071",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 870,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Ratatat",
+      "title": "Seventeen Years",
+      "remix": "",
+      "label": "XL",
+      "trackId": "206072",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 980,
+      "mediaIds": {
+        "spotify": "61776",
+        "youtube": "61776",
+        "soundcloud": "61776",
+        "appleMusic": "61776"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ratatat",
+          "title": "Seventeen Years",
+          "remix": "",
+          "trackId": "206072"
+        },
+        {
+          "artist": "David Guetta ft. Usher",
+          "title": "Without You (R3HAB XS Remix)",
+          "remix": "",
+          "trackId": "206553"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta ft. Usher",
+      "title": "Without You (R3HAB XS Remix)",
+      "remix": "",
+      "label": "FMIF",
+      "trackId": "206553",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1035,
+      "mediaIds": {
+        "spotify": "47102",
+        "youtube": "47102",
+        "soundcloud": "47102",
+        "appleMusic": "47102"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Porter Robinson",
+      "title": "Peace",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "206073",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1090,
+      "mediaIds": {
+        "youtube": "49531",
+        "soundcloud": "49531"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Knife Party",
+      "title": "Destroy Them With Lazers",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "206074",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1130,
+      "mediaIds": {
+        "spotify": "57185",
+        "youtube": "57185",
+        "soundcloud": "57185",
+        "appleMusic": "57185"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Headhunterz & Wildstylez & Noisecontrollers & Wildstylez",
+      "title": "Tonight (Alpha² Remix)",
+      "remix": "",
+      "label": "HARD WITH STYLE ORIGINS",
+      "trackId": "206075",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1160,
+      "mediaIds": {
+        "spotify": "69593",
+        "youtube": "69593",
+        "soundcloud": "69593",
+        "appleMusic": "69593"
+      },
+      "blendGroup": [
+        {
+          "artist": "Headhunterz & Wildstylez & Noisecontrollers & Wildstylez",
+          "title": "Tonight (Alpha² Remix)",
+          "remix": "",
+          "trackId": "206075"
+        },
+        {
+          "artist": "Skrillex",
+          "title": "Scary Monsters And Nice Sprites (Acappella)",
+          "remix": "",
+          "trackId": "739858"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex",
+      "title": "Scary Monsters And Nice Sprites (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "739858",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1219,
+      "mediaIds": {
+        "spotify": "23595",
+        "youtube": "23595",
+        "soundcloud": "23595",
+        "appleMusic": "23595"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Morgan Page ft. Lissie",
+      "title": "The Longest Road",
+      "remix": "",
+      "label": "NETTWERK",
+      "trackId": "206076",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1280,
+      "mediaIds": {
+        "spotify": "5011",
+        "youtube": "5011",
+        "appleMusic": "5011"
+      },
+      "blendGroup": [
+        {
+          "artist": "Morgan Page ft. Lissie",
+          "title": "The Longest Road",
+          "remix": "",
+          "trackId": "206076"
+        },
+        {
+          "artist": "The Loops Of Fury",
+          "title": "I Need",
+          "remix": "",
+          "trackId": "206554"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Loops Of Fury",
+      "title": "I Need",
+      "remix": "",
+      "label": "U&A",
+      "trackId": "206554",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 1408,
+      "mediaIds": {
+        "spotify": "34971",
+        "youtube": "34971",
+        "soundcloud": "34971",
+        "appleMusic": "34971"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Knife Party",
+      "title": "Tourniquet",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "206077",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1438,
+      "mediaIds": {
+        "spotify": "42141",
+        "youtube": "42141",
+        "soundcloud": "42141",
+        "appleMusic": "42141"
+      },
+      "blendGroup": [
+        {
+          "artist": "Knife Party",
+          "title": "Tourniquet",
+          "remix": "",
+          "trackId": "206077"
+        },
+        {
+          "artist": "Chuckie",
+          "title": "Who Is Ready To Jump (Acappella)",
+          "remix": "",
+          "trackId": "206555"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chuckie",
+      "title": "Who Is Ready To Jump (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "206555",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1495,
+      "mediaIds": {
+        "spotify": "44701",
+        "youtube": "60632",
+        "soundcloud": "44701",
+        "appleMusic": "44701"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chuckie",
+          "title": "Who Is Ready To Jump (Acappella)",
+          "remix": "",
+          "trackId": "206555"
+        },
+        {
+          "artist": "Plump DJs",
+          "title": "Gobbstopper",
+          "remix": "",
+          "trackId": "206078"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Plump DJs",
+      "title": "Gobbstopper",
+      "remix": "",
+      "label": "GRAND HOTEL",
+      "trackId": "206078",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1500,
+      "mediaIds": {
+        "spotify": "50940",
+        "youtube": "50940",
+        "soundcloud": "50940",
+        "appleMusic": "50940"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Pendulum",
+      "title": "Slam (Porter Robinson Bootleg)",
+      "remix": "",
+      "label": "BREAKBEAT KAOS",
+      "trackId": "206079",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1590,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Madeon",
+      "title": "Komon",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3318331",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1620,
+      "mediaIds": {
+        "youtube": "208476",
+        "soundcloud": "208476"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Knife Party",
+      "title": "Internet Friends",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "206080",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1650,
+      "mediaIds": {
+        "spotify": "42147",
+        "youtube": "42147",
+        "soundcloud": "42147",
+        "appleMusic": "42147"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Bingo Players",
+      "title": "Rattle",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "206081",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "46307",
+        "youtube": "46307",
+        "soundcloud": "46307",
+        "appleMusic": "46307"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Porter Robinson",
+      "title": "Unison (Knife Party Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "206082",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1860,
+      "mediaIds": {
+        "spotify": "52813",
+        "youtube": "52813",
+        "soundcloud": "52813",
+        "appleMusic": "52813"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Porter Robinson",
+      "title": "100% In The Bitch",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "206083",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1980,
+      "mediaIds": {
+        "spotify": "47985",
+        "youtube": "47985",
+        "soundcloud": "47985",
+        "appleMusic": "47985"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Kaskade ft. Mindy Gledhill",
+      "title": "Eyes (Alvin Risk Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "206084",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2160,
+      "mediaIds": {
+        "spotify": "62427",
+        "youtube": "62427",
+        "soundcloud": "62427"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Pendulum",
+      "title": "The Vulture",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "206085",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2280,
+      "mediaIds": {
+        "spotify": "43740",
+        "youtube": "43740",
+        "soundcloud": "43740",
+        "appleMusic": "43740"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Manyou",
+      "title": "Take Me Home (Porter Robinson Remix)",
+      "remix": "",
+      "label": "ALPHA+",
+      "trackId": "206557",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2400,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Dubsidia",
+      "title": "Kill Humans (Dirtyloud Remix)",
+      "remix": "",
+      "label": "PLAY ME",
+      "trackId": "206556",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2580,
+      "mediaIds": {
+        "spotify": "46817",
+        "youtube": "46817",
+        "soundcloud": "46817",
+        "appleMusic": "46817"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dubsidia",
+          "title": "Kill Humans (Dirtyloud Remix)",
+          "remix": "",
+          "trackId": "206556"
+        },
+        {
+          "artist": "Porter Robinson",
+          "title": "I'm On Fire",
+          "remix": "",
+          "trackId": "739859"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Porter Robinson",
+      "title": "I'm On Fire",
+      "remix": "",
+      "label": "BIG FISH",
+      "trackId": "739859",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 2640,
+      "mediaIds": {
+        "spotify": "73237",
+        "youtube": "73237",
+        "soundcloud": "73237"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Temple One ft. Neev Kennedy",
+      "title": "Love The Fear (Tom Fall Remix)",
+      "remix": "",
+      "label": "ENHANCED",
+      "trackId": "206086",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2700,
+      "mediaIds": {
+        "spotify": "56114",
+        "youtube": "56114",
+        "soundcloud": "56114",
+        "appleMusic": "56114"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Deadmau5 vs. Noisia",
+      "title": "Some Chords, Hard Intro Ghosts, Machine Gun (Porter Robinson Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "206087",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2820,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Porter Robinson ft. Bright Lights",
+      "title": "Language",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "206089",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2880,
+      "mediaIds": {
+        "spotify": "69003",
+        "youtube": "69003",
+        "soundcloud": "69003",
+        "appleMusic": "69003"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Porter Robinson",
+      "title": "Say My Name (Porter Robinson VIP)",
+      "remix": "",
+      "label": "GLAMARA",
+      "trackId": "206559",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3240,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T05:06:23.500Z",
+  "scrapeVersion": 2
+}

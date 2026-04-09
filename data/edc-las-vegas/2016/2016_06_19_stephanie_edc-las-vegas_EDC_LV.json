@@ -1,0 +1,122 @@
+{
+  "tlId": "1vqmbltt",
+  "dj": "Stephanie",
+  "stage": "EDC Las Vegas",
+  "date": "2016-06-19",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/1vqmbltt/stephanie-wasteland-edc-las-vegas-united-states-2016-06-19.html",
+  "djs": [
+    {
+      "name": "Stephanie",
+      "slug": "stephanie"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2098068",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Tuneboy",
+      "title": "Out Of Space",
+      "remix": "",
+      "label": "TITANIC",
+      "trackId": "2098069",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "235057",
+        "youtube": "235057",
+        "soundcloud": "235057",
+        "appleMusic": "235057"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Stephanie",
+      "title": "The Future",
+      "remix": "",
+      "label": "PINK BEATS",
+      "trackId": "2098070",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Headhunterz",
+      "title": "Psychedelic",
+      "remix": "",
+      "label": "SCANTRAXX RELOADED",
+      "trackId": "2098071",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "196312",
+        "youtube": "196312",
+        "appleMusic": "196312"
+      },
+      "blendGroup": [
+        {
+          "artist": "Headhunterz",
+          "title": "Psychedelic",
+          "remix": "",
+          "trackId": "2098071"
+        },
+        {
+          "artist": "Headhunterz",
+          "title": "Psychedelic Sunshine",
+          "remix": "",
+          "trackId": "2098101"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Headhunterz",
+      "title": "Psychedelic Sunshine",
+      "remix": "",
+      "label": "SCANTRAXX/SCANTRAXX RELOADED/ITWT (BLACK HOLE)",
+      "trackId": "2098101",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "450917",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/Livesets2016"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "450505",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T08:02:13.310Z",
+  "scrapeVersion": 2
+}

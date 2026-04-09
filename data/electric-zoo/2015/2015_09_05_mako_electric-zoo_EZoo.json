@@ -1,0 +1,561 @@
+{
+  "tlId": "1h84xb1",
+  "dj": "Mako",
+  "stage": "Electric Zoo",
+  "date": "2015-09-05",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/1h84xb1/mako-mainstage-electric-zoo-united-states-2015-09-05.html",
+  "djs": [
+    {
+      "name": "Mako",
+      "slug": "mako"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Martin Solveig & GTA",
+      "title": "Intoxicated (Paris & Simo Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1611970",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "youtube": "256060"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Daft Punk",
+      "title": "Crescendolls",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "1611971",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 42,
+      "mediaIds": {
+        "spotify": "109670",
+        "youtube": "109670",
+        "soundcloud": "109670",
+        "appleMusic": "109670"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "MSTRKRFT",
+      "title": "Work On You",
+      "remix": "",
+      "label": "LAST GANG",
+      "trackId": "1611972",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 154,
+      "mediaIds": {
+        "spotify": "287336",
+        "youtube": "287336",
+        "soundcloud": "287336",
+        "appleMusic": "287336"
+      },
+      "blendGroup": [
+        {
+          "artist": "MSTRKRFT",
+          "title": "Work On You",
+          "remix": "",
+          "trackId": "1611972"
+        },
+        {
+          "artist": "Alesso ft. Roy English",
+          "title": "Cool (Acappella)",
+          "remix": "",
+          "trackId": "1611973"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alesso ft. Roy English",
+      "title": "Cool (Acappella)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "1611973",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 468,
+      "mediaIds": {
+        "spotify": "239722",
+        "youtube": "239722",
+        "soundcloud": "250589",
+        "appleMusic": "239722"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Mako ft. Angel Taylor",
+      "title": "Beam (Dannic Mix)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1611974",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 680,
+      "mediaIds": {
+        "spotify": "163542",
+        "youtube": "163542",
+        "soundcloud": "163542",
+        "appleMusic": "163542"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Rihanna",
+      "title": "Bitch Better Have My Money (R3HAB Remix)",
+      "remix": "",
+      "label": "ROC NATION (SONY)",
+      "trackId": "1611975",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 769,
+      "mediaIds": {
+        "spotify": "252893",
+        "youtube": "252893",
+        "soundcloud": "252893",
+        "appleMusic": "252893"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rihanna",
+          "title": "Bitch Better Have My Money (R3HAB Remix)",
+          "remix": "",
+          "trackId": "1611975"
+        },
+        {
+          "artist": "Valentino Khan",
+          "title": "Deep Down Low",
+          "remix": "",
+          "trackId": "1612328"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Valentino Khan",
+      "title": "Deep Down Low",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "1612328",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 814,
+      "mediaIds": {
+        "spotify": "243733",
+        "youtube": "243733",
+        "soundcloud": "243733",
+        "appleMusic": "243733"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Wolfgang Gartner ft. Bobby Saint",
+      "title": "Unholy",
+      "remix": "",
+      "label": "KINDERGARTEN RECORDINGS",
+      "trackId": "1611977",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 992,
+      "mediaIds": {
+        "spotify": "217145",
+        "youtube": "217145",
+        "soundcloud": "217145",
+        "appleMusic": "217145"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Alesso ft. Roy English",
+      "title": "Cool (Autograf Remix)",
+      "remix": "",
+      "label": "DEF JAM/ALEFUNE",
+      "trackId": "1611978",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1088,
+      "mediaIds": {
+        "spotify": "252130",
+        "soundcloud": "252130",
+        "appleMusic": "252130"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Mako",
+      "title": "Ghosts (Cinematic Mix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "1611979",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1217,
+      "mediaIds": {
+        "soundcloud": "232839"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mako",
+          "title": "Ghosts (Cinematic Mix)",
+          "remix": "",
+          "trackId": "1611979"
+        },
+        {
+          "artist": "Mako",
+          "title": "Ghosts (Friendzone Remix)",
+          "remix": "",
+          "trackId": "1612329"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mako",
+      "title": "Ghosts (Friendzone Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "1612329",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1289,
+      "mediaIds": {
+        "youtube": "234299",
+        "soundcloud": "234299"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "ZHU",
+      "title": "Faded (Dzeko & Torres Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "1611980",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1348,
+      "mediaIds": {
+        "spotify": "196235",
+        "youtube": "196235",
+        "soundcloud": "196235",
+        "appleMusic": "196235"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "JAUZ",
+      "title": "Feel The Volume",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1611981",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1440,
+      "mediaIds": {
+        "spotify": "208238",
+        "youtube": "208238",
+        "soundcloud": "208238",
+        "appleMusic": "208238"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Cedric Gervais",
+      "title": "The Look",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1611982",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1543,
+      "mediaIds": {
+        "spotify": "125734",
+        "youtube": "125734",
+        "soundcloud": "125734",
+        "appleMusic": "125734"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cedric Gervais",
+          "title": "The Look",
+          "remix": "",
+          "trackId": "1611982"
+        },
+        {
+          "artist": "Justice vs. Simian",
+          "title": "We Are Your Friends (Acappella)",
+          "remix": "",
+          "trackId": "1611983"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice vs. Simian",
+      "title": "We Are Your Friends (Acappella)",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "1611983",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1550,
+      "mediaIds": {
+        "spotify": "8095",
+        "youtube": "8095",
+        "soundcloud": "3157",
+        "appleMusic": "8095"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice vs. Simian",
+          "title": "We Are Your Friends (Acappella)",
+          "remix": "",
+          "trackId": "1611983"
+        },
+        {
+          "artist": "Audien",
+          "title": "Elysium",
+          "remix": "",
+          "trackId": "1612330"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Audien",
+      "title": "Elysium",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1612330",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1581,
+      "mediaIds": {
+        "spotify": "164184",
+        "youtube": "164184",
+        "soundcloud": "164184",
+        "appleMusic": "164184"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Chocolate Puma & Firebeatz",
+      "title": "I Can't Understand",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1611984",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1776,
+      "mediaIds": {
+        "spotify": "211449",
+        "youtube": "211449",
+        "soundcloud": "211449",
+        "appleMusic": "211449"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Mako ft. Madison Beer",
+      "title": "I Won't Let You Walk Away",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "1611985",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1898,
+      "mediaIds": {
+        "spotify": "242179",
+        "youtube": "242179",
+        "soundcloud": "242179",
+        "appleMusic": "242179"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Mako",
+      "title": "Our Story",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "1611986",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2040,
+      "mediaIds": {
+        "spotify": "160534",
+        "youtube": "160534",
+        "soundcloud": "160534",
+        "appleMusic": "160534"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Pierce Fulton",
+      "title": "Kuaga",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "1616079",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2210,
+      "mediaIds": {
+        "spotify": "203396",
+        "youtube": "203396",
+        "soundcloud": "203396",
+        "appleMusic": "203396"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pierce Fulton",
+          "title": "Kuaga",
+          "remix": "",
+          "trackId": "1616079"
+        },
+        {
+          "artist": "The Killers",
+          "title": "Mr. Brightside",
+          "remix": "",
+          "trackId": "1617528"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Killers",
+      "title": "Mr. Brightside",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "1617528",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 2233,
+      "mediaIds": {
+        "spotify": "13886",
+        "youtube": "13886",
+        "soundcloud": "13886",
+        "appleMusic": "13886"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Steve Angello ft. Mako",
+      "title": "Children Of The Wild",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "1611987",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2377,
+      "mediaIds": {
+        "spotify": "148422",
+        "youtube": "148422",
+        "soundcloud": "148422",
+        "appleMusic": "148422"
+      },
+      "blendGroup": [
+        {
+          "artist": "Steve Angello ft. Mako",
+          "title": "Children Of The Wild",
+          "remix": "",
+          "trackId": "1611987"
+        },
+        {
+          "artist": "Porter Robinson ft. Bright Lights",
+          "title": "Language (Instrumental Mix)",
+          "remix": "",
+          "trackId": "1616080"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Porter Robinson ft. Bright Lights",
+      "title": "Language (Instrumental Mix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1616080",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 2430,
+      "mediaIds": null
+    },
+    {
+      "pos": "17",
+      "artist": "Max Elto",
+      "title": "Shadow Of The Sun (Mako Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1613717",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2567,
+      "mediaIds": {
+        "spotify": "187514",
+        "youtube": "187514",
+        "soundcloud": "187514",
+        "appleMusic": "187514"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Nero",
+      "title": "Two Minds (Nero '92 Minds Remix)",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "1674493",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2837,
+      "mediaIds": {
+        "spotify": "263901",
+        "youtube": "263901",
+        "soundcloud": "263901"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "MAGIC!",
+      "title": "Rude (Zedd Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "1615574",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2913,
+      "mediaIds": {
+        "spotify": "208475",
+        "youtube": "208475",
+        "soundcloud": "208475",
+        "appleMusic": "208475"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T03:57:48.575Z",
+  "scrapeVersion": 2
+}

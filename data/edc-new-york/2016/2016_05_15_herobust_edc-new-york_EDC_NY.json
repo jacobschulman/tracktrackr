@@ -1,0 +1,583 @@
+{
+  "tlId": "2nvqbn91",
+  "dj": "Herobust",
+  "stage": "EDC New York",
+  "date": "2016-05-15",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/2nvqbn91/herobust-circuitgrounds-edc-new-york-united-states-2016-05-15.html",
+  "djs": [
+    {
+      "name": "Herobust",
+      "slug": "herobust"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Billy Joel",
+      "title": "New York State Of Mind",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "2394527",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "200547",
+        "youtube": "200547",
+        "appleMusic": "200547"
+      },
+      "blendGroup": [
+        {
+          "artist": "Billy Joel",
+          "title": "New York State Of Mind",
+          "remix": "",
+          "trackId": "2394527"
+        },
+        {
+          "artist": "Herobust",
+          "title": "Bottle Swervice",
+          "remix": "",
+          "trackId": "2394528"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Herobust",
+      "title": "Bottle Swervice",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2394528",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "282828",
+        "youtube": "282828",
+        "soundcloud": "282828",
+        "appleMusic": "282828"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "NGHTMRE",
+      "title": "Burn Out",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2394529",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "277687",
+        "youtube": "277687",
+        "soundcloud": "277687",
+        "appleMusic": "277687"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Wuki ft. Dances",
+      "title": "Make It Clap (Herobust Busted Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2394530",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 65,
+      "mediaIds": {
+        "spotify": "329085",
+        "youtube": "329085",
+        "soundcloud": "329085",
+        "appleMusic": "329085"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Lil Wayne ft. 2 Chainz",
+      "title": "Rich As Fuck (Acappella)",
+      "remix": "",
+      "label": "CASH MONEY",
+      "trackId": "11364341",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "149396",
+        "youtube": "149396",
+        "soundcloud": "149396",
+        "appleMusic": "149396"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lil Wayne ft. 2 Chainz",
+          "title": "Rich As Fuck (Acappella)",
+          "remix": "",
+          "trackId": "11364341"
+        },
+        {
+          "artist": "Moksi",
+          "title": "The Dopest (Cesqeaux Remix)",
+          "remix": "",
+          "trackId": "2394531"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Moksi",
+      "title": "The Dopest (Cesqeaux Remix)",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "2394531",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 97,
+      "mediaIds": {
+        "spotify": "262497",
+        "youtube": "262497",
+        "soundcloud": "262497",
+        "appleMusic": "262497"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Kendrick Lamar ft. MC Eiht",
+      "title": "m.A.A.d city",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "2394532",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 121,
+      "mediaIds": {
+        "spotify": "113728",
+        "youtube": "113728",
+        "soundcloud": "113728",
+        "appleMusic": "113728"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kendrick Lamar ft. MC Eiht",
+          "title": "m.A.A.d city",
+          "remix": "",
+          "trackId": "2394532"
+        },
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "2394533"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+      "title": "Put Ya Fuckin Hands Up (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "2394533",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "16909",
+        "soundcloud": "16909"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "2394533"
+        },
+        {
+          "artist": "Phiso",
+          "title": "Wasteland",
+          "remix": "",
+          "trackId": "2394534"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Phiso",
+      "title": "Wasteland",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2394534",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 162,
+      "mediaIds": {
+        "spotify": "225880",
+        "youtube": "225880",
+        "soundcloud": "225880",
+        "appleMusic": "225880"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "BARELY ALIVE & Datsik",
+      "title": "The Blastaz",
+      "remix": "",
+      "label": "FIREPOWER/DISCIPLE",
+      "trackId": "2394535",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 203,
+      "mediaIds": {
+        "spotify": "244507",
+        "youtube": "244507",
+        "soundcloud": "244507",
+        "appleMusic": "244507"
+      },
+      "blendGroup": [
+        {
+          "artist": "BARELY ALIVE & Datsik",
+          "title": "The Blastaz",
+          "remix": "",
+          "trackId": "2394535"
+        },
+        {
+          "artist": "Waka Flocka Flame ft. Gudda Gudda",
+          "title": "Bricksquad (Acappella)",
+          "remix": "",
+          "trackId": "2394536"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Waka Flocka Flame ft. Gudda Gudda",
+      "title": "Bricksquad (Acappella)",
+      "remix": "",
+      "label": "1017 BRICK SQUAD",
+      "trackId": "2394536",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 273,
+      "mediaIds": {
+        "spotify": "94096",
+        "youtube": "94096",
+        "soundcloud": "94096",
+        "appleMusic": "94096"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Jay Cosmic",
+      "title": "Supercell (Havok Roth Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "11364342",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 313,
+      "mediaIds": {
+        "youtube": "255227",
+        "soundcloud": "255227"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "JAY-Z & Kanye West",
+      "title": "Niggas In Paris",
+      "remix": "",
+      "label": "ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "2394537",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 381,
+      "mediaIds": {
+        "spotify": "44703",
+        "youtube": "44703",
+        "soundcloud": "44703",
+        "appleMusic": "44703"
+      },
+      "blendGroup": [
+        {
+          "artist": "JAY-Z & Kanye West",
+          "title": "Niggas In Paris",
+          "remix": "",
+          "trackId": "2394537"
+        },
+        {
+          "artist": "Showtek & Justin Prime",
+          "title": "Cannonball (Carnage & Victor Niglio Festival Trap Remix)",
+          "remix": "",
+          "trackId": "2394538"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Showtek & Justin Prime",
+      "title": "Cannonball (Carnage & Victor Niglio Festival Trap Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2394538",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 423,
+      "mediaIds": {
+        "youtube": "110882",
+        "soundcloud": "110882"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Herobust",
+      "title": "SHEKNOWSHEBAD",
+      "remix": "",
+      "label": "SMOG",
+      "trackId": "2394539",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 504,
+      "mediaIds": {
+        "spotify": "157073",
+        "youtube": "157073",
+        "soundcloud": "157073",
+        "appleMusic": "157073"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Emalkay",
+      "title": "Fabrication",
+      "remix": "",
+      "label": "DUB POLICE",
+      "trackId": "11364343",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 560,
+      "mediaIds": {
+        "spotify": "35023",
+        "youtube": "35023",
+        "soundcloud": "35023",
+        "appleMusic": "35023"
+      },
+      "blendGroup": [
+        {
+          "artist": "Emalkay",
+          "title": "Fabrication",
+          "remix": "",
+          "trackId": "11364343"
+        },
+        {
+          "artist": "Zomboy",
+          "title": "Terror Squad (Bro Safari & Ricky Remedy Remix)",
+          "remix": "",
+          "trackId": "2394540"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zomboy",
+      "title": "Terror Squad (Bro Safari & Ricky Remedy Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "2394540",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 576,
+      "mediaIds": {
+        "spotify": "246600",
+        "youtube": "246600",
+        "soundcloud": "246600",
+        "appleMusic": "246600"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "JAUZ & Ephwurd",
+      "title": "Rock The Party (JAUZ & B-Sides VIP Mix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2394541",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 617,
+      "mediaIds": {
+        "youtube": "265266",
+        "soundcloud": "265266"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Dotcom",
+      "title": "Make It Go",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2394542",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 653,
+      "mediaIds": {
+        "spotify": "261605",
+        "youtube": "261605",
+        "soundcloud": "261605"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "ETC!ETC! & Brillz",
+      "title": "Swoop",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2394543",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 691,
+      "mediaIds": {
+        "spotify": "91590",
+        "youtube": "91590",
+        "soundcloud": "91590",
+        "appleMusic": "91590"
+      },
+      "blendGroup": [
+        {
+          "artist": "ETC!ETC! & Brillz",
+          "title": "Swoop",
+          "remix": "",
+          "trackId": "2394543"
+        },
+        {
+          "artist": "Flosstradamus & GTA ft. Lil Jon",
+          "title": "Prison Riot",
+          "remix": "",
+          "trackId": "2394544"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flosstradamus & GTA ft. Lil Jon",
+      "title": "Prison Riot",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "2394544",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 706,
+      "mediaIds": {
+        "spotify": "231264",
+        "youtube": "231264",
+        "soundcloud": "231264",
+        "appleMusic": "231264"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Zomboy",
+      "title": "Like A Bitch",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "2394545",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 748,
+      "mediaIds": {
+        "spotify": "291288",
+        "youtube": "291288",
+        "soundcloud": "291288",
+        "appleMusic": "291288"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Knife Party",
+      "title": "PLUR Police (JAUZ Remix)",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "2394546",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 782,
+      "mediaIds": {
+        "spotify": "276727",
+        "youtube": "276727",
+        "soundcloud": "276727",
+        "appleMusic": "276727"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "BARELY ALIVE",
+      "title": "Poison Dart (Herobust Busted Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "2394547",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 847,
+      "mediaIds": {
+        "spotify": "300690",
+        "youtube": "300690",
+        "soundcloud": "300690",
+        "appleMusic": "300690"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Knife Party",
+      "title": "Destroy Them With Lazers (Herobust Busted Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2394548",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "317477",
+        "soundcloud": "317477"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Flosstradamus ft. Casino",
+      "title": "Mosh Pit",
+      "remix": "",
+      "label": "FOOL'S GOLD/ULTRA",
+      "trackId": "2394549",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "168819",
+        "youtube": "168819",
+        "soundcloud": "168819",
+        "appleMusic": "168819"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "522059",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=zlbr7m5LIwk"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:23:59.331Z",
+  "scrapeVersion": 2
+}

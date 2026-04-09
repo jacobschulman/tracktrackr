@@ -1,0 +1,341 @@
+{
+  "tlId": "2tnbvtx1",
+  "dj": "Elephante",
+  "stage": "EDC Las Vegas",
+  "date": "2020-05-17",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/2tnbvtx1/elephante-edc-las-vegas-virtual-rave-a-thon-united-states-2020-05-17.html",
+  "djs": [
+    {
+      "name": "Elephante",
+      "slug": "elephante"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ODESZA",
+      "title": "Loyal (Deathpact Reprise)",
+      "remix": "",
+      "label": "NINJA",
+      "trackId": "4970507",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 190,
+      "mediaIds": {
+        "youtube": "455439",
+        "soundcloud": "455439"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Elephante ft. Tiina",
+      "title": "Break",
+      "remix": "",
+      "label": "ZOO MUSIC",
+      "trackId": "4970508",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 290,
+      "mediaIds": {
+        "spotify": "734572",
+        "appleMusic": "734572"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Virtual Self",
+      "title": "Ghost Voices",
+      "remix": "",
+      "label": "VIRTUAL SELF",
+      "trackId": "4970509",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 420,
+      "mediaIds": {
+        "spotify": "389891",
+        "youtube": "389891",
+        "soundcloud": "389891",
+        "appleMusic": "389891"
+      },
+      "blendGroup": [
+        {
+          "artist": "Virtual Self",
+          "title": "Ghost Voices",
+          "remix": "",
+          "trackId": "4970509"
+        },
+        {
+          "artist": "Elephante ft. BISHØP",
+          "title": "Closer",
+          "remix": "",
+          "trackId": "4970510"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Elephante ft. BISHØP",
+      "title": "Closer",
+      "remix": "",
+      "label": "ELEPHANTE",
+      "trackId": "4970510",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300665",
+        "soundcloud": "300665",
+        "appleMusic": "300665"
+      },
+      "blendGroup": [
+        {
+          "artist": "Elephante ft. BISHØP",
+          "title": "Closer",
+          "remix": "",
+          "trackId": "4970510"
+        },
+        {
+          "artist": "Elephante ft. BISHØP",
+          "title": "Closer (Zoo Mix)",
+          "remix": "",
+          "trackId": "4970511"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Elephante ft. BISHØP",
+      "title": "Closer (Zoo Mix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4970511",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "310264",
+        "soundcloud": "310264"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Elephante ft. Brandyn Burnette",
+      "title": "Plans (VIP Mix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4970512",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 615,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Elephante",
+      "title": "Dopamine",
+      "remix": "",
+      "label": "ZOO MUSIC",
+      "trackId": "4970513",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 720,
+      "mediaIds": {
+        "spotify": "731078",
+        "youtube": "731078",
+        "soundcloud": "731078",
+        "appleMusic": "731078"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Elephante ft. Nevve",
+      "title": "Otherside",
+      "remix": "",
+      "label": "ELEPHANTE",
+      "trackId": "4970514",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 880,
+      "mediaIds": {
+        "spotify": "426422",
+        "youtube": "426422",
+        "soundcloud": "426422",
+        "appleMusic": "426422"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Elephante",
+      "title": "Shooting Stars (Bag Raiders Cover)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4970515",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1040,
+      "mediaIds": {
+        "youtube": "233182",
+        "soundcloud": "233182"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Mako & Elephante",
+      "title": "Chameleon",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "4970516",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1228,
+      "mediaIds": {
+        "spotify": "556489",
+        "youtube": "556489",
+        "soundcloud": "556489",
+        "appleMusic": "556489"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Elephante",
+      "title": "Glass Mansion",
+      "remix": "",
+      "label": "ELEPHANTE",
+      "trackId": "4970517",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1390,
+      "mediaIds": {
+        "spotify": "421596",
+        "youtube": "421596",
+        "soundcloud": "421596",
+        "appleMusic": "421596"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Mako",
+      "title": "Smoke Filled Room (Elephante Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "4970518",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1583,
+      "mediaIds": {
+        "spotify": "283975",
+        "youtube": "283975",
+        "soundcloud": "283975",
+        "appleMusic": "283975"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Elephante & MIIA",
+      "title": "Dynasty",
+      "remix": "",
+      "label": "RECURRENT",
+      "trackId": "4970519",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1730,
+      "mediaIds": {
+        "spotify": "282448",
+        "youtube": "282448",
+        "soundcloud": "282448",
+        "appleMusic": "282448"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Audien & ARTY",
+      "title": "Never Letting Go",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "4970520",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1887,
+      "mediaIds": {
+        "spotify": "452656",
+        "youtube": "452656",
+        "soundcloud": "452656",
+        "appleMusic": "452656"
+      },
+      "blendGroup": [
+        {
+          "artist": "Audien & ARTY",
+          "title": "Never Letting Go",
+          "remix": "",
+          "trackId": "4970520"
+        },
+        {
+          "artist": "Elephante ft. Nevve",
+          "title": "Have It All",
+          "remix": "",
+          "trackId": "4970521"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Elephante ft. Nevve",
+      "title": "Have It All",
+      "remix": "",
+      "label": "ELEPHANTE",
+      "trackId": "4970521",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "423260",
+        "youtube": "423260",
+        "soundcloud": "423260",
+        "appleMusic": "423260"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Elephante",
+      "title": "Diamond Days",
+      "remix": "",
+      "label": "ELEPHANTE",
+      "trackId": "4970522",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1980,
+      "mediaIds": {
+        "spotify": "581714",
+        "youtube": "581714",
+        "soundcloud": "581714",
+        "appleMusic": "581714"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1712563",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=exp3g6ljD0U"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:49:59.671Z",
+  "scrapeVersion": 2
+}

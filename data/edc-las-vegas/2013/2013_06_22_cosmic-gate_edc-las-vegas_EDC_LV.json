@@ -1,0 +1,297 @@
+{
+  "tlId": "8z0yjlk",
+  "dj": "Cosmic Gate",
+  "stage": "EDC Las Vegas",
+  "date": "2013-06-22",
+  "year": 2013,
+  "url": "https://www.1001tracklists.com/tracklist/8z0yjlk/cosmic-gate-circuitgrounds-edc-las-vegas-united-states-2013-06-22.html",
+  "djs": [
+    {
+      "name": "Cosmic Gate",
+      "slug": "cosmicgate"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Ilan Bluestone & Jerome Isma-Ae vs. Rui Da Silva ft. Cassandra Fox",
+      "title": "Touch Me Under My Skin (Cosmic Gate Mashup)",
+      "remix": "",
+      "label": "KISMET/ANJUNABEATS",
+      "trackId": "542788",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Rank 1",
+      "title": "Floorlifter",
+      "remix": "",
+      "label": "HIGH CONTRAST (BE YOURSELF)",
+      "trackId": "542789",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 420,
+      "mediaIds": {
+        "spotify": "125951",
+        "soundcloud": "125951",
+        "appleMusic": "125951"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Cosmic Gate ft. J'something",
+      "title": "Over The Rainbow (W&W Remix)",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "542790",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "76209",
+        "soundcloud": "76209",
+        "appleMusic": "76209"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Hardwell vs. Above & Beyond",
+      "title": "Thing Called Spaceman (W&W Mashup)",
+      "remix": "",
+      "label": "REVEALED/ANJUNABEATS",
+      "trackId": "542791",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "86774"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Russ James",
+      "title": "My Mind (Rafaël Frost Remix)",
+      "remix": "",
+      "label": "GARUDA",
+      "trackId": "542792",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1110,
+      "mediaIds": {
+        "spotify": "132340",
+        "youtube": "132340",
+        "soundcloud": "132340",
+        "appleMusic": "132340"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Cosmic Gate ft. Emma Hewitt",
+      "title": "Be Your Sound",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "542793",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "47685",
+        "youtube": "47685",
+        "soundcloud": "47685",
+        "appleMusic": "47685"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "W&W",
+      "title": "Thunder",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "542794",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "133689",
+        "youtube": "133689",
+        "soundcloud": "133689",
+        "appleMusic": "133689"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "First State ft. Anita Kelsey",
+      "title": "Falling",
+      "remix": "",
+      "label": "ITWT (BLACK HOLE)",
+      "trackId": "542795",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "92942",
+        "youtube": "92942",
+        "soundcloud": "92942",
+        "appleMusic": "92942"
+      },
+      "blendGroup": [
+        {
+          "artist": "First State ft. Anita Kelsey",
+          "title": "Falling",
+          "remix": "",
+          "trackId": "542795"
+        },
+        {
+          "artist": "Ummet Ozcan",
+          "title": "Here & Now",
+          "remix": "",
+          "trackId": "542796"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ummet Ozcan",
+      "title": "Here & Now",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "542796",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "108661",
+        "youtube": "108661",
+        "soundcloud": "108661",
+        "appleMusic": "108661"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Zedd ft. Foxes",
+      "title": "Clarity (W&W Bootleg)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "542797",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "120333",
+        "soundcloud": "120333"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Ummet Ozcan & DJ Ghost",
+      "title": "Airport",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "542798",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "134120",
+        "youtube": "134120",
+        "soundcloud": "134120",
+        "appleMusic": "134120"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Cosmic Gate",
+      "title": "Crushed (Mark Sixma Remix)",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "542799",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2640,
+      "mediaIds": {
+        "spotify": "140989",
+        "youtube": "140989",
+        "soundcloud": "140989",
+        "appleMusic": "140989"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Cosmic Gate ft. Cathy Burton",
+      "title": "Drifting Away (Faruk Sabanci Remix)",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "542800",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "126057",
+        "soundcloud": "126057",
+        "appleMusic": "126057"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Cosmic Gate",
+      "title": "Exploration Of Space (Cosmic Gate Back 2 The Future Remix)",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "542801",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "27891",
+        "youtube": "27891",
+        "soundcloud": "27891"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Cosmic Gate",
+      "title": "Storm Chaser (Global Gathering 2012 Anthem) (KhoMha Remix)",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "542802",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "127074",
+        "youtube": "127074",
+        "soundcloud": "127074"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "96484",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=qM2ObjhuncA"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:17:40.746Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,605 @@
+{
+  "tlId": "jz32wh9",
+  "dj": "Yultron",
+  "stage": "EDC Orlando",
+  "date": "2019-11-08",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/jz32wh9/yultron-circuitgrounds-edc-orlando-united-states-2019-11-08.html",
+  "djs": [
+    {
+      "name": "Yultron",
+      "slug": "yultron"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Yultron",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12893475",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Tiësto & KSHMR ft. VASSY",
+      "title": "Secrets (Yultron Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "4481594",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 50,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Flosstradamus ft. Casino",
+      "title": "Mosh Pit (Acappella)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "4481600",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 89,
+      "mediaIds": {
+        "spotify": "230379",
+        "youtube": "230379",
+        "soundcloud": "230379",
+        "appleMusic": "230379"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flosstradamus ft. Casino",
+          "title": "Mosh Pit (Acappella)",
+          "remix": "",
+          "trackId": "4481600"
+        },
+        {
+          "artist": "Lemay ft. Krime Fyter",
+          "title": "Countless",
+          "remix": "",
+          "trackId": "4481601"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lemay ft. Krime Fyter",
+      "title": "Countless",
+      "remix": "",
+      "label": "ELYSIAN",
+      "trackId": "4481601",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 89,
+      "mediaIds": {
+        "spotify": "362640",
+        "youtube": "362640",
+        "soundcloud": "362640",
+        "appleMusic": "362640"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lemay ft. Krime Fyter",
+          "title": "Countless",
+          "remix": "",
+          "trackId": "4481601"
+        },
+        {
+          "artist": "TroyBoi & Flosstradamus",
+          "title": "Soundclash",
+          "remix": "",
+          "trackId": "4481602"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TroyBoi & Flosstradamus",
+      "title": "Soundclash",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "4481602",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 113,
+      "mediaIds": {
+        "spotify": "226289",
+        "youtube": "226289",
+        "soundcloud": "226289",
+        "appleMusic": "226289"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "PIERCE ft. Rico Act",
+      "title": "Gutter",
+      "remix": "",
+      "label": "PIERCE SOUNDS",
+      "trackId": "4481603",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 152,
+      "mediaIds": {
+        "spotify": "562016",
+        "youtube": "562016",
+        "soundcloud": "562016",
+        "appleMusic": "562016"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Dr. Dre ft. Snoop Dogg & Kurupt & Nate Dogg",
+      "title": "The Next Episode",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "4481604",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 187,
+      "mediaIds": {
+        "spotify": "20863",
+        "youtube": "20863",
+        "soundcloud": "20863",
+        "appleMusic": "20863"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dr. Dre ft. Snoop Dogg & Kurupt & Nate Dogg",
+          "title": "The Next Episode",
+          "remix": "",
+          "trackId": "4481604"
+        },
+        {
+          "artist": "SVDDEN DEATH",
+          "title": "Behemoth",
+          "remix": "",
+          "trackId": "4481605"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SVDDEN DEATH",
+      "title": "Behemoth",
+      "remix": "",
+      "label": "SVDDEN DEATH",
+      "trackId": "4481605",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 243,
+      "mediaIds": {
+        "spotify": "433032",
+        "youtube": "433032",
+        "soundcloud": "433032",
+        "appleMusic": "433032"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Gentlemens Club",
+      "title": "Faded",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "4481606",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 315,
+      "mediaIds": {
+        "spotify": "525602",
+        "youtube": "525602",
+        "soundcloud": "525602",
+        "appleMusic": "525602"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "GRiZ ft. Subtronics",
+      "title": "Griztronics (Yultron Remix)",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "4481607",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 361,
+      "mediaIds": {
+        "youtube": "572563",
+        "soundcloud": "572563"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Yultron",
+      "title": "Old School Grime",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "4481608",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 450,
+      "mediaIds": {
+        "spotify": "560679",
+        "soundcloud": "560679",
+        "appleMusic": "560679"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "We Rose",
+      "title": "Taser",
+      "remix": "",
+      "label": "HYBRID TRAP",
+      "trackId": "4481609",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 519,
+      "mediaIds": {
+        "spotify": "598738",
+        "youtube": "598738",
+        "soundcloud": "598738",
+        "appleMusic": "598738"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12893476",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 624,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Sebastian Ingrosso & Alesso",
+      "title": "Calling (Yultron Remix)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "4481611",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 687,
+      "mediaIds": {
+        "youtube": "496774",
+        "soundcloud": "496774"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Dirty Audio & Tucker Kreway",
+      "title": "Blue Steel",
+      "remix": "",
+      "label": "WELCOME",
+      "trackId": "4481612",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 840,
+      "mediaIds": {
+        "spotify": "509254",
+        "youtube": "509254",
+        "soundcloud": "509254",
+        "appleMusic": "509254"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Zomboy",
+      "title": "Hide N' Seek (Fransis Derelle Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "4481613",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 890,
+      "mediaIds": {
+        "youtube": "4481613",
+        "soundcloud": "4481613"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "MARAUDA",
+      "title": "Elevate",
+      "remix": "",
+      "label": "MALIGNANT",
+      "trackId": "4481614",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 915,
+      "mediaIds": {
+        "spotify": "524382",
+        "youtube": "524382",
+        "soundcloud": "524382",
+        "appleMusic": "524382"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Kendrick Lamar ft. MC Eiht",
+      "title": "m.A.A.d city",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "4481615",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 993,
+      "mediaIds": {
+        "spotify": "113728",
+        "youtube": "113728",
+        "soundcloud": "113728",
+        "appleMusic": "113728"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kendrick Lamar ft. MC Eiht",
+          "title": "m.A.A.d city",
+          "remix": "",
+          "trackId": "4481615"
+        },
+        {
+          "artist": "Benny Benassi pres. The Biz",
+          "title": "Satisfaction (Yultron Remix)",
+          "remix": "",
+          "trackId": "4481616"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Benny Benassi pres. The Biz",
+      "title": "Satisfaction (Yultron Remix)",
+      "remix": "",
+      "label": "D:VISION",
+      "trackId": "4481616",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1005,
+      "mediaIds": {
+        "youtube": "578334"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "graves ft. 93FEETOFSMOKE",
+      "title": "Deadsong",
+      "remix": "",
+      "label": "WELCOME",
+      "trackId": "4481617",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1080,
+      "mediaIds": {
+        "spotify": "511200",
+        "soundcloud": "511200",
+        "appleMusic": "511200"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Galantis",
+      "title": "Runaway (U & I) (Yultron Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "4481618",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1136,
+      "mediaIds": {
+        "youtube": "474874",
+        "soundcloud": "474874"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Showtek ft. We Are Loud & Sonny Wilson",
+      "title": "Booyah (Yultron Flip)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4481619",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1200,
+      "mediaIds": {
+        "youtube": "497052"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Yultron",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4481620",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1320,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Flosstradamus & GTA vs. Kompany & BadKlaat",
+      "title": "Prison Riot (Yultron Mash/Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "4481621",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1333,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "YDG",
+      "title": "The Occult",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4518990",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1433,
+      "mediaIds": {
+        "spotify": "496775",
+        "youtube": "496775",
+        "appleMusic": "496775"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Boombox Cartel ft. MadeinTYO",
+      "title": "NEW WIP (PIERCE & Volt Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "4518991",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1474,
+      "mediaIds": {
+        "spotify": "525586",
+        "youtube": "525586",
+        "soundcloud": "525586",
+        "appleMusic": "525586"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "DJ Snake & Eptic",
+      "title": "SouthSide (Yultron Remix)",
+      "remix": "",
+      "label": "GEFFEN (UMG)",
+      "trackId": "4481595",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "496639",
+        "youtube": "496639",
+        "soundcloud": "496639",
+        "appleMusic": "496639"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "NVADRZ & ALIAS",
+      "title": "Run Up",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4481596",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "510086"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Hydraulix",
+      "title": "Got That",
+      "remix": "",
+      "label": "FRITE NITE",
+      "trackId": "4481597",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "A$AP Ferg ft. A$AP Rocky & French Montana & Schoolboy Q & Trinidad James",
+      "title": "Work (Remix)",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "4481598",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "218020",
+        "youtube": "218020",
+        "soundcloud": "218020",
+        "appleMusic": "218020"
+      },
+      "blendGroup": [
+        {
+          "artist": "A$AP Ferg ft. A$AP Rocky & French Montana & Schoolboy Q & Trinidad James",
+          "title": "Work (Remix)",
+          "remix": "",
+          "trackId": "4481598"
+        },
+        {
+          "artist": "PIERCE",
+          "title": "Wobble",
+          "remix": "",
+          "trackId": "4481599"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "PIERCE",
+      "title": "Wobble",
+      "remix": "",
+      "label": "24-8",
+      "trackId": "4481599",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "548526",
+        "youtube": "548526",
+        "soundcloud": "548526",
+        "appleMusic": "548526"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1458707",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=OjR1r4QG6hE"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "1420450",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:12:10.104Z",
+  "scrapeVersion": 2
+}

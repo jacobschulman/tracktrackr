@@ -1,0 +1,138 @@
+{
+  "tlId": "7qrtps9",
+  "dj": "Flume",
+  "stage": "EDC Las Vegas",
+  "date": "2015-06-19",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/7qrtps9/flume-cosmicmeadow-edc-las-vegas-united-states-2015-06-19.html",
+  "djs": [
+    {
+      "name": "Flume",
+      "slug": "flume"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Flume ft. Moon Holiday",
+      "title": "Insane",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "1480985",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "106047",
+        "youtube": "106047",
+        "soundcloud": "106047",
+        "appleMusic": "106047"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Rustie",
+      "title": "Slasherr (Flume Edit)",
+      "remix": "",
+      "label": "NUMBERS",
+      "trackId": "1480986",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "162494",
+        "soundcloud": "162494"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rustie",
+          "title": "Slasherr (Flume Edit)",
+          "remix": "",
+          "trackId": "1480986"
+        },
+        {
+          "artist": "Dillon Francis & What So Not ft. Dawn Golden",
+          "title": "Arrows (Instrumental Mix)",
+          "remix": "",
+          "trackId": "1480988"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dillon Francis & What So Not ft. Dawn Golden",
+      "title": "Arrows (Instrumental Mix)",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "1480988",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 420,
+      "mediaIds": {
+        "youtube": "292928"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Hermitude",
+      "title": "HyperParadise (Flume Remix)",
+      "remix": "",
+      "label": "ELEFANT TRAKS",
+      "trackId": "1480989",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "85270",
+        "youtube": "85270",
+        "soundcloud": "85270",
+        "appleMusic": "85270"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Flume",
+      "title": "Helix",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "1480990",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 900,
+      "mediaIds": {
+        "spotify": "319645",
+        "youtube": "319645",
+        "soundcloud": "319645",
+        "appleMusic": "319645"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Flume ft. Andrew Wyatt",
+      "title": "Some Minds",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "1480991",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1154,
+      "mediaIds": {
+        "spotify": "257253",
+        "youtube": "257253",
+        "soundcloud": "257253",
+        "appleMusic": "257253"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T08:34:20.476Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,525 @@
+{
+  "tlId": "2bndf7b1",
+  "dj": "W&W",
+  "stage": "Ultra Europe",
+  "date": "2017-07-14",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/2bndf7b1/wandw-mainstage-ultra-europe-croatia-2017-07-14.html",
+  "djs": [
+    {
+      "name": "W&W",
+      "slug": "wandw"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "The Chainsmokers ft. Daya",
+      "title": "Don't Let Me Down (W&W Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "2748643",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300465",
+        "youtube": "300465",
+        "soundcloud": "300465",
+        "appleMusic": "300465"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "W&W",
+      "title": "Whatcha Need",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "2748644",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 125,
+      "mediaIds": {
+        "spotify": "300466",
+        "youtube": "300466",
+        "soundcloud": "300466",
+        "appleMusic": "300466"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Ed Sheeran",
+      "title": "Shape Of You (W&W Festival Mix)",
+      "remix": "",
+      "label": "ASYLUM (WARNER MUSIC)",
+      "trackId": "2748645",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 267,
+      "mediaIds": {
+        "youtube": "351632",
+        "soundcloud": "351632"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "W&W",
+      "title": "Supa Dupa Fly 2018",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "2748646",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 390,
+      "mediaIds": {
+        "spotify": "372762",
+        "youtube": "372762",
+        "soundcloud": "372762",
+        "appleMusic": "372762"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Armin van Buuren & Sunnery James & Ryan Marciano",
+      "title": "You Are",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "2748647",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 480,
+      "mediaIds": {
+        "spotify": "368313",
+        "youtube": "368313",
+        "soundcloud": "368313",
+        "appleMusic": "368313"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Jordan & Baker & W&W vs. Chuckie vs. Blasterjaxx",
+      "title": "Explode vs. Who's Ready To Jump vs. Rocket (W&W Mashup)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)/REVEALED/TRAK",
+      "trackId": "2748648",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 641,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Snap!",
+      "title": "Rhythm Is A Dancer (W&W Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "2748651",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 758,
+      "mediaIds": {
+        "youtube": "358986",
+        "soundcloud": "358986"
+      },
+      "blendGroup": [
+        {
+          "artist": "Snap!",
+          "title": "Rhythm Is A Dancer (W&W Bootleg)",
+          "remix": "",
+          "trackId": "2748651"
+        },
+        {
+          "artist": "MaxRiven",
+          "title": "Rhythm Is A Dancer",
+          "remix": "",
+          "trackId": "2748746"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MaxRiven",
+      "title": "Rhythm Is A Dancer",
+      "remix": "",
+      "label": "PLAYBOX (KONTOR)",
+      "trackId": "2748746",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 808,
+      "mediaIds": {
+        "spotify": "343747",
+        "youtube": "343747",
+        "soundcloud": "343747",
+        "appleMusic": "343747"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "NWYR",
+      "title": "New Synths",
+      "remix": "",
+      "label": "NWYR",
+      "trackId": "2748652",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 840,
+      "mediaIds": {
+        "spotify": "398205",
+        "youtube": "398205",
+        "soundcloud": "398205",
+        "appleMusic": "398205"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Andrew Rayel vs. Gareth Emery & Standerwick ft. HALIENE",
+      "title": "Mass Effect vs. Saving Light (W&W Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "2748653",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1060,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "W&W & Hardwell & Lil Jon",
+      "title": "Live The Night",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "2748654",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1177,
+      "mediaIds": {
+        "spotify": "247326",
+        "youtube": "247326",
+        "soundcloud": "247326",
+        "appleMusic": "247326"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Armin van Buuren vs. W&W",
+      "title": "This Is A Test vs. Bigfoot (W&W Mashup)",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)/ARMIND",
+      "trackId": "2748655",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1370,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Dr. Dre ft. Snoop Dogg",
+      "title": "Still D.R.E. (W&W Festival Mix)",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "2748656",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1505,
+      "mediaIds": {
+        "youtube": "287547",
+        "soundcloud": "287547",
+        "appleMusic": "287547"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Clean Bandit ft. Sean Paul & Anne-Marie",
+      "title": "Rockabye (SaberZ Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2748657",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1612,
+      "mediaIds": {
+        "soundcloud": "361698"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "NWYR",
+      "title": "Voltage",
+      "remix": "",
+      "label": "NWYR",
+      "trackId": "2748658",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1762,
+      "mediaIds": {
+        "spotify": "348051",
+        "youtube": "348051",
+        "soundcloud": "348051",
+        "appleMusic": "348051"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "NWYR",
+      "title": "Dragon",
+      "remix": "",
+      "label": "NWYR",
+      "trackId": "2748659",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1915,
+      "mediaIds": {
+        "spotify": "388850",
+        "youtube": "388850",
+        "soundcloud": "388850",
+        "appleMusic": "388850"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "David Gravell",
+      "title": "Addicted To",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "2748660",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2036,
+      "mediaIds": {
+        "spotify": "387636",
+        "youtube": "387636",
+        "soundcloud": "387636",
+        "appleMusic": "387636"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Safri Duo",
+      "title": "Played-A-Live (The Bongo Song) (NWYR & Willem De Roo Bootleg)",
+      "remix": "",
+      "label": "NWYR",
+      "trackId": "2748661",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2202,
+      "mediaIds": {
+        "youtube": "370596",
+        "soundcloud": "370596",
+        "appleMusic": "370596"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Dimitri Vegas & Like Mike & W&W vs. The White Stripes",
+      "title": "Arcade vs. Seven Nation Army (W&W Edit)",
+      "remix": "",
+      "label": "XL/SMASH THE HOUSE",
+      "trackId": "2748662",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2340,
+      "mediaIds": {
+        "youtube": "308379"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Southside Spinners",
+      "title": "Luvstruck",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "2749152",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2557,
+      "mediaIds": {
+        "spotify": "19241",
+        "youtube": "19241",
+        "soundcloud": "19241",
+        "appleMusic": "19241"
+      },
+      "blendGroup": [
+        {
+          "artist": "Southside Spinners",
+          "title": "Luvstruck",
+          "remix": "",
+          "trackId": "2749152"
+        },
+        {
+          "artist": "Armin van Buuren & W&W vs. Alan Walker feat. Iselin Solheim & Dash Berlin",
+          "title": "If It Ain't Dutch vs. Faded (Armin van Buuren Mashup)",
+          "remix": "",
+          "trackId": "2748997"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Armin van Buuren & W&W vs. Alan Walker feat. Iselin Solheim & Dash Berlin",
+      "title": "If It Ain't Dutch vs. Faded (Armin van Buuren Mashup)",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)/MER",
+      "trackId": "2748997",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 2620,
+      "mediaIds": null
+    },
+    {
+      "pos": "20",
+      "artist": "Ummet Ozcan",
+      "title": "Omnia",
+      "remix": "",
+      "label": "OZ (SPINNIN')",
+      "trackId": "2748665",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2810,
+      "mediaIds": {
+        "spotify": "420851",
+        "youtube": "420851",
+        "soundcloud": "420851",
+        "appleMusic": "420851"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Maestro Harrell & Bart Claessen",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2748666",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2905,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Maestro Harrell & Bart Claessen",
+          "title": "ID",
+          "remix": "",
+          "trackId": "2748666"
+        },
+        {
+          "artist": "VINAI vs. Alvaro & MERCER & Lil Jon vs. Hardwell vs. DJ Snake & W&W",
+          "title": "The Wave vs. Welcome To The Jungle vs. Get Down vs. Propaganda (W&W Mashup)",
+          "remix": "",
+          "trackId": "2748667"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "VINAI vs. Alvaro & MERCER & Lil Jon vs. Hardwell vs. DJ Snake & W&W",
+      "title": "The Wave vs. Welcome To The Jungle vs. Get Down vs. Propaganda (W&W Mashup)",
+      "remix": "",
+      "label": "REVEALED/SPINNIN'/DJ SNAKE/INTERSCOPE",
+      "trackId": "2748667",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 2916,
+      "mediaIds": null
+    },
+    {
+      "pos": "22",
+      "artist": "Maestro Harrell",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2749054",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3022,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "D-Block & S-te-Fan",
+      "title": "By Myself",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "2749116",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3184,
+      "mediaIds": {
+        "spotify": "356209",
+        "youtube": "356209",
+        "soundcloud": "356209",
+        "appleMusic": "356209"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Eiffel 65",
+      "title": "Blue (Da Ba Dee) (Da Tweekaz & Code Black & Adrenalize Team Blue Mix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2749088",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3360,
+      "mediaIds": {
+        "youtube": "408316",
+        "soundcloud": "408316"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Ed Sheeran",
+      "title": "Castle On The Hill (NWYR Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2748749",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3460,
+      "mediaIds": {
+        "youtube": "350422",
+        "soundcloud": "350422"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2309949",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=TD-THXXlxlQ"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "623677",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/nsmedm"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:24:58.991Z",
+  "scrapeVersion": 2
+}

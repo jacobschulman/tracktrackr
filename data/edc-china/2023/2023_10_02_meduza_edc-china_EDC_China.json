@@ -1,0 +1,199 @@
+{
+  "tlId": "m1w9s99",
+  "dj": "MEDUZA",
+  "stage": "EDC China",
+  "date": "2023-10-02",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/m1w9s99/meduza-stereobloom-edc-china-2023-10-02.html",
+  "djs": [
+    {
+      "name": "MEDUZA",
+      "slug": "meduza"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "GENESI",
+      "title": "Slow Down",
+      "remix": "",
+      "label": "SIONA",
+      "trackId": "9571334",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "931432",
+        "youtube": "931432",
+        "soundcloud": "931432",
+        "appleMusic": "931432"
+      },
+      "blendGroup": [
+        {
+          "artist": "GENESI",
+          "title": "Slow Down",
+          "remix": "",
+          "trackId": "9571334"
+        },
+        {
+          "artist": "MEDUZA ft. Dermot Kennedy",
+          "title": "Paradise",
+          "remix": "(Acappella)",
+          "trackId": "9571335"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MEDUZA ft. Dermot Kennedy",
+      "title": "Paradise",
+      "remix": "(Acappella)",
+      "label": "ISLAND/CROSS",
+      "trackId": "9571335",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "627421",
+        "youtube": "627421",
+        "soundcloud": "627421",
+        "appleMusic": "627421"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "MEDUZA x Eli & Fur",
+      "title": "Pegasus",
+      "remix": "",
+      "label": "ANJUNADEEP",
+      "trackId": "9571336",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 181,
+      "mediaIds": {
+        "spotify": "681087",
+        "youtube": "681087",
+        "soundcloud": "681087",
+        "appleMusic": "681087"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "MEDUZA & GENESI",
+      "title": "Ecstasy",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "9571337",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 470,
+      "mediaIds": {
+        "spotify": "935543",
+        "youtube": "935543",
+        "soundcloud": "935543",
+        "appleMusic": "935543"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Equinøx",
+      "title": "Everyman",
+      "remix": "",
+      "label": "AETERNA",
+      "trackId": "9571338",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 707,
+      "mediaIds": {
+        "spotify": "958649",
+        "youtube": "958649",
+        "soundcloud": "958649",
+        "appleMusic": "958649"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "GENESI",
+      "title": "Everything You Have Done (MEDUZA Edit)",
+      "remix": "",
+      "label": "AETERNA",
+      "trackId": "9571339",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 990,
+      "mediaIds": {
+        "spotify": "870126",
+        "youtube": "870126",
+        "soundcloud": "870126",
+        "appleMusic": "870126"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Tony De Vit & Fergie vs. Supermode & MEDUZA & Hozier",
+      "title": "The Dawn vs. Tell It To My Heart vs. Tell Me Why (MEDUZA Edit)",
+      "remix": "",
+      "label": "ISLAND (UMG)/TDV (TIDY TRAX)/AXTONE",
+      "trackId": "9571340",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1265,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9571342",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1600,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9571342"
+        },
+        {
+          "artist": "MEDUZA x Becky Hill x GOODBOYS",
+          "title": "Lose Control",
+          "remix": "(Acappella)",
+          "trackId": "9571343"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MEDUZA x Becky Hill x GOODBOYS",
+      "title": "Lose Control",
+      "remix": "(Acappella)",
+      "label": "VIRGIN/POLYDOR",
+      "trackId": "9571343",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "528460",
+        "youtube": "528460",
+        "soundcloud": "528460",
+        "appleMusic": "528460"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T15:32:26.472Z",
+  "scrapeVersion": 2
+}

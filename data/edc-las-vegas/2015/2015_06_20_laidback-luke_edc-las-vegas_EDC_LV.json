@@ -1,0 +1,866 @@
+{
+  "tlId": "4ucdfm1",
+  "dj": "Laidback Luke",
+  "stage": "EDC Las Vegas",
+  "date": "2015-06-20",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/4ucdfm1/laidback-luke-kineticfield-edc-las-vegas-united-states-2015-06-20.html",
+  "djs": [
+    {
+      "name": "Laidback Luke",
+      "slug": "laidbackluke"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "The Immortals",
+      "title": "Techno Syndrome (Mortal Kombat)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "1480451",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 75,
+      "mediaIds": {
+        "spotify": "260211",
+        "youtube": "260211",
+        "soundcloud": "260211",
+        "appleMusic": "260211"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Wiwek & Gregor Salto ft. MC Spyder",
+      "title": "Trouble",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "1480452",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 180,
+      "mediaIds": {
+        "spotify": "259908",
+        "youtube": "259908",
+        "soundcloud": "259908",
+        "appleMusic": "259908"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Herve Pagez & KANDY",
+      "title": "Git Up",
+      "remix": "",
+      "label": "BROOKLYN FIRE",
+      "trackId": "1509135",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 222,
+      "mediaIds": {
+        "spotify": "255512",
+        "youtube": "255512",
+        "soundcloud": "255512",
+        "appleMusic": "255512"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Juyen Sebulba & Herve Pagez",
+      "title": "This Way",
+      "remix": "",
+      "label": "ONES TO WATCH (MIXMASH)",
+      "trackId": "1480454",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 275,
+      "mediaIds": {
+        "spotify": "234863",
+        "youtube": "234863",
+        "soundcloud": "234863",
+        "appleMusic": "234863"
+      },
+      "blendGroup": [
+        {
+          "artist": "Juyen Sebulba & Herve Pagez",
+          "title": "This Way",
+          "remix": "",
+          "trackId": "1480454"
+        },
+        {
+          "artist": "Vandalism & Static Revenger",
+          "title": "Vegas (Acappella)",
+          "remix": "",
+          "trackId": "1481046"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Vandalism & Static Revenger",
+      "title": "Vegas (Acappella)",
+      "remix": "",
+      "label": "VICIOUS",
+      "trackId": "1481046",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 280,
+      "mediaIds": {
+        "youtube": "31709",
+        "appleMusic": "31709"
+      },
+      "blendGroup": [
+        {
+          "artist": "Vandalism & Static Revenger",
+          "title": "Vegas (Acappella)",
+          "remix": "",
+          "trackId": "1481046"
+        },
+        {
+          "artist": "ARMNHMR",
+          "title": "Pantheon",
+          "remix": "",
+          "trackId": "1480455"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ARMNHMR",
+      "title": "Pantheon",
+      "remix": "",
+      "label": "FINALE SESSIONS",
+      "trackId": "1480455",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 400,
+      "mediaIds": null
+    },
+    {
+      "pos": "05",
+      "artist": "Major Lazer ft. Busy Signal & The Flexican & FS Green",
+      "title": "Watch Out For This (Bumaye)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1480456",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 440,
+      "mediaIds": {
+        "spotify": "62572",
+        "youtube": "62572",
+        "soundcloud": "62572",
+        "appleMusic": "62572"
+      },
+      "blendGroup": [
+        {
+          "artist": "Major Lazer ft. Busy Signal & The Flexican & FS Green",
+          "title": "Watch Out For This (Bumaye)",
+          "remix": "",
+          "trackId": "1480456"
+        },
+        {
+          "artist": "Gama",
+          "title": "Yoda",
+          "remix": "",
+          "trackId": "1498053"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gama",
+      "title": "Yoda",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1498053",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 490,
+      "mediaIds": {
+        "spotify": "259094",
+        "soundcloud": "259094"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "KANDY ft. MC Vocab",
+      "title": "Jungle Freaks",
+      "remix": "",
+      "label": "BROOKLYN FIRE",
+      "trackId": "1480457",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 520,
+      "mediaIds": {
+        "spotify": "249386",
+        "youtube": "249386",
+        "soundcloud": "249386",
+        "appleMusic": "249386"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "MSTRKRFT ft. John Legend",
+      "title": "Heartbreaker (Laidback Luke Remix)",
+      "remix": "",
+      "label": "GEFFEN (UMG)",
+      "trackId": "1480458",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 585,
+      "mediaIds": {
+        "spotify": "10428",
+        "youtube": "10428",
+        "soundcloud": "10428",
+        "appleMusic": "10428"
+      },
+      "blendGroup": [
+        {
+          "artist": "MSTRKRFT ft. John Legend",
+          "title": "Heartbreaker (Laidback Luke Remix)",
+          "remix": "",
+          "trackId": "1480458"
+        },
+        {
+          "artist": "Laidback Luke & Angger Dimas ft. Mina",
+          "title": "Beat Of The Drum",
+          "remix": "",
+          "trackId": "1481048"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Laidback Luke & Angger Dimas ft. Mina",
+      "title": "Beat Of The Drum",
+      "remix": "",
+      "label": "ONES TO WATCH (MIXMASH)",
+      "trackId": "1481048",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 609,
+      "mediaIds": {
+        "spotify": "237988",
+        "youtube": "237988",
+        "soundcloud": "237988"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Alvaro & DJ MERCER ft. Lil Jon",
+      "title": "Welcome To The Jungle",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1480459",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 683,
+      "mediaIds": {
+        "spotify": "119124",
+        "youtube": "119124",
+        "soundcloud": "119124",
+        "appleMusic": "119124"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alvaro & DJ MERCER ft. Lil Jon",
+          "title": "Welcome To The Jungle",
+          "remix": "",
+          "trackId": "1480459"
+        },
+        {
+          "artist": "Cesqeaux & Mike Cervello",
+          "title": "SMACK!",
+          "remix": "",
+          "trackId": "1481049"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cesqeaux & Mike Cervello",
+      "title": "SMACK!",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "1481049",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 695,
+      "mediaIds": {
+        "spotify": "243946",
+        "youtube": "243946",
+        "soundcloud": "243946",
+        "appleMusic": "243946"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Alvaro & GlowInTheDark vs. Afrojack & Martin Garrix",
+      "title": "Charged Up The Speakers (GLOWINTHEDARK Smash-Up!)",
+      "remix": "",
+      "label": "POWERHOUSE/SPINNIN'",
+      "trackId": "1480460",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 735,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "GTA",
+      "title": "Parental Advisory",
+      "remix": "",
+      "label": "THREE SIX ZERO",
+      "trackId": "1480461",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 780,
+      "mediaIds": {
+        "spotify": "233953",
+        "youtube": "233953",
+        "soundcloud": "233953",
+        "appleMusic": "233953"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Laidback Luke & TUJAMO",
+      "title": "S.A.X.",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "1480462",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 850,
+      "mediaIds": {
+        "spotify": "219519",
+        "youtube": "219519",
+        "soundcloud": "219519",
+        "appleMusic": "219519"
+      },
+      "blendGroup": [
+        {
+          "artist": "Laidback Luke & TUJAMO",
+          "title": "S.A.X.",
+          "remix": "",
+          "trackId": "1480462"
+        },
+        {
+          "artist": "Laidback Luke ft. Jonathan Mendelsohn",
+          "title": "Till Tonight (Acappella)",
+          "remix": "",
+          "trackId": "1481182"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Laidback Luke ft. Jonathan Mendelsohn",
+      "title": "Till Tonight (Acappella)",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "1481182",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 902,
+      "mediaIds": {
+        "spotify": "15954",
+        "youtube": "15954",
+        "soundcloud": "15954",
+        "appleMusic": "15954"
+      },
+      "blendGroup": [
+        {
+          "artist": "Laidback Luke ft. Jonathan Mendelsohn",
+          "title": "Till Tonight (Acappella)",
+          "remix": "",
+          "trackId": "1481182"
+        },
+        {
+          "artist": "Flo Rida ft. Sage the Gemini & Lookas",
+          "title": "GDFR",
+          "remix": "",
+          "trackId": "1481183"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flo Rida ft. Sage the Gemini & Lookas",
+      "title": "GDFR",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "1481183",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 950,
+      "mediaIds": {
+        "spotify": "247775",
+        "youtube": "247775",
+        "soundcloud": "247775",
+        "appleMusic": "247775"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Shelco Garcia & TeenWolf",
+      "title": "Stuck In My Head",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "1480463",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1110,
+      "mediaIds": {
+        "spotify": "264035",
+        "youtube": "264035",
+        "soundcloud": "264035",
+        "appleMusic": "264035"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Showtek ft. MC Ambush",
+      "title": "90's By Nature (TUJAMO Remix)",
+      "remix": "",
+      "label": "SKINK",
+      "trackId": "1480464",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1290,
+      "mediaIds": {
+        "spotify": "242039",
+        "youtube": "242039",
+        "soundcloud": "242039",
+        "appleMusic": "242039"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Guru Josh Project",
+      "title": "Infinity 2008 (Klaas Remix)",
+      "remix": "",
+      "label": "CLS MUSIC",
+      "trackId": "1480465",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1370,
+      "mediaIds": {
+        "spotify": "239829",
+        "youtube": "239829",
+        "soundcloud": "239829",
+        "appleMusic": "239829"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Laidback Luke & Shelco Garcia & TeenWolf ft. Kris Kiss",
+      "title": "Outer Space (XXX)",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "1480466",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1475,
+      "mediaIds": {
+        "spotify": "254992",
+        "youtube": "254992",
+        "soundcloud": "254992",
+        "appleMusic": "254992"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Beastie Boys",
+      "title": "Intergalactic",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "1480467",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1650,
+      "mediaIds": {
+        "spotify": "6598",
+        "youtube": "6598",
+        "soundcloud": "6598",
+        "appleMusic": "6598"
+      },
+      "blendGroup": [
+        {
+          "artist": "Beastie Boys",
+          "title": "Intergalactic",
+          "remix": "",
+          "trackId": "1480467"
+        },
+        {
+          "artist": "Hardwell",
+          "title": "Spaceman (Laidback Luke Jersey Club Bootleg)",
+          "remix": "",
+          "trackId": "1481185"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hardwell",
+      "title": "Spaceman (Laidback Luke Jersey Club Bootleg)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1481185",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 1727,
+      "mediaIds": null
+    },
+    {
+      "pos": "17",
+      "artist": "Khia",
+      "title": "My Neck, My Back (Lick It) (French Calhoun Remix)",
+      "remix": "",
+      "label": "VANILLA OMP",
+      "trackId": "1480468",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1780,
+      "mediaIds": {
+        "soundcloud": "247535"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "David Guetta & Showtek ft. VASSY",
+      "title": "BAD (Laidback Luke & Frankie Steel Bootleg)",
+      "remix": "",
+      "label": "JACK BACK",
+      "trackId": "1480469",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1825,
+      "mediaIds": {
+        "soundcloud": "257036"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "2 Live Crew",
+      "title": "We Want Some Pussy (Go Mike Gip Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "1480470",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1870,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Steve Angello & Laidback Luke ft. Robin S",
+      "title": "Show Me Love",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "1481186",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1940,
+      "mediaIds": {
+        "spotify": "1489",
+        "youtube": "1489",
+        "soundcloud": "1489",
+        "appleMusic": "1489"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "AlunaGeorge",
+      "title": "You Know You Like It (Laidback Luke Jersey Club Bootleg)",
+      "remix": "",
+      "label": "TRI ANGLE",
+      "trackId": "1481187",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1980,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Wynter Gordon",
+      "title": "Dirty Talk (Laidback Luke Remix)",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "1481188",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2175,
+      "mediaIds": {
+        "spotify": "15953",
+        "youtube": "15953",
+        "soundcloud": "15953",
+        "appleMusic": "15953"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wynter Gordon",
+          "title": "Dirty Talk (Laidback Luke Remix)",
+          "remix": "",
+          "trackId": "1481188"
+        },
+        {
+          "artist": "DJ MERCER & 4B",
+          "title": "Bounce",
+          "remix": "",
+          "trackId": "1481189"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ MERCER & 4B",
+      "title": "Bounce",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1481189",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 2220,
+      "mediaIds": {
+        "spotify": "246605",
+        "youtube": "246605",
+        "soundcloud": "246605",
+        "appleMusic": "246605"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Bingo Players",
+      "title": "Rattle (Laidback Luke & Angger Dimas Jersey Club Bootleg)",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "1481190",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2265,
+      "mediaIds": {
+        "soundcloud": "257034"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Laidback Luke & Yellow Claw & Dirtcaps",
+      "title": "Mic",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "1481219",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2339,
+      "mediaIds": {
+        "spotify": "276178",
+        "youtube": "276178",
+        "soundcloud": "276178",
+        "appleMusic": "276178"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Laidback Luke & D.O.D vs. Dimitri Vegas & Like Mike & Martin Garrix",
+      "title": "Flashing Tremor (Laidback Luke Edit)",
+      "remix": "",
+      "label": "SPINNIN'/MIXMASH",
+      "trackId": "1481220",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2480,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Laidback Luke ft. MC Good Grip",
+      "title": "Rocking With The Best (TUJAMO Remix)",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "1481231",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2640,
+      "mediaIds": {
+        "spotify": "234219",
+        "youtube": "234219",
+        "soundcloud": "234219",
+        "appleMusic": "234219"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Kronic & Krunk! vs. Deorro & J-Trick & Hardwell",
+      "title": "Hey Ho Rambo (Uberjak'd Mashup)",
+      "remix": "",
+      "label": "BOMB SQUAD/REVEALED",
+      "trackId": "1481232",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2680,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Kronic & Krunk! vs. Deorro & J-Trick & Hardwell",
+          "title": "Hey Ho Rambo (Uberjak'd Mashup)",
+          "remix": "",
+          "trackId": "1481232"
+        },
+        {
+          "artist": "Timeflies",
+          "title": "All The Way (Laidback Luke Remix)",
+          "remix": "",
+          "trackId": "1481233"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Timeflies",
+      "title": "All The Way (Laidback Luke Remix)",
+      "remix": "",
+      "label": "ISLAND DEF JAM (UMG)",
+      "trackId": "1481233",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 2715,
+      "mediaIds": null
+    },
+    {
+      "pos": "28",
+      "artist": "Valentine Khaynus & Kit Sunders",
+      "title": "Insignia",
+      "remix": "",
+      "label": "ONES TO WATCH (MIXMASH)",
+      "trackId": "1481234",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2835,
+      "mediaIds": {
+        "spotify": "248688",
+        "youtube": "248688",
+        "soundcloud": "248688",
+        "appleMusic": "248688"
+      },
+      "blendGroup": [
+        {
+          "artist": "Valentine Khaynus & Kit Sunders",
+          "title": "Insignia",
+          "remix": "",
+          "trackId": "1481234"
+        },
+        {
+          "artist": "Riva Starr & Fatboy Slim ft. Beardyman",
+          "title": "Eat Sleep Rave Repeat (Acappella)",
+          "remix": "",
+          "trackId": "1481235"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Riva Starr & Fatboy Slim ft. Beardyman",
+      "title": "Eat Sleep Rave Repeat (Acappella)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "1481235",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 2860,
+      "mediaIds": {
+        "spotify": "141682",
+        "youtube": "141893",
+        "soundcloud": "141893",
+        "appleMusic": "141682"
+      }
+    },
+    {
+      "pos": "29",
+      "artist": "Calvin Harris & Alesso ft. Hurts",
+      "title": "Under Control",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "1481236",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2925,
+      "mediaIds": {
+        "spotify": "146189",
+        "youtube": "146189",
+        "soundcloud": "146189",
+        "appleMusic": "146189"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Laidback Luke & Marc Benjamin ft. Nuthin' Under A Million",
+      "title": "We're Forever",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "1481237",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3005,
+      "mediaIds": {
+        "spotify": "195295",
+        "youtube": "195295",
+        "soundcloud": "195295",
+        "appleMusic": "195295"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Laidback Luke ft. Trevor Guthrie",
+      "title": "Let It Go",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "1481238",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3205,
+      "mediaIds": {
+        "spotify": "272627",
+        "youtube": "272627",
+        "soundcloud": "272627",
+        "appleMusic": "272627"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "316469",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=520pXO3Zy9k"
+    }
+  ],
+  "scrapedAt": "2026-04-08T08:27:13.072Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,627 @@
+{
+  "tlId": "7q04l71",
+  "dj": "Alesso",
+  "stage": "Ultra Europe",
+  "date": "2014-07-13",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/7q04l71/alesso-mainstage-ultra-europe-croatia-2014-07-13.html",
+  "djs": [
+    {
+      "name": "Alesso",
+      "slug": "alesso"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Alesso",
+      "title": "Tear The Roof Up (Alesso Intro Edit)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "984020",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 135,
+      "mediaIds": {
+        "spotify": "186091",
+        "youtube": "186091",
+        "soundcloud": "186091",
+        "appleMusic": "186091"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Kid Massive & WeSmile ft. DATABOY",
+      "title": "Daylight (David Puentez & Dario Rodriguez Remix)",
+      "remix": "",
+      "label": "STRICTLY RHYTHM",
+      "trackId": "984021",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 411,
+      "mediaIds": {
+        "spotify": "176030",
+        "soundcloud": "176030",
+        "appleMusic": "176030"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kid Massive & WeSmile ft. DATABOY",
+          "title": "Daylight (David Puentez & Dario Rodriguez Remix)",
+          "remix": "",
+          "trackId": "984021"
+        },
+        {
+          "artist": "Anevo",
+          "title": "Walter White (Kryder Heisenberg Edit)",
+          "remix": "",
+          "trackId": "984022"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Anevo",
+      "title": "Walter White (Kryder Heisenberg Edit)",
+      "remix": "",
+      "label": "SOSUMI (BLACK HOLE)",
+      "trackId": "984022",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 459,
+      "mediaIds": {
+        "spotify": "195738",
+        "youtube": "195738",
+        "soundcloud": "195738"
+      },
+      "blendGroup": [
+        {
+          "artist": "Anevo",
+          "title": "Walter White (Kryder Heisenberg Edit)",
+          "remix": "",
+          "trackId": "984022"
+        },
+        {
+          "artist": "Syndicate Of L.A.W.",
+          "title": "Right On Time (2000 Countdown The Holly Digit Acappella)",
+          "remix": "",
+          "trackId": "984063"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Syndicate Of L.A.W.",
+      "title": "Right On Time (2000 Countdown The Holly Digit Acappella)",
+      "remix": "",
+      "label": "GUN RECORDS",
+      "trackId": "984063",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 492,
+      "mediaIds": {
+        "spotify": "16904",
+        "youtube": "16904",
+        "soundcloud": "16904",
+        "appleMusic": "16904"
+      },
+      "blendGroup": [
+        {
+          "artist": "Syndicate Of L.A.W.",
+          "title": "Right On Time (2000 Countdown The Holly Digit Acappella)",
+          "remix": "",
+          "trackId": "984063"
+        },
+        {
+          "artist": "Nicky Romero & Sunnery James & Ryan Marciano ft. Fast Eddie",
+          "title": "S.O.T.U. (Sound Of The Underground)",
+          "remix": "",
+          "trackId": "984064"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nicky Romero & Sunnery James & Ryan Marciano ft. Fast Eddie",
+      "title": "S.O.T.U. (Sound Of The Underground)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "984064",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 499,
+      "mediaIds": {
+        "spotify": "124820",
+        "youtube": "124820",
+        "soundcloud": "124820",
+        "appleMusic": "124820"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nicky Romero & Sunnery James & Ryan Marciano ft. Fast Eddie",
+          "title": "S.O.T.U. (Sound Of The Underground)",
+          "remix": "",
+          "trackId": "984064"
+        },
+        {
+          "artist": "Ivan Gough & Feenixpawl ft. Georgi Kay",
+          "title": "In My Mind (Axwell Mix)",
+          "remix": "",
+          "trackId": "1377744"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ivan Gough & Feenixpawl ft. Georgi Kay",
+      "title": "In My Mind (Axwell Mix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "1377744",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 420,
+      "mediaIds": {
+        "spotify": "59281",
+        "youtube": "59281",
+        "soundcloud": "59281",
+        "appleMusic": "59281"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Hard Rock Sofa & Skidka vs. Martin Garrix",
+      "title": "Moloko vs. Animals (Alesso Mashup)",
+      "remix": "",
+      "label": "STMPD/PROTOCOL",
+      "trackId": "984023",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 565,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Arno Cost & Norman Doray & Kryder & Tom Staar vs. Alesso",
+      "title": "Apocalypse 2014 vs. Raise Your Hands (Kryder Kryteria Edit)",
+      "remix": "",
+      "label": "REFUNE/SPINNIN'",
+      "trackId": "984024",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 810,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Major Lazer vs. Dada Life vs. Dimitri Vegas & Like Mike",
+      "title": "Watch Out For Bubble Butt (Alesso Mashup)",
+      "remix": "",
+      "label": "MAD DECENT/SECRETLY CANADIAN",
+      "trackId": "984025",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 976,
+      "mediaIds": {
+        "soundcloud": "190187"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Shapov & Amersy",
+      "title": "Vavilon",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "984027",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1113,
+      "mediaIds": {
+        "spotify": "206283",
+        "youtube": "206283",
+        "soundcloud": "206283",
+        "appleMusic": "206283"
+      },
+      "blendGroup": [
+        {
+          "artist": "Shapov & Amersy",
+          "title": "Vavilon",
+          "remix": "",
+          "trackId": "984027"
+        },
+        {
+          "artist": "Nadia Ali & Starkillers & Alex Kenji",
+          "title": "Pressure (Acappella)",
+          "remix": "",
+          "trackId": "984026"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nadia Ali & Starkillers & Alex Kenji",
+      "title": "Pressure (Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "984026",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 1148,
+      "mediaIds": {
+        "spotify": "26069",
+        "youtube": "55612",
+        "soundcloud": "26069",
+        "appleMusic": "26069"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Alesso",
+      "title": "Gillionaire",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "984028",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1285,
+      "mediaIds": {
+        "spotify": "250857",
+        "youtube": "250857",
+        "soundcloud": "250857",
+        "appleMusic": "250857"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso",
+          "title": "Gillionaire",
+          "remix": "",
+          "trackId": "984028"
+        },
+        {
+          "artist": "Matt Caseli & Danny Freakazoid",
+          "title": "Raise Your Hands (Acappella)",
+          "remix": "",
+          "trackId": "984029"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Matt Caseli & Danny Freakazoid",
+      "title": "Raise Your Hands (Acappella)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "984029",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 1298,
+      "mediaIds": {
+        "spotify": "30420",
+        "youtube": "109844",
+        "soundcloud": "30420",
+        "appleMusic": "109844"
+      },
+      "blendGroup": [
+        {
+          "artist": "Matt Caseli & Danny Freakazoid",
+          "title": "Raise Your Hands (Acappella)",
+          "remix": "",
+          "trackId": "984029"
+        },
+        {
+          "artist": "Axwell Λ Ingrosso",
+          "title": "We Come, We Rave, We Love",
+          "remix": "",
+          "trackId": "984030"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Axwell Λ Ingrosso",
+      "title": "We Come, We Rave, We Love",
+      "remix": "",
+      "label": "VIRGIN/FREE",
+      "trackId": "984030",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 1389,
+      "mediaIds": {
+        "spotify": "106086",
+        "youtube": "106086",
+        "soundcloud": "106086",
+        "appleMusic": "106086"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Showtek vs. Alesso vs. Dirty South ft. Ruben Haze",
+      "title": "We Like To Party vs. Clash vs. City Of Dreams (Alesso Mashup)",
+      "remix": "",
+      "label": "REFUNE/PHAZING/SKINK",
+      "trackId": "984031",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1506,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Congorock & Nom De Strip vs. Alesso ft. Matthew Koma",
+      "title": "Minerals vs. Years (Alesso Mashup)",
+      "remix": "",
+      "label": "REFUNE/ULTRA",
+      "trackId": "984032",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1702,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Hard Rock Sofa & Skidka & Amersy vs. Icona Pop & Kryder",
+      "title": "Let Me Hear You Scream All Night (Alesso Mashup)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)/SIZE",
+      "trackId": "984033",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1868,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "MAKJ & M35",
+      "title": "GO (Showtek Edit)",
+      "remix": "",
+      "label": "SKINK",
+      "trackId": "984035",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2077,
+      "mediaIds": {
+        "spotify": "201056",
+        "youtube": "201056",
+        "soundcloud": "201056",
+        "appleMusic": "201056"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Alesso ft. Sirena",
+      "title": "Sweet Escape",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "984036",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2273,
+      "mediaIds": {
+        "spotify": "186093",
+        "youtube": "186093",
+        "soundcloud": "186093",
+        "appleMusic": "186093"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Axwell & Sick Individuals vs. Sebastian Ingrosso & Tommy Trash ft. John Martin",
+      "title": "I Am vs. Reload (Alesso Mashup)",
+      "remix": "",
+      "label": "REFUNE/AXTONE",
+      "trackId": "984037",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2527,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Alesso",
+      "title": "In My Blood (Instrumental Mix)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "984038",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2755,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Alesso ft. Ryan Tedder",
+      "title": "Scars",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "984039",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2950,
+      "mediaIds": {
+        "spotify": "186092",
+        "youtube": "186092",
+        "soundcloud": "186092",
+        "appleMusic": "186092"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Alesso & Dirty South vs. Sebastian Ingrosso ft. Ryan Tedder",
+      "title": "City Of Dreams vs. Calling (Alesso Mashup)",
+      "remix": "",
+      "label": "REFUNE/PHAZING",
+      "trackId": "984040",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3151,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Dimitri Vangelis & Wyman & Steve Angello vs. Disclosure ft. Sam Smith",
+      "title": "Payback vs. Latch (Alesso Mashup)",
+      "remix": "",
+      "label": "COLUMBIA/SIZE/PMR",
+      "trackId": "984104",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3398,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Hook N Sling ft. Karin Park",
+      "title": "Tokyo By Night (Axwell Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "984106",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3706,
+      "mediaIds": {
+        "spotify": "188442",
+        "youtube": "188442",
+        "soundcloud": "188442",
+        "appleMusic": "188442"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Arno Cost & Greg Cerrone vs. Florence & The Machine",
+      "title": "Nightventure vs. Spectrum (Alesso Mashup)",
+      "remix": "",
+      "label": "ISLAND (UMG)/SIZE/SERIAL",
+      "trackId": "984107",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3922,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Showtek ft. We Are Loud & Sonny Wilson",
+      "title": "Booyah",
+      "remix": "",
+      "label": "SPINNIN'/2DUTCH",
+      "trackId": "984129",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 4147,
+      "mediaIds": {
+        "spotify": "142182",
+        "youtube": "142182",
+        "soundcloud": "142182",
+        "appleMusic": "142182"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Alesso vs. OneRepublic",
+      "title": "If I Lose Myself (Alesso Festival Edit)",
+      "remix": "",
+      "label": "MOSLEY/INTERSCOPE",
+      "trackId": "984130",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 4378,
+      "mediaIds": {
+        "youtube": "222875"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Discopolis & Dubvision vs. Coldplay",
+      "title": "Committed To Sparkle Motion vs. A Sky Full Of Stars (Alesso Mashup)",
+      "remix": "",
+      "label": "ASTRALWERKS/PARLOPHONE (WARNER MUSIC)/AXTONE",
+      "trackId": "984132",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 4664,
+      "mediaIds": {
+        "youtube": "206282"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Calvin Harris & Alesso ft. Hurts",
+      "title": "Under Control",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "984133",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 4863,
+      "mediaIds": {
+        "spotify": "146189",
+        "youtube": "146189",
+        "soundcloud": "146189",
+        "appleMusic": "146189"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "199211",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=Kzmj5JgS8RU"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "203993",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=h8TiHBLNdEo"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "196523",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/thebesthouse"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "536814",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/WWMainstage"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "196748",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "196766",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:47:07.459Z",
+  "scrapeVersion": 2
+}

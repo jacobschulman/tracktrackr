@@ -1,0 +1,712 @@
+{
+  "tlId": "1pmxf96t",
+  "dj": "Odd Mob & OMNOM",
+  "stage": "EDC Las Vegas",
+  "date": "2025-05-18",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/1pmxf96t/odd-mob-omnom-stereobloom-edc-las-vegas-united-states-2025-05-18.html",
+  "djs": [
+    {
+      "name": "Odd Mob",
+      "slug": "oddmob"
+    },
+    {
+      "name": "OMNOM",
+      "slug": "omnom"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "AYYBO & Ragie Ban",
+      "title": "I Don't Want To",
+      "remix": "",
+      "label": "DISORDER",
+      "trackId": "12168583",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1084205",
+        "youtube": "1084205",
+        "soundcloud": "1084205",
+        "appleMusic": "1084205"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Odd Mob",
+      "title": "Give You",
+      "remix": "",
+      "label": "TINTED",
+      "trackId": "12168584",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 215,
+      "mediaIds": {
+        "spotify": "867822",
+        "youtube": "867822",
+        "soundcloud": "867822",
+        "appleMusic": "867822"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Chris Lake & Abel Balder",
+      "title": "Ease My Mind (Odd Mob Remix)",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "12168585",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 348,
+      "mediaIds": {
+        "spotify": "1081605",
+        "youtube": "1081605",
+        "soundcloud": "1081605",
+        "appleMusic": "1081605"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chris Lake & Abel Balder",
+          "title": "Ease My Mind (Odd Mob Remix)",
+          "remix": "",
+          "trackId": "12168585"
+        },
+        {
+          "artist": "GEN.KLOUD",
+          "title": "Virus",
+          "remix": "",
+          "trackId": "12334967"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GEN.KLOUD",
+      "title": "Virus",
+      "remix": "",
+      "label": "LOWLY (TRAP NATION)",
+      "trackId": "12334967",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 480,
+      "mediaIds": {
+        "spotify": "640619",
+        "youtube": "640619",
+        "soundcloud": "640619",
+        "appleMusic": "640619"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Kat Deluna ft. Elephant Man",
+      "title": "Whine Up (Odd Mob Remix)",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "12168586",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "1140310"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Odd Mob",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12168587",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Michael Bibi & KinAhau ft. Audio Bullys",
+      "title": "Different Side",
+      "remix": "",
+      "label": "SOLID GROOVES",
+      "trackId": "12168588",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "871819",
+        "youtube": "871819",
+        "soundcloud": "871819",
+        "appleMusic": "871819"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Ruff Driverz",
+      "title": "Don't Stop",
+      "remix": "",
+      "label": "ALTRA MODA",
+      "trackId": "12168589",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "552246",
+        "youtube": "552246",
+        "soundcloud": "552246",
+        "appleMusic": "552246"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ruff Driverz",
+          "title": "Don't Stop",
+          "remix": "",
+          "trackId": "12168589"
+        },
+        {
+          "artist": "Cajmere",
+          "title": "Percolator (Acappella)",
+          "remix": "",
+          "trackId": "12168590"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cajmere",
+      "title": "Percolator (Acappella)",
+      "remix": "",
+      "label": "CAJUAL",
+      "trackId": "12168590",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2512",
+        "youtube": "2512",
+        "soundcloud": "2512",
+        "appleMusic": "2512"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cajmere",
+          "title": "Percolator (Acappella)",
+          "remix": "",
+          "trackId": "12168590"
+        },
+        {
+          "artist": "Body Ocean",
+          "title": "Nutrition",
+          "remix": "",
+          "trackId": "12168591"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Body Ocean",
+      "title": "Nutrition",
+      "remix": "",
+      "label": "BOX OF CATS",
+      "trackId": "12168591",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "685156",
+        "youtube": "685156",
+        "soundcloud": "685156",
+        "appleMusic": "685156"
+      },
+      "blendGroup": [
+        {
+          "artist": "Body Ocean",
+          "title": "Nutrition",
+          "remix": "",
+          "trackId": "12168591"
+        },
+        {
+          "artist": "Blawan",
+          "title": "Why They Hide Their Bodies Under My Garage? (Odd Mob Remix)",
+          "remix": "",
+          "trackId": "12319176"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Blawan",
+      "title": "Why They Hide Their Bodies Under My Garage? (Odd Mob Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12319176",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 1148,
+      "mediaIds": {
+        "youtube": "1097264",
+        "soundcloud": "1097264"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Odd Mob",
+      "title": "XTC",
+      "remix": "",
+      "label": "TINTED",
+      "trackId": "12168592",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1325,
+      "mediaIds": {
+        "spotify": "885968",
+        "youtube": "885968",
+        "soundcloud": "885968",
+        "appleMusic": "885968"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "BRANDON & Slim Tony",
+      "title": "No Second Guessing",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "12168593",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1520,
+      "mediaIds": {
+        "spotify": "1091792",
+        "youtube": "1091792",
+        "soundcloud": "1091792",
+        "appleMusic": "1091792"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12168594",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1640,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12168595",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1750,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12168654",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1880,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Chris Lake & Green Velvet",
+      "title": "Deceiver (Odd Mob Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12168655",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2123,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Andruss",
+      "title": "Frikitona (Odd Mob Remix)",
+      "remix": "",
+      "label": "HELIX (PAYDAY)",
+      "trackId": "12176473",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2270,
+      "mediaIds": {
+        "spotify": "985204",
+        "youtube": "985204",
+        "soundcloud": "985204",
+        "appleMusic": "985204"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "SOFI TUKKER",
+      "title": "Bread (Odd Mob Remix)",
+      "remix": "",
+      "label": "SOFI TUKKER",
+      "trackId": "12168656",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2373,
+      "mediaIds": {
+        "spotify": "1046159",
+        "youtube": "1046159",
+        "soundcloud": "1046159",
+        "appleMusic": "1046159"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Run DMC vs. Jason Nevins",
+      "title": "It's Like That (Odd Mob Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12168694",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2550,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Odd Mob & OMNOM",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12168695",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2698,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Odd Mob & OMNOM pres. HYPERBEAM",
+      "title": "All Day, All Night",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "12168696",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2905,
+      "mediaIds": {
+        "spotify": "915488",
+        "youtube": "915488",
+        "soundcloud": "915488",
+        "appleMusic": "915488"
+      },
+      "blendGroup": [
+        {
+          "artist": "Odd Mob & OMNOM pres. HYPERBEAM",
+          "title": "All Day, All Night",
+          "remix": "",
+          "trackId": "12168696"
+        },
+        {
+          "artist": "Curbi ft. Scrufizzer",
+          "title": "Move Over",
+          "remix": "",
+          "trackId": "12334968"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Curbi ft. Scrufizzer",
+      "title": "Move Over",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "12334968",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 2930,
+      "mediaIds": {
+        "spotify": "1080947",
+        "youtube": "1080947",
+        "soundcloud": "1080947",
+        "appleMusic": "1080947"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Enzo Is Burning",
+      "title": "Body Talk",
+      "remix": "",
+      "label": "THREE SIX ZERO",
+      "trackId": "12168710",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1084075",
+        "youtube": "1084075",
+        "soundcloud": "1084075",
+        "appleMusic": "1084075"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Melé",
+      "title": "The Beyonce Track",
+      "remix": "",
+      "label": "CLUB BAD",
+      "trackId": "12168711",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "442157",
+        "soundcloud": "442157"
+      },
+      "blendGroup": [
+        {
+          "artist": "Melé",
+          "title": "The Beyonce Track",
+          "remix": "",
+          "trackId": "12168711"
+        },
+        {
+          "artist": "Drake",
+          "title": "NOKIA",
+          "remix": "",
+          "trackId": "12168712"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Drake",
+      "title": "NOKIA",
+      "remix": "",
+      "label": "OVO",
+      "trackId": "12168712",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1074597",
+        "youtube": "1074597",
+        "soundcloud": "1074597",
+        "appleMusic": "1074597"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Marco Faraone & William Kiss",
+      "title": "Freaks",
+      "remix": "",
+      "label": "UNCAGE",
+      "trackId": "12168713",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1082537",
+        "youtube": "1082537",
+        "soundcloud": "1082537",
+        "appleMusic": "1082537"
+      },
+      "blendGroup": [
+        {
+          "artist": "Marco Faraone & William Kiss",
+          "title": "Freaks",
+          "remix": "",
+          "trackId": "12168713"
+        },
+        {
+          "artist": "Odd Mob",
+          "title": "LEFT TO RIGHT",
+          "remix": "",
+          "trackId": "12168714"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Odd Mob",
+      "title": "LEFT TO RIGHT",
+      "remix": "",
+      "label": "TINTED/INSOMNIAC",
+      "trackId": "12168714",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "744220",
+        "youtube": "744220",
+        "soundcloud": "744220",
+        "appleMusic": "744220"
+      },
+      "blendGroup": [
+        {
+          "artist": "Odd Mob",
+          "title": "LEFT TO RIGHT",
+          "remix": "",
+          "trackId": "12168714"
+        },
+        {
+          "artist": "UMEK & Polyvinyl",
+          "title": "Ragaga",
+          "remix": "",
+          "trackId": "12168715"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "UMEK & Polyvinyl",
+      "title": "Ragaga",
+      "remix": "",
+      "label": "1605 GROOVESECTOR",
+      "trackId": "12168715",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1093300",
+        "youtube": "1093300",
+        "soundcloud": "1093300"
+      },
+      "blendGroup": [
+        {
+          "artist": "UMEK & Polyvinyl",
+          "title": "Ragaga",
+          "remix": "",
+          "trackId": "12168715"
+        },
+        {
+          "artist": "MK & Dom Dolla",
+          "title": "Rhyme Dust",
+          "remix": "",
+          "trackId": "12168716"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MK & Dom Dolla",
+      "title": "Rhyme Dust",
+      "remix": "",
+      "label": "COLUMBIA/ULTRA",
+      "trackId": "12168716",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "867915",
+        "youtube": "867915",
+        "soundcloud": "867915",
+        "appleMusic": "867915"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Justin Timberlake ft. Timbaland",
+      "title": "SexyBack",
+      "remix": "",
+      "label": "MOSLEY (INTERSCOPE)",
+      "trackId": "12168717",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1013",
+        "youtube": "1013",
+        "soundcloud": "1013",
+        "appleMusic": "1013"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Sean Paul & Odd Mob",
+      "title": "Get Busy (Odd Mob Club Mix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "12168718",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "894628",
+        "youtube": "894628",
+        "soundcloud": "894628",
+        "appleMusic": "894628"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sean Paul & Odd Mob",
+          "title": "Get Busy (Odd Mob Club Mix)",
+          "remix": "",
+          "trackId": "12168718"
+        },
+        {
+          "artist": "Lady GaGa",
+          "title": "Poker Face (ELAC Edit)",
+          "remix": "",
+          "trackId": "12168719"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lady GaGa",
+      "title": "Poker Face (ELAC Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12168719",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "1093019"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4782387",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=8AifhV0uEL8"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "4791107",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=bMvqHmGctgw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T02:47:25.163Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,371 @@
+{
+  "tlId": "dgrjd7k",
+  "dj": "testpilot",
+  "stage": "EDC Las Vegas",
+  "date": "2022-05-21",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/dgrjd7k/testpilot-deadmau5-cosmicmeadow-edc-las-vegas-united-states-2022-05-21.html",
+  "djs": [
+    {
+      "name": "testpilot",
+      "slug": "testpilot"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Planetary Assault Systems",
+      "title": "Rip The Cut (Dubfire Remix)",
+      "remix": "",
+      "label": "OSTGUT",
+      "trackId": "7709953",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "791548",
+        "youtube": "791548",
+        "appleMusic": "791548"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Pfirter",
+      "title": "Tu Mirada",
+      "remix": "",
+      "label": "MINDTRIP",
+      "trackId": "7709954",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 315,
+      "mediaIds": {
+        "spotify": "794308",
+        "youtube": "794308",
+        "soundcloud": "794308",
+        "appleMusic": "794308"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Ignez",
+      "title": "Nadi",
+      "remix": "",
+      "label": "TOKEN",
+      "trackId": "7709955",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 514,
+      "mediaIds": {
+        "spotify": "809225",
+        "youtube": "809225",
+        "soundcloud": "809225",
+        "appleMusic": "809225"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Ackermann ft. Raphael Dincsoy",
+      "title": "Jack Dat",
+      "remix": "",
+      "label": "UNCAGE",
+      "trackId": "7709956",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 635,
+      "mediaIds": {
+        "spotify": "711967",
+        "youtube": "711967",
+        "appleMusic": "711967"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "deadmau5",
+      "title": "Sometimes Things Get, Whatever",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "7710698",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 850,
+      "mediaIds": {
+        "spotify": "1767",
+        "youtube": "1767",
+        "soundcloud": "1767",
+        "appleMusic": "1767"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5",
+          "title": "Sometimes Things Get, Whatever",
+          "remix": "",
+          "trackId": "7710698"
+        },
+        {
+          "artist": "TWR72",
+          "title": "Mouth",
+          "remix": "",
+          "trackId": "7709957"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TWR72",
+      "title": "Mouth",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7709957",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 910,
+      "mediaIds": {
+        "spotify": "605965",
+        "youtube": "605965",
+        "soundcloud": "605965",
+        "appleMusic": "605965"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Hertz Collision & Gene Richards Jr",
+      "title": "Must Do It (Truncate Remix)",
+      "remix": "",
+      "label": "CLR",
+      "trackId": "7709958",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1244,
+      "mediaIds": {
+        "spotify": "745636",
+        "youtube": "745636",
+        "soundcloud": "745636",
+        "appleMusic": "745636"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Blenk",
+      "title": "Forward",
+      "remix": "",
+      "label": "ENEMY",
+      "trackId": "7709959",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1429,
+      "mediaIds": {
+        "spotify": "547565",
+        "youtube": "547565",
+        "appleMusic": "547565"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Pfirter",
+      "title": "Mostly 134",
+      "remix": "",
+      "label": "PARALELO",
+      "trackId": "7709960",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1735,
+      "mediaIds": {
+        "spotify": "623381",
+        "youtube": "623381",
+        "soundcloud": "623381",
+        "appleMusic": "623381"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Pfirter",
+      "title": "Birth",
+      "remix": "",
+      "label": "ODD EVEN",
+      "trackId": "7709961",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1906,
+      "mediaIds": {
+        "spotify": "884617",
+        "appleMusic": "884617"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "FJAAK",
+      "title": "PAL",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7710699",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2123,
+      "mediaIds": {
+        "spotify": "607368",
+        "youtube": "607368",
+        "soundcloud": "607368",
+        "appleMusic": "607368"
+      },
+      "blendGroup": [
+        {
+          "artist": "FJAAK",
+          "title": "PAL",
+          "remix": "",
+          "trackId": "7710699"
+        },
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff (Acappella)",
+          "remix": "",
+          "trackId": "7711455"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Ghosts 'n' Stuff (Acappella)",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "7711455",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 2180,
+      "mediaIds": {
+        "spotify": "1761",
+        "youtube": "21176",
+        "soundcloud": "1761",
+        "appleMusic": "1761"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Layton Giordani",
+      "title": "Astro",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "7709994",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2317,
+      "mediaIds": {
+        "spotify": "685541",
+        "youtube": "685541",
+        "soundcloud": "685541",
+        "appleMusic": "685541"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "NoNameLeft",
+      "title": "Dyson Sphere",
+      "remix": "",
+      "label": "SUBVISION",
+      "trackId": "7709963",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2360,
+      "mediaIds": {
+        "spotify": "694975",
+        "youtube": "694975",
+        "appleMusic": "694975"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Amotik",
+      "title": "Ikyavan",
+      "remix": "",
+      "label": "AMOTIK",
+      "trackId": "7709964",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2620,
+      "mediaIds": {
+        "spotify": "624288",
+        "youtube": "624288",
+        "soundcloud": "624288",
+        "appleMusic": "624288"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Rrose",
+      "title": "Waterfall",
+      "remix": "",
+      "label": "EAUX",
+      "trackId": "7709995",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2980,
+      "mediaIds": {
+        "spotify": "60124",
+        "soundcloud": "60124",
+        "appleMusic": "60124"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rrose",
+          "title": "Waterfall",
+          "remix": "",
+          "trackId": "7709995"
+        },
+        {
+          "artist": "deadmau5 ft. Greta Svabo Bech",
+          "title": "Raise Your Weapon (Acappella)",
+          "remix": "",
+          "trackId": "7709996"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Greta Svabo Bech",
+      "title": "Raise Your Weapon (Acappella)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "7709996",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 3180,
+      "mediaIds": {
+        "spotify": "41618",
+        "youtube": "21178",
+        "soundcloud": "21178",
+        "appleMusic": "21178"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2814396",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=rThZLGJp_YA"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "2814536",
+      "idSource": "40",
+      "url": "https://hearthis.at/6770213/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:02:40.227Z",
+  "scrapeVersion": 2
+}

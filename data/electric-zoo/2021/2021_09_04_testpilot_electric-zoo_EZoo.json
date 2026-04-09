@@ -1,0 +1,488 @@
+{
+  "tlId": "1uzcs2z9",
+  "dj": "testpilot",
+  "stage": "Electric Zoo",
+  "date": "2021-09-04",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/1uzcs2z9/testpilot-deadmau5-hilltop-arena-electric-zoo-supernaturals-united-states-2021-09-04.html",
+  "djs": [
+    {
+      "name": "testpilot",
+      "slug": "testpilot"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "deadmau5",
+      "title": "FALL",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "6687630",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "483652",
+        "youtube": "483652",
+        "soundcloud": "483652",
+        "appleMusic": "483652"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Wehbba",
+      "title": "Mind Awake",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "6687631",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": {
+        "spotify": "411000",
+        "youtube": "411000",
+        "soundcloud": "411000",
+        "appleMusic": "411000"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wehbba",
+          "title": "Mind Awake",
+          "remix": "",
+          "trackId": "6687631"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Sometimes Things Get, Whatever (Acappella)",
+          "remix": "",
+          "trackId": "6687632"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Sometimes Things Get, Whatever (Acappella)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "6687632",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1767",
+        "youtube": "1767",
+        "soundcloud": "20017",
+        "appleMusic": "1767"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Blenk",
+      "title": "Forward",
+      "remix": "",
+      "label": "ENEMY",
+      "trackId": "6687633",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 500,
+      "mediaIds": {
+        "spotify": "547565",
+        "youtube": "547565",
+        "appleMusic": "547565"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Brothers Black",
+      "title": "Modern Values",
+      "remix": "",
+      "label": "ELEKTRAX",
+      "trackId": "6687634",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 780,
+      "mediaIds": {
+        "spotify": "645587",
+        "youtube": "645587",
+        "appleMusic": "645587"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Michel Lauriola & Fixeer",
+      "title": "Integration of Parts (Insolate Remix)",
+      "remix": "",
+      "label": "GYNOID",
+      "trackId": "6687635",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1080,
+      "mediaIds": {
+        "spotify": "720629",
+        "youtube": "720629",
+        "appleMusic": "720629"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Ackermann ft. Raphael Dincsoy",
+      "title": "Jack Dat",
+      "remix": "",
+      "label": "UNCAGE",
+      "trackId": "6687637",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1500,
+      "mediaIds": {
+        "spotify": "711967",
+        "youtube": "711967",
+        "appleMusic": "711967"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ackermann ft. Raphael Dincsoy",
+          "title": "Jack Dat",
+          "remix": "",
+          "trackId": "6687637"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Acappella)",
+          "remix": "",
+          "trackId": "6687638"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "6687638",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8354",
+        "youtube": "8354",
+        "soundcloud": "8354",
+        "appleMusic": "8354"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Dubfire & Flug",
+      "title": "Metanoia",
+      "remix": "",
+      "label": "DCLTD",
+      "trackId": "6687639",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": {
+        "spotify": "683545",
+        "youtube": "683545",
+        "appleMusic": "683545"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Enrico Sangiuliano",
+      "title": "Restlessness",
+      "remix": "",
+      "label": "ALLEANZA",
+      "trackId": "6687640",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 2130,
+      "mediaIds": {
+        "spotify": "241479",
+        "youtube": "241479",
+        "soundcloud": "241479"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "2pole ft. Ursula Rucker",
+      "title": "Alone",
+      "remix": "",
+      "label": "SUARA",
+      "trackId": "6687641",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 2340,
+      "mediaIds": {
+        "spotify": "420105",
+        "youtube": "420105",
+        "soundcloud": "420105",
+        "appleMusic": "420105"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Yan Cook",
+      "title": "Pauk",
+      "remix": "",
+      "label": "PLANET RHYTHM",
+      "trackId": "6687642",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2580,
+      "mediaIds": {
+        "spotify": "346231",
+        "youtube": "346231",
+        "soundcloud": "346231",
+        "appleMusic": "346231"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Amotik",
+      "title": "Ikyavan",
+      "remix": "",
+      "label": "AMOTIK",
+      "trackId": "6687643",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2880,
+      "mediaIds": {
+        "spotify": "624288",
+        "youtube": "624288",
+        "soundcloud": "624288",
+        "appleMusic": "624288"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Layton Giordani",
+      "title": "Astro",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "6687644",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 3240,
+      "mediaIds": {
+        "spotify": "685541",
+        "youtube": "685541",
+        "soundcloud": "685541",
+        "appleMusic": "685541"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "NoNameLeft",
+      "title": "Dyson Sphere",
+      "remix": "",
+      "label": "SUBVISION",
+      "trackId": "6695275",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 3779,
+      "mediaIds": {
+        "spotify": "694975",
+        "youtube": "694975",
+        "appleMusic": "694975"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Enrico Sangiuliano",
+      "title": "Blooming Era",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "6695276",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 4100,
+      "mediaIds": {
+        "spotify": "371654",
+        "youtube": "371654",
+        "soundcloud": "371654",
+        "appleMusic": "371654"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Noir & Olivier Giacomotto",
+      "title": "Reste (Raxon Remix)",
+      "remix": "",
+      "label": "NOIR",
+      "trackId": "6695277",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 4503,
+      "mediaIds": {
+        "spotify": "312901",
+        "youtube": "312901",
+        "soundcloud": "312901",
+        "appleMusic": "312901"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Layton Giordani",
+      "title": "Chrome",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "6695278",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 4873,
+      "mediaIds": {
+        "spotify": "489746",
+        "youtube": "489746",
+        "soundcloud": "489746",
+        "appleMusic": "489746"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Pan-Pot",
+      "title": "Radio Berlin",
+      "remix": "",
+      "label": "SECOND STATE",
+      "trackId": "6689783",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 5295,
+      "mediaIds": {
+        "spotify": "490788",
+        "youtube": "490788",
+        "soundcloud": "490788",
+        "appleMusic": "490788"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Egbert",
+      "title": "Dub Dub",
+      "remix": "",
+      "label": "KNEADED PAINS",
+      "trackId": "6689782",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 5720,
+      "mediaIds": {
+        "spotify": "527854",
+        "youtube": "527854",
+        "soundcloud": "527854",
+        "appleMusic": "527854"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Enrico Sangiuliano",
+      "title": "Symbiosis",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "6689784",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 5909,
+      "mediaIds": {
+        "spotify": "416798",
+        "youtube": "416798",
+        "soundcloud": "416798",
+        "appleMusic": "416798"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "deadmau5 & Kaskade ft. Haley Gibby",
+      "title": "I Remember (Acappella)",
+      "remix": "",
+      "label": "MAU5TRAP/ULTRA",
+      "trackId": "6689785",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 6234,
+      "mediaIds": {
+        "spotify": "1519",
+        "youtube": "73205",
+        "soundcloud": "1519",
+        "appleMusic": "1519"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Phil Kieran & Jochem Paap",
+      "title": "Paint And Chemicals Dept",
+      "remix": "",
+      "label": "ELECTRIC DELUXE",
+      "trackId": "6695279",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 6720,
+      "mediaIds": {
+        "spotify": "212191",
+        "youtube": "212191"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Schneider TM & KPT.Michi.Gan",
+      "title": "The Light 3000",
+      "remix": "",
+      "label": "CITY SLANG",
+      "trackId": "6689786",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 6850,
+      "mediaIds": {
+        "spotify": "12184",
+        "youtube": "12184",
+        "appleMusic": "12184"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2439824",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=eHnDThoZBlc"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "2439175",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/Hi_Friend_"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "2460234",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:03:13.111Z",
+  "scrapeVersion": 2
+}

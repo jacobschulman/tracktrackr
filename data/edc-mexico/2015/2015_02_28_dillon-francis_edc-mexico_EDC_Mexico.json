@@ -1,0 +1,570 @@
+{
+  "tlId": "8ggu381",
+  "dj": "Dillon Francis",
+  "stage": "EDC Mexico",
+  "date": "2015-02-28",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/8ggu381/dillon-francis-kineticfield-edc-mexico-2015-02-28.html",
+  "djs": [
+    {
+      "name": "Dillon Francis",
+      "slug": "dillonfrancis"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Jose Jose",
+      "title": "La Nave Del Olvido",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "1906063",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "251234",
+        "youtube": "251234",
+        "appleMusic": "251234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "deadmau5",
+      "title": "Some Chords (Fak3$lap Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "1396094",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": {
+        "soundcloud": "262446"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "deadmau5",
+      "title": "Some Chords (Dillon Francis Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "1461480",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "217147",
+        "youtube": "217147",
+        "soundcloud": "217147",
+        "appleMusic": "217147"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5",
+          "title": "Some Chords (Dillon Francis Remix)",
+          "remix": "",
+          "trackId": "1461480"
+        },
+        {
+          "artist": "Mat Zo & Porter Robinson",
+          "title": "Easy (Acappella)",
+          "remix": "",
+          "trackId": "1396095"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mat Zo & Porter Robinson",
+      "title": "Easy (Acappella)",
+      "remix": "",
+      "label": "MINISTRY OF SOUND/ANJUNABEATS",
+      "trackId": "1396095",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "103785",
+        "youtube": "103785",
+        "soundcloud": "103785",
+        "appleMusic": "103785"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Wiwek ft. MC Spyder",
+      "title": "Play That Tune",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "1396096",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "212721",
+        "youtube": "212721",
+        "soundcloud": "212721",
+        "appleMusic": "212721"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Dillon Francis ft. Major Lazer & Stylo G",
+      "title": "We Make It Bounce",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "1396097",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "179087",
+        "youtube": "179087",
+        "soundcloud": "179087",
+        "appleMusic": "179087"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dillon Francis ft. Major Lazer & Stylo G",
+          "title": "We Make It Bounce",
+          "remix": "",
+          "trackId": "1396097"
+        },
+        {
+          "artist": "Reel 2 Real ft. The Mad Stuntman",
+          "title": "I Like To Move It (Mastiksoul Remix)",
+          "remix": "",
+          "trackId": "1396098"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Reel 2 Real ft. The Mad Stuntman",
+      "title": "I Like To Move It (Mastiksoul Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1396098",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "121779",
+        "youtube": "121779",
+        "soundcloud": "121779"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Dillon Francis ft. Lily Elise",
+      "title": "Hurricane",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "1396099",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "214761",
+        "youtube": "214761",
+        "soundcloud": "214761",
+        "appleMusic": "214761"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dillon Francis ft. Lily Elise",
+          "title": "Hurricane",
+          "remix": "",
+          "trackId": "1396099"
+        },
+        {
+          "artist": "Martin Garrix",
+          "title": "Animals (Botnek Edit)",
+          "remix": "",
+          "trackId": "1396100"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Garrix",
+      "title": "Animals (Botnek Edit)",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "1396100",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "156208",
+        "youtube": "156208",
+        "soundcloud": "156208",
+        "appleMusic": "156208"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Porter Robinson",
+      "title": "100% In The Bitch",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "1461481",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "47985",
+        "youtube": "47985",
+        "soundcloud": "47985",
+        "appleMusic": "47985"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "GTA",
+      "title": "The Crowd",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "1461482",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "117710",
+        "youtube": "117710",
+        "soundcloud": "117710",
+        "appleMusic": "117710"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1461483",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1020,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Nari & Milani",
+      "title": "Triangle (Delayers Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1461484",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "230604",
+        "soundcloud": "230604"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Dillon Francis & Sultan + Shepard ft. The Chain Gang Of 1974",
+      "title": "When We Were Young (Vicetone Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "1461485",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "225721",
+        "youtube": "225721",
+        "soundcloud": "225721",
+        "appleMusic": "225721"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dillon Francis & Sultan + Shepard ft. The Chain Gang Of 1974",
+          "title": "When We Were Young (Vicetone Remix)",
+          "remix": "",
+          "trackId": "1461485"
+        },
+        {
+          "artist": "Dillon Francis & Sultan + Shepard ft. The Chain Gang Of 1974",
+          "title": "When We Were Young (Zomboy Remix)",
+          "remix": "",
+          "trackId": "1461486"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dillon Francis & Sultan + Shepard ft. The Chain Gang Of 1974",
+      "title": "When We Were Young (Zomboy Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "1461486",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "223166",
+        "youtube": "223166",
+        "soundcloud": "223166",
+        "appleMusic": "223166"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Dillon Francis",
+      "title": "Masta Blasta (The Rebirth)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1461487",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "83983",
+        "youtube": "83983",
+        "soundcloud": "83983",
+        "appleMusic": "83983"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "TroyBoi & Flosstradamus",
+      "title": "Soundclash",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "1461488",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "226289",
+        "youtube": "226289",
+        "soundcloud": "226289",
+        "appleMusic": "226289"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Dillon Francis & What So Not ft. Dawn Golden",
+      "title": "Arrows (Instrumental Mix)",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "1461489",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "292928"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "W&W",
+      "title": "Bigfoot (Dillon Francis Remix)",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "1461490",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "196960",
+        "youtube": "196960",
+        "soundcloud": "196960",
+        "appleMusic": "196960"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger (Dillon Francis Remix)",
+      "remix": "",
+      "label": "DAFT LIFE",
+      "trackId": "1461491",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "188234",
+        "soundcloud": "188234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Dillon Francis ft. Twista & The Rejectz",
+      "title": "All That",
+      "remix": "",
+      "label": "COLUMBIA/MAD DECENT",
+      "trackId": "1461492",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "218085",
+        "youtube": "218085",
+        "soundcloud": "218085",
+        "appleMusic": "218085"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Dillon Francis & Kill The Noise",
+      "title": "Dill The Noise",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "1556385",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "66459",
+        "youtube": "66459",
+        "soundcloud": "66459",
+        "appleMusic": "66459"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Dillon Francis & Diplo ft. Maluca",
+      "title": "Que Que",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1556652",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "33911",
+        "youtube": "33911",
+        "appleMusic": "33911"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dillon Francis & Diplo ft. Maluca",
+          "title": "Que Que",
+          "remix": "",
+          "trackId": "1556652"
+        },
+        {
+          "artist": "Woogie ft. Viper",
+          "title": "Fat Albert",
+          "remix": "",
+          "trackId": "1556653"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Woogie ft. Viper",
+      "title": "Fat Albert",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1556653",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "214764"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Ape Drums",
+      "title": "Bashment (Bun Dem)",
+      "remix": "",
+      "label": "SLOW ROAST",
+      "trackId": "1556654",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "177119",
+        "youtube": "177119",
+        "soundcloud": "177119",
+        "appleMusic": "177119"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Dillon Francis",
+      "title": "Not Butter",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "1556655",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "147723",
+        "youtube": "147723",
+        "soundcloud": "147723",
+        "appleMusic": "147723"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Alvaro & Lil Jon",
+      "title": "Fuckin' Ghetto (Dirty Version)",
+      "remix": "",
+      "label": "DIRTY DUTCH",
+      "trackId": "1556656",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69018",
+        "youtube": "69018",
+        "soundcloud": "69018",
+        "appleMusic": "69018"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Elliphant ft. Skrillex",
+      "title": "Only Getting Younger (Skrillex & Dillon Francis Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1556657",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "200175"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "291053",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=Fb_Yg_cCRAg"
+    }
+  ],
+  "scrapedAt": "2026-04-08T19:05:15.844Z",
+  "scrapeVersion": 2
+}

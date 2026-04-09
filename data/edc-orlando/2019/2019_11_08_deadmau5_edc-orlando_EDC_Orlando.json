@@ -1,0 +1,481 @@
+{
+  "tlId": "tcbbxj1",
+  "dj": "deadmau5",
+  "stage": "EDC Orlando",
+  "date": "2019-11-08",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/tcbbxj1/deadmau5-kineticfield-edc-orlando-united-states-2019-11-08.html",
+  "djs": [
+    {
+      "name": "deadmau5",
+      "slug": "deadmau5"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "deadmau5",
+      "title": "Polyphobia",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "5039037",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "471243",
+        "youtube": "471243",
+        "soundcloud": "471243",
+        "appleMusic": "471243"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Monophobia",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "4485373",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "428863",
+        "youtube": "428863",
+        "soundcloud": "428863",
+        "appleMusic": "428863"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Nic Fanciulli",
+      "title": "Understand",
+      "remix": "",
+      "label": "REKIDS",
+      "trackId": "9924660",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 115,
+      "mediaIds": {
+        "spotify": "473314",
+        "youtube": "473314",
+        "soundcloud": "473314",
+        "appleMusic": "473314"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Pierre Blanche",
+      "title": "Ares",
+      "remix": "",
+      "label": "DAVOTAB",
+      "trackId": "5039038",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "471253",
+        "youtube": "471253",
+        "soundcloud": "471253",
+        "appleMusic": "471253"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pierre Blanche",
+          "title": "Ares",
+          "remix": "",
+          "trackId": "5039038"
+        },
+        {
+          "artist": "deadmau5 ft. Chris James",
+          "title": "The Veldt (Acappella)",
+          "remix": "",
+          "trackId": "5039039"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Chris James",
+      "title": "The Veldt (Acappella)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "5039039",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "72056",
+        "youtube": "72056",
+        "soundcloud": "72056",
+        "appleMusic": "72056"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Booka Shade",
+      "title": "Trespass 2019 (Booka Shade Remix)",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "5039040",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "472591",
+        "youtube": "472591",
+        "appleMusic": "472591"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Wehbba",
+      "title": "Mind Awake",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "5039041",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 810,
+      "mediaIds": {
+        "spotify": "411000",
+        "youtube": "411000",
+        "soundcloud": "411000",
+        "appleMusic": "411000"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "ARTBAT",
+      "title": "Planeta (testpilot Edit)",
+      "remix": "",
+      "label": "DIYNAMIC",
+      "trackId": "5039042",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ARTBAT",
+          "title": "Planeta (testpilot Edit)",
+          "remix": "",
+          "trackId": "5039042"
+        },
+        {
+          "artist": "ARTBAT",
+          "title": "Planeta",
+          "remix": "",
+          "trackId": "9924661"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ARTBAT",
+      "title": "Planeta",
+      "remix": "",
+      "label": "DIYNAMIC",
+      "trackId": "9924661",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 1127,
+      "mediaIds": {
+        "spotify": "397748",
+        "youtube": "397748",
+        "soundcloud": "397748",
+        "appleMusic": "397748"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "deadmau5",
+      "title": "Imaginary Friends",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "5039043",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "284345",
+        "youtube": "284345",
+        "soundcloud": "284345",
+        "appleMusic": "284345"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "deadmau5",
+      "title": "Avaritia",
+      "remix": "",
+      "label": "MAU5TRAP/VIRGIN",
+      "trackId": "5039044",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "157882",
+        "youtube": "157882",
+        "soundcloud": "157882",
+        "appleMusic": "157882"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "deadmau5",
+      "title": "My Pet Coelacanth",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "5039045",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2026,
+      "mediaIds": {
+        "spotify": "150663",
+        "youtube": "150663",
+        "soundcloud": "150663",
+        "appleMusic": "150663"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "deadmau5",
+      "title": "Moar Ghosts 'n' Stuff",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "4485370",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2340,
+      "mediaIds": {
+        "spotify": "6422",
+        "youtube": "6422",
+        "soundcloud": "6422",
+        "appleMusic": "6422"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5",
+          "title": "Moar Ghosts 'n' Stuff",
+          "remix": "",
+          "trackId": "4485370"
+        },
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff",
+          "remix": "",
+          "trackId": "4485371"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Ghosts 'n' Stuff",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "4485371",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1761",
+        "youtube": "1761",
+        "soundcloud": "1761",
+        "appleMusic": "1761"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "deadmau5 & Wolfgang Gartner",
+      "title": "Channel 42",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "4485372",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "78533",
+        "youtube": "78533",
+        "soundcloud": "78533",
+        "appleMusic": "78533"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Monophobia",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "5039046",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2940,
+      "mediaIds": {
+        "spotify": "428863",
+        "youtube": "428863",
+        "soundcloud": "428863",
+        "appleMusic": "428863"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "deadmau5 ft. Greta Svabo Bech",
+      "title": "Raise Your Weapon",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "5039047",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "21178",
+        "youtube": "21178",
+        "soundcloud": "21178",
+        "appleMusic": "21178"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5 ft. Greta Svabo Bech",
+          "title": "Raise Your Weapon",
+          "remix": "",
+          "trackId": "5039047"
+        },
+        {
+          "artist": "deadmau5 ft. Greta Svabo Bech",
+          "title": "Raise Your Weapon (Noisia Remix)",
+          "remix": "",
+          "trackId": "5039048"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Greta Svabo Bech",
+      "title": "Raise Your Weapon (Noisia Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "5039048",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "38999",
+        "youtube": "38999",
+        "soundcloud": "38999",
+        "appleMusic": "38999"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "deadmau5",
+      "title": "SATRN",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "5039049",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "483653",
+        "youtube": "483653",
+        "soundcloud": "483653",
+        "appleMusic": "483653"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "deadmau5",
+      "title": "COASTED",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "5039050",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "485668",
+        "youtube": "485668",
+        "soundcloud": "485668",
+        "appleMusic": "485668"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "deadmau5",
+      "title": "Strobe",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "5039051",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 4200,
+      "mediaIds": {
+        "spotify": "5663",
+        "youtube": "5663",
+        "soundcloud": "5663",
+        "appleMusic": "5663"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "deadmau5",
+      "title": "Ban Hammer",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "5039052",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "deadmau5",
+      "title": "Arguru 2K19",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "5039053",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "655098",
+        "youtube": "655098",
+        "soundcloud": "655098",
+        "appleMusic": "655098"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1740463",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=oMTnYJ7uLOY"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:10:15.159Z",
+  "scrapeVersion": 2
+}

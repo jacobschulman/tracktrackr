@@ -1,0 +1,1420 @@
+{
+  "tlId": "1phw2521",
+  "dj": "Eptic",
+  "stage": "EDC Las Vegas",
+  "date": "2023-05-19",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/1phw2521/eptic-basspod-edc-las-vegas-united-states-2023-05-19.html",
+  "djs": [
+    {
+      "name": "Eptic",
+      "slug": "eptic"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Eptic ft. Joey Valence & Brae",
+      "title": "Tactix",
+      "remix": "(E.P.T.I.C. Intro)",
+      "label": "OVERLORD",
+      "trackId": "9046159",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "879013",
+        "youtube": "879013",
+        "soundcloud": "879013",
+        "appleMusic": "879013"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "YOGI ft. Pusha T",
+      "title": "Burial (Skrillex & TrollPhace Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "9046160",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "218091",
+        "youtube": "218091",
+        "soundcloud": "218091",
+        "appleMusic": "218091"
+      },
+      "blendGroup": [
+        {
+          "artist": "YOGI ft. Pusha T",
+          "title": "Burial (Skrillex & TrollPhace Remix)",
+          "remix": "",
+          "trackId": "9046160"
+        },
+        {
+          "artist": "Eptic",
+          "title": "Run It",
+          "remix": "",
+          "trackId": "9046161"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eptic",
+      "title": "Run It",
+      "remix": "",
+      "label": "OVERLORD",
+      "trackId": "9046161",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "787813",
+        "youtube": "787813",
+        "soundcloud": "787813",
+        "appleMusic": "787813"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eptic",
+          "title": "Run It",
+          "remix": "",
+          "trackId": "9046161"
+        },
+        {
+          "artist": "Boombox Cartel",
+          "title": "Jefe (Acappella)",
+          "remix": "",
+          "trackId": "9046162"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Boombox Cartel",
+      "title": "Jefe (Acappella)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "9046162",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "348418",
+        "youtube": "383921",
+        "soundcloud": "383921",
+        "appleMusic": "348418"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "MASTERHAND",
+      "title": "FLYING GUILLOTINE",
+      "remix": "",
+      "label": "",
+      "trackId": "9046163",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 250,
+      "mediaIds": {
+        "youtube": "949018",
+        "soundcloud": "949018"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "RL Grime",
+      "title": "Core",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "9046164",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "205232",
+        "youtube": "205232",
+        "soundcloud": "205232",
+        "appleMusic": "205232"
+      },
+      "blendGroup": [
+        {
+          "artist": "RL Grime",
+          "title": "Core",
+          "remix": "",
+          "trackId": "9046164"
+        },
+        {
+          "artist": "12th Planet & Juakali",
+          "title": "Reasons (Doctor P Remix / Eptic Edit)",
+          "remix": "",
+          "trackId": "9046165"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "12th Planet & Juakali",
+      "title": "Reasons (Doctor P Remix / Eptic Edit)",
+      "remix": "",
+      "label": "SMOG",
+      "trackId": "9046165",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "632424",
+        "soundcloud": "632424",
+        "appleMusic": "632424"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Flosstradamus & Valentino Khan",
+      "title": "MFU",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "9046166",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "240878",
+        "youtube": "240878",
+        "soundcloud": "240878",
+        "appleMusic": "240878"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flosstradamus & Valentino Khan",
+          "title": "MFU",
+          "remix": "",
+          "trackId": "9046166"
+        },
+        {
+          "artist": "SKisM & LAXX",
+          "title": "Hostile (Eptic Remix)",
+          "remix": "",
+          "trackId": "9046167"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SKisM & LAXX",
+      "title": "Hostile (Eptic Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "9046167",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "236130",
+        "youtube": "236130",
+        "soundcloud": "236130",
+        "appleMusic": "236130"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Excision & Space Laces",
+      "title": "Throwin' Elbows",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "9046168",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "320314",
+        "youtube": "320314",
+        "soundcloud": "320314",
+        "appleMusic": "320314"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Space Laces",
+          "title": "Throwin' Elbows",
+          "remix": "",
+          "trackId": "9046168"
+        },
+        {
+          "artist": "2 Chainz ft. Cap 1",
+          "title": "Where U Been? (Acappella)",
+          "remix": "",
+          "trackId": "9046169"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "2 Chainz ft. Cap 1",
+      "title": "Where U Been? (Acappella)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "9046169",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "156325",
+        "youtube": "198878",
+        "soundcloud": "198878",
+        "appleMusic": "156325"
+      },
+      "blendGroup": [
+        {
+          "artist": "2 Chainz ft. Cap 1",
+          "title": "Where U Been? (Acappella)",
+          "remix": "",
+          "trackId": "9046169"
+        },
+        {
+          "artist": "Eptic",
+          "title": "No Mercy (VIP)",
+          "remix": "",
+          "trackId": "9046170"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eptic",
+      "title": "No Mercy (VIP)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "9046170",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "564509"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "MUST DIE!",
+      "title": "CHAOS (Eptic Edit)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "9046171",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "654325",
+        "soundcloud": "654325"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Kendrick Lamar ft. MC Eiht",
+      "title": "m.A.A.d city",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "9046172",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "113728",
+        "youtube": "113728",
+        "soundcloud": "113728",
+        "appleMusic": "113728"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kendrick Lamar ft. MC Eiht",
+          "title": "m.A.A.d city",
+          "remix": "",
+          "trackId": "9046172"
+        },
+        {
+          "artist": "Eptic",
+          "title": "Shadow People",
+          "remix": "",
+          "trackId": "9046173"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eptic",
+      "title": "Shadow People",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "9046173",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "658123",
+        "youtube": "658123",
+        "soundcloud": "658123",
+        "appleMusic": "658123"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Wildchild",
+      "title": "Renegade Master (Eptic Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "9046174",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 670,
+      "mediaIds": {
+        "youtube": "1016725"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Leotrix",
+      "title": "Tokyo Bounce",
+      "remix": "",
+      "label": "FREE/UMG/NSD: BLACK LABEL",
+      "trackId": "9046175",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "559705",
+        "soundcloud": "559705"
+      },
+      "blendGroup": [
+        {
+          "artist": "Leotrix",
+          "title": "Tokyo Bounce",
+          "remix": "",
+          "trackId": "9046175"
+        },
+        {
+          "artist": "HOL!",
+          "title": "Poetic Pit",
+          "remix": "",
+          "trackId": "9046176"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "HOL!",
+      "title": "Poetic Pit",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "9046176",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "874275",
+        "youtube": "874275",
+        "soundcloud": "874275",
+        "appleMusic": "874275"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Valentino Khan & Eptic ft. Lil Jon",
+      "title": "Bloodbath",
+      "remix": "",
+      "label": "VK MUSIC",
+      "trackId": "9046177",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "654326",
+        "youtube": "654326",
+        "soundcloud": "654326",
+        "appleMusic": "654326"
+      },
+      "blendGroup": [
+        {
+          "artist": "Valentino Khan & Eptic ft. Lil Jon",
+          "title": "Bloodbath",
+          "remix": "",
+          "trackId": "9046177"
+        },
+        {
+          "artist": "Alvaro & DJ MERCER ft. Lil Jon",
+          "title": "Welcome To The Jungle (Acappella)",
+          "remix": "",
+          "trackId": "9046178"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alvaro & DJ MERCER ft. Lil Jon",
+      "title": "Welcome To The Jungle (Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "9046178",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "132127",
+        "youtube": "132127",
+        "soundcloud": "132127",
+        "appleMusic": "132127"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "PEEKABOO & Eptic",
+      "title": "NOSEBLEED",
+      "remix": "",
+      "label": "PEEKABOO",
+      "trackId": "9046179",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "746908",
+        "youtube": "746908",
+        "soundcloud": "746908",
+        "appleMusic": "746908"
+      },
+      "blendGroup": [
+        {
+          "artist": "PEEKABOO & Eptic",
+          "title": "NOSEBLEED",
+          "remix": "",
+          "trackId": "9046179"
+        },
+        {
+          "artist": "Space Laces",
+          "title": "Survive",
+          "remix": "",
+          "trackId": "9046180"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Space Laces",
+      "title": "Survive",
+      "remix": "",
+      "label": "HIGH VAULTAGE",
+      "trackId": "9046180",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "860030",
+        "youtube": "860030",
+        "soundcloud": "860030",
+        "appleMusic": "860030"
+      },
+      "blendGroup": [
+        {
+          "artist": "Space Laces",
+          "title": "Survive",
+          "remix": "",
+          "trackId": "9046180"
+        },
+        {
+          "artist": "Eptic",
+          "title": "2 The Grave",
+          "remix": "",
+          "trackId": "9046181"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eptic",
+      "title": "2 The Grave",
+      "remix": "",
+      "label": "OVERLORD",
+      "trackId": "9046181",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "787750",
+        "youtube": "787750",
+        "soundcloud": "787750",
+        "appleMusic": "787750"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Eptic",
+      "title": "Ready 2 Die (VIP)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "9046182",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Eptic",
+          "title": "Ready 2 Die (VIP)",
+          "remix": "",
+          "trackId": "9046182"
+        },
+        {
+          "artist": "Eptic",
+          "title": "Jurassic (VIP)",
+          "remix": "",
+          "trackId": "9046729"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eptic",
+      "title": "Jurassic (VIP)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "9046729",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 1108,
+      "mediaIds": {
+        "youtube": "854579"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eptic",
+          "title": "Jurassic (VIP)",
+          "remix": "",
+          "trackId": "9046729"
+        },
+        {
+          "artist": "Trampa",
+          "title": "Rocket Fuel",
+          "remix": "",
+          "trackId": "9046183"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Trampa",
+      "title": "Rocket Fuel",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "9046183",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "368499",
+        "youtube": "368499",
+        "soundcloud": "368499",
+        "appleMusic": "368499"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Space Laces",
+      "title": "Fatality",
+      "remix": "",
+      "label": "HIGH VAULTAGE",
+      "trackId": "9046184",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "530503",
+        "soundcloud": "530503"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "MASTERHAND",
+      "title": "GUILLOTINE",
+      "remix": "",
+      "label": "",
+      "trackId": "9046185",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1245,
+      "mediaIds": {
+        "youtube": "938286",
+        "soundcloud": "938286"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Party Favor",
+      "title": "WAWA",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "9046186",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "347601",
+        "youtube": "347601",
+        "soundcloud": "347601",
+        "appleMusic": "347601"
+      },
+      "blendGroup": [
+        {
+          "artist": "Party Favor",
+          "title": "WAWA",
+          "remix": "",
+          "trackId": "9046186"
+        },
+        {
+          "artist": "Eptic & UBUR & Neonix",
+          "title": "MOON VISION",
+          "remix": "",
+          "trackId": "9046187"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eptic & UBUR & Neonix",
+      "title": "MOON VISION",
+      "remix": "",
+      "label": "OVERLORD",
+      "trackId": "9046187",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 1340,
+      "mediaIds": {
+        "spotify": "982835",
+        "youtube": "982835",
+        "soundcloud": "982835",
+        "appleMusic": "982835"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Dillon Francis ft. G-Eazy",
+      "title": "Say Less (Eptic Remix)",
+      "remix": "",
+      "label": "IDGAFOS",
+      "trackId": "9046188",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "360821",
+        "youtube": "360821",
+        "soundcloud": "360821",
+        "appleMusic": "360821"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "DJ Snake & Eptic",
+      "title": "SouthSide",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "9046189",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "480201",
+        "youtube": "480201",
+        "soundcloud": "480201",
+        "appleMusic": "480201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Marshmello & Eptic ft. Juicy J",
+      "title": "Hitta (VIP)",
+      "remix": "",
+      "label": "JOYTIME COLLECTIVE",
+      "trackId": "9046190",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1500,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Eptic & MARAUDA",
+      "title": "Wall Of Death",
+      "remix": "",
+      "label": "OVERLORD",
+      "trackId": "9046191",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "783355",
+        "youtube": "783355",
+        "soundcloud": "783355",
+        "appleMusic": "783355"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Eptic",
+      "title": "Forcefield",
+      "remix": "",
+      "label": "OVERLORD",
+      "trackId": "9046192",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1870,
+      "mediaIds": {
+        "spotify": "1088346",
+        "youtube": "1088346",
+        "soundcloud": "1088346",
+        "appleMusic": "1088346"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Knock2",
+      "title": "dashstar*",
+      "remix": "",
+      "label": "NIGHTMODE",
+      "trackId": "9046193",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "653419",
+        "youtube": "653419",
+        "soundcloud": "653419",
+        "appleMusic": "653419"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Eptic",
+      "title": "Eat My Dust",
+      "remix": "",
+      "label": "SPINNIN' PREMIUM",
+      "trackId": "9046194",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "342719",
+        "youtube": "342719",
+        "soundcloud": "342719",
+        "appleMusic": "342719"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eptic",
+          "title": "Eat My Dust",
+          "remix": "",
+          "trackId": "9046194"
+        },
+        {
+          "artist": "Eptic & Habstrakt",
+          "title": "Lazor 3000",
+          "remix": "",
+          "trackId": "9046195"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eptic & Habstrakt",
+      "title": "Lazor 3000",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "9046195",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "312769",
+        "youtube": "312769",
+        "soundcloud": "312769",
+        "appleMusic": "312769"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Habstrakt",
+      "title": "Show Me",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "9046196",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "572104",
+        "youtube": "572104",
+        "soundcloud": "572104",
+        "appleMusic": "572104"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Eptic",
+      "title": "Ultimate Flex",
+      "remix": "",
+      "label": "OVERLORD",
+      "trackId": "9046197",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "783205",
+        "youtube": "783205",
+        "soundcloud": "783205",
+        "appleMusic": "783205"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Ray Volpe",
+      "title": "Laserbeam (Habstrakt Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9046198",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "879995"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "GTA & Valentino Khan",
+      "title": "Break Your Neck",
+      "remix": "",
+      "label": "THREE SIX ZERO",
+      "trackId": "9046199",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "245561",
+        "youtube": "245561",
+        "soundcloud": "245561",
+        "appleMusic": "245561"
+      },
+      "blendGroup": [
+        {
+          "artist": "GTA & Valentino Khan",
+          "title": "Break Your Neck",
+          "remix": "",
+          "trackId": "9046199"
+        },
+        {
+          "artist": "Space Laces",
+          "title": "Dominate",
+          "remix": "",
+          "trackId": "9046200"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Space Laces",
+      "title": "Dominate",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "9046200",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "673857",
+        "youtube": "673857",
+        "soundcloud": "673857",
+        "appleMusic": "673857"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Eptic",
+      "title": "Payback",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "9046201",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "686968",
+        "youtube": "686968",
+        "soundcloud": "686968",
+        "appleMusic": "686968"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Eptic",
+      "title": "Cruise Control",
+      "remix": "",
+      "label": "OVERLORD",
+      "trackId": "9046202",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2390,
+      "mediaIds": {
+        "youtube": "892475"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "GTA",
+      "title": "Saria Plays Tetris VIP",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9046203",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "427308",
+        "soundcloud": "427308"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "RL Grime",
+      "title": "Era(Co-Prod. by Nonsens) (Eptic Remix)",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "9046204",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "462510",
+        "youtube": "462510",
+        "soundcloud": "462510",
+        "appleMusic": "462510"
+      },
+      "blendGroup": [
+        {
+          "artist": "RL Grime",
+          "title": "Era(Co-Prod. by Nonsens) (Eptic Remix)",
+          "remix": "",
+          "trackId": "9046204"
+        },
+        {
+          "artist": "Zomboy",
+          "title": "Like A Bitch (Acappella)",
+          "remix": "",
+          "trackId": "9046205"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zomboy",
+      "title": "Like A Bitch (Acappella)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "9046205",
+      "row": 31,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "349131",
+        "youtube": "349131",
+        "soundcloud": "349131",
+        "appleMusic": "349131"
+      }
+    },
+    {
+      "pos": "32",
+      "artist": "Noisia",
+      "title": "Stigma (Eptic Remix)",
+      "remix": "",
+      "label": "VISION",
+      "trackId": "9046206",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2620,
+      "mediaIds": {
+        "spotify": "993874",
+        "youtube": "993874",
+        "soundcloud": "993874",
+        "appleMusic": "993874"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Zomboy & Eptic",
+      "title": "Bop It",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "9046207",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "392141",
+        "youtube": "392141",
+        "soundcloud": "392141",
+        "appleMusic": "392141"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Zomboy ft. Vulgatron",
+      "title": "Get With The Program (Eptic & Trampa Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "9046208",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "344112",
+        "youtube": "344112",
+        "soundcloud": "344112",
+        "appleMusic": "344112"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "GTA ft. DJ Funk",
+      "title": "Booty Bounce (GTA HYPRR MIX)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9046209",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "244281",
+        "soundcloud": "244281"
+      },
+      "blendGroup": [
+        {
+          "artist": "GTA ft. DJ Funk",
+          "title": "Booty Bounce (GTA HYPRR MIX)",
+          "remix": "",
+          "trackId": "9046209"
+        },
+        {
+          "artist": "Eptic & Dillon Francis",
+          "title": "Next Level",
+          "remix": "",
+          "trackId": "9046210"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eptic & Dillon Francis",
+      "title": "Next Level",
+      "remix": "",
+      "label": "OVERLORD",
+      "trackId": "9046210",
+      "row": 35,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "781115",
+        "youtube": "781115",
+        "soundcloud": "781115",
+        "appleMusic": "781115"
+      }
+    },
+    {
+      "pos": "36",
+      "artist": "Eptic",
+      "title": "Beyond The Stars",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "9046211",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "523283",
+        "youtube": "523283",
+        "soundcloud": "523283",
+        "appleMusic": "523283"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eptic",
+          "title": "Beyond The Stars",
+          "remix": "",
+          "trackId": "9046211"
+        },
+        {
+          "artist": "Flux Pavilion",
+          "title": "I Can't Stop (Acappella)",
+          "remix": "",
+          "trackId": "9046212"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flux Pavilion",
+      "title": "I Can't Stop (Acappella)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "9046212",
+      "row": 36,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "43243",
+        "youtube": "43243",
+        "soundcloud": "180475",
+        "appleMusic": "43243"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flux Pavilion",
+          "title": "I Can't Stop (Acappella)",
+          "remix": "",
+          "trackId": "9046212"
+        },
+        {
+          "artist": "Eptic",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9046213"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eptic",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9046213",
+      "row": 36,
+      "type": "blend",
+      "cueTime": 3060,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Eptic",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9046213"
+        },
+        {
+          "artist": "DJ Fresh ft. Ce'Cile",
+          "title": "Gold Dust",
+          "remix": "",
+          "trackId": "9046214"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Fresh ft. Ce'Cile",
+      "title": "Gold Dust",
+      "remix": "",
+      "label": "DATA REC. (MINISTRY OF SOUND)",
+      "trackId": "9046214",
+      "row": 36,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "39868",
+        "youtube": "39868",
+        "soundcloud": "39868",
+        "appleMusic": "39868"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Fresh ft. Ce'Cile",
+          "title": "Gold Dust",
+          "remix": "",
+          "trackId": "9046214"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+          "title": "Tremor (Sensation 2014 Anthem)",
+          "remix": "",
+          "trackId": "9046215"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+      "title": "Tremor (Sensation 2014 Anthem)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "9046215",
+      "row": 36,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "167281",
+        "youtube": "167281",
+        "soundcloud": "167281",
+        "appleMusic": "167281"
+      }
+    },
+    {
+      "pos": "37",
+      "artist": "Eptic",
+      "title": "Bloodlust (VIP)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "9046216",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "543298",
+        "youtube": "543298",
+        "soundcloud": "543298",
+        "appleMusic": "543298"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eptic",
+          "title": "Bloodlust (VIP)",
+          "remix": "",
+          "trackId": "9046216"
+        },
+        {
+          "artist": "Excision & Space Laces",
+          "title": "Rumble",
+          "remix": "",
+          "trackId": "9046217"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Space Laces",
+      "title": "Rumble",
+      "remix": "",
+      "label": "NEVER SAY DIE/EXCISION",
+      "trackId": "9046217",
+      "row": 37,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "398325",
+        "youtube": "398325",
+        "soundcloud": "398325",
+        "appleMusic": "398325"
+      }
+    },
+    {
+      "pos": "38",
+      "artist": "Eptic",
+      "title": "Stop Pretending",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "9046218",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "646859",
+        "youtube": "646859",
+        "soundcloud": "646859",
+        "appleMusic": "646859"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Eptic & HOL!",
+      "title": "Detonate",
+      "remix": "",
+      "label": "OVERLORD",
+      "trackId": "9046219",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "787877",
+        "youtube": "787877",
+        "soundcloud": "787877",
+        "appleMusic": "787877"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Eptic",
+      "title": "Witchcraft",
+      "remix": "",
+      "label": "OVERLORD",
+      "trackId": "9046220",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "899053",
+        "youtube": "899053",
+        "soundcloud": "899053",
+        "appleMusic": "899053"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "3402360",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1520285296"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "3399021",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=AZozmWhRZgA"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "3409369",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=9TSVCRfsxXA"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "3399953",
+      "idSource": "40",
+      "url": "https://hearthis.at/9085285/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:31:18.385Z",
+  "scrapeVersion": 2
+}

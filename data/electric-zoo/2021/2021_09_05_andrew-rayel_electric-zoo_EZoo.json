@@ -1,0 +1,668 @@
+{
+  "tlId": "2st1gb3t",
+  "dj": "Andrew Rayel",
+  "stage": "Electric Zoo",
+  "date": "2021-09-05",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/2st1gb3t/andrew-rayel-mainstage-electric-zoo-supernaturals-united-states-2021-09-05.html",
+  "djs": [
+    {
+      "name": "Andrew Rayel",
+      "slug": "andrewrayel"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Andrew Rayel",
+      "title": "My Harmony (FYH 250 Anthem)",
+      "remix": "",
+      "label": "FIND YOUR HARMONY",
+      "trackId": "6690387",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "675699",
+        "youtube": "675699",
+        "soundcloud": "675699",
+        "appleMusic": "675699"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "AVAO",
+      "title": "Dark Energy",
+      "remix": "",
+      "label": "REACHING ALTITUDE",
+      "trackId": "6690388",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "716104",
+        "youtube": "716104",
+        "appleMusic": "716104"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "The Weeknd",
+      "title": "Blinding Lights (Corti Organ Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "6690389",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 45,
+      "mediaIds": {
+        "youtube": "601695"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Andrew Rayel",
+      "title": "Dark Warrior (Willem De Roo Remix)",
+      "remix": "",
+      "label": "INHARMONY (ARMADA)",
+      "trackId": "6690390",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 145,
+      "mediaIds": {
+        "spotify": "361939",
+        "youtube": "361939",
+        "soundcloud": "361939",
+        "appleMusic": "361939"
+      },
+      "blendGroup": [
+        {
+          "artist": "Andrew Rayel",
+          "title": "Dark Warrior (Willem De Roo Remix)",
+          "remix": "",
+          "trackId": "6690390"
+        },
+        {
+          "artist": "Andrew Rayel",
+          "title": "Dark Warrior (Chris Schweizer Remix)",
+          "remix": "",
+          "trackId": "6690391"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Andrew Rayel",
+      "title": "Dark Warrior (Chris Schweizer Remix)",
+      "remix": "",
+      "label": "INHARMONY (ARMADA)",
+      "trackId": "6690391",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "554872",
+        "youtube": "554872",
+        "soundcloud": "554872",
+        "appleMusic": "554872"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Andrew Rayel",
+      "title": "Silver Lining (Mark Sixma Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "6690392",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 300,
+      "mediaIds": {
+        "spotify": "684846",
+        "youtube": "684846",
+        "soundcloud": "684846",
+        "appleMusic": "684846"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Andrew Rayel & Olivia Sebastianelli",
+      "title": "Everything Everything",
+      "remix": "",
+      "label": "INHARMONY (ARMADA)",
+      "trackId": "6690393",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 495,
+      "mediaIds": {
+        "spotify": "605816",
+        "youtube": "605816",
+        "soundcloud": "605816",
+        "appleMusic": "605816"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Ed Sheeran",
+      "title": "Bad Habits",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "6690394",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 660,
+      "mediaIds": {
+        "spotify": "702072",
+        "youtube": "702072",
+        "soundcloud": "702072",
+        "appleMusic": "702072"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Zedd & Andrew Rayel ft. Jon Bellion vs. Alesso & OneRepublic",
+      "title": "Beautiful Now vs. If I Lose Myself (Andrew Rayel Mashup)",
+      "remix": "",
+      "label": "MOSLEY/INTERSCOPE/FIND YOUR HARMONY",
+      "trackId": "6690395",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 830,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "W&W & Martin Jensen ft. Linnea Schossow",
+      "title": "Greece 2021",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "6690398",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 990,
+      "mediaIds": {
+        "spotify": "703989",
+        "youtube": "703989",
+        "soundcloud": "703989",
+        "appleMusic": "703989"
+      },
+      "blendGroup": [
+        {
+          "artist": "W&W & Martin Jensen ft. Linnea Schossow",
+          "title": "Greece 2021",
+          "remix": "",
+          "trackId": "6690398"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike & W&W",
+          "title": "Arcade",
+          "remix": "(Acappella)",
+          "trackId": "6690399"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike & W&W",
+      "title": "Arcade",
+      "remix": "(Acappella)",
+      "label": "SMASH THE HOUSE",
+      "trackId": "6690399",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "294887",
+        "youtube": "294887",
+        "soundcloud": "294887",
+        "appleMusic": "294887"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Bon Jovi vs. W&W",
+      "title": "It's My Life vs. Lift Off! (Andrew Rayel Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "6690400",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1215,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Shouse",
+      "title": "Love Tonight (Andrew Rayel Remix)",
+      "remix": "",
+      "label": "HELL BEACH",
+      "trackId": "6690401",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1320,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Andrew Rayel & Graham Bell",
+      "title": "Tambores",
+      "remix": "",
+      "label": "INHARMONY (ARMADA)",
+      "trackId": "6690403",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1540,
+      "mediaIds": {
+        "spotify": "406633",
+        "youtube": "406633",
+        "soundcloud": "406633",
+        "appleMusic": "406633"
+      },
+      "blendGroup": [
+        {
+          "artist": "Andrew Rayel & Graham Bell",
+          "title": "Tambores",
+          "remix": "",
+          "trackId": "6690403"
+        },
+        {
+          "artist": "MEDUZA ft. GOODBOYS",
+          "title": "Piece Of Your Heart",
+          "remix": "",
+          "trackId": "6690404"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MEDUZA ft. GOODBOYS",
+      "title": "Piece Of Your Heart",
+      "remix": "",
+      "label": "VIRGIN/ASTRALWERKS",
+      "trackId": "6690404",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "433090",
+        "youtube": "433090",
+        "soundcloud": "433090",
+        "appleMusic": "433090"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "NWYR & Andrew Rayel",
+      "title": "The Melody",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "6690714",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1620,
+      "mediaIds": {
+        "spotify": "470802",
+        "youtube": "470802",
+        "soundcloud": "470802",
+        "appleMusic": "470802"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Cosmic Gate",
+      "title": "Exploration Of Space (Mark Sixma Remix)",
+      "remix": "",
+      "label": "WAKE YOUR MIND (BLACK HOLE)",
+      "trackId": "6690715",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1775,
+      "mediaIds": {
+        "spotify": "300777",
+        "youtube": "300777",
+        "soundcloud": "300777",
+        "appleMusic": "300777"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cosmic Gate",
+          "title": "Exploration Of Space (Mark Sixma Remix)",
+          "remix": "",
+          "trackId": "6690715"
+        },
+        {
+          "artist": "Ayla",
+          "title": "Ayla (Ben Nicky & Luke Bond Remix)",
+          "remix": "",
+          "trackId": "6704418"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ayla",
+      "title": "Ayla (Ben Nicky & Luke Bond Remix)",
+      "remix": "",
+      "label": "MAGIK MUZIK (BLACK HOLE)",
+      "trackId": "6704418",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 1805,
+      "mediaIds": {
+        "spotify": "387663",
+        "youtube": "387663",
+        "soundcloud": "387663",
+        "appleMusic": "387663"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Chukiess & Whackboi & D'Jaeger vs. Ran-D",
+      "title": "Karpe Noktem vs. Zombie (Andrew Rayel Mashup)",
+      "remix": "",
+      "label": "ROUGHSTATE/ARMADA/INHARMONY",
+      "trackId": "6690716",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1890,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Pakito",
+      "title": "Living On Video (Mark Sixma Rework)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "6690405",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2060,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Pakito",
+          "title": "Living On Video (Mark Sixma Rework)",
+          "remix": "",
+          "trackId": "6690405"
+        },
+        {
+          "artist": "Rank 1",
+          "title": "L.E.D. There Be Light (Trance Energy 2009 Anthem)",
+          "remix": "",
+          "trackId": "6704061"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rank 1",
+      "title": "L.E.D. There Be Light (Trance Energy 2009 Anthem)",
+      "remix": "",
+      "label": "HIGH CONTRAST (BE YOURSELF)",
+      "trackId": "6704061",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 2360,
+      "mediaIds": {
+        "spotify": "2480",
+        "youtube": "2480",
+        "soundcloud": "2480",
+        "appleMusic": "2480"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Andrew Rayel & Tensteps ft. RUNAGROUND",
+      "title": "Carry You Home (Ashley Wallbridge Remix)",
+      "remix": "",
+      "label": "FIND YOUR HARMONY",
+      "trackId": "6690717",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2190,
+      "mediaIds": {
+        "spotify": "702878",
+        "youtube": "702878",
+        "soundcloud": "702878",
+        "appleMusic": "702878"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Andrew Rayel ft. Aidyl",
+      "title": "River",
+      "remix": "",
+      "label": "FIND YOUR HARMONY",
+      "trackId": "6690718",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2370,
+      "mediaIds": {
+        "spotify": "707127",
+        "youtube": "707127",
+        "soundcloud": "707127",
+        "appleMusic": "707127"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Dimitri Vegas & Like Mike & Vini Vici vs. Liquid Soul",
+      "title": "Untz Untz",
+      "remix": "",
+      "label": "SMASH THE HOUSE/EPIC AMSTERDAM",
+      "trackId": "6690719",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2615,
+      "mediaIds": {
+        "spotify": "485511",
+        "youtube": "485511",
+        "soundcloud": "485511",
+        "appleMusic": "485511"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike & Vini Vici vs. Liquid Soul",
+          "title": "Untz Untz",
+          "remix": "",
+          "trackId": "6690719"
+        },
+        {
+          "artist": "Masked Wolf",
+          "title": "Astronaut In The Ocean",
+          "remix": "",
+          "trackId": "6690720"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Masked Wolf",
+      "title": "Astronaut In The Ocean",
+      "remix": "",
+      "label": "ELEKTRA",
+      "trackId": "6690720",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "650588",
+        "youtube": "650588",
+        "soundcloud": "650588",
+        "appleMusic": "650588"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Armin van Buuren",
+      "title": "Blah Blah Blah",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "6690721",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2700,
+      "mediaIds": {
+        "spotify": "416561",
+        "youtube": "416561",
+        "soundcloud": "416561",
+        "appleMusic": "416561"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army",
+      "remix": "",
+      "label": "XL",
+      "trackId": "6690722",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2780,
+      "mediaIds": {
+        "spotify": "1491",
+        "youtube": "1491",
+        "soundcloud": "1491",
+        "appleMusic": "1491"
+      },
+      "blendGroup": [
+        {
+          "artist": "The White Stripes",
+          "title": "Seven Nation Army",
+          "remix": "",
+          "trackId": "6690722"
+        },
+        {
+          "artist": "W&W x Vini Vici",
+          "title": "Chakra",
+          "remix": "",
+          "trackId": "6690723"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "W&W x Vini Vici",
+      "title": "Chakra",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "6690723",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "371486",
+        "youtube": "371486",
+        "soundcloud": "371486",
+        "appleMusic": "371486"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Mark Sixma & T99 vs. Armin van Buuren",
+      "title": "Anasthasia vs. Stickup (Andrew Rayel Mashup)",
+      "remix": "",
+      "label": "ARMIND (ARMADA)/INHARMONY",
+      "trackId": "6690724",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2880,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Andrew Rayel & Chukiess & Whackboi",
+      "title": "Kick, Bass & Trance",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "6690725",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3015,
+      "mediaIds": {
+        "spotify": "530473",
+        "youtube": "530473",
+        "soundcloud": "530473",
+        "appleMusic": "530473"
+      },
+      "blendGroup": [
+        {
+          "artist": "Andrew Rayel & Chukiess & Whackboi",
+          "title": "Kick, Bass & Trance",
+          "remix": "",
+          "trackId": "6690725"
+        },
+        {
+          "artist": "Armin van Buuren",
+          "title": "Turn It Up",
+          "remix": "",
+          "trackId": "6690726"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Armin van Buuren",
+      "title": "Turn It Up",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "6690726",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "481301",
+        "youtube": "481301",
+        "soundcloud": "481301",
+        "appleMusic": "481301"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Andrew Rayel ft. Lola Blanc",
+      "title": "Horizon (Da Tweekaz Remix)",
+      "remix": "",
+      "label": "FIND YOUR HARMONY",
+      "trackId": "6690727",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3200,
+      "mediaIds": {
+        "spotify": "707529",
+        "youtube": "707529",
+        "soundcloud": "707529",
+        "appleMusic": "707529"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "2460240",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:00:13.842Z",
+  "scrapeVersion": 2
+}

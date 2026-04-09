@@ -1,0 +1,943 @@
+{
+  "tlId": "25yfqw41",
+  "dj": "Knife Party",
+  "stage": "EDC Las Vegas",
+  "date": "2016-06-18",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/25yfqw41/knife-party-cosmicmeadow-edc-las-vegas-united-states-2016-06-18.html",
+  "djs": [
+    {
+      "name": "Knife Party",
+      "slug": "knifeparty"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Knife Party",
+      "title": "No Saint",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "2097094",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "327007",
+        "youtube": "327007",
+        "soundcloud": "327007",
+        "appleMusic": "327007"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Bad Royale ft. Richie Loop",
+      "title": "The Royale Anthem",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2097092",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 48,
+      "mediaIds": {
+        "spotify": "310121",
+        "youtube": "310121",
+        "soundcloud": "310121",
+        "appleMusic": "310121"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Apashe ft. Zitaa",
+      "title": "Tank Girls (Zeskullz Remix)",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "2097093",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 157,
+      "mediaIds": {
+        "soundcloud": "311271"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Richard Grey",
+      "title": "Thug Life",
+      "remix": "",
+      "label": "PEAK HOUR",
+      "trackId": "2097097",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 227,
+      "mediaIds": {
+        "spotify": "275601",
+        "soundcloud": "275601",
+        "appleMusic": "275601"
+      },
+      "blendGroup": [
+        {
+          "artist": "Richard Grey",
+          "title": "Thug Life",
+          "remix": "",
+          "trackId": "2097097"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "Rage Valley",
+          "remix": "",
+          "trackId": "2096979"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "Rage Valley",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "2096979",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 274,
+      "mediaIds": {
+        "spotify": "76128",
+        "youtube": "76128",
+        "soundcloud": "76128",
+        "appleMusic": "76128"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "D.O.D",
+      "title": "Pull Up",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "2096980",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 345,
+      "mediaIds": {
+        "spotify": "289162",
+        "youtube": "289162",
+        "soundcloud": "289162",
+        "appleMusic": "289162"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "APEK & Breathe Carolina",
+      "title": "Anywhere But Home",
+      "remix": "",
+      "label": "ARMADA ZOUK",
+      "trackId": "2096981",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 422,
+      "mediaIds": {
+        "spotify": "258473",
+        "youtube": "258473",
+        "soundcloud": "258473",
+        "appleMusic": "258473"
+      },
+      "blendGroup": [
+        {
+          "artist": "APEK & Breathe Carolina",
+          "title": "Anywhere But Home",
+          "remix": "",
+          "trackId": "2096981"
+        },
+        {
+          "artist": "Frederik Abas",
+          "title": "Different",
+          "remix": "",
+          "trackId": "2099129"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Frederik Abas",
+      "title": "Different",
+      "remix": "",
+      "label": "PYRO",
+      "trackId": "2099129",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 507,
+      "mediaIds": {
+        "spotify": "297175",
+        "youtube": "297175",
+        "soundcloud": "297175",
+        "appleMusic": "297175"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Knife Party",
+      "title": "Parliament Funk",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "2096982",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 634,
+      "mediaIds": {
+        "spotify": "247085",
+        "youtube": "247085",
+        "soundcloud": "247085",
+        "appleMusic": "247085"
+      },
+      "blendGroup": [
+        {
+          "artist": "Knife Party",
+          "title": "Parliament Funk",
+          "remix": "",
+          "trackId": "2096982"
+        },
+        {
+          "artist": "WILL K ft. Sean Declase",
+          "title": "Here Comes The Sun (Acappella)",
+          "remix": "",
+          "trackId": "2097096"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "WILL K ft. Sean Declase",
+      "title": "Here Comes The Sun (Acappella)",
+      "remix": "",
+      "label": "ARMADA TRICE",
+      "trackId": "2097096",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 730,
+      "mediaIds": {
+        "spotify": "226434",
+        "youtube": "226434",
+        "soundcloud": "226434",
+        "appleMusic": "226434"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Madison Mars",
+      "title": "Doppler",
+      "remix": "",
+      "label": "VERIFIED",
+      "trackId": "2096983",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 820,
+      "mediaIds": {
+        "spotify": "306173",
+        "youtube": "306173",
+        "soundcloud": "306173",
+        "appleMusic": "306173"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Swanky Tunes & Far East Movement",
+      "title": "Entertain Us (Chris Bushnell Remix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "2096984",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 998,
+      "mediaIds": {
+        "spotify": "311711",
+        "youtube": "311711",
+        "soundcloud": "311711",
+        "appleMusic": "311711"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Knife Party",
+      "title": "Resistance",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "2096985",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1078,
+      "mediaIds": {
+        "spotify": "210836",
+        "youtube": "210836",
+        "soundcloud": "210836",
+        "appleMusic": "210836"
+      },
+      "blendGroup": [
+        {
+          "artist": "Knife Party",
+          "title": "Resistance",
+          "remix": "",
+          "trackId": "2096985"
+        },
+        {
+          "artist": "Michael Calfan",
+          "title": "Treasured Soul (Kryder & Genairo Nvilla Remix)",
+          "remix": "",
+          "trackId": "2106510"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Michael Calfan",
+      "title": "Treasured Soul (Kryder & Genairo Nvilla Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "2106510",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1100,
+      "mediaIds": {
+        "spotify": "245338",
+        "youtube": "245338",
+        "soundcloud": "245338",
+        "appleMusic": "245338"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Chocolate Puma & Tommie Sunshine ft. DJ Funk",
+      "title": "Scrub The Ground",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "2096986",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1278,
+      "mediaIds": {
+        "spotify": "269179",
+        "youtube": "269179",
+        "soundcloud": "269179",
+        "appleMusic": "269179"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Knife Party",
+      "title": "404 (VIP)",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "2096987",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1395,
+      "mediaIds": {
+        "soundcloud": "2096987"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Pegboard Nerds ft. Tia Simone",
+      "title": "Heartbit",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "2096988",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1514,
+      "mediaIds": {
+        "spotify": "294564",
+        "youtube": "294564",
+        "soundcloud": "294564",
+        "appleMusic": "294564"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "SNAILS & Botnek",
+      "title": "Ur 2 Cool",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "2097420",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1587,
+      "mediaIds": {
+        "spotify": "334263",
+        "youtube": "334263",
+        "soundcloud": "334263",
+        "appleMusic": "334263"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Knife Party",
+      "title": "EDM Death Machine",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "2097010",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1624,
+      "mediaIds": {
+        "spotify": "129558",
+        "youtube": "129558",
+        "soundcloud": "129558",
+        "appleMusic": "129558"
+      },
+      "blendGroup": [
+        {
+          "artist": "Knife Party",
+          "title": "EDM Death Machine",
+          "remix": "",
+          "trackId": "2097010"
+        },
+        {
+          "artist": "Space Laces",
+          "title": "Ctrl C + Ctrl V (Kaiju Mix)",
+          "remix": "",
+          "trackId": "2106511"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Space Laces",
+      "title": "Ctrl C + Ctrl V (Kaiju Mix)",
+      "remix": "",
+      "label": "HIGH VAULTAGE",
+      "trackId": "2106511",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1650,
+      "mediaIds": {
+        "youtube": "289891",
+        "soundcloud": "289891"
+      },
+      "blendGroup": [
+        {
+          "artist": "Space Laces",
+          "title": "Ctrl C + Ctrl V (Kaiju Mix)",
+          "remix": "",
+          "trackId": "2106511"
+        },
+        {
+          "artist": "Atom Pushers & Olly James",
+          "title": "Aken",
+          "remix": "",
+          "trackId": "2106512"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Atom Pushers & Olly James",
+      "title": "Aken",
+      "remix": "",
+      "label": "PEAK HOUR",
+      "trackId": "2106512",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1790,
+      "mediaIds": {
+        "spotify": "184939",
+        "soundcloud": "184939",
+        "appleMusic": "184939"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Swedish House Mafia",
+      "title": "One (Garmiani Remix)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "2106513",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1918,
+      "mediaIds": {
+        "youtube": "261050",
+        "soundcloud": "261050"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia",
+          "title": "One (Garmiani Remix)",
+          "remix": "",
+          "trackId": "2106513"
+        },
+        {
+          "artist": "Yves V & Swanky Tunes",
+          "title": "Out Of Gravity",
+          "remix": "",
+          "trackId": "2106514"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Yves V & Swanky Tunes",
+      "title": "Out Of Gravity",
+      "remix": "",
+      "label": "SHOWLAND (ARMADA)",
+      "trackId": "2106514",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 1955,
+      "mediaIds": {
+        "spotify": "291597",
+        "youtube": "291597",
+        "soundcloud": "291597",
+        "appleMusic": "291597"
+      },
+      "blendGroup": [
+        {
+          "artist": "Yves V & Swanky Tunes",
+          "title": "Out Of Gravity",
+          "remix": "",
+          "trackId": "2106514"
+        },
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Save The World (Acappella)",
+          "remix": "",
+          "trackId": "2105237"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Save The World (Acappella)",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "2105237",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 1986,
+      "mediaIds": {
+        "spotify": "31007",
+        "youtube": "61666",
+        "soundcloud": "61666",
+        "appleMusic": "31007"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Leo Lauretti & Ashton Love",
+      "title": "Pixels",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "2106515",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2130,
+      "mediaIds": {
+        "youtube": "303918",
+        "soundcloud": "303918"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Kaiya Wolff & Styles&Complete ft. Doco",
+      "title": "Projects (Sam F & SWAGE Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2106516",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2215,
+      "mediaIds": {
+        "soundcloud": "327247"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Red Hot Chili Peppers",
+      "title": "By The Way (Waiting For) (Digital Freq & Bartosz Brenes Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2106517",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2315,
+      "mediaIds": {
+        "youtube": "197506",
+        "soundcloud": "197506"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Knife Party",
+      "title": "Red Dawn",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "2106518",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2458,
+      "mediaIds": {
+        "spotify": "214696",
+        "youtube": "214696",
+        "soundcloud": "214696",
+        "appleMusic": "214696"
+      },
+      "blendGroup": [
+        {
+          "artist": "Knife Party",
+          "title": "Red Dawn",
+          "remix": "",
+          "trackId": "2106518"
+        },
+        {
+          "artist": "Victor Porfidio & Mark Martins",
+          "title": "Zuma",
+          "remix": "",
+          "trackId": "2106519"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Victor Porfidio & Mark Martins",
+      "title": "Zuma",
+      "remix": "",
+      "label": "STAAR TRAXX",
+      "trackId": "2106519",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 2580,
+      "mediaIds": {
+        "spotify": "267416",
+        "youtube": "267416",
+        "soundcloud": "267416",
+        "appleMusic": "267416"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Jordy Dazz",
+      "title": "Apocalypse",
+      "remix": "",
+      "label": "WOLV",
+      "trackId": "2106520",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2650,
+      "mediaIds": {
+        "spotify": "315603",
+        "youtube": "315603",
+        "soundcloud": "315603",
+        "appleMusic": "315603"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Nick Martin",
+      "title": "Sigma",
+      "remix": "",
+      "label": "PLAYBOX (KONTOR)",
+      "trackId": "2106521",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2735,
+      "mediaIds": {
+        "spotify": "298644",
+        "youtube": "298644"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Knife Party & Tom Staar",
+      "title": "Kraken (Pegboard Nerds Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "2106522",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2880,
+      "mediaIds": {
+        "youtube": "316383",
+        "soundcloud": "316383"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Knife Party",
+      "title": "Centipede",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "2106523",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3048,
+      "mediaIds": {
+        "spotify": "63072",
+        "youtube": "63072",
+        "soundcloud": "63072",
+        "appleMusic": "63072"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Knife Party",
+      "title": "Destroy Them With Lazers",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "2106524",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3237,
+      "mediaIds": {
+        "spotify": "57185",
+        "youtube": "57185",
+        "soundcloud": "57185",
+        "appleMusic": "57185"
+      },
+      "blendGroup": [
+        {
+          "artist": "Knife Party",
+          "title": "Destroy Them With Lazers",
+          "remix": "",
+          "trackId": "2106524"
+        },
+        {
+          "artist": "Frankie Er & James Dem",
+          "title": "Attitude",
+          "remix": "",
+          "trackId": "2106525"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Frankie Er & James Dem",
+      "title": "Attitude",
+      "remix": "",
+      "label": "PINK RABBIT (STARLIGHT MUSIC)",
+      "trackId": "2106525",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 3345,
+      "mediaIds": {
+        "spotify": "231597",
+        "youtube": "231597",
+        "soundcloud": "231597",
+        "appleMusic": "231597"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "Knife Party",
+      "title": "LRAD (VIP)",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "2106526",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3405,
+      "mediaIds": {
+        "youtube": "316395",
+        "appleMusic": "316395"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Pegboard Nerds",
+      "title": "Blackout",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "2106527",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3504,
+      "mediaIds": {
+        "spotify": "258794",
+        "youtube": "258794",
+        "soundcloud": "258794",
+        "appleMusic": "258794"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Knife Party",
+      "title": "PLUR Police",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "2106528",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3590,
+      "mediaIds": {
+        "spotify": "247086",
+        "youtube": "247086",
+        "soundcloud": "247086",
+        "appleMusic": "247086"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "WILL K",
+      "title": "Marsch",
+      "remix": "",
+      "label": "OXYGEN (SPINNIN')",
+      "trackId": "2106529",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3650,
+      "mediaIds": {
+        "spotify": "275537",
+        "youtube": "275537",
+        "soundcloud": "275537",
+        "appleMusic": "275537"
+      },
+      "blendGroup": [
+        {
+          "artist": "WILL K",
+          "title": "Marsch",
+          "remix": "",
+          "trackId": "2106529"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "Internet Friends",
+          "remix": "",
+          "trackId": "2106530"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "Internet Friends",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "2106530",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 3715,
+      "mediaIds": {
+        "spotify": "42147",
+        "youtube": "42147",
+        "soundcloud": "42147",
+        "appleMusic": "42147"
+      }
+    },
+    {
+      "pos": "30",
+      "artist": "JVST SAY YES & Torro Torro",
+      "title": "Give It Time",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "2106531",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3905,
+      "mediaIds": {
+        "spotify": "309613",
+        "youtube": "309613",
+        "soundcloud": "309613",
+        "appleMusic": "309613"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Knife Party ft. Raja Kumari",
+      "title": "Boss Mode",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "2106532",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3950,
+      "mediaIds": {
+        "spotify": "216589",
+        "youtube": "216589",
+        "soundcloud": "216589",
+        "appleMusic": "216589"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Goja",
+      "title": "Bad Juju",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "2106533",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 4063,
+      "mediaIds": {
+        "spotify": "299318",
+        "youtube": "299318",
+        "soundcloud": "299318",
+        "appleMusic": "299318"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Knife Party",
+      "title": "Give It Up",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "2106534",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 4130,
+      "mediaIds": {
+        "spotify": "224539",
+        "youtube": "224539",
+        "soundcloud": "224539",
+        "appleMusic": "224539"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "450982",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/269979235"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "450904",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/Livesets2016"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "450419",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T08:08:41.068Z",
+  "scrapeVersion": 2
+}

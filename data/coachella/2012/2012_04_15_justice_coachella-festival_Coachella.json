@@ -1,0 +1,160 @@
+{
+  "tlId": "7ur83jt",
+  "dj": "Justice",
+  "stage": "Coachella Festival",
+  "date": "2012-04-15",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/7ur83jt/justice-coachella-stage-coachella-festival-united-states-2012-04-15.html",
+  "djs": [
+    {
+      "name": "Justice",
+      "slug": "justice"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Justice",
+      "title": "Genesis",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "209952",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "67026",
+        "youtube": "67026",
+        "soundcloud": "67026",
+        "appleMusic": "67026"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Justice",
+      "title": "Helix",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "209953",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 360,
+      "mediaIds": {
+        "spotify": "47320",
+        "youtube": "47320",
+        "soundcloud": "47320",
+        "appleMusic": "47320"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Justice",
+      "title": "Civilization",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "210082",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30937",
+        "youtube": "30937",
+        "soundcloud": "30937",
+        "appleMusic": "30937"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Justice",
+      "title": "Canon",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "209954",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 840,
+      "mediaIds": {
+        "spotify": "65185",
+        "youtube": "65185",
+        "soundcloud": "65185",
+        "appleMusic": "65185"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice",
+          "title": "Canon",
+          "remix": "",
+          "trackId": "209954"
+        },
+        {
+          "artist": "Justice",
+          "title": "D.A.N.C.E.",
+          "remix": "",
+          "trackId": "210083"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice",
+      "title": "D.A.N.C.E.",
+      "remix": "",
+      "label": "ED BANGER/BECAUSE MUSIC",
+      "trackId": "210083",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "22909",
+        "youtube": "22909",
+        "soundcloud": "22909",
+        "appleMusic": "22909"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Justice",
+      "title": "Horsepower",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "209955",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1500,
+      "mediaIds": {
+        "spotify": "59215",
+        "youtube": "59215",
+        "appleMusic": "59215"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Justice",
+      "title": "Audio, Video, Disco",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "209956",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": {
+        "spotify": "45698",
+        "youtube": "45698",
+        "soundcloud": "45698",
+        "appleMusic": "45698"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T05:05:58.753Z",
+  "scrapeVersion": 2
+}

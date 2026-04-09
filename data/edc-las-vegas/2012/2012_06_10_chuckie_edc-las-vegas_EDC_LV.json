@@ -1,0 +1,665 @@
+{
+  "tlId": "78wn36t",
+  "dj": "Chuckie",
+  "stage": "EDC Las Vegas",
+  "date": "2012-06-10",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/78wn36t/chuckie-kineticfield-edc-las-vegas-united-states-2012-06-10.html",
+  "djs": [
+    {
+      "name": "Chuckie",
+      "slug": "chuckie"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Chuckie",
+      "title": "Who Is Ready To Jump",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "241851",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "44701",
+        "youtube": "44701",
+        "soundcloud": "44701",
+        "appleMusic": "44701"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Wolfgang Gartner & Tiesto vs. Chuckie & Promise Land",
+      "title": "We Own The Breaking Up (Hardwell Mashup)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/CR2/BIG BEAT",
+      "trackId": "241711",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "81345"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Chuckie ft. Gregor Salto",
+      "title": "What Happens In Vegas",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "241712",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "40758",
+        "soundcloud": "40758",
+        "appleMusic": "40758"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chuckie ft. Gregor Salto",
+          "title": "What Happens In Vegas",
+          "remix": "",
+          "trackId": "241712"
+        },
+        {
+          "artist": "Chris Moody ft. Ashtrobot",
+          "title": "Rock Me",
+          "remix": "",
+          "trackId": "241713"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chris Moody ft. Ashtrobot",
+      "title": "Rock Me",
+      "remix": "",
+      "label": "SUBLIMINAL (ARMADA)",
+      "trackId": "241713",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "04",
+      "artist": "Knife Party vs. Electrixx vs. iio",
+      "title": "Internet Friends vs. Tetris vs. Rapture (Chuckie EDC Edit)",
+      "remix": "",
+      "label": "UMG/EXX REC./EARSTORM",
+      "trackId": "241714",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "80128",
+        "soundcloud": "80128"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Qulinez",
+      "title": "Troll",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "241715",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "55650",
+        "youtube": "55650",
+        "soundcloud": "55650",
+        "appleMusic": "55650"
+      },
+      "blendGroup": [
+        {
+          "artist": "Qulinez",
+          "title": "Troll",
+          "remix": "",
+          "trackId": "241715"
+        },
+        {
+          "artist": "Chuckie",
+          "title": "Together",
+          "remix": "",
+          "trackId": "241716"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chuckie",
+      "title": "Together",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "241716",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "51169",
+        "soundcloud": "51169"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Swedish House Mafia & Knife Party vs. Mohombi",
+      "title": "Antidote vs. Bumpy Ride (Chuckie EDC Edit)",
+      "remix": "",
+      "label": "ISLAND (UMG)/VIRGIN",
+      "trackId": "241853",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Wamdue Project vs. Chuckie & Gregori Klosman",
+      "title": "King Of My Castle vs. Mutfakta (Chuckie Edit)",
+      "remix": "",
+      "label": "STRICTLY RHYTHM/DIRTY DUTCH",
+      "trackId": "241717",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Chuckie & JunxterJack",
+      "title": "Make Some Noise",
+      "remix": "",
+      "label": "CR2/BIG BEAT",
+      "trackId": "241855",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "76653",
+        "youtube": "76653",
+        "soundcloud": "76653",
+        "appleMusic": "76653"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Chardy",
+      "title": "Kik Fck (Harrys & Fly Remix)",
+      "remix": "",
+      "label": "ELEKTROLICIOUS (17:44)",
+      "trackId": "241719",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "73445",
+        "soundcloud": "73445"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chardy",
+          "title": "Kik Fck (Harrys & Fly Remix)",
+          "remix": "",
+          "trackId": "241719"
+        },
+        {
+          "artist": "Tiësto ft. BT",
+          "title": "Love Comes Again",
+          "remix": "",
+          "trackId": "241720"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto ft. BT",
+      "title": "Love Comes Again",
+      "remix": "",
+      "label": "MAGIK MUZIK (BLACK HOLE)",
+      "trackId": "241720",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3891",
+        "youtube": "3891",
+        "soundcloud": "3891",
+        "appleMusic": "3891"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Bingo Players",
+      "title": "Rattle",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "241856",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "46307",
+        "youtube": "46307",
+        "soundcloud": "46307",
+        "appleMusic": "46307"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bingo Players",
+          "title": "Rattle",
+          "remix": "",
+          "trackId": "241856"
+        },
+        {
+          "artist": "Erick Morillo & Eddie Thoneick ft. Shawnee Taylor",
+          "title": "Live Your Life (Chuckie Remix)",
+          "remix": "",
+          "trackId": "241857"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Erick Morillo & Eddie Thoneick ft. Shawnee Taylor",
+      "title": "Live Your Life (Chuckie Remix)",
+      "remix": "",
+      "label": "SUBLIMINAL (ARMADA)",
+      "trackId": "241857",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "21080",
+        "soundcloud": "21080"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Laidback Luke ft. Chuckie & Martin Solveig",
+      "title": "1234",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "241858",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69466",
+        "youtube": "69466",
+        "soundcloud": "69466",
+        "appleMusic": "69466"
+      },
+      "blendGroup": [
+        {
+          "artist": "Laidback Luke ft. Chuckie & Martin Solveig",
+          "title": "1234",
+          "remix": "",
+          "trackId": "241858"
+        },
+        {
+          "artist": "JAY-Z",
+          "title": "Public Service Announcement",
+          "remix": "",
+          "trackId": "271602"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAY-Z",
+      "title": "Public Service Announcement",
+      "remix": "",
+      "label": "ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "271602",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "57392",
+        "youtube": "57392",
+        "soundcloud": "57392",
+        "appleMusic": "57392"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Chuckie & Glowinthedark vs. Zombie Nation",
+      "title": "Electro Zombie (Chuckie Mashup)",
+      "remix": "",
+      "label": "EPM/BIG BEAT (ATLANTIC)",
+      "trackId": "241860",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "79641"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Hardwell vs. Gotye",
+      "title": "Spaceman That I Used To Know (Mattias & G80's Mash Up)",
+      "remix": "",
+      "label": "",
+      "trackId": "241861",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Avicii",
+      "title": "Levels",
+      "remix": "",
+      "label": "LE7ELS/UMG",
+      "trackId": "241862",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "33255",
+        "youtube": "33255",
+        "soundcloud": "33255",
+        "appleMusic": "33255"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Deniz Koyu vs. Calvin Harris",
+      "title": "Tung! vs. Feel So Close (Axwell Bootleg)",
+      "remix": "",
+      "label": "FLAMINGO/COLUMBIA (SONY)",
+      "trackId": "241722",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "59546",
+        "soundcloud": "59546"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Save The Robot",
+      "title": "Party People",
+      "remix": "",
+      "label": "FUNK FARM",
+      "trackId": "241863",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "32786",
+        "soundcloud": "32786"
+      },
+      "blendGroup": [
+        {
+          "artist": "Save The Robot",
+          "title": "Party People",
+          "remix": "",
+          "trackId": "241863"
+        },
+        {
+          "artist": "Rob Base & DJ E-Z Rock",
+          "title": "It Takes Two (Acappella)",
+          "remix": "",
+          "trackId": "264835"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rob Base & DJ E-Z Rock",
+      "title": "It Takes Two (Acappella)",
+      "remix": "",
+      "label": "PROFILE RECORDS",
+      "trackId": "264835",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "79753",
+        "youtube": "79753",
+        "soundcloud": "79753",
+        "appleMusic": "79753"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Rune RK",
+      "title": "Calabria",
+      "remix": "",
+      "label": "ARTI FARTI",
+      "trackId": "241865",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1746",
+        "youtube": "1746",
+        "soundcloud": "1746"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rune RK",
+          "title": "Calabria",
+          "remix": "",
+          "trackId": "241865"
+        },
+        {
+          "artist": "Nari & Milani & Cristian Marchi vs. Congorock ft. Luciana",
+          "title": "Eyes On Babylon (Chuckie Mashup)",
+          "remix": "",
+          "trackId": "241723"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nari & Milani & Cristian Marchi vs. Congorock ft. Luciana",
+      "title": "Eyes On Babylon (Chuckie Mashup)",
+      "remix": "",
+      "label": "FOOL'S GOLD/RISE RECORDS (TIME REC.)",
+      "trackId": "241723",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "79643",
+        "soundcloud": "79643"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Kanye West & Jay-Z vs. Benny Benassi",
+      "title": "Niggas Satisfaction In Paris (Chuckie Pass The Dutch Bootleg)",
+      "remix": "",
+      "label": "D:VISION/ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "241866",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Otherside",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "241724",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5247",
+        "youtube": "5247",
+        "soundcloud": "5247",
+        "appleMusic": "5247"
+      },
+      "blendGroup": [
+        {
+          "artist": "Red Hot Chili Peppers",
+          "title": "Otherside",
+          "remix": "",
+          "trackId": "241724"
+        },
+        {
+          "artist": "Chuckie",
+          "title": "Let The Bass Kick (Acappella)",
+          "remix": "",
+          "trackId": "241859"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chuckie",
+      "title": "Let The Bass Kick (Acappella)",
+      "remix": "",
+      "label": "DIRTY DUTCH",
+      "trackId": "241859",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "4506",
+        "youtube": "4506",
+        "soundcloud": "4506",
+        "appleMusic": "4506"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chuckie",
+          "title": "Let The Bass Kick (Acappella)",
+          "remix": "",
+          "trackId": "241859"
+        },
+        {
+          "artist": "Sandro Silva & Quintino",
+          "title": "Epic",
+          "remix": "",
+          "trackId": "241725"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sandro Silva & Quintino",
+      "title": "Epic",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "241725",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "38853",
+        "youtube": "38853",
+        "soundcloud": "38853",
+        "appleMusic": "38853"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sandro Silva & Quintino",
+          "title": "Epic",
+          "remix": "",
+          "trackId": "241725"
+        },
+        {
+          "artist": "Chuckie",
+          "title": "C-H-U-C-K-I-E (Acappella)",
+          "remix": "",
+          "trackId": "5915148"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chuckie",
+      "title": "C-H-U-C-K-I-E (Acappella)",
+      "remix": "",
+      "label": "DIRTY DUTCH",
+      "trackId": "5915148",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Chuckie",
+          "title": "C-H-U-C-K-I-E (Acappella)",
+          "remix": "",
+          "trackId": "5915148"
+        },
+        {
+          "artist": "JAY-Z & Linkin Park",
+          "title": "Numb Encore (Acappella)",
+          "remix": "",
+          "trackId": "318817"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAY-Z & Linkin Park",
+      "title": "Numb Encore (Acappella)",
+      "remix": "",
+      "label": "ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "318817",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "55948",
+        "youtube": "87126",
+        "soundcloud": "55948",
+        "appleMusic": "55948"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "37501",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/49413808"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "37633",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/DubShakerz"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "37496",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:30:23.779Z",
+  "scrapeVersion": 2
+}

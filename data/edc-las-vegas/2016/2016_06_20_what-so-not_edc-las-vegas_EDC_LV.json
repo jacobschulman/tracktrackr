@@ -1,0 +1,734 @@
+{
+  "tlId": "2vcwd4tt",
+  "dj": "What So Not",
+  "stage": "EDC Las Vegas",
+  "date": "2016-06-20",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/2vcwd4tt/what-so-not-cosmicmeadow-edc-las-vegas-united-states-2016-06-20.html",
+  "djs": [
+    {
+      "name": "What So Not",
+      "slug": "whatsonot"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "What So Not",
+      "title": "Divide & Conquer",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "2104628",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "323842",
+        "youtube": "323842",
+        "soundcloud": "323842",
+        "appleMusic": "323842"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Kendrick Lamar ft. MC Eiht",
+      "title": "m.A.A.d city (EPROM Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2104629",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "138050",
+        "soundcloud": "138050"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kendrick Lamar ft. MC Eiht",
+          "title": "m.A.A.d city (EPROM Remix)",
+          "remix": "",
+          "trackId": "2104629"
+        },
+        {
+          "artist": "Beyoncé",
+          "title": "Diva",
+          "remix": "",
+          "trackId": "7043625"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Beyoncé",
+      "title": "Diva",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "7043625",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "78313",
+        "youtube": "78313",
+        "soundcloud": "78313",
+        "appleMusic": "78313"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Mura Masa",
+      "title": "Lotus Eater",
+      "remix": "",
+      "label": "JAKARTA",
+      "trackId": "2104630",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "238668",
+        "youtube": "238668",
+        "soundcloud": "238668",
+        "appleMusic": "238668"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Danny Brown",
+      "title": "Lie4 (Alix Perez & EPROM Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2104631",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "309541",
+        "soundcloud": "309541"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Dabow & QUIX",
+      "title": "Like That",
+      "remix": "",
+      "label": "BUYGORE",
+      "trackId": "2104632",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "281846",
+        "youtube": "281846",
+        "soundcloud": "281846",
+        "appleMusic": "281846"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "RL Grime & What So Not & Skrillex",
+      "title": "Waiting",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "2104633",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "332178",
+        "youtube": "332178",
+        "soundcloud": "332178",
+        "appleMusic": "332178"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Major Lazer ft. Amber Coffman",
+      "title": "Get Free (What So Not Remix)",
+      "remix": "",
+      "label": "SECRETLY CANADIAN",
+      "trackId": "2104634",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "76743",
+        "youtube": "76743",
+        "soundcloud": "76743",
+        "appleMusic": "76743"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Tame Impala",
+      "title": "Nangs",
+      "remix": "",
+      "label": "MODULAR",
+      "trackId": "2104635",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "275781",
+        "youtube": "275781",
+        "soundcloud": "275781",
+        "appleMusic": "275781"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Alix Perez & EPROM",
+      "title": "Chiron",
+      "remix": "",
+      "label": "ALPHA PUP",
+      "trackId": "2283974",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "277278",
+        "youtube": "277278",
+        "appleMusic": "277278"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "What So Not",
+      "title": "Touched",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2100866",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "167996",
+        "soundcloud": "167996"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Jai Paul",
+      "title": "Jasmine",
+      "remix": "",
+      "label": "XL",
+      "trackId": "2100867",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "73280",
+        "youtube": "73280",
+        "soundcloud": "73280",
+        "appleMusic": "73280"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Mura Masa",
+      "title": "Lovesick Fuck",
+      "remix": "",
+      "label": "ANCHOR POINT",
+      "trackId": "2100868",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "252092",
+        "youtube": "252092",
+        "soundcloud": "252092"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "What So Not & Skrillex ft. KLP",
+      "title": "Goh",
+      "remix": "",
+      "label": "COUNTER (NINJA)",
+      "trackId": "2104636",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "226988",
+        "youtube": "226988",
+        "soundcloud": "226988",
+        "appleMusic": "226988"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Flosstradamus vs. What So Not",
+      "title": "Ov3r 7 Dollar (Emoh Instead Edit)",
+      "remix": "",
+      "label": "SWEAT IT OUT!/FOOL'S GOLD",
+      "trackId": "2100869",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "167998"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "What So Not ft. George Maple & Rome Fortune",
+      "title": "Buried",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "2100871",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "312751",
+        "youtube": "312751",
+        "soundcloud": "312751",
+        "appleMusic": "312751"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Golden Features",
+      "title": "Funeral",
+      "remix": "",
+      "label": "FOREIGN FAMILY COLLECTIVE (COUNTER)",
+      "trackId": "2107041",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "352951",
+        "youtube": "352951",
+        "soundcloud": "352951",
+        "appleMusic": "352951"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "What So Not",
+      "title": "Love Theme",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "2100872",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "63093",
+        "youtube": "63093",
+        "soundcloud": "63093",
+        "appleMusic": "63093"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "What So Not ft. KLP",
+      "title": "Death Drive",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2100873",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Snoop Dogg ft. Pharrell",
+      "title": "Drop It Like It's Hot",
+      "remix": "",
+      "label": "DOGGYSTYLE/GEFFEN",
+      "trackId": "7043626",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69016",
+        "youtube": "69016",
+        "soundcloud": "69016",
+        "appleMusic": "69016"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "DJ Snake ft. Bipolar Sunshine",
+      "title": "Middle (4B Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2100876",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "301609",
+        "youtube": "301609",
+        "soundcloud": "301609",
+        "appleMusic": "301609"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "What So Not",
+      "title": "High You Are (Branchez Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2104637",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "162073",
+        "youtube": "162073",
+        "soundcloud": "162073",
+        "appleMusic": "162073"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "TNGHT",
+      "title": "Bugg'n",
+      "remix": "",
+      "label": "LUCKYME/WARP",
+      "trackId": "2104638",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "76525",
+        "youtube": "76525",
+        "soundcloud": "76525",
+        "appleMusic": "76525"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Dillon Francis & What So Not ft. Dawn Golden",
+      "title": "Arrows",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "2100877",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "288226",
+        "youtube": "288226",
+        "soundcloud": "288226",
+        "appleMusic": "288226"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Drake",
+      "title": "Hotline Bling",
+      "remix": "",
+      "label": "CASH MONEY",
+      "trackId": "2100878",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "265404",
+        "youtube": "265404",
+        "soundcloud": "265404",
+        "appleMusic": "265404"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Point Point",
+      "title": "doubleOreo (San Holo Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "2104639",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "246603",
+        "soundcloud": "246603"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "RÜFÜS DU SOL",
+      "title": "Innerbloom (What So Not Remix)",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "2283975",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300257",
+        "youtube": "300257",
+        "soundcloud": "300257",
+        "appleMusic": "300257"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Prince",
+      "title": "FUNKNROLL (Canblaster Remix)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "7043627",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "SOPHIE",
+      "title": "MSMSMSM",
+      "remix": "",
+      "label": "NUMBERS",
+      "trackId": "7043628",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "278746",
+        "youtube": "278746",
+        "soundcloud": "278746",
+        "appleMusic": "278746"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "What So Not",
+      "title": "Oddity",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "7043629",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "248809",
+        "youtube": "248809",
+        "soundcloud": "248809",
+        "appleMusic": "248809"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "What So Not ft. Kimbra",
+      "title": "Montreal",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "7043630",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "329376",
+        "youtube": "329376",
+        "soundcloud": "329376",
+        "appleMusic": "329376"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "RL Grime & What So Not",
+      "title": "Tell Me (Rudebrat Refix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7043631",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "201411",
+        "soundcloud": "201411"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "RL Grime & What So Not",
+      "title": "Tell Me",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7043632",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "179065",
+        "youtube": "179065",
+        "soundcloud": "179065",
+        "appleMusic": "179065"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "RL Grime & What So Not",
+      "title": "Tell Me (Baauer Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7043633",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "228607",
+        "soundcloud": "228607"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "What So Not & GANZ ft. JOY.",
+      "title": "Lone",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "7043634",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "303481",
+        "youtube": "303481",
+        "soundcloud": "303481",
+        "appleMusic": "303481"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "remix": "",
+      "label": "TOP DAWG",
+      "trackId": "7043635",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "250229",
+        "youtube": "250229",
+        "soundcloud": "250229",
+        "appleMusic": "250229"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Prince",
+      "title": "Purple Rain",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "7043636",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "607956",
+        "youtube": "607956",
+        "soundcloud": "607956",
+        "appleMusic": "607956"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "What So Not ft. KLP",
+      "title": "Jaguar",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "7043637",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "167993",
+        "youtube": "167993",
+        "soundcloud": "167993",
+        "appleMusic": "167993"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "What So Not ft. George Maple",
+      "title": "Gemini",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "7043638",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "248811",
+        "youtube": "248811",
+        "soundcloud": "248811",
+        "appleMusic": "248811"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Elvis Presley",
+      "title": "Can't Help Falling In Love",
+      "remix": "",
+      "label": "RCA VICTOR",
+      "trackId": "7043639",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "625898",
+        "youtube": "625898",
+        "appleMusic": "625898"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "450836",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:52:24.577Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,668 @@
+{
+  "tlId": "22hm919",
+  "dj": "Carnage",
+  "stage": "EDC Las Vegas",
+  "date": "2013-06-22",
+  "year": 2013,
+  "url": "https://www.1001tracklists.com/tracklist/22hm919/carnage-basspod-edc-las-vegas-united-states-2013-06-22.html",
+  "djs": [
+    {
+      "name": "Carnage",
+      "slug": "carnage"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Tiësto",
+      "title": "Adagio For Strings (Blasterjaxx Remix)",
+      "remix": "",
+      "label": "MAGIK MUZIK (BLACK HOLE)",
+      "trackId": "539542",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "139633",
+        "youtube": "139633",
+        "soundcloud": "139633",
+        "appleMusic": "139633"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto",
+          "title": "Adagio For Strings (Blasterjaxx Remix)",
+          "remix": "",
+          "trackId": "539542"
+        },
+        {
+          "artist": "Junkie Kid",
+          "title": "Claps Up",
+          "remix": "",
+          "trackId": "539866"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Junkie Kid",
+      "title": "Claps Up",
+      "remix": "",
+      "label": "AUDIOPHILE LIVE",
+      "trackId": "539866",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "141334",
+        "youtube": "141334",
+        "soundcloud": "141334",
+        "appleMusic": "141334"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Trinidad James",
+      "title": "All Gold Everything (MAKJ Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "539543",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "121300"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Alvaro",
+      "title": "Most Wanted",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "539544",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "136570",
+        "soundcloud": "136570"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "GTA",
+      "title": "The Crowd",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "539545",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "117710",
+        "youtube": "117710",
+        "soundcloud": "117710",
+        "appleMusic": "117710"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Dimitri Vegas & Like Mike",
+      "title": "Wakanda",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "539546",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "106434",
+        "youtube": "106434",
+        "soundcloud": "106434",
+        "appleMusic": "106434"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Martin Garrix & Jay Hardway",
+      "title": "Error 404",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "539547",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "116324",
+        "youtube": "116324",
+        "soundcloud": "116324",
+        "appleMusic": "116324"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Garrix & Jay Hardway",
+          "title": "Error 404",
+          "remix": "",
+          "trackId": "539547"
+        },
+        {
+          "artist": "Alvaro & MOTi",
+          "title": "NaNaNa",
+          "remix": "",
+          "trackId": "539548"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alvaro & MOTi",
+      "title": "NaNaNa",
+      "remix": "",
+      "label": "HYSTERIA/DIM MAK",
+      "trackId": "539548",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "125488",
+        "youtube": "125488",
+        "soundcloud": "125488",
+        "appleMusic": "125488"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Martin Garrix",
+      "title": "Animals",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "539549",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "133924",
+        "youtube": "133924",
+        "soundcloud": "133924",
+        "appleMusic": "133924"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Sandro Silva & Quintino",
+      "title": "Epic",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "539550",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "38853",
+        "youtube": "38853",
+        "soundcloud": "38853",
+        "appleMusic": "38853"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Carnage ft. Herrera",
+      "title": "Fucking Pumped",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "539551",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Armin van Buuren ft. Trevor Guthrie",
+      "title": "This Is What It Feels Like (W&W Remix)",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "539552",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "125950",
+        "youtube": "125950",
+        "soundcloud": "125950",
+        "appleMusic": "125950"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "GTA & Digital LAB & Henrix",
+      "title": "Hit It! (Lady Bee Trap Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "539553",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "AFROJACK",
+      "title": "Annie's Theme (Carnage Festival Trap Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "539554",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "101407",
+        "soundcloud": "101407"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Flux Pavilion",
+      "title": "Bass Cannon (Zomboy Remix)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "539555",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "37312",
+        "soundcloud": "37312"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flux Pavilion",
+          "title": "Bass Cannon (Zomboy Remix)",
+          "remix": "",
+          "trackId": "539555"
+        },
+        {
+          "artist": "Rick Ross ft. Styles P",
+          "title": "B.M.F. (Blowin' Money Fast) (Acappella)",
+          "remix": "",
+          "trackId": "539556"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rick Ross ft. Styles P",
+      "title": "B.M.F. (Blowin' Money Fast) (Acappella)",
+      "remix": "",
+      "label": "MAYBACH",
+      "trackId": "539556",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "52593",
+        "youtube": "76161",
+        "soundcloud": "52593",
+        "appleMusic": "52593"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Borgore ft. Carnage",
+      "title": "Turn Up",
+      "remix": "",
+      "label": "BUYGORE",
+      "trackId": "539557",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "96024",
+        "soundcloud": "96024"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "ETC!ETC! & Brillz",
+      "title": "Swoop",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "539558",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "91590",
+        "youtube": "91590",
+        "soundcloud": "91590",
+        "appleMusic": "91590"
+      },
+      "blendGroup": [
+        {
+          "artist": "ETC!ETC! & Brillz",
+          "title": "Swoop",
+          "remix": "",
+          "trackId": "539558"
+        },
+        {
+          "artist": "Congorock ft. Mr. Lexx",
+          "title": "Babylon (Cesqeaux Trap Reload)",
+          "remix": "",
+          "trackId": "539559"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Congorock ft. Mr. Lexx",
+      "title": "Babylon (Cesqeaux Trap Reload)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "539559",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "151867",
+        "soundcloud": "151867"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Dimitri Vegas & MOGUAI & Like Mike",
+      "title": "Mammoth (Heroes x Villains & Carnage Remix)",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "539560",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "133125",
+        "youtube": "133125",
+        "soundcloud": "133125",
+        "appleMusic": "133125"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Deniz Koyu",
+      "title": "Tung! (Carnage Festival Trap Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "539561",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "101412",
+        "soundcloud": "101412"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "The Opposites",
+      "title": "Licht Uit (Coone Remix)",
+      "remix": "",
+      "label": "TOFF!",
+      "trackId": "539562",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "135831",
+        "youtube": "135831",
+        "soundcloud": "135831",
+        "appleMusic": "135831"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Mayhem & Antiserum",
+      "title": "Brick Squad Anthem",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "539563",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "93630",
+        "soundcloud": "93630"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Beta",
+      "title": "Trapped In The System",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "539564",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "101403",
+        "soundcloud": "101403"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Hardwell",
+      "title": "Spaceman (Carnage Festival Trap Remix)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "539565",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "97107",
+        "youtube": "97107",
+        "soundcloud": "97107",
+        "appleMusic": "97107"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Flux Pavilion",
+      "title": "I Can't Stop",
+      "remix": "",
+      "label": "CIRCUS RECORDS/BIG BEAT",
+      "trackId": "539566",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "43243",
+        "youtube": "43243",
+        "soundcloud": "43243",
+        "appleMusic": "43243"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Showtek & Justin Prime",
+      "title": "Cannonball (Carnage & Victor Niglio Festival Trap Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "539567",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "110882",
+        "soundcloud": "110882"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Carnage ft. Katie Got Bandz",
+      "title": "Kat!e",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "539568",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "104672",
+        "youtube": "104672",
+        "soundcloud": "104672",
+        "appleMusic": "104672"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Carnage",
+      "title": "Bang!",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "542870",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "101416",
+        "soundcloud": "101416"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Showtek & Ookay",
+      "title": "Bouncer",
+      "remix": "",
+      "label": "SKINK",
+      "trackId": "542871",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "139037",
+        "youtube": "139037",
+        "soundcloud": "139037",
+        "appleMusic": "139037"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Tony Junior vs. Carnage ft. New & Used",
+      "title": "Nobody Beats The Signal! (Tommie Sunshine Bootleg)",
+      "remix": "",
+      "label": "TIGER RECORDS/SPINNIN'",
+      "trackId": "542872",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Carnage",
+      "title": "Tomahawk",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "542873",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "125859",
+        "soundcloud": "125859"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Carnage & Borgore",
+      "title": "Incredible",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "542874",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "110883",
+        "youtube": "110883",
+        "soundcloud": "110883",
+        "appleMusic": "110883"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Carnage & Borgore",
+      "title": "Incredible (HXV Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "542875",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "120320",
+        "youtube": "120320",
+        "soundcloud": "120320",
+        "appleMusic": "120320"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Carnage & Tony Junior",
+      "title": "Michael Jordan",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "542876",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "141338",
+        "youtube": "141338",
+        "soundcloud": "141338",
+        "appleMusic": "141338"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "96421",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/98558194"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:19:58.319Z",
+  "scrapeVersion": 2
+}

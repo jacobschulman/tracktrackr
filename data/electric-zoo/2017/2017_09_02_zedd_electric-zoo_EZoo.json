@@ -1,0 +1,591 @@
+{
+  "tlId": "1wph83mt",
+  "dj": "Zedd",
+  "stage": "Electric Zoo",
+  "date": "2017-09-02",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/1wph83mt/zedd-mainstage-electric-zoo-united-states-2017-09-02.html",
+  "djs": [
+    {
+      "name": "Zedd",
+      "slug": "zedd"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Zedd ft. Bea Miller",
+      "title": "Out Of Time",
+      "remix": "(Instrumental Demo/Intro Edit)",
+      "label": "INTERSCOPE",
+      "trackId": "10673334",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1010028",
+        "youtube": "1010028",
+        "soundcloud": "1010028",
+        "appleMusic": "1010028"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd ft. Bea Miller",
+          "title": "Out Of Time",
+          "remix": "(Instrumental Demo/Intro Edit)",
+          "trackId": "10673334"
+        },
+        {
+          "artist": "Zedd ft. Jon Bellion",
+          "title": "Beautiful Now",
+          "remix": "(Intro Edit)",
+          "trackId": "2842131"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd ft. Jon Bellion",
+      "title": "Beautiful Now",
+      "remix": "(Intro Edit)",
+      "label": "INTERSCOPE",
+      "trackId": "2842131",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "255025",
+        "youtube": "255025",
+        "soundcloud": "255025",
+        "appleMusic": "255025"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Wolfgang Gartner",
+      "title": "The Champ",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "2842132",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 175,
+      "mediaIds": {
+        "spotify": "45202",
+        "youtube": "45202",
+        "soundcloud": "45202",
+        "appleMusic": "45202"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "J Balvin & Willy William",
+      "title": "Mi Gente (Cedric Gervais Remix)",
+      "remix": "",
+      "label": "SCORPIO",
+      "trackId": "2842133",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "372287",
+        "youtube": "372287",
+        "soundcloud": "372287",
+        "appleMusic": "372287"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Axwell Λ Ingrosso vs. Alesso & Tove Lo",
+      "title": "Dream Bigger vs. Heroes (Alesso Mashup)",
+      "remix": "",
+      "label": "REFUNE/DEF JAM/AXTONE",
+      "trackId": "2842134",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "370847"
+      },
+      "blendGroup": [
+        {
+          "artist": "Axwell Λ Ingrosso vs. Alesso & Tove Lo",
+          "title": "Dream Bigger vs. Heroes (Alesso Mashup)",
+          "remix": "",
+          "trackId": "2842134"
+        },
+        {
+          "artist": "Martin Garrix & Florian Picasso",
+          "title": "Make Up Your Mind",
+          "remix": "",
+          "trackId": "2842375"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Garrix & Florian Picasso",
+      "title": "Make Up Your Mind",
+      "remix": "",
+      "label": "EPIC AMSTERDAM/STMPD",
+      "trackId": "2842375",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 323,
+      "mediaIds": {
+        "spotify": "321630",
+        "youtube": "321630",
+        "soundcloud": "321630",
+        "appleMusic": "321630"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Michael Jackson",
+      "title": "Thriller",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "2842135",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 332,
+      "mediaIds": {
+        "spotify": "4124",
+        "youtube": "4124",
+        "soundcloud": "4124",
+        "appleMusic": "4124"
+      },
+      "blendGroup": [
+        {
+          "artist": "Michael Jackson",
+          "title": "Thriller",
+          "remix": "",
+          "trackId": "2842135"
+        },
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "2842376"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+      "title": "Put Ya Fuckin Hands Up (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "2842376",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "16909",
+        "soundcloud": "16909"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "2842376"
+        },
+        {
+          "artist": "Laidback Luke & Project 46 ft. Collin McLoughlin",
+          "title": "Collide (Marc Benjamin Remix)",
+          "remix": "",
+          "trackId": "2842377"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Laidback Luke & Project 46 ft. Collin McLoughlin",
+      "title": "Collide (Marc Benjamin Remix)",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "2842377",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "178307",
+        "youtube": "178307",
+        "soundcloud": "178307",
+        "appleMusic": "178307"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Save The World",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "2842378",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "31007",
+        "youtube": "31007",
+        "soundcloud": "31007",
+        "appleMusic": "31007"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Zedd ft. Hayley Williams",
+      "title": "Stay The Night (Zedd & KDrew Extended Remix)",
+      "remix": "",
+      "label": "OWSLA/INTERSCOPE",
+      "trackId": "2842379",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "169465",
+        "youtube": "169465",
+        "soundcloud": "169465",
+        "appleMusic": "169465"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Zedd & Alessia Cara",
+      "title": "Stay",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2842380",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "347913",
+        "youtube": "347913",
+        "soundcloud": "347913",
+        "appleMusic": "347913"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Zedd & Alessia Cara",
+      "title": "Stay (Boxinbox & Maliboux Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2842381",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "359617",
+        "soundcloud": "359617"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Bali Bandits",
+      "title": "Voulez Vous",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2842382",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 578,
+      "mediaIds": {
+        "spotify": "406254",
+        "youtube": "406254",
+        "soundcloud": "406254",
+        "appleMusic": "406254"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Zedd & Grey",
+      "title": "Adrenaline",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2843825",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "320905",
+        "youtube": "320905",
+        "soundcloud": "320905",
+        "appleMusic": "320905"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd & Grey",
+          "title": "Adrenaline",
+          "remix": "",
+          "trackId": "2843825"
+        },
+        {
+          "artist": "Michael Jackson",
+          "title": "Billie Jean",
+          "remix": "",
+          "trackId": "2852050"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Michael Jackson",
+      "title": "Billie Jean",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "2852050",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 930,
+      "mediaIds": {
+        "spotify": "5077",
+        "youtube": "5077",
+        "soundcloud": "5077",
+        "appleMusic": "5077"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Queen",
+      "title": "We Will Rock You",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "2842383",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "13206",
+        "youtube": "13206",
+        "soundcloud": "13206",
+        "appleMusic": "13206"
+      },
+      "blendGroup": [
+        {
+          "artist": "Queen",
+          "title": "We Will Rock You",
+          "remix": "",
+          "trackId": "2842383"
+        },
+        {
+          "artist": "Cesqeaux & KAYZO",
+          "title": "Home",
+          "remix": "",
+          "trackId": "2842384"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cesqeaux & KAYZO",
+      "title": "Home",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "2842384",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300954",
+        "youtube": "300954",
+        "soundcloud": "300954",
+        "appleMusic": "300954"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Zombie Nation",
+      "title": "Kernkraft 400 (W&W Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "2842385",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "196922",
+        "soundcloud": "196922"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Zedd",
+      "title": "Stache",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2842386",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 684,
+      "mediaIds": {
+        "spotify": "98357",
+        "youtube": "98357",
+        "soundcloud": "98357",
+        "appleMusic": "98357"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Zedd ft. Selena Gomez",
+      "title": "I Want You To Know",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2842387",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "241465",
+        "youtube": "241465",
+        "soundcloud": "241465",
+        "appleMusic": "241465"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Zedd ft. Foxes",
+      "title": "Clarity",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2842388",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "99468",
+        "youtube": "99468",
+        "soundcloud": "99468",
+        "appleMusic": "99468"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Daft Punk",
+      "title": "One More Time (Zedd Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "2842389",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "318252",
+        "soundcloud": "318252",
+        "appleMusic": "318252"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Zedd",
+      "title": "The Legend Of Zelda",
+      "remix": "",
+      "label": "BAZOOKA",
+      "trackId": "2842390",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1080,
+      "mediaIds": {
+        "spotify": "30936",
+        "youtube": "30936",
+        "soundcloud": "30936",
+        "appleMusic": "30936"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Zedd ft. Matthew Koma",
+      "title": "Spectrum",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2842391",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "76931",
+        "youtube": "76931",
+        "soundcloud": "76931",
+        "appleMusic": "76931"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd ft. Matthew Koma",
+          "title": "Spectrum",
+          "remix": "",
+          "trackId": "2842391"
+        },
+        {
+          "artist": "Zedd ft. Matthew Koma",
+          "title": "Spectrum (Deniz Koyu Remix)",
+          "remix": "",
+          "trackId": "2842392"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd ft. Matthew Koma",
+      "title": "Spectrum (Deniz Koyu Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2842392",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "82343",
+        "youtube": "82343",
+        "soundcloud": "82343",
+        "appleMusic": "82343"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Empire Of The Sun",
+      "title": "Alive (Zedd Remix)",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "2842393",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "135866",
+        "youtube": "135866",
+        "soundcloud": "135866",
+        "appleMusic": "135866"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "649491",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=hVxR94EUFMk"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:33:59.578Z",
+  "scrapeVersion": 2
+}

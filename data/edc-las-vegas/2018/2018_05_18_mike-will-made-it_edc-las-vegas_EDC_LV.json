@@ -1,0 +1,920 @@
+{
+  "tlId": "22903b5t",
+  "dj": "Mike WiLL Made It",
+  "stage": "EDC Las Vegas",
+  "date": "2018-05-18",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/22903b5t/mike-will-made-it-cosmicmeadow-edc-las-vegas-united-states-2018-05-18.html",
+  "djs": [
+    {
+      "name": "Mike WiLL Made It",
+      "slug": "mikewillmadeit"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "KYLE ft. Lil Yachty",
+      "title": "iSpy",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "3340360",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "355053",
+        "youtube": "355053",
+        "soundcloud": "355053",
+        "appleMusic": "355053"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Kendrick Lamar ft. U2",
+      "title": "XXX.",
+      "remix": "",
+      "label": "TOP DAWG",
+      "trackId": "3340361",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 224,
+      "mediaIds": {
+        "spotify": "413015",
+        "appleMusic": "413015"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Childish Gambino",
+      "title": "This Is America",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "3340362",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 282,
+      "mediaIds": {
+        "spotify": "415796",
+        "youtube": "415796",
+        "soundcloud": "415796",
+        "appleMusic": "415796"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Kendrick Lamar",
+      "title": "HUMBLE.",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "3340363",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 317,
+      "mediaIds": {
+        "spotify": "354525",
+        "youtube": "354525",
+        "soundcloud": "354525",
+        "appleMusic": "354525"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kendrick Lamar",
+          "title": "HUMBLE.",
+          "remix": "",
+          "trackId": "3340363"
+        },
+        {
+          "artist": "Queen",
+          "title": "We Will Rock You (Acappella)",
+          "remix": "",
+          "trackId": "3340364"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Queen",
+      "title": "We Will Rock You (Acappella)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "3340364",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "13206",
+        "youtube": "13206",
+        "soundcloud": "13206",
+        "appleMusic": "13206"
+      },
+      "blendGroup": [
+        {
+          "artist": "Queen",
+          "title": "We Will Rock You (Acappella)",
+          "remix": "",
+          "trackId": "3340364"
+        },
+        {
+          "artist": "Boombox Cartel",
+          "title": "Jefe",
+          "remix": "",
+          "trackId": "3340365"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Boombox Cartel",
+      "title": "Jefe",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "3340365",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "348418",
+        "youtube": "348418",
+        "soundcloud": "348418",
+        "appleMusic": "348418"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Jay Rock & Kendrick Lamar & Future & James Blake",
+      "title": "King's Dead",
+      "remix": "",
+      "label": "TOP DAWG",
+      "trackId": "3340366",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 370,
+      "mediaIds": {
+        "spotify": "407582",
+        "youtube": "407582",
+        "soundcloud": "407582",
+        "appleMusic": "407582"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "A$AP Ferg vs. RL Grime & Djemba Djemba",
+      "title": "Plain Jane vs. Valhalla (RL Grime Edit)",
+      "remix": "",
+      "label": "WEDIDIT/RCA (SONY)",
+      "trackId": "3340367",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 487,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Sheck Wes vs. Bro Safari & Zomboy",
+      "title": "Mo Bamba vs. Follow (Fashen Bootleg)",
+      "remix": "",
+      "label": "CACTUS JACK/FREE/BRO SAFARI",
+      "trackId": "3340369",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 626,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Kodak Black vs. UNKWN",
+      "title": "Roll In Peace (Benzi & Chuwe Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "3340372",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 726,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Three 6 Mafia",
+      "title": "Stay Fly (Acappella)",
+      "remix": "",
+      "label": "SONY BMG",
+      "trackId": "11423481",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 820,
+      "mediaIds": {
+        "spotify": "91123",
+        "youtube": "91123",
+        "soundcloud": "91123",
+        "appleMusic": "91123"
+      },
+      "blendGroup": [
+        {
+          "artist": "Three 6 Mafia",
+          "title": "Stay Fly (Acappella)",
+          "remix": "",
+          "trackId": "11423481"
+        },
+        {
+          "artist": "Kendrick Lamar",
+          "title": "DNA.",
+          "remix": "",
+          "trackId": "3340373"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kendrick Lamar",
+      "title": "DNA.",
+      "remix": "",
+      "label": "TOP DAWG",
+      "trackId": "3340373",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 827,
+      "mediaIds": {
+        "spotify": "356812",
+        "youtube": "356812",
+        "soundcloud": "356812",
+        "appleMusic": "356812"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "BlocBoy JB ft. Drake",
+      "title": "Look Alive",
+      "remix": "",
+      "label": "OVO",
+      "trackId": "3340374",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 951,
+      "mediaIds": {
+        "spotify": "406786",
+        "youtube": "406786",
+        "soundcloud": "406786",
+        "appleMusic": "406786"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Yo Gotti & Mike WiLL Made It vs. Flosstradamus & Ricky Remedy",
+      "title": "Rake It Up (FAED BYB Edit)",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD/EPIC (SONY BMG)",
+      "trackId": "3340375",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1105,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Flosstradamus & Dillon Francis",
+      "title": "Tern It Up",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "3340376",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1241,
+      "mediaIds": {
+        "spotify": "392935",
+        "youtube": "392935",
+        "soundcloud": "392935",
+        "appleMusic": "392935"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flosstradamus & Dillon Francis",
+          "title": "Tern It Up",
+          "remix": "",
+          "trackId": "3340376"
+        },
+        {
+          "artist": "The Beatles",
+          "title": "Eleanor Rigby",
+          "remix": "",
+          "trackId": "11423482"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Beatles",
+      "title": "Eleanor Rigby",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "11423482",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "101485",
+        "youtube": "101485",
+        "appleMusic": "101485"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Beatles",
+          "title": "Eleanor Rigby",
+          "remix": "",
+          "trackId": "11423482"
+        },
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "3340377"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+      "title": "Put Ya Fuckin Hands Up (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "3340377",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "16909",
+        "soundcloud": "16909"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Kendrick Lamar ft. MC Eiht",
+      "title": "m.A.A.d city",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "3340379",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1290,
+      "mediaIds": {
+        "spotify": "113728",
+        "youtube": "113728",
+        "soundcloud": "113728",
+        "appleMusic": "113728"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Migos & Quintino vs. RL Grime",
+      "title": "T-Shirt vs. Era (DJ Scene Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "3340380",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1309,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Destiny's Child",
+      "title": "Say My Name",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "3340382",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1423,
+      "mediaIds": {
+        "spotify": "60512",
+        "youtube": "60512",
+        "soundcloud": "60512",
+        "appleMusic": "60512"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Drake",
+      "title": "God's Plan",
+      "remix": "",
+      "label": "OVO",
+      "trackId": "3340383",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1440,
+      "mediaIds": {
+        "spotify": "399604",
+        "youtube": "399604",
+        "soundcloud": "399604",
+        "appleMusic": "399604"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Ace Hood ft. Future & Rick Ross",
+      "title": "Bugatti",
+      "remix": "",
+      "label": "CASH MONEY",
+      "trackId": "3340384",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1500,
+      "mediaIds": {
+        "spotify": "116638",
+        "youtube": "116638",
+        "soundcloud": "116638",
+        "appleMusic": "116638"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "2 Chainz ft. Drake",
+      "title": "No Lie",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "3340385",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1553,
+      "mediaIds": {
+        "spotify": "78049",
+        "youtube": "78049",
+        "soundcloud": "78049",
+        "appleMusic": "78049"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Future ft. Pharrell Williams & Pusha T",
+      "title": "Move That Dope",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "11423485",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1600,
+      "mediaIds": {
+        "spotify": "186416",
+        "youtube": "186416",
+        "soundcloud": "186416",
+        "appleMusic": "186416"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Future",
+      "title": "Sh!t",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "3340386",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1630,
+      "mediaIds": {
+        "spotify": "163792",
+        "youtube": "163792",
+        "soundcloud": "163792",
+        "appleMusic": "163792"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Rae Sremmurd & Swae Lee & Slim Jxmmi ft. The Weeknd",
+      "title": "Bedtime Stories",
+      "remix": "",
+      "label": "",
+      "trackId": "3340387",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1768,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Rae Sremmurd",
+      "title": "No Flex Zone",
+      "remix": "",
+      "label": "EARDRUMMERS/INTERSCOPE",
+      "trackId": "3340388",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1866,
+      "mediaIds": {
+        "spotify": "207880",
+        "youtube": "207880",
+        "soundcloud": "207880",
+        "appleMusic": "207880"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Rae Sremmurd & Swae Lee & Slim Jxmmi ft. Juicy J",
+      "title": "Powerglide",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "3340389",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1894,
+      "mediaIds": {
+        "spotify": "409128",
+        "youtube": "409128",
+        "appleMusic": "409128"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Slim Jxmmi ft. Rae Sremmurd",
+      "title": "Brxnks Truck",
+      "remix": "",
+      "label": "",
+      "trackId": "3340390",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2140,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Rae Sremmurd & Swae Lee & Slim Jxmmi",
+      "title": "42",
+      "remix": "",
+      "label": "",
+      "trackId": "3340391",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2180,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Rae Sremmurd ft. Gucci Mane",
+      "title": "Black Beatles",
+      "remix": "",
+      "label": "EARDRUMMERS",
+      "trackId": "3340392",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2326,
+      "mediaIds": {
+        "spotify": "327182",
+        "youtube": "327182",
+        "soundcloud": "327182",
+        "appleMusic": "327182"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Rae Sremmurd",
+      "title": "No Type(Prod. by Mike WiLL Made It)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "3340393",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2513,
+      "mediaIds": {
+        "spotify": "219460",
+        "youtube": "219460",
+        "soundcloud": "219460",
+        "appleMusic": "219460"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "French Montana ft. Swae Lee",
+      "title": "Unforgettable",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "3340394",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2645,
+      "mediaIds": {
+        "spotify": "350640",
+        "youtube": "350640",
+        "soundcloud": "350640",
+        "appleMusic": "350640"
+      },
+      "blendGroup": [
+        {
+          "artist": "French Montana ft. Swae Lee",
+          "title": "Unforgettable",
+          "remix": "",
+          "trackId": "3340394"
+        },
+        {
+          "artist": "The Notorious B.I.G.",
+          "title": "Big Poppa",
+          "remix": "",
+          "trackId": "3509690"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Notorious B.I.G.",
+      "title": "Big Poppa",
+      "remix": "",
+      "label": "WORD OF MOUTH",
+      "trackId": "3509690",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 2640,
+      "mediaIds": {
+        "spotify": "272839",
+        "youtube": "272839",
+        "soundcloud": "272839",
+        "appleMusic": "272839"
+      }
+    },
+    {
+      "pos": "29",
+      "artist": "Rich The Kid",
+      "title": "Plug Walk",
+      "remix": "",
+      "label": "TDE",
+      "trackId": "3340395",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2784,
+      "mediaIds": {
+        "spotify": "410497",
+        "youtube": "410497",
+        "soundcloud": "410497",
+        "appleMusic": "410497"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rich The Kid",
+          "title": "Plug Walk",
+          "remix": "",
+          "trackId": "3340395"
+        },
+        {
+          "artist": "Badrapper & NXSTY",
+          "title": "Swisher",
+          "remix": "",
+          "trackId": "3509691"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Badrapper & NXSTY",
+      "title": "Swisher",
+      "remix": "",
+      "label": "NEW NOISE (DIM MAK)",
+      "trackId": "3509691",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 2828,
+      "mediaIds": {
+        "spotify": "402113",
+        "youtube": "402113",
+        "soundcloud": "402113",
+        "appleMusic": "402113"
+      }
+    },
+    {
+      "pos": "30",
+      "artist": "OutKast",
+      "title": "B.O.B. (Bombs Over Baghdad)",
+      "remix": "",
+      "label": "ARISTA",
+      "trackId": "3340396",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2959,
+      "mediaIds": {
+        "spotify": "118523",
+        "youtube": "118523",
+        "soundcloud": "118523",
+        "appleMusic": "118523"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Young Jeezy ft. Kanye West",
+      "title": "Put On",
+      "remix": "",
+      "label": "ISLAND DEF JAM (UMG)",
+      "trackId": "3340397",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3069,
+      "mediaIds": {
+        "spotify": "129024",
+        "youtube": "129024",
+        "soundcloud": "129024",
+        "appleMusic": "129024"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "T.I.",
+      "title": "What You Know",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "3340398",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 3136,
+      "mediaIds": {
+        "spotify": "91124",
+        "youtube": "91124",
+        "soundcloud": "91124",
+        "appleMusic": "91124"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Bone Crusher ft. Killer Mike & T.I.",
+      "title": "Never Scared",
+      "remix": "",
+      "label": "ARISTA",
+      "trackId": "3340399",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 3239,
+      "mediaIds": {
+        "spotify": "107064",
+        "youtube": "107064",
+        "soundcloud": "107064",
+        "appleMusic": "107064"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Ludacris ft. Mystikal & l-20",
+      "title": "Move Bitch",
+      "remix": "",
+      "label": "ISLAND DEF JAM (UMG)",
+      "trackId": "3340400",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3350,
+      "mediaIds": {
+        "spotify": "27113",
+        "youtube": "27113",
+        "soundcloud": "27113",
+        "appleMusic": "27113"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "IAmDLOW",
+      "title": "Bet You Can't Do It Like Me",
+      "remix": "",
+      "label": "INDEPENDENT",
+      "trackId": "3340401",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 3389,
+      "mediaIds": {
+        "youtube": "301719"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "21 Savage & Offset & Metro Boomin",
+      "title": "Ric Flair Drip",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "3340402",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 3449,
+      "mediaIds": {
+        "spotify": "408291",
+        "youtube": "408291",
+        "soundcloud": "408291",
+        "appleMusic": "408291"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Eearz",
+      "title": "Work Ya Muscule",
+      "remix": "",
+      "label": "",
+      "trackId": "3340403",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 3532,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Kanye West",
+      "title": "Can't Tell Me Nothing",
+      "remix": "",
+      "label": "ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "3340404",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 3616,
+      "mediaIds": {
+        "spotify": "100980",
+        "youtube": "100980",
+        "soundcloud": "100980",
+        "appleMusic": "100980"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Kendrick Lamar",
+      "title": "HUMBLE.",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "3340405",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 3733,
+      "mediaIds": {
+        "spotify": "354525",
+        "youtube": "354525",
+        "soundcloud": "354525",
+        "appleMusic": "354525"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kendrick Lamar",
+          "title": "HUMBLE.",
+          "remix": "",
+          "trackId": "3340405"
+        },
+        {
+          "artist": "Kendrick Lamar",
+          "title": "HUMBLE. (Skrillex Remix)",
+          "remix": "",
+          "trackId": "3340406"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kendrick Lamar",
+      "title": "HUMBLE. (Skrillex Remix)",
+      "remix": "",
+      "label": "TOP DAWG",
+      "trackId": "3340406",
+      "row": 39,
+      "type": "blend",
+      "cueTime": 3786,
+      "mediaIds": {
+        "spotify": "373720",
+        "youtube": "373720",
+        "soundcloud": "373720",
+        "appleMusic": "373720"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "798881",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=NcjMfMAGIZc"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:10:52.582Z",
+  "scrapeVersion": 2
+}

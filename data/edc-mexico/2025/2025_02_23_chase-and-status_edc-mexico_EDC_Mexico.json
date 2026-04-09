@@ -1,0 +1,213 @@
+{
+  "tlId": "105zjvp9",
+  "dj": "Chase & Status",
+  "stage": "EDC Mexico",
+  "date": "2025-02-23",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/105zjvp9/chase-status-wasteland-edc-mexico-2025-02-23.html",
+  "djs": [
+    {
+      "name": "Chase & Status",
+      "slug": "chasestatus"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Chase & Status ft. IRAH",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "11801456",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 54,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Chase & Status ft. Stefflon Don",
+      "title": "Selecta",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "11801457",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 209,
+      "mediaIds": {
+        "spotify": "943343",
+        "youtube": "943343",
+        "soundcloud": "943343",
+        "appleMusic": "943343"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "11801458",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 317,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Chase & Status & Hedex ft. ArrDee",
+      "title": "Liquor & Cigarettes",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "11801459",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 385,
+      "mediaIds": {
+        "spotify": "927670",
+        "youtube": "927670",
+        "soundcloud": "927670",
+        "appleMusic": "927670"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chase & Status & Hedex ft. ArrDee",
+          "title": "Liquor & Cigarettes",
+          "remix": "",
+          "trackId": "11801459"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "11801460"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "11801460",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 580,
+      "mediaIds": null
+    },
+    {
+      "pos": "05",
+      "artist": "Chase & Status ft. Popcaan & IRAH",
+      "title": "Censor",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "11801461",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 620,
+      "mediaIds": {
+        "spotify": "822787",
+        "youtube": "822787",
+        "soundcloud": "822787",
+        "appleMusic": "822787"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Chase & Status ft. Popcaan & IRAH",
+      "title": "Censor (VIP)",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "11801462",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 740,
+      "mediaIds": {
+        "youtube": "983866",
+        "soundcloud": "983866"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "11801463",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 785,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Chase & Status ft. Burro Banton",
+      "title": "Delete",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "11801464",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 876,
+      "mediaIds": {
+        "spotify": "454144",
+        "youtube": "454144",
+        "soundcloud": "454144",
+        "appleMusic": "454144"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "UK Apache & Shy FX",
+      "title": "Original Nuttah 25 (Chase & Status 2024 VIP Mix)",
+      "remix": "",
+      "label": "CULT.URE",
+      "trackId": "11801465",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1008,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Chase & Status ft. Takura",
+      "title": "No Problem",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "11801466",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1183,
+      "mediaIds": {
+        "spotify": "43275",
+        "youtube": "43275",
+        "soundcloud": "43275",
+        "appleMusic": "43275"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4646123",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=4BTVwGoiwug"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:56:39.652Z",
+  "scrapeVersion": 2
+}

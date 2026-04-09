@@ -1,0 +1,582 @@
+{
+  "tlId": "1mcw9fv9",
+  "dj": "Kill The Noise",
+  "stage": "EDC Mexico",
+  "date": "2018-02-12",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/1mcw9fv9/kill-the-noise-edc-mexico-mix-2018-02-12.html",
+  "djs": [
+    {
+      "name": "Kill The Noise",
+      "slug": "killthenoise"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Seven Lions & Kill The Noise",
+      "title": "Cold Hearted",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "3144047",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "385508",
+        "youtube": "385508",
+        "soundcloud": "385508",
+        "appleMusic": "385508"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "LAXX ft. GG Magree",
+      "title": "Heart",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "3144048",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 189,
+      "mediaIds": {
+        "spotify": "397848",
+        "youtube": "397848",
+        "soundcloud": "397848",
+        "appleMusic": "397848"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Dabow",
+      "title": "Olè",
+      "remix": "",
+      "label": "24-8",
+      "trackId": "3144049",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 260,
+      "mediaIds": {
+        "spotify": "355766",
+        "youtube": "355766",
+        "soundcloud": "355766",
+        "appleMusic": "355766"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dabow",
+          "title": "Olè",
+          "remix": "",
+          "trackId": "3144049"
+        },
+        {
+          "artist": "Topi",
+          "title": "Major Malfunction",
+          "remix": "",
+          "trackId": "3144050"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Topi",
+      "title": "Major Malfunction",
+      "remix": "",
+      "label": "SHRED COLLECTIVE",
+      "trackId": "3144050",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 307,
+      "mediaIds": {
+        "spotify": "414483",
+        "soundcloud": "414483",
+        "appleMusic": "414483"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Kai Wachi",
+      "title": "Kismet",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "3144051",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 360,
+      "mediaIds": {
+        "spotify": "392310",
+        "youtube": "392310",
+        "soundcloud": "392310",
+        "appleMusic": "392310"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "AFK & Carbin ft. Cody Ray",
+      "title": "Boss",
+      "remix": "",
+      "label": "BITE THIS!",
+      "trackId": "3144052",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 407,
+      "mediaIds": {
+        "spotify": "385465",
+        "youtube": "385465",
+        "soundcloud": "385465",
+        "appleMusic": "385465"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Doctor P",
+      "title": "Watch Out (Ray Volpe Edit)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "3144053",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 476,
+      "mediaIds": {
+        "youtube": "380957",
+        "soundcloud": "380957"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Boombox Cartel",
+      "title": "Jefe (VIP)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "3144054",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 526,
+      "mediaIds": {
+        "youtube": "379398",
+        "soundcloud": "379398"
+      },
+      "blendGroup": [
+        {
+          "artist": "Boombox Cartel",
+          "title": "Jefe (VIP)",
+          "remix": "",
+          "trackId": "3144054"
+        },
+        {
+          "artist": "Kill The Noise",
+          "title": "FUK UR MGMT (SNAILS Remix)",
+          "remix": "",
+          "trackId": "3144055"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kill The Noise",
+      "title": "FUK UR MGMT (SNAILS Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3144055",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 558,
+      "mediaIds": {
+        "spotify": "302276",
+        "youtube": "302276",
+        "soundcloud": "302276",
+        "appleMusic": "302276"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Kill The Noise & Feed Me",
+      "title": "I Do Coke",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3144056",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 626,
+      "mediaIds": {
+        "spotify": "275205",
+        "youtube": "275205",
+        "soundcloud": "275205",
+        "appleMusic": "275205"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Kill The Noise & Feed Me ft. Anjulie",
+      "title": "Crazy Maybe",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "3144057",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 760,
+      "mediaIds": {
+        "spotify": "360599",
+        "youtube": "360599",
+        "soundcloud": "360599",
+        "appleMusic": "360599"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Seven Lions & ILLENIUM & Said The Sky ft. HALIENE",
+      "title": "Rush Over Me",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "3144058",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 829,
+      "mediaIds": {
+        "spotify": "330054",
+        "youtube": "330054",
+        "soundcloud": "330054",
+        "appleMusic": "330054"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Xilent",
+      "title": "The X",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "3144059",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 940,
+      "mediaIds": {
+        "spotify": "393456",
+        "youtube": "393456",
+        "soundcloud": "393456",
+        "appleMusic": "393456"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Skrillex & MUST DIE!",
+      "title": "VIP's (MUST DIE! Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3144060",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 993,
+      "mediaIds": {
+        "youtube": "352057",
+        "soundcloud": "352057"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Lil Uzi Vert",
+      "title": "XO TOUR Llif3(Prod. by TM88)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "3144061",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1090,
+      "mediaIds": {
+        "spotify": "357886",
+        "youtube": "357886",
+        "soundcloud": "357886",
+        "appleMusic": "357886"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lil Uzi Vert",
+          "title": "XO TOUR Llif3(Prod. by TM88)",
+          "remix": "",
+          "trackId": "3144061"
+        },
+        {
+          "artist": "Zomboy & Eptic",
+          "title": "Bop It",
+          "remix": "",
+          "trackId": "3144062"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zomboy & Eptic",
+      "title": "Bop It",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "3144062",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 1134,
+      "mediaIds": {
+        "spotify": "392141",
+        "youtube": "392141",
+        "soundcloud": "392141",
+        "appleMusic": "392141"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Virtual Riot",
+      "title": "Pray For Riddim",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "3144063",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1180,
+      "mediaIds": {
+        "spotify": "397211",
+        "youtube": "397211",
+        "soundcloud": "397211",
+        "appleMusic": "397211"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "EPROM & G Jones",
+      "title": "Hysteria",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "3144064",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1207,
+      "mediaIds": {
+        "spotify": "383786",
+        "youtube": "383786",
+        "soundcloud": "383786",
+        "appleMusic": "383786"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Getter",
+      "title": "Rip N Dip (Kill The Noise Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3144065",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1368,
+      "mediaIds": {
+        "spotify": "319257",
+        "youtube": "319257",
+        "soundcloud": "319257",
+        "appleMusic": "319257"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Kill The Noise",
+      "title": "Kill The Noise (Part 1)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3144066",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1485,
+      "mediaIds": {
+        "spotify": "45099",
+        "youtube": "45099",
+        "soundcloud": "45099",
+        "appleMusic": "45099"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kill The Noise",
+          "title": "Kill The Noise (Part 1)",
+          "remix": "",
+          "trackId": "3144066"
+        },
+        {
+          "artist": "Zomboy",
+          "title": "Like A Bitch (Kill The Noise VIP)",
+          "remix": "",
+          "trackId": "3161407"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zomboy",
+      "title": "Like A Bitch (Kill The Noise VIP)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "3161407",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1504,
+      "mediaIds": {
+        "youtube": "414568",
+        "soundcloud": "414568"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "MineSweepa",
+      "title": "Bad Vibes",
+      "remix": "",
+      "label": "SHRED COLLECTIVE",
+      "trackId": "3161408",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1540,
+      "mediaIds": {
+        "spotify": "362949",
+        "youtube": "362949",
+        "soundcloud": "362949",
+        "appleMusic": "362949"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Gammer",
+      "title": "The Drop (Wooli Flip)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "3144067",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1590,
+      "mediaIds": {
+        "spotify": "418473",
+        "youtube": "418473",
+        "soundcloud": "418473",
+        "appleMusic": "418473"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gammer",
+          "title": "The Drop (Wooli Flip)",
+          "remix": "",
+          "trackId": "3144067"
+        },
+        {
+          "artist": "Gammer",
+          "title": "The Drop",
+          "remix": "",
+          "trackId": "3144068"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gammer",
+      "title": "The Drop",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "3144068",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 1673,
+      "mediaIds": {
+        "spotify": "382735",
+        "youtube": "382735",
+        "soundcloud": "382735",
+        "appleMusic": "382735"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "DJ Snake",
+      "title": "Propaganda (Kill The Noise Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "3144069",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1699,
+      "mediaIds": {
+        "spotify": "297764",
+        "youtube": "297764",
+        "soundcloud": "297764",
+        "appleMusic": "297764"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "IVORY",
+      "title": "Break It Down (Tisoki Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3161409",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1760,
+      "mediaIds": {
+        "youtube": "390563",
+        "soundcloud": "390563"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Big Gigantic ft. Jennifer Hartswick",
+      "title": "Got The Love (Kill The Zo Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "3144070",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1790,
+      "mediaIds": {
+        "spotify": "379334",
+        "youtube": "379334",
+        "soundcloud": "379334",
+        "appleMusic": "379334"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Kill The Noise ft. Stalking Gia",
+      "title": "Without A Trace (REZZ Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3144071",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1955,
+      "mediaIds": {
+        "spotify": "315900",
+        "soundcloud": "315900",
+        "appleMusic": "315900"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "726523",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/insomniacevents"
+    }
+  ],
+  "scrapedAt": "2026-04-08T18:38:48.242Z",
+  "scrapeVersion": 2
+}

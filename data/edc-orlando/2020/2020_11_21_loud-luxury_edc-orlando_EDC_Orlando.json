@@ -1,0 +1,628 @@
+{
+  "tlId": "1s4brgck",
+  "dj": "Loud Luxury",
+  "stage": "EDC Orlando",
+  "date": "2020-11-21",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/1s4brgck/loud-luxury-edc-orlando-virtual-rave-a-thon-the-exchange-los-angeles-united-states-2020-11-21.html",
+  "djs": [
+    {
+      "name": "Loud Luxury",
+      "slug": "loudluxury"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Loud Luxury & Frank Walker ft. Stephen Puth",
+      "title": "Like Gold",
+      "remix": "(The Wolf Of Wall Street. Humming Intro)",
+      "label": "ARMADA/PALM TREE",
+      "trackId": "5584704",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 52,
+      "mediaIds": {
+        "spotify": "626204",
+        "youtube": "626204",
+        "soundcloud": "626204",
+        "appleMusic": "626204"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Tiësto ft. James Bell",
+      "title": "The Business",
+      "remix": "",
+      "label": "ATLANTIC/MUSICAL FREEDOM",
+      "trackId": "5584705",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 239,
+      "mediaIds": {
+        "spotify": "615306",
+        "youtube": "615306",
+        "soundcloud": "615306",
+        "appleMusic": "615306"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto ft. James Bell",
+          "title": "The Business",
+          "remix": "",
+          "trackId": "5584705"
+        },
+        {
+          "artist": "Tommy Jayden",
+          "title": "Like This (RetroVision Edit)",
+          "remix": "",
+          "trackId": "5602819"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tommy Jayden",
+      "title": "Like This (RetroVision Edit)",
+      "remix": "",
+      "label": "TIME MACHINE (HEXAGON)",
+      "trackId": "5602819",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 282,
+      "mediaIds": {
+        "spotify": "579773",
+        "youtube": "579773",
+        "soundcloud": "579773",
+        "appleMusic": "579773"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Loud Luxury & Bryce Vine",
+      "title": "I'm Not Alright (Zack Martino Remix)",
+      "remix": "",
+      "label": "ARMADA/SIRE",
+      "trackId": "5584706",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 391,
+      "mediaIds": {
+        "spotify": "532080",
+        "youtube": "532080",
+        "soundcloud": "532080",
+        "appleMusic": "532080"
+      },
+      "blendGroup": [
+        {
+          "artist": "Loud Luxury & Bryce Vine",
+          "title": "I'm Not Alright (Zack Martino Remix)",
+          "remix": "",
+          "trackId": "5584706"
+        },
+        {
+          "artist": "David Guetta & Brooks & Loote",
+          "title": "Better When You're Gone",
+          "remix": "",
+          "trackId": "13714360"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta & Brooks & Loote",
+      "title": "Better When You're Gone",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "13714360",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 391,
+      "mediaIds": {
+        "spotify": "430025",
+        "youtube": "430025",
+        "soundcloud": "430025",
+        "appleMusic": "430025"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Guetta & Brooks & Loote",
+          "title": "Better When You're Gone",
+          "remix": "",
+          "trackId": "13714360"
+        },
+        {
+          "artist": "DJ KUBA & NEITAN",
+          "title": "Feel The Vibe",
+          "remix": "",
+          "trackId": "5584707"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ KUBA & NEITAN",
+      "title": "Feel The Vibe",
+      "remix": "",
+      "label": "FUTURE HOUSE MUSIC",
+      "trackId": "5584707",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 466,
+      "mediaIds": {
+        "spotify": "559451",
+        "youtube": "559451",
+        "soundcloud": "559451",
+        "appleMusic": "559451"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Juice WRLD & Marshmello",
+      "title": "Come & Go",
+      "remix": "",
+      "label": "JOYTIME COLLECTIVE/INTERSCOPE",
+      "trackId": "5584708",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 601,
+      "mediaIds": {
+        "spotify": "599570",
+        "youtube": "599570",
+        "soundcloud": "599570",
+        "appleMusic": "599570"
+      },
+      "blendGroup": [
+        {
+          "artist": "Juice WRLD & Marshmello",
+          "title": "Come & Go",
+          "remix": "",
+          "trackId": "5584708"
+        },
+        {
+          "artist": "URBØI",
+          "title": "Soda Pop",
+          "remix": "",
+          "trackId": "5787075"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "URBØI",
+      "title": "Soda Pop",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "5787075",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 646,
+      "mediaIds": {
+        "spotify": "551505",
+        "youtube": "551505",
+        "soundcloud": "551505",
+        "appleMusic": "551505"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Joel Corry & Timmy Trumpet vs. BROHUG",
+      "title": "Head & Heart vs. Dust (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "5584709",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 675,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Loud Luxury & CID",
+      "title": "Nights Like This",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5584711",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 840,
+      "mediaIds": {
+        "spotify": "558066",
+        "youtube": "558066",
+        "soundcloud": "558066",
+        "appleMusic": "558066"
+      },
+      "blendGroup": [
+        {
+          "artist": "Loud Luxury & CID",
+          "title": "Nights Like This",
+          "remix": "",
+          "trackId": "5584711"
+        },
+        {
+          "artist": "Loud Luxury & CID",
+          "title": "Nights Like This (PBH & JACK Remix)",
+          "remix": "",
+          "trackId": "5584712"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Loud Luxury & CID",
+      "title": "Nights Like This (PBH & JACK Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5584712",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "592770",
+        "youtube": "592770",
+        "soundcloud": "592770",
+        "appleMusic": "592770"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "M83 vs. Loud Luxury",
+      "title": "Midnight City vs. Cold Feet (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "5584713",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1036,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "CID ft. Charlie Vox & Cinélu",
+      "title": "Actin' Fake",
+      "remix": "",
+      "label": "NIGHT SERVICE ONLY",
+      "trackId": "5584714",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1132,
+      "mediaIds": {
+        "spotify": "628676",
+        "youtube": "628676",
+        "soundcloud": "628676",
+        "appleMusic": "628676"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Loud Luxury x Anders",
+      "title": "Love No More (Fedde Le Grand Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5584715",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1260,
+      "mediaIds": {
+        "spotify": "478374",
+        "youtube": "478374",
+        "soundcloud": "478374",
+        "appleMusic": "478374"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Loud Luxury vs. MGMT vs. TUJAMO & Steff Da Campo",
+      "title": "Aftertaste vs. Kids vs. Body Language (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "5584716",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1410,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Kanye West vs. BVRNOUT",
+      "title": "All Of The Lights vs. Rock The Party (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "5584717",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1515,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Surf Mesa vs. Don Diablo",
+      "title": "ily (Kastra Anthem Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "5584718",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1650,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "BYOR vs. Dua Lipa",
+      "title": "Don't Start The Disco (Morse Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "5584719",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Tove Lo",
+      "title": "Habits (Stay High) (The Chainsmokers Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "5584729",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1832,
+      "mediaIds": {
+        "spotify": "172364",
+        "youtube": "172364",
+        "soundcloud": "172364",
+        "appleMusic": "172364"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tove Lo",
+          "title": "Habits (Stay High) (The Chainsmokers Remix)",
+          "remix": "",
+          "trackId": "5584729"
+        },
+        {
+          "artist": "DJ KUBA & NEITAN & Adam De Great x DJ KUBA",
+          "title": "Temptation",
+          "remix": "",
+          "trackId": "5584732"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ KUBA & NEITAN & Adam De Great x DJ KUBA",
+      "title": "Temptation",
+      "remix": "",
+      "label": "FUTURE HOUSE MUSIC",
+      "trackId": "5584732",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "611355",
+        "youtube": "611355",
+        "soundcloud": "611355",
+        "appleMusic": "611355"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Landis vs. Drake & Lil Durk",
+      "title": "It's A Bop vs. Laugh Now Cry Later (Loud Luxury Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "5584733",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1909,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Loud Luxury ft. Brando",
+      "title": "Gummy (Cheyenne Giles Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5584735",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2058,
+      "mediaIds": {
+        "spotify": "592769",
+        "youtube": "592769",
+        "appleMusic": "592769"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Huey",
+      "title": "Pop, Lock And Drop It (Cheyenne Giles 2018 Remix)",
+      "remix": "",
+      "label": "JIVE",
+      "trackId": "5584776",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2202,
+      "mediaIds": {
+        "soundcloud": "462978"
+      },
+      "blendGroup": [
+        {
+          "artist": "Huey",
+          "title": "Pop, Lock And Drop It (Cheyenne Giles 2018 Remix)",
+          "remix": "",
+          "trackId": "5584776"
+        },
+        {
+          "artist": "Cheyenne Giles & ZOOTAH ft. Mary Grace",
+          "title": "Non Stop",
+          "remix": "",
+          "trackId": "5584777"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cheyenne Giles & ZOOTAH ft. Mary Grace",
+      "title": "Non Stop",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "5584777",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "563098",
+        "youtube": "563098",
+        "soundcloud": "563098",
+        "appleMusic": "563098"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cheyenne Giles & ZOOTAH ft. Mary Grace",
+          "title": "Non Stop",
+          "remix": "",
+          "trackId": "5584777"
+        },
+        {
+          "artist": "Jack Harlow",
+          "title": "Whats Poppin (James Hype VIP)",
+          "remix": "",
+          "trackId": "5584778"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jack Harlow",
+      "title": "Whats Poppin (James Hype VIP)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "5584778",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "610286",
+        "soundcloud": "610286"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Topic & AS7 vs. Deadmau5 vs. Chunky Dip vs. Jack Diamond",
+      "title": "Breaking Me (Rivas (US) Strobe Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "5584779",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2328,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Topic & AS7 vs. Deadmau5 vs. Chunky Dip vs. Jack Diamond",
+          "title": "Breaking Me (Rivas (US) Strobe Edit)",
+          "remix": "",
+          "trackId": "5584779"
+        },
+        {
+          "artist": "Topic ft. A7S",
+          "title": "Breaking Me (RetroVision Remix)",
+          "remix": "",
+          "trackId": "5584782"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Topic ft. A7S",
+      "title": "Breaking Me (RetroVision Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "5584782",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "563727",
+        "youtube": "563727",
+        "soundcloud": "563727",
+        "appleMusic": "563727"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Loud Luxury ft. Brando",
+      "title": "Body",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5584783",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2430,
+      "mediaIds": {
+        "spotify": "386130",
+        "youtube": "386130",
+        "soundcloud": "386130",
+        "appleMusic": "386130"
+      },
+      "blendGroup": [
+        {
+          "artist": "Loud Luxury ft. Brando",
+          "title": "Body",
+          "remix": "",
+          "trackId": "5584783"
+        },
+        {
+          "artist": "Loud Luxury ft. Brando",
+          "title": "Body (Dzeko Remix)",
+          "remix": "",
+          "trackId": "5584784"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Loud Luxury ft. Brando",
+      "title": "Body (Dzeko Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5584784",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 2516,
+      "mediaIds": {
+        "spotify": "434115",
+        "youtube": "434115",
+        "soundcloud": "434115",
+        "appleMusic": "434115"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1974946",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=51UCpkQlhu8"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:54:09.221Z",
+  "scrapeVersion": 2
+}

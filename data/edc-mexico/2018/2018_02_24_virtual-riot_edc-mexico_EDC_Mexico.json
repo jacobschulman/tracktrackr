@@ -1,0 +1,606 @@
+{
+  "tlId": "229twmck",
+  "dj": "Virtual Riot",
+  "stage": "EDC Mexico",
+  "date": "2018-02-24",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/229twmck/virtual-riot-wasteland-edc-mexico-2018-02-24.html",
+  "djs": [
+    {
+      "name": "Virtual Riot",
+      "slug": "virtualriot"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Virtual Riot",
+      "title": "One Two",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "3907404",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "448430",
+        "youtube": "448430",
+        "soundcloud": "448430",
+        "appleMusic": "448430"
+      },
+      "blendGroup": [
+        {
+          "artist": "Virtual Riot",
+          "title": "One Two",
+          "remix": "",
+          "trackId": "3907404"
+        },
+        {
+          "artist": "Virtual Riot",
+          "title": "Pray For Riddim",
+          "remix": "",
+          "trackId": "3907405"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Virtual Riot",
+      "title": "Pray For Riddim",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "3907405",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "397211",
+        "youtube": "397211",
+        "soundcloud": "397211",
+        "appleMusic": "397211"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "FuntCase & Virtual Riot",
+      "title": "Borg (Downlink Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "3907406",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "321502",
+        "youtube": "321502",
+        "soundcloud": "321502",
+        "appleMusic": "321502"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Virtual Riot ft. Yosie",
+      "title": "Everyday (VIP)",
+      "remix": "",
+      "label": "SPIRITED",
+      "trackId": "3907407",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "386299",
+        "youtube": "386299",
+        "soundcloud": "386299",
+        "appleMusic": "386299"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Diplo ft. LIZ",
+      "title": "Set Me Free (Valentino Khan Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "3907408",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "285321",
+        "soundcloud": "285321"
+      },
+      "blendGroup": [
+        {
+          "artist": "Diplo ft. LIZ",
+          "title": "Set Me Free (Valentino Khan Remix)",
+          "remix": "",
+          "trackId": "3907408"
+        },
+        {
+          "artist": "L D R U ft. Savoi",
+          "title": "Next To You (BARELY ALIVE & Virtual Riot Remix)",
+          "remix": "",
+          "trackId": "3907409"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "L D R U ft. Savoi",
+      "title": "Next To You (BARELY ALIVE & Virtual Riot Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "3907409",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "326753",
+        "youtube": "326753",
+        "soundcloud": "326753",
+        "appleMusic": "326753"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "JOYRYDE ft. Freddie Gibbs",
+      "title": "Damn",
+      "remix": "",
+      "label": "HARD RECS (INSOMNIAC)",
+      "trackId": "3907410",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "338660",
+        "youtube": "338660",
+        "soundcloud": "338660",
+        "appleMusic": "338660"
+      },
+      "blendGroup": [
+        {
+          "artist": "JOYRYDE ft. Freddie Gibbs",
+          "title": "Damn",
+          "remix": "",
+          "trackId": "3907410"
+        },
+        {
+          "artist": "Chibs",
+          "title": "Sharingan",
+          "remix": "",
+          "trackId": "3907411"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chibs",
+      "title": "Sharingan",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3907411",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "348305",
+        "youtube": "348305",
+        "soundcloud": "348305",
+        "appleMusic": "348305"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chibs",
+          "title": "Sharingan",
+          "remix": "",
+          "trackId": "3907411"
+        },
+        {
+          "artist": "IVORY ft. Virus Syndicate",
+          "title": "93 Style",
+          "remix": "",
+          "trackId": "3907412"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "IVORY ft. Virus Syndicate",
+      "title": "93 Style",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "3907412",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "363187",
+        "youtube": "363187",
+        "soundcloud": "363187",
+        "appleMusic": "363187"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Getter",
+      "title": "Inhalant Abuse",
+      "remix": "",
+      "label": "SHRED COLLECTIVE",
+      "trackId": "3907413",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "349107",
+        "youtube": "349107",
+        "soundcloud": "349107",
+        "appleMusic": "349107"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Virtual Riot",
+      "title": "Shindeiru",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3907414",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "403385",
+        "soundcloud": "403385"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Eliminate",
+      "title": "No Sleep",
+      "remix": "",
+      "label": "TWONK",
+      "trackId": "3907415",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "382114",
+        "youtube": "382114",
+        "soundcloud": "382114",
+        "appleMusic": "382114"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "BARELY ALIVE",
+      "title": "Odyssey",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "3907416",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "435344",
+        "youtube": "435344",
+        "soundcloud": "435344",
+        "appleMusic": "435344"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Excision & Space Laces",
+      "title": "Rumble",
+      "remix": "",
+      "label": "NEVER SAY DIE/EXCISION",
+      "trackId": "3907417",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "398325",
+        "youtube": "398325",
+        "soundcloud": "398325",
+        "appleMusic": "398325"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Excision & Space Laces",
+      "title": "1 On 1",
+      "remix": "",
+      "label": "EXCISION",
+      "trackId": "3907418",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "429255",
+        "youtube": "429255",
+        "soundcloud": "429255",
+        "appleMusic": "429255"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Zomboy ft. Vulgatron",
+      "title": "Get With The Program (Eptic & Trampa Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "3907419",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "344112",
+        "youtube": "344112",
+        "soundcloud": "344112",
+        "appleMusic": "344112"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "PhaseOne & Oolacile",
+      "title": "Revive",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "3907420",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "365679",
+        "youtube": "365679",
+        "soundcloud": "365679",
+        "appleMusic": "365679"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Flux Pavilion & NGHTMRE ft. Jamie Lewis",
+      "title": "Feel Your Love",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "3907421",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300763",
+        "youtube": "300763",
+        "soundcloud": "300763",
+        "appleMusic": "300763"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flux Pavilion & NGHTMRE ft. Jamie Lewis",
+          "title": "Feel Your Love",
+          "remix": "",
+          "trackId": "3907421"
+        },
+        {
+          "artist": "Excision & Space Laces",
+          "title": "Destroid 7. Bounce",
+          "remix": "(Acappella)",
+          "trackId": "3907422"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Space Laces",
+      "title": "Destroid 7. Bounce",
+      "remix": "(Acappella)",
+      "label": "DESTROID",
+      "trackId": "3907422",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "132469",
+        "youtube": "132469",
+        "soundcloud": "132469",
+        "appleMusic": "132469"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "SNAILS & Space Laces ft. Sam King",
+      "title": "Break It Down",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3907423",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "317809",
+        "youtube": "317809",
+        "soundcloud": "317809",
+        "appleMusic": "317809"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Excision & Space Laces",
+      "title": "Throwin' Elbows (Getter & Virtual Riot Remix)",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "3907424",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "377122",
+        "youtube": "377122",
+        "soundcloud": "377122",
+        "appleMusic": "377122"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Datsik & Virtual Riot",
+      "title": "Nasty",
+      "remix": "",
+      "label": "FIREPOWER",
+      "trackId": "3907425",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "338808",
+        "youtube": "338808",
+        "soundcloud": "338808",
+        "appleMusic": "338808"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Boombox Cartel",
+      "title": "Jefe (VIP)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "3907426",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "379398",
+        "soundcloud": "379398"
+      },
+      "blendGroup": [
+        {
+          "artist": "Boombox Cartel",
+          "title": "Jefe (VIP)",
+          "remix": "",
+          "trackId": "3907426"
+        },
+        {
+          "artist": "Kill The Noise",
+          "title": "FUK UR MGMT (SNAILS Remix)",
+          "remix": "",
+          "trackId": "3907427"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kill The Noise",
+      "title": "FUK UR MGMT (SNAILS Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3907427",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "302276",
+        "youtube": "302276",
+        "soundcloud": "302276",
+        "appleMusic": "302276"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Excision",
+      "title": "Codename X (Virtual Riot Remix)",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "3907428",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "293776",
+        "youtube": "293776",
+        "soundcloud": "293776",
+        "appleMusic": "293776"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Virtual Riot",
+      "title": "Degenerates",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "3907429",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "383458",
+        "youtube": "383458",
+        "soundcloud": "383458",
+        "appleMusic": "383458"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "GTA ft. Sam Bruno",
+      "title": "Red Lips (Skrillex Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3907430",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "245755",
+        "youtube": "245755",
+        "soundcloud": "245755",
+        "appleMusic": "245755"
+      },
+      "blendGroup": [
+        {
+          "artist": "GTA ft. Sam Bruno",
+          "title": "Red Lips (Skrillex Remix)",
+          "remix": "",
+          "trackId": "3907430"
+        },
+        {
+          "artist": "Stabby & Tisoki",
+          "title": "Samurai",
+          "remix": "",
+          "trackId": "3907431"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Stabby & Tisoki",
+      "title": "Samurai",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "3907431",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "341717",
+        "youtube": "341717",
+        "soundcloud": "341717",
+        "appleMusic": "341717"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T18:35:41.757Z",
+  "scrapeVersion": 2
+}

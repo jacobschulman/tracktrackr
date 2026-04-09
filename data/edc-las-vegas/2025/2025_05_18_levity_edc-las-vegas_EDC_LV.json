@@ -1,0 +1,830 @@
+{
+  "tlId": "13xpkzr1",
+  "dj": "Levity",
+  "stage": "EDC Las Vegas",
+  "date": "2025-05-18",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/13xpkzr1/levity-basspod-edc-las-vegas-united-states-2025-05-18.html",
+  "djs": [
+    {
+      "name": "Levity",
+      "slug": "levity"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Levity",
+      "title": "Can't Get Enough",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "12167533",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1134331",
+        "youtube": "1134331",
+        "soundcloud": "1134331",
+        "appleMusic": "1134331"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ALLEYCVT x Levity",
+      "title": "One For You",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "12167534",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1017647",
+        "youtube": "1017647",
+        "soundcloud": "1017647",
+        "appleMusic": "1017647"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12167535",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Space Laces",
+      "title": "Dominate (VENG Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "12167536",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "1070861"
+      },
+      "blendGroup": [
+        {
+          "artist": "Space Laces",
+          "title": "Dominate (VENG Flip)",
+          "remix": "",
+          "trackId": "12167536"
+        },
+        {
+          "artist": "MPH",
+          "title": "Funk Master",
+          "remix": "",
+          "trackId": "12167537"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MPH",
+      "title": "Funk Master",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "12167537",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "974647",
+        "youtube": "974647",
+        "soundcloud": "974647",
+        "appleMusic": "974647"
+      },
+      "blendGroup": [
+        {
+          "artist": "MPH",
+          "title": "Funk Master",
+          "remix": "",
+          "trackId": "12167537"
+        },
+        {
+          "artist": "Starjunk 95",
+          "title": "Beat Keep Rockin'",
+          "remix": "",
+          "trackId": "12167538"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Starjunk 95",
+      "title": "Beat Keep Rockin'",
+      "remix": "",
+      "label": "SMILE BOMB",
+      "trackId": "12167538",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1103157",
+        "youtube": "1103157",
+        "soundcloud": "1103157",
+        "appleMusic": "1103157"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Rick Ross",
+      "title": "Hustlin' (Bawdy Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "12167539",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 301,
+      "mediaIds": {
+        "youtube": "12167539"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Skrillex & Hawaii Slim",
+      "title": "SPITFIRE",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "12167541",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1015407",
+        "youtube": "1015407",
+        "appleMusic": "1015407"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "GRiZ",
+      "title": "Laser Fire",
+      "remix": "",
+      "label": "ALL GOOD",
+      "trackId": "12167542",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "854157",
+        "youtube": "854157",
+        "soundcloud": "854157",
+        "appleMusic": "854157"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Galantis",
+      "title": "Runaway (U & I) (Levity Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "12167543",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Wiz Khalifa",
+      "title": "Black And Yellow (Levity & Crankdat Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "12167544",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "1147189"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Joy Orbison vs. Doechii",
+      "title": "Flight FM vs. Denial Is A River (Levity Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "12167546",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 699,
+      "mediaIds": {
+        "soundcloud": "12167546"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Untitld x EAZYBAKED",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12167547",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 810,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Levity",
+      "title": "Front To Back",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "12167548",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "981293",
+        "youtube": "981293",
+        "soundcloud": "981293",
+        "appleMusic": "981293"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "GRiZ",
+      "title": "2-step Nassau",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12167549",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 923,
+      "mediaIds": {
+        "spotify": "1082378",
+        "youtube": "1082378",
+        "soundcloud": "1082378",
+        "appleMusic": "1082378"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Cloonee & InntRaw & Young M.A",
+      "title": "Stephanie",
+      "remix": "",
+      "label": "HELLBENT",
+      "trackId": "12167550",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1055165",
+        "youtube": "1055165",
+        "soundcloud": "1055165",
+        "appleMusic": "1055165"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Subtronics & HOL!",
+      "title": "MIND PLUCK",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "12167551",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "892773",
+        "youtube": "892773",
+        "soundcloud": "892773",
+        "appleMusic": "892773"
+      },
+      "blendGroup": [
+        {
+          "artist": "Subtronics & HOL!",
+          "title": "MIND PLUCK",
+          "remix": "",
+          "trackId": "12167551"
+        },
+        {
+          "artist": "Britney Spears",
+          "title": "Toxic (Levity Remix)",
+          "remix": "",
+          "trackId": "12167552"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Britney Spears",
+      "title": "Toxic (Levity Remix)",
+      "remix": "",
+      "label": "JIVE",
+      "trackId": "12167552",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1032894",
+        "soundcloud": "1032894"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Levity",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12167553",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1127,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Wiley ft. God's Gift",
+      "title": "And Again",
+      "remix": "",
+      "label": "BIG DADA",
+      "trackId": "12167554",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "174785",
+        "youtube": "174785",
+        "soundcloud": "174785",
+        "appleMusic": "174785"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wiley ft. God's Gift",
+          "title": "And Again",
+          "remix": "",
+          "trackId": "12167554"
+        },
+        {
+          "artist": "Levity ft. Dem Jointz",
+          "title": "Flip It",
+          "remix": "(Acappella)",
+          "trackId": "12167555"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Levity ft. Dem Jointz",
+      "title": "Flip It",
+      "remix": "(Acappella)",
+      "label": "DEADBEATS",
+      "trackId": "12167555",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "936651",
+        "youtube": "936651",
+        "soundcloud": "936651",
+        "appleMusic": "936651"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "PEEKABOO & G-REX",
+      "title": "Babatunde (um.. Remix)",
+      "remix": "",
+      "label": "WAKAAN",
+      "trackId": "12167556",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "713830",
+        "youtube": "713830",
+        "soundcloud": "713830",
+        "appleMusic": "713830"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Levity ft. Dem Jointz",
+      "title": "Flip It (Richard Finger Flip)",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "12167557",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12167558",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Levity",
+      "title": "Jaded",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "12167559",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1037910",
+        "youtube": "1037910",
+        "soundcloud": "1037910",
+        "appleMusic": "1037910"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12167560",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Skrillex & Damian Marley",
+      "title": "Make It Bun Dem (MONXX Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12167561",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1630,
+      "mediaIds": {
+        "youtube": "417008",
+        "soundcloud": "417008"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Neil Diamond",
+      "title": "Sweet Caroline (Levity Remix)",
+      "remix": "",
+      "label": "GEFFEN (UMG)",
+      "trackId": "12167562",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1098972"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Levity",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12167563",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Levity ft. ProbCause",
+      "title": "Chill",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "12167564",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1037900",
+        "youtube": "1037900",
+        "soundcloud": "1037900",
+        "appleMusic": "1037900"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "GRiZ",
+      "title": "Tiger Kingdom Space Camp",
+      "remix": "",
+      "label": "GRIZ TWO",
+      "trackId": "12167565",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "565109",
+        "youtube": "565109",
+        "soundcloud": "565109",
+        "appleMusic": "565109"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Mariah Carey",
+      "title": "Obsessed (Levity & Tape B Flip)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12167566",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1086491",
+        "soundcloud": "1086491"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Mac Miller",
+      "title": "Best Day Ever (Levity Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12167567",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1050944",
+        "soundcloud": "1050944"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12167568",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "M.I.A.",
+      "title": "Paper Planes (Levity Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12167569",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "984253",
+        "soundcloud": "984253"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Levity",
+      "title": "Ignition",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "12167570",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1037901",
+        "youtube": "1037901",
+        "soundcloud": "1037901",
+        "appleMusic": "1037901"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Snoop Dogg ft. Pharrell",
+      "title": "Drop It Like It's Hot",
+      "remix": "",
+      "label": "DOGGYSTYLE/GEFFEN",
+      "trackId": "12167571",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69016",
+        "youtube": "69016",
+        "soundcloud": "69016",
+        "appleMusic": "69016"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Levity",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12167572",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Levity",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12167573",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Eurythmics",
+      "title": "Sweet Dreams (Are Made of This) (Levity & Cudos Flip)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12167574",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "appleMusic": "1086492"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Chance The Rapper",
+      "title": "Cocoa Butter Kisses (Levity Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12167575",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1073770",
+        "soundcloud": "1073770"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Tame Impala",
+      "title": "The Less I Know The Better (ALLEYCVT x Levity Flip)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12167576",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1036688",
+        "soundcloud": "1036688"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Levity",
+      "title": "Postman",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "12167577",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1072370",
+        "youtube": "1072370",
+        "soundcloud": "1072370",
+        "appleMusic": "1072370"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Billy Gillies ft. Hannah Boleyn",
+      "title": "DNA (Loving You) (Levity Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "12167578",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1069669",
+        "youtube": "1069669",
+        "soundcloud": "1069669",
+        "appleMusic": "1069669"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "Levity",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12167579",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "MGMT",
+      "title": "Electric Feel (Levity Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12167580",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1100581",
+        "soundcloud": "1100581"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "4805054",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/2099043195"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "4782370",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=Lpp-Ls8K2_8"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "4787496",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=DW57LVqnp6M"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "4782615",
+      "idSource": "40",
+      "url": "https://hearthis.at/12162360/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T02:48:54.446Z",
+  "scrapeVersion": 2
+}

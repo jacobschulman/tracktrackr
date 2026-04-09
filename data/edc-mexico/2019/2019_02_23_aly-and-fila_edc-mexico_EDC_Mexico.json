@@ -1,0 +1,186 @@
+{
+  "tlId": "1szuuh51",
+  "dj": "Aly & Fila",
+  "stage": "EDC Mexico",
+  "date": "2019-02-23",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/1szuuh51/aly-and-fila-kineticfield-edc-mexico-2019-02-23.html",
+  "djs": [
+    {
+      "name": "Aly & Fila",
+      "slug": "alyandfila"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Aly & Fila",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3941885",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Jessica B",
+      "title": "Soul Catcher (UDM Remix)",
+      "remix": "",
+      "label": "DIGITIZED",
+      "trackId": "3941886",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "248648",
+        "appleMusic": "248648"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3941887",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Sean Tyas",
+      "title": "Turbo",
+      "remix": "",
+      "label": "KEARNAGE",
+      "trackId": "3941888",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "318426",
+        "youtube": "318426",
+        "soundcloud": "318426",
+        "appleMusic": "318426"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sean Tyas",
+          "title": "Turbo",
+          "remix": "",
+          "trackId": "3941888"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "3941909"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3941909",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "05",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3941927",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Amir Atabak",
+      "title": "New Feelings (Michele Cecchi Remix)",
+      "remix": "",
+      "label": "SENSUAL BLISS",
+      "trackId": "3941928",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "188512",
+        "appleMusic": "188512"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3941929",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Aly & Fila",
+      "title": "Beyond The Lights",
+      "remix": "",
+      "label": "FSOE",
+      "trackId": "3941935",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "347738",
+        "youtube": "347738",
+        "soundcloud": "347738",
+        "appleMusic": "347738"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Giuseppe Ottaviani",
+      "title": "Panama",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "3941950",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "476834",
+        "youtube": "476834",
+        "soundcloud": "476834",
+        "appleMusic": "476834"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T18:23:52.480Z",
+  "scrapeVersion": 2
+}

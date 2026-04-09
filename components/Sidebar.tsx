@@ -7,8 +7,8 @@ const navItems = [
   { href: '/', icon: '◆', label: 'Home', view: 'overview' },
   { href: '/djs', icon: '◎', label: 'DJs', view: 'djs' },
   { href: '/tracks', icon: '♫', label: 'Tracks', view: 'tracks' },
-  { href: '/year', icon: '◷', label: 'Sets', view: 'year' },
-  { href: '/stages', icon: '⬡', label: 'Stages', view: 'stages' },
+  { href: '/sets', icon: '◷', label: 'Sets', view: 'sets' },
+  { href: '/festivals', icon: '⬡', label: 'Festivals', view: 'festivals' },
 ];
 
 const secondaryItems = [
@@ -19,11 +19,12 @@ const secondaryItems = [
 
 function getActiveView(pathname: string): string {
   if (pathname === '/') return 'overview';
+  if (pathname.startsWith('/festivals')) return 'festivals';
   if (pathname.startsWith('/dj/') || pathname === '/djs') return 'djs';
   if (pathname.startsWith('/track/') || pathname === '/tracks') return 'tracks';
-  if (pathname.startsWith('/set/')) return 'tracks';
-  if (pathname.startsWith('/year')) return 'year';
-  if (pathname.startsWith('/stages')) return 'stages';
+  if (pathname.startsWith('/set/') || pathname.startsWith('/sets')) return 'sets';
+  if (pathname.startsWith('/year')) return 'sets';
+  if (pathname.startsWith('/stages')) return 'festivals';
   if (pathname.startsWith('/versus')) return 'versus';
   if (pathname.startsWith('/journeys')) return 'journeys';
   if (pathname.startsWith('/dna')) return 'dna';
@@ -39,7 +40,7 @@ export function Sidebar() {
   return (
     <nav id="sidebar">
       <Link href="/" className="logo">
-        <span className="logo-icon">▦</span>
+        <span className="logo-icon">🔊</span>
         <span className="logo-text">TrackTrackr</span>
       </Link>
 
@@ -67,12 +68,6 @@ export function Sidebar() {
             <span className="nav-icon">{item.icon}</span> {item.label}
           </Link>
         ))}
-      </div>
-
-      <div className="sidebar-footer">
-        <div className="data-credit">
-          Data from <a href="https://www.1001tracklists.com" target="_blank" rel="noopener">1001Tracklists</a>
-        </div>
       </div>
     </nav>
   );

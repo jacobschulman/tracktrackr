@@ -1,0 +1,508 @@
+{
+  "tlId": "2lb1ug79",
+  "dj": "Jorza",
+  "stage": "EDC Las Vegas",
+  "date": "2022-05-20",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/2lb1ug79/jorza-quantumvalley-edc-las-vegas-united-states-2022-05-20.html",
+  "djs": [
+    {
+      "name": "Jorza",
+      "slug": "jorza"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Jorza & Sherano",
+      "title": "Alive",
+      "remix": "",
+      "label": "INTERPLAY GLOBAL",
+      "trackId": "7815285",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "691167",
+        "youtube": "691167",
+        "soundcloud": "691167",
+        "appleMusic": "691167"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Myon ft. Alissa Feudo",
+      "title": "Omen In The Rain",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "7815286",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 354,
+      "mediaIds": {
+        "soundcloud": "327818"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Jorza",
+      "title": "Rapture",
+      "remix": "",
+      "label": "SCORCHIN' (BLACK HOLE)",
+      "trackId": "7815287",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 695,
+      "mediaIds": {
+        "spotify": "504679",
+        "youtube": "504679",
+        "appleMusic": "504679"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jorza",
+          "title": "Rapture",
+          "remix": "",
+          "trackId": "7815287"
+        },
+        {
+          "artist": "Armin van Buuren ft. Susana",
+          "title": "Shivers (Acappella)",
+          "remix": "",
+          "trackId": "7815822"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Armin van Buuren ft. Susana",
+      "title": "Shivers (Acappella)",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "7815822",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "6625",
+        "youtube": "6625",
+        "soundcloud": "6625",
+        "appleMusic": "6625"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Adrian Alexander & Jorza",
+      "title": "On The Rocks",
+      "remix": "",
+      "label": "ELLIPTICAL SUN",
+      "trackId": "7815288",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 923,
+      "mediaIds": {
+        "spotify": "433554",
+        "youtube": "433554",
+        "soundcloud": "433554",
+        "appleMusic": "433554"
+      },
+      "blendGroup": [
+        {
+          "artist": "Adrian Alexander & Jorza",
+          "title": "On The Rocks",
+          "remix": "",
+          "trackId": "7815288"
+        },
+        {
+          "artist": "Above & Beyond pres. OceanLab",
+          "title": "On A Good Day",
+          "remix": "(Acappella)",
+          "trackId": "7815823"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Above & Beyond pres. OceanLab",
+      "title": "On A Good Day",
+      "remix": "(Acappella)",
+      "label": "ANJUNABEATS",
+      "trackId": "7815823",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "57731",
+        "youtube": "57731",
+        "soundcloud": "57731",
+        "appleMusic": "57731"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Avenia & Jorza",
+      "title": "Fever",
+      "remix": "",
+      "label": "SCORCHIN' (BLACK HOLE)",
+      "trackId": "7815289",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1190,
+      "mediaIds": {
+        "spotify": "644996",
+        "youtube": "644996",
+        "soundcloud": "644996",
+        "appleMusic": "644996"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avenia & Jorza",
+          "title": "Fever",
+          "remix": "",
+          "trackId": "7815289"
+        },
+        {
+          "artist": "Calvin Harris",
+          "title": "Summer (Acappella)",
+          "remix": "",
+          "trackId": "7815824"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris",
+      "title": "Summer (Acappella)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "7815824",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "184047",
+        "youtube": "195939",
+        "soundcloud": "184047",
+        "appleMusic": "184047"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Sodality & Jorza",
+      "title": "Resolve",
+      "remix": "",
+      "label": "SCORCHIN' (BLACK HOLE)",
+      "trackId": "7815290",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1396,
+      "mediaIds": {
+        "spotify": "577517",
+        "youtube": "577517",
+        "soundcloud": "577517",
+        "appleMusic": "577517"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sodality & Jorza",
+          "title": "Resolve",
+          "remix": "",
+          "trackId": "7815290"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Acappella)",
+          "remix": "",
+          "trackId": "7815825"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "7815825",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8354",
+        "youtube": "8354",
+        "soundcloud": "8354",
+        "appleMusic": "8354"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Avenia & Sodality",
+      "title": "Frost",
+      "remix": "",
+      "label": "SCORCHIN' (BLACK HOLE)",
+      "trackId": "7815291",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1618,
+      "mediaIds": {
+        "spotify": "622424",
+        "youtube": "622424",
+        "soundcloud": "622424",
+        "appleMusic": "622424"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avenia & Sodality",
+          "title": "Frost",
+          "remix": "",
+          "trackId": "7815291"
+        },
+        {
+          "artist": "Seven Lions ft. Fiora",
+          "title": "Days To Come",
+          "remix": "(Acappella)",
+          "trackId": "7815826"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions ft. Fiora",
+      "title": "Days To Come",
+      "remix": "(Acappella)",
+      "label": "OWSLA",
+      "trackId": "7815826",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "100397",
+        "youtube": "100397",
+        "soundcloud": "100397",
+        "appleMusic": "100397"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Zac Waters vs. Armin Van Buuren feat. Sam Martin",
+      "title": "Wild Love Remains (Jorza Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "7815292",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1843,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "John Summit ft. Echoes",
+      "title": "Human (Jorza Bootleg Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "7815293",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 2074,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Mark Bester",
+      "title": "Time (Jorza Remix)",
+      "remix": "",
+      "label": "SCORCHIN' (BLACK HOLE)",
+      "trackId": "7815294",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2275,
+      "mediaIds": {
+        "spotify": "766652",
+        "youtube": "766652",
+        "soundcloud": "766652",
+        "appleMusic": "766652"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mark Bester",
+          "title": "Time (Jorza Remix)",
+          "remix": "",
+          "trackId": "7815294"
+        },
+        {
+          "artist": "Morgan Page ft. Lissie",
+          "title": "The Longest Road (Acappella)",
+          "remix": "",
+          "trackId": "7815827"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Morgan Page ft. Lissie",
+      "title": "The Longest Road (Acappella)",
+      "remix": "",
+      "label": "NETTWERK",
+      "trackId": "7815827",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5011",
+        "youtube": "10015",
+        "soundcloud": "10015",
+        "appleMusic": "5011"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Tensteps",
+      "title": "Ecstasy",
+      "remix": "",
+      "label": "INHARMONY (ARMADA)",
+      "trackId": "7815295",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2532,
+      "mediaIds": {
+        "spotify": "557549",
+        "youtube": "557549",
+        "soundcloud": "557549",
+        "appleMusic": "557549"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tensteps",
+          "title": "Ecstasy",
+          "remix": "",
+          "trackId": "7815295"
+        },
+        {
+          "artist": "Calvin Harris ft. Ellie Goulding",
+          "title": "Outside (Acappella)",
+          "remix": "",
+          "trackId": "7815828"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris ft. Ellie Goulding",
+      "title": "Outside (Acappella)",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "7815828",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "220343",
+        "youtube": "220343",
+        "soundcloud": "220343",
+        "appleMusic": "220343"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Jorza & Hit The Bass ft. Kate Miles",
+      "title": "Another Way",
+      "remix": "",
+      "label": "SERENDIPITY MUZIK (BLACK HOLE)",
+      "trackId": "7815296",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2740,
+      "mediaIds": {
+        "spotify": "567334",
+        "youtube": "567334",
+        "soundcloud": "567334",
+        "appleMusic": "567334"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jorza & Hit The Bass ft. Kate Miles",
+          "title": "Another Way",
+          "remix": "",
+          "trackId": "7815296"
+        },
+        {
+          "artist": "Avicii ft. Sandro Cavazza",
+          "title": "Without You (Acappella)",
+          "remix": "",
+          "trackId": "7815829"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii ft. Sandro Cavazza",
+      "title": "Without You (Acappella)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "7815829",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300842",
+        "youtube": "386499",
+        "soundcloud": "300842",
+        "appleMusic": "300842"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Jorza & Sherano",
+      "title": "Visions",
+      "remix": "",
+      "label": "DREAMSTATE",
+      "trackId": "7815297",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2977,
+      "mediaIds": {
+        "spotify": "790719",
+        "soundcloud": "790719",
+        "appleMusic": "790719"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Tritonal, HALIENE, SCHALA & Jorza",
+      "title": "The Space Between x Long Way Home x Long Way Home (Last Heroes Remix) (Jorza Outro Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "7815298",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 3215,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "2850317",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1289051956"
+    },
+    {
+      "platform": "source_2",
+      "idMedia": "3451857",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/jorza-at-edc-las-vegas-2023-quantum-valley-stage-dj-mix/1691767814/us/album/jorza-at-edc-las-vegas-2023-quantum-valley-stage-dj-mix/1691767814?app=music&at=1000lwkw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:04:59.664Z",
+  "scrapeVersion": 2
+}

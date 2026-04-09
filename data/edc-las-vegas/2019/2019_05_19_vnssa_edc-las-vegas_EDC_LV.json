@@ -1,0 +1,368 @@
+{
+  "tlId": "1xp3upgk",
+  "dj": "VNSSA",
+  "stage": "EDC Las Vegas",
+  "date": "2019-05-19",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/1xp3upgk/vnssa-cosmicmeadow-edc-las-vegas-united-states-2019-05-19.html",
+  "djs": [
+    {
+      "name": "VNSSA",
+      "slug": "vnssa"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Steve Darko & VNSSA",
+      "title": "Wavy",
+      "remix": "",
+      "label": "DIRTYBIRD",
+      "trackId": "4130915",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "492062",
+        "youtube": "492062",
+        "soundcloud": "492062",
+        "appleMusic": "492062"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Chris Lake & Chris Lorenzo pres. Anti Up",
+      "title": "Concentrate",
+      "remix": "",
+      "label": "UP THE ANTI",
+      "trackId": "4130916",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "484834",
+        "youtube": "484834",
+        "soundcloud": "484834",
+        "appleMusic": "484834"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Purple Disco Machine",
+      "title": "Body Funk (Dom Dolla Remix)",
+      "remix": "",
+      "label": "CLUB SWEAT",
+      "trackId": "4130917",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "486054",
+        "youtube": "486054",
+        "appleMusic": "486054"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Route 94",
+      "title": "House & Pressure",
+      "remix": "",
+      "label": "HOT CREATIONS",
+      "trackId": "4130919",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "344684",
+        "youtube": "344684",
+        "soundcloud": "344684",
+        "appleMusic": "344684"
+      },
+      "blendGroup": [
+        {
+          "artist": "Route 94",
+          "title": "House & Pressure",
+          "remix": "",
+          "trackId": "4130919"
+        },
+        {
+          "artist": "Adam Beyer & Bart Skils",
+          "title": "Your Mind",
+          "remix": "",
+          "trackId": "4130920"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Adam Beyer & Bart Skils",
+      "title": "Your Mind",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "4130920",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "420891",
+        "youtube": "420891",
+        "soundcloud": "420891",
+        "appleMusic": "420891"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Walker & Royce & VNSSA",
+      "title": "Rave Grave",
+      "remix": "",
+      "label": "HIGHER GROUND (MAD DECENT)",
+      "trackId": "4130921",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "519489",
+        "youtube": "519489",
+        "soundcloud": "519489",
+        "appleMusic": "519489"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "AndMe. & Bastian",
+      "title": "Step Out",
+      "remix": "",
+      "label": "SOLO MUSIC",
+      "trackId": "4130922",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "520359",
+        "appleMusic": "520359"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Javi Viana",
+      "title": "America",
+      "remix": "",
+      "label": "CENTRAL DOGMA RECORDS",
+      "trackId": "4130923",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "531311",
+        "youtube": "531311",
+        "appleMusic": "531311"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Hood Rich",
+      "title": "Magic Carpet (Maximono Remix)",
+      "remix": "",
+      "label": "MEDIUM RARE",
+      "trackId": "4130924",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "494209",
+        "youtube": "494209",
+        "soundcloud": "494209",
+        "appleMusic": "494209"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Walker & Royce ft. VNSSA",
+      "title": "Word",
+      "remix": "",
+      "label": "HOTBOI",
+      "trackId": "4130925",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "469229",
+        "youtube": "469229",
+        "soundcloud": "469229",
+        "appleMusic": "469229"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Gene Farris & Sonny Fodera",
+      "title": "We Work It (GAWP Remix)",
+      "remix": "",
+      "label": "FARRIS WHEEL",
+      "trackId": "4130926",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "458798",
+        "soundcloud": "458798",
+        "appleMusic": "458798"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gene Farris & Sonny Fodera",
+          "title": "We Work It (GAWP Remix)",
+          "remix": "",
+          "trackId": "4130926"
+        },
+        {
+          "artist": "Green Velvet & Harvard Bass",
+          "title": "Lazer Beams (Acappella)",
+          "remix": "",
+          "trackId": "4130944"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Green Velvet & Harvard Bass",
+      "title": "Lazer Beams (Acappella)",
+      "remix": "",
+      "label": "RELIEF",
+      "trackId": "4130944",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "99522",
+        "youtube": "99522",
+        "soundcloud": "99522",
+        "appleMusic": "99522"
+      },
+      "blendGroup": [
+        {
+          "artist": "Green Velvet & Harvard Bass",
+          "title": "Lazer Beams (Acappella)",
+          "remix": "",
+          "trackId": "4130944"
+        },
+        {
+          "artist": "Noizu",
+          "title": "Lasers",
+          "remix": "",
+          "trackId": "4130927"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Noizu",
+      "title": "Lasers",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "4130927",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "358061",
+        "youtube": "358061",
+        "soundcloud": "358061",
+        "appleMusic": "358061"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Mighty Mouse",
+      "title": "The Spirit",
+      "remix": "",
+      "label": "GLITTERBOX",
+      "trackId": "4130945",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "439839",
+        "youtube": "439839",
+        "soundcloud": "439839",
+        "appleMusic": "439839"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mighty Mouse",
+          "title": "The Spirit",
+          "remix": "",
+          "trackId": "4130945"
+        },
+        {
+          "artist": "Green Velvet & Harvard Bass",
+          "title": "Lazer Beams (Acappella)",
+          "remix": "",
+          "trackId": "4130946"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Green Velvet & Harvard Bass",
+      "title": "Lazer Beams (Acappella)",
+      "remix": "",
+      "label": "RELIEF",
+      "trackId": "4130946",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "99522",
+        "youtube": "99522",
+        "soundcloud": "99522",
+        "appleMusic": "99522"
+      },
+      "blendGroup": [
+        {
+          "artist": "Green Velvet & Harvard Bass",
+          "title": "Lazer Beams (Acappella)",
+          "remix": "",
+          "trackId": "4130946"
+        },
+        {
+          "artist": "Patti Labelle",
+          "title": "The Spirit's In It",
+          "remix": "(Acappella)",
+          "trackId": "4130947"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Patti Labelle",
+      "title": "The Spirit's In It",
+      "remix": "(Acappella)",
+      "label": "PHILADELPHIA INTERNATIONAL",
+      "trackId": "4130947",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "746013",
+        "youtube": "746013",
+        "soundcloud": "746013",
+        "appleMusic": "746013"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T06:05:14.093Z",
+  "scrapeVersion": 2
+}

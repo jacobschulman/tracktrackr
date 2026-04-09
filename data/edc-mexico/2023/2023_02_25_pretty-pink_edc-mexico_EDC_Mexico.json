@@ -1,0 +1,186 @@
+{
+  "tlId": "1qf99dht",
+  "dj": "Pretty Pink",
+  "stage": "EDC Mexico",
+  "date": "2023-02-25",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/1qf99dht/pretty-pink-stereobloom-edc-mexico-2023-02-25.html",
+  "djs": [
+    {
+      "name": "Pretty Pink",
+      "slug": "prettypink"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Pretty Pink",
+      "title": "Happening",
+      "remix": "",
+      "label": "DEEP WOODS",
+      "trackId": "8762171",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "872049",
+        "youtube": "872049",
+        "soundcloud": "872049",
+        "appleMusic": "872049"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Pretty Pink",
+      "title": "Euphoria",
+      "remix": "",
+      "label": "DEEP WOODS",
+      "trackId": "9015235",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "865136",
+        "youtube": "865136",
+        "soundcloud": "865136",
+        "appleMusic": "865136"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Pretty Pink ft. Dan Soleil",
+      "title": "Miss You",
+      "remix": "",
+      "label": "DEEP WOODS",
+      "trackId": "9015236",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "870119",
+        "youtube": "870119"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8762173",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Pretty Pink ft. Christian Burns",
+      "title": "Lost & Found",
+      "remix": "",
+      "label": "DEEP WOODS",
+      "trackId": "8762174",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "828542",
+        "youtube": "828542",
+        "appleMusic": "828542"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Pretty Pink",
+      "title": "Every You",
+      "remix": "",
+      "label": "DPWDS",
+      "trackId": "8762175",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "912176",
+        "youtube": "912176",
+        "appleMusic": "912176"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Thomas Schumacher",
+      "title": "Hush (Catz 'N Dogz 2013 Remix)",
+      "remix": "",
+      "label": "PETS",
+      "trackId": "9015237",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "166145",
+        "youtube": "166145",
+        "soundcloud": "166145",
+        "appleMusic": "166145"
+      },
+      "blendGroup": [
+        {
+          "artist": "Thomas Schumacher",
+          "title": "Hush (Catz 'N Dogz 2013 Remix)",
+          "remix": "",
+          "trackId": "9015237"
+        },
+        {
+          "artist": "Pretty Pink",
+          "title": "Woodtales",
+          "remix": "",
+          "trackId": "9015238"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pretty Pink",
+      "title": "Woodtales",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "9015238",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "492972",
+        "youtube": "492972",
+        "soundcloud": "492972",
+        "appleMusic": "492972"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Pretty Pink",
+      "title": "Get Lucky",
+      "remix": "",
+      "label": "",
+      "trackId": "8762177",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "140476",
+        "soundcloud": "140476"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T17:02:00.550Z",
+  "scrapeVersion": 2
+}

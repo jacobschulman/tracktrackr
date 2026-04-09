@@ -1,0 +1,519 @@
+{
+  "tlId": "1bym4k09",
+  "dj": "JAUZ",
+  "stage": "EDC Orlando",
+  "date": "2016-11-05",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/1bym4k09/jauz-kineticfield-edc-orlando-united-states-2016-11-05.html",
+  "djs": [
+    {
+      "name": "JAUZ",
+      "slug": "jauz"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "JAUZ & Crankdat ft. Slushii",
+      "title": "I Hold Still",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2397782",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "325378",
+        "youtube": "325378",
+        "soundcloud": "325378",
+        "appleMusic": "325378"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Garmiani",
+      "title": "Bomb A Drop",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "2397783",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "289358",
+        "youtube": "289358",
+        "soundcloud": "289358",
+        "appleMusic": "289358"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "DJ Snake",
+      "title": "Birthday Song (Parisian Vision)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2397784",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "127267",
+        "soundcloud": "127267"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "MERCER & SAYMYNAME",
+      "title": "Wanted",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "2397785",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "317539",
+        "youtube": "317539",
+        "soundcloud": "317539",
+        "appleMusic": "317539"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "D.O.D",
+      "title": "Taking You Back (AFROJACK Edit)",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "2397786",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "299486",
+        "youtube": "299486",
+        "soundcloud": "299486",
+        "appleMusic": "299486"
+      },
+      "blendGroup": [
+        {
+          "artist": "D.O.D",
+          "title": "Taking You Back (AFROJACK Edit)",
+          "remix": "",
+          "trackId": "2397786"
+        },
+        {
+          "artist": "GTA",
+          "title": "The Crowd",
+          "remix": "",
+          "trackId": "2397787"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GTA",
+      "title": "The Crowd",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "2397787",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "117710",
+        "youtube": "117710",
+        "soundcloud": "117710",
+        "appleMusic": "117710"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Skrillex & Wolfgang Gartner",
+      "title": "The Devil's Den (VIP)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "2397788",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "166870",
+        "soundcloud": "166870",
+        "appleMusic": "166870"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "JAUZ",
+      "title": "Feel The Volume (JOYRYDE Stick It In Reverse Mix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2397789",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "271035",
+        "youtube": "271035",
+        "soundcloud": "271035",
+        "appleMusic": "271035"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "The Chainsmokers ft. Halsey",
+      "title": "Closer (JAUZ Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "2397790",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "327479",
+        "soundcloud": "327479"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Tchami",
+      "title": "Siaw",
+      "remix": "",
+      "label": "CONFESSION/FREE",
+      "trackId": "2397791",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "322416",
+        "youtube": "322416",
+        "soundcloud": "322416",
+        "appleMusic": "322416"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "CAZZTEK",
+      "title": "Keep On Dancin",
+      "remix": "",
+      "label": "GLO",
+      "trackId": "2397792",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "318147",
+        "youtube": "318147",
+        "soundcloud": "318147",
+        "appleMusic": "318147"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "JAUZ & Netsky",
+      "title": "Higher",
+      "remix": "",
+      "label": "SONY/ULTRA",
+      "trackId": "2397793",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300921",
+        "youtube": "300921",
+        "soundcloud": "300921",
+        "appleMusic": "300921"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Chocolate Puma & Tommie Sunshine ft. DJ Funk",
+      "title": "Scrub The Ground",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "2397794",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "269179",
+        "youtube": "269179",
+        "soundcloud": "269179",
+        "appleMusic": "269179"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Blonde ft. Alex Newell",
+      "title": "All Cried Out (Senor Roar Bootleg)",
+      "remix": "",
+      "label": "FFRR (PARLOPHONE)",
+      "trackId": "2397795",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "254999",
+        "youtube": "254999",
+        "soundcloud": "254999",
+        "appleMusic": "254999"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Martin Solveig & GTA vs. Lema & Shafer & Roxanne Emery & Jauz",
+      "title": "Intoxicated vs. Summer Air (JAUZ Mashup)",
+      "remix": "",
+      "label": "SPINNIN' DEEP/MAGIK MUZIK (BLACK HOLE)",
+      "trackId": "2397796",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "325826"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Jack Ü ft. Bunji Garlin & MX Prime",
+      "title": "Jungle Bae (VIP)",
+      "remix": "",
+      "label": "ATLANTIC/MAD DECENT",
+      "trackId": "2397797",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "247336",
+        "soundcloud": "247336"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Major Lazer & DJ Snake ft. MØ",
+      "title": "Lean On (Dillon Francis & JAUZ Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2397798",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "258558",
+        "youtube": "258558",
+        "soundcloud": "258558",
+        "appleMusic": "258558"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2397799",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 810,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Knife Party",
+      "title": "PLUR Police (JAUZ Remix)",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "2397800",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "276727",
+        "youtube": "276727",
+        "soundcloud": "276727",
+        "appleMusic": "276727"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Zomboy",
+      "title": "Invaders",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "2397801",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "323367",
+        "youtube": "323367",
+        "soundcloud": "323367",
+        "appleMusic": "323367"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Flosstradamus & GTA ft. Lil Jon",
+      "title": "Prison Riot",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "2397802",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "231264",
+        "youtube": "231264",
+        "soundcloud": "231264",
+        "appleMusic": "231264"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flosstradamus & GTA ft. Lil Jon",
+          "title": "Prison Riot",
+          "remix": "",
+          "trackId": "2397802"
+        },
+        {
+          "artist": "Skrillex & Alvin Risk",
+          "title": "Fuji Opener",
+          "remix": "",
+          "trackId": "2397803"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Alvin Risk",
+      "title": "Fuji Opener",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2397803",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "162725",
+        "youtube": "162725",
+        "soundcloud": "162725",
+        "appleMusic": "162725"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Zomboy",
+      "title": "Like A Bitch",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "2397804",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "291288",
+        "youtube": "291288",
+        "soundcloud": "291288",
+        "appleMusic": "291288"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "The Chainsmokers ft. Daya",
+      "title": "Don't Let Me Down",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "2397805",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "293807",
+        "youtube": "293807",
+        "soundcloud": "293807",
+        "appleMusic": "293807"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers ft. Daya",
+          "title": "Don't Let Me Down",
+          "remix": "",
+          "trackId": "2397805"
+        },
+        {
+          "artist": "Jack Ü ft. AlunaGeorge",
+          "title": "To Ü",
+          "remix": "",
+          "trackId": "2397806"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jack Ü ft. AlunaGeorge",
+      "title": "To Ü",
+      "remix": "",
+      "label": "ATLANTIC/MAD DECENT",
+      "trackId": "2397806",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "212509",
+        "youtube": "212509",
+        "soundcloud": "212509",
+        "appleMusic": "212509"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Excision & Dion Timmer",
+      "title": "Final Boss",
+      "remix": "",
+      "label": "ROTTUN/FREE",
+      "trackId": "2397807",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "311043",
+        "youtube": "311043",
+        "soundcloud": "311043",
+        "appleMusic": "311043"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "522838",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=RQ9pph5pLLM"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:36:00.428Z",
+  "scrapeVersion": 2
+}

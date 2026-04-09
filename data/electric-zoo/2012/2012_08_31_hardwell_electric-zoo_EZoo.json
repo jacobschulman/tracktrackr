@@ -1,0 +1,612 @@
+{
+  "tlId": "4pk13z9",
+  "dj": "Hardwell",
+  "stage": "Electric Zoo",
+  "date": "2012-08-31",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/4pk13z9/hardwell-electric-zoo-united-states-2012-08-31.html",
+  "djs": [
+    {
+      "name": "Hardwell",
+      "slug": "hardwell"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Hardwell vs. CoCo Star",
+      "title": "Spaceman Miracle (Hardwell Mashup)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "294586",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Avicii ft. Salem Al Fakir",
+      "title": "Silhouettes (Disco Fries Remix)",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "294587",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 180,
+      "mediaIds": {
+        "youtube": "77250"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Porter Robinson ft. Bright Lights",
+      "title": "Language",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "294588",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 420,
+      "mediaIds": {
+        "spotify": "69003",
+        "youtube": "69003",
+        "soundcloud": "69003",
+        "appleMusic": "69003"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Dimitri Vegas & Like Mike & Regi vs. Benny Benassi",
+      "title": "Momentum vs. Cinema (Hardwell Electric Zoo Edit)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "294589",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Knife Party ft. MistaJam",
+      "title": "Sleaze (Hardwell Edit)",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "294590",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 720,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Jordy Dazz",
+      "title": "Claymore",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "295597",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 840,
+      "mediaIds": {
+        "spotify": "105232",
+        "youtube": "105232",
+        "soundcloud": "105232",
+        "appleMusic": "105232"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jordy Dazz",
+          "title": "Claymore",
+          "remix": "",
+          "trackId": "295597"
+        },
+        {
+          "artist": "Nirvana",
+          "title": "Smells Like Teen Spirit",
+          "remix": "",
+          "trackId": "294591"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nirvana",
+      "title": "Smells Like Teen Spirit",
+      "remix": "",
+      "label": "GEFFEN (UMG)",
+      "trackId": "294591",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 840,
+      "mediaIds": {
+        "spotify": "2022",
+        "youtube": "2022",
+        "soundcloud": "2022",
+        "appleMusic": "2022"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nirvana",
+          "title": "Smells Like Teen Spirit",
+          "remix": "",
+          "trackId": "294591"
+        },
+        {
+          "artist": "Chuck Nash",
+          "title": "Are You Ready (Make Some Noise) (Acappella)",
+          "remix": "",
+          "trackId": "355032"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chuck Nash",
+      "title": "Are You Ready (Make Some Noise) (Acappella)",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "355032",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 840,
+      "mediaIds": {
+        "youtube": "111059",
+        "soundcloud": "111059"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Firebeatz",
+      "title": "Here We F*cking Go",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "294952",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1020,
+      "mediaIds": {
+        "spotify": "98059",
+        "youtube": "98059",
+        "soundcloud": "98059",
+        "appleMusic": "98059"
+      },
+      "blendGroup": [
+        {
+          "artist": "Firebeatz",
+          "title": "Here We F*cking Go",
+          "remix": "",
+          "trackId": "294952"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Technologic (Acappella)",
+          "remix": "",
+          "trackId": "294953"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Technologic (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "294953",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 1140,
+      "mediaIds": {
+        "spotify": "2592",
+        "youtube": "8645",
+        "soundcloud": "8645",
+        "appleMusic": "2592"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Jordy Dazz & Mightyfools vs. Daft Punk",
+      "title": "One More Drum Fail (Hardwell Mashup)",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE/HYSTERIA",
+      "trackId": "294592",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1260,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Tiësto & Dyro",
+      "title": "Paradise",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "294593",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1440,
+      "mediaIds": {
+        "spotify": "130599",
+        "youtube": "130599",
+        "soundcloud": "130599",
+        "appleMusic": "130599"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & Dyro",
+          "title": "Paradise",
+          "remix": "",
+          "trackId": "294593"
+        },
+        {
+          "artist": "Sebastian Ingrosso & Alesso ft. Ryan Tedder",
+          "title": "Calling (Lose My Mind) (Acappella)",
+          "remix": "",
+          "trackId": "294685"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sebastian Ingrosso & Alesso ft. Ryan Tedder",
+      "title": "Calling (Lose My Mind) (Acappella)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "294685",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 1980,
+      "mediaIds": {
+        "spotify": "63652",
+        "youtube": "63652",
+        "soundcloud": "63652",
+        "appleMusic": "63652"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Tiesto & Hardwell vs. Steve Aoki & Tommy Trash vs. Pendulum",
+      "title": "Zero 76 vs. Ladi Dadi vs. The Island (Hardwell Mashup)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/REVEALED/WARNER UK/ULTRA",
+      "trackId": "294594",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": {
+        "youtube": "142531"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Kill The Buzz",
+      "title": "Party Hard",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "294596",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1980,
+      "mediaIds": {
+        "spotify": "96756",
+        "youtube": "96756",
+        "soundcloud": "96756",
+        "appleMusic": "96756"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kill The Buzz",
+          "title": "Party Hard",
+          "remix": "",
+          "trackId": "294596"
+        },
+        {
+          "artist": "Plastik Funk",
+          "title": "Let Me See Your Hands (Acappella)",
+          "remix": "",
+          "trackId": "294954"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Plastik Funk",
+      "title": "Let Me See Your Hands (Acappella)",
+      "remix": "",
+      "label": "3BEAT",
+      "trackId": "294954",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1980,
+      "mediaIds": {
+        "youtube": "17493"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Skrillex & Zedd vs. Sander Van Doorn & Julian Jordan",
+      "title": "Scary Monsters And Nice Kangaroos (Hardwell Mashup)",
+      "remix": "",
+      "label": "BIG BEAT/MAU5TRAP/DOORN (SPINNIN')",
+      "trackId": "294597",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2280,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Kanye West & Jay-Z vs. Benny Benassi",
+      "title": "Niggas Satisfaction In Paris (Chuckie Pass The Dutch Bootleg)",
+      "remix": "",
+      "label": "D:VISION/ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "294598",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2460,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Alvaro",
+      "title": "Make The Crowd Go",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "294599",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2640,
+      "mediaIds": {
+        "spotify": "90987",
+        "youtube": "90987",
+        "soundcloud": "90987",
+        "appleMusic": "90987"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Nari & Milani & Maurizio Gubellini & Delayers vs. Otto Knows vs. OneRepublic",
+      "title": "Million Atoms To Apologize (Hardwell vs. Thomas Gold Edit)",
+      "remix": "",
+      "label": "MOSLEY (INTERSCOPE)/REFUNE/NETSWORK",
+      "trackId": "294600",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2820,
+      "mediaIds": {
+        "youtube": "79051",
+        "soundcloud": "79051"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Cratesz",
+      "title": "ShotGun (Deorro Remix)",
+      "remix": "",
+      "label": "PANDA FUNK",
+      "trackId": "294601",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3060,
+      "mediaIds": {
+        "youtube": "86604",
+        "soundcloud": "86604"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cratesz",
+          "title": "ShotGun (Deorro Remix)",
+          "remix": "",
+          "trackId": "294601"
+        },
+        {
+          "artist": "Chuckie & Hardwell ft. MC Ambush",
+          "title": "Move It 2 The Drum (Acappella)",
+          "remix": "",
+          "trackId": "294687"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chuckie & Hardwell ft. MC Ambush",
+      "title": "Move It 2 The Drum (Acappella)",
+      "remix": "",
+      "label": "DIRTY DUTCH",
+      "trackId": "294687",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "17496",
+        "youtube": "21918",
+        "soundcloud": "17496",
+        "appleMusic": "17496"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Marcel Woods & Allure vs. Syndicate Of L.A.W.",
+      "title": "Ready vs. Right On Time (Hardwell Countdown Mashup)",
+      "remix": "",
+      "label": "GUN RECORDS/REVEALED",
+      "trackId": "294602",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3180,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Hardwell & Showtek",
+      "title": "How We Do",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "294603",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3360,
+      "mediaIds": {
+        "spotify": "76014",
+        "youtube": "76014",
+        "soundcloud": "76014",
+        "appleMusic": "76014"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Chuckie vs. Tom Fall",
+      "title": "Who's Ready For iRok (Hardwell Mashup)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)/ARMADA TRICE",
+      "trackId": "294604",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3480,
+      "mediaIds": {
+        "youtube": "88012"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chuckie vs. Tom Fall",
+          "title": "Who's Ready For iRok (Hardwell Mashup)",
+          "remix": "",
+          "trackId": "294604"
+        },
+        {
+          "artist": "Empire Of The Sun",
+          "title": "Walking On A Dream (Acappella)",
+          "remix": "",
+          "trackId": "294689"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Empire Of The Sun",
+      "title": "Walking On A Dream (Acappella)",
+      "remix": "",
+      "label": "SOUKSONIC",
+      "trackId": "294689",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3462",
+        "youtube": "3462",
+        "soundcloud": "3462",
+        "appleMusic": "3462"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Kid Cudi ft. MGMT & Ratatat",
+      "title": "Pursuit Of Happiness (Steve Aoki Remix)",
+      "remix": "",
+      "label": "REPUBLIC/GOOD MUSIC",
+      "trackId": "294690",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3720,
+      "mediaIds": {
+        "spotify": "28421",
+        "youtube": "28421",
+        "soundcloud": "28421",
+        "appleMusic": "28421"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Dada Life",
+      "title": "Kick Out The Epic Motherfucker (Vocal Mix)",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "294691",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3900,
+      "mediaIds": {
+        "spotify": "69307",
+        "youtube": "69307",
+        "soundcloud": "69307",
+        "appleMusic": "69307"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Knife Party",
+      "title": "Rage Valley",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "294692",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 4080,
+      "mediaIds": {
+        "spotify": "76128",
+        "youtube": "76128",
+        "soundcloud": "76128",
+        "appleMusic": "76128"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Flux Pavilion",
+      "title": "Bass Cannon (Porter Robinson 2 Minute Electro Bootie)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "294693",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "80355",
+        "soundcloud": "80355"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "46059",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=bJ5kCAlsgcg"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "46061",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=A5buwaFJT_s"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "45803",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/housemix"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:32:17.771Z",
+  "scrapeVersion": 2
+}

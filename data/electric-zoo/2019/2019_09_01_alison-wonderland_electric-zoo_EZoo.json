@@ -1,0 +1,959 @@
+{
+  "tlId": "2fjn3u61",
+  "dj": "Alison Wonderland",
+  "stage": "Electric Zoo",
+  "date": "2019-09-01",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/2fjn3u61/alison-wonderland-mainstage-electric-zoo-united-states-2019-09-01.html",
+  "djs": [
+    {
+      "name": "Alison Wonderland",
+      "slug": "alisonwonderland"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Alison Wonderland",
+      "title": "Good Enough (Alison Wonderland Temple Of Wonderland Intro)",
+      "remix": "",
+      "label": "",
+      "trackId": "4751970",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 49,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Alison Wonderland ft. Djemba Djemba",
+      "title": "I Want U",
+      "remix": "",
+      "label": "EMI AUSTRALIA",
+      "trackId": "4751971",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 278,
+      "mediaIds": {
+        "spotify": "201375",
+        "youtube": "201375",
+        "soundcloud": "201375",
+        "appleMusic": "201375"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Porter Robinson ft. Bright Lights",
+      "title": "Language (Ekali & QUIX Tribute)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4751973",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 399,
+      "mediaIds": {
+        "youtube": "388608",
+        "soundcloud": "388608"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "RUVLO & TVBOO",
+      "title": "Break It Down",
+      "remix": "",
+      "label": "PARAMETRIC (ATLANTIC)",
+      "trackId": "4751974",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 463,
+      "mediaIds": {
+        "spotify": "514663",
+        "youtube": "514663",
+        "soundcloud": "514663",
+        "appleMusic": "514663"
+      },
+      "blendGroup": [
+        {
+          "artist": "RUVLO & TVBOO",
+          "title": "Break It Down",
+          "remix": "",
+          "trackId": "4751974"
+        },
+        {
+          "artist": "Kendrick Lamar",
+          "title": "Backseat Freestyle (Acappella)",
+          "remix": "",
+          "trackId": "4751975"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kendrick Lamar",
+      "title": "Backseat Freestyle (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "4751975",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "100869",
+        "youtube": "100869",
+        "soundcloud": "100869",
+        "appleMusic": "100869"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Alison Wonderland x SLUMBERJACK",
+      "title": "Sometimes Love",
+      "remix": "",
+      "label": "EMI AUSTRALIA",
+      "trackId": "4751976",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 571,
+      "mediaIds": {
+        "spotify": "409088",
+        "youtube": "409088",
+        "soundcloud": "409088",
+        "appleMusic": "409088"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Alison Wonderland",
+      "title": "Happy Place",
+      "remix": "",
+      "label": "EMI AUSTRALIA",
+      "trackId": "4751977",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 623,
+      "mediaIds": {
+        "spotify": "380980",
+        "youtube": "380980",
+        "soundcloud": "380980",
+        "appleMusic": "380980"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alison Wonderland",
+          "title": "Happy Place",
+          "remix": "",
+          "trackId": "4751977"
+        },
+        {
+          "artist": "Alison Wonderland",
+          "title": "Happy Place (QUIX Remix)",
+          "remix": "",
+          "trackId": "4751978"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alison Wonderland",
+      "title": "Happy Place (QUIX Remix)",
+      "remix": "",
+      "label": "EMI AUSTRALIA",
+      "trackId": "4751978",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 756,
+      "mediaIds": {
+        "youtube": "395483",
+        "soundcloud": "395483"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alison Wonderland",
+          "title": "Happy Place (QUIX Remix)",
+          "remix": "",
+          "trackId": "4751978"
+        },
+        {
+          "artist": "Kid Cudi",
+          "title": "Day 'n' Nite (Acappella)",
+          "remix": "",
+          "trackId": "4751979"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kid Cudi",
+      "title": "Day 'n' Nite (Acappella)",
+      "remix": "",
+      "label": "GETTING OUT OUR DREAMS",
+      "trackId": "4751979",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 783,
+      "mediaIds": {
+        "spotify": "1407",
+        "youtube": "1407",
+        "soundcloud": "1407",
+        "appleMusic": "1407"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Flume vs. ODESZA ft. Zyra",
+      "title": "Say It vs. Loyal (Ekali Edit)",
+      "remix": "",
+      "label": "FUTURE CLASSIC/FOREIGN FAMILY COLLECTIVE (COUNTER)",
+      "trackId": "4751980",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 860,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Flume vs. ODESZA ft. Zyra",
+          "title": "Say It vs. Loyal (Ekali Edit)",
+          "remix": "",
+          "trackId": "4751980"
+        },
+        {
+          "artist": "Alison Wonderland",
+          "title": "Okay (Blush Remix)",
+          "remix": "",
+          "trackId": "4751981"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alison Wonderland",
+      "title": "Okay (Blush Remix)",
+      "remix": "",
+      "label": "EMI AUSTRALIA",
+      "trackId": "4751981",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "422242",
+        "youtube": "422242",
+        "soundcloud": "422242",
+        "appleMusic": "422242"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alison Wonderland",
+          "title": "Okay (Blush Remix)",
+          "remix": "",
+          "trackId": "4751981"
+        },
+        {
+          "artist": "Liquid Stranger",
+          "title": "Hotbox (PEEKABOO Remix)",
+          "remix": "",
+          "trackId": "4751982"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Liquid Stranger",
+      "title": "Hotbox (PEEKABOO Remix)",
+      "remix": "",
+      "label": "WAKAAN",
+      "trackId": "4751982",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "427330",
+        "youtube": "427330",
+        "soundcloud": "427330",
+        "appleMusic": "427330"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Dead Prez",
+      "title": "Hip Hop (Acappella)",
+      "remix": "",
+      "label": "LOUDBIT",
+      "trackId": "4751983",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1046,
+      "mediaIds": {
+        "spotify": "22490",
+        "youtube": "22490",
+        "soundcloud": "22490",
+        "appleMusic": "22490"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dead Prez",
+          "title": "Hip Hop (Acappella)",
+          "remix": "",
+          "trackId": "4751983"
+        },
+        {
+          "artist": "QUIX & Juelz",
+          "title": "Chicane",
+          "remix": "",
+          "trackId": "13645112"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "QUIX & Juelz",
+      "title": "Chicane",
+      "remix": "",
+      "label": "SEEDEATER",
+      "trackId": "13645112",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1088,
+      "mediaIds": {
+        "spotify": "606656",
+        "youtube": "606656",
+        "soundcloud": "606656",
+        "appleMusic": "606656"
+      },
+      "blendGroup": [
+        {
+          "artist": "QUIX & Juelz",
+          "title": "Chicane",
+          "remix": "",
+          "trackId": "13645112"
+        },
+        {
+          "artist": "Major Lazer ft. Machel Montano & Konshens",
+          "title": "Front Of The Line",
+          "remix": "",
+          "trackId": "4751984"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Major Lazer ft. Machel Montano & Konshens",
+      "title": "Front Of The Line",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "4751984",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1100,
+      "mediaIds": {
+        "spotify": "361496",
+        "youtube": "361496",
+        "soundcloud": "361496",
+        "appleMusic": "361496"
+      },
+      "blendGroup": [
+        {
+          "artist": "Major Lazer ft. Machel Montano & Konshens",
+          "title": "Front Of The Line",
+          "remix": "",
+          "trackId": "4751984"
+        },
+        {
+          "artist": "Rustie",
+          "title": "Big Catzz (Porter Robinson Edit)",
+          "remix": "",
+          "trackId": "4751985"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rustie",
+      "title": "Big Catzz (Porter Robinson Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4751985",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1116,
+      "mediaIds": {
+        "spotify": "264886",
+        "youtube": "281575",
+        "soundcloud": "264886",
+        "appleMusic": "264886"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Alison Wonderland ft. Trippie Redd",
+      "title": "High (QUIX & Enschway Remix)",
+      "remix": "",
+      "label": "EMI AUSTRALIA",
+      "trackId": "4751987",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1140,
+      "mediaIds": {
+        "spotify": "431901",
+        "youtube": "431901",
+        "soundcloud": "431901",
+        "appleMusic": "431901"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Reaux",
+      "title": "Energizer Bunny (M3B8 Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4751988",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1281,
+      "mediaIds": {
+        "spotify": "373431",
+        "youtube": "373431",
+        "appleMusic": "373431"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Virtual Self",
+      "title": "Ghost Voices",
+      "remix": "",
+      "label": "VIRTUAL SELF",
+      "trackId": "4751989",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1355,
+      "mediaIds": {
+        "spotify": "389891",
+        "youtube": "389891",
+        "soundcloud": "389891",
+        "appleMusic": "389891"
+      },
+      "blendGroup": [
+        {
+          "artist": "Virtual Self",
+          "title": "Ghost Voices",
+          "remix": "",
+          "trackId": "4751989"
+        },
+        {
+          "artist": "Alison Wonderland",
+          "title": "Easy (Kaivon Remix)",
+          "remix": "",
+          "trackId": "4751990"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alison Wonderland",
+      "title": "Easy (Kaivon Remix)",
+      "remix": "",
+      "label": "EMI AUSTRALIA",
+      "trackId": "4751990",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1457,
+      "mediaIds": {
+        "spotify": "429517",
+        "youtube": "429517",
+        "soundcloud": "429517",
+        "appleMusic": "429517"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alison Wonderland",
+          "title": "Easy (Kaivon Remix)",
+          "remix": "",
+          "trackId": "4751990"
+        },
+        {
+          "artist": "NXSTY & frosttop",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4751991"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "NXSTY & frosttop",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4751991",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "12",
+      "artist": "Wuki & Ship Wrek",
+      "title": "Techno Logic",
+      "remix": "",
+      "label": "WUKILEAKS",
+      "trackId": "4751992",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1553,
+      "mediaIds": {
+        "youtube": "496636",
+        "soundcloud": "496636"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wuki & Ship Wrek",
+          "title": "Techno Logic",
+          "remix": "",
+          "trackId": "4751992"
+        },
+        {
+          "artist": "Dog Blood & Josh Pan & X&G",
+          "title": "4 Mind",
+          "remix": "",
+          "trackId": "4751993"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dog Blood & Josh Pan & X&G",
+      "title": "4 Mind",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "4751993",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1579,
+      "mediaIds": {
+        "spotify": "499675",
+        "youtube": "499675",
+        "soundcloud": "499675",
+        "appleMusic": "499675"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Cirez D vs. Green Velvet & Harvard Bass",
+      "title": "On Off Lazer Beams (Blake Jarrell Remake)",
+      "remix": "",
+      "label": "MOUSEVILLE/RELIEF",
+      "trackId": "4751994",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1634,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Alison Wonderland ft. Safia",
+      "title": "Take It To Reality (Justin Jay ft. Benny Bridges Remix)",
+      "remix": "",
+      "label": "EMI AUSTRALIA",
+      "trackId": "4751995",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1799,
+      "mediaIds": {
+        "spotify": "278811",
+        "youtube": "278811",
+        "soundcloud": "278811",
+        "appleMusic": "278811"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "deadmau5 & Kaskade ft. Haley Gibby",
+      "title": "I Remember (Alison Wonderland Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "4751996",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1916,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Dua Lipa",
+      "title": "New Rules (Alison Wonderland Remix)",
+      "remix": "",
+      "label": "WARNER MUSIC",
+      "trackId": "4751997",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2031,
+      "mediaIds": {
+        "spotify": "377298",
+        "youtube": "377298",
+        "soundcloud": "377298",
+        "appleMusic": "377298"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Wuki",
+      "title": "DADADADA",
+      "remix": "",
+      "label": "WUKILEAKS",
+      "trackId": "4751998",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2202,
+      "mediaIds": {
+        "youtube": "326790",
+        "soundcloud": "326790"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Alison Wonderland ft. Wayne Coyne",
+      "title": "U Don't Know (Vincent Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4751999",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2257,
+      "mediaIds": {
+        "spotify": "282187",
+        "youtube": "282187",
+        "soundcloud": "282187",
+        "appleMusic": "282187"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alison Wonderland ft. Wayne Coyne",
+          "title": "U Don't Know (Vincent Remix)",
+          "remix": "",
+          "trackId": "4751999"
+        },
+        {
+          "artist": "NOMA$",
+          "title": "Pay Day",
+          "remix": "",
+          "trackId": "4752000"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "NOMA$",
+      "title": "Pay Day",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "4752000",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 2384,
+      "mediaIds": {
+        "spotify": "452984",
+        "youtube": "452984",
+        "soundcloud": "452984",
+        "appleMusic": "452984"
+      },
+      "blendGroup": [
+        {
+          "artist": "NOMA$",
+          "title": "Pay Day",
+          "remix": "",
+          "trackId": "4752000"
+        },
+        {
+          "artist": "QUIX ft. Nevve",
+          "title": "Riot Call",
+          "remix": "",
+          "trackId": "13645113"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "QUIX ft. Nevve",
+      "title": "Riot Call",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "13645113",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "352648",
+        "youtube": "352648",
+        "soundcloud": "352648",
+        "appleMusic": "352648"
+      },
+      "blendGroup": [
+        {
+          "artist": "QUIX ft. Nevve",
+          "title": "Riot Call",
+          "remix": "",
+          "trackId": "13645113"
+        },
+        {
+          "artist": "Mura Masa",
+          "title": "Lotus Eater",
+          "remix": "",
+          "trackId": "4752001"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mura Masa",
+      "title": "Lotus Eater",
+      "remix": "",
+      "label": "JAKARTA",
+      "trackId": "4752001",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 2406,
+      "mediaIds": {
+        "spotify": "238668",
+        "youtube": "238668",
+        "soundcloud": "238668",
+        "appleMusic": "238668"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Ed Sheeran",
+      "title": "Shape Of You (Alison Wonderland Cover / Naderi Remix)",
+      "remix": "",
+      "label": "ASYLUM (WARNER MUSIC)",
+      "trackId": "4752002",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2435,
+      "mediaIds": {
+        "soundcloud": "357046"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Ariana Grande",
+      "title": "God Is A Woman",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "4752003",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2538,
+      "mediaIds": {
+        "spotify": "453479",
+        "youtube": "453479",
+        "soundcloud": "453479",
+        "appleMusic": "453479"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Blur",
+      "title": "Song 2 (Alison Wonderland Remix)",
+      "remix": "",
+      "label": "FOOD REC. (VIRGIN)",
+      "trackId": "4752004",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2603,
+      "mediaIds": {
+        "soundcloud": "517045"
+      },
+      "blendGroup": [
+        {
+          "artist": "Blur",
+          "title": "Song 2 (Alison Wonderland Remix)",
+          "remix": "",
+          "trackId": "4752004"
+        },
+        {
+          "artist": "Boombox Cartel",
+          "title": "Jefe (Marx Flip)",
+          "remix": "",
+          "trackId": "4752005"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Boombox Cartel",
+      "title": "Jefe (Marx Flip)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4752005",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 2667,
+      "mediaIds": {
+        "youtube": "363003",
+        "soundcloud": "363003"
+      },
+      "blendGroup": [
+        {
+          "artist": "Boombox Cartel",
+          "title": "Jefe (Marx Flip)",
+          "remix": "",
+          "trackId": "4752005"
+        },
+        {
+          "artist": "Moksi",
+          "title": "The Dopest (Cesqeaux Remix)",
+          "remix": "",
+          "trackId": "4752006"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Moksi",
+      "title": "The Dopest (Cesqeaux Remix)",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "4752006",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "262497",
+        "youtube": "262497",
+        "soundcloud": "262497",
+        "appleMusic": "262497"
+      },
+      "blendGroup": [
+        {
+          "artist": "Moksi",
+          "title": "The Dopest (Cesqeaux Remix)",
+          "remix": "",
+          "trackId": "4752006"
+        },
+        {
+          "artist": "Bandlez",
+          "title": "Space Bubblez",
+          "remix": "",
+          "trackId": "13645114"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bandlez",
+      "title": "Space Bubblez",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "13645114",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 2688,
+      "mediaIds": {
+        "spotify": "498308",
+        "youtube": "498308",
+        "soundcloud": "498308",
+        "appleMusic": "498308"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Bad Bunny vs. Dillon Francis & Alison Wonderland",
+      "title": "200 MPH vs. Lost My Mind (Cazes Bootleg)",
+      "remix": "",
+      "label": "RIMAS/IDGAFOS",
+      "trackId": "4752007",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2700,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Bad Bunny vs. Dillon Francis & Alison Wonderland",
+          "title": "200 MPH vs. Lost My Mind (Cazes Bootleg)",
+          "remix": "",
+          "trackId": "4752007"
+        },
+        {
+          "artist": "Dillon Francis & Alison Wonderland",
+          "title": "Lost My Mind",
+          "remix": "",
+          "trackId": "13645115"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dillon Francis & Alison Wonderland",
+      "title": "Lost My Mind",
+      "remix": "",
+      "label": "IDGAFOS",
+      "trackId": "13645115",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 2760,
+      "mediaIds": {
+        "spotify": "469226",
+        "youtube": "469226",
+        "soundcloud": "469226",
+        "appleMusic": "469226"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dillon Francis & Alison Wonderland",
+          "title": "Lost My Mind",
+          "remix": "",
+          "trackId": "13645115"
+        },
+        {
+          "artist": "Dillon Francis & Alison Wonderland",
+          "title": "Lost My Mind (WILDLYF Remix)",
+          "remix": "",
+          "trackId": "4752008"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dillon Francis & Alison Wonderland",
+      "title": "Lost My Mind (WILDLYF Remix)",
+      "remix": "",
+      "label": "IDGAFOS",
+      "trackId": "4752008",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 2844,
+      "mediaIds": {
+        "spotify": "481774",
+        "youtube": "481774",
+        "soundcloud": "481774",
+        "appleMusic": "481774"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1605766",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=bKN1detWNeI"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:20:09.700Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,857 @@
+{
+  "tlId": "23czrpzt",
+  "dj": "G Jones",
+  "stage": "EDC Orlando",
+  "date": "2021-11-13",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/23czrpzt/g-jones-circuitgrounds-edc-orlando-united-states-2021-11-13.html",
+  "djs": [
+    {
+      "name": "G Jones",
+      "slug": "gjones"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "G Jones",
+      "title": "Helix",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "6967542",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "309216",
+        "youtube": "309216",
+        "soundcloud": "309216",
+        "appleMusic": "309216"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6967543",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 180,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6967543"
+        },
+        {
+          "artist": "ISOxo",
+          "title": "Ground (VIP)",
+          "remix": "",
+          "trackId": "10617413"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ISOxo",
+      "title": "Ground (VIP)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "10617413",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 190,
+      "mediaIds": {
+        "youtube": "539523",
+        "soundcloud": "539523"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Project Paradis",
+      "title": "Bull Run",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "6967544",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "568203",
+        "youtube": "568203",
+        "soundcloud": "568203",
+        "appleMusic": "568203"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "G Jones",
+      "title": "Soundtrack To The Machine",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "6967545",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "454554",
+        "youtube": "454554",
+        "soundcloud": "454554",
+        "appleMusic": "454554"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "G Jones & ISOxo",
+      "title": "Say What",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "6967547",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "742353",
+        "youtube": "742353",
+        "soundcloud": "742353",
+        "appleMusic": "742353"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "G Jones",
+      "title": "Arbiter's Theme",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "6967548",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "463871",
+        "youtube": "463871",
+        "soundcloud": "463871",
+        "appleMusic": "463871"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "RemK",
+      "title": "Turning Point",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6967549",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "641765",
+        "youtube": "641765",
+        "soundcloud": "641765",
+        "appleMusic": "641765"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Shadient & WAVEDASH",
+      "title": "Get Wicked",
+      "remix": "",
+      "label": "GUD VIBRATIONS",
+      "trackId": "6967550",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "520063",
+        "youtube": "520063",
+        "soundcloud": "520063",
+        "appleMusic": "520063"
+      },
+      "blendGroup": [
+        {
+          "artist": "Shadient & WAVEDASH",
+          "title": "Get Wicked",
+          "remix": "",
+          "trackId": "6967550"
+        },
+        {
+          "artist": "G Jones",
+          "title": "In Your Head",
+          "remix": "(Acappella)",
+          "trackId": "6967551"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "G Jones",
+      "title": "In Your Head",
+      "remix": "(Acappella)",
+      "label": "ILLUSORY",
+      "trackId": "6967551",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "430792",
+        "youtube": "430792",
+        "soundcloud": "430792",
+        "appleMusic": "430792"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "ISOxo",
+      "title": "GoneGirl",
+      "remix": "",
+      "label": "",
+      "trackId": "6967552",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 690,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Moore Kismet",
+      "title": "A Wandering Chance",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6967553",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 730,
+      "mediaIds": {
+        "youtube": "758987",
+        "soundcloud": "758987"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "S-Type",
+      "title": "Billboard (Lido Remix)",
+      "remix": "",
+      "label": "LUCKYME",
+      "trackId": "6967554",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 780,
+      "mediaIds": {
+        "spotify": "190167",
+        "youtube": "190167",
+        "soundcloud": "190167",
+        "appleMusic": "190167"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "EPROM",
+      "title": "Regis Chillbin",
+      "remix": "",
+      "label": "RWINA",
+      "trackId": "6967555",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 900,
+      "mediaIds": {
+        "spotify": "83488",
+        "youtube": "83488",
+        "soundcloud": "83488",
+        "appleMusic": "83488"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "EPROM",
+      "title": "Lock Off",
+      "remix": "",
+      "label": "",
+      "trackId": "6967556",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 980,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "The Prodigy",
+      "title": "No Good (Start The Dance)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "6967557",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "17044",
+        "youtube": "17044",
+        "soundcloud": "17044",
+        "appleMusic": "17044"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Prodigy",
+          "title": "No Good (Start The Dance)",
+          "remix": "",
+          "trackId": "6967557"
+        },
+        {
+          "artist": "G Jones",
+          "title": "Dark Artifact",
+          "remix": "",
+          "trackId": "6967558"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "G Jones",
+      "title": "Dark Artifact",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "6967558",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "526948",
+        "youtube": "526948",
+        "soundcloud": "526948",
+        "appleMusic": "526948"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "G Jones",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6967559",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1260,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "EPROM & G Jones",
+      "title": "Warrior (VIP)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6967561",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Mr. Carmack",
+      "title": "Faults",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6967562",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "320038",
+        "soundcloud": "320038"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Speedy J",
+      "title": "Something For Your Mind",
+      "remix": "",
+      "label": "MUSIC MAN",
+      "trackId": "6967563",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1584,
+      "mediaIds": {
+        "spotify": "51438",
+        "youtube": "51438"
+      },
+      "blendGroup": [
+        {
+          "artist": "Speedy J",
+          "title": "Something For Your Mind",
+          "remix": "",
+          "trackId": "6967563"
+        },
+        {
+          "artist": "Aphex Twin",
+          "title": "Girl/Boy Song",
+          "remix": "",
+          "trackId": "10611040"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Aphex Twin",
+      "title": "Girl/Boy Song",
+      "remix": "",
+      "label": "WARP",
+      "trackId": "10611040",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 1620,
+      "mediaIds": {
+        "spotify": "799003",
+        "youtube": "799003",
+        "soundcloud": "799003"
+      },
+      "blendGroup": [
+        {
+          "artist": "Aphex Twin",
+          "title": "Girl/Boy Song",
+          "remix": "",
+          "trackId": "10611040"
+        },
+        {
+          "artist": "Porter Robinson",
+          "title": "Wind Tempos (G Jones Edit)",
+          "remix": "",
+          "trackId": "10611041"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Porter Robinson",
+      "title": "Wind Tempos (G Jones Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "10611041",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 1650,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Porter Robinson",
+          "title": "Wind Tempos (G Jones Edit)",
+          "remix": "",
+          "trackId": "10611041"
+        },
+        {
+          "artist": "NastyNasty",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6967564"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "NastyNasty",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6967564",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 1650,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "NastyNasty",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6967564"
+        },
+        {
+          "artist": "G Jones",
+          "title": "Time",
+          "remix": "",
+          "trackId": "10611042"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "G Jones",
+      "title": "Time",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "10611042",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 1738,
+      "mediaIds": {
+        "spotify": "452010",
+        "youtube": "452010",
+        "soundcloud": "452010",
+        "appleMusic": "452010"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "G Jones",
+      "title": "That Look In Your Eye",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "6967566",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "451052",
+        "youtube": "451052",
+        "soundcloud": "451052",
+        "appleMusic": "451052"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Special Request",
+      "title": "Spectral Frequency",
+      "remix": "",
+      "label": "R&S",
+      "trackId": "6967567",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "592784",
+        "youtube": "592784",
+        "soundcloud": "592784",
+        "appleMusic": "592784"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Rustie",
+      "title": "Death Bliss",
+      "remix": "",
+      "label": "WARP",
+      "trackId": "6967568",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1920,
+      "mediaIds": {
+        "spotify": "440527",
+        "youtube": "440527",
+        "soundcloud": "440527",
+        "appleMusic": "440527"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Daft Punk",
+      "title": "Da Funk",
+      "remix": "",
+      "label": "DAFT LIFE",
+      "trackId": "6967569",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "12780",
+        "youtube": "12780",
+        "soundcloud": "12780",
+        "appleMusic": "12780"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Aphex Twin ft. Run Jeremy",
+      "title": "Windowlicker",
+      "remix": "",
+      "label": "WARP",
+      "trackId": "6967570",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "4379",
+        "youtube": "4379",
+        "soundcloud": "4379",
+        "appleMusic": "4379"
+      },
+      "blendGroup": [
+        {
+          "artist": "Aphex Twin ft. Run Jeremy",
+          "title": "Windowlicker",
+          "remix": "",
+          "trackId": "6967570"
+        },
+        {
+          "artist": "G Jones",
+          "title": "A2C2I2D",
+          "remix": "",
+          "trackId": "6967571"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "G Jones",
+      "title": "A2C2I2D",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "6967571",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "656349",
+        "youtube": "656349",
+        "soundcloud": "656349",
+        "appleMusic": "656349"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "ISOxo",
+      "title": "Click",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "6967572",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "546428",
+        "youtube": "546428",
+        "soundcloud": "546428",
+        "appleMusic": "546428"
+      },
+      "blendGroup": [
+        {
+          "artist": "ISOxo",
+          "title": "Click",
+          "remix": "",
+          "trackId": "6967572"
+        },
+        {
+          "artist": "Elsewhere",
+          "title": "Trippin'",
+          "remix": "(Vocal Loop)",
+          "trackId": "6967573"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Elsewhere",
+      "title": "Trippin'",
+      "remix": "(Vocal Loop)",
+      "label": "MINDSET",
+      "trackId": "6967573",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "742355",
+        "soundcloud": "742355"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "EPROM & G Jones",
+      "title": "On My Mind",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "6967574",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2370,
+      "mediaIds": {
+        "spotify": "771580",
+        "youtube": "771580",
+        "soundcloud": "771580",
+        "appleMusic": "771580"
+      },
+      "blendGroup": [
+        {
+          "artist": "EPROM & G Jones",
+          "title": "On My Mind",
+          "remix": "",
+          "trackId": "6967574"
+        },
+        {
+          "artist": "Knock2",
+          "title": "GEMS",
+          "remix": "",
+          "trackId": "6967575"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knock2",
+      "title": "GEMS",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "6967575",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "604990",
+        "youtube": "604990",
+        "soundcloud": "604990",
+        "appleMusic": "604990"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "4Hero vs. Outlander",
+      "title": "Cookin' Up Yah Brain vs. Vamp (EPROM Edit)",
+      "remix": "",
+      "label": "R&S/REINFORCED",
+      "trackId": "7726100",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Chee",
+      "title": "Turn Up",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "6967577",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "656853",
+        "youtube": "656853",
+        "soundcloud": "656853",
+        "appleMusic": "656853"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "G Jones",
+      "title": "Immortal Light",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "6967578",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "529315",
+        "youtube": "529315",
+        "soundcloud": "529315",
+        "appleMusic": "529315"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "G Jones",
+      "title": "Elysian Hardcore",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "6967579",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2940,
+      "mediaIds": {
+        "spotify": "845794",
+        "youtube": "845794",
+        "soundcloud": "845794",
+        "appleMusic": "845794"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Shades",
+      "title": "Flame Unbroken",
+      "remix": "",
+      "label": "SQUARE",
+      "trackId": "6967580",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3060,
+      "mediaIds": {
+        "spotify": "1088821",
+        "youtube": "1088821",
+        "appleMusic": "1088821"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "G Jones",
+      "title": "Operator",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "6967581",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3120,
+      "mediaIds": {
+        "spotify": "823597",
+        "youtube": "823597",
+        "soundcloud": "823597",
+        "appleMusic": "823597"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "G Jones",
+      "title": "In Your Head",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "6967582",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "430792",
+        "youtube": "430792",
+        "soundcloud": "430792",
+        "appleMusic": "430792"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2550048",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=0vLi5zJyXW8"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:45:32.283Z",
+  "scrapeVersion": 2
+}

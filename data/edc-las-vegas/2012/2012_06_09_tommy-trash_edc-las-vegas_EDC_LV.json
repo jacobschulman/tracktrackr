@@ -1,0 +1,145 @@
+{
+  "tlId": "4ljbkmk",
+  "dj": "Tommy Trash",
+  "stage": "EDC Las Vegas",
+  "date": "2012-06-09",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/4ljbkmk/tommy-trash-neongarden-edc-las-vegas-united-states-2012-06-09.html",
+  "djs": [
+    {
+      "name": "Tommy Trash",
+      "slug": "tommytrash"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Tommy Trash",
+      "title": "The End",
+      "remix": "",
+      "label": "DOWNRIGHT (MINISTRY OF SOUND AU)",
+      "trackId": "268518",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30223",
+        "youtube": "30223",
+        "soundcloud": "30223",
+        "appleMusic": "30223"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "MOGUAI & Tommy Trash",
+      "title": "In N' Out (Tommy Trash Club Mix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "268519",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "76912",
+        "youtube": "76912",
+        "soundcloud": "76912",
+        "appleMusic": "76912"
+      },
+      "blendGroup": [
+        {
+          "artist": "MOGUAI & Tommy Trash",
+          "title": "In N' Out (Tommy Trash Club Mix)",
+          "remix": "",
+          "trackId": "268519"
+        },
+        {
+          "artist": "Florence + The Machine",
+          "title": "You've Got The Love (Acappella)",
+          "remix": "",
+          "trackId": "296165"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Florence + The Machine",
+      "title": "You've Got The Love (Acappella)",
+      "remix": "",
+      "label": "ZYX",
+      "trackId": "296165",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "15519",
+        "youtube": "17751",
+        "soundcloud": "15519",
+        "appleMusic": "15519"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army (Tommy Trash Bootleg)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "268520",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Tommy Trash",
+      "title": "Truffle Pig",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "268521",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "89006",
+        "youtube": "89006",
+        "soundcloud": "89006",
+        "appleMusic": "89006"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "deadmau5 ft. Chris James",
+      "title": "The Veldt (Tommy Trash Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "268522",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "74406",
+        "youtube": "74406",
+        "soundcloud": "74406",
+        "appleMusic": "74406"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "41451",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=t8YU1YksvkQ"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:33:04.241Z",
+  "scrapeVersion": 2
+}

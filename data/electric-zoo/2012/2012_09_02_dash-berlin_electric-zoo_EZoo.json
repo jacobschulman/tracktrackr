@@ -1,0 +1,353 @@
+{
+  "tlId": "8ppxy7t",
+  "dj": "Dash Berlin",
+  "stage": "Electric Zoo",
+  "date": "2012-09-02",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/8ppxy7t/dash-berlin-electric-zoo-united-states-2012-09-02.html",
+  "djs": [
+    {
+      "name": "Dash Berlin",
+      "slug": "dashberlin"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Martin Roth & Alex Bartlett vs. Ummet Ozcan",
+      "title": "Off The World vs. The Box (Dash Berlin Mashup)",
+      "remix": "",
+      "label": "VANDIT/RESET (SPINNIN')",
+      "trackId": "296938",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 120,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Martin Roth & Alex Bartlett vs. Ummet Ozcan",
+          "title": "Off The World vs. The Box (Dash Berlin Mashup)",
+          "remix": "",
+          "trackId": "296938"
+        },
+        {
+          "artist": "Cosmic Gate",
+          "title": "Fire Wire (Acappella)",
+          "remix": "",
+          "trackId": "297391"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cosmic Gate",
+      "title": "Fire Wire (Acappella)",
+      "remix": "",
+      "label": "DATA REC. (MINISTRY OF SOUND)",
+      "trackId": "297391",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "24459",
+        "youtube": "24459",
+        "appleMusic": "24459"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Red Hot Chili Peppers vs. Giuseppe Ottaviani ft. Betsie Larkin",
+      "title": "By The Way vs. Toys",
+      "remix": "",
+      "label": "WARNER BROS./VANDIT",
+      "trackId": "297392",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 300,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Ferry Corsten ft. Betsie Larkin",
+      "title": "Not Coming Down (Dash Berlin 4AM Remix)",
+      "remix": "",
+      "label": "FLASHOVER",
+      "trackId": "296939",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 480,
+      "mediaIds": {
+        "spotify": "91719",
+        "youtube": "91719",
+        "soundcloud": "91719"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Dash Berlin ft. Emma Hewitt",
+      "title": "Waiting (W&W Remix)",
+      "remix": "",
+      "label": "AROPA (ARMADA)",
+      "trackId": "296940",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 840,
+      "mediaIds": {
+        "spotify": "79272",
+        "youtube": "79272",
+        "soundcloud": "79272",
+        "appleMusic": "79272"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dash Berlin ft. Emma Hewitt",
+          "title": "Waiting (W&W Remix)",
+          "remix": "",
+          "trackId": "296940"
+        },
+        {
+          "artist": "Above & Beyond ft. Richard Bedford",
+          "title": "Sun & Moon (Acappella)",
+          "remix": "",
+          "trackId": "10772848"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Above & Beyond ft. Richard Bedford",
+      "title": "Sun & Moon (Acappella)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "10772848",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "27878",
+        "youtube": "27878",
+        "soundcloud": "31704",
+        "appleMusic": "27878"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Dash Berlin ft. Emma Hewitt",
+      "title": "Like Spinning Plates (Alexander Popov Remix)",
+      "remix": "",
+      "label": "AROPA (ARMADA)",
+      "trackId": "296941",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1140,
+      "mediaIds": {
+        "spotify": "88598",
+        "youtube": "88598",
+        "soundcloud": "88598",
+        "appleMusic": "88598"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Alesso ft. Matthew Koma",
+      "title": "Years (Dash Berlin Remix)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "296942",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1440,
+      "mediaIds": {
+        "youtube": "96235"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Judge Jules vs. deadmau5",
+      "title": "The Greater Good vs. Raise Your Weapon (Dash Berlin Mashup)",
+      "remix": "",
+      "label": "RESET (SPINNIN')/MAU5TRAP",
+      "trackId": "296943",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Dash Berlin ft. Chris Madin",
+      "title": "Silence In Your Heart (Antillas Remix)",
+      "remix": "",
+      "label": "AROPA (ARMADA)",
+      "trackId": "296944",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1980,
+      "mediaIds": {
+        "spotify": "83204",
+        "soundcloud": "83204"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "ATB & Dash Berlin vs. Niki & The Dove",
+      "title": "DJ, Ease My Apollo Road (Dash Berlin Dashup)",
+      "remix": "",
+      "label": "KONTOR/SUB POP",
+      "trackId": "296945",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 2280,
+      "mediaIds": {
+        "youtube": "69399"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Dash Berlin",
+      "title": "Till The Sky Falls Down (Dash Berlin 4AM Intro Mix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "296946",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2520,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "LTN vs. Sander Kleinenberg vs. Quilinez",
+      "title": "This Is An Ordinary Las Vegas Troll (Dash Berlin Dashup)",
+      "remix": "",
+      "label": "SIZE/ENHANCED PROG",
+      "trackId": "297393",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2760,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Dash Berlin ft. Jonathan Mendelsohn",
+      "title": "Better Half Of Me",
+      "remix": "",
+      "label": "AROPA (ARMADA)",
+      "trackId": "296947",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 3000,
+      "mediaIds": {
+        "spotify": "39204",
+        "youtube": "39204",
+        "soundcloud": "39204",
+        "appleMusic": "39204"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Band Of Horses",
+      "title": "The Funeral (Dash Berlin Remix)",
+      "remix": "",
+      "label": "SUB POP",
+      "trackId": "296948",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 3360,
+      "mediaIds": {
+        "spotify": "67346",
+        "youtube": "67346",
+        "appleMusic": "67346"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Zombie Nation & Chris Schweizer vs. Nero",
+      "title": "Zombie Promises (Dash Berlin Dashup)",
+      "remix": "",
+      "label": "EPM/MTA",
+      "trackId": "297394",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 3660,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Dash Berlin vs. Coldplay",
+      "title": "Ticking Clocks",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "297395",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 3900,
+      "mediaIds": {
+        "soundcloud": "94605"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Armin Van Buuren vs. deadmau5 ft. Sophie Ellis Bextor",
+      "title": "Not Giving Up On Complicated Love (Dash Berlin 4AM Dashup)",
+      "remix": "",
+      "label": "MAU5TRAP/ARMIND (ARMADA)",
+      "trackId": "297396",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 4140,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Dash Berlin & Cerf & Mitiska & Jaren & Mitiska & Cerf",
+      "title": "Man On The Run",
+      "remix": "",
+      "label": "AROPA (ARMADA)",
+      "trackId": "297398",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 4320,
+      "mediaIds": {
+        "spotify": "2471",
+        "youtube": "2471",
+        "soundcloud": "2471",
+        "appleMusic": "2471"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "46261",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=SADBe2XXxPU"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "46297",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/EFMrage"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:23:00.569Z",
+  "scrapeVersion": 2
+}

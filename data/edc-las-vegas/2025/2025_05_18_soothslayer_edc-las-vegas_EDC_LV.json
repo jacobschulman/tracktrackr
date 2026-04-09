@@ -1,0 +1,785 @@
+{
+  "tlId": "1v6ydyl1",
+  "dj": "Soothslayer",
+  "stage": "EDC Las Vegas",
+  "date": "2025-05-18",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/1v6ydyl1/soothslayer-basspod-edc-las-vegas-united-states-2025-05-18.html",
+  "djs": [
+    {
+      "name": "Soothslayer",
+      "slug": "soothslayer"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "The Outsiders",
+      "title": "The Way",
+      "remix": "",
+      "label": "LIQUICITY",
+      "trackId": "12339923",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1118568",
+        "youtube": "1118568",
+        "soundcloud": "1118568"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Outsiders",
+          "title": "The Way",
+          "remix": "",
+          "trackId": "12339923"
+        },
+        {
+          "artist": "Modulizer",
+          "title": "Mad Ting",
+          "remix": "",
+          "trackId": "12339924"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Modulizer",
+      "title": "Mad Ting",
+      "remix": "",
+      "label": "DEVICE",
+      "trackId": "12339924",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "02",
+      "artist": "Alibi",
+      "title": "Sequence",
+      "remix": "",
+      "label": "V RECORDINGS",
+      "trackId": "12339925",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1066234",
+        "youtube": "1066234",
+        "soundcloud": "1066234",
+        "appleMusic": "1066234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Noisia",
+      "title": "Leopard Slug (Halogenix Remix)",
+      "remix": "",
+      "label": "VISION",
+      "trackId": "12339926",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "814078",
+        "youtube": "814078",
+        "soundcloud": "814078",
+        "appleMusic": "814078"
+      },
+      "blendGroup": [
+        {
+          "artist": "Noisia",
+          "title": "Leopard Slug (Halogenix Remix)",
+          "remix": "",
+          "trackId": "12339926"
+        },
+        {
+          "artist": "CLIQUES. & Grim Sickers & Genesis Elijah ft. LU:KE",
+          "title": "BATTLE SCARS",
+          "remix": "",
+          "trackId": "12339927"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "CLIQUES. & Grim Sickers & Genesis Elijah ft. LU:KE",
+      "title": "BATTLE SCARS",
+      "remix": "",
+      "label": "CLIQUES COLLECTIVE AUDIO",
+      "trackId": "12339927",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "04",
+      "artist": "VISLA",
+      "title": "Rakka (latesleeper Remix)",
+      "remix": "",
+      "label": "CRITICAL",
+      "trackId": "12339928",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1101468"
+      },
+      "blendGroup": [
+        {
+          "artist": "VISLA",
+          "title": "Rakka (latesleeper Remix)",
+          "remix": "",
+          "trackId": "12339928"
+        },
+        {
+          "artist": "Enei & En:vy",
+          "title": "Elixir",
+          "remix": "",
+          "trackId": "12339929"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Enei & En:vy",
+      "title": "Elixir",
+      "remix": "",
+      "label": "CRITICAL",
+      "trackId": "12339929",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1090882",
+        "youtube": "1090882",
+        "soundcloud": "1090882"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Fakt",
+      "title": "Alone In The Crowd",
+      "remix": "",
+      "label": "VANDAL",
+      "trackId": "12339930",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Clipz",
+      "title": "Belly",
+      "remix": "",
+      "label": "DREAM VISION FUTURE",
+      "trackId": "12339931",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1125806",
+        "appleMusic": "1125806"
+      },
+      "blendGroup": [
+        {
+          "artist": "Clipz",
+          "title": "Belly",
+          "remix": "",
+          "trackId": "12339931"
+        },
+        {
+          "artist": "Particle",
+          "title": "Drivin' Me Crazy",
+          "remix": "",
+          "trackId": "12339932"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Particle",
+      "title": "Drivin' Me Crazy",
+      "remix": "",
+      "label": "CRITICAL",
+      "trackId": "12339932",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "776938",
+        "youtube": "776938",
+        "soundcloud": "776938",
+        "appleMusic": "776938"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Platinum Breaks ft. Eden",
+      "title": "Everything (Bladerunner Remix)",
+      "remix": "",
+      "label": "DNB ALLSTARS",
+      "trackId": "12339933",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "626822",
+        "youtube": "626822"
+      },
+      "blendGroup": [
+        {
+          "artist": "Platinum Breaks ft. Eden",
+          "title": "Everything (Bladerunner Remix)",
+          "remix": "",
+          "trackId": "12339933"
+        },
+        {
+          "artist": "Rockwell",
+          "title": "Comfy (En:vy Remix)",
+          "remix": "",
+          "trackId": "12339934"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rockwell",
+      "title": "Comfy (En:vy Remix)",
+      "remix": "",
+      "label": "OBSOLETE MEDIUM",
+      "trackId": "12339934",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1101469"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Level 2",
+      "title": "Downtime",
+      "remix": "",
+      "label": "",
+      "trackId": "12339935",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Level 2",
+          "title": "Downtime",
+          "remix": "",
+          "trackId": "12339935"
+        },
+        {
+          "artist": "Enei & Kasra",
+          "title": "Transmitter (En:vy Remix)",
+          "remix": "",
+          "trackId": "12339936"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Enei & Kasra",
+      "title": "Transmitter (En:vy Remix)",
+      "remix": "",
+      "label": "CRITICAL",
+      "trackId": "12339936",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "09",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12339937",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Crystal Clear ft. Bryan Gee",
+      "title": "Selector",
+      "remix": "",
+      "label": "V RECORDINGS",
+      "trackId": "12339938",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1101731",
+        "youtube": "1101731",
+        "soundcloud": "1101731",
+        "appleMusic": "1101731"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Astro Luce",
+      "title": "Riot",
+      "remix": "",
+      "label": "ACCELERANT",
+      "trackId": "12339939",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Sigma ft. Scrufizzer & Jamakabi",
+      "title": "Chargie",
+      "remix": "",
+      "label": "DAY ONES",
+      "trackId": "12339940",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1069070",
+        "youtube": "1069070",
+        "soundcloud": "1069070",
+        "appleMusic": "1069070"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12339941",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Dub Elements & Quite Hype",
+      "title": "Piledriver",
+      "remix": "",
+      "label": "DEM",
+      "trackId": "12339942",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "823102",
+        "soundcloud": "823102",
+        "appleMusic": "823102"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12339943",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Acris",
+      "title": "Flutter",
+      "remix": "",
+      "label": "EMPATHY AUDIO",
+      "trackId": "12339944",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Bladerunner",
+      "title": "Rave Machine (VIP)",
+      "remix": "",
+      "label": "SOUPED UP",
+      "trackId": "12339945",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "1011332"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Vibe Chemistry",
+      "title": "Loca (Document One Remix)",
+      "remix": "",
+      "label": "DNB ALLSTARS",
+      "trackId": "12339946",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "960381",
+        "youtube": "960381",
+        "soundcloud": "960381",
+        "appleMusic": "960381"
+      },
+      "blendGroup": [
+        {
+          "artist": "Vibe Chemistry",
+          "title": "Loca (Document One Remix)",
+          "remix": "",
+          "trackId": "12339946"
+        },
+        {
+          "artist": "Filthy Habits",
+          "title": "This One",
+          "remix": "",
+          "trackId": "12339947"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Filthy Habits",
+      "title": "This One",
+      "remix": "",
+      "label": "BANISHED BEATS",
+      "trackId": "12339947",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "19",
+      "artist": "Operate & Rizzle & PAV4N",
+      "title": "Pleiadians (YAANO Remix)",
+      "remix": "",
+      "label": "OVERVIEW MUSIC",
+      "trackId": "12339948",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1101470",
+        "soundcloud": "1101470"
+      },
+      "blendGroup": [
+        {
+          "artist": "Operate & Rizzle & PAV4N",
+          "title": "Pleiadians (YAANO Remix)",
+          "remix": "",
+          "trackId": "12339948"
+        },
+        {
+          "artist": "Ace",
+          "title": "Soundboy Killah",
+          "remix": "",
+          "trackId": "12339949"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ace",
+      "title": "Soundboy Killah",
+      "remix": "",
+      "label": "DEVICE",
+      "trackId": "12339949",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "20",
+      "artist": "HUTS (NL) & Aresta",
+      "title": "Right About Now (Rockafeller Skank) (Jessee Jungle Edit)",
+      "remix": "",
+      "label": "HMG",
+      "trackId": "12339950",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1051296",
+        "youtube": "1051296",
+        "soundcloud": "1051296",
+        "appleMusic": "1051296"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "DJ Ham",
+      "title": "Most Uplifting (Bladerunner Remix)",
+      "remix": "",
+      "label": "DOPE AMMO",
+      "trackId": "12339951",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "748261",
+        "youtube": "748261",
+        "soundcloud": "748261",
+        "appleMusic": "748261"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Cheetah & Nia Archives",
+      "title": "Get Loose",
+      "remix": "",
+      "label": "UP YA ARCHIVES",
+      "trackId": "12339952",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1087082",
+        "youtube": "1087082",
+        "soundcloud": "1087082",
+        "appleMusic": "1087082"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cheetah & Nia Archives",
+          "title": "Get Loose",
+          "remix": "",
+          "trackId": "12339952"
+        },
+        {
+          "artist": "Technimatic",
+          "title": "From Within",
+          "remix": "",
+          "trackId": "12339953"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Technimatic",
+      "title": "From Within",
+      "remix": "",
+      "label": "SPEARHEAD",
+      "trackId": "12339953",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "appleMusic": "1073466"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12339954",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "EXILE",
+      "title": "With You",
+      "remix": "",
+      "label": "NUFORM",
+      "trackId": "12339955",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "EXILE",
+          "title": "With You",
+          "remix": "",
+          "trackId": "12339955"
+        },
+        {
+          "artist": "Liquefaction",
+          "title": "Take The Stars",
+          "remix": "",
+          "trackId": "12339956"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Liquefaction",
+      "title": "Take The Stars",
+      "remix": "",
+      "label": "FX909",
+      "trackId": "12339956",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1091668",
+        "appleMusic": "1091668"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Rift",
+      "title": "When Dawn Breaks",
+      "remix": "",
+      "label": "C4C",
+      "trackId": "12339957",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1087455",
+        "appleMusic": "1087455"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Low:r & Blooom",
+      "title": "I Got Your Love",
+      "remix": "",
+      "label": "LIQUICITY",
+      "trackId": "12339958",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "815146",
+        "youtube": "815146",
+        "soundcloud": "815146",
+        "appleMusic": "815146"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "VISLA & Lavance",
+      "title": "Bones",
+      "remix": "",
+      "label": "CRITICAL",
+      "trackId": "12339959",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Ed Rush",
+      "title": "Maasai Funk",
+      "remix": "",
+      "label": "BLACKOUT MUSIC",
+      "trackId": "12339960",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "969057",
+        "youtube": "969057",
+        "soundcloud": "969057",
+        "appleMusic": "969057"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Kings Of The Rollers ft. Gia Santho",
+      "title": "Here Comes The Warrior",
+      "remix": "",
+      "label": "DNB ALLSTARS",
+      "trackId": "12339961",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1021786",
+        "youtube": "1021786",
+        "soundcloud": "1021786"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Noisia & IMANU",
+      "title": "Shift",
+      "remix": "",
+      "label": "VISION",
+      "trackId": "12339962",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "795373",
+        "youtube": "795373",
+        "soundcloud": "795373",
+        "appleMusic": "795373"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Notequal",
+      "title": "Rush",
+      "remix": "",
+      "label": "HANZOM",
+      "trackId": "12339963",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1061107",
+        "appleMusic": "1061107"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_2",
+      "idMedia": "4841346",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/soothslayer-at-edc-las-vegas-2025-basspod-stage-dj-mix/1821487119/us/album/soothslayer-at-edc-las-vegas-2025-basspod-stage-dj-mix/1821487119?app=music&at=1000lwkw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T02:40:30.402Z",
+  "scrapeVersion": 2
+}

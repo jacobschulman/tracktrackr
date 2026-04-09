@@ -1,0 +1,394 @@
+{
+  "tlId": "2cvczyp1",
+  "dj": "Zedd",
+  "stage": "Ultra Europe",
+  "date": "2023-07-07",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/2cvczyp1/zedd-mainstage-ultra-europe-croatia-2023-07-07.html",
+  "djs": [
+    {
+      "name": "Zedd",
+      "slug": "zedd"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "John Summit ft. HAYLA",
+      "title": "Where You Are (Zedd Remix)",
+      "remix": "(Ultra Europe Intro)",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "9226238",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "892622",
+        "youtube": "892622",
+        "soundcloud": "892622",
+        "appleMusic": "892622"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Zedd ft. Selena Gomez",
+      "title": "I Want You To Know",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "9226239",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 133,
+      "mediaIds": {
+        "spotify": "241465",
+        "youtube": "241465",
+        "soundcloud": "241465",
+        "appleMusic": "241465"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Queen",
+      "title": "Don't Stop Me Now",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "9226240",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 375,
+      "mediaIds": {
+        "spotify": "308411",
+        "youtube": "308411",
+        "soundcloud": "308411",
+        "appleMusic": "308411"
+      },
+      "blendGroup": [
+        {
+          "artist": "Queen",
+          "title": "Don't Stop Me Now",
+          "remix": "",
+          "trackId": "9226240"
+        },
+        {
+          "artist": "Carnage ft. Timmy Trumpet & KSHMR",
+          "title": "Toca",
+          "remix": "",
+          "trackId": "9226241"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Carnage ft. Timmy Trumpet & KSHMR",
+      "title": "Toca",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "9226241",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "253874",
+        "youtube": "253874",
+        "soundcloud": "253874",
+        "appleMusic": "253874"
+      },
+      "blendGroup": [
+        {
+          "artist": "Carnage ft. Timmy Trumpet & KSHMR",
+          "title": "Toca",
+          "remix": "",
+          "trackId": "9226241"
+        },
+        {
+          "artist": "2edit",
+          "title": "Datsun Tropicalia (Torro Torro Remix)",
+          "remix": "",
+          "trackId": "9226242"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "2edit",
+      "title": "Datsun Tropicalia (Torro Torro Remix)",
+      "remix": "",
+      "label": "PARTY LIKE US",
+      "trackId": "9226242",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "76374",
+        "youtube": "76374",
+        "soundcloud": "76374",
+        "appleMusic": "76374"
+      },
+      "blendGroup": [
+        {
+          "artist": "2edit",
+          "title": "Datsun Tropicalia (Torro Torro Remix)",
+          "remix": "",
+          "trackId": "9226242"
+        },
+        {
+          "artist": "Avicii ft. Salem Al Fakir",
+          "title": "You Make Me (Acappella)",
+          "remix": "",
+          "trackId": "9226273"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii ft. Salem Al Fakir",
+      "title": "You Make Me (Acappella)",
+      "remix": "",
+      "label": "PRMD",
+      "trackId": "9226273",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "129368",
+        "youtube": "129368",
+        "soundcloud": "129368",
+        "appleMusic": "129368"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Empire Of The Sun",
+      "title": "Alive (Zedd Remix)",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "9226243",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 690,
+      "mediaIds": {
+        "spotify": "135866",
+        "youtube": "135866",
+        "soundcloud": "135866",
+        "appleMusic": "135866"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Zedd ft. Hayley Williams",
+      "title": "Stay The Night",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "9226244",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 800,
+      "mediaIds": {
+        "spotify": "151732",
+        "youtube": "151732",
+        "soundcloud": "151732",
+        "appleMusic": "151732"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Blur",
+      "title": "Song 2 (Madeon Bootleg)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "9238904",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 997,
+      "mediaIds": {
+        "youtube": "62545",
+        "soundcloud": "62545"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Julian Jordan & Eleganto ft. Kota",
+      "title": "NRG",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "9227248",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1085,
+      "mediaIds": {
+        "spotify": "904329",
+        "youtube": "904329",
+        "soundcloud": "904329",
+        "appleMusic": "904329"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "ACRAZE & Cherish vs. 23",
+      "title": "Do It To It vs. Pink Soldiers (Squid Game OST) (Zedd Edit)",
+      "remix": "",
+      "label": "THRIVE MUSIC/NETFLIX",
+      "trackId": "9226247",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1193,
+      "mediaIds": {
+        "youtube": "737415",
+        "soundcloud": "737415"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Hailee Steinfeld & Grey ft. Zedd",
+      "title": "Starving",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "9226248",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1280,
+      "mediaIds": {
+        "spotify": "332428",
+        "youtube": "332428",
+        "soundcloud": "332428",
+        "appleMusic": "332428"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hailee Steinfeld & Grey ft. Zedd",
+          "title": "Starving",
+          "remix": "",
+          "trackId": "9226248"
+        },
+        {
+          "artist": "Hailee Steinfeld & Grey ft. Zedd",
+          "title": "Starving (Bali Bandits Remix)",
+          "remix": "",
+          "trackId": "9226249"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hailee Steinfeld & Grey ft. Zedd",
+      "title": "Starving (Bali Bandits Remix)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "9226249",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "332430",
+        "youtube": "332430",
+        "soundcloud": "332430",
+        "appleMusic": "332430"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Ill Phil & Mesto vs. Sikdope vs. Macklemore & Ryan Lewis ft. Ray Dalton",
+      "title": "Seven Nation Army vs. Snakes vs. Can't Hold Us (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "MACKLEMORE/FLY EYE/FREE",
+      "trackId": "9226250",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1375,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Daft Punk",
+      "title": "One More Time (Zedd Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "9226252",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1515,
+      "mediaIds": {
+        "youtube": "318252",
+        "soundcloud": "318252",
+        "appleMusic": "318252"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "DJ Ötzi",
+      "title": "Hey Baby",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "9287513",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "617982",
+        "youtube": "617982",
+        "soundcloud": "617982",
+        "appleMusic": "617982"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Zedd & Alessia Cara",
+      "title": "Stay",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "9287514",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "347913",
+        "youtube": "347913",
+        "soundcloud": "347913",
+        "appleMusic": "347913"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Zedd ft. Foxes",
+      "title": "Clarity",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "9287515",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "99468",
+        "youtube": "99468",
+        "soundcloud": "99468",
+        "appleMusic": "99468"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3499535",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=teYRfv0H3hc"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:45:45.335Z",
+  "scrapeVersion": 2
+}

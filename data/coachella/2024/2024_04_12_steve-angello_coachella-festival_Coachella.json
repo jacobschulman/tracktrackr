@@ -1,0 +1,408 @@
+{
+  "tlId": "qu5pywk",
+  "dj": "Steve Angello",
+  "stage": "Coachella Festival",
+  "date": "2024-04-12",
+  "year": 2024,
+  "url": "https://www.1001tracklists.com/tracklist/qu5pywk/steve-angello-sahara-coachella-festival-weekend-1-united-states-2024-04-12.html",
+  "djs": [
+    {
+      "name": "Steve Angello",
+      "slug": "steveangello"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Steve Angello",
+      "title": "Miss You",
+      "remix": "(Intro Edit)",
+      "label": "SIZE",
+      "trackId": "10401777",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Steve Angello",
+          "title": "Miss You",
+          "remix": "(Intro Edit)",
+          "trackId": "10401777"
+        },
+        {
+          "artist": "Corey James & HIISAK ft. Roland Clark",
+          "title": "The Underground (House of God) (Steve Angello Edit)",
+          "remix": "",
+          "trackId": "10401390"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Corey James & HIISAK ft. Roland Clark",
+      "title": "The Underground (House of God) (Steve Angello Edit)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "10401390",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "878379",
+        "youtube": "878379",
+        "soundcloud": "878379",
+        "appleMusic": "878379"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Steve Angello & Sebastian Ingrosso",
+      "title": "Skip",
+      "remix": "",
+      "label": "SUPERHUMAN",
+      "trackId": "10401391",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "973754",
+        "youtube": "973754",
+        "soundcloud": "973754",
+        "appleMusic": "973754"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "PARISI x Sebastian Ingrosso x Steve Angello",
+      "title": "U Ok?",
+      "remix": "",
+      "label": "FFRR/MAJOR RECORDINGS",
+      "trackId": "10401392",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "878016",
+        "youtube": "878016",
+        "soundcloud": "878016",
+        "appleMusic": "878016"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Swedish House Mafia ft. Tinie Tempah",
+      "title": "Miami 2 Ibiza (Paradise Again Edit)",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "10401393",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "790306",
+        "youtube": "790306",
+        "soundcloud": "790306",
+        "appleMusic": "790306"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia ft. Tinie Tempah",
+          "title": "Miami 2 Ibiza (Paradise Again Edit)",
+          "remix": "",
+          "trackId": "10401393"
+        },
+        {
+          "artist": "Swedish House Mafia",
+          "title": "Can U Feel It",
+          "remix": "(Acappella)",
+          "trackId": "10401394"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia",
+      "title": "Can U Feel It",
+      "remix": "(Acappella)",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "10401394",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "786071",
+        "youtube": "786071",
+        "soundcloud": "786071",
+        "appleMusic": "786071"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Corey James & TR3NACRIA vs. Fred again.. & Baby Keem vs. Faithless",
+      "title": "Demolition vs. leavemealone vs. Insomnia (Steve Angello Mashup)",
+      "remix": "",
+      "label": "CHEEKY/ATLANTIC (WARNER MUSIC)/SIZE",
+      "trackId": "10673929",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Magnificence & Corey James ft. Rion S",
+      "title": "Time Machine",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "10401399",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "992546",
+        "youtube": "992546",
+        "soundcloud": "992546",
+        "appleMusic": "992546"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Swedish House Mafia & Knife Party ft. ADL",
+      "title": "Antidote (Swedish House Mafia Rework)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "10401398",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "812648"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Radio Slave ft. Danton Eeprom",
+      "title": "Grindhouse (Dubfire Terror Planet Mix)",
+      "remix": "",
+      "label": "REKIDS",
+      "trackId": "10401397",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8248",
+        "youtube": "8248",
+        "soundcloud": "8248",
+        "appleMusic": "8248"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Swedish House Mafia",
+      "title": "Omen",
+      "remix": "",
+      "label": "SUPERHUMAN",
+      "trackId": "10401400",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "910337",
+        "soundcloud": "910337"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Swedish House Mafia ft. Sting",
+      "title": "Redlight",
+      "remix": "",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "10401401",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "772366",
+        "youtube": "772366",
+        "soundcloud": "772366",
+        "appleMusic": "772366"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Steve Angello",
+      "title": "Hooligans",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "10401402",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1044517",
+        "youtube": "1044517",
+        "soundcloud": "1044517",
+        "appleMusic": "1044517"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Steve Angello ft. T.D. Jakes",
+      "title": "Rejoice (Still Young Remix)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "10401403",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "900603",
+        "youtube": "900603",
+        "soundcloud": "900603",
+        "appleMusic": "900603"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Steve Angello",
+      "title": "ME",
+      "remix": "",
+      "label": "SIZE/ASTRALWERKS",
+      "trackId": "10401404",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "937169",
+        "youtube": "937169",
+        "soundcloud": "937169",
+        "appleMusic": "937169"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Steve Angello & Laidback Luke & Rowetta",
+      "title": "Be vs. Show Me Love vs. Knas (Swedish House Mafia Mashup)",
+      "remix": "",
+      "label": "MIXMASH/SIZE",
+      "trackId": "10401405",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Swedish House Mafia vs. Eurythmics & Steve Angello vs. Pharrell Williams",
+      "title": "One (Your Name) vs. Sweet Dreams (Swedish House Mafia Mashup)",
+      "remix": "",
+      "label": "BIG MACHINE/RCA/ASTRALWERKS (UMG)",
+      "trackId": "10401406",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Swedish House Mafia",
+      "title": "Ray Of Solar",
+      "remix": "",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "10401407",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "904672",
+        "youtube": "904672",
+        "soundcloud": "904672",
+        "appleMusic": "904672"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Fred again.. & Swedish House Mafia ft. Future",
+      "title": "Turn On The Lights Again..",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "10401408",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "788426",
+        "youtube": "788426",
+        "soundcloud": "788426",
+        "appleMusic": "788426"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Supermode & MEDUZA vs. Swedish House Mafia & The Weeknd",
+      "title": "Tell Me Why vs. Moth To A Flame (Swedish House Mafia Mashup)",
+      "remix": "",
+      "label": "SSA (REPUBLIC)/AXTONE",
+      "trackId": "10401410",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Don't You Worry Child (Swedish House Mafia Rework)",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "10401411",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Swedish House Mafia & NIKI & The Dove",
+      "title": "Lioness",
+      "remix": "",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "10401412",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "992975",
+        "youtube": "992975",
+        "soundcloud": "992975",
+        "appleMusic": "992975"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T03:25:06.596Z",
+  "scrapeVersion": 2
+}

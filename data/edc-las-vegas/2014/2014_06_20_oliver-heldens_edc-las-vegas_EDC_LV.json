@@ -1,0 +1,713 @@
+{
+  "tlId": "5ndmcgt",
+  "dj": "Oliver Heldens",
+  "stage": "EDC Las Vegas",
+  "date": "2014-06-20",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/5ndmcgt/oliver-heldens-kineticfield-edc-las-vegas-united-states-2014-06-20.html",
+  "djs": [
+    {
+      "name": "Oliver Heldens",
+      "slug": "oliverheldens"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "BrEaCh",
+      "title": "Jack (Taiki Nulight Remix)",
+      "remix": "",
+      "label": "DIRTYBIRD",
+      "trackId": "954083",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "184794",
+        "soundcloud": "184794"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Shiba San",
+      "title": "OKAY",
+      "remix": "",
+      "label": "DIRTYBIRD",
+      "trackId": "954084",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 158,
+      "mediaIds": {
+        "spotify": "163910",
+        "youtube": "163910",
+        "soundcloud": "163910",
+        "appleMusic": "163910"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "DJ Snake & AlunaGeorge",
+      "title": "You Know You Like It (Tchami Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "954085",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 328,
+      "mediaIds": {
+        "spotify": "340482",
+        "youtube": "340482",
+        "soundcloud": "340482",
+        "appleMusic": "340482"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Storm Queen",
+      "title": "Look Right Through (MK Vocal Edit)",
+      "remix": "",
+      "label": "ENVIRON",
+      "trackId": "954086",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 506,
+      "mediaIds": {
+        "spotify": "162405",
+        "youtube": "162405",
+        "soundcloud": "162405",
+        "appleMusic": "162405"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Alex Metric & Oliver",
+      "title": "Hope",
+      "remix": "",
+      "label": "OWSLA/BIG BEAT",
+      "trackId": "954087",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 650,
+      "mediaIds": {
+        "spotify": "154190",
+        "youtube": "154190",
+        "soundcloud": "154190",
+        "appleMusic": "154190"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Justin Jay",
+      "title": "Static",
+      "remix": "",
+      "label": "DIRTYBIRD",
+      "trackId": "954089",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 860,
+      "mediaIds": {
+        "spotify": "129663",
+        "youtube": "129663",
+        "soundcloud": "129663",
+        "appleMusic": "129663"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justin Jay",
+          "title": "Static",
+          "remix": "",
+          "trackId": "954089"
+        },
+        {
+          "artist": "Benny Benassi pres. The Biz",
+          "title": "Satisfaction (Acappella)",
+          "remix": "",
+          "trackId": "954088"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Benny Benassi pres. The Biz",
+      "title": "Satisfaction (Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "954088",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 872,
+      "mediaIds": {
+        "spotify": "2029",
+        "youtube": "2029",
+        "soundcloud": "2029",
+        "appleMusic": "2029"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Detroit Swindle vs. The Underdog Project",
+      "title": "Unfinished Business & Summer Jam (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "960779",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1013,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Dirty South ft. Rudy",
+      "title": "Let It Go (Axwell Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "954716",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1140,
+      "mediaIds": {
+        "spotify": "8655",
+        "youtube": "8655",
+        "soundcloud": "8655",
+        "appleMusic": "8655"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dirty South ft. Rudy",
+          "title": "Let It Go (Axwell Remix)",
+          "remix": "",
+          "trackId": "954716"
+        },
+        {
+          "artist": "Jasper Dietze",
+          "title": "Subside",
+          "remix": "",
+          "trackId": "960780"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jasper Dietze",
+      "title": "Subside",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "960780",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1235,
+      "mediaIds": {
+        "spotify": "203296",
+        "soundcloud": "203296"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "The Voyagers ft. Haris",
+      "title": "A Lot Like Love (Oliver Heldens Edit)",
+      "remix": "",
+      "label": "SPINNIN' DEEP",
+      "trackId": "954717",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1395,
+      "mediaIds": {
+        "spotify": "205130",
+        "youtube": "205130",
+        "soundcloud": "205130",
+        "appleMusic": "205130"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Lana Del Rey",
+      "title": "Summertime Sadness (Kings & Aron Don Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "954718",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1601,
+      "mediaIds": {
+        "youtube": "201150",
+        "soundcloud": "201150"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Asino",
+      "title": "Streetwise",
+      "remix": "",
+      "label": "WORK (SPINNIN')",
+      "trackId": "954719",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1755,
+      "mediaIds": {
+        "spotify": "200798",
+        "youtube": "200798",
+        "soundcloud": "200798",
+        "appleMusic": "200798"
+      },
+      "blendGroup": [
+        {
+          "artist": "Asino",
+          "title": "Streetwise",
+          "remix": "",
+          "trackId": "954719"
+        },
+        {
+          "artist": "Route 94 ft. Jess Glynne",
+          "title": "My Love",
+          "remix": "",
+          "trackId": "960781"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Route 94 ft. Jess Glynne",
+      "title": "My Love",
+      "remix": "",
+      "label": "RINSE",
+      "trackId": "960781",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "154258",
+        "youtube": "154258",
+        "soundcloud": "154258",
+        "appleMusic": "154258"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Axwell ft. Max'C",
+      "title": "I Found U",
+      "remix": "(Instrumental Mix)",
+      "label": "AXTONE",
+      "trackId": "1188578",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1929,
+      "mediaIds": {
+        "spotify": "1479",
+        "youtube": "1479",
+        "soundcloud": "1479",
+        "appleMusic": "1479"
+      },
+      "blendGroup": [
+        {
+          "artist": "Axwell ft. Max'C",
+          "title": "I Found U",
+          "remix": "(Instrumental Mix)",
+          "trackId": "1188578"
+        },
+        {
+          "artist": "Axwell ft. Steve Edwards",
+          "title": "Watch The Sunrise (Acappella)",
+          "remix": "",
+          "trackId": "954720"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Axwell ft. Steve Edwards",
+      "title": "Watch The Sunrise (Acappella)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "954720",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1929,
+      "mediaIds": {
+        "spotify": "3092",
+        "youtube": "3092",
+        "soundcloud": "17691",
+        "appleMusic": "3092"
+      },
+      "blendGroup": [
+        {
+          "artist": "Axwell ft. Steve Edwards",
+          "title": "Watch The Sunrise (Acappella)",
+          "remix": "",
+          "trackId": "954720"
+        },
+        {
+          "artist": "Hugo Bianco",
+          "title": "Taurus (Gaga Remix)",
+          "remix": "",
+          "trackId": "987129"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hugo Bianco",
+      "title": "Taurus (Gaga Remix)",
+      "remix": "",
+      "label": "STICK",
+      "trackId": "987129",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1992,
+      "mediaIds": {
+        "spotify": "204581",
+        "youtube": "204581"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Criminal Vibes vs. Wamdue Project",
+      "title": "Calabria & King Of My Castle (DJ Harmony Mashup)",
+      "remix": "",
+      "label": "STRICTLY RHYTHM/HEDKANDI",
+      "trackId": "954721",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2162,
+      "mediaIds": {
+        "soundcloud": "214843"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "GotSome ft. Get Along Gang",
+      "title": "Bassline (Chocolate Puma Remix)",
+      "remix": "",
+      "label": "DEFECTED",
+      "trackId": "960783",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2338,
+      "mediaIds": {
+        "youtube": "174554",
+        "soundcloud": "174554"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Dr. Kucho! & Gregor Salto",
+      "title": "Can't Stop Playing (Oliver Heldens & Gregor Salto Remix)",
+      "remix": "",
+      "label": "SPINNIN'/DISC DOCTOR",
+      "trackId": "954722",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2414,
+      "mediaIds": {
+        "spotify": "206983",
+        "youtube": "206983",
+        "soundcloud": "206983",
+        "appleMusic": "206983"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Alex Ross & Lorenzo",
+      "title": "Dreamer (2015 Remix)",
+      "remix": "",
+      "label": "TUTTI FRUTTI",
+      "trackId": "960784",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2595,
+      "mediaIds": {
+        "youtube": "204582",
+        "soundcloud": "204582"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "John Legend",
+      "title": "All Of Me (Tiësto Birthday Treatment Mix)",
+      "remix": "",
+      "label": "GOOD MUSIC (ISLAND DEF JAM)",
+      "trackId": "960785",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2808,
+      "mediaIds": {
+        "spotify": "175745",
+        "youtube": "175745",
+        "appleMusic": "175745"
+      },
+      "blendGroup": [
+        {
+          "artist": "John Legend",
+          "title": "All Of Me (Tiësto Birthday Treatment Mix)",
+          "remix": "",
+          "trackId": "960785"
+        },
+        {
+          "artist": "EdOne & Bodden",
+          "title": "Do It",
+          "remix": "",
+          "trackId": "960786"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "EdOne & Bodden",
+      "title": "Do It",
+      "remix": "",
+      "label": "OFF REC.",
+      "trackId": "960786",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 2860,
+      "mediaIds": {
+        "spotify": "173882",
+        "youtube": "173882",
+        "soundcloud": "173882",
+        "appleMusic": "173882"
+      },
+      "blendGroup": [
+        {
+          "artist": "EdOne & Bodden",
+          "title": "Do It",
+          "remix": "",
+          "trackId": "960786"
+        },
+        {
+          "artist": "Fedde Le Grand",
+          "title": "Put Your Hands Up For Detroit (Acappella)",
+          "remix": "",
+          "trackId": "960808"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fedde Le Grand",
+      "title": "Put Your Hands Up For Detroit (Acappella)",
+      "remix": "",
+      "label": "DATA REC. (MINISTRY OF SOUND)",
+      "trackId": "960808",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 2926,
+      "mediaIds": {
+        "spotify": "1206",
+        "youtube": "9801",
+        "soundcloud": "1206",
+        "appleMusic": "1206"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Oliver Heldens & Mr. Belt & Wezol vs. Kieza",
+      "title": "Pikachu Hideaway (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "LOKAL LEGEND/SPINNIN'",
+      "trackId": "954405",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2995,
+      "mediaIds": {
+        "soundcloud": "221053"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Corona",
+      "title": "The Rhythm Of The Night (Blonde Version)",
+      "remix": "",
+      "label": "",
+      "trackId": "954091",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3152,
+      "mediaIds": {
+        "youtube": "194596",
+        "soundcloud": "194596"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Robin Thicke & Oliver Heldens vs. Duke Dumont & A*M*E",
+      "title": "Feel Good vs. Need U 100% (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "MINISTRY OF SOUND/SPINNIN' DEEP",
+      "trackId": "1060848",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3310,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Coldplay",
+      "title": "A Sky Full Of Stars(Prod. by Avicii) (Oliver Heldens Remix)",
+      "remix": "",
+      "label": "FFRR (PARLOPHONE)",
+      "trackId": "954095",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3496,
+      "mediaIds": {
+        "youtube": "200803",
+        "soundcloud": "200803"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Oliver Heldens",
+      "title": "Koala",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "954096",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3600,
+      "mediaIds": {
+        "spotify": "201710",
+        "youtube": "201710",
+        "soundcloud": "201710",
+        "appleMusic": "201710"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Disclosure ft. Sam Smith",
+      "title": "Latch (Oliver Heldens Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "954097",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3693,
+      "mediaIds": {
+        "youtube": "192972",
+        "soundcloud": "192972"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Oliver Heldens & Becky Hill",
+      "title": "Gecko (Overdrive)",
+      "remix": "",
+      "label": "FFRR/SPINNIN'",
+      "trackId": "954098",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3890,
+      "mediaIds": {
+        "spotify": "194055",
+        "youtube": "194055",
+        "soundcloud": "194055",
+        "appleMusic": "194055"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Mr. Belt & Wezol vs. Eurythmics",
+      "title": "Shiver Sweet Dreams (Pjanoo Mashup)",
+      "remix": "",
+      "label": "BIG MACHINE/RCA/SPINNIN'",
+      "trackId": "954099",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 4127,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Chocolate Puma ft. Kris Kiss",
+      "title": "Step Back",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "954100",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 4286,
+      "mediaIds": {
+        "spotify": "173011",
+        "youtube": "173011",
+        "soundcloud": "173011",
+        "appleMusic": "173011"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Sander van Doorn & Oliver Heldens",
+      "title": "THIS",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "954101",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 4342,
+      "mediaIds": {
+        "spotify": "204215",
+        "youtube": "204215",
+        "soundcloud": "204215",
+        "appleMusic": "204215"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Martin Garrix & Oliver Heldens vs. Laidback Luke vs. Avicii",
+      "title": "Animals vs. Rocking With The Best vs. Silhouettes (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "MIXMASH/LE7ELS/STMPD",
+      "trackId": "954102",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 4523,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "949093",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/edmtunes"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "949092",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/FreeLivesets"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "190494",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:07:53.120Z",
+  "scrapeVersion": 2
+}

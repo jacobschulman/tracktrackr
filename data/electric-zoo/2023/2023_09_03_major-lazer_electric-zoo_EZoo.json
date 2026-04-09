@@ -1,0 +1,1351 @@
+{
+  "tlId": "1gztb5ht",
+  "dj": "Major Lazer",
+  "stage": "Electric Zoo",
+  "date": "2023-09-03",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/1gztb5ht/major-lazer-the-convergence-electric-zoo-hyperspace-united-states-2023-09-03.html",
+  "djs": [
+    {
+      "name": "Major Lazer",
+      "slug": "majorlazer"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Major Lazer",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9443189",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ISOxo vs. Ice Spice",
+      "title": "Chargé vs. Deli (Major Lazer Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9442076",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 172,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Bingo Players vs. Gunna vs. Eurythmics vs. Yellow Claw & €URO TRA$H",
+      "title": "Rattle vs. Fukumean vs. Sweet Dreams (Are Made of This) vs. DJ Turn It Up (Major Lazer Edit)",
+      "remix": "",
+      "label": "BIG MACHINE/RCA/HYSTERIA/JEFFREE'S (MAD DECENT)/300 ENTERTAINMENT",
+      "trackId": "9442077",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 231,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Major Lazer & James Hype",
+      "title": "Number 1",
+      "remix": "",
+      "label": "STEREOHYPE",
+      "trackId": "9442078",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 290,
+      "mediaIds": {
+        "spotify": "853596",
+        "youtube": "853596",
+        "soundcloud": "853596",
+        "appleMusic": "853596"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Tiësto & The Chainsmokers",
+      "title": "Split (Only U)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "9442083",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 296,
+      "mediaIds": {
+        "spotify": "214231",
+        "youtube": "214231",
+        "soundcloud": "214231",
+        "appleMusic": "214231"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & The Chainsmokers",
+          "title": "Split (Only U)",
+          "remix": "",
+          "trackId": "9442083"
+        },
+        {
+          "artist": "ENUR ft. Natasja",
+          "title": "Calabria",
+          "remix": "",
+          "trackId": "9442079"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ENUR ft. Natasja",
+      "title": "Calabria",
+      "remix": "",
+      "label": "SCORPIO",
+      "trackId": "9442079",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2030",
+        "youtube": "2030",
+        "soundcloud": "2030",
+        "appleMusic": "2030"
+      },
+      "blendGroup": [
+        {
+          "artist": "ENUR ft. Natasja",
+          "title": "Calabria",
+          "remix": "",
+          "trackId": "9442079"
+        },
+        {
+          "artist": "Shenseea & Megan Thee Stallion",
+          "title": "Lick (Booty Patrol Remix)",
+          "remix": "",
+          "trackId": "9442080"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Shenseea & Megan Thee Stallion",
+      "title": "Lick (Booty Patrol Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "9442080",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "816225"
+      },
+      "blendGroup": [
+        {
+          "artist": "Shenseea & Megan Thee Stallion",
+          "title": "Lick (Booty Patrol Remix)",
+          "remix": "",
+          "trackId": "9442080"
+        },
+        {
+          "artist": "Edinho Chagas",
+          "title": "Atira A Flecha (Major Lazer Edit)",
+          "remix": "",
+          "trackId": "9442082"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Edinho Chagas",
+      "title": "Atira A Flecha (Major Lazer Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9442082",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Edinho Chagas",
+          "title": "Atira A Flecha (Major Lazer Edit)",
+          "remix": "",
+          "trackId": "9442082"
+        },
+        {
+          "artist": "Gunna",
+          "title": "Fukumean",
+          "remix": "",
+          "trackId": "9444660"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gunna",
+      "title": "Fukumean",
+      "remix": "",
+      "label": "300 ENTERTAINMENT",
+      "trackId": "9444660",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "914170",
+        "youtube": "914170",
+        "soundcloud": "914170",
+        "appleMusic": "914170"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Major Lazer & James Hype",
+      "title": "Number 1",
+      "remix": "",
+      "label": "STEREOHYPE",
+      "trackId": "9442084",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 382,
+      "mediaIds": {
+        "spotify": "853596",
+        "youtube": "853596",
+        "soundcloud": "853596",
+        "appleMusic": "853596"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Major Lazer & James Hype vs. Fred Again.. & Skrillex & Four Tet & Lil Baby",
+      "title": "Number 1 vs. Baby Again.. (Major Lazer Edit)",
+      "remix": "",
+      "label": "OWSLA/ATLANTIC/STEREOHYPE",
+      "trackId": "9442085",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 433,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "D-Unity vs. Pitbull & Lil Jon",
+      "title": "Sufficate Culo (Mikey Barreneche Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "9444663",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 538,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Montell Jordan",
+      "title": "This Is How We Do It (SIDEPIECE Remix)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "9442087",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 571,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Andruss",
+      "title": "Frikitona",
+      "remix": "",
+      "label": "HELIX (PAYDAY)",
+      "trackId": "9442088",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 662,
+      "mediaIds": {
+        "spotify": "901596",
+        "youtube": "901596",
+        "soundcloud": "901596",
+        "appleMusic": "901596"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Major Lazer ft. Busy Signal & The Flexican & FS Green",
+      "title": "Watch Out For This (Bumaye) (Dimitri Vegas & Like Mike Tomorrowland Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "9442089",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 753,
+      "mediaIds": {
+        "spotify": "137657",
+        "youtube": "137657",
+        "soundcloud": "137657",
+        "appleMusic": "137657"
+      },
+      "blendGroup": [
+        {
+          "artist": "Major Lazer ft. Busy Signal & The Flexican & FS Green",
+          "title": "Watch Out For This (Bumaye) (Dimitri Vegas & Like Mike Tomorrowland Remix)",
+          "remix": "",
+          "trackId": "9442089"
+        },
+        {
+          "artist": "Zombie Nation vs. Bingo Player & Uberjak'd",
+          "title": "Zombie Rattle (Apocalypto & Jebu Rework)",
+          "remix": "",
+          "trackId": "9442090"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zombie Nation vs. Bingo Player & Uberjak'd",
+      "title": "Zombie Rattle (Apocalypto & Jebu Rework)",
+      "remix": "",
+      "label": "EPM/HYSTERIA",
+      "trackId": "9442090",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "113536"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zombie Nation vs. Bingo Player & Uberjak'd",
+          "title": "Zombie Rattle (Apocalypto & Jebu Rework)",
+          "remix": "",
+          "trackId": "9442090"
+        },
+        {
+          "artist": "Major Lazer x House Of Pain",
+          "title": "Jump x Jump Around (DJ Scooter Bootleg)",
+          "remix": "",
+          "trackId": "9442091"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Major Lazer x House Of Pain",
+      "title": "Jump x Jump Around (DJ Scooter Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "9442091",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "12",
+      "artist": "Major Lazer ft. Busy Signal",
+      "title": "Jump",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "9442092",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 830,
+      "mediaIds": {
+        "spotify": "361743",
+        "youtube": "361743",
+        "soundcloud": "361743",
+        "appleMusic": "361743"
+      },
+      "blendGroup": [
+        {
+          "artist": "Major Lazer ft. Busy Signal",
+          "title": "Jump",
+          "remix": "",
+          "trackId": "9442092"
+        },
+        {
+          "artist": "TUJAMO",
+          "title": "Hey Mister",
+          "remix": "",
+          "trackId": "9442093"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TUJAMO",
+      "title": "Hey Mister",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "9442093",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "164433",
+        "youtube": "164433",
+        "soundcloud": "164433",
+        "appleMusic": "164433"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Steve Aoki & Diplo & Deorro ft. Steve Bays",
+      "title": "Freak (Let's Get Freaky Acappella)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "9442094",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "148985",
+        "youtube": "148985",
+        "soundcloud": "148985",
+        "appleMusic": "148985"
+      },
+      "blendGroup": [
+        {
+          "artist": "Steve Aoki & Diplo & Deorro ft. Steve Bays",
+          "title": "Freak (Let's Get Freaky Acappella)",
+          "remix": "",
+          "trackId": "9442094"
+        },
+        {
+          "artist": "KANDY",
+          "title": "Fudge It",
+          "remix": "",
+          "trackId": "9442095"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "KANDY",
+      "title": "Fudge It",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9442095",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 975,
+      "mediaIds": {
+        "youtube": "321464",
+        "soundcloud": "321464"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Alice Deejay & Pickle vs. Peggy Gou vs. Aazar",
+      "title": "Better Off Alone vs. (It Goes Like) Nanana vs. Alarma (Major Lazer Edit)",
+      "remix": "",
+      "label": "VIOLENT/XL/FREE",
+      "trackId": "9442096",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1011,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Major Lazer & MC Lan & Anitta ft. BEAM",
+      "title": "Rave de Favela (VIP Intro)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "9442097",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1136,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Major Lazer & MC Lan & Anitta ft. BEAM",
+          "title": "Rave de Favela (VIP Intro)",
+          "remix": "",
+          "trackId": "9442097"
+        },
+        {
+          "artist": "kLap",
+          "title": "Tentei Concertar Rave De Favela",
+          "remix": "",
+          "trackId": "9442098"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "kLap",
+      "title": "Tentei Concertar Rave De Favela",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9442098",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "945380"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Major Lazer & MC Lan & Anitta ft. BEAM",
+      "title": "Rave de Favela",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "9444671",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "556294",
+        "youtube": "556294",
+        "soundcloud": "556294",
+        "appleMusic": "556294"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Masters At Work",
+      "title": "Work",
+      "remix": "",
+      "label": "MAW",
+      "trackId": "9442099",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1314,
+      "mediaIds": {
+        "spotify": "2033",
+        "youtube": "2033",
+        "soundcloud": "2033",
+        "appleMusic": "2033"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Missy Elliott ft. Ciara & Fatman Scoop",
+      "title": "Lose Control (Acappella)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "9444706",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "25067",
+        "youtube": "28003",
+        "soundcloud": "25067",
+        "appleMusic": "25067"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Skrillex & Mr. Oizo ft. Missy Elliott",
+      "title": "RATATA",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "9442100",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1386,
+      "mediaIds": {
+        "spotify": "615904",
+        "youtube": "615904",
+        "soundcloud": "615904",
+        "appleMusic": "615904"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Sammy Virji",
+      "title": "Never Let You Go (Hamdi Edit)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "9442101",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1429,
+      "mediaIds": {
+        "spotify": "740074",
+        "youtube": "740074",
+        "soundcloud": "740074"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "J Balvin & Skrillex",
+      "title": "In Da Getto (Chris Lorenzo Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "9442102",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1469,
+      "mediaIds": {
+        "spotify": "705036",
+        "youtube": "705036",
+        "soundcloud": "705036",
+        "appleMusic": "705036"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Chris Lorenzo",
+      "title": "Pump",
+      "remix": "",
+      "label": "LATE CHECKOUT",
+      "trackId": "9442103",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1588,
+      "mediaIds": {
+        "spotify": "887589",
+        "youtube": "887589",
+        "soundcloud": "887589",
+        "appleMusic": "887589"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Noizu & Westend & No/Me vs. Sean Paul",
+      "title": "Push To Start vs. Get Busy (WeDamnz Mashup)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)/INSOMNIAC",
+      "trackId": "9442104",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1780,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Panjabi MC",
+      "title": "Mundian To Bach Ke (Parah Dice Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "9442105",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1849,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Beyoncé vs. Major Lazer vs. Katy Perry & Valentino Khan",
+      "title": "Run The World vs. Pon De Floor vs. Swish Swish (Valentino Khan Edit)",
+      "remix": "",
+      "label": "MAD DECENT/COLUMBIA (SONY)/CAPITOL (EMI)",
+      "trackId": "9442106",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 1958,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Major Lazer ft. J Balvin & El Alfa",
+      "title": "Que Calor",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "9442107",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 1989,
+      "mediaIds": {
+        "spotify": "521726",
+        "youtube": "521726",
+        "soundcloud": "521726",
+        "appleMusic": "521726"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Bad Bunny & El Alfa",
+      "title": "La Romana",
+      "remix": "",
+      "label": "RIMAS",
+      "trackId": "9442108",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "500121",
+        "youtube": "500121",
+        "soundcloud": "500121",
+        "appleMusic": "500121"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Jus Now x Dismantle ft. Busy Signal",
+      "title": "Fire (Spotie) (Major Lazer Remix)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "9442109",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "419703",
+        "youtube": "419703",
+        "appleMusic": "419703"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jus Now x Dismantle ft. Busy Signal",
+          "title": "Fire (Spotie) (Major Lazer Remix)",
+          "remix": "",
+          "trackId": "9442109"
+        },
+        {
+          "artist": "Dismantle",
+          "title": "Computation",
+          "remix": "",
+          "trackId": "9442110"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dismantle",
+      "title": "Computation",
+      "remix": "",
+      "label": "WHEEL & DEAL",
+      "trackId": "9442110",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "42965",
+        "youtube": "42965",
+        "soundcloud": "42965",
+        "appleMusic": "42965"
+      }
+    },
+    {
+      "pos": "29",
+      "artist": "Bunji Garlin",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9442111",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Major Lazer ft. Mr. Killa",
+      "title": "Kings Of The Party",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "9442112",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "554193",
+        "youtube": "554193",
+        "soundcloud": "554193",
+        "appleMusic": "554193"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "M3B8",
+      "title": "Grind",
+      "remix": "",
+      "label": "HOUSE PARTY",
+      "trackId": "9442113",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "608570",
+        "youtube": "608570",
+        "soundcloud": "608570",
+        "appleMusic": "608570"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Retrohandz & Bunji Garlin & Richie Loop & Stadic",
+      "title": "Mash Up (Charge Up Riddim)",
+      "remix": "",
+      "label": "RETROHANDZ",
+      "trackId": "9442114",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "496252",
+        "youtube": "496252",
+        "soundcloud": "496252",
+        "appleMusic": "496252"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Fraxil",
+      "title": "Savage",
+      "remix": "",
+      "label": "JUNGLE TERROR",
+      "trackId": "9442115",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "496000",
+        "youtube": "496000",
+        "soundcloud": "496000",
+        "appleMusic": "496000"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Major Lazer ft. The Partysquad",
+      "title": "Original Don (Party Favor Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9442116",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "351827",
+        "soundcloud": "351827"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Skrillex & Fred again.. & Flowdan",
+      "title": "Rumble (RIOT Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "9442117",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "900594",
+        "soundcloud": "900594"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Travis Scott & Playboi Carti vs. Lil Uzi Vert",
+      "title": "FE!N vs. Just Wanna Rock",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)/CACTUS JACK",
+      "trackId": "9442118",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Travis Scott & Playboi Carti vs. Lil Uzi Vert",
+          "title": "FE!N vs. Just Wanna Rock",
+          "remix": "",
+          "trackId": "9442118"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9442119"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9442119",
+      "row": 36,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "37",
+      "artist": "Skrillex ft. Nai Barghouti",
+      "title": "XENA",
+      "remix": "",
+      "label": "OWSLA/ATLANTIC",
+      "trackId": "9442120",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "720320",
+        "youtube": "720320",
+        "soundcloud": "720320",
+        "appleMusic": "720320"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "DaBaby",
+      "title": "Shake Sumn",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "9442121",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "913619",
+        "youtube": "913619",
+        "soundcloud": "913619",
+        "appleMusic": "913619"
+      },
+      "blendGroup": [
+        {
+          "artist": "DaBaby",
+          "title": "Shake Sumn",
+          "remix": "",
+          "trackId": "9442121"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike",
+          "title": "Generation X (Acappella)",
+          "remix": "",
+          "trackId": "9442122"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike",
+      "title": "Generation X (Acappella)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "9442122",
+      "row": 38,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "26099",
+        "youtube": "34674",
+        "soundcloud": "34674",
+        "appleMusic": "26099"
+      }
+    },
+    {
+      "pos": "39",
+      "artist": "Yeah Yeah Yeahs & A-Trak vs. Major Lazer",
+      "title": "Heads Will Roll The Bass (Jack Ü Mashup)",
+      "remix": "",
+      "label": "DGC/MAD DECENT",
+      "trackId": "9442123",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Eptic",
+      "title": "The End (Breaux VIP)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9442124",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "257175",
+        "soundcloud": "257175"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eptic",
+          "title": "The End (Breaux VIP)",
+          "remix": "",
+          "trackId": "9442124"
+        },
+        {
+          "artist": "Yeah Yeah Yeahs & A-Trak & Kid Kamillion vs. Rihanna vs. Mightyfools & Yellow Claw & Hasse De Moor",
+          "title": "Heads Will Roll vs. Work vs. Lick Dat (Flosstradamus Edit)",
+          "remix": "",
+          "trackId": "9442125"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Yeah Yeah Yeahs & A-Trak & Kid Kamillion vs. Rihanna vs. Mightyfools & Yellow Claw & Hasse De Moor",
+      "title": "Heads Will Roll vs. Work vs. Lick Dat (Flosstradamus Edit)",
+      "remix": "",
+      "label": "DGC/BARONG FAMILY/ROC NATION (SONY)",
+      "trackId": "9442125",
+      "row": 40,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "41",
+      "artist": "Jack Ü",
+      "title": "Boi To Get Low",
+      "remix": "",
+      "label": "MAD DECENT/FREE/BARONG FAMILY",
+      "trackId": "9442126",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "Deewunn vs. Konshens vs. Afro Bros",
+      "title": "Bunx Up (Major Lazer Mek It Bounce 100 Bpm)",
+      "remix": "",
+      "label": "",
+      "trackId": "9442127",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "43",
+      "artist": "Rema & Selena Gomez vs. Chaka Demus & Pliers",
+      "title": "Calm Down vs. Murder She Wrote",
+      "remix": "",
+      "label": "",
+      "trackId": "9442128",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "44",
+      "artist": "Mr. Eazi & Major Lazer ft. Nicki Minaj & K4mo",
+      "title": "Oh My Gawd (VIP)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "9442129",
+      "row": 44,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1081352",
+        "appleMusic": "1081352"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "45",
+      "artist": "Major Lazer ft. Machel Montano",
+      "title": "Sound Bang (VIP)",
+      "remix": "",
+      "label": "SECRETLY CANADIAN",
+      "trackId": "9442130",
+      "row": 45,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "46",
+      "artist": "Major Lazer & Grandtheft",
+      "title": "Number One",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9442131",
+      "row": 46,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "301183",
+        "soundcloud": "301183"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "47",
+      "artist": "Macklemore & Ryan Lewis ft. Ray Dalton",
+      "title": "Can't Hold Us",
+      "remix": "",
+      "label": "MACKLEMORE",
+      "trackId": "9442132",
+      "row": 47,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "125755",
+        "youtube": "125755",
+        "soundcloud": "125755",
+        "appleMusic": "125755"
+      },
+      "blendGroup": [
+        {
+          "artist": "Macklemore & Ryan Lewis ft. Ray Dalton",
+          "title": "Can't Hold Us",
+          "remix": "",
+          "trackId": "9442132"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9442133"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9442133",
+      "row": 47,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "48",
+      "artist": "Collie Buddz",
+      "title": "Come Around",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "9442134",
+      "row": 48,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "91612",
+        "youtube": "91612",
+        "soundcloud": "91612",
+        "appleMusic": "91612"
+      },
+      "blendGroup": [
+        {
+          "artist": "Collie Buddz",
+          "title": "Come Around",
+          "remix": "",
+          "trackId": "9442134"
+        },
+        {
+          "artist": "TroyBoi & Flosstradamus",
+          "title": "Soundclash",
+          "remix": "",
+          "trackId": "9442135"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TroyBoi & Flosstradamus",
+      "title": "Soundclash",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "9442135",
+      "row": 48,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "226289",
+        "youtube": "226289",
+        "soundcloud": "226289",
+        "appleMusic": "226289"
+      }
+    },
+    {
+      "pos": "49",
+      "artist": "Damian Marley",
+      "title": "Welcome To Jamrock (Major Lazer Dubplate)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "9442136",
+      "row": 49,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "107579"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "50",
+      "artist": "DJ Khaled ft. Ludacris & Rick Ross & T-Pain & Snoop Dogg",
+      "title": "All I Do Is Win",
+      "remix": "",
+      "label": "E1 MUSIC",
+      "trackId": "9442137",
+      "row": 50,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "52598",
+        "youtube": "52598",
+        "soundcloud": "52598",
+        "appleMusic": "52598"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Khaled ft. Ludacris & Rick Ross & T-Pain & Snoop Dogg",
+          "title": "All I Do Is Win",
+          "remix": "",
+          "trackId": "9442137"
+        },
+        {
+          "artist": "Fat Joe & Remy Ma ft. French Montana",
+          "title": "All The Way Up",
+          "remix": "",
+          "trackId": "9442138"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fat Joe & Remy Ma ft. French Montana",
+      "title": "All The Way Up",
+      "remix": "",
+      "label": "TERROR SQUAD",
+      "trackId": "9442138",
+      "row": 50,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "305083",
+        "youtube": "305083",
+        "soundcloud": "305083",
+        "appleMusic": "305083"
+      }
+    },
+    {
+      "pos": "51",
+      "artist": "Sean Paul vs. DJ Snake",
+      "title": "Get Busy vs. Disco Maghreb (Major Lazer Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9442139",
+      "row": 51,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "52",
+      "artist": "Major Lazer & DJ Snake ft. MØ",
+      "title": "Lean On",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "9442140",
+      "row": 52,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "241988",
+        "youtube": "241988",
+        "soundcloud": "241988",
+        "appleMusic": "241988"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "53",
+      "artist": "Major Lazer ft. Busy Signal & The Flexican & FS Green",
+      "title": "Watch Out For This (Bumaye)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "9442141",
+      "row": 53,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "62572",
+        "youtube": "62572",
+        "soundcloud": "62572",
+        "appleMusic": "62572"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "54",
+      "artist": "Major Lazer vs. Quintino vs. Good Times Ahead",
+      "title": "Light It Up vs. 4 Mind (Major Lazer Light It Up To Fever Drop)",
+      "remix": "",
+      "label": "",
+      "trackId": "9442142",
+      "row": 54,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "55",
+      "artist": "Koffee",
+      "title": "Toast (Major Lazer Show Me Love Edit)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)/PROMISED LAND",
+      "trackId": "9442143",
+      "row": 55,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "543022",
+        "soundcloud": "543022"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "hearthis",
+      "idMedia": "3813264",
+      "idSource": "40",
+      "url": "https://hearthis.at/10489931/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T02:41:21.228Z",
+  "scrapeVersion": 2
+}

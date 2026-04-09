@@ -1,0 +1,924 @@
+{
+  "tlId": "sl6huuk",
+  "dj": "helloworld",
+  "stage": "EDC Las Vegas",
+  "date": "2022-05-21",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/sl6huuk/helloworld-corona-electric-beach-stage-edc-las-vegas-united-states-2022-05-21.html",
+  "djs": [
+    {
+      "name": "helloworld",
+      "slug": "helloworld"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "helloworld ft. Adam Turley",
+      "title": "Something I Can't Change",
+      "remix": "",
+      "label": "HEAVEN SENT",
+      "trackId": "7739844",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "723469",
+        "youtube": "723469",
+        "soundcloud": "723469",
+        "appleMusic": "723469"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Papa Khan",
+      "title": "Rain",
+      "remix": "",
+      "label": "JOYTIME COLLECTIVE",
+      "trackId": "7739845",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "617938",
+        "youtube": "617938",
+        "soundcloud": "617938",
+        "appleMusic": "617938"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Sora (Dubstep)",
+      "title": "Changes",
+      "remix": "",
+      "label": "HALCYON",
+      "trackId": "7739846",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "917668",
+        "youtube": "917668",
+        "soundcloud": "917668",
+        "appleMusic": "917668"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Doja Cat ft. Ariana Grande",
+      "title": "I Don't Do Drugs (BAW & Lunnari Remix)",
+      "remix": "",
+      "label": "PATREON",
+      "trackId": "7739847",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "741984",
+        "soundcloud": "741984"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Sora (Dubstep)",
+      "title": "Miss U",
+      "remix": "",
+      "label": "HALCYON",
+      "trackId": "7739848",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "783675",
+        "youtube": "783675",
+        "soundcloud": "783675",
+        "appleMusic": "783675"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "ATC",
+      "title": "Around The World (La La La La La) (Miggy Remix)",
+      "remix": "",
+      "label": "KINGSIZE",
+      "trackId": "7739849",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "helloworld",
+      "title": "Dive In",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "7739850",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "789449",
+        "youtube": "789449",
+        "soundcloud": "789449",
+        "appleMusic": "789449"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Leotrix",
+      "title": "Sick Buddies",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "7739851",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "565914",
+        "youtube": "565914",
+        "soundcloud": "565914",
+        "appleMusic": "565914"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "helloworld",
+      "title": "World Is Burning",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "7739852",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "792577",
+        "soundcloud": "792577"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "G Jones",
+      "title": "Immortal Light",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "7739853",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "529315",
+        "youtube": "529315",
+        "soundcloud": "529315",
+        "appleMusic": "529315"
+      },
+      "blendGroup": [
+        {
+          "artist": "G Jones",
+          "title": "Immortal Light",
+          "remix": "",
+          "trackId": "7739853"
+        },
+        {
+          "artist": "helloworld",
+          "title": "Game Over",
+          "remix": "",
+          "trackId": "7739854"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "helloworld",
+      "title": "Game Over",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "7739854",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "792575",
+        "soundcloud": "792575"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Rootkit ft. Casey Cook",
+      "title": "Sparks",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "7739855",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "667693",
+        "youtube": "667693",
+        "appleMusic": "667693"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rootkit ft. Casey Cook",
+          "title": "Sparks",
+          "remix": "",
+          "trackId": "7739855"
+        },
+        {
+          "artist": "helloworld",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7739856"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "helloworld",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7739856",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "12",
+      "artist": "Herzeloyde",
+      "title": "Slice & Dice",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7739857",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "480717",
+        "youtube": "480717",
+        "soundcloud": "480717",
+        "appleMusic": "480717"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Kendrick Lamar vs. G Jones",
+      "title": "Humble vs. Helix (Flosstradamus Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "7739858",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Papa Khan",
+      "title": "Get To U",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "7739859",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "788149",
+        "youtube": "788149",
+        "soundcloud": "788149",
+        "appleMusic": "788149"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "IMANU & The Caracal Project & Leotrix",
+      "title": "Gaspin 4 Air",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "7739860",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "740650",
+        "youtube": "740650",
+        "soundcloud": "740650",
+        "appleMusic": "740650"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Oolacile",
+      "title": "Divisions (Laxcity Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7739861",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "606657",
+        "youtube": "606657",
+        "soundcloud": "606657",
+        "appleMusic": "606657"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "helloworld",
+      "title": "Waves",
+      "remix": "",
+      "label": "LOST IN DREAMS",
+      "trackId": "7739862",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "736885",
+        "youtube": "736885",
+        "soundcloud": "736885",
+        "appleMusic": "736885"
+      },
+      "blendGroup": [
+        {
+          "artist": "helloworld",
+          "title": "Waves",
+          "remix": "",
+          "trackId": "7739862"
+        },
+        {
+          "artist": "helloworld",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7739863"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "helloworld",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7739863",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "18",
+      "artist": "MUST DIE!",
+      "title": "SORROW TECH",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "7739864",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "661767",
+        "youtube": "661767",
+        "soundcloud": "661767",
+        "appleMusic": "661767"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "tensor project & CENTRL",
+      "title": "Sundowning In Blue",
+      "remix": "",
+      "label": "VALE",
+      "trackId": "7739865",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "helloworld",
+      "title": "Falling Down",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "7739866",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "792578",
+        "soundcloud": "792578"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Flux Pavilion & Chime ft. spaceKDET",
+      "title": "Fall To Me (helloworld Remix)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "7739867",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "777872",
+        "youtube": "777872",
+        "soundcloud": "777872",
+        "appleMusic": "777872"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "helloworld & Elijah Hill",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7739868",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Blanke",
+      "title": "Hollow",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "7739869",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "521494",
+        "youtube": "521494",
+        "soundcloud": "521494",
+        "appleMusic": "521494"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "helloworld",
+      "title": "Only Way Out",
+      "remix": "",
+      "label": "LOST IN DREAMS",
+      "trackId": "7739870",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "711850",
+        "youtube": "711850",
+        "soundcloud": "711850",
+        "appleMusic": "711850"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Kill The Noise ft. Bryn Christopher",
+      "title": "Mine (Getter Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "7739871",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "298542",
+        "youtube": "298542",
+        "soundcloud": "298542",
+        "appleMusic": "298542"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Kumarion",
+      "title": "Want It",
+      "remix": "",
+      "label": "JADŪ DALA",
+      "trackId": "7739872",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "562211",
+        "youtube": "562211",
+        "soundcloud": "562211",
+        "appleMusic": "562211"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Skrillex & Noisia & Josh Pan & Dylan Brady",
+      "title": "Supersonic (My Existence)",
+      "remix": "",
+      "label": "OWSLA/ATLANTIC",
+      "trackId": "7739873",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "697454",
+        "youtube": "697454",
+        "soundcloud": "697454",
+        "appleMusic": "697454"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Noisia & Josh Pan & Dylan Brady",
+          "title": "Supersonic (My Existence)",
+          "remix": "",
+          "trackId": "7739873"
+        },
+        {
+          "artist": "Drew Wilken ft. Gabriella Jacobs",
+          "title": "Found Me",
+          "remix": "",
+          "trackId": "7739903"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Drew Wilken ft. Gabriella Jacobs",
+      "title": "Found Me",
+      "remix": "",
+      "label": "",
+      "trackId": "7739903",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "7739903",
+        "soundcloud": "7739903",
+        "appleMusic": "7739903"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "helloworld",
+      "title": "Nowhere Left To Hide",
+      "remix": "",
+      "label": "HEAVEN SENT",
+      "trackId": "7739874",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "750020",
+        "youtube": "750020",
+        "soundcloud": "750020",
+        "appleMusic": "750020"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Robu",
+      "title": "Reload",
+      "remix": "",
+      "label": "VALE",
+      "trackId": "7739875",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Whethan & Louis The Child",
+      "title": "Drip Drip",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7739876",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "414276"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "helloworld",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7739877",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Flume",
+      "title": "Ecdysis",
+      "remix": "",
+      "label": "FUTURE CLASSIC",
+      "trackId": "7739878",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "482905",
+        "youtube": "482905",
+        "soundcloud": "482905",
+        "appleMusic": "482905"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "EPROM",
+      "title": "9 To Ya Dome",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7739879",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "382935",
+        "youtube": "382935",
+        "appleMusic": "382935"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "The Legend Of Zelda: Ocarina Of Time",
+      "title": "Great Fairy Fountain",
+      "remix": "",
+      "label": "",
+      "trackId": "7739880",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Boombox Cartel & Moody Good ft. Calivania",
+      "title": "Shadow (helloworld Remix)",
+      "remix": "",
+      "label": "MONTA",
+      "trackId": "7739881",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "806574",
+        "appleMusic": "806574"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Flume ft. MAY-A",
+      "title": "Say Nothing",
+      "remix": "",
+      "label": "FUTURE CLASSIC",
+      "trackId": "7739882",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "767822",
+        "youtube": "767822",
+        "soundcloud": "767822",
+        "appleMusic": "767822"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flume ft. MAY-A",
+          "title": "Say Nothing",
+          "remix": "",
+          "trackId": "7739882"
+        },
+        {
+          "artist": "helloworld",
+          "title": "Warning Signs",
+          "remix": "",
+          "trackId": "7739883"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "helloworld",
+      "title": "Warning Signs",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "7739883",
+      "row": 36,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "773602",
+        "youtube": "773602",
+        "soundcloud": "773602",
+        "appleMusic": "773602"
+      }
+    },
+    {
+      "pos": "37",
+      "artist": "PEEKABOO",
+      "title": "Impossible",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "7739884",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "543154",
+        "youtube": "543154",
+        "soundcloud": "543154",
+        "appleMusic": "543154"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "MineSweepa",
+      "title": "Voodoo",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7739885",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "565804",
+        "youtube": "565804",
+        "soundcloud": "565804",
+        "appleMusic": "565804"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Aweminus",
+      "title": "Frosty Witch Nips",
+      "remix": "",
+      "label": "BROOKLYN FIRE",
+      "trackId": "7739886",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "536142",
+        "youtube": "536142",
+        "soundcloud": "536142",
+        "appleMusic": "536142"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Krewella & Yellow Claw",
+      "title": "Rewind",
+      "remix": "",
+      "label": "MIXED KIDS",
+      "trackId": "7739887",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "594174",
+        "youtube": "594174",
+        "soundcloud": "594174",
+        "appleMusic": "594174"
+      },
+      "blendGroup": [
+        {
+          "artist": "Krewella & Yellow Claw",
+          "title": "Rewind",
+          "remix": "",
+          "trackId": "7739887"
+        },
+        {
+          "artist": "helloworld",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7739888"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "helloworld",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7739888",
+      "row": 40,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "41",
+      "artist": "helloworld",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7739889",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "Leotrix",
+      "title": "Taking Back",
+      "remix": "",
+      "label": "GUD VIBRATIONS",
+      "trackId": "7739890",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "710735",
+        "youtube": "710735",
+        "soundcloud": "710735",
+        "appleMusic": "710735"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "43",
+      "artist": "Leotrix",
+      "title": "Sight",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "7739891",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "671976",
+        "youtube": "671976",
+        "soundcloud": "671976",
+        "appleMusic": "671976"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "44",
+      "artist": "helloworld & Pauline Herr",
+      "title": "Voices",
+      "remix": "",
+      "label": "HEAVEN SENT",
+      "trackId": "7739892",
+      "row": 44,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "669699",
+        "youtube": "669699",
+        "soundcloud": "669699",
+        "appleMusic": "669699"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T04:54:53.807Z",
+  "scrapeVersion": 2
+}

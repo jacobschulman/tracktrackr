@@ -1,0 +1,805 @@
+{
+  "tlId": "31rf7pt",
+  "dj": "Galantis",
+  "stage": "EDC Las Vegas",
+  "date": "2015-06-21",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/31rf7pt/galantis-kineticfield-edc-las-vegas-united-states-2015-06-21.html",
+  "djs": [
+    {
+      "name": "Galantis",
+      "slug": "galantis"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Galantis",
+      "title": "Runaway (U & I)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1483573",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "216135",
+        "youtube": "216135",
+        "soundcloud": "216135",
+        "appleMusic": "216135"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Galantis",
+      "title": "Runaway (U & I) (Quintino Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1483574",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "230785",
+        "youtube": "230785",
+        "soundcloud": "230785",
+        "appleMusic": "230785"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Delayers vs. Nari & Milani",
+      "title": "Phenomena",
+      "remix": "",
+      "label": "ARMADA TRICE",
+      "trackId": "1490455",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "226954",
+        "youtube": "226954",
+        "soundcloud": "226954",
+        "appleMusic": "226954"
+      },
+      "blendGroup": [
+        {
+          "artist": "Delayers vs. Nari & Milani",
+          "title": "Phenomena",
+          "remix": "",
+          "trackId": "1490455"
+        },
+        {
+          "artist": "Galantis",
+          "title": "Friend (Hard Times) (Acappella)",
+          "remix": "",
+          "trackId": "1483575"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Galantis",
+      "title": "Friend (Hard Times) (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1483575",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "190041",
+        "youtube": "190041",
+        "soundcloud": "247752",
+        "appleMusic": "190041"
+      },
+      "blendGroup": [
+        {
+          "artist": "Galantis",
+          "title": "Friend (Hard Times) (Acappella)",
+          "remix": "",
+          "trackId": "1483575"
+        },
+        {
+          "artist": "KSHMR & DallasK",
+          "title": "Burn",
+          "remix": "",
+          "trackId": "1483576"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "KSHMR & DallasK",
+      "title": "Burn",
+      "remix": "",
+      "label": "REVEALED/SPINNIN'",
+      "trackId": "1483576",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "211000",
+        "youtube": "211000",
+        "soundcloud": "211000",
+        "appleMusic": "211000"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Chuckie & Diamond Pistols ft. Hyper Crush",
+      "title": "Bang!",
+      "remix": "",
+      "label": "DIRTY DUTCH",
+      "trackId": "1483587",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "226408",
+        "youtube": "226408",
+        "soundcloud": "226408",
+        "appleMusic": "226408"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Galantis",
+      "title": "Help",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1483588",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "183947",
+        "soundcloud": "183947",
+        "appleMusic": "183947"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "TUJAMO",
+      "title": "Booty Bounce",
+      "remix": "",
+      "label": "SPINNIN'/CITY STARS",
+      "trackId": "1483589",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "243611",
+        "youtube": "243611",
+        "soundcloud": "243611",
+        "appleMusic": "243611"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Paris & Simo & Lush & Simon",
+      "title": "Drop The Pressure",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1483590",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "257002"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Martin Solveig ft. Sam White",
+      "title": "+1",
+      "remix": "",
+      "label": "SPINNIN' DEEP",
+      "trackId": "1483591",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "252079",
+        "youtube": "252079",
+        "soundcloud": "252079",
+        "appleMusic": "252079"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Galantis",
+      "title": "Louder Harder Better",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1483592",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "258319",
+        "youtube": "258319",
+        "soundcloud": "258319",
+        "appleMusic": "258319"
+      },
+      "blendGroup": [
+        {
+          "artist": "Galantis",
+          "title": "Louder Harder Better",
+          "remix": "",
+          "trackId": "1483592"
+        },
+        {
+          "artist": "Laidback Luke ft. MC Good Grip",
+          "title": "Rocking With The Best (Acappella)",
+          "remix": "",
+          "trackId": "1498076"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Laidback Luke ft. MC Good Grip",
+      "title": "Rocking With The Best (Acappella)",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "1498076",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "23183",
+        "soundcloud": "23183"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Galantis",
+      "title": "Gold Dust",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1483593",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "240715",
+        "youtube": "240715",
+        "soundcloud": "240715",
+        "appleMusic": "240715"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Ummet Ozcan",
+      "title": "Lose Control",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1483594",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "250567",
+        "youtube": "250567",
+        "soundcloud": "250567",
+        "appleMusic": "250567"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Galantis",
+      "title": "In My Head",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1480572",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "253032",
+        "youtube": "253032",
+        "soundcloud": "253032",
+        "appleMusic": "253032"
+      },
+      "blendGroup": [
+        {
+          "artist": "Galantis",
+          "title": "In My Head",
+          "remix": "",
+          "trackId": "1480572"
+        },
+        {
+          "artist": "Dada Life",
+          "title": "One Last Night On Earth",
+          "remix": "",
+          "trackId": "1480663"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dada Life",
+      "title": "One Last Night On Earth",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "1480663",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "255535",
+        "youtube": "255535",
+        "soundcloud": "255535",
+        "appleMusic": "255535"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dada Life",
+          "title": "One Last Night On Earth",
+          "remix": "",
+          "trackId": "1480663"
+        },
+        {
+          "artist": "Sam Feldt ft. Kimberly Anne",
+          "title": "Show Me Love (Quintino Remix)",
+          "remix": "",
+          "trackId": "1480573"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sam Feldt ft. Kimberly Anne",
+      "title": "Show Me Love (Quintino Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "1480573",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "243363",
+        "youtube": "243363",
+        "soundcloud": "243363",
+        "appleMusic": "243363"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Rune RK",
+      "title": "Calabria (Firebeatz Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "1480574",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "186960",
+        "youtube": "186960",
+        "soundcloud": "186960",
+        "appleMusic": "186960"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rune RK",
+          "title": "Calabria (Firebeatz Remix)",
+          "remix": "",
+          "trackId": "1480574"
+        },
+        {
+          "artist": "R3HAB & Deorro",
+          "title": "Flashlight",
+          "remix": "",
+          "trackId": "1480575"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "R3HAB & Deorro",
+      "title": "Flashlight",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1480575",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "177775",
+        "youtube": "177775",
+        "soundcloud": "177775",
+        "appleMusic": "177775"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Matt Watkins",
+      "title": "Africa",
+      "remix": "",
+      "label": "BOURNE",
+      "trackId": "1480576",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "250524",
+        "youtube": "250524",
+        "soundcloud": "250524",
+        "appleMusic": "250524"
+      },
+      "blendGroup": [
+        {
+          "artist": "Matt Watkins",
+          "title": "Africa",
+          "remix": "",
+          "trackId": "1480576"
+        },
+        {
+          "artist": "R3HAB & Deorro",
+          "title": "Flashlight (Uno Dos Tres Woow Acappella)",
+          "remix": "",
+          "trackId": "1480664"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "R3HAB & Deorro",
+      "title": "Flashlight (Uno Dos Tres Woow Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1480664",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "196737",
+        "youtube": "196737",
+        "soundcloud": "196737",
+        "appleMusic": "196737"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Galantis",
+      "title": "Kill 'Em With The Love",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "1480577",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "258320",
+        "youtube": "258320",
+        "soundcloud": "258320",
+        "appleMusic": "258320"
+      },
+      "blendGroup": [
+        {
+          "artist": "Galantis",
+          "title": "Kill 'Em With The Love",
+          "remix": "",
+          "trackId": "1480577"
+        },
+        {
+          "artist": "New World Sound & Reece Low",
+          "title": "Bounce That",
+          "remix": "",
+          "trackId": "1480665"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "New World Sound & Reece Low",
+      "title": "Bounce That",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "1480665",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "249399",
+        "youtube": "249399",
+        "soundcloud": "249399",
+        "appleMusic": "249399"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Galantis",
+      "title": "Don't Care",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "6681945",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "258899",
+        "youtube": "258899",
+        "soundcloud": "258899",
+        "appleMusic": "258899"
+      },
+      "blendGroup": [
+        {
+          "artist": "Galantis",
+          "title": "Don't Care",
+          "remix": "",
+          "trackId": "6681945"
+        },
+        {
+          "artist": "Hard Rock Sofa & Skidka",
+          "title": "Let Me Hear You Scream (Amersy Remix)",
+          "remix": "",
+          "trackId": "1480578"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hard Rock Sofa & Skidka",
+      "title": "Let Me Hear You Scream (Amersy Remix)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "1480578",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "171875",
+        "soundcloud": "171875"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Galantis",
+      "title": "Dancing To The Sound Of A Broken Heart",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1480579",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "259390",
+        "youtube": "259390",
+        "soundcloud": "259390",
+        "appleMusic": "259390"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Galantis",
+      "title": "You",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1480580",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "177685",
+        "youtube": "177685",
+        "soundcloud": "177685",
+        "appleMusic": "177685"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Galantis",
+      "title": "Peanut Butter Jelly",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1480581",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "250416",
+        "youtube": "250416",
+        "soundcloud": "250416",
+        "appleMusic": "250416"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Fraanklyn",
+      "title": "Rock The Funky Beats",
+      "remix": "",
+      "label": "SOSUMI (BLACK HOLE)",
+      "trackId": "1483596",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "256041",
+        "soundcloud": "256041"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Martin Solveig & GTA",
+      "title": "Intoxicated",
+      "remix": "",
+      "label": "SPINNIN' DEEP",
+      "trackId": "1483597",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "215977",
+        "youtube": "215977",
+        "soundcloud": "215977",
+        "appleMusic": "215977"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Solveig & GTA",
+          "title": "Intoxicated",
+          "remix": "",
+          "trackId": "1483597"
+        },
+        {
+          "artist": "Mark Ronson ft. Bruno Mars",
+          "title": "Uptown Funk (Misha K Remix)",
+          "remix": "",
+          "trackId": "1483598"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "title": "Uptown Funk (Misha K Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1483598",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "239242"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Galantis",
+      "title": "Smile",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1483599",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "153164",
+        "youtube": "153164",
+        "soundcloud": "153164",
+        "appleMusic": "153164"
+      },
+      "blendGroup": [
+        {
+          "artist": "Galantis",
+          "title": "Smile",
+          "remix": "",
+          "trackId": "1483599"
+        },
+        {
+          "artist": "Zedd ft. Selena Gomez",
+          "title": "I Want You To Know",
+          "remix": "",
+          "trackId": "1483600"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd ft. Selena Gomez",
+      "title": "I Want You To Know",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "1483600",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "241465",
+        "youtube": "241465",
+        "soundcloud": "241465",
+        "appleMusic": "241465"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "TJR & VINAI",
+      "title": "Bounce Generation",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1483601",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "184772",
+        "youtube": "184772",
+        "soundcloud": "184772",
+        "appleMusic": "184772"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Galantis",
+      "title": "Runaway (U & I)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1483602",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "216135",
+        "youtube": "216135",
+        "soundcloud": "216135",
+        "appleMusic": "216135"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Galantis",
+      "title": "Runaway (U & I) (Dillon Francis Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1486062",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "223813",
+        "youtube": "223813",
+        "soundcloud": "223813",
+        "appleMusic": "223813"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "313151",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/211576010"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "316737",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=ZioB0DpD8LE"
+    }
+  ],
+  "scrapedAt": "2026-04-08T08:21:59.303Z",
+  "scrapeVersion": 2
+}

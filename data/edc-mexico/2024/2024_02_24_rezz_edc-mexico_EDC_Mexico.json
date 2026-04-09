@@ -1,0 +1,669 @@
+{
+  "tlId": "22lms1ft",
+  "dj": "REZZ",
+  "stage": "EDC Mexico",
+  "date": "2024-02-24",
+  "year": 2024,
+  "url": "https://www.1001tracklists.com/tracklist/22lms1ft/rezz-circuitgrounds-edc-mexico-2024-02-24.html",
+  "djs": [
+    {
+      "name": "REZZ",
+      "slug": "rezz"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "REZZ x 1788-L",
+      "title": "H E X",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "10228703",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "427654",
+        "youtube": "427654",
+        "soundcloud": "427654",
+        "appleMusic": "427654"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "REZZ",
+      "title": "Edge",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "10228704",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 173,
+      "mediaIds": {
+        "spotify": "295667",
+        "youtube": "295667",
+        "soundcloud": "295667",
+        "appleMusic": "295667"
+      },
+      "blendGroup": [
+        {
+          "artist": "REZZ",
+          "title": "Edge",
+          "remix": "",
+          "trackId": "10228704"
+        },
+        {
+          "artist": "REZZ",
+          "title": "Hostile",
+          "remix": "",
+          "trackId": "10228705"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "REZZ",
+      "title": "Hostile",
+      "remix": "",
+      "label": "HYPNOVIZION",
+      "trackId": "10228705",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "REZZ",
+          "title": "Hostile",
+          "remix": "",
+          "trackId": "10228705"
+        },
+        {
+          "artist": "REZZ",
+          "title": "Edge (Blanke Remix)",
+          "remix": "",
+          "trackId": "10228706"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "REZZ",
+      "title": "Edge (Blanke Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "10228706",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "905043",
+        "youtube": "905043",
+        "soundcloud": "905043",
+        "appleMusic": "905043"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "REZZ & Kotek",
+      "title": "Teleportal",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "10228707",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 340,
+      "mediaIds": {
+        "spotify": "451267",
+        "youtube": "451267",
+        "soundcloud": "451267",
+        "appleMusic": "451267"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "REZZ & Yultron",
+      "title": "Hell On Earth",
+      "remix": "",
+      "label": "REZZ",
+      "trackId": "10228708",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 402,
+      "mediaIds": {
+        "spotify": "539896",
+        "youtube": "539896",
+        "soundcloud": "539896",
+        "appleMusic": "539896"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "REZZ & Grabbitz",
+      "title": "Someone Else",
+      "remix": "",
+      "label": "REZZ",
+      "trackId": "10228709",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 496,
+      "mediaIds": {
+        "spotify": "574589",
+        "youtube": "574589",
+        "soundcloud": "574589",
+        "appleMusic": "574589"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "REZZ & NGHTMRE ft. DeathByRomy",
+      "title": "All Night",
+      "remix": "",
+      "label": "GUD VIBRATIONS/HYPNOVIZION",
+      "trackId": "10228710",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 733,
+      "mediaIds": {
+        "spotify": "945904",
+        "youtube": "945904",
+        "soundcloud": "945904",
+        "appleMusic": "945904"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "REZZ & Deathpact",
+      "title": "Life & Death (Quackson Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "10203988",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 920,
+      "mediaIds": {
+        "youtube": "923104",
+        "soundcloud": "923104"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "REZZ & Cyclops",
+      "title": "Open Ur Eye",
+      "remix": "",
+      "label": "HYPNOVIZION",
+      "trackId": "10203989",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1068,
+      "mediaIds": {
+        "spotify": "982898",
+        "youtube": "982898",
+        "soundcloud": "982898",
+        "appleMusic": "982898"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "REZZ & EDDIE",
+      "title": "Maleficent",
+      "remix": "",
+      "label": "HYPNOVIZION",
+      "trackId": "10203990",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1155,
+      "mediaIds": {
+        "spotify": "982899",
+        "youtube": "982899",
+        "soundcloud": "982899",
+        "appleMusic": "982899"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "REZZ & Subtronics",
+      "title": "Black Ice",
+      "remix": "",
+      "label": "HYPNOVIZION",
+      "trackId": "10203991",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1235,
+      "mediaIds": {
+        "spotify": "960084",
+        "youtube": "960084",
+        "soundcloud": "960084",
+        "appleMusic": "960084"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "REZZ & HOLLY",
+      "title": "DYSPHORIA",
+      "remix": "",
+      "label": "HYPNOVIZION",
+      "trackId": "10203992",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1465,
+      "mediaIds": {
+        "spotify": "967610",
+        "youtube": "967610",
+        "soundcloud": "967610",
+        "appleMusic": "967610"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "KAVARI",
+      "title": "Someone Loved It",
+      "remix": "",
+      "label": "AYA GARDEN",
+      "trackId": "10203993",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1650,
+      "mediaIds": {
+        "spotify": "885752",
+        "youtube": "885752",
+        "soundcloud": "885752",
+        "appleMusic": "885752"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Sam Lamar & CMOR",
+      "title": "The High Priestess",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "10203994",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1710,
+      "mediaIds": {
+        "spotify": "503784",
+        "youtube": "503784",
+        "soundcloud": "503784",
+        "appleMusic": "503784"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "REZZ",
+      "title": "Can You See Me?",
+      "remix": "",
+      "label": "HYPNOVIZION",
+      "trackId": "10203995",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1762,
+      "mediaIds": {
+        "spotify": "977408",
+        "youtube": "977408",
+        "soundcloud": "977408",
+        "appleMusic": "977408"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "REZZ x Blanke",
+      "title": "Everywhere, Nowhere",
+      "remix": "",
+      "label": "HYPNOVIZION",
+      "trackId": "10203996",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1900,
+      "mediaIds": {
+        "spotify": "980769",
+        "youtube": "980769",
+        "soundcloud": "980769",
+        "appleMusic": "980769"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "REZZ & Deathpact",
+      "title": "Chemical Bond",
+      "remix": "",
+      "label": "REZZ",
+      "trackId": "10203998",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2097,
+      "mediaIds": {
+        "spotify": "720857",
+        "youtube": "720857",
+        "soundcloud": "720857",
+        "appleMusic": "720857"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "REZZ vs. Potions",
+      "title": "Relax x New Era",
+      "remix": "",
+      "label": "",
+      "trackId": "10203997",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2299,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "REZZ",
+      "title": "Orbit",
+      "remix": "",
+      "label": "REZZ",
+      "trackId": "10228711",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2400,
+      "mediaIds": {
+        "spotify": "626633",
+        "youtube": "626633",
+        "soundcloud": "626633",
+        "appleMusic": "626633"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "REZZ & Subtronics",
+      "title": "Puzzle Box",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "10228712",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2606,
+      "mediaIds": {
+        "spotify": "776107",
+        "youtube": "776107",
+        "soundcloud": "776107",
+        "appleMusic": "776107"
+      },
+      "blendGroup": [
+        {
+          "artist": "REZZ & Subtronics",
+          "title": "Puzzle Box",
+          "remix": "",
+          "trackId": "10228712"
+        },
+        {
+          "artist": "REZZ & Subtronics",
+          "title": "Puzzle Box (Subtronics VIP)",
+          "remix": "",
+          "trackId": "10228713"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "REZZ & Subtronics",
+      "title": "Puzzle Box (Subtronics VIP)",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "10228713",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "20",
+      "artist": "REZZ",
+      "title": "Suffer In Silence",
+      "remix": "",
+      "label": "HYPNOVIZION",
+      "trackId": "10228714",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2760,
+      "mediaIds": {
+        "spotify": "876357",
+        "youtube": "876357",
+        "soundcloud": "876357",
+        "appleMusic": "876357"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "REZZ & Sayer",
+      "title": "Your Soul Will Never Be Released",
+      "remix": "",
+      "label": "REZZ",
+      "trackId": "10228715",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2870,
+      "mediaIds": {
+        "spotify": "506922",
+        "youtube": "506922",
+        "soundcloud": "506922",
+        "appleMusic": "506922"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "REZZ ft. PVRIS",
+      "title": "Sacrificial",
+      "remix": "",
+      "label": "REZZ",
+      "trackId": "10228716",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3011,
+      "mediaIds": {
+        "spotify": "656572",
+        "youtube": "656572",
+        "soundcloud": "656572",
+        "appleMusic": "656572"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "REZZ",
+      "title": "ID1",
+      "remix": "",
+      "label": "HYPNOVIZION",
+      "trackId": "10228717",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3206,
+      "mediaIds": {
+        "spotify": "982901",
+        "youtube": "982901",
+        "soundcloud": "982901",
+        "appleMusic": "982901"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "REZZ & Deathpact",
+      "title": "Life & Death",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "10228718",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3271,
+      "mediaIds": {
+        "spotify": "423178",
+        "youtube": "423178",
+        "soundcloud": "423178",
+        "appleMusic": "423178"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "REZZ",
+      "title": "Dark Age",
+      "remix": "",
+      "label": "REZZ",
+      "trackId": "10228719",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3319,
+      "mediaIds": {
+        "spotify": "497334",
+        "youtube": "497334",
+        "soundcloud": "497334",
+        "appleMusic": "497334"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "REZZ",
+      "title": "Circus",
+      "remix": "",
+      "label": "HYPNOVIZION",
+      "trackId": "10228720",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3487,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "REZZ & Quackson & Wreckno",
+      "title": "Gyrate",
+      "remix": "",
+      "label": "HYPNOVIZION",
+      "trackId": "10228721",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3663,
+      "mediaIds": {
+        "spotify": "861375",
+        "youtube": "861375",
+        "soundcloud": "861375",
+        "appleMusic": "861375"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "REZZ ft. Dove Cameron",
+      "title": "Taste Of You",
+      "remix": "",
+      "label": "REZZ",
+      "trackId": "10228722",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3840,
+      "mediaIds": {
+        "spotify": "692372",
+        "youtube": "692372",
+        "soundcloud": "692372",
+        "appleMusic": "692372"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "REZZMAU5",
+      "title": "Infraliminal",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "10228723",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 4020,
+      "mediaIds": {
+        "spotify": "936090",
+        "youtube": "936090",
+        "soundcloud": "936090",
+        "appleMusic": "936090"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "REZZ & INZO",
+      "title": "The Descent",
+      "remix": "",
+      "label": "HYPNOVIZION",
+      "trackId": "10228724",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 4253,
+      "mediaIds": {
+        "spotify": "982900",
+        "youtube": "982900",
+        "soundcloud": "982900",
+        "appleMusic": "982900"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "REZZ & fknsyd",
+      "title": "Sweet Dreams (Are Made Of This)",
+      "remix": "",
+      "label": "REZZ",
+      "trackId": "10228725",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 4435,
+      "mediaIds": {
+        "spotify": "776208",
+        "youtube": "776208",
+        "soundcloud": "776208",
+        "appleMusic": "776208"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_2",
+      "idMedia": "4061156",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/rezz-at-edc-mexico-2024-circuit-grounds-stage-dj-mix/1737862498/us/album/rezz-at-edc-mexico-2024-circuit-grounds-stage-dj-mix/1737862498?app=music&at=1000lwkw"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "3998478",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=q6T-h7ihwxw"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "3984888",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=uj3ppwsVRC0"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:39:59.678Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,798 @@
+{
+  "tlId": "vjwhhu1",
+  "dj": "KDH",
+  "stage": "Ultra Music Festival Japan",
+  "date": "2023-09-17",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/vjwhhu1/kdh-mainstage-ultra-music-festival-japan-2023-09-17.html",
+  "djs": [
+    {
+      "name": "KDH",
+      "slug": "kdh"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "KDH",
+      "title": "Beginning (Intro Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "11737251",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Raven & Kreyn & KDH ft. Scarlett",
+      "title": "Dum Dum",
+      "remix": "",
+      "label": "NCS",
+      "trackId": "11737252",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "862755",
+        "youtube": "862755",
+        "soundcloud": "862755",
+        "appleMusic": "862755"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "KDH & Jordan Grace",
+      "title": "Pressure",
+      "remix": "",
+      "label": "LOUD MEMORY",
+      "trackId": "11737253",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1144155",
+        "youtube": "1144155",
+        "soundcloud": "1144155",
+        "appleMusic": "1144155"
+      },
+      "blendGroup": [
+        {
+          "artist": "KDH & Jordan Grace",
+          "title": "Pressure",
+          "remix": "",
+          "trackId": "11737253"
+        },
+        {
+          "artist": "Macklemore & Ryan Lewis ft. Ray Dalton",
+          "title": "Can't Hold Us (Acappella)",
+          "remix": "",
+          "trackId": "11737254"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Macklemore & Ryan Lewis ft. Ray Dalton",
+      "title": "Can't Hold Us (Acappella)",
+      "remix": "",
+      "label": "MACKLEMORE",
+      "trackId": "11737254",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "125755",
+        "youtube": "125755",
+        "soundcloud": "125755",
+        "appleMusic": "125755"
+      },
+      "blendGroup": [
+        {
+          "artist": "Macklemore & Ryan Lewis ft. Ray Dalton",
+          "title": "Can't Hold Us (Acappella)",
+          "remix": "",
+          "trackId": "11737254"
+        },
+        {
+          "artist": "Calvin Harris & Disciples ft. Ina Wroldsen",
+          "title": "How Deep Is Your Love (Acappella)",
+          "remix": "",
+          "trackId": "11737255"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris & Disciples ft. Ina Wroldsen",
+      "title": "How Deep Is Your Love (Acappella)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "11737255",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "259831",
+        "youtube": "263934",
+        "soundcloud": "263934",
+        "appleMusic": "259831"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "11737256",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "11737256"
+        },
+        {
+          "artist": "Martin Garrix & Dua Lipa",
+          "title": "Scared To Be Lonely (Acappella)",
+          "remix": "",
+          "trackId": "11737257"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Garrix & Dua Lipa",
+      "title": "Scared To Be Lonely (Acappella)",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "11737257",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "344436",
+        "youtube": "344436",
+        "soundcloud": "344436",
+        "appleMusic": "344436"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Garrix & Dua Lipa",
+          "title": "Scared To Be Lonely (Acappella)",
+          "remix": "",
+          "trackId": "11737257"
+        },
+        {
+          "artist": "Sam Smith ft. Kim Petras",
+          "title": "Unholy",
+          "remix": "(Acappella)",
+          "trackId": "11737258"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sam Smith ft. Kim Petras",
+      "title": "Unholy",
+      "remix": "(Acappella)",
+      "label": "CAPITOL (EMI)",
+      "trackId": "11737258",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "828410",
+        "youtube": "828410",
+        "soundcloud": "828410",
+        "appleMusic": "828410"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "11737259",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "11737259"
+        },
+        {
+          "artist": "Eurythmics",
+          "title": "Sweet Dreams (Are Made of This) (Acappella)",
+          "remix": "",
+          "trackId": "11737260"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eurythmics",
+      "title": "Sweet Dreams (Are Made of This) (Acappella)",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "11737260",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1081",
+        "youtube": "1081",
+        "soundcloud": "13101",
+        "appleMusic": "1081"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eurythmics",
+          "title": "Sweet Dreams (Are Made of This) (Acappella)",
+          "remix": "",
+          "trackId": "11737260"
+        },
+        {
+          "artist": "David Guetta ft. Bebe Rexha",
+          "title": "I'm Good (Blue)",
+          "remix": "(Acappella)",
+          "trackId": "11737261"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta ft. Bebe Rexha",
+      "title": "I'm Good (Blue)",
+      "remix": "(Acappella)",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "11737261",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "351861",
+        "youtube": "351861",
+        "soundcloud": "351861",
+        "appleMusic": "351861"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Pink Panda & KDH",
+      "title": "Renegade",
+      "remix": "",
+      "label": "PYRO",
+      "trackId": "11737262",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "939536",
+        "youtube": "939536",
+        "soundcloud": "939536",
+        "appleMusic": "939536"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "SIKS & KDH",
+      "title": "Turn On The Lights",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "11737263",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "984790",
+        "youtube": "984790",
+        "soundcloud": "984790",
+        "appleMusic": "984790"
+      },
+      "blendGroup": [
+        {
+          "artist": "SIKS & KDH",
+          "title": "Turn On The Lights",
+          "remix": "",
+          "trackId": "11737263"
+        },
+        {
+          "artist": "Maurice West & SaberZ",
+          "title": "Rhythm Of The Night",
+          "remix": "",
+          "trackId": "11737264"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Maurice West & SaberZ",
+      "title": "Rhythm Of The Night",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "11737264",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "372731",
+        "youtube": "372731",
+        "soundcloud": "372731",
+        "appleMusic": "372731"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Siik & KDH",
+      "title": "Closer",
+      "remix": "",
+      "label": "FUTURE HOUSE MUSIC",
+      "trackId": "11737265",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "975939",
+        "youtube": "975939",
+        "soundcloud": "975939",
+        "appleMusic": "975939"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "KDH & SWAGGER ft. Weldon",
+      "title": "Your Love",
+      "remix": "",
+      "label": "GENERATION SMASH (SMASH THE HOUSE)",
+      "trackId": "11737266",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "940777",
+        "youtube": "940777",
+        "soundcloud": "940777",
+        "appleMusic": "940777"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Steff Da Campo & KDH",
+      "title": "Kanpai",
+      "remix": "",
+      "label": "SPINNIN' CREATE",
+      "trackId": "11737267",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "866996",
+        "youtube": "866996",
+        "soundcloud": "866996",
+        "appleMusic": "866996"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "KDH",
+      "title": "Techno On My Mind",
+      "remix": "",
+      "label": "LATE HOURS MUSIC",
+      "trackId": "11737268",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1144157",
+        "appleMusic": "1144157"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "SMACK & KDH ft. SGNLS",
+      "title": "With You",
+      "remix": "",
+      "label": "MAXXIMIZE (SPINNIN')",
+      "trackId": "11737269",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "881167",
+        "youtube": "881167",
+        "soundcloud": "881167",
+        "appleMusic": "881167"
+      },
+      "blendGroup": [
+        {
+          "artist": "SMACK & KDH ft. SGNLS",
+          "title": "With You",
+          "remix": "",
+          "trackId": "11737269"
+        },
+        {
+          "artist": "Calvin Harris ft. Rihanna",
+          "title": "This Is What You Came For (Acappella)",
+          "remix": "",
+          "trackId": "11737270"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris ft. Rihanna",
+      "title": "This Is What You Came For (Acappella)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "11737270",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "307041",
+        "youtube": "307041",
+        "soundcloud": "307041",
+        "appleMusic": "307041"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "jeonghyeon & KDH ft. Jaime Deraz",
+      "title": "Holding On",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "11737271",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "825159",
+        "youtube": "825159",
+        "soundcloud": "825159",
+        "appleMusic": "825159"
+      },
+      "blendGroup": [
+        {
+          "artist": "jeonghyeon & KDH ft. Jaime Deraz",
+          "title": "Holding On",
+          "remix": "",
+          "trackId": "11737271"
+        },
+        {
+          "artist": "Avicii ft. MØ",
+          "title": "Dear Boy",
+          "remix": "(Acappella)",
+          "trackId": "11737272"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii ft. MØ",
+      "title": "Dear Boy",
+      "remix": "(Acappella)",
+      "label": "PRMD",
+      "trackId": "11737272",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "125723",
+        "youtube": "125723",
+        "soundcloud": "125723",
+        "appleMusic": "125723"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Jung Kook ft. Latto",
+      "title": "Seven",
+      "remix": "(Acappella)",
+      "label": "BIG HIT",
+      "trackId": "11737273",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "908328",
+        "youtube": "908328",
+        "appleMusic": "908328"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "jeonghyeon & KDH & SGNLS",
+      "title": "Bulletproof",
+      "remix": "",
+      "label": "SPINNIN' ASIA",
+      "trackId": "11737274",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "913045",
+        "youtube": "913045",
+        "appleMusic": "913045"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "John Summit ft. HAYLA",
+      "title": "Where You Are (Acappella)",
+      "remix": "",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "11737275",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "871184",
+        "youtube": "871184",
+        "soundcloud": "871184",
+        "appleMusic": "871184"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "jeonghyeon & KDH & Sewon",
+      "title": "Waiting For You",
+      "remix": "",
+      "label": "UP ALL NIGHT",
+      "trackId": "11737276",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "817939",
+        "youtube": "817939",
+        "soundcloud": "817939",
+        "appleMusic": "817939"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "NOTD & Maia Wright",
+      "title": "AM:PM (jeonghyeon Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "11737277",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "895507",
+        "soundcloud": "895507"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "KDH & SGNLS",
+      "title": "Need You Now",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "11737278",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "870782",
+        "youtube": "870782",
+        "soundcloud": "870782",
+        "appleMusic": "870782"
+      },
+      "blendGroup": [
+        {
+          "artist": "KDH & SGNLS",
+          "title": "Need You Now",
+          "remix": "",
+          "trackId": "11737278"
+        },
+        {
+          "artist": "Avicii ft. Chris Martin",
+          "title": "Heaven",
+          "remix": "(Acappella)",
+          "trackId": "11737279"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii ft. Chris Martin",
+      "title": "Heaven",
+      "remix": "(Acappella)",
+      "label": "UMG",
+      "trackId": "11737279",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "248721",
+        "youtube": "248721",
+        "soundcloud": "248721",
+        "appleMusic": "248721"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii ft. Chris Martin",
+          "title": "Heaven",
+          "remix": "(Acappella)",
+          "trackId": "11737279"
+        },
+        {
+          "artist": "Martin Garrix ft. Bonn",
+          "title": "High On Life",
+          "remix": "(Acappella)",
+          "trackId": "11737280"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Garrix ft. Bonn",
+      "title": "High On Life",
+      "remix": "(Acappella)",
+      "label": "EPIC AMSTERDAM/STMPD",
+      "trackId": "11737280",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "431535",
+        "youtube": "431535",
+        "soundcloud": "431535",
+        "appleMusic": "431535"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Manse & KDH",
+      "title": "One Sign",
+      "remix": "",
+      "label": "PROTOCOL",
+      "trackId": "11737281",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "998062",
+        "youtube": "998062",
+        "soundcloud": "998062",
+        "appleMusic": "998062"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Dastic & KDH",
+      "title": "I Like Your Body",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "11737282",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "923967",
+        "youtube": "923967",
+        "soundcloud": "923967",
+        "appleMusic": "923967"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "11737283",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "BlackCode & KDH ft. David Allen",
+      "title": "Young Again",
+      "remix": "",
+      "label": "GENERATION SMASH (SMASH THE HOUSE)",
+      "trackId": "11737284",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "968975",
+        "youtube": "968975",
+        "soundcloud": "968975",
+        "appleMusic": "968975"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Clean Bandit ft. A7S",
+      "title": "Everything But You(Co-Prod. by Tom Grennan & Digital Farm Animals & Franklin) (KDH & Sewon)",
+      "remix": "",
+      "label": "ATLANTIC",
+      "trackId": "11737285",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "KDH ft. Ina Bravo",
+      "title": "Superstar",
+      "remix": "",
+      "label": "LOUD MEMORY",
+      "trackId": "11737286",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1103789",
+        "soundcloud": "1103789",
+        "appleMusic": "1103789"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "KDH ft. KNVWN",
+      "title": "FOREVER",
+      "remix": "",
+      "label": "AVEX ENTERTAINMENT",
+      "trackId": "11737287",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "803317",
+        "appleMusic": "803317"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4625450",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=4_c80EucVvg"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:35:23.339Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,962 @@
+{
+  "tlId": "yxncmb9",
+  "dj": "Don Diablo",
+  "stage": "EDC Las Vegas",
+  "date": "2019-05-18",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/yxncmb9/don-diablo-kineticfield-edc-las-vegas-united-states-2019-05-18.html",
+  "djs": [
+    {
+      "name": "Don Diablo",
+      "slug": "dondiablo"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Don Diablo ft. Kiiara",
+      "title": "You're Not Alone",
+      "remix": "(Intro Edit)",
+      "label": "PARAMETRIC (ATLANTIC)",
+      "trackId": "4125657",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 360,
+      "mediaIds": {
+        "spotify": "429998",
+        "youtube": "429998",
+        "soundcloud": "429998",
+        "appleMusic": "429998"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Don Diablo ft. Alex Clare",
+      "title": "Heaven To Me",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125658",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 505,
+      "mediaIds": {
+        "spotify": "409342",
+        "youtube": "409342",
+        "soundcloud": "409342",
+        "appleMusic": "409342"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Sound Of Legend",
+      "title": "Tell Me Why (SIKS Remix)",
+      "remix": "",
+      "label": "PLAY TWO",
+      "trackId": "4125659",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 607,
+      "mediaIds": {
+        "spotify": "496257",
+        "youtube": "496257",
+        "soundcloud": "496257",
+        "appleMusic": "496257"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4129571",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 668,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4129571"
+        },
+        {
+          "artist": "Don Diablo",
+          "title": "AnyTime (Acappella)",
+          "remix": "",
+          "trackId": "4125661"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Don Diablo",
+      "title": "AnyTime (Acappella)",
+      "remix": "",
+      "label": "SPRS (SPINNIN')",
+      "trackId": "4125661",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "202598",
+        "youtube": "202598",
+        "soundcloud": "206592",
+        "appleMusic": "202598"
+      },
+      "blendGroup": [
+        {
+          "artist": "Don Diablo",
+          "title": "AnyTime (Acappella)",
+          "remix": "",
+          "trackId": "4125661"
+        },
+        {
+          "artist": "Don Diablo",
+          "title": "Switch",
+          "remix": "",
+          "trackId": "4125660"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Don Diablo",
+      "title": "Switch",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125660",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "337253",
+        "youtube": "337253",
+        "soundcloud": "337253",
+        "appleMusic": "337253"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Oliver Wade",
+      "title": "Twisted",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125662",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 743,
+      "mediaIds": {
+        "spotify": "489389",
+        "youtube": "489389",
+        "soundcloud": "489389",
+        "appleMusic": "489389"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Don Diablo & CID",
+      "title": "Fever",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125663",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 803,
+      "mediaIds": {
+        "spotify": "485023",
+        "youtube": "485023",
+        "soundcloud": "485023",
+        "appleMusic": "485023"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Raven & Kreyn",
+      "title": "The Future",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125664",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 917,
+      "mediaIds": {
+        "spotify": "519114",
+        "youtube": "519114",
+        "soundcloud": "519114",
+        "appleMusic": "519114"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "La Fuente",
+      "title": "So Fat",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125665",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 955,
+      "mediaIds": {
+        "spotify": "489784",
+        "youtube": "489784",
+        "soundcloud": "489784",
+        "appleMusic": "489784"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Don Diablo",
+      "title": "You Can't Change Me (VIP Mix)",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125666",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1060,
+      "mediaIds": {
+        "youtube": "431748"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Don Diablo",
+      "title": "Anthem (We Love House Music)",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125667",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1140,
+      "mediaIds": {
+        "spotify": "417109",
+        "youtube": "417109",
+        "soundcloud": "417109",
+        "appleMusic": "417109"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Landis",
+      "title": "Nobody Like You",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125668",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1225,
+      "mediaIds": {
+        "spotify": "494300",
+        "youtube": "494300",
+        "soundcloud": "494300",
+        "appleMusic": "494300"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Don Diablo ft. Jessie J",
+      "title": "Brave (Don Diablo VIP Mix)",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125669",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1296,
+      "mediaIds": {
+        "spotify": "497939",
+        "youtube": "497939",
+        "soundcloud": "497939",
+        "appleMusic": "497939"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "LOOPERS",
+      "title": "Deep Inside",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125670",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1385,
+      "mediaIds": {
+        "spotify": "497792",
+        "youtube": "497792",
+        "soundcloud": "497792",
+        "appleMusic": "497792"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "PBH & JACK",
+      "title": "Future Sound",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125671",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1460,
+      "mediaIds": {
+        "spotify": "489664",
+        "youtube": "489664",
+        "soundcloud": "489664",
+        "appleMusic": "489664"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Keanu Silva",
+      "title": "King Of My Castle (Don Diablo Edit)",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125672",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1505,
+      "mediaIds": {
+        "spotify": "453665",
+        "youtube": "453665",
+        "soundcloud": "453665",
+        "appleMusic": "453665"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Zen/It",
+      "title": "Wave",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125673",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1575,
+      "mediaIds": {
+        "spotify": "487892",
+        "youtube": "487892",
+        "soundcloud": "487892",
+        "appleMusic": "487892"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Zonderling",
+      "title": "Spotlight",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125674",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1641,
+      "mediaIds": {
+        "spotify": "505532",
+        "youtube": "505532",
+        "soundcloud": "505532",
+        "appleMusic": "505532"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Dropgun x Asketa & Natan Chaim ft. Eddie Jonsson",
+      "title": "Falling",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125675",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1720,
+      "mediaIds": {
+        "spotify": "523242",
+        "youtube": "523242",
+        "soundcloud": "523242",
+        "appleMusic": "523242"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Zonderling & Don Diablo",
+      "title": "No Good",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125676",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1813,
+      "mediaIds": {
+        "spotify": "417257",
+        "youtube": "417257",
+        "soundcloud": "417257",
+        "appleMusic": "417257"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Bastille & Don Diablo vs. Avicii",
+      "title": "Good Grief vs. Fade Into Darkness (Don Diablo ReHex)",
+      "remix": "",
+      "label": "LE7ELS/VIRGIN",
+      "trackId": "4125677",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1871,
+      "mediaIds": {
+        "youtube": "458857"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Don Diablo ft. Nate Dogg",
+      "title": "I Got Love",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125741",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1960,
+      "mediaIds": {
+        "spotify": "457155",
+        "youtube": "457155",
+        "soundcloud": "457155",
+        "appleMusic": "457155"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Ellie Goulding",
+      "title": "Sixteen (Don Diablo Remix)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "4125742",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2040,
+      "mediaIds": {
+        "spotify": "494517",
+        "youtube": "494517",
+        "soundcloud": "494517",
+        "appleMusic": "494517"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Martin Garrix ft. Khalid",
+      "title": "Ocean (Don Diablo Remix)",
+      "remix": "",
+      "label": "EPIC AMSTERDAM/STMPD",
+      "trackId": "4125753",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2130,
+      "mediaIds": {
+        "spotify": "429997",
+        "youtube": "429997",
+        "appleMusic": "429997"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Mark Ronson ft. Miley Cyrus",
+      "title": "Nothing Breaks Like A Heart (Don Diablo Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "4125754",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2208,
+      "mediaIds": {
+        "spotify": "469270",
+        "youtube": "469270",
+        "soundcloud": "469270",
+        "appleMusic": "469270"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Don Diablo",
+      "title": "Save A Little Love",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125755",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2295,
+      "mediaIds": {
+        "spotify": "353310",
+        "youtube": "353310",
+        "soundcloud": "353310",
+        "appleMusic": "353310"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "MØ & Diplo",
+      "title": "Sun In Our Eyes (Don Diablo Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "4125756",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2406,
+      "mediaIds": {
+        "spotify": "436489",
+        "youtube": "436489",
+        "soundcloud": "436489",
+        "appleMusic": "436489"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Asketa & Natan Chaim & ALIII",
+      "title": "Never",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125757",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2500,
+      "mediaIds": {
+        "spotify": "499552",
+        "youtube": "499552",
+        "soundcloud": "499552",
+        "appleMusic": "499552"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "John Christian ft. Juliette Claire",
+      "title": "Club Bizarre (Don Diablo Edit)",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125758",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2570,
+      "mediaIds": {
+        "spotify": "510518",
+        "youtube": "510518",
+        "soundcloud": "510518",
+        "appleMusic": "510518"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "The Chainsmokers & Coldplay",
+      "title": "Something Just Like This (Don Diablo Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4125759",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2670,
+      "mediaIds": {
+        "spotify": "351708",
+        "youtube": "351708",
+        "soundcloud": "351708",
+        "appleMusic": "351708"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers & Coldplay",
+          "title": "Something Just Like This (Don Diablo Remix)",
+          "remix": "",
+          "trackId": "4125759"
+        },
+        {
+          "artist": "Jamie Lewis ft. Michael Watford",
+          "title": "For You (Put Your Hands Up In The Air Acappella)",
+          "remix": "",
+          "trackId": "4125760"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jamie Lewis ft. Michael Watford",
+      "title": "For You (Put Your Hands Up In The Air Acappella)",
+      "remix": "",
+      "label": "PURPLE MUSIC",
+      "trackId": "4125760",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "14545"
+      }
+    },
+    {
+      "pos": "30",
+      "artist": "Don Diablo",
+      "title": "On My Mind",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4125783",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2845,
+      "mediaIds": {
+        "spotify": "259384",
+        "youtube": "259384",
+        "soundcloud": "259384",
+        "appleMusic": "259384"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Panic! At The Disco",
+      "title": "High Hopes (Don Diablo Remix)",
+      "remix": "",
+      "label": "FUELED BY RAMEN",
+      "trackId": "4125784",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2920,
+      "mediaIds": {
+        "spotify": "465521",
+        "youtube": "465521",
+        "soundcloud": "465521",
+        "appleMusic": "465521"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Don Diablo",
+      "title": "Momentum",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125785",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 3030,
+      "mediaIds": {
+        "spotify": "364563",
+        "youtube": "364563",
+        "soundcloud": "364563",
+        "appleMusic": "364563"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Don Diablo",
+      "title": "Cutting Shapes",
+      "remix": "",
+      "label": "HEXAGON/SPINNIN'",
+      "trackId": "4125821",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 3127,
+      "mediaIds": {
+        "spotify": "327407",
+        "youtube": "327407",
+        "soundcloud": "327407",
+        "appleMusic": "327407"
+      },
+      "blendGroup": [
+        {
+          "artist": "Don Diablo",
+          "title": "Cutting Shapes",
+          "remix": "",
+          "trackId": "4125821"
+        },
+        {
+          "artist": "Tiësto & Don Diablo ft. Thomas Troelsen",
+          "title": "Chemicals (Acappella)",
+          "remix": "",
+          "trackId": "4125823"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & Don Diablo ft. Thomas Troelsen",
+      "title": "Chemicals (Acappella)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "4125823",
+      "row": 33,
+      "type": "blend",
+      "cueTime": 3225,
+      "mediaIds": {
+        "spotify": "263974",
+        "youtube": "263974",
+        "soundcloud": "263974",
+        "appleMusic": "263974"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & Don Diablo ft. Thomas Troelsen",
+          "title": "Chemicals (Acappella)",
+          "remix": "",
+          "trackId": "4125823"
+        },
+        {
+          "artist": "Birdy",
+          "title": "Keeping Your Head Up (Don Diablo Remix)",
+          "remix": "",
+          "trackId": "4125824"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Birdy",
+      "title": "Keeping Your Head Up (Don Diablo Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "4125824",
+      "row": 33,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "291889",
+        "youtube": "291889",
+        "soundcloud": "291889",
+        "appleMusic": "291889"
+      }
+    },
+    {
+      "pos": "34",
+      "artist": "Don Diablo ft. Jessie J",
+      "title": "Brave",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125825",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3332,
+      "mediaIds": {
+        "spotify": "491431",
+        "youtube": "491431",
+        "soundcloud": "491431",
+        "appleMusic": "491431"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Don Diablo",
+      "title": "Mr. Brightside",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125826",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 3470,
+      "mediaIds": {
+        "spotify": "459708",
+        "youtube": "459708",
+        "soundcloud": "459708",
+        "appleMusic": "459708"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Avicii ft. Sandro Cavazza",
+      "title": "Without You",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "4125827",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 3623,
+      "mediaIds": {
+        "spotify": "300842",
+        "youtube": "300842",
+        "soundcloud": "300842",
+        "appleMusic": "300842"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Monolink",
+      "title": "Father Ocean (Ben Böhmer Remix)",
+      "remix": "",
+      "label": "EMBASSY ONE",
+      "trackId": "4125828",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 3720,
+      "mediaIds": {
+        "spotify": "456681",
+        "youtube": "456681",
+        "soundcloud": "456681",
+        "appleMusic": "456681"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Stadiumx & Metrush",
+      "title": "Know You Better",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125829",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 3840,
+      "mediaIds": {
+        "spotify": "510257",
+        "youtube": "510257",
+        "soundcloud": "510257",
+        "appleMusic": "510257"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Don Diablo & Matt Nash ft. Noonie Bao",
+      "title": "Starlight (Could You Be Mine) (Don Diablo VIP Edit)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "4125830",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 4020,
+      "mediaIds": {
+        "soundcloud": "153507"
+      },
+      "blendGroup": [
+        {
+          "artist": "Don Diablo & Matt Nash ft. Noonie Bao",
+          "title": "Starlight (Could You Be Mine) (Don Diablo VIP Edit)",
+          "remix": "",
+          "trackId": "4125830"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6108724"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6108724",
+      "row": 39,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "40",
+      "artist": "deadmau5 ft. Chris James",
+      "title": "The Veldt (deadmau5 vs. Eric Prydz Edit)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "4125844",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 4115,
+      "mediaIds": {
+        "spotify": "92098",
+        "youtube": "92098",
+        "appleMusic": "92098"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5 ft. Chris James",
+          "title": "The Veldt (deadmau5 vs. Eric Prydz Edit)",
+          "remix": "",
+          "trackId": "4125844"
+        },
+        {
+          "artist": "Bastille",
+          "title": "Pompeii (Acappella)",
+          "remix": "",
+          "trackId": "4125845"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bastille",
+      "title": "Pompeii (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "4125845",
+      "row": 40,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "118930",
+        "youtube": "170393",
+        "soundcloud": "118930",
+        "appleMusic": "118930"
+      }
+    },
+    {
+      "pos": "41",
+      "artist": "Don Diablo ft. KiFi",
+      "title": "The Same Way",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4125846",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 4305,
+      "mediaIds": {
+        "spotify": "510520",
+        "youtube": "510520",
+        "soundcloud": "510520",
+        "appleMusic": "510520"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "Eric Prydz vs. Avicii",
+      "title": "Pjanoo vs. Levels (Don Diablo ReHex)",
+      "remix": "",
+      "label": "PRYDA/DATA REC./LE7ELS/UMG",
+      "trackId": "4125872",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 4575,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T06:17:48.964Z",
+  "scrapeVersion": 2
+}

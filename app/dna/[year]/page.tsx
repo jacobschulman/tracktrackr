@@ -1,5 +1,5 @@
 import { loadIndex, loadAllSets, getTopTracks, getYearStats, fmt } from '@/lib/data';
-import { getStageColor } from '@/lib/config';
+import { getStageColor } from '@/lib/festivals';
 import { trackSlug, buildTrackSlugMap, slugify } from '@/lib/slugs';
 import Link from 'next/link';
 
@@ -353,7 +353,7 @@ export default async function DNAYearPage({ params }: { params: Promise<{ year: 
             <div style={{ display: 'flex', height: 32, borderRadius: 6, overflow: 'hidden', marginBottom: 12 }}>
               {stageNames.map(name => {
                 const count = stats.stages[name];
-                const color = getStageColor(name);
+                const color = getStageColor('ultra-miami', name);
                 return (
                   <div
                     key={name}
@@ -367,7 +367,7 @@ export default async function DNAYearPage({ params }: { params: Promise<{ year: 
             <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
               {stageNames.map(name => {
                 const count = stats.stages[name];
-                const color = getStageColor(name);
+                const color = getStageColor('ultra-miami', name);
                 return (
                   <div key={name} style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: '0.85rem' }}>
                     <span style={{ width: 10, height: 10, borderRadius: '50%', background: color, display: 'inline-block', flexShrink: 0 }} />

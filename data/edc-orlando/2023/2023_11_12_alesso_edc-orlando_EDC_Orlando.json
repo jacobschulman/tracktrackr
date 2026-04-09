@@ -1,0 +1,338 @@
+{
+  "tlId": "1wz73s81",
+  "dj": "Alesso",
+  "stage": "EDC Orlando",
+  "date": "2023-11-12",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/1wz73s81/alesso-circuitgrounds-edc-orlando-united-states-2023-11-12.html",
+  "djs": [
+    {
+      "name": "Alesso",
+      "slug": "alesso"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Alesso",
+      "title": "The Rhythm Of The Night",
+      "remix": "",
+      "label": "BODY HI",
+      "trackId": "9747473",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "997736",
+        "youtube": "997736",
+        "soundcloud": "997736",
+        "appleMusic": "997736"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso",
+          "title": "The Rhythm Of The Night",
+          "remix": "",
+          "trackId": "9747473"
+        },
+        {
+          "artist": "Alesso ft. Tove Lo",
+          "title": "Heroes (We Could Be) (Acappella)",
+          "remix": "",
+          "trackId": "9747474"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alesso ft. Tove Lo",
+      "title": "Heroes (We Could Be) (Acappella)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "9747474",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "201252",
+        "youtube": "219322",
+        "soundcloud": "201252",
+        "appleMusic": "201252"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso ft. Tove Lo",
+          "title": "Heroes (We Could Be) (Acappella)",
+          "remix": "",
+          "trackId": "9747474"
+        },
+        {
+          "artist": "Alesso ft. Nico & Vinz",
+          "title": "I Wanna Know (Acappella)",
+          "remix": "",
+          "trackId": "9747475"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alesso ft. Nico & Vinz",
+      "title": "I Wanna Know (Acappella)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "9747475",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "303300",
+        "youtube": "303300",
+        "soundcloud": "303300",
+        "appleMusic": "303300"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Axwell vs. Calvin Harris & Alesso & Hurts",
+      "title": "Behold vs. Under Control (Alesso Mashup)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)/SELF RELEASED",
+      "trackId": "9747476",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 156,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Alesso vs. Armin van Buuren & Max Wolfgang",
+      "title": "TOGETHER vs. Leave A Little Love (Alesso Mashup)",
+      "remix": "",
+      "label": "ARMADA/10:22PM",
+      "trackId": "9747477",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 195,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Alesso & Zara Larsson",
+      "title": "Words (Sentinel Remix)",
+      "remix": "",
+      "label": "10:22PM",
+      "trackId": "9747478",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": {
+        "spotify": "827129",
+        "youtube": "827129",
+        "soundcloud": "827129",
+        "appleMusic": "827129"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Alesso & Katy Perry",
+      "title": "When I'm Gone (VIP Mix)",
+      "remix": "",
+      "label": "10:22PM",
+      "trackId": "9747479",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 270,
+      "mediaIds": {
+        "spotify": "772754",
+        "youtube": "772754",
+        "soundcloud": "772754",
+        "appleMusic": "772754"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso & Katy Perry",
+          "title": "When I'm Gone (VIP Mix)",
+          "remix": "",
+          "trackId": "9747479"
+        },
+        {
+          "artist": "TV Noise",
+          "title": "Turn It Up",
+          "remix": "",
+          "trackId": "9748968"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TV Noise",
+      "title": "Turn It Up",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "9748968",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "831249",
+        "youtube": "831249",
+        "soundcloud": "831249",
+        "appleMusic": "831249"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Alesso & Sentinel vs. Tove Lo",
+      "title": "Only You vs. Heroes (Alesso Mashup)",
+      "remix": "",
+      "label": "REFUNE/10:22PM",
+      "trackId": "9747480",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 385,
+      "mediaIds": {
+        "youtube": "790745"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Dillon Francis & Alesso & Clementine Douglas vs. BROHUG vs. Ultra Nate",
+      "title": "Free Children (Alesso Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "9747481",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 478,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9747482",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9747482"
+        },
+        {
+          "artist": "MK & Dom Dolla",
+          "title": "Rhyme Dust",
+          "remix": "",
+          "trackId": "9747483"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MK & Dom Dolla",
+      "title": "Rhyme Dust",
+      "remix": "",
+      "label": "COLUMBIA/ULTRA",
+      "trackId": "9747483",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 550,
+      "mediaIds": {
+        "spotify": "867915",
+        "youtube": "867915",
+        "soundcloud": "867915",
+        "appleMusic": "867915"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Kevin de Vries & Mau P vs. Delerium & Sarah McLachlan & Tiësto vs. Swedish House Mafia & John Martin",
+      "title": "Metro vs. Silence vs. Save The World (Alesso Mashup)",
+      "remix": "",
+      "label": "AFTERLIFE/NETTWERK/EMI",
+      "trackId": "10150823",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 571,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Alesso & Sentinel vs. Conor Maynard",
+      "title": "Interstellar vs. REMEDY (Alesso Mashup)",
+      "remix": "",
+      "label": "10:22PM/FREE",
+      "trackId": "9747487",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 698,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Alesso vs. OneRepublic",
+      "title": "If I Lose Myself",
+      "remix": "",
+      "label": "MOSLEY/INTERSCOPE",
+      "trackId": "9747488",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 803,
+      "mediaIds": {
+        "spotify": "132131",
+        "youtube": "132131",
+        "soundcloud": "132131",
+        "appleMusic": "132131"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Sebastian Ingrosso & Alesso ft. Ryan Tedder",
+      "title": "Calling (Lose My Mind) (Alesso Outro Edit)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "9747489",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 924,
+      "mediaIds": {
+        "spotify": "892814",
+        "youtube": "892814"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3833661",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=kY9HVC_BvaA"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "3787510",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=S3uGptjFcLU"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:59:17.721Z",
+  "scrapeVersion": 2
+}

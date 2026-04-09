@@ -2,6 +2,7 @@
 
 import { useState, useMemo } from 'react';
 import Link from 'next/link';
+import { SpotifyButton } from '@/components/SpotifyButton';
 
 interface TrackRow {
   artist: string;
@@ -11,41 +12,65 @@ interface TrackRow {
   playCount: number;
   years: number[];
   djs: string[];
+  festivals: string[];
+  yearCounts: Record<number, number>;
+  festivalCounts: Record<string, number>;
+}
+
+interface FestivalLabel {
+  slug: string;
+  shortName: string;
+  accent: string;
 }
 
 interface TracksPageClientProps {
   tracks: TrackRow[];
-  stages: string[];
   years: number[];
+  festivalLabels: FestivalLabel[];
 }
 
-export function TracksPageClient({ tracks, stages, years }: TracksPageClientProps) {
+export function TracksPageClient({ tracks, years, festivalLabels }: TracksPageClientProps) {
   const [yearFilter, setYearFilter] = useState<string>('');
-  const [stageFilter, setStageFilter] = useState<string>('');
+  const [festivalFilter, setFestivalFilter] = useState<string>('');
 
-  // Client-side filtering: since the server passed top 500 tracks with full data,
-  // we filter by checking if a track appeared in the selected year/stage.
-  // Note: The pre-computed tracks already have aggregated years/djs, but we don't
-  // have per-appearance stage data. For stage filtering to work properly, we'd need
-  // stage data per track. Since we have top tracks without stage breakdowns,
-  // we show the full list when no stage filter and top 25.
   const filteredTracks = useMemo(() => {
     let result = tracks;
     if (yearFilter) {
       const y = parseInt(yearFilter);
       result = result.filter((t) => t.years.includes(y));
     }
-    // Stage filtering would require per-appearance data; skip if not available
-    return result.slice(0, 25);
-  }, [tracks, yearFilter, stageFilter]);
+    if (festivalFilter) {
+      result = result.filter((t) => t.festivals.includes(festivalFilter));
+    }
+    // Re-rank by filtered play count
+    const ranked = result.map(t => {
+      let filteredCount = t.playCount;
+      if (yearFilter && festivalFilter) {
+        filteredCount = Math.min(
+          t.yearCounts[parseInt(yearFilter)] || 0,
+          t.festivalCounts[festivalFilter] || 0
+        );
+      } else if (yearFilter) {
+        filteredCount = t.yearCounts[parseInt(yearFilter)] || 0;
+      } else if (festivalFilter) {
+        filteredCount = t.festivalCounts[festivalFilter] || 0;
+      }
+      return { ...t, filteredCount };
+    });
+    ranked.sort((a, b) => b.filteredCount - a.filteredCount || a.artist.localeCompare(b.artist));
+    return ranked.slice(0, 25);
+  }, [tracks, yearFilter, festivalFilter]);
 
-  const maxPlayCount = filteredTracks.length > 0 ? filteredTracks[0].playCount : 1;
+  const maxPlayCount = filteredTracks.length > 0 ? filteredTracks[0].filteredCount : 1;
 
   const subtitle = (() => {
     const parts: string[] = [];
+    if (festivalFilter) {
+      const label = festivalLabels.find(f => f.slug === festivalFilter);
+      parts.push(label?.shortName || festivalFilter);
+    }
     if (yearFilter) parts.push(yearFilter);
-    if (stageFilter) parts.push(stageFilter);
-    return parts.length ? `Top 25 — ${parts.join(', ')}` : 'Top 25 across all years';
+    return parts.length ? `Top 25 — ${parts.join(', ')}` : 'Top 25 across all festivals';
   })();
 
   const sortedYears = [...years].sort((a, b) => b - a);
@@ -54,37 +79,48 @@ export function TracksPageClient({ tracks, stages, years }: TracksPageClientProp
     <>
       <h2>Tracks</h2>
 
-      <div className="filters">
-        <div>
-          <div className="filter-label">Year</div>
-          <select
-            className="filter-select"
-            value={yearFilter}
-            onChange={(e) => setYearFilter(e.target.value)}
-          >
-            <option value="">All Years</option>
-            {sortedYears.map((y) => (
-              <option key={y} value={String(y)}>
-                {y}
-              </option>
+      <div className="filters" style={{ display: 'flex', gap: 8, alignItems: 'center', flexWrap: 'wrap', marginBottom: 16 }}>
+        {/* Festival filter chips */}
+        {festivalLabels.length > 1 && (
+          <>
+            <button
+              className={`filter-chip${festivalFilter === '' ? ' active' : ''}`}
+              onClick={() => setFestivalFilter('')}
+            >
+              All Festivals
+            </button>
+            {festivalLabels.map(f => (
+              <button
+                key={f.slug}
+                className={`filter-chip${festivalFilter === f.slug ? ' active' : ''}`}
+                onClick={() => setFestivalFilter(f.slug)}
+                style={festivalFilter === f.slug ? {
+                  borderColor: f.accent,
+                  color: f.accent,
+                  background: `${f.accent}15`,
+                  boxShadow: `0 0 0 1px ${f.accent}, 0 1px 4px ${f.accent}40`,
+                } : undefined}
+              >
+                <span style={{ width: 6, height: 6, borderRadius: '50%', background: f.accent, flexShrink: 0 }} />
+                {f.shortName}
+              </button>
             ))}
-          </select>
-        </div>
-        <div>
-          <div className="filter-label">Stage</div>
-          <select
-            className="filter-select"
-            value={stageFilter}
-            onChange={(e) => setStageFilter(e.target.value)}
-          >
-            <option value="">All Stages</option>
-            {stages.map((s) => (
-              <option key={s} value={s}>
-                {s}
-              </option>
-            ))}
-          </select>
-        </div>
+            <span style={{ width: 1, height: 20, background: 'var(--border)', margin: '0 4px' }} />
+          </>
+        )}
+        {/* Year dropdown */}
+        <select
+          className="filter-select"
+          value={yearFilter}
+          onChange={(e) => setYearFilter(e.target.value)}
+        >
+          <option value="">All Years</option>
+          {sortedYears.map((y) => (
+            <option key={y} value={String(y)}>
+              {y}
+            </option>
+          ))}
+        </select>
       </div>
 
       <div className="card">
@@ -106,7 +142,8 @@ export function TracksPageClient({ tracks, stages, years }: TracksPageClientProp
             {filteredTracks.map((t, i) => {
               const rank = i + 1;
               const rankClass = rank <= 3 ? 'text-green' : 'text-purple';
-              const pct = (t.playCount / maxPlayCount) * 100;
+              const count = t.filteredCount;
+              const pct = maxPlayCount > 0 ? (count / maxPlayCount) * 100 : 0;
 
               return (
                 <Link
@@ -142,9 +179,10 @@ export function TracksPageClient({ tracks, stages, years }: TracksPageClientProp
                     </div>
                   </div>
                   <div>
-                    <div className="leaderboard-count">{t.playCount}</div>
+                    <div className="leaderboard-count">{count}</div>
                     <div className="leaderboard-count-label">plays</div>
                   </div>
+                  <SpotifyButton artist={t.artist} title={t.title} />
                 </Link>
               );
             })}

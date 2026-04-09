@@ -1,0 +1,912 @@
+{
+  "tlId": "1fz4hl8k",
+  "dj": "Ghastly",
+  "stage": "EDC Mexico",
+  "date": "2022-02-26",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/1fz4hl8k/ghastly-wasteland-edc-mexico-2022-02-26.html",
+  "djs": [
+    {
+      "name": "Ghastly",
+      "slug": "ghastly"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Ghastly",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8917964",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Bandlez",
+      "title": "Space Bubblez",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "7380835",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "498308",
+        "youtube": "498308",
+        "soundcloud": "498308",
+        "appleMusic": "498308"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "4B ft. Trippie Redd",
+      "title": "Going Nowhere (ACRAZE Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "7380836",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "4B ft. Trippie Redd",
+          "title": "Going Nowhere (ACRAZE Remix)",
+          "remix": "",
+          "trackId": "7380836"
+        },
+        {
+          "artist": "Linkin Park",
+          "title": "In The End (Acappella)",
+          "remix": "",
+          "trackId": "8917965"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Linkin Park",
+      "title": "In The End (Acappella)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "8917965",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "74423",
+        "youtube": "86727",
+        "soundcloud": "74423",
+        "appleMusic": "74423"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Excision & Downlink",
+      "title": "Robo Kitty",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "7380837",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "212975",
+        "youtube": "212975",
+        "soundcloud": "212975",
+        "appleMusic": "212975"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Downlink",
+          "title": "Robo Kitty",
+          "remix": "",
+          "trackId": "7380837"
+        },
+        {
+          "artist": "Ghastly",
+          "title": "This Song Scares People",
+          "remix": "",
+          "trackId": "7380838"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ghastly",
+      "title": "This Song Scares People",
+      "remix": "",
+      "label": "GHASTLY",
+      "trackId": "7380838",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "445581",
+        "youtube": "445581",
+        "soundcloud": "445581",
+        "appleMusic": "445581"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Bring Me The Horizon",
+      "title": "Can You Feel My Heart",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "7380839",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "237232",
+        "youtube": "237232",
+        "soundcloud": "237232",
+        "appleMusic": "237232"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bring Me The Horizon",
+          "title": "Can You Feel My Heart",
+          "remix": "",
+          "trackId": "7380839"
+        },
+        {
+          "artist": "Protohype & Dirt Monkey",
+          "title": "Bop Bop",
+          "remix": "",
+          "trackId": "7380840"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Protohype & Dirt Monkey",
+      "title": "Bop Bop",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "7380840",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "494712",
+        "youtube": "494712",
+        "soundcloud": "494712",
+        "appleMusic": "494712"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "ACRAZE",
+      "title": "2 The Brain",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7380841",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "649324",
+        "youtube": "649324",
+        "appleMusic": "649324"
+      },
+      "blendGroup": [
+        {
+          "artist": "ACRAZE",
+          "title": "2 The Brain",
+          "remix": "",
+          "trackId": "7380841"
+        },
+        {
+          "artist": "Linkin Park",
+          "title": "In The End (Acappella)",
+          "remix": "",
+          "trackId": "7380842"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Linkin Park",
+      "title": "In The End (Acappella)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "7380842",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "74423",
+        "youtube": "86727",
+        "soundcloud": "74423",
+        "appleMusic": "74423"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "EH!DE & Midnight Tyrannosaurus",
+      "title": "Planet Purge Pt. 2",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "7380843",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "356122",
+        "youtube": "356122",
+        "soundcloud": "356122",
+        "appleMusic": "356122"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Ghastly vs. Zomboy",
+      "title": "Mystifying Oracle vs. Lights Out (Ghastly Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "7380844",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "BASSTRICK",
+      "title": "Ghost Buster",
+      "remix": "",
+      "label": "GOLD DIGGER",
+      "trackId": "7380845",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "309545",
+        "youtube": "309545",
+        "soundcloud": "309545",
+        "appleMusic": "309545"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Ghastly",
+      "title": "Black Mamba",
+      "remix": "",
+      "label": "GHASTLY",
+      "trackId": "7380846",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "411605",
+        "youtube": "411605",
+        "soundcloud": "411605",
+        "appleMusic": "411605"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Sheck Wes",
+      "title": "Mo Bamba (Odd Mob Evil Edit)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "7380847",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "462467",
+        "soundcloud": "462467"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Skrillex & Habstrakt",
+      "title": "Chicken Soup (Moonboy Edit)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "7380848",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Clips X Ahoy x Loosid ft. Hype Turner",
+      "title": "War",
+      "remix": "",
+      "label": "EDM NETWORK",
+      "trackId": "7380849",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "242083",
+        "youtube": "242083",
+        "soundcloud": "242083",
+        "appleMusic": "242083"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "NITTI & Eliminate",
+      "title": "Drive",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "7380850",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "443934",
+        "youtube": "443934",
+        "soundcloud": "443934",
+        "appleMusic": "443934"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Lil Jon & Ghastly",
+      "title": "Dance",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "7380851",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "795854",
+        "youtube": "795854",
+        "soundcloud": "795854",
+        "appleMusic": "795854"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Ghastly",
+      "title": "Geisha (The Tokyo VIP)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7380852",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "415208",
+        "youtube": "415208",
+        "soundcloud": "415208",
+        "appleMusic": "415208"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Ghastly",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7381024",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1310,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Ghastly",
+      "title": "I Have Ur Back",
+      "remix": "",
+      "label": "GHASTLY",
+      "trackId": "7380853",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "519164",
+        "youtube": "519164",
+        "soundcloud": "519164",
+        "appleMusic": "519164"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ghastly",
+          "title": "I Have Ur Back",
+          "remix": "",
+          "trackId": "7380853"
+        },
+        {
+          "artist": "ALRT",
+          "title": "Pushin' On",
+          "remix": "",
+          "trackId": "7380854"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ALRT",
+      "title": "Pushin' On",
+      "remix": "",
+      "label": "WELCOME",
+      "trackId": "7380854",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "511976",
+        "youtube": "511976",
+        "soundcloud": "511976",
+        "appleMusic": "511976"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Kill Feed",
+      "title": "Valley Of Death",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "7380855",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "549352",
+        "youtube": "549352",
+        "soundcloud": "549352",
+        "appleMusic": "549352"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Ghastly & Moonboy",
+      "title": "Psycho",
+      "remix": "",
+      "label": "GHASTLY",
+      "trackId": "7380856",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "494675",
+        "youtube": "494675",
+        "soundcloud": "494675",
+        "appleMusic": "494675"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Yugo Kanno",
+      "title": "il vento d'oro (Giorno's Theme) (Jojo's Bizarre Adventure: Golden Wind OST)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "7380857",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "621953",
+        "youtube": "621953",
+        "appleMusic": "621953"
+      },
+      "blendGroup": [
+        {
+          "artist": "Yugo Kanno",
+          "title": "il vento d'oro (Giorno's Theme) (Jojo's Bizarre Adventure: Golden Wind OST)",
+          "remix": "",
+          "trackId": "7380857"
+        },
+        {
+          "artist": "Hairitage ft. Rico Act",
+          "title": "40 Cal",
+          "remix": "",
+          "trackId": "7381025"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hairitage ft. Rico Act",
+      "title": "40 Cal",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "7381025",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "559084",
+        "youtube": "559084",
+        "soundcloud": "559084",
+        "appleMusic": "559084"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Ghastly & G-REX",
+      "title": "Heretic",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7380858",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "466580",
+        "youtube": "466580",
+        "soundcloud": "466580",
+        "appleMusic": "466580"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Kill Feed",
+      "title": "The Mothership",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "7380859",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "529833",
+        "youtube": "529833",
+        "soundcloud": "529833",
+        "appleMusic": "529833"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Ghastly",
+      "title": "Blackout",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "7381026",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "690061",
+        "youtube": "690061",
+        "soundcloud": "690061",
+        "appleMusic": "690061"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Maxo Kream",
+      "title": "Drizzy Draco",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "7381027",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "574956",
+        "youtube": "574956",
+        "soundcloud": "574956",
+        "appleMusic": "574956"
+      },
+      "blendGroup": [
+        {
+          "artist": "Maxo Kream",
+          "title": "Drizzy Draco",
+          "remix": "",
+          "trackId": "7381027"
+        },
+        {
+          "artist": "AFK & Carbin ft. Cody Ray",
+          "title": "Boss",
+          "remix": "",
+          "trackId": "7380860"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AFK & Carbin ft. Cody Ray",
+      "title": "Boss",
+      "remix": "",
+      "label": "BITE THIS!",
+      "trackId": "7380860",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "385465",
+        "youtube": "385465",
+        "soundcloud": "385465",
+        "appleMusic": "385465"
+      },
+      "blendGroup": [
+        {
+          "artist": "AFK & Carbin ft. Cody Ray",
+          "title": "Boss",
+          "remix": "",
+          "trackId": "7380860"
+        },
+        {
+          "artist": "Tisoki & WATGOOD",
+          "title": "Relate (MATT DOE Remix)",
+          "remix": "",
+          "trackId": "7381028"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tisoki & WATGOOD",
+      "title": "Relate (MATT DOE Remix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "7381028",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "516906",
+        "youtube": "516906",
+        "soundcloud": "516906",
+        "appleMusic": "516906"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "ALRT",
+      "title": "Slow Mo",
+      "remix": "",
+      "label": "WELCOME",
+      "trackId": "7381029",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "542151",
+        "soundcloud": "542151",
+        "appleMusic": "542151"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Benny Benassi & Gary Go & Skrillex vs. Kazumi Totaka",
+      "title": "Cinema (Slushii Mii Channel Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "7380861",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Benny Benassi & Gary Go & Skrillex vs. Kazumi Totaka",
+          "title": "Cinema (Slushii Mii Channel Edit)",
+          "remix": "",
+          "trackId": "7380861"
+        },
+        {
+          "artist": "Ghastly",
+          "title": "Black Mamba",
+          "remix": "",
+          "trackId": "7381031"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ghastly",
+      "title": "Black Mamba",
+      "remix": "",
+      "label": "GHASTLY",
+      "trackId": "7381031",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "411605",
+        "youtube": "411605",
+        "soundcloud": "411605",
+        "appleMusic": "411605"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Ghastly vs. JACKNIFE",
+      "title": "Control vs. Witch Craft (Ghastly Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "7381032",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Ghastly",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7380862",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2510,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Ghastly",
+      "title": "Get On This",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "7380863",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "262849",
+        "youtube": "262849",
+        "soundcloud": "262849",
+        "appleMusic": "262849"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ghastly",
+          "title": "Get On This",
+          "remix": "",
+          "trackId": "7380863"
+        },
+        {
+          "artist": "Space Laces & Getter",
+          "title": "Choppaz",
+          "remix": "",
+          "trackId": "7381035"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Space Laces & Getter",
+      "title": "Choppaz",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "7381035",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "420957",
+        "youtube": "420957",
+        "soundcloud": "420957",
+        "appleMusic": "420957"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "Ghastly",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7381036",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2780,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Justin Timberlake vs. Hairitage",
+      "title": "Sexy Back Movement (Benzi & Ender Edat)",
+      "remix": "",
+      "label": "JIVE/PARAMETRIC (ATLANTIC)",
+      "trackId": "7381037",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Gerald Le Funk & ATRIP",
+      "title": "Thinking About You",
+      "remix": "",
+      "label": "GOOD ENUFF (MAD DECENT)",
+      "trackId": "7381038",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "435979",
+        "youtube": "435979",
+        "soundcloud": "435979",
+        "appleMusic": "435979"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Ghastly",
+      "title": "LSD",
+      "remix": "",
+      "label": "GHASTLY",
+      "trackId": "7381039",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "411392",
+        "youtube": "411392",
+        "soundcloud": "411392",
+        "appleMusic": "411392"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Ghastly",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7381040",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 3140,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Ghastly",
+      "title": "Creep It Real",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "7381055",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "711844",
+        "youtube": "711844",
+        "soundcloud": "711844",
+        "appleMusic": "711844"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T17:26:54.780Z",
+  "scrapeVersion": 2
+}

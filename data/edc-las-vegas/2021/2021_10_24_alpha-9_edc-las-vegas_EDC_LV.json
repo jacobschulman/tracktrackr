@@ -1,0 +1,637 @@
+{
+  "tlId": "dfjn3uk",
+  "dj": "ALPHA 9",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-24",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/dfjn3uk/alpha-9-quantumvalley-edc-las-vegas-united-states-2021-10-24.html",
+  "djs": [
+    {
+      "name": "ALPHA 9",
+      "slug": "alpha9"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Xpectra",
+      "title": "Wings Of The Wind (ALPHA 9 Remix)",
+      "remix": "",
+      "label": "EXIMINDS AIRLINES (ABORA)",
+      "trackId": "6871591",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "735093"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ALPHA 9",
+      "title": "Time Traveller",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "6871592",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": {
+        "spotify": "603630",
+        "youtube": "603630",
+        "soundcloud": "603630",
+        "appleMusic": "603630"
+      },
+      "blendGroup": [
+        {
+          "artist": "ALPHA 9",
+          "title": "Time Traveller",
+          "remix": "",
+          "trackId": "6871592"
+        },
+        {
+          "artist": "Billie Eilish & Khalid",
+          "title": "lovely",
+          "remix": "",
+          "trackId": "6871593"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Billie Eilish & Khalid",
+      "title": "lovely",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "6871593",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "469681",
+        "youtube": "469681",
+        "soundcloud": "469681",
+        "appleMusic": "469681"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "ALPHA 9",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6871594",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 480,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Virtual Self",
+      "title": "Ghost Voices (ALPHA 9 VIP Mix)",
+      "remix": "",
+      "label": "VIRTUAL SELF",
+      "trackId": "6871595",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 720,
+      "mediaIds": {
+        "youtube": "720465"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Apashe & High Klassified ft. Cherry Lena",
+      "title": "I'm Fine (IMANU Remix)",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "6871596",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 827,
+      "mediaIds": {
+        "spotify": "649088",
+        "youtube": "649088",
+        "soundcloud": "649088",
+        "appleMusic": "649088"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Third ≡ Party & Pete K & Cory Lasser",
+      "title": "Like This",
+      "remix": "",
+      "label": "RELEASE",
+      "trackId": "6871597",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1005,
+      "mediaIds": {
+        "spotify": "372568",
+        "youtube": "372568",
+        "soundcloud": "372568",
+        "appleMusic": "372568"
+      },
+      "blendGroup": [
+        {
+          "artist": "Third ≡ Party & Pete K & Cory Lasser",
+          "title": "Like This",
+          "remix": "",
+          "trackId": "6871597"
+        },
+        {
+          "artist": "Magnificence",
+          "title": "Control",
+          "remix": "",
+          "trackId": "6878367"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Magnificence",
+      "title": "Control",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "6878367",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 1185,
+      "mediaIds": {
+        "spotify": "490239",
+        "youtube": "490239",
+        "soundcloud": "490239",
+        "appleMusic": "490239"
+      },
+      "blendGroup": [
+        {
+          "artist": "Magnificence",
+          "title": "Control",
+          "remix": "",
+          "trackId": "6878367"
+        },
+        {
+          "artist": "RÜFÜS DU SOL",
+          "title": "Innerbloom",
+          "remix": "",
+          "trackId": "6878368"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RÜFÜS DU SOL",
+      "title": "Innerbloom",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "6878368",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 1068,
+      "mediaIds": {
+        "spotify": "285762",
+        "youtube": "285762",
+        "soundcloud": "285762",
+        "appleMusic": "285762"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Above & Beyond ft. Zoë Johnston",
+      "title": "Peace Of Mind (ARTY Remix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "6871598",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1215,
+      "mediaIds": {
+        "spotify": "255346",
+        "youtube": "255346",
+        "soundcloud": "255346",
+        "appleMusic": "255346"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "ALPHA 9",
+      "title": "All That I Can",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "6871599",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1365,
+      "mediaIds": {
+        "spotify": "580679",
+        "youtube": "580679",
+        "soundcloud": "580679",
+        "appleMusic": "580679"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "ALPHA 9",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6871600",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1525,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "ALPHA 9",
+      "title": "The Night Is Ours",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "6871601",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1765,
+      "mediaIds": {
+        "spotify": "345293",
+        "youtube": "345293",
+        "soundcloud": "345293",
+        "appleMusic": "345293"
+      },
+      "blendGroup": [
+        {
+          "artist": "ALPHA 9",
+          "title": "The Night Is Ours",
+          "remix": "",
+          "trackId": "6871601"
+        },
+        {
+          "artist": "Rafaël Frost",
+          "title": "New York",
+          "remix": "",
+          "trackId": "6871602"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rafaël Frost",
+      "title": "New York",
+      "remix": "",
+      "label": "FROST (RAZ NITZAN)",
+      "trackId": "6871602",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "171631",
+        "youtube": "171631",
+        "soundcloud": "171631",
+        "appleMusic": "171631"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "CamelPhat & Will Easton",
+      "title": "Witching Hour (David Guetta Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "6871603",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1930,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "CamelPhat & Will Easton",
+          "title": "Witching Hour (David Guetta Remix)",
+          "remix": "",
+          "trackId": "6871603"
+        },
+        {
+          "artist": "John Martin",
+          "title": "Anywhere For You",
+          "remix": "(Acappella)",
+          "trackId": "6871604"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "John Martin",
+      "title": "Anywhere For You",
+      "remix": "(Acappella)",
+      "label": "ISLAND (UMG)",
+      "trackId": "6871604",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "175605",
+        "youtube": "175605",
+        "soundcloud": "175605",
+        "appleMusic": "175605"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "ALPHA 9",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6871605",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2132,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ALPHA 9",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6871605"
+        },
+        {
+          "artist": "deadmau5 ft. Grabbitz",
+          "title": "Let Go (Acappella)",
+          "remix": "",
+          "trackId": "6878783"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Grabbitz",
+      "title": "Let Go (Acappella)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "6878783",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "284334",
+        "youtube": "284334",
+        "appleMusic": "284334"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "London Grammar",
+      "title": "Hey Now (ARTY Remix)",
+      "remix": "",
+      "label": "METAL & DUST",
+      "trackId": "6871606",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2320,
+      "mediaIds": {
+        "spotify": "144056",
+        "youtube": "144056",
+        "soundcloud": "144056",
+        "appleMusic": "144056"
+      },
+      "blendGroup": [
+        {
+          "artist": "London Grammar",
+          "title": "Hey Now (ARTY Remix)",
+          "remix": "",
+          "trackId": "6871606"
+        },
+        {
+          "artist": "Pryda",
+          "title": "Stay With Me (ALPHA 9 Private Mix)",
+          "remix": "",
+          "trackId": "6871607"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pryda",
+      "title": "Stay With Me (ALPHA 9 Private Mix)",
+      "remix": "",
+      "label": "PRYDA",
+      "trackId": "6871607",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "431260",
+        "soundcloud": "431260"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Above & Beyond ft. Zoë Johnston",
+      "title": "Good For Me (ALPHA 9 Remix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "6871608",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2530,
+      "mediaIds": {
+        "spotify": "608287",
+        "youtube": "608287",
+        "soundcloud": "608287",
+        "appleMusic": "608287"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Loreno Mayer ft. Brandon Mignacca",
+      "title": "Giants",
+      "remix": "",
+      "label": "INTERPLAY",
+      "trackId": "6871609",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2765,
+      "mediaIds": {
+        "spotify": "652465",
+        "youtube": "652465",
+        "soundcloud": "652465",
+        "appleMusic": "652465"
+      },
+      "blendGroup": [
+        {
+          "artist": "Loreno Mayer ft. Brandon Mignacca",
+          "title": "Giants",
+          "remix": "",
+          "trackId": "6871609"
+        },
+        {
+          "artist": "4 Strings ft. Susanne Teutenberg",
+          "title": "Take Me Away (Into The Night)",
+          "remix": "(Acappella)",
+          "trackId": "6871610"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "4 Strings ft. Susanne Teutenberg",
+      "title": "Take Me Away (Into The Night)",
+      "remix": "(Acappella)",
+      "label": "LIQUID (SPINNIN')",
+      "trackId": "6871610",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "294708",
+        "youtube": "294708",
+        "soundcloud": "294708",
+        "appleMusic": "294708"
+      },
+      "blendGroup": [
+        {
+          "artist": "4 Strings ft. Susanne Teutenberg",
+          "title": "Take Me Away (Into The Night)",
+          "remix": "(Acappella)",
+          "trackId": "6871610"
+        },
+        {
+          "artist": "Andrew Bayer",
+          "title": "Do Androids Dream Part 2",
+          "remix": "",
+          "trackId": "6878784"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Andrew Bayer",
+      "title": "Do Androids Dream Part 2",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "6878784",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "245697",
+        "youtube": "245697",
+        "soundcloud": "245697",
+        "appleMusic": "245697"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Ferry Corsten",
+      "title": "Punk (ARTY Rock-n-Rolla Remix)",
+      "remix": "",
+      "label": "FLASHOVER",
+      "trackId": "6871611",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2940,
+      "mediaIds": {
+        "spotify": "29234",
+        "youtube": "29234",
+        "soundcloud": "29234",
+        "appleMusic": "29234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Tom Staar vs. Delerium ft. Sarah McLachlan",
+      "title": "Rocket vs. Silence (Above & Beyond It's Not Rocket Silence Mashup)",
+      "remix": "",
+      "label": "NETTWERK/TOOLROOM",
+      "trackId": "6871612",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2995,
+      "mediaIds": {
+        "youtube": "293418"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tom Staar vs. Delerium ft. Sarah McLachlan",
+          "title": "Rocket vs. Silence (Above & Beyond It's Not Rocket Silence Mashup)",
+          "remix": "",
+          "trackId": "6871612"
+        },
+        {
+          "artist": "Mat Zo",
+          "title": "Synapse Dynamics (ARTY Remix)",
+          "remix": "",
+          "trackId": "6871613"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mat Zo",
+      "title": "Synapse Dynamics (ARTY Remix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "6871613",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "27712",
+        "youtube": "27712",
+        "soundcloud": "27712",
+        "appleMusic": "27712"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "ALPHA 9",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6871614",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3180,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "ALPHA 9",
+      "title": "The Purpose Is You",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "6871615",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3300,
+      "mediaIds": {
+        "spotify": "733815",
+        "youtube": "733815",
+        "soundcloud": "733815",
+        "appleMusic": "733815"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_2",
+      "idMedia": "2548911",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/alpha-9-at-edc-las-vegas-2021-quantum-valley-stage-dj-mix/1594914581/us/album/alpha-9-at-edc-las-vegas-2021-quantum-valley-stage-dj-mix/1594914581?app=music&at=1000lwkw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:23:25.683Z",
+  "scrapeVersion": 2
+}

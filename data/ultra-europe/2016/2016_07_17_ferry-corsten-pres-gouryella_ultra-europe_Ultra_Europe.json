@@ -1,0 +1,90 @@
+{
+  "tlId": "2bmjmsfk",
+  "dj": "Ferry Corsten pres. Gouryella",
+  "stage": "Ultra Europe",
+  "date": "2016-07-17",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/2bmjmsfk/ferry-corsten-pres.-gouryella-mainstage-ultra-europe-croatia-2016-07-17.html",
+  "djs": [
+    {
+      "name": "Ferry Corsten pres. Gouryella",
+      "slug": "ferrycorstenpres.gouryella"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Gouryella",
+      "title": "Tenshi",
+      "remix": "",
+      "label": "TSUNAMI",
+      "trackId": "2223039",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "41287",
+        "youtube": "41287",
+        "soundcloud": "41287",
+        "appleMusic": "41287"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Ferry Corsten pres. Gouryella",
+      "title": "Anahera",
+      "remix": "",
+      "label": "FLASHOVER",
+      "trackId": "2152964",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 160,
+      "mediaIds": {
+        "spotify": "255519",
+        "youtube": "255519",
+        "soundcloud": "255519",
+        "appleMusic": "255519"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Ferry Corsten pres. Gouryella",
+      "title": "Neba",
+      "remix": "",
+      "label": "FLASHOVER",
+      "trackId": "2152965",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 410,
+      "mediaIds": {
+        "spotify": "310852",
+        "youtube": "310852",
+        "soundcloud": "310852",
+        "appleMusic": "310852"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "461991",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/274152738"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "462325",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:33:55.671Z",
+  "scrapeVersion": 2
+}

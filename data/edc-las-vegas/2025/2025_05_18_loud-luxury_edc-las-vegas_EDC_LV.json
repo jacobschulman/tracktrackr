@@ -1,0 +1,534 @@
+{
+  "tlId": "20tkhfu9",
+  "dj": "Loud Luxury",
+  "stage": "EDC Las Vegas",
+  "date": "2025-05-18",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/20tkhfu9/loud-luxury-cosmicmeadow-edc-las-vegas-united-states-2025-05-18.html",
+  "djs": [
+    {
+      "name": "Loud Luxury",
+      "slug": "loudluxury"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Loud Luxury ft. Brando",
+      "title": "Body",
+      "remix": "(Intro Edit)",
+      "label": "ARMADA",
+      "trackId": "12167982",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "386130",
+        "youtube": "386130",
+        "soundcloud": "386130",
+        "appleMusic": "386130"
+      },
+      "blendGroup": [
+        {
+          "artist": "Loud Luxury ft. Brando",
+          "title": "Body",
+          "remix": "(Intro Edit)",
+          "trackId": "12167982"
+        },
+        {
+          "artist": "DJ MERCER & DJ Snake",
+          "title": "Lunatic",
+          "remix": "",
+          "trackId": "12167983"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ MERCER & DJ Snake",
+      "title": "Lunatic",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "12167983",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "171632",
+        "youtube": "171632",
+        "soundcloud": "171632",
+        "appleMusic": "171632"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Travis Scott & Playboi Carti vs. Cloonee & Inntraw & Young M.A vs. The Prodigy & James Hype",
+      "title": "Fe!n vs. Stephanie vs. Breathe (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12167984",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 177,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Loud Luxury x Anders",
+      "title": "Love No More",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "12167985",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 332,
+      "mediaIds": {
+        "spotify": "438655",
+        "youtube": "438655",
+        "soundcloud": "438655",
+        "appleMusic": "438655"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Declan McKenna & Leondis vs. Loud Luxury & Bryce Vine",
+      "title": "Brazil vs. I'm Not Alright (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12167986",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 422,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Lana Del Rey",
+      "title": "Summertime Sadness (Shawn Magda Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12167987",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 576,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Lana Del Rey",
+          "title": "Summertime Sadness (Shawn Magda Remix)",
+          "remix": "",
+          "trackId": "12167987"
+        },
+        {
+          "artist": "Sunday Scaries & Mattilo",
+          "title": "Naughty",
+          "remix": "",
+          "trackId": "12359228"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sunday Scaries & Mattilo",
+      "title": "Naughty",
+      "remix": "",
+      "label": "10K PROJECTS",
+      "trackId": "12359228",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 686,
+      "mediaIds": {
+        "spotify": "1095633",
+        "youtube": "1095633",
+        "soundcloud": "1095633",
+        "appleMusic": "1095633"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Clean Bandit & Jess Glynne vs. Merk & Kremont vs. Ali Payami & Warp Brothers vs. Aquagen",
+      "title": "Rather Be vs. Blade (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12167988",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 721,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "John Summit & venbee & Odd Mob vs. Katy Perry",
+      "title": "palm of my hands vs. Last Friday Night (TGIF) (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12167991",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 827,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Chappell Roan vs. Max Styler",
+      "title": "Pink Pony Club vs. I Know You Want To (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12167992",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 915,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Sean Paul vs. Wyclef Jean & Shakira vs. Shapov & Swanky Tunes",
+      "title": "Temperature vs. Hips Don't Lie vs. Feel Me Baby (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12167993",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1008,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Loud Luxury vs. Noizu vs. Shapov & Swanky Tunes",
+      "title": "Cold Feet vs. Lasers vs. Feel Me Baby (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12167994",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1094,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "PAWSA & Nate Dogg vs. Matillo",
+      "title": "Pick Up The Phone vs. TECHNO N' BASS (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12168147",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1285,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Doechii X taMe Impala X Gotye",
+      "title": "Anxiety X The Less I Know The Better X Somebody That I Used To Know (Rudeejay & Da Brozz & Mo27Da Bootleg)",
+      "remix": "",
+      "label": "INTERSCOPE/MODULAR/TOP DAWG",
+      "trackId": "12168284",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1362,
+      "mediaIds": {
+        "youtube": "1109479",
+        "soundcloud": "1109479"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Nicky Youre & Dazy & Loud Luxury vs. Fred Again.. & Swedish House Mafia & Future & Leondis vs. Sabrina Carpenter",
+      "title": "Sunroof vs. Turn On The Lights Again.. (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12168285",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1436,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Loud Luxury & KIDDO vs. Skrillex & Mr. Oizo ft. Missy Elliott vs. Cassian & SCRIPT & BELLADONNA",
+      "title": "These Nights vs. RATATA vs. Where I'm From (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12168286",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1564,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Adele vs. Marc Benjamin & Zakfreestyler & ROOSTERJAXX & El Kourd",
+      "title": "Set Fire To The Rain vs. Fi Dlam Li (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12168391",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1711,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Drake vs. Joy Orbison & Fred again.. & Lil Yachty & Future & Playboi Carti & Terzi",
+      "title": "Nokia vs. flex fm (freddit) (Deville Tech House Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "12168392",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1776,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Calvin Harris & Ellie Goulding vs. Gabry Ponte & VINAI & W&W",
+      "title": "Outside vs. Axel F (Take It To The Floor) (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12168393",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1835,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Loud Luxury ft. Bobby Shmurda",
+      "title": "Cool Like That",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "12168394",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1907,
+      "mediaIds": {
+        "spotify": "1022882",
+        "youtube": "1022882",
+        "soundcloud": "1022882",
+        "appleMusic": "1022882"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Loud Luxury & Frank Walker vs. Stephen Puth",
+      "title": "Like Gold vs. G.O.D (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12176392",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2058,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Ron Van Den Beuken ft. Imogen Heap",
+      "title": "Headlock",
+      "remix": "",
+      "label": "MEGAPHONIC",
+      "trackId": "12168418",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2123,
+      "mediaIds": {
+        "spotify": "73791",
+        "appleMusic": "73791"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Selena Gomez & Benny Blanco",
+      "title": "Bluest Flame (Loud Luxury Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "12168419",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2195,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Loud Luxury & Two Friends & Bebe Rexha",
+      "title": "If Only I",
+      "remix": "",
+      "label": "ARMADA/HELIX",
+      "trackId": "12168420",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2283,
+      "mediaIds": {
+        "spotify": "901687",
+        "youtube": "901687",
+        "soundcloud": "901687",
+        "appleMusic": "901687"
+      },
+      "blendGroup": [
+        {
+          "artist": "Loud Luxury & Two Friends & Bebe Rexha",
+          "title": "If Only I",
+          "remix": "",
+          "trackId": "12168420"
+        },
+        {
+          "artist": "David Guetta & Sia vs. Cassian",
+          "title": "Titanium vs. Dun Dun (Loud Luxury Edit)",
+          "remix": "",
+          "trackId": "12168421"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta & Sia vs. Cassian",
+      "title": "Titanium vs. Dun Dun (Loud Luxury Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12168421",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "23",
+      "artist": "Charli xcx ft. Billie Eilish",
+      "title": "Guess  (Loud Luxury Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "12168422",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2526,
+      "mediaIds": {
+        "appleMusic": "1092865"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "LORDE",
+      "title": "Ribs (Loud Luxury Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "12168423",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2686,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Loud Luxury ft. Morgan St. Jean",
+      "title": "Aftertaste",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "12168424",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2817,
+      "mediaIds": {
+        "spotify": "424384",
+        "youtube": "424384",
+        "soundcloud": "424384",
+        "appleMusic": "424384"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Loud Luxury ft. Charlieonnafriday",
+      "title": "Young & Foolish",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "12168425",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2977,
+      "mediaIds": {
+        "spotify": "950480",
+        "youtube": "950480",
+        "soundcloud": "950480",
+        "appleMusic": "950480"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Loud Luxury ft. Brando",
+      "title": "Body",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "12168426",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3151,
+      "mediaIds": {
+        "spotify": "386130",
+        "youtube": "386130",
+        "soundcloud": "386130",
+        "appleMusic": "386130"
+      },
+      "blendGroup": [
+        {
+          "artist": "Loud Luxury ft. Brando",
+          "title": "Body",
+          "remix": "",
+          "trackId": "12168426"
+        },
+        {
+          "artist": "Loud Luxury ft. Brando",
+          "title": "Body (Loud Luxury EDC 2025 Remix)",
+          "remix": "",
+          "trackId": "12168486"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Loud Luxury ft. Brando",
+      "title": "Body (Loud Luxury EDC 2025 Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "12168486",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4784314",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=gJ9rFaIFRJo"
+    }
+  ],
+  "scrapedAt": "2026-04-08T02:48:02.909Z",
+  "scrapeVersion": 2
+}

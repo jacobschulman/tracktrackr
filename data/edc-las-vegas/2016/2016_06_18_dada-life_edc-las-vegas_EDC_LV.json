@@ -1,0 +1,612 @@
+{
+  "tlId": "22770q11",
+  "dj": "Dada Life",
+  "stage": "EDC Las Vegas",
+  "date": "2016-06-18",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/22770q11/dada-life-kineticfield-edc-las-vegas-united-states-2016-06-18.html",
+  "djs": [
+    {
+      "name": "Dada Life",
+      "slug": "dadalife"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Abel Ramos & Hurt",
+      "title": "Believe",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "2100527",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300941",
+        "youtube": "300941",
+        "soundcloud": "300941",
+        "appleMusic": "300941"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Vigiland",
+      "title": "Pong Dance (Swanky Tunes Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "2100528",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "318431",
+        "soundcloud": "318431"
+      },
+      "blendGroup": [
+        {
+          "artist": "Vigiland",
+          "title": "Pong Dance (Swanky Tunes Remix)",
+          "remix": "",
+          "trackId": "2100528"
+        },
+        {
+          "artist": "Dada Life",
+          "title": "Cookies With A Smile (Acappella)",
+          "remix": "",
+          "trackId": "2106498"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dada Life",
+      "title": "Cookies With A Smile (Acappella)",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "2106498",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "15744",
+        "youtube": "15744",
+        "soundcloud": "15744",
+        "appleMusic": "15744"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Abel Ramos & Albert Neve",
+      "title": "Let The Bass Be Louder",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2100529",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "292622",
+        "youtube": "292622",
+        "soundcloud": "292622",
+        "appleMusic": "292622"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Dada Life",
+      "title": "Feed The Dada (Dada Life 2015 Remix)",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "2100530",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "240001",
+        "youtube": "240001",
+        "soundcloud": "240001",
+        "appleMusic": "240001"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Jewelz & Sparks",
+      "title": "Mental",
+      "remix": "",
+      "label": "DARKLIGHT",
+      "trackId": "2100531",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "247807",
+        "youtube": "247807",
+        "soundcloud": "247807",
+        "appleMusic": "247807"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jewelz & Sparks",
+          "title": "Mental",
+          "remix": "",
+          "trackId": "2100531"
+        },
+        {
+          "artist": "Dada Life",
+          "title": "Kick Out The Epic Motherfucker (Acappella)",
+          "remix": "",
+          "trackId": "2100532"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dada Life",
+      "title": "Kick Out The Epic Motherfucker (Acappella)",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "2100532",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "56705",
+        "youtube": "75276",
+        "soundcloud": "75276",
+        "appleMusic": "56705"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Dada Life ft. Lzzy Hale",
+      "title": "Tic Tic Tic",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "2100533",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "297479",
+        "youtube": "297479",
+        "appleMusic": "297479"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Dada Life",
+      "title": "Red Is The Color Of Rage",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "2100534",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "312836",
+        "youtube": "312836",
+        "soundcloud": "312836",
+        "appleMusic": "312836"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Dada Life",
+      "title": "One Last Night On Earth",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "2100535",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "255535",
+        "youtube": "255535",
+        "soundcloud": "255535",
+        "appleMusic": "255535"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Kryder",
+      "title": "Crocodile Tears",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "2100536",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "278591",
+        "youtube": "278591",
+        "soundcloud": "278591",
+        "appleMusic": "278591"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "AlunaGeorge ft. Popcaan",
+      "title": "I'm In Control (Klosman Summer Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "2100537",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "311591"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Dave Winnel",
+      "title": "Old School",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "2100538",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "303021",
+        "youtube": "303021",
+        "soundcloud": "303021",
+        "appleMusic": "303021"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Wiwek ft. Audio Bullys",
+      "title": "Rebels",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2100539",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "290889",
+        "youtube": "290889",
+        "soundcloud": "290889",
+        "appleMusic": "290889"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Dada Life",
+      "title": "So Young So High",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "2100540",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "98356",
+        "youtube": "98356",
+        "soundcloud": "98356",
+        "appleMusic": "98356"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Sound Of Legend",
+      "title": "Komodo",
+      "remix": "",
+      "label": "PLAY ON / WARNER",
+      "trackId": "2097098",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "310822",
+        "youtube": "310822",
+        "soundcloud": "310822",
+        "appleMusic": "310822"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Robbie Rivera vs. Tom Staar",
+      "title": "The Funkatron",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "2097086",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "263830",
+        "youtube": "263830",
+        "soundcloud": "263830",
+        "appleMusic": "263830"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Michael Feiner",
+      "title": "Mantra (Fraanklyn & Simon de Jano & Madwill Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "2097099",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "310890",
+        "youtube": "310890",
+        "soundcloud": "310890",
+        "appleMusic": "310890"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Stefan Engblom",
+      "title": "Pure Adrenaline",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2097088",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "370797",
+        "youtube": "370797",
+        "soundcloud": "370797",
+        "appleMusic": "370797"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Amersy & USAI",
+      "title": "Opium",
+      "remix": "",
+      "label": "CODE RED",
+      "trackId": "2097101",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "285760",
+        "youtube": "285760",
+        "soundcloud": "285760",
+        "appleMusic": "285760"
+      },
+      "blendGroup": [
+        {
+          "artist": "Amersy & USAI",
+          "title": "Opium",
+          "remix": "",
+          "trackId": "2097101"
+        },
+        {
+          "artist": "Dada Life",
+          "title": "Boing Clash Boom (Acappella)",
+          "remix": "",
+          "trackId": "2097100"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dada Life",
+      "title": "Boing Clash Boom (Acappella)",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "2097100",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "100454",
+        "youtube": "100454",
+        "soundcloud": "100454",
+        "appleMusic": "100454"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Sebastian Ingrosso",
+      "title": "Dark River (Festival Version)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "2097089",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "308461",
+        "youtube": "308461",
+        "soundcloud": "308461",
+        "appleMusic": "308461"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Dada Life",
+      "title": "Rolling Stones T-Shirt",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "2100541",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "59800",
+        "youtube": "59800",
+        "soundcloud": "59800",
+        "appleMusic": "59800"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dada Life",
+          "title": "Rolling Stones T-Shirt",
+          "remix": "",
+          "trackId": "2100541"
+        },
+        {
+          "artist": "Chuckie & Kronic & Krunk!",
+          "title": "Vamonos",
+          "remix": "",
+          "trackId": "2100542"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chuckie & Kronic & Krunk!",
+      "title": "Vamonos",
+      "remix": "",
+      "label": "DIRTY DUTCH",
+      "trackId": "2100542",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "216148",
+        "youtube": "216148",
+        "soundcloud": "216148",
+        "appleMusic": "216148"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Axwell",
+      "title": "Barricade",
+      "remix": "",
+      "label": "AXTONE/DEF JAM",
+      "trackId": "2100543",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "246580",
+        "youtube": "246580",
+        "soundcloud": "246580",
+        "appleMusic": "246580"
+      },
+      "blendGroup": [
+        {
+          "artist": "Axwell",
+          "title": "Barricade",
+          "remix": "",
+          "trackId": "2100543"
+        },
+        {
+          "artist": "Gwen Stefani",
+          "title": "Hollaback Girl (This Shit Is Bananas Acappella)",
+          "remix": "",
+          "trackId": "2100544"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gwen Stefani",
+      "title": "Hollaback Girl (This Shit Is Bananas Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2100544",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2153",
+        "youtube": "2153",
+        "soundcloud": "2153",
+        "appleMusic": "2153"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Galantis & Dillon Francis vs. Curbi",
+      "title": "No Money vs. Triple Six (Dada Life Mashup)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)/MUSICAL FREEDOM",
+      "trackId": "2100545",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Dada Life",
+      "title": "Freaks Have More Fun",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "2100547",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "214365",
+        "youtube": "214365",
+        "soundcloud": "214365",
+        "appleMusic": "214365"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Dada Life ft. Sebastian Bach",
+      "title": "Born To Rage",
+      "remix": "",
+      "label": "UMG/SO MUCH DADA",
+      "trackId": "2100548",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "185290",
+        "youtube": "185290",
+        "appleMusic": "185290"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "450671",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/269924636"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "450901",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/Livesets2016"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "450347",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T08:08:15.982Z",
+  "scrapeVersion": 2
+}

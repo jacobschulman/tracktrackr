@@ -1,0 +1,89 @@
+{
+  "tlId": "1cwv0jjt",
+  "dj": "Solardo",
+  "stage": "EDC Las Vegas",
+  "date": "2017-06-17",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/1cwv0jjt/solardo-neongarden-edc-las-vegas-united-states-2017-06-17.html",
+  "djs": [
+    {
+      "name": "Solardo",
+      "slug": "solardo"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Cozzy D & Timmy P",
+      "title": "Meat Feast",
+      "remix": "",
+      "label": "LOWER EAST",
+      "trackId": "2702104",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "348318",
+        "youtube": "348318",
+        "soundcloud": "348318",
+        "appleMusic": "348318"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Will Clarke & BOT",
+      "title": "Techno (Not Techno) (Solardo Remix)",
+      "remix": "",
+      "label": "FOOD MUSIC",
+      "trackId": "2702105",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "355885",
+        "soundcloud": "355885",
+        "appleMusic": "355885"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Karizma",
+      "title": "Work It Out",
+      "remix": "",
+      "label": "LUMBERJACKS IN HELL",
+      "trackId": "2702106",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "353699",
+        "youtube": "353699",
+        "soundcloud": "353699",
+        "appleMusic": "353699"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "619620",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/331507429"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "626062",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/solardomusic"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:35:04.212Z",
+  "scrapeVersion": 2
+}

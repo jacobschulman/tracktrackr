@@ -1,0 +1,565 @@
+{
+  "tlId": "x35zbvk",
+  "dj": "z-trip",
+  "stage": "EDC Las Vegas",
+  "date": "2020-05-18",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/x35zbvk/z-trip-edc-las-vegas-virtual-rave-a-thon-united-states-2020-05-18.html",
+  "djs": [
+    {
+      "name": "z-trip",
+      "slug": "ztrip"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Sam Binga & Paul Wall",
+      "title": "All Cap",
+      "remix": "",
+      "label": "CRITICAL",
+      "trackId": "4969341",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 180,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Sam Binga & Paul Wall",
+          "title": "All Cap",
+          "remix": "",
+          "trackId": "4969341"
+        },
+        {
+          "artist": "Yung Joc ft. Nitti",
+          "title": "It's Goin' Down",
+          "remix": "(Acappella)",
+          "trackId": "4970492"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Yung Joc ft. Nitti",
+      "title": "It's Goin' Down",
+      "remix": "(Acappella)",
+      "label": "BAD BOYS (INTERSCOPE)",
+      "trackId": "4970492",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20839",
+        "youtube": "20839",
+        "soundcloud": "20839",
+        "appleMusic": "20839"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Kove",
+      "title": "Bearclaw",
+      "remix": "",
+      "label": "DRUM&BASSARENA",
+      "trackId": "4969342",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 360,
+      "mediaIds": {
+        "spotify": "504958",
+        "youtube": "504958",
+        "soundcloud": "504958",
+        "appleMusic": "504958"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Wu-Tang Clan",
+      "title": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+      "remix": "",
+      "label": "SONY BMG",
+      "trackId": "4969343",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 424,
+      "mediaIds": {
+        "spotify": "68999",
+        "youtube": "68999",
+        "soundcloud": "68999",
+        "appleMusic": "68999"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Wu-Tang Clan",
+      "title": "Tearz",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "4970493",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "581691",
+        "appleMusic": "581691"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Bassnectar ft. Rodney P",
+      "title": "Nice & Easy",
+      "remix": "",
+      "label": "AMORPHOUS",
+      "trackId": "4969344",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 600,
+      "mediaIds": {
+        "spotify": "581692",
+        "youtube": "581692",
+        "appleMusic": "581692"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Snoop Dogg",
+      "title": "Gin & Juice",
+      "remix": "",
+      "label": "DEATH ROW",
+      "trackId": "4969345",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 680,
+      "mediaIds": {
+        "spotify": "60574",
+        "youtube": "60574",
+        "soundcloud": "60574",
+        "appleMusic": "60574"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Linkin Park",
+      "title": "Numb",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "4969346",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 728,
+      "mediaIds": {
+        "spotify": "106239",
+        "youtube": "106239",
+        "soundcloud": "106239",
+        "appleMusic": "106239"
+      },
+      "blendGroup": [
+        {
+          "artist": "Linkin Park",
+          "title": "Numb",
+          "remix": "",
+          "trackId": "4969346"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Acappella)",
+          "remix": "",
+          "trackId": "4969347"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "4969347",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8354",
+        "youtube": "8354",
+        "soundcloud": "8354",
+        "appleMusic": "8354"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Acappella)",
+          "remix": "",
+          "trackId": "4969347"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4969348"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4969348",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 840,
+      "mediaIds": null
+    },
+    {
+      "pos": "08",
+      "artist": "Boys Noize",
+      "title": "Rock The Bells(Co-Prod. by Baauer)",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "4969349",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 908,
+      "mediaIds": {
+        "spotify": "311703",
+        "youtube": "311703",
+        "soundcloud": "311703",
+        "appleMusic": "311703"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Z-Trip",
+      "title": "I Am Disinfecto",
+      "remix": "",
+      "label": "",
+      "trackId": "4970494",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1020,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "One True God",
+      "title": "Sleep",
+      "remix": "",
+      "label": "OTG",
+      "trackId": "4970495",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "551197",
+        "soundcloud": "551197",
+        "appleMusic": "551197"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Beastie Boys",
+      "title": "No Sleep Till Brooklyn",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "4970496",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "244207",
+        "youtube": "244207",
+        "soundcloud": "244207",
+        "appleMusic": "244207"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4970497",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1080,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Survivor",
+      "title": "Eye Of The Tiger",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "4970498",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1160,
+      "mediaIds": {
+        "spotify": "17194",
+        "youtube": "17194",
+        "soundcloud": "17194",
+        "appleMusic": "17194"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Rihanna ft. Drake",
+      "title": "Work (Acappella)",
+      "remix": "",
+      "label": "ROC NATION (SONY)",
+      "trackId": "4970499",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "293197",
+        "youtube": "293197",
+        "soundcloud": "293197",
+        "appleMusic": "293197"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Excision",
+      "title": "The Paradox",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "4970500",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1220,
+      "mediaIds": {
+        "spotify": "293777",
+        "youtube": "293777",
+        "soundcloud": "293777",
+        "appleMusic": "293777"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "GRiZ ft. Subtronics",
+      "title": "Griztronics",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "4969350",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1290,
+      "mediaIds": {
+        "spotify": "517065",
+        "youtube": "517065",
+        "soundcloud": "517065",
+        "appleMusic": "517065"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Zomboy",
+      "title": "Lone Wolf",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "4969351",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1320,
+      "mediaIds": {
+        "spotify": "454706",
+        "youtube": "454706",
+        "soundcloud": "454706",
+        "appleMusic": "454706"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "T.I.",
+      "title": "What You Know",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "4969352",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1380,
+      "mediaIds": {
+        "spotify": "91124",
+        "youtube": "91124",
+        "soundcloud": "91124",
+        "appleMusic": "91124"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Pegboard Nerds ft. Tia Simone",
+      "title": "Heartbit (Sikdope Remix)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "4969353",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1450,
+      "mediaIds": {
+        "spotify": "306032",
+        "youtube": "306032",
+        "soundcloud": "306032",
+        "appleMusic": "306032"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Chocolate Puma & Bingo Players",
+      "title": "Disco Electrique (Vocal Mix)",
+      "remix": "",
+      "label": "SNEAKERZ (SPINNIN')",
+      "trackId": "4969354",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1545,
+      "mediaIds": {
+        "spotify": "19448",
+        "youtube": "19448",
+        "appleMusic": "19448"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Dog Blood",
+      "title": "Chella Ride",
+      "remix": "",
+      "label": "OWSLA/BIG BEAT",
+      "trackId": "4969355",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1620,
+      "mediaIds": {
+        "spotify": "141677",
+        "youtube": "141677",
+        "soundcloud": "141677",
+        "appleMusic": "141677"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Cesqeaux & Curbi",
+      "title": "Get It",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "4969356",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1680,
+      "mediaIds": {
+        "spotify": "553450",
+        "youtube": "553450",
+        "soundcloud": "553450",
+        "appleMusic": "553450"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Avicii & Sebastien Drums",
+      "title": "My Feelings For You",
+      "remix": "",
+      "label": "VICIOUS",
+      "trackId": "4970501",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": {
+        "spotify": "16119",
+        "youtube": "16119",
+        "soundcloud": "16119",
+        "appleMusic": "16119"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Nora En Pure ft. Ashibah",
+      "title": "We Found Love",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4969357",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1865,
+      "mediaIds": {
+        "spotify": "467343",
+        "youtube": "467343",
+        "soundcloud": "467343",
+        "appleMusic": "467343"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Justin King ft. Breana Marin",
+      "title": "Illuminate",
+      "remix": "",
+      "label": "",
+      "trackId": "4970502",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2008,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Andrew Bayer",
+      "title": "Once Lydian",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "4970503",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2280,
+      "mediaIds": {
+        "spotify": "172666",
+        "youtube": "172666",
+        "soundcloud": "172666",
+        "appleMusic": "172666"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1712727",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=9dLB7Rpfmt0"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "1705910",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/Quaranstreams1"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:49:22.305Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,603 @@
+{
+  "tlId": "7bu86n9",
+  "dj": "Thomas Gold",
+  "stage": "EDC Las Vegas",
+  "date": "2015-06-20",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/7bu86n9/thomas-gold-circuitgrounds-edc-las-vegas-united-states-2015-06-20.html",
+  "djs": [
+    {
+      "name": "Thomas Gold",
+      "slug": "thomasgold"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Thomas Gold ft. Kate Elsworth",
+      "title": "Colourblind",
+      "remix": "(Thomas Gold Intro Edit)",
+      "label": "REVEALED",
+      "trackId": "1481381",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "208134",
+        "youtube": "208134",
+        "soundcloud": "208134",
+        "appleMusic": "208134"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Henry Fong & Reece Low",
+      "title": "Slapjack (Let Me See You Shaking Acappella)",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "1481383",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 133,
+      "mediaIds": {
+        "spotify": "187101",
+        "youtube": "187101",
+        "soundcloud": "202173",
+        "appleMusic": "187101"
+      },
+      "blendGroup": [
+        {
+          "artist": "Henry Fong & Reece Low",
+          "title": "Slapjack (Let Me See You Shaking Acappella)",
+          "remix": "",
+          "trackId": "1481383"
+        },
+        {
+          "artist": "Thomas Gold",
+          "title": "ID",
+          "remix": "",
+          "trackId": "1481382"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Thomas Gold",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1481382",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 135,
+      "mediaIds": null
+    },
+    {
+      "pos": "03",
+      "artist": "Calvin Harris",
+      "title": "C.U.B.A",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "1481384",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 184,
+      "mediaIds": {
+        "spotify": "200708",
+        "youtube": "200708",
+        "soundcloud": "200708",
+        "appleMusic": "200708"
+      },
+      "blendGroup": [
+        {
+          "artist": "Calvin Harris",
+          "title": "C.U.B.A",
+          "remix": "",
+          "trackId": "1481384"
+        },
+        {
+          "artist": "Linkin Park",
+          "title": "Numb (Acappella)",
+          "remix": "",
+          "trackId": "1481385"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Linkin Park",
+      "title": "Numb (Acappella)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "1481385",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 187,
+      "mediaIds": {
+        "spotify": "106239",
+        "youtube": "106239",
+        "soundcloud": "106239",
+        "appleMusic": "106239"
+      },
+      "blendGroup": [
+        {
+          "artist": "Linkin Park",
+          "title": "Numb (Acappella)",
+          "remix": "",
+          "trackId": "1481385"
+        },
+        {
+          "artist": "3LAU & Nom De Strip ft. Estelle",
+          "title": "The Night",
+          "remix": "",
+          "trackId": "1481386"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "3LAU & Nom De Strip ft. Estelle",
+      "title": "The Night",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1481386",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 246,
+      "mediaIds": {
+        "spotify": "196716",
+        "youtube": "196716",
+        "soundcloud": "196716",
+        "appleMusic": "196716"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Rayven & Valexx vs. Davol vs. Sem Thomasson",
+      "title": "Boomerang We Are (Thomas Gold Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "1481387",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 291,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Calvin Harris & John Newman vs. Anderblast",
+      "title": "Blame vs. Proton (Thomas Gold Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "1481389",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 436,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Bobby Puma vs. Zedd vs. Michael Brun",
+      "title": "Rockin' With The Best vs. Spectrum vs. Zenith (Thomas Gold Mashup)",
+      "remix": "",
+      "label": "INTERSCOPE/KID COCONUT/DOORN (SPINNIN')",
+      "trackId": "1479052",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 525,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Thomas Gold ft. Kate Elsworth",
+      "title": "Colourblind",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1479055",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 693,
+      "mediaIds": {
+        "spotify": "208134",
+        "youtube": "208134",
+        "soundcloud": "208134",
+        "appleMusic": "208134"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Dannic vs. Merk & Kremont",
+      "title": "Anubi",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1479056",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 789,
+      "mediaIds": {
+        "spotify": "189052",
+        "youtube": "189052",
+        "soundcloud": "189052",
+        "appleMusic": "189052"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dannic vs. Merk & Kremont",
+          "title": "Anubi",
+          "remix": "",
+          "trackId": "1479056"
+        },
+        {
+          "artist": "Lazy Rich ft. Trinidad Jame$",
+          "title": "Hit That",
+          "remix": "",
+          "trackId": "1479057"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lazy Rich ft. Trinidad Jame$",
+      "title": "Hit That",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "1479057",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 849,
+      "mediaIds": {
+        "spotify": "237989",
+        "youtube": "237989",
+        "soundcloud": "237989",
+        "appleMusic": "237989"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Calvin Harris & Ellie Goulding vs. JAGGS",
+      "title": "Outside vs. Karambit (Thomas Gold Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "1479058",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 889,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Delayers vs. Tritonal vs. Nom De Strip vs. Eric Prydz",
+      "title": "IMH vs. Gamma Gamma vs. Aliens vs. Generate (Thomas Gold Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "1479060",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 993,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Delayers vs. Tritonal vs. Nom De Strip vs. Eric Prydz",
+          "title": "IMH vs. Gamma Gamma vs. Aliens vs. Generate (Thomas Gold Mashup)",
+          "remix": "",
+          "trackId": "1479060"
+        },
+        {
+          "artist": "MARNIK & 7 Skies",
+          "title": "DGAF",
+          "remix": "",
+          "trackId": "1479065"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MARNIK & 7 Skies",
+      "title": "DGAF",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "1479065",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1242,
+      "mediaIds": {
+        "spotify": "200537",
+        "youtube": "200537",
+        "soundcloud": "200537",
+        "appleMusic": "200537"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Galantis",
+      "title": "Runaway (U & I) (Ansolo Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1479066",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1272,
+      "mediaIds": {
+        "spotify": "228342",
+        "youtube": "228342",
+        "soundcloud": "228342",
+        "appleMusic": "228342"
+      },
+      "blendGroup": [
+        {
+          "artist": "Galantis",
+          "title": "Runaway (U & I) (Ansolo Remix)",
+          "remix": "",
+          "trackId": "1479066"
+        },
+        {
+          "artist": "Jenia",
+          "title": "Blackout",
+          "remix": "",
+          "trackId": "1479067"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jenia",
+      "title": "Blackout",
+      "remix": "",
+      "label": "PLAYBOX (KONTOR)",
+      "trackId": "1479067",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1360,
+      "mediaIds": {
+        "spotify": "270720",
+        "youtube": "270720",
+        "appleMusic": "270720"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Thomas Gold & Harrison & HIIO vs. Bisbetic & JP Candela",
+      "title": "Take Me Home vs. Ghepardo (Thomas Gold Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "1479068",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1400,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1479070",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Thomas Gold",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1479071",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1656,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Tove Lo vs. Merk & Kremont",
+      "title": "Habits vs. Now Or Never (Thomas Gold Mashup)",
+      "remix": "",
+      "label": "UMG/SPINNIN'",
+      "trackId": "1479072",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1864,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Empire Of The Sun & Zedd vs. dBerrie vs. MAKJ & Thomas Newson vs. Tiesto & KSHMR vs. Hozier",
+      "title": "Alive vs. Malfunction vs. Black vs. Secrets vs. Take Me To Church (Thomas Gold Re-Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "1479074",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1997,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Michael Calfan & Kryder & Genairo Nvilla vs. StadiumX & Angelika Vee",
+      "title": "Treasured Soul vs. Wonderland (Thomas Gold Edit)",
+      "remix": "",
+      "label": "TURNITUP (BLACK HOLE)/SPINNIN' REMIXES",
+      "trackId": "1479078",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2237,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Dash Berlin & Alexander Popov ft. Jonathan Mendelsohn",
+      "title": "Steal You Away (Michael Brun Remix)",
+      "remix": "",
+      "label": "AROPA (ARMADA)",
+      "trackId": "1479080",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2448,
+      "mediaIds": {
+        "spotify": "148482",
+        "youtube": "148482",
+        "soundcloud": "148482",
+        "appleMusic": "148482"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dash Berlin & Alexander Popov ft. Jonathan Mendelsohn",
+          "title": "Steal You Away (Michael Brun Remix)",
+          "remix": "",
+          "trackId": "1479080"
+        },
+        {
+          "artist": "Mell Tierra",
+          "title": "Drone",
+          "remix": "",
+          "trackId": "1479081"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mell Tierra",
+      "title": "Drone",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "1479081",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 2507,
+      "mediaIds": {
+        "spotify": "180305",
+        "soundcloud": "180305",
+        "appleMusic": "180305"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Thomas Gold ft. Kaelyn Behr",
+      "title": "Remember",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "1479082",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2545,
+      "mediaIds": {
+        "spotify": "151345",
+        "youtube": "151345",
+        "soundcloud": "151345",
+        "appleMusic": "151345"
+      },
+      "blendGroup": [
+        {
+          "artist": "Thomas Gold ft. Kaelyn Behr",
+          "title": "Remember",
+          "remix": "",
+          "trackId": "1479082"
+        },
+        {
+          "artist": "SICK INDIVIDUALS ft. BullySongs",
+          "title": "Made For This",
+          "remix": "",
+          "trackId": "1479083"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SICK INDIVIDUALS ft. BullySongs",
+      "title": "Made For This",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1479083",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 2633,
+      "mediaIds": {
+        "spotify": "219198",
+        "youtube": "219198",
+        "soundcloud": "219198",
+        "appleMusic": "219198"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Hard Rock Sofa & Skidka & Amersy vs. R3hab & Trevor Guthrie",
+      "title": "Let Me Hear You Scream vs. Soundwave (Thomas Gold Mashup)",
+      "remix": "",
+      "label": "SIZE/SPINNIN'",
+      "trackId": "1479084",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2663,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Coldplay",
+      "title": "A Sky Full Of Stars(Prod. by Avicii) (Sultan + Shepard Remix)",
+      "remix": "",
+      "label": "FFRR (PARLOPHONE)",
+      "trackId": "1479130",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2857,
+      "mediaIds": {
+        "soundcloud": "206832"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Bastille & Audien vs. Tom & Jame",
+      "title": "Pompeii vs. Big Shot (Thomas Gold Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "1479131",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2986,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Thomas Gold ft. Bright Lights",
+      "title": "Believe",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1479133",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3093,
+      "mediaIds": {
+        "spotify": "260711",
+        "youtube": "260711",
+        "soundcloud": "260711",
+        "appleMusic": "260711"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T08:31:23.799Z",
+  "scrapeVersion": 2
+}

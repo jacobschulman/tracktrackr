@@ -1,0 +1,983 @@
+{
+  "tlId": "2c0w21k",
+  "dj": "Axwell",
+  "stage": "Electric Zoo",
+  "date": "2012-09-01",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/2c0w21k/axwell-electric-zoo-united-states-2012-09-01.html",
+  "djs": [
+    {
+      "name": "Axwell",
+      "slug": "axwell"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Axwell",
+      "title": "Intro",
+      "remix": "",
+      "label": "",
+      "trackId": "1121678",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Axwell",
+          "title": "Intro",
+          "remix": "",
+          "trackId": "1121678"
+        },
+        {
+          "artist": "John Dahlbäck",
+          "title": "Zeus",
+          "remix": "",
+          "trackId": "295519"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "John Dahlbäck",
+      "title": "Zeus",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "295519",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "88694",
+        "youtube": "88694",
+        "appleMusic": "88694"
+      },
+      "blendGroup": [
+        {
+          "artist": "John Dahlbäck",
+          "title": "Zeus",
+          "remix": "",
+          "trackId": "295519"
+        },
+        {
+          "artist": "Alex Guesta & Stefano Pain vs. Antoine Clamaran",
+          "title": "Ran Tam Tam vs. Atomic City (Axwell Mashup)",
+          "remix": "",
+          "trackId": "295520"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alex Guesta & Stefano Pain vs. Antoine Clamaran",
+      "title": "Ran Tam Tam vs. Atomic City (Axwell Mashup)",
+      "remix": "",
+      "label": "PILOT 6 (ARMADA)/PLANET E",
+      "trackId": "295520",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "02",
+      "artist": "Swedish House Mafia vs. Matt Caseli & Danny Freakazoid",
+      "title": "Greyhound vs. Raise Your Hands (Axwell Mashup)",
+      "remix": "",
+      "label": "AXTONE/EMI",
+      "trackId": "295201",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Gregor Salto",
+      "title": "Azumba (Sebastian Ingrosso Cut)",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "295203",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "92195"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gregor Salto",
+          "title": "Azumba (Sebastian Ingrosso Cut)",
+          "remix": "",
+          "trackId": "295203"
+        },
+        {
+          "artist": "Pryda",
+          "title": "Allein",
+          "remix": "",
+          "trackId": "295204"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pryda",
+      "title": "Allein",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "295204",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "73464",
+        "youtube": "73464",
+        "soundcloud": "73464",
+        "appleMusic": "73464"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Henrik B ft. Rudy",
+      "title": "Leave A Light On (NO_ID Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "295205",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "63424",
+        "youtube": "63424",
+        "soundcloud": "63424",
+        "appleMusic": "63424"
+      },
+      "blendGroup": [
+        {
+          "artist": "Henrik B ft. Rudy",
+          "title": "Leave A Light On (NO_ID Remix)",
+          "remix": "",
+          "trackId": "295205"
+        },
+        {
+          "artist": "Thomas Gold",
+          "title": "Marsch Marsch (Thomas Gold 2011 Rework)",
+          "remix": "",
+          "trackId": "295206"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Thomas Gold",
+      "title": "Marsch Marsch (Thomas Gold 2011 Rework)",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "295206",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "48203",
+        "youtube": "48203",
+        "soundcloud": "48203",
+        "appleMusic": "48203"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "AFROJACK & Shermanology",
+      "title": "Can't Stop Me (Kryder & Tom Staar Remix)",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "295207",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "88866",
+        "youtube": "88866",
+        "soundcloud": "88866",
+        "appleMusic": "88866"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "The Aston Shuffle vs. Tommy Trash",
+      "title": "Sunrise (Won't Get Lost) (Tommy Trash Version)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "295208",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "88224",
+        "youtube": "88224",
+        "soundcloud": "88224",
+        "appleMusic": "88224"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Sebastien Drums & Whelan & Di Scala vs. Daft Punk vs. Laidback Luke & Swedish House Mafia",
+      "title": "Here I Come vs. Harder Better Faster Stronger vs. Leave The World Behind (Axwell Mashup)",
+      "remix": "",
+      "label": "VIRGIN/AXTONE/STEALTH",
+      "trackId": "295209",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "TV Rock ft. Rudy",
+      "title": "In The Air (Axwell Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "295212",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "11447",
+        "youtube": "11447",
+        "soundcloud": "11447",
+        "appleMusic": "11447"
+      },
+      "blendGroup": [
+        {
+          "artist": "TV Rock ft. Rudy",
+          "title": "In The Air (Axwell Remix)",
+          "remix": "",
+          "trackId": "295212"
+        },
+        {
+          "artist": "Swedish House Mafia & Knife Party ft. ADL",
+          "title": "Antidote (Acappella)",
+          "remix": "",
+          "trackId": "295213"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia & Knife Party ft. ADL",
+      "title": "Antidote (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "295213",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "43328",
+        "youtube": "92178",
+        "soundcloud": "43328",
+        "appleMusic": "43328"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia & Knife Party ft. ADL",
+          "title": "Antidote (Acappella)",
+          "remix": "",
+          "trackId": "295213"
+        },
+        {
+          "artist": "Hatiras & Will Bailey & Nom De Strip",
+          "title": "Swagnum P.I.",
+          "remix": "",
+          "trackId": "295521"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hatiras & Will Bailey & Nom De Strip",
+      "title": "Swagnum P.I.",
+      "remix": "",
+      "label": "HATRAX",
+      "trackId": "295521",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "61950",
+        "youtube": "61950",
+        "appleMusic": "61950"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hatiras & Will Bailey & Nom De Strip",
+          "title": "Swagnum P.I.",
+          "remix": "",
+          "trackId": "295521"
+        },
+        {
+          "artist": "Steve Angello",
+          "title": "Knas",
+          "remix": "",
+          "trackId": "295214"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Steve Angello",
+      "title": "Knas",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "295214",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "14330",
+        "youtube": "14330",
+        "soundcloud": "14330",
+        "appleMusic": "14330"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Cryogenix",
+      "title": "Fire Like This (Daddy's Groove Re-Beats)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "295215",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "85004",
+        "youtube": "85004",
+        "appleMusic": "85004"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Hard Rock Sofa & Swanky Tunes vs. Swedish House Mafia & Tinie Tempah",
+      "title": "Here We Go vs. Miami 2 Ibiza (Axwell Mashup)",
+      "remix": "",
+      "label": "VIRGIN/EMI/AXTONE",
+      "trackId": "295216",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Hard Rock Sofa & Swanky Tunes vs. Swedish House Mafia & Tinie Tempah",
+          "title": "Here We Go vs. Miami 2 Ibiza (Axwell Mashup)",
+          "remix": "",
+          "trackId": "295216"
+        },
+        {
+          "artist": "Swedish House Mafia ft. Tinie Tempah",
+          "title": "Miami 2 Ibiza (Acappella)",
+          "remix": "",
+          "trackId": "295217"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia ft. Tinie Tempah",
+      "title": "Miami 2 Ibiza (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "295217",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "19526",
+        "youtube": "24237",
+        "soundcloud": "24237",
+        "appleMusic": "19526"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia ft. Tinie Tempah",
+          "title": "Miami 2 Ibiza (Acappella)",
+          "remix": "",
+          "trackId": "295217"
+        },
+        {
+          "artist": "Swedish House Mafia ft. Tinie Tempah",
+          "title": "Miami 2 Ibiza",
+          "remix": "",
+          "trackId": "295218"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia ft. Tinie Tempah",
+      "title": "Miami 2 Ibiza",
+      "remix": "",
+      "label": "POPHOUSE/EMI",
+      "trackId": "295218",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "19526",
+        "youtube": "19526",
+        "soundcloud": "19526",
+        "appleMusic": "19526"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Ivan Gough & Feenixpawl ft. Georgi Kay",
+      "title": "In My Mind (Axwell Mix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "295219",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "59281",
+        "youtube": "59281",
+        "soundcloud": "59281",
+        "appleMusic": "59281"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Discopolis",
+      "title": "Committed To Sparkle Motion (DubVision Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "295220",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "99863",
+        "youtube": "99863",
+        "soundcloud": "99863",
+        "appleMusic": "99863"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Don't You Worry Child",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "295221",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "84601",
+        "youtube": "84601",
+        "soundcloud": "84601",
+        "appleMusic": "84601"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Alex Kenji vs. Rob Adans vs. The Knife vs. Axwell",
+      "title": "Blue Strobe Light vs. Abash vs. Silent Shout vs. Nothing But Love (Axwell Bootleg)",
+      "remix": "",
+      "label": "BRILLE/AXTONE/DOORN (SPINNIN')/TOOLROOM",
+      "trackId": "295222",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Alesso",
+      "title": "Clash",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "295223",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "73999",
+        "youtube": "73999",
+        "soundcloud": "73999",
+        "appleMusic": "73999"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso",
+          "title": "Clash",
+          "remix": "",
+          "trackId": "295223"
+        },
+        {
+          "artist": "Axwell & Sebastian Ingrosso ft. Michael Feiner",
+          "title": "Together (Acappella)",
+          "remix": "",
+          "trackId": "295224"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Axwell & Sebastian Ingrosso ft. Michael Feiner",
+      "title": "Together (Acappella)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "295224",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2414",
+        "youtube": "16298",
+        "soundcloud": "2414",
+        "appleMusic": "2414"
+      },
+      "blendGroup": [
+        {
+          "artist": "Axwell & Sebastian Ingrosso ft. Michael Feiner",
+          "title": "Together (Acappella)",
+          "remix": "",
+          "trackId": "295224"
+        },
+        {
+          "artist": "Swedish House Mafia",
+          "title": "One",
+          "remix": "",
+          "trackId": "295225"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia",
+      "title": "One",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "295225",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "16112",
+        "youtube": "16112",
+        "soundcloud": "16112",
+        "appleMusic": "16112"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Michael Calfan",
+      "title": "Resurrection (Axwell Re-Cut Club Version)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "295226",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "54981",
+        "youtube": "54981",
+        "soundcloud": "54981",
+        "appleMusic": "54981"
+      },
+      "blendGroup": [
+        {
+          "artist": "Michael Calfan",
+          "title": "Resurrection (Axwell Re-Cut Club Version)",
+          "remix": "",
+          "trackId": "295226"
+        },
+        {
+          "artist": "Coldplay",
+          "title": "Every Teardrop Is A Waterfall (Acappella)",
+          "remix": "",
+          "trackId": "296041"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Coldplay",
+      "title": "Every Teardrop Is A Waterfall (Acappella)",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "296041",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "37996",
+        "youtube": "43596",
+        "soundcloud": "43596",
+        "appleMusic": "37996"
+      },
+      "blendGroup": [
+        {
+          "artist": "Coldplay",
+          "title": "Every Teardrop Is A Waterfall (Acappella)",
+          "remix": "",
+          "trackId": "296041"
+        },
+        {
+          "artist": "Tim Mason",
+          "title": "The Moment (Steve Angello Edit)",
+          "remix": "",
+          "trackId": "1121679"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tim Mason",
+      "title": "The Moment (Steve Angello Edit)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "1121679",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30828",
+        "youtube": "30828",
+        "soundcloud": "30828",
+        "appleMusic": "30828"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "M-3ox & Matisse & Sadko vs. Temper Trap",
+      "title": "Beating Of My Heart In Sweet Disposition (Swedish House Mafia Bootleg)",
+      "remix": "",
+      "label": "SONY BMG/HEAT",
+      "trackId": "295228",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "74011"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Hard Rock Sofa",
+      "title": "Quasar",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "295229",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "58241",
+        "youtube": "58241",
+        "soundcloud": "58241",
+        "appleMusic": "58241"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hard Rock Sofa",
+          "title": "Quasar",
+          "remix": "",
+          "trackId": "295229"
+        },
+        {
+          "artist": "Florence + The Machine",
+          "title": "Spectrum (Say My Name) (Acappella)",
+          "remix": "",
+          "trackId": "295230"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Florence + The Machine",
+      "title": "Spectrum (Say My Name) (Acappella)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "295230",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "61147",
+        "youtube": "61147",
+        "soundcloud": "61147",
+        "appleMusic": "61147"
+      },
+      "blendGroup": [
+        {
+          "artist": "Florence + The Machine",
+          "title": "Spectrum (Say My Name) (Acappella)",
+          "remix": "",
+          "trackId": "295230"
+        },
+        {
+          "artist": "Faithless",
+          "title": "Insomnia",
+          "remix": "",
+          "trackId": "295231"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Faithless",
+      "title": "Insomnia",
+      "remix": "",
+      "label": "CHEEKY",
+      "trackId": "295231",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1515",
+        "youtube": "1515",
+        "soundcloud": "1515",
+        "appleMusic": "1515"
+      },
+      "blendGroup": [
+        {
+          "artist": "Faithless",
+          "title": "Insomnia",
+          "remix": "",
+          "trackId": "295231"
+        },
+        {
+          "artist": "Sandro Silva & Quintino",
+          "title": "Epic",
+          "remix": "",
+          "trackId": "295232"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sandro Silva & Quintino",
+      "title": "Epic",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "295232",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "38853",
+        "youtube": "38853",
+        "soundcloud": "38853",
+        "appleMusic": "38853"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Thomas Gold vs. Red Carpet vs. Tommy Trash",
+      "title": "Sing 2 Alright Ladi (Axwell Bootleg)",
+      "remix": "",
+      "label": "SOUL MATE/AXTONE/ULTRA",
+      "trackId": "295233",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "74009"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Axwell",
+      "title": "Heart Is King",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "295234",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "31006",
+        "youtube": "31006",
+        "soundcloud": "31006",
+        "appleMusic": "31006"
+      },
+      "blendGroup": [
+        {
+          "artist": "Axwell",
+          "title": "Heart Is King",
+          "remix": "",
+          "trackId": "295234"
+        },
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Save The World (Acappella)",
+          "remix": "",
+          "trackId": "295235"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Save The World (Acappella)",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "295235",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "31007",
+        "youtube": "61666",
+        "soundcloud": "61666",
+        "appleMusic": "31007"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Save The World (Acappella)",
+          "remix": "",
+          "trackId": "295235"
+        },
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Save The World (Knife Party Remix)",
+          "remix": "",
+          "trackId": "295236"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Save The World (Knife Party Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "295236",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "38847",
+        "youtube": "38847",
+        "soundcloud": "38847",
+        "appleMusic": "38847"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Save The World (Knife Party Remix)",
+          "remix": "",
+          "trackId": "295236"
+        },
+        {
+          "artist": "Sebastian Ingrosso & Tommy Trash ft. John Martin",
+          "title": "Reload",
+          "remix": "",
+          "trackId": "295237"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sebastian Ingrosso & Tommy Trash ft. John Martin",
+      "title": "Reload",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "295237",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "87479",
+        "youtube": "87479",
+        "soundcloud": "87479",
+        "appleMusic": "87479"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sebastian Ingrosso & Tommy Trash ft. John Martin",
+          "title": "Reload",
+          "remix": "",
+          "trackId": "295237"
+        },
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Save The World",
+          "remix": "",
+          "trackId": "295238"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Save The World",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "295238",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "31007",
+        "youtube": "31007",
+        "soundcloud": "31007",
+        "appleMusic": "31007"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "942408",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/64606753"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "3547549",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=o-SUEIbjTZ0"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "46051",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=S3hfbJz6bvU"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "46048",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=cJ4_ejTPBNA"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "46183",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/EFMrage"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:27:32.683Z",
+  "scrapeVersion": 2
+}

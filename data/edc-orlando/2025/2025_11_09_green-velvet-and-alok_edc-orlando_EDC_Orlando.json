@@ -1,0 +1,694 @@
+{
+  "tlId": "14wj3q61",
+  "dj": "Green Velvet & ALOK",
+  "stage": "EDC Orlando",
+  "date": "2025-11-09",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/14wj3q61/green-velvet-alok-kineticfield-edc-orlando-united-states-2025-11-09.html",
+  "djs": [
+    {
+      "name": "Green Velvet",
+      "slug": "greenvelvet"
+    },
+    {
+      "name": "ALOK",
+      "slug": "alok"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Green Velvet",
+      "title": "Flash",
+      "remix": "(Intro Edit)",
+      "label": "YETI",
+      "trackId": "13035306",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3876",
+        "youtube": "3876",
+        "soundcloud": "3876",
+        "appleMusic": "3876"
+      },
+      "blendGroup": [
+        {
+          "artist": "Green Velvet",
+          "title": "Flash",
+          "remix": "(Intro Edit)",
+          "trackId": "13035306"
+        },
+        {
+          "artist": "Juos ft. Techno Tupac",
+          "title": "Side Man",
+          "remix": "",
+          "trackId": "12989489"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Juos ft. Techno Tupac",
+      "title": "Side Man",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "12989489",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1110527",
+        "youtube": "1110527",
+        "soundcloud": "1110527",
+        "appleMusic": "1110527"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "ALOK & ARTBAT",
+      "title": "Truth, Peace, Love, Acid",
+      "remix": "",
+      "label": "UPPERGROUND",
+      "trackId": "12989490",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 210,
+      "mediaIds": {
+        "spotify": "1086405",
+        "youtube": "1086405",
+        "soundcloud": "1086405",
+        "appleMusic": "1086405"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Tiësto",
+      "title": "RVN (Raven)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "12994184",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 410,
+      "mediaIds": {
+        "spotify": "1121799",
+        "youtube": "1121799",
+        "soundcloud": "1121799",
+        "appleMusic": "1121799"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto",
+          "title": "RVN (Raven)",
+          "remix": "",
+          "trackId": "12994184"
+        },
+        {
+          "artist": "Green Velvet & Joeski",
+          "title": "Barbee (On Acid)",
+          "remix": "",
+          "trackId": "12989491"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Green Velvet & Joeski",
+      "title": "Barbee (On Acid)",
+      "remix": "",
+      "label": "RELIEF",
+      "trackId": "12989491",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "911307",
+        "youtube": "911307",
+        "soundcloud": "911307",
+        "appleMusic": "911307"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Tiga",
+      "title": "Mind Dimension (Adam Sellouk Remix)",
+      "remix": "",
+      "label": "MADMINDS (ARMADA)",
+      "trackId": "12989492",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 558,
+      "mediaIds": {
+        "spotify": "1122782",
+        "youtube": "1122782",
+        "soundcloud": "1122782",
+        "appleMusic": "1122782"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Cajmere",
+      "title": "Percolator (Mikey Barreneche & GioMetrik Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "12989493",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 761,
+      "mediaIds": {
+        "youtube": "1094183",
+        "soundcloud": "1094183"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Fred again.. & Skepta & PlaqueBoyMax",
+      "title": "Victory Lap (Adam Sellouk & UN:COMN Remix)",
+      "remix": "",
+      "label": "LOST LANGUAGE",
+      "trackId": "12989495",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 923,
+      "mediaIds": {
+        "soundcloud": "1107940"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fred again.. & Skepta & PlaqueBoyMax",
+          "title": "Victory Lap (Adam Sellouk & UN:COMN Remix)",
+          "remix": "",
+          "trackId": "12989495"
+        },
+        {
+          "artist": "Tiga vs. Audion",
+          "title": "Let's Go Dancing (Acappella)",
+          "remix": "",
+          "trackId": "12989494"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiga vs. Audion",
+      "title": "Let's Go Dancing (Acappella)",
+      "remix": "",
+      "label": "TURBO",
+      "trackId": "12989494",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "147992",
+        "youtube": "168073",
+        "soundcloud": "147992",
+        "appleMusic": "147992"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Green Velvet & Harvard Bass",
+      "title": "Lazer Beams (ALOK Remix)",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "12989496",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1074,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "ALOK & Sevenn",
+      "title": "BYOB (2025 VIP Mix)",
+      "remix": "",
+      "label": "SYMPHONIC",
+      "trackId": "12989497",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1232,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Green Velvet",
+      "title": "La La Land (GENESI & MEDUZA & ESSENTIA Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "12989498",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1349,
+      "mediaIds": {
+        "youtube": "1128245"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "MORTEN & David Guetta ft. Fedde Le Grand",
+      "title": "Night In Detroit",
+      "remix": "(Night In EDC Edit)",
+      "label": "FUTURE RAVE",
+      "trackId": "12989499",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1614,
+      "mediaIds": {
+        "spotify": "1065201",
+        "youtube": "1065201",
+        "soundcloud": "1065201",
+        "appleMusic": "1065201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Rihanna",
+      "title": "Where Have You Been (Green Velvet & Stacey Pullen Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12989500",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1747,
+      "mediaIds": {
+        "soundcloud": "1134159"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Cajmere ft. Dajae",
+      "title": "Brighter Days (ALOK & Santti & Ruddek Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "12989503",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1939,
+      "mediaIds": {
+        "spotify": "1084040",
+        "youtube": "1084040",
+        "soundcloud": "1084040",
+        "appleMusic": "1084040"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Sharam",
+      "title": "PATT (Party All The Time) (Adam Beyer & Layton Giordani & Green Velvet Remix)",
+      "remix": "",
+      "label": "DRUMCODE/ARMADA",
+      "trackId": "12989504",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2109,
+      "mediaIds": {
+        "spotify": "952241",
+        "youtube": "952241",
+        "soundcloud": "952241",
+        "appleMusic": "952241"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Freejak",
+      "title": "Sandstorm",
+      "remix": "",
+      "label": "PERFECT HAVOC",
+      "trackId": "12989505",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2316,
+      "mediaIds": {
+        "spotify": "754481",
+        "youtube": "754481",
+        "soundcloud": "754481",
+        "appleMusic": "754481"
+      },
+      "blendGroup": [
+        {
+          "artist": "Freejak",
+          "title": "Sandstorm",
+          "remix": "",
+          "trackId": "12989505"
+        },
+        {
+          "artist": "Icona Pop ft. Charli xcx",
+          "title": "I Love It (Acappella)",
+          "remix": "",
+          "trackId": "12989506"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Icona Pop ft. Charli xcx",
+      "title": "I Love It (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "12989506",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "94593",
+        "youtube": "136755",
+        "soundcloud": "94593",
+        "appleMusic": "94593"
+      },
+      "blendGroup": [
+        {
+          "artist": "Icona Pop ft. Charli xcx",
+          "title": "I Love It (Acappella)",
+          "remix": "",
+          "trackId": "12989506"
+        },
+        {
+          "artist": "MATTN & Selva vs. Darude & Thomas Anthony vs. Empire Of The Sun",
+          "title": "Sandstorm vs. Sandstorm vs. We Are The People (Cat Dealers Mashup)",
+          "remix": "",
+          "trackId": "12989507"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MATTN & Selva vs. Darude & Thomas Anthony vs. Empire Of The Sun",
+      "title": "Sandstorm vs. Sandstorm vs. We Are The People (Cat Dealers Mashup)",
+      "remix": "",
+      "label": "CAPITOL (EMI)/SMASH THE HOUSE/NEO RECORDS/ROBBINS",
+      "trackId": "12989507",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "15",
+      "artist": "Supermode & MEDUZA vs. Swedish House Mafia",
+      "title": "Tell Me Why vs. Don't You Worry Child (Dion Dobbe Mashup)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "12989508",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2472,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "FEZZO",
+      "title": "Kids",
+      "remix": "",
+      "label": "RELENTLESS",
+      "trackId": "12989510",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2695,
+      "mediaIds": {
+        "spotify": "1098376",
+        "youtube": "1098376",
+        "soundcloud": "1098376",
+        "appleMusic": "1098376"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "HELLMATE & Santiago & Carlitos & Chantal Lewis-Brown",
+      "title": "Show Me Love",
+      "remix": "",
+      "label": "GLASGOW UNDERGROUND",
+      "trackId": "12989511",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2895,
+      "mediaIds": {
+        "spotify": "941003",
+        "youtube": "941003",
+        "soundcloud": "941003",
+        "appleMusic": "941003"
+      },
+      "blendGroup": [
+        {
+          "artist": "HELLMATE & Santiago & Carlitos & Chantal Lewis-Brown",
+          "title": "Show Me Love",
+          "remix": "",
+          "trackId": "12989511"
+        },
+        {
+          "artist": "ZALEØN & NIVVEK",
+          "title": "Why Don't You Love",
+          "remix": "",
+          "trackId": "12989512"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ZALEØN & NIVVEK",
+      "title": "Why Don't You Love",
+      "remix": "",
+      "label": "",
+      "trackId": "12989512",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "1107720"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "ALOK & DENNIS ft. Nyasia",
+      "title": "Mimosa (Now And Forever)",
+      "remix": "",
+      "label": "B1 (SONY)",
+      "trackId": "12989513",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3062,
+      "mediaIds": {
+        "spotify": "1129577",
+        "youtube": "1129577",
+        "soundcloud": "1129577",
+        "appleMusic": "1129577"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Chris Lake & Green Velvet",
+      "title": "Deceiver (VIP)",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "12989514",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3178,
+      "mediaIds": {
+        "spotify": "720539",
+        "youtube": "720539",
+        "soundcloud": "720539",
+        "appleMusic": "720539"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "ALOK & B JONES",
+      "title": "Left To Right",
+      "remix": "",
+      "label": "TOMORROWLAND",
+      "trackId": "12989515",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3415,
+      "mediaIds": {
+        "spotify": "1104495",
+        "youtube": "1104495",
+        "soundcloud": "1104495",
+        "appleMusic": "1104495"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Sneaks",
+      "title": "Look Like That (Ugo Banchi Remix)",
+      "remix": "",
+      "label": "REALM",
+      "trackId": "12989516",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3562,
+      "mediaIds": {
+        "spotify": "1095185",
+        "youtube": "1095185",
+        "soundcloud": "1095185",
+        "appleMusic": "1095185"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "The Prodigy",
+      "title": "No Good (Start The Dance)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12989517",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3761,
+      "mediaIds": {
+        "spotify": "17044",
+        "youtube": "17044",
+        "soundcloud": "17044",
+        "appleMusic": "17044"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Prodigy",
+          "title": "No Good (Start The Dance)",
+          "remix": "",
+          "trackId": "12989517"
+        },
+        {
+          "artist": "Faithless",
+          "title": "Insomnia",
+          "remix": "",
+          "trackId": "12989518"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Faithless",
+      "title": "Insomnia",
+      "remix": "",
+      "label": "CHEEKY",
+      "trackId": "12989518",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1515",
+        "youtube": "1515",
+        "soundcloud": "1515",
+        "appleMusic": "1515"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "The Martinez Brothers",
+      "title": "H2DAIZZO (Josh Baker Remix)",
+      "remix": "",
+      "label": "DEFECTED",
+      "trackId": "12989519",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3900,
+      "mediaIds": {
+        "spotify": "1130071",
+        "youtube": "1130071",
+        "soundcloud": "1130071",
+        "appleMusic": "1130071"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Monocule & Marcus Santoro",
+      "title": "Fine Day (ALOK Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12989520",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 4087,
+      "mediaIds": {
+        "soundcloud": "1109683"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Cirez D",
+      "title": "On Off",
+      "remix": "",
+      "label": "MOUSEVILLE",
+      "trackId": "12989521",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 4232,
+      "mediaIds": {
+        "spotify": "5113",
+        "youtube": "5113",
+        "soundcloud": "5113",
+        "appleMusic": "5113"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cirez D",
+          "title": "On Off",
+          "remix": "",
+          "trackId": "12989521"
+        },
+        {
+          "artist": "Empire Of The Sun",
+          "title": "We Are The People (Acappella)",
+          "remix": "",
+          "trackId": "12989522"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Empire Of The Sun",
+      "title": "We Are The People (Acappella)",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "12989522",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5237",
+        "youtube": "42879",
+        "soundcloud": "5237",
+        "appleMusic": "5237"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "5069065",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=iY4g1WaBmds"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "5051467",
+      "idSource": "40",
+      "url": "https://hearthis.at/13079518/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:27:07.440Z",
+  "scrapeVersion": 2
+}

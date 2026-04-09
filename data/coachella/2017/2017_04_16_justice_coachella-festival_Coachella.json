@@ -1,0 +1,398 @@
+{
+  "tlId": "20dc44l1",
+  "dj": "Justice",
+  "stage": "Coachella Festival",
+  "date": "2017-04-16",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/20dc44l1/justice-outdoor-theatre-coachella-festival-united-states-2017-04-16.html",
+  "djs": [
+    {
+      "name": "Justice",
+      "slug": "justice"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Justice",
+      "title": "Safe And Sound",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2602423",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "316545",
+        "youtube": "316545",
+        "soundcloud": "316545",
+        "appleMusic": "316545"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Justice",
+      "title": "D.A.N.C.E.",
+      "remix": "",
+      "label": "ED BANGER/BECAUSE MUSIC",
+      "trackId": "2602424",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "22909",
+        "youtube": "22909",
+        "soundcloud": "22909",
+        "appleMusic": "22909"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice",
+          "title": "D.A.N.C.E.",
+          "remix": "",
+          "trackId": "2602424"
+        },
+        {
+          "artist": "Justice",
+          "title": "Safe And Sound",
+          "remix": "",
+          "trackId": "2602425"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice",
+      "title": "Safe And Sound",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2602425",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "316545",
+        "youtube": "316545",
+        "soundcloud": "316545",
+        "appleMusic": "316545"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Justice",
+      "title": "Canon",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2602426",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "65185",
+        "youtube": "65185",
+        "soundcloud": "65185",
+        "appleMusic": "65185"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice",
+          "title": "Canon",
+          "remix": "",
+          "trackId": "2602426"
+        },
+        {
+          "artist": "Justice",
+          "title": "Love S.O.S.",
+          "remix": "",
+          "trackId": "2603381"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice",
+      "title": "Love S.O.S.",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2603381",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "339032",
+        "youtube": "339032",
+        "soundcloud": "339032",
+        "appleMusic": "339032"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Justice",
+      "title": "Genesis",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2602427",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "67026",
+        "youtube": "67026",
+        "soundcloud": "67026",
+        "appleMusic": "67026"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice",
+          "title": "Genesis",
+          "remix": "",
+          "trackId": "2602427"
+        },
+        {
+          "artist": "Justice",
+          "title": "Phantom",
+          "remix": "(Live Edit)",
+          "trackId": "2602428"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice",
+      "title": "Phantom",
+      "remix": "(Live Edit)",
+      "label": "ED BANGER",
+      "trackId": "2602428",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "12782",
+        "youtube": "12782",
+        "soundcloud": "12782",
+        "appleMusic": "12782"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Justice",
+      "title": "Pleasure",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2602429",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "351874",
+        "youtube": "351874",
+        "soundcloud": "351874",
+        "appleMusic": "351874"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Justice",
+      "title": "Heavy Metal",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2602430",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "351875",
+        "youtube": "351875",
+        "soundcloud": "351875",
+        "appleMusic": "351875"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice",
+          "title": "Heavy Metal",
+          "remix": "",
+          "trackId": "2602430"
+        },
+        {
+          "artist": "Justice",
+          "title": "DVNO",
+          "remix": "",
+          "trackId": "2602431"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice",
+      "title": "DVNO",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2602431",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "17655",
+        "youtube": "17655",
+        "soundcloud": "17655",
+        "appleMusic": "17655"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Justice",
+      "title": "Stress",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2602432",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "43234",
+        "youtube": "43234",
+        "soundcloud": "43234",
+        "appleMusic": "43234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Justice",
+      "title": "Stress (Auto Remix)",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2602433",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1902,
+      "mediaIds": {
+        "youtube": "363960"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice",
+          "title": "Stress (Auto Remix)",
+          "remix": "",
+          "trackId": "2602433"
+        },
+        {
+          "artist": "Justice",
+          "title": "Love S.O.S.",
+          "remix": "",
+          "trackId": "2602434"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice",
+      "title": "Love S.O.S.",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2602434",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "339032",
+        "youtube": "339032",
+        "soundcloud": "339032",
+        "appleMusic": "339032"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Justice",
+      "title": "Alakazam!",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2602435",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "331802",
+        "youtube": "331802",
+        "soundcloud": "331802",
+        "appleMusic": "331802"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Justice ft. M. Yaman",
+      "title": "Fire",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2602437",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "337105",
+        "youtube": "337105",
+        "soundcloud": "337105",
+        "appleMusic": "337105"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice ft. M. Yaman",
+          "title": "Fire",
+          "remix": "",
+          "trackId": "2602437"
+        },
+        {
+          "artist": "Justice",
+          "title": "Love S.O.S.",
+          "remix": "",
+          "trackId": "2602438"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice",
+      "title": "Love S.O.S.",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2602438",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "339032",
+        "youtube": "339032",
+        "soundcloud": "339032",
+        "appleMusic": "339032"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Justice",
+      "title": "Waters Of Nazareth",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "6684035",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2843,
+      "mediaIds": {
+        "spotify": "23195",
+        "youtube": "23195",
+        "soundcloud": "23195",
+        "appleMusic": "23195"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T04:29:03.497Z",
+  "scrapeVersion": 2
+}

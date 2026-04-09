@@ -1,0 +1,694 @@
+{
+  "tlId": "1r47r63k",
+  "dj": "Los Dutis",
+  "stage": "EDC Mexico",
+  "date": "2019-02-23",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/1r47r63k/los-dutis-circuitgrounds-edc-mexico-2019-02-23.html",
+  "djs": [
+    {
+      "name": "Los Dutis",
+      "slug": "losdutis"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Ivan Dola",
+      "title": "Baile",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "4470115",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "491016",
+        "youtube": "491016",
+        "soundcloud": "491016",
+        "appleMusic": "491016"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Otherside",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "4470116",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 34,
+      "mediaIds": {
+        "spotify": "5247",
+        "youtube": "5247",
+        "soundcloud": "5247",
+        "appleMusic": "5247"
+      },
+      "blendGroup": [
+        {
+          "artist": "Red Hot Chili Peppers",
+          "title": "Otherside",
+          "remix": "",
+          "trackId": "4470116"
+        },
+        {
+          "artist": "FRUTi",
+          "title": "La Trampa",
+          "remix": "",
+          "trackId": "4470117"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "FRUTi",
+      "title": "La Trampa",
+      "remix": "",
+      "label": "",
+      "trackId": "4470117",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 87,
+      "mediaIds": null
+    },
+    {
+      "pos": "03",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4470118",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 143,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4470118"
+        },
+        {
+          "artist": "Reel 2 Real ft. The Mad Stuntman",
+          "title": "I Like To Move It (Acappella)",
+          "remix": "",
+          "trackId": "4470119"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Reel 2 Real ft. The Mad Stuntman",
+      "title": "I Like To Move It (Acappella)",
+      "remix": "",
+      "label": "STRICTLY RHYTHM",
+      "trackId": "4470119",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 143,
+      "mediaIds": {
+        "spotify": "3068",
+        "youtube": "3068",
+        "soundcloud": "3068",
+        "appleMusic": "3068"
+      },
+      "blendGroup": [
+        {
+          "artist": "Reel 2 Real ft. The Mad Stuntman",
+          "title": "I Like To Move It (Acappella)",
+          "remix": "",
+          "trackId": "4470119"
+        },
+        {
+          "artist": "R3HAB & Deorro",
+          "title": "Flashlight (Uno Dos Tres Woow Acappella)",
+          "remix": "",
+          "trackId": "4470120"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "R3HAB & Deorro",
+      "title": "Flashlight (Uno Dos Tres Woow Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4470120",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 172,
+      "mediaIds": {
+        "spotify": "196737",
+        "youtube": "196737",
+        "soundcloud": "196737",
+        "appleMusic": "196737"
+      },
+      "blendGroup": [
+        {
+          "artist": "R3HAB & Deorro",
+          "title": "Flashlight (Uno Dos Tres Woow Acappella)",
+          "remix": "",
+          "trackId": "4470120"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4470121"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4470121",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 174,
+      "mediaIds": null
+    },
+    {
+      "pos": "04",
+      "artist": "Bingo Players",
+      "title": "Rattle",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "4470122",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 231,
+      "mediaIds": {
+        "spotify": "46307",
+        "youtube": "46307",
+        "soundcloud": "46307",
+        "appleMusic": "46307"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bingo Players",
+          "title": "Rattle",
+          "remix": "",
+          "trackId": "4470122"
+        },
+        {
+          "artist": "BAILO & Dryxo",
+          "title": "Grid Lock",
+          "remix": "",
+          "trackId": "4470123"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "BAILO & Dryxo",
+      "title": "Grid Lock",
+      "remix": "",
+      "label": "BARONG FAMILY/FREE",
+      "trackId": "4470123",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 269,
+      "mediaIds": {
+        "spotify": "382032",
+        "youtube": "382032",
+        "soundcloud": "382032",
+        "appleMusic": "382032"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Kid Cudi ft. MGMT & Ratatat",
+      "title": "Pursuit Of Happiness (Steve Aoki Remix)",
+      "remix": "",
+      "label": "REPUBLIC/GOOD MUSIC",
+      "trackId": "4470124",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 306,
+      "mediaIds": {
+        "spotify": "28421",
+        "youtube": "28421",
+        "soundcloud": "28421",
+        "appleMusic": "28421"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kid Cudi ft. MGMT & Ratatat",
+          "title": "Pursuit Of Happiness (Steve Aoki Remix)",
+          "remix": "",
+          "trackId": "4470124"
+        },
+        {
+          "artist": "Zomboy",
+          "title": "Like A Bitch",
+          "remix": "",
+          "trackId": "4470125"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zomboy",
+      "title": "Like A Bitch",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "4470125",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 349,
+      "mediaIds": {
+        "spotify": "291288",
+        "youtube": "291288",
+        "soundcloud": "291288",
+        "appleMusic": "291288"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zomboy",
+          "title": "Like A Bitch",
+          "remix": "",
+          "trackId": "4470125"
+        },
+        {
+          "artist": "Bandlez",
+          "title": "Hot Pursuit",
+          "remix": "",
+          "trackId": "4470126"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bandlez",
+      "title": "Hot Pursuit",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "4470126",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 352,
+      "mediaIds": {
+        "spotify": "466027",
+        "youtube": "466027",
+        "soundcloud": "466027",
+        "appleMusic": "466027"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Zombie Nation",
+      "title": "Kernkraft 400",
+      "remix": "",
+      "label": "EPM",
+      "trackId": "3947312",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 394,
+      "mediaIds": {
+        "spotify": "3577",
+        "youtube": "3577",
+        "soundcloud": "3577",
+        "appleMusic": "3577"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zombie Nation",
+          "title": "Kernkraft 400",
+          "remix": "",
+          "trackId": "3947312"
+        },
+        {
+          "artist": "Mr. Polska & Boaz van de Beatz ft. G-Buck",
+          "title": "Chu Chu Clap",
+          "remix": "",
+          "trackId": "4470127"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mr. Polska & Boaz van de Beatz ft. G-Buck",
+      "title": "Chu Chu Clap",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "4470127",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 432,
+      "mediaIds": {
+        "spotify": "386918",
+        "youtube": "386918",
+        "soundcloud": "386918",
+        "appleMusic": "386918"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Skellism & Terror Bass ft. Lil Jon",
+      "title": "In The Pit",
+      "remix": "",
+      "label": "GEFFEN (UMG)",
+      "trackId": "4470128",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 466,
+      "mediaIds": {
+        "spotify": "333437",
+        "youtube": "333437",
+        "soundcloud": "333437",
+        "appleMusic": "333437"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skellism & Terror Bass ft. Lil Jon",
+          "title": "In The Pit",
+          "remix": "",
+          "trackId": "4470128"
+        },
+        {
+          "artist": "Pitbull ft. Lil Jon",
+          "title": "Culo (Acappella)",
+          "remix": "",
+          "trackId": "4470129"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pitbull ft. Lil Jon",
+      "title": "Culo (Acappella)",
+      "remix": "",
+      "label": "THE ORCHARD",
+      "trackId": "4470129",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "44947",
+        "youtube": "44947",
+        "soundcloud": "44947",
+        "appleMusic": "44947"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pitbull ft. Lil Jon",
+          "title": "Culo (Acappella)",
+          "remix": "",
+          "trackId": "4470129"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4470130"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4470130",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 501,
+      "mediaIds": null
+    },
+    {
+      "pos": "08",
+      "artist": "Los Karkiks",
+      "title": "Arremangala Arrempujala",
+      "remix": "",
+      "label": "",
+      "trackId": "4470131",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 594,
+      "mediaIds": {
+        "spotify": "531782",
+        "youtube": "531782",
+        "soundcloud": "531782",
+        "appleMusic": "531782"
+      },
+      "blendGroup": [
+        {
+          "artist": "Los Karkiks",
+          "title": "Arremangala Arrempujala",
+          "remix": "",
+          "trackId": "4470131"
+        },
+        {
+          "artist": "Vengaboys",
+          "title": "We Like To Party! (The Vengabus)",
+          "remix": "",
+          "trackId": "3947313"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Vengaboys",
+      "title": "We Like To Party! (The Vengabus)",
+      "remix": "",
+      "label": "VIOLENT",
+      "trackId": "3947313",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 611,
+      "mediaIds": {
+        "spotify": "92224",
+        "youtube": "92224",
+        "soundcloud": "92224",
+        "appleMusic": "92224"
+      },
+      "blendGroup": [
+        {
+          "artist": "Vengaboys",
+          "title": "We Like To Party! (The Vengabus)",
+          "remix": "",
+          "trackId": "3947313"
+        },
+        {
+          "artist": "Alison Wonderland",
+          "title": "Good Enough (Valentino Khan Remix)",
+          "remix": "",
+          "trackId": "3947314"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alison Wonderland",
+      "title": "Good Enough (Valentino Khan Remix)",
+      "remix": "",
+      "label": "EMI AUSTRALIA",
+      "trackId": "3947314",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 657,
+      "mediaIds": {
+        "spotify": "418099",
+        "youtube": "418099",
+        "soundcloud": "418099",
+        "appleMusic": "418099"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13266504",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 706,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Downlink",
+      "title": "Absolute Fire",
+      "remix": "",
+      "label": "UPLINK AUDIO",
+      "trackId": "3947315",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 742,
+      "mediaIds": {
+        "spotify": "402032",
+        "youtube": "402032",
+        "soundcloud": "402032",
+        "appleMusic": "402032"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Martin Garrix",
+      "title": "Animals",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "3947316",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 774,
+      "mediaIds": {
+        "spotify": "133924",
+        "youtube": "133924",
+        "soundcloud": "133924",
+        "appleMusic": "133924"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Garrix",
+          "title": "Animals",
+          "remix": "",
+          "trackId": "3947316"
+        },
+        {
+          "artist": "Millonario & W. Corona ft. Cartel De Santa",
+          "title": "Éxtasis",
+          "remix": "(Acappella)",
+          "trackId": "3947317"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Millonario & W. Corona ft. Cartel De Santa",
+      "title": "Éxtasis",
+      "remix": "(Acappella)",
+      "label": "",
+      "trackId": "3947317",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 774,
+      "mediaIds": {
+        "spotify": "764499",
+        "youtube": "764499",
+        "appleMusic": "764499"
+      },
+      "blendGroup": [
+        {
+          "artist": "Millonario & W. Corona ft. Cartel De Santa",
+          "title": "Éxtasis",
+          "remix": "(Acappella)",
+          "trackId": "3947317"
+        },
+        {
+          "artist": "SLANDER & Sullivan King",
+          "title": "Welcome To The Fire (MONXX Remix)",
+          "remix": "",
+          "trackId": "3947318"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SLANDER & Sullivan King",
+      "title": "Welcome To The Fire (MONXX Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "3947318",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 812,
+      "mediaIds": {
+        "spotify": "449395",
+        "youtube": "449395",
+        "soundcloud": "449395",
+        "appleMusic": "449395"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army",
+      "remix": "",
+      "label": "XL",
+      "trackId": "3947319",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1491",
+        "youtube": "1491",
+        "soundcloud": "1491",
+        "appleMusic": "1491"
+      },
+      "blendGroup": [
+        {
+          "artist": "The White Stripes",
+          "title": "Seven Nation Army",
+          "remix": "",
+          "trackId": "3947319"
+        },
+        {
+          "artist": "JOYRYDE ft. Freddie Gibbs",
+          "title": "Damn",
+          "remix": "",
+          "trackId": "3947320"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JOYRYDE ft. Freddie Gibbs",
+      "title": "Damn",
+      "remix": "",
+      "label": "HARD RECS (INSOMNIAC)",
+      "trackId": "3947320",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "338660",
+        "youtube": "338660",
+        "soundcloud": "338660",
+        "appleMusic": "338660"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Los Dutis",
+      "title": "La Rapida",
+      "remix": "",
+      "label": "LA CLINICA",
+      "trackId": "3947322",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "789379",
+        "youtube": "789379",
+        "soundcloud": "789379",
+        "appleMusic": "789379"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1410744",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=rD4jScdLGV4"
+    }
+  ],
+  "scrapedAt": "2026-04-08T18:20:21.135Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,114 @@
+{
+  "tlId": "2rs3ngj9",
+  "dj": "MaRLo",
+  "stage": "EDC China",
+  "date": "2019-11-23",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/2rs3ngj9/marlo-quantumvalley-edc-china-guangdong-2019-11-23.html",
+  "djs": [
+    {
+      "name": "MaRLo",
+      "slug": "marlo"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "AVAO",
+      "title": "Cosmic Order",
+      "remix": "",
+      "label": "REACHING ALTITUDE",
+      "trackId": "4508897",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "513446",
+        "youtube": "513446",
+        "soundcloud": "513446",
+        "appleMusic": "513446"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "MaRLo & HALIENE",
+      "title": "Whisper",
+      "remix": "",
+      "label": "REACHING ALTITUDE",
+      "trackId": "4508898",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "485249",
+        "youtube": "485249",
+        "soundcloud": "485249",
+        "appleMusic": "485249"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Bobby Neon & Hit The Bass",
+      "title": "Mekka",
+      "remix": "",
+      "label": "REACHING ALTITUDE",
+      "trackId": "4508899",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "520953",
+        "youtube": "520953",
+        "soundcloud": "520953",
+        "appleMusic": "520953"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bobby Neon & Hit The Bass",
+          "title": "Mekka",
+          "remix": "",
+          "trackId": "4508899"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Acappella)",
+          "remix": "",
+          "trackId": "4508900"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "4508900",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8354",
+        "youtube": "8354",
+        "soundcloud": "8354",
+        "appleMusic": "8354"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "1445071",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:41:20.041Z",
+  "scrapeVersion": 2
+}

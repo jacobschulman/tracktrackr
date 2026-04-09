@@ -1,0 +1,161 @@
+{
+  "tlId": "61qkv7t",
+  "dj": "Galantis",
+  "stage": "Electric Zoo",
+  "date": "2015-09-05",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/61qkv7t/galantis-hilltop-arena-electric-zoo-united-states-2015-09-05.html",
+  "djs": [
+    {
+      "name": "Galantis",
+      "slug": "galantis"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Rune RK",
+      "title": "Calabria (Firebeatz Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "1902289",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "186960",
+        "youtube": "186960",
+        "soundcloud": "186960",
+        "appleMusic": "186960"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rune RK",
+          "title": "Calabria (Firebeatz Remix)",
+          "remix": "",
+          "trackId": "1902289"
+        },
+        {
+          "artist": "R3HAB & Deorro",
+          "title": "Flashlight",
+          "remix": "",
+          "trackId": "1902290"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "R3HAB & Deorro",
+      "title": "Flashlight",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1902290",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "177775",
+        "youtube": "177775",
+        "soundcloud": "177775",
+        "appleMusic": "177775"
+      },
+      "blendGroup": [
+        {
+          "artist": "R3HAB & Deorro",
+          "title": "Flashlight",
+          "remix": "",
+          "trackId": "1902290"
+        },
+        {
+          "artist": "R3HAB & Deorro",
+          "title": "Flashlight",
+          "remix": "",
+          "trackId": "1902292"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "R3HAB & Deorro",
+      "title": "Flashlight",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1902292",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "177775",
+        "youtube": "177775",
+        "soundcloud": "177775",
+        "appleMusic": "177775"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Galantis",
+      "title": "You",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1902293",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "177685",
+        "youtube": "177685",
+        "soundcloud": "177685",
+        "appleMusic": "177685"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Galantis",
+      "title": "Peanut Butter Jelly",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1902294",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "250416",
+        "youtube": "250416",
+        "soundcloud": "250416",
+        "appleMusic": "250416"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Fraanklyn",
+      "title": "Rock The Funky Beats",
+      "remix": "",
+      "label": "SOSUMI (BLACK HOLE)",
+      "trackId": "1902295",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "256041",
+        "soundcloud": "256041"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "405026",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=DYfVcrxKeM8"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:56:58.343Z",
+  "scrapeVersion": 2
+}

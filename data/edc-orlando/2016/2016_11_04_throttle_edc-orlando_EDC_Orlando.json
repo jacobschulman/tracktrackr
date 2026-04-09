@@ -1,0 +1,569 @@
+{
+  "tlId": "13j33hut",
+  "dj": "Throttle",
+  "stage": "EDC Orlando",
+  "date": "2016-11-04",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/13j33hut/throttle-kineticfield-edc-orlando-united-states-2016-11-04.html",
+  "djs": [
+    {
+      "name": "Throttle",
+      "slug": "throttle"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "The Weeknd",
+      "title": "Can't Feel My Face (Throttle Remix)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "2342415",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "TJR",
+      "title": "Funky Vodka",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "2342416",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "40872",
+        "youtube": "40872",
+        "soundcloud": "40872",
+        "appleMusic": "40872"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Rob Pix",
+      "title": "Jack That (Tom Budin Remix)",
+      "remix": "",
+      "label": "DOWNRIGHT (MINISTRY OF SOUND AU)",
+      "trackId": "2342417",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "250641",
+        "soundcloud": "250641"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "AlunaGeorge ft. Popcaan",
+      "title": "I'm In Control (Throttle Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "2342418",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "299759",
+        "soundcloud": "299759"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Dr. Kucho! & Gregor Salto ft. Ane Brun",
+      "title": "Can't Stop Playing (Makes Me High) (Oliver Heldens & Gregor Salto Vocal Mix)",
+      "remix": "",
+      "label": "SPINNIN'/DISC DOCTOR",
+      "trackId": "2342436",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "234637",
+        "youtube": "234637",
+        "soundcloud": "234637",
+        "appleMusic": "234637"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dr. Kucho! & Gregor Salto ft. Ane Brun",
+          "title": "Can't Stop Playing (Makes Me High) (Oliver Heldens & Gregor Salto Vocal Mix)",
+          "remix": "",
+          "trackId": "2342436"
+        },
+        {
+          "artist": "Mark Ronson ft. Bruno Mars",
+          "title": "Uptown Funk (Acappella)",
+          "remix": "",
+          "trackId": "2342437"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "title": "Uptown Funk (Acappella)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "2342437",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "233330",
+        "youtube": "251046",
+        "soundcloud": "233330",
+        "appleMusic": "233330"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Galantis",
+      "title": "Peanut Butter Jelly",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "2342438",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "250416",
+        "youtube": "250416",
+        "soundcloud": "250416",
+        "appleMusic": "250416"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Oliver Heldens & Throttle",
+      "title": "Waiting",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "2342518",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "286858",
+        "youtube": "286858",
+        "soundcloud": "286858",
+        "appleMusic": "286858"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "CID",
+      "title": "Together",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "2342519",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300199",
+        "youtube": "300199",
+        "soundcloud": "300199",
+        "appleMusic": "300199"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Throttle",
+      "title": "What's That Sound",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2342520",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "158733"
+      },
+      "blendGroup": [
+        {
+          "artist": "Throttle",
+          "title": "What's That Sound",
+          "remix": "",
+          "trackId": "2342520"
+        },
+        {
+          "artist": "Michael Jackson",
+          "title": "Thriller",
+          "remix": "",
+          "trackId": "2342521"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Michael Jackson",
+      "title": "Thriller",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "2342521",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "4124",
+        "youtube": "4124",
+        "soundcloud": "4124",
+        "appleMusic": "4124"
+      },
+      "blendGroup": [
+        {
+          "artist": "Michael Jackson",
+          "title": "Thriller",
+          "remix": "",
+          "trackId": "2342521"
+        },
+        {
+          "artist": "Don Diablo ft. Emeni",
+          "title": "Universe (Lucas & Steve Edit)",
+          "remix": "",
+          "trackId": "2342522"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Don Diablo ft. Emeni",
+      "title": "Universe (Lucas & Steve Edit)",
+      "remix": "",
+      "label": "SPINNIN' DEEP",
+      "trackId": "2342522",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "260951"
+      },
+      "blendGroup": [
+        {
+          "artist": "Don Diablo ft. Emeni",
+          "title": "Universe (Lucas & Steve Edit)",
+          "remix": "",
+          "trackId": "2342522"
+        },
+        {
+          "artist": "Krewella",
+          "title": "Alive (Acappella)",
+          "remix": "",
+          "trackId": "2342523"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Krewella",
+      "title": "Alive (Acappella)",
+      "remix": "",
+      "label": "KREWELLA",
+      "trackId": "2342523",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "85311",
+        "youtube": "136140",
+        "soundcloud": "85311",
+        "appleMusic": "85311"
+      },
+      "blendGroup": [
+        {
+          "artist": "Krewella",
+          "title": "Alive (Acappella)",
+          "remix": "",
+          "trackId": "2342523"
+        },
+        {
+          "artist": "Axwell & Sebastian Ingrosso & Steve Angello & Laidback Luke ft. Deborah Cox",
+          "title": "Leave The World Behind (Acappella)",
+          "remix": "",
+          "trackId": "2342524"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Axwell & Sebastian Ingrosso & Steve Angello & Laidback Luke ft. Deborah Cox",
+      "title": "Leave The World Behind (Acappella)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "2342524",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3679",
+        "youtube": "3679",
+        "soundcloud": "3679",
+        "appleMusic": "13033"
+      },
+      "blendGroup": [
+        {
+          "artist": "Axwell & Sebastian Ingrosso & Steve Angello & Laidback Luke ft. Deborah Cox",
+          "title": "Leave The World Behind (Acappella)",
+          "remix": "",
+          "trackId": "2342524"
+        },
+        {
+          "artist": "Nari & Milani",
+          "title": "Atom (Blast Beat GO Acappella)",
+          "remix": "",
+          "trackId": "2342525"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nari & Milani",
+      "title": "Atom (Blast Beat GO Acappella)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "2342525",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "57099",
+        "youtube": "57099",
+        "soundcloud": "57099",
+        "appleMusic": "57099"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Fake Blood",
+      "title": "I Think I Like It",
+      "remix": "",
+      "label": "CHEAP THRILLS",
+      "trackId": "2342526",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "12771",
+        "youtube": "12771",
+        "soundcloud": "12771",
+        "appleMusic": "12771"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Disclosure & Friend Within",
+      "title": "The Mechanism",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "2342533",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "173262",
+        "youtube": "173262",
+        "soundcloud": "173262",
+        "appleMusic": "173262"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2342534",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Duck Sauce",
+      "title": "Barbra Streisand",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "2342535",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "19059",
+        "youtube": "19059",
+        "soundcloud": "19059",
+        "appleMusic": "19059"
+      },
+      "blendGroup": [
+        {
+          "artist": "Duck Sauce",
+          "title": "Barbra Streisand",
+          "remix": "",
+          "trackId": "2342535"
+        },
+        {
+          "artist": "Michael Jackson",
+          "title": "Beat It (Acappella)",
+          "remix": "",
+          "trackId": "2342536"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Michael Jackson",
+      "title": "Beat It (Acappella)",
+      "remix": "",
+      "label": "MJJ MUSIC (EPIC)",
+      "trackId": "2342536",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "6318",
+        "youtube": "6318",
+        "soundcloud": "6318",
+        "appleMusic": "6318"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Throttle",
+      "title": "Hit The Road Jack",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2342537",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "318735",
+        "youtube": "318735",
+        "soundcloud": "318735",
+        "appleMusic": "318735"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2342561",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Earth, Wind & Fire vs. Wolfgang Gartner",
+      "title": "Boogie Wonderland vs. Illmerica (Throttle Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "2342562",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "SNBRN ft. Kaleena Zanders",
+      "title": "California (Chris Lake & Matroda Remix)",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "2342563",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "247151",
+        "youtube": "247151",
+        "soundcloud": "247151",
+        "appleMusic": "247151"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Avicii ft. Salem Al Fakir",
+      "title": "You Make Me (Throttle Remix)",
+      "remix": "",
+      "label": "PRMD",
+      "trackId": "2342564",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "167231",
+        "youtube": "167231",
+        "soundcloud": "167231",
+        "appleMusic": "167231"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2342565",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Throttle ft. LunchMoney Lewis & Aston Merrygold",
+      "title": "Money Maker",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2342567",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "303964",
+        "youtube": "303964",
+        "soundcloud": "303964",
+        "appleMusic": "303964"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "510490",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:42:55.921Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,912 @@
+{
+  "tlId": "25bjsnpt",
+  "dj": "HOL!",
+  "stage": "EDC Las Vegas",
+  "date": "2023-05-21",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/25bjsnpt/hol-basspod-edc-las-vegas-united-states-2023-05-21.html",
+  "djs": [
+    {
+      "name": "HOL!",
+      "slug": "hol"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Alan Jackson",
+      "title": "Country Boy",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "9052784",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "9052784",
+        "youtube": "9052784",
+        "soundcloud": "9052784",
+        "appleMusic": "9052784"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alan Jackson",
+          "title": "Country Boy",
+          "remix": "",
+          "trackId": "9052784"
+        },
+        {
+          "artist": "HOL!",
+          "title": "Country Riddim",
+          "remix": "",
+          "trackId": "9052785"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "HOL!",
+      "title": "Country Riddim",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "9052785",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "822914",
+        "youtube": "822914",
+        "soundcloud": "822914",
+        "appleMusic": "822914"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "DVEIGHT",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9052786",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "DVEIGHT",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9052786"
+        },
+        {
+          "artist": "Killjoy",
+          "title": "Wicked Selecta",
+          "remix": "",
+          "trackId": "9052787"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Killjoy",
+      "title": "Wicked Selecta",
+      "remix": "",
+      "label": "",
+      "trackId": "9052787",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1130802",
+        "appleMusic": "1130802"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "HOL!",
+      "title": "Somewhere",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "9052788",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "702875",
+        "youtube": "702875",
+        "soundcloud": "702875",
+        "appleMusic": "702875"
+      },
+      "blendGroup": [
+        {
+          "artist": "HOL!",
+          "title": "Somewhere",
+          "remix": "",
+          "trackId": "9052788"
+        },
+        {
+          "artist": "MVRDA",
+          "title": "RIOOT",
+          "remix": "",
+          "trackId": "9052789"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MVRDA",
+      "title": "RIOOT",
+      "remix": "",
+      "label": "DPMO",
+      "trackId": "9052789",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 329,
+      "mediaIds": {
+        "spotify": "940293",
+        "youtube": "940293",
+        "soundcloud": "940293",
+        "appleMusic": "940293"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Samplifire & YAKZ",
+      "title": "Menticide",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9052790",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "917652",
+        "youtube": "917652",
+        "soundcloud": "917652",
+        "appleMusic": "917652"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Phiso",
+      "title": "Wasteland (HURTBOX Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "9052791",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 380,
+      "mediaIds": {
+        "youtube": "935704"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "HOL!",
+      "title": "Karate Chop",
+      "remix": "",
+      "label": "BASSWEIGHT",
+      "trackId": "9052792",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "645966",
+        "youtube": "645966",
+        "soundcloud": "645966",
+        "appleMusic": "645966"
+      },
+      "blendGroup": [
+        {
+          "artist": "HOL!",
+          "title": "Karate Chop",
+          "remix": "",
+          "trackId": "9052792"
+        },
+        {
+          "artist": "HURTBOX",
+          "title": "Rebirth",
+          "remix": "",
+          "trackId": "9052793"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "HURTBOX",
+      "title": "Rebirth",
+      "remix": "",
+      "label": "SOUNDSHIELD",
+      "trackId": "9052793",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "906108",
+        "youtube": "906108",
+        "soundcloud": "906108",
+        "appleMusic": "906108"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "HURTBOX",
+      "title": "Unchained",
+      "remix": "",
+      "label": "SOUNDSHIELD",
+      "trackId": "9052794",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "896312",
+        "youtube": "896312",
+        "soundcloud": "896312",
+        "appleMusic": "896312"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Subtronics & HOL!",
+      "title": "MIND PLUCK",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "9052795",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "892773",
+        "youtube": "892773",
+        "soundcloud": "892773",
+        "appleMusic": "892773"
+      },
+      "blendGroup": [
+        {
+          "artist": "Subtronics & HOL!",
+          "title": "MIND PLUCK",
+          "remix": "",
+          "trackId": "9052795"
+        },
+        {
+          "artist": "Kylie Minogue",
+          "title": "Can't Get You Out Of My Head (Acappella)",
+          "remix": "",
+          "trackId": "9052796"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kylie Minogue",
+      "title": "Can't Get You Out Of My Head (Acappella)",
+      "remix": "",
+      "label": "PARLOPHONE/WARNER MUSIC",
+      "trackId": "9052796",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "141336",
+        "youtube": "141336",
+        "soundcloud": "141336",
+        "appleMusic": "141336"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Infekt",
+      "title": "Rewind",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "9052797",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "487856",
+        "youtube": "487856",
+        "soundcloud": "487856",
+        "appleMusic": "487856"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Mötley Crüe",
+      "title": "Kickstart My Heart",
+      "remix": "",
+      "label": "ELEKTRA",
+      "trackId": "9052798",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "878160",
+        "youtube": "878160",
+        "appleMusic": "878160"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mötley Crüe",
+          "title": "Kickstart My Heart",
+          "remix": "",
+          "trackId": "9052798"
+        },
+        {
+          "artist": "HOL!",
+          "title": "Country Riddim",
+          "remix": "",
+          "trackId": "9052799"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "HOL!",
+      "title": "Country Riddim",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "9052799",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "822914",
+        "youtube": "822914",
+        "soundcloud": "822914",
+        "appleMusic": "822914"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "HURTBOX & Shiverz",
+      "title": "Knockout",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "9052800",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 872,
+      "mediaIds": {
+        "spotify": "918469",
+        "youtube": "918469",
+        "soundcloud": "918469",
+        "appleMusic": "918469"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Subtronics",
+      "title": "Tuba Demon (HOL! Remix)",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "9052801",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "854802",
+        "youtube": "854802",
+        "soundcloud": "854802",
+        "appleMusic": "854802"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Automhate",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9052802",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "HURTBOX",
+      "title": "Unseen",
+      "remix": "",
+      "label": "SOUNDSHIELD",
+      "trackId": "9052803",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "847739",
+        "youtube": "847739",
+        "soundcloud": "847739",
+        "appleMusic": "847739"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "HOL!",
+      "title": "Poetic Pit",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "9052804",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "874275",
+        "youtube": "874275",
+        "soundcloud": "874275",
+        "appleMusic": "874275"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Infekt",
+      "title": "Boundless (Goot Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9052859",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "878334",
+        "soundcloud": "878334"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9052860",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "MONXX & Automhate",
+      "title": "ID (HOL! Remix)",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "9052861",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "718965",
+        "youtube": "718965",
+        "soundcloud": "718965",
+        "appleMusic": "718965"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "NOTION",
+      "title": "Hot",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "9052862",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "854867",
+        "soundcloud": "854867"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "MurDa",
+      "title": "Ball Licker (HOL! Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9052863",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "675718",
+        "soundcloud": "675718"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "HOL!",
+      "title": "Somewhere (VIP)",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "9052864",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "794085",
+        "soundcloud": "794085"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "HURTBOX",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9052865",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "SVDDEN DEATH",
+      "title": "Behemoth (HOL! Remix)",
+      "remix": "",
+      "label": "SVDDEN DEATH",
+      "trackId": "9052866",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "833542",
+        "soundcloud": "833542"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "HOL!",
+      "title": "Etoile",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "9052867",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "717268",
+        "youtube": "717268",
+        "soundcloud": "717268",
+        "appleMusic": "717268"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "MARAUDA",
+      "title": "Umbra (TYNAN Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "9052868",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "836013",
+        "soundcloud": "836013"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "SVDDEN DEATH & Aweminus",
+      "title": "Mr. Muscles",
+      "remix": "",
+      "label": "SVDDEN DEATH",
+      "trackId": "9052869",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "517571",
+        "youtube": "517571",
+        "soundcloud": "517571",
+        "appleMusic": "517571"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9052870",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "HOL!",
+      "title": "Country Riddim (VIP)",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "9052873",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "887286",
+        "youtube": "887286",
+        "soundcloud": "887286",
+        "appleMusic": "887286"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Infekt & MVRDA",
+      "title": "Untitled",
+      "remix": "",
+      "label": "RAMPAGE",
+      "trackId": "9052874",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "478818",
+        "youtube": "478818",
+        "soundcloud": "478818",
+        "appleMusic": "478818"
+      },
+      "blendGroup": [
+        {
+          "artist": "Infekt & MVRDA",
+          "title": "Untitled",
+          "remix": "",
+          "trackId": "9052874"
+        },
+        {
+          "artist": "HOL!",
+          "title": "DRANO",
+          "remix": "",
+          "trackId": "9052875"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "HOL!",
+      "title": "DRANO",
+      "remix": "",
+      "label": "",
+      "trackId": "9052875",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "892812",
+        "soundcloud": "892812"
+      }
+    },
+    {
+      "pos": "30",
+      "artist": "DEAD APOSTLE & Hassan",
+      "title": "Zabaniya",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9052876",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "470055",
+        "soundcloud": "470055"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "HOL!",
+      "title": "Cosmic Sub (VIP)",
+      "remix": "",
+      "label": "BASSWEIGHT",
+      "trackId": "9052877",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "736352",
+        "youtube": "736352",
+        "soundcloud": "736352",
+        "appleMusic": "736352"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "HOL!",
+      "title": "BOSS FIGHT",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "9052878",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "924894",
+        "youtube": "924894",
+        "soundcloud": "924894",
+        "appleMusic": "924894"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Diplo ft. Kodak Black & Koe Wetzel",
+      "title": "Wasted (HOL! Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "9052879",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Subfiltronik ft. Skullion Shadez",
+      "title": "Passout (HOL! Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9052880",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "970616"
+      },
+      "blendGroup": [
+        {
+          "artist": "Subfiltronik ft. Skullion Shadez",
+          "title": "Passout (HOL! Remix)",
+          "remix": "",
+          "trackId": "9052880"
+        },
+        {
+          "artist": "MAD DUBZ",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9052881"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MAD DUBZ",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9052881",
+      "row": 34,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "35",
+      "artist": "Spass",
+      "title": "Hi Tek (DVEIGHT Flip)",
+      "remix": "",
+      "label": "SAVAGE SOCIETY",
+      "trackId": "9052882",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "831280",
+        "soundcloud": "831280"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "HOL!",
+      "title": "ID",
+      "remix": "(Distorted Chapter 1 ID)",
+      "label": "",
+      "trackId": "9052934",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Automhate",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9052935",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "HOL!",
+      "title": "Cosmic Sub",
+      "remix": "",
+      "label": "BASSWEIGHT",
+      "trackId": "9052936",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "613312",
+        "youtube": "613312",
+        "soundcloud": "613312",
+        "appleMusic": "613312"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "HOL!",
+      "title": "SEE YOU",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "9052937",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "935706",
+        "youtube": "935706",
+        "soundcloud": "935706",
+        "appleMusic": "935706"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "3402346",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1520285464"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "3401493",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=m1wV_3tCHvs"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "3406119",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=XYSvvRD9osc"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:07:45.913Z",
+  "scrapeVersion": 2
+}

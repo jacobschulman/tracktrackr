@@ -1,0 +1,167 @@
+{
+  "tlId": "28tlzzxt",
+  "dj": "Gorgon City",
+  "stage": "EDC Las Vegas",
+  "date": "2018-05-19",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/28tlzzxt/gorgon-city-neongarden-edc-las-vegas-united-states-2018-05-19.html",
+  "djs": [
+    {
+      "name": "Gorgon City",
+      "slug": "gorgoncity"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Gorgon City",
+      "title": "Grooves On The Vinyl",
+      "remix": "",
+      "label": "REALM",
+      "trackId": "3321482",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 10,
+      "mediaIds": {
+        "spotify": "390993",
+        "youtube": "390993",
+        "soundcloud": "390993",
+        "appleMusic": "390993"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Eats Everything ft. Tiga & Audion",
+      "title": "Dancing (Again!)",
+      "remix": "",
+      "label": "TURBO",
+      "trackId": "3321483",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 220,
+      "mediaIds": {
+        "spotify": "265690",
+        "youtube": "265690",
+        "soundcloud": "265690",
+        "appleMusic": "265690"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eats Everything ft. Tiga & Audion",
+          "title": "Dancing (Again!)",
+          "remix": "",
+          "trackId": "3321483"
+        },
+        {
+          "artist": "Versus",
+          "title": "1988",
+          "remix": "",
+          "trackId": "3321484"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Versus",
+      "title": "1988",
+      "remix": "",
+      "label": "UNDER NO ILLUSION",
+      "trackId": "3321484",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "383319",
+        "youtube": "383319",
+        "soundcloud": "383319",
+        "appleMusic": "383319"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Jkys",
+      "title": "Grace",
+      "remix": "",
+      "label": "SECOND STATE",
+      "trackId": "3321485",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 380,
+      "mediaIds": {
+        "soundcloud": "426078"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Dillon Francis ft. G-Eazy",
+      "title": "Say Less (Gorgon City Remix)",
+      "remix": "",
+      "label": "IDGAFOS",
+      "trackId": "3321567",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "359311",
+        "youtube": "359311",
+        "soundcloud": "359311",
+        "appleMusic": "359311"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3321568",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3321592",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "792342",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/gorgoncity"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "2977160",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/467237046"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "797317",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:07:31.756Z",
+  "scrapeVersion": 2
+}

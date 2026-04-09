@@ -1,0 +1,584 @@
+{
+  "tlId": "22k3mgm9",
+  "dj": "ACRAZE",
+  "stage": "EDC Las Vegas",
+  "date": "2023-05-20",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/22k3mgm9/acraze-circuitgrounds-edc-las-vegas-united-states-2023-05-20.html",
+  "djs": [
+    {
+      "name": "ACRAZE",
+      "slug": "acraze"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ACRAZE & Joey Valence & Brae",
+      "title": "Heard It Like This",
+      "remix": "",
+      "label": "THRIVE MUSIC/CAPITOL",
+      "trackId": "9168759",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "937324",
+        "youtube": "937324",
+        "soundcloud": "937324",
+        "appleMusic": "937324"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ACRAZE & Pickle & NKY",
+      "title": "Runny Nose",
+      "remix": "",
+      "label": "CAPITOL/THRIVE MUSIC",
+      "trackId": "9049269",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": {
+        "spotify": "898545",
+        "youtube": "898545",
+        "soundcloud": "898545",
+        "appleMusic": "898545"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "OOTORO",
+      "title": "Acide",
+      "remix": "",
+      "label": "NIGHTMODE",
+      "trackId": "9049270",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 410,
+      "mediaIds": {
+        "spotify": "915319",
+        "youtube": "915319",
+        "soundcloud": "915319",
+        "appleMusic": "915319"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Dark Heart",
+      "title": "Energy",
+      "remix": "",
+      "label": "REPOPULATE MARS",
+      "trackId": "9049271",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 480,
+      "mediaIds": {
+        "spotify": "930378",
+        "youtube": "930378",
+        "soundcloud": "930378",
+        "appleMusic": "930378"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Skrillex & Fred again.. & Flowdan",
+      "title": "Rumble (Pickle Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "9049272",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 587,
+      "mediaIds": {
+        "youtube": "857980",
+        "soundcloud": "857980"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Fred again.. & Flowdan",
+          "title": "Rumble (Pickle Remix)",
+          "remix": "",
+          "trackId": "9049272"
+        },
+        {
+          "artist": "Darude",
+          "title": "Sandstorm (San Pacho Edit)",
+          "remix": "",
+          "trackId": "9049345"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Darude",
+      "title": "Sandstorm (San Pacho Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9049345",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 680,
+      "mediaIds": {
+        "youtube": "851028",
+        "soundcloud": "851028"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Max Styler & Jem Cooke",
+      "title": "Lose Your Mind",
+      "remix": "",
+      "label": "TOMORROWLAND",
+      "trackId": "9049273",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 783,
+      "mediaIds": {
+        "spotify": "899960",
+        "youtube": "899960",
+        "soundcloud": "899960",
+        "appleMusic": "899960"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Snooko",
+      "title": "Pipo",
+      "remix": "",
+      "label": "BUMP N' GRIND",
+      "trackId": "9049274",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 955,
+      "mediaIds": {
+        "youtube": "915457",
+        "soundcloud": "915457"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "ALOK & Pickle",
+      "title": "Drum Machine",
+      "remix": "",
+      "label": "CONTROVERSIA",
+      "trackId": "9049275",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1040,
+      "mediaIds": {
+        "spotify": "916070",
+        "youtube": "916070",
+        "soundcloud": "916070",
+        "appleMusic": "916070"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "FREAK ON",
+      "title": "I Don't Wanna Know",
+      "remix": "",
+      "label": "REPOPULATE MARS",
+      "trackId": "9049276",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1108,
+      "mediaIds": {
+        "spotify": "889289",
+        "youtube": "889289",
+        "soundcloud": "889289",
+        "appleMusic": "889289"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Shift K3Y",
+      "title": "Work My Body",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "9049346",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1167,
+      "mediaIds": {
+        "spotify": "889555",
+        "youtube": "889555",
+        "soundcloud": "889555",
+        "appleMusic": "889555"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "FREAK ON",
+      "title": "Let The Music Play",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "9049347",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1332,
+      "mediaIds": {
+        "spotify": "922389",
+        "youtube": "922389",
+        "soundcloud": "922389",
+        "appleMusic": "922389"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "ACRAZE",
+      "title": "Take Me Away",
+      "remix": "",
+      "label": "THRIVE MUSIC/CAPITOL",
+      "trackId": "9049277",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1485,
+      "mediaIds": {
+        "spotify": "843166",
+        "youtube": "843166",
+        "soundcloud": "843166",
+        "appleMusic": "843166"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Mau P",
+      "title": "Your Mind Is Dirty",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "9049348",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1695,
+      "mediaIds": {
+        "spotify": "887827",
+        "youtube": "887827",
+        "soundcloud": "887827",
+        "appleMusic": "887827"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9158980",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1850,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Calvin Harris & Ellie Goulding",
+      "title": "Miracle (ACRAZE Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "9049349",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2027,
+      "mediaIds": {
+        "spotify": "898502",
+        "youtube": "898502",
+        "soundcloud": "898502",
+        "appleMusic": "898502"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "ACRAZE & Paige Cavell",
+      "title": "The Otherside",
+      "remix": "",
+      "label": "THRIVE MUSIC/CAPITOL",
+      "trackId": "9136165",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2327,
+      "mediaIds": {
+        "spotify": "884937",
+        "youtube": "884937",
+        "soundcloud": "884937",
+        "appleMusic": "884937"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "ACRAZE",
+      "title": "In A Dream",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "9136166",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2500,
+      "mediaIds": {
+        "spotify": "904673",
+        "youtube": "904673",
+        "soundcloud": "904673",
+        "appleMusic": "904673"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9136167",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2643,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9136168",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2705,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Eelke Kleijn",
+      "title": "Transmission",
+      "remix": "",
+      "label": "DAYS LIKE NIGHTS (ARMADA)",
+      "trackId": "9136169",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2837,
+      "mediaIds": {
+        "spotify": "769835",
+        "youtube": "769835",
+        "soundcloud": "769835",
+        "appleMusic": "769835"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "ACRAZE ft. GOODBOYS",
+      "title": "Believe",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "9136170",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3022,
+      "mediaIds": {
+        "spotify": "824117",
+        "youtube": "824117",
+        "soundcloud": "824117",
+        "appleMusic": "824117"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "ACRAZE ft. Cherish",
+      "title": "Do It To It",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "9136171",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3155,
+      "mediaIds": {
+        "spotify": "702547",
+        "youtube": "702547",
+        "soundcloud": "702547",
+        "appleMusic": "702547"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9136172",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3295,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "ACRAZE ft. Hayla",
+      "title": "Echoes",
+      "remix": "",
+      "label": "",
+      "trackId": "9136173",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3444,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "ACRAZE ft. Cherish",
+      "title": "Do It To It (YOOKiE Remix)",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "9136174",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3618,
+      "mediaIds": {
+        "spotify": "782669",
+        "youtube": "782669",
+        "soundcloud": "782669",
+        "appleMusic": "782669"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Skrillex & Mr. Oizo ft. Missy Elliott",
+      "title": "RATATA (KREAM Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9136175",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3685,
+      "mediaIds": {
+        "youtube": "884372",
+        "soundcloud": "884372",
+        "appleMusic": "884372"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "ACRAZE",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9136176",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3758,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Pickle",
+      "title": "Magic Dragon",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "9136177",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3834,
+      "mediaIds": {
+        "spotify": "911539",
+        "youtube": "911539",
+        "soundcloud": "911539",
+        "appleMusic": "911539"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "ACRAZE",
+      "title": "A Milli",
+      "remix": "",
+      "label": "YOUNG MONEY (CASH MONEY)",
+      "trackId": "9136178",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 4060,
+      "mediaIds": {
+        "youtube": "850242",
+        "soundcloud": "850242"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Diplo ft. Nicky Da B",
+      "title": "Express Yourself (Pickle Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "9136179",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 4217,
+      "mediaIds": {
+        "youtube": "884610",
+        "soundcloud": "884610"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9136180",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 4405,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3459304",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=geU67GxTIFg"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "3444805",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1540106188"
+    },
+    {
+      "platform": "source_2",
+      "idMedia": "3466715",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/acraze-at-edc-las-vegas-2023-circuit-grounds-stage-dj-mix/1692877348/us/album/acraze-at-edc-las-vegas-2023-circuit-grounds-stage-dj-mix/1692877348?app=music&at=1000lwkw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:19:45.091Z",
+  "scrapeVersion": 2
+}

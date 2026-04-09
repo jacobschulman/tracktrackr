@@ -1,0 +1,470 @@
+{
+  "tlId": "7l8j3h9",
+  "dj": "ARTY",
+  "stage": "EDC New York",
+  "date": "2013-05-17",
+  "year": 2013,
+  "url": "https://www.1001tracklists.com/tracklist/7l8j3h9/arty-circuitgrounds-edc-new-york-united-states-2013-05-17.html",
+  "djs": [
+    {
+      "name": "ARTY",
+      "slug": "arty"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ARTY",
+      "title": "When I See You (Alesso Remix)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "505903",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "109888",
+        "youtube": "109888",
+        "soundcloud": "109888",
+        "appleMusic": "109888"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ARTY ft. Fiora",
+      "title": "Grand Finale",
+      "remix": "",
+      "label": "MINISTRY OF SOUND",
+      "trackId": "505904",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 300,
+      "mediaIds": {
+        "spotify": "92628",
+        "youtube": "92628",
+        "soundcloud": "92628",
+        "appleMusic": "92628"
+      },
+      "blendGroup": [
+        {
+          "artist": "ARTY ft. Fiora",
+          "title": "Grand Finale",
+          "remix": "",
+          "trackId": "505904"
+        },
+        {
+          "artist": "Calvin Harris ft. Florence Welch",
+          "title": "Sweet Nothing (Acappella)",
+          "remix": "",
+          "trackId": "505905"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris ft. Florence Welch",
+      "title": "Sweet Nothing (Acappella)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "505905",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "92181",
+        "youtube": "92181",
+        "soundcloud": "113114",
+        "appleMusic": "92181"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Lucky Date",
+      "title": "Freak",
+      "remix": "",
+      "label": "WARPATH",
+      "trackId": "505906",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "youtube": "121400",
+        "soundcloud": "121400"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Arty & Mat Zo vs. Justice & Simian",
+      "title": "We Are Mozart's Friends (SHATO & Paul Rockseek Mashup / Arty Edit)",
+      "remix": "",
+      "label": "ED BANGER/ANJUNABEATS",
+      "trackId": "505907",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 700,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Mat Zo",
+      "title": "Lucid Dreams",
+      "remix": "",
+      "label": "ANJUNABEATS/ASTRALWERKS",
+      "trackId": "505909",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 870,
+      "mediaIds": {
+        "spotify": "141254",
+        "youtube": "141254",
+        "soundcloud": "141254",
+        "appleMusic": "141254"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Arty & Matisse & Sadko vs. Sebastian Ingrosso & Tommy Trash ft. John Martin",
+      "title": "Trio vs. Reload (ARTY Mashup)",
+      "remix": "",
+      "label": "AXTONE/REFUNE",
+      "trackId": "505910",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1080,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "ARTY ft. Chris James",
+      "title": "Together We Are",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "505912",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1350,
+      "mediaIds": {
+        "spotify": "82187",
+        "youtube": "82187",
+        "soundcloud": "82187",
+        "appleMusic": "82187"
+      },
+      "blendGroup": [
+        {
+          "artist": "ARTY ft. Chris James",
+          "title": "Together We Are",
+          "remix": "",
+          "trackId": "505912"
+        },
+        {
+          "artist": "ARTY ft. Chris James",
+          "title": "Together We Are (Audien Remix)",
+          "remix": "",
+          "trackId": "505978"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ARTY ft. Chris James",
+      "title": "Together We Are (Audien Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "505978",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 1425,
+      "mediaIds": {
+        "spotify": "124296",
+        "youtube": "124296",
+        "soundcloud": "124296",
+        "appleMusic": "124296"
+      },
+      "blendGroup": [
+        {
+          "artist": "ARTY ft. Chris James",
+          "title": "Together We Are (Audien Remix)",
+          "remix": "",
+          "trackId": "505978"
+        },
+        {
+          "artist": "ARTY ft. Chris James",
+          "title": "Together We Are (Whiiite Remix)",
+          "remix": "",
+          "trackId": "505913"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ARTY ft. Chris James",
+      "title": "Together We Are (Whiiite Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "505913",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 1560,
+      "mediaIds": {
+        "spotify": "127674",
+        "youtube": "127674",
+        "soundcloud": "127674",
+        "appleMusic": "127674"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Showtek & Justin Prime",
+      "title": "Cannonball",
+      "remix": "",
+      "label": "2DUTCH",
+      "trackId": "505914",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1665,
+      "mediaIds": {
+        "spotify": "100256",
+        "youtube": "100256",
+        "soundcloud": "100256",
+        "appleMusic": "100256"
+      },
+      "blendGroup": [
+        {
+          "artist": "Showtek & Justin Prime",
+          "title": "Cannonball",
+          "remix": "",
+          "trackId": "505914"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike",
+          "title": "Wakanda",
+          "remix": "",
+          "trackId": "505915"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike",
+      "title": "Wakanda",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "505915",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1770,
+      "mediaIds": {
+        "spotify": "106434",
+        "youtube": "106434",
+        "soundcloud": "106434",
+        "appleMusic": "106434"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike",
+          "title": "Wakanda",
+          "remix": "",
+          "trackId": "505915"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "LRAD",
+          "remix": "",
+          "trackId": "505916"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "LRAD",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "505916",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1805,
+      "mediaIds": {
+        "spotify": "117950",
+        "youtube": "117950",
+        "soundcloud": "117950",
+        "appleMusic": "117950"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Arston",
+      "title": "Zodiac",
+      "remix": "",
+      "label": "PINKSTAR",
+      "trackId": "505917",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1845,
+      "mediaIds": {
+        "spotify": "120967",
+        "youtube": "120967",
+        "soundcloud": "120967",
+        "appleMusic": "120967"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Alesso vs. OneRepublic",
+      "title": "If I Lose Myself",
+      "remix": "",
+      "label": "MOSLEY/INTERSCOPE",
+      "trackId": "505918",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2080,
+      "mediaIds": {
+        "spotify": "132131",
+        "youtube": "132131",
+        "soundcloud": "132131",
+        "appleMusic": "132131"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Mat Zo & Porter Robinson",
+      "title": "Easy",
+      "remix": "",
+      "label": "MINISTRY OF SOUND/ANJUNABEATS",
+      "trackId": "505919",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2420,
+      "mediaIds": {
+        "spotify": "103785",
+        "youtube": "103785",
+        "soundcloud": "103785",
+        "appleMusic": "103785"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Arty vs. Daft Punk",
+      "title": "Flashback vs. Aerodynamic (Steve Angello Bootleg)",
+      "remix": "",
+      "label": "ANJUNABEATS/DAFT LIFE",
+      "trackId": "505920",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2595,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "D-Mad & Arty vs. Above & Beyond ft. Richard Bedford",
+      "title": "She Gave Me The Sun And Moon (Lavisse Den Bosch Bootleg)",
+      "remix": "",
+      "label": "ENHANCED PROG/ANJUNABEATS",
+      "trackId": "505921",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2780,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "D-Mad & Arty vs. Above & Beyond ft. Richard Bedford",
+          "title": "She Gave Me The Sun And Moon (Lavisse Den Bosch Bootleg)",
+          "remix": "",
+          "trackId": "505921"
+        },
+        {
+          "artist": "D-Mad & Arty vs. deadmau5 & JELO",
+          "title": "The Reward Is Happiness (Mat Zo Mashup)",
+          "remix": "",
+          "trackId": "524139"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "D-Mad & Arty vs. deadmau5 & JELO",
+      "title": "The Reward Is Happiness (Mat Zo Mashup)",
+      "remix": "",
+      "label": "RISING/ENHANCED PROG",
+      "trackId": "524139",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 2940,
+      "mediaIds": null
+    },
+    {
+      "pos": "14",
+      "artist": "Alesso & Sebastian Ingrosso vs. Arty & Mat Zo",
+      "title": "Calling Rebound (ARTY Mashup)",
+      "remix": "",
+      "label": "ANJUNABEATS/REFUNE",
+      "trackId": "505922",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 3020,
+      "mediaIds": {
+        "youtube": "64254"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Daft Punk",
+      "title": "One More Time",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE",
+      "trackId": "505923",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1847",
+        "youtube": "1847",
+        "soundcloud": "1847",
+        "appleMusic": "1847"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "90236",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/94034197"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "89229",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/93220847"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "88043",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/livesetsdjmixes"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "88055",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/EFMrage"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:58:42.465Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,614 @@
+{
+  "tlId": "20qlwx61",
+  "dj": "Kaskade",
+  "stage": "EDC Orlando",
+  "date": "2023-11-12",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/20qlwx61/kaskade-kineticfield-edc-orlando-united-states-2023-11-12.html",
+  "djs": [
+    {
+      "name": "Kaskade",
+      "slug": "kaskade"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Kx5 ft. HAYLA",
+      "title": "Escape",
+      "remix": "",
+      "label": "MAU5TRAP/ARKADE",
+      "trackId": "9865312",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "778208",
+        "youtube": "778208",
+        "soundcloud": "778208",
+        "appleMusic": "778208"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kx5 ft. HAYLA",
+          "title": "Escape",
+          "remix": "",
+          "trackId": "9865312"
+        },
+        {
+          "artist": "Kx5 ft. HAYLA",
+          "title": "Escape (John Summit Remix)",
+          "remix": "",
+          "trackId": "9865313"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kx5 ft. HAYLA",
+      "title": "Escape (John Summit Remix)",
+      "remix": "",
+      "label": "ARKADE/MAU5TRAP",
+      "trackId": "9865313",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 170,
+      "mediaIds": {
+        "spotify": "801304",
+        "youtube": "801304",
+        "soundcloud": "801304",
+        "appleMusic": "801304"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "MORTEN",
+      "title": "Good God",
+      "remix": "",
+      "label": "FUTURE RAVE",
+      "trackId": "9865314",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 275,
+      "mediaIds": {
+        "spotify": "893829",
+        "youtube": "893829",
+        "soundcloud": "893829",
+        "appleMusic": "893829"
+      },
+      "blendGroup": [
+        {
+          "artist": "MORTEN",
+          "title": "Good God",
+          "remix": "",
+          "trackId": "9865314"
+        },
+        {
+          "artist": "Kaskade ft. Mindy Gledhill",
+          "title": "Eyes (Acappella)",
+          "remix": "",
+          "trackId": "9865315"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kaskade ft. Mindy Gledhill",
+      "title": "Eyes (Acappella)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "9865315",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "39936",
+        "youtube": "39936",
+        "soundcloud": "39936",
+        "appleMusic": "39936"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Kaskade ft. Becky Jean Williams",
+      "title": "Feeling The Night",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "9865316",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 490,
+      "mediaIds": {
+        "spotify": "152413",
+        "youtube": "152413",
+        "soundcloud": "152413",
+        "appleMusic": "152413"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Damien N-Drix & Maesic",
+      "title": "Afterparty",
+      "remix": "",
+      "label": "SPRS (SPINNIN')",
+      "trackId": "9865317",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 652,
+      "mediaIds": {
+        "spotify": "904758",
+        "youtube": "904758",
+        "soundcloud": "904758",
+        "appleMusic": "904758"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Sander van Doorn",
+      "title": "Let It Drop",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "9865318",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 768,
+      "mediaIds": {
+        "spotify": "915291",
+        "youtube": "915291",
+        "soundcloud": "915291",
+        "appleMusic": "915291"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Mari Ferrari",
+      "title": "U",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "9865319",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 957,
+      "mediaIds": {
+        "spotify": "938810",
+        "youtube": "938810",
+        "soundcloud": "938810",
+        "appleMusic": "938810"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Corey James & HIISAK ft. Roland Clark",
+      "title": "The Underground (House of God) (Steve Angello Edit)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "9865320",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1138,
+      "mediaIds": {
+        "spotify": "878379",
+        "youtube": "878379",
+        "soundcloud": "878379",
+        "appleMusic": "878379"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Kaskade",
+      "title": "On My Way",
+      "remix": "",
+      "label": "ARKADE",
+      "trackId": "9865321",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1322,
+      "mediaIds": {
+        "spotify": "940514",
+        "youtube": "940514",
+        "soundcloud": "940514",
+        "appleMusic": "940514"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Funkin Matt",
+      "title": "Confession",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "9865322",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1606,
+      "mediaIds": {
+        "spotify": "872833",
+        "youtube": "872833",
+        "soundcloud": "872833",
+        "appleMusic": "872833"
+      },
+      "blendGroup": [
+        {
+          "artist": "Funkin Matt",
+          "title": "Confession",
+          "remix": "",
+          "trackId": "9865322"
+        },
+        {
+          "artist": "Kaskade & Ella Vos",
+          "title": "Miles To Go",
+          "remix": "(Acappella)",
+          "trackId": "9865323"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kaskade & Ella Vos",
+      "title": "Miles To Go",
+      "remix": "(Acappella)",
+      "label": "MONSTERCAT SILK",
+      "trackId": "9865323",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "663212",
+        "youtube": "663212",
+        "soundcloud": "663212",
+        "appleMusic": "663212"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Bacavi",
+      "title": "Take What You Can",
+      "remix": "",
+      "label": "AFTR:HRS",
+      "trackId": "9865324",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1877,
+      "mediaIds": {
+        "spotify": "918903",
+        "youtube": "918903",
+        "soundcloud": "918903",
+        "appleMusic": "918903"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bacavi",
+          "title": "Take What You Can",
+          "remix": "",
+          "trackId": "9865324"
+        },
+        {
+          "artist": "Kaskade ft. Ilsey",
+          "title": "Disarm You (Acappella)",
+          "remix": "",
+          "trackId": "9865325"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kaskade ft. Ilsey",
+      "title": "Disarm You (Acappella)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "9865325",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "262450",
+        "youtube": "302649",
+        "soundcloud": "302649",
+        "appleMusic": "262450"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Rebūke",
+      "title": "Along Came Polly (HI-LO Edit)",
+      "remix": "",
+      "label": "HOT CREATIONS",
+      "trackId": "9865326",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2112,
+      "mediaIds": {
+        "youtube": "816201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Hotswing",
+      "title": "Feel It",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "9865327",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2305,
+      "mediaIds": {
+        "spotify": "942904",
+        "youtube": "942904",
+        "soundcloud": "942904",
+        "appleMusic": "942904"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Maceo Plex & Faithless vs. Roberto Capuano",
+      "title": "Dish Ya Insomnia (Kx5 Edit)",
+      "remix": "",
+      "label": "FREE/MINISTRY OF SOUND/DRUMCODE",
+      "trackId": "9865328",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2692,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Mochakk",
+      "title": "Jealous",
+      "remix": "",
+      "label": "CIRCOLOCO",
+      "trackId": "9865329",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2927,
+      "mediaIds": {
+        "spotify": "912116",
+        "youtube": "912116",
+        "soundcloud": "912116",
+        "appleMusic": "912116"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Kx5 ft. The Moth and the Flame",
+      "title": "Alive",
+      "remix": "",
+      "label": "MAU5TRAP/ARKADE",
+      "trackId": "9865330",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 3196,
+      "mediaIds": {
+        "spotify": "836092",
+        "youtube": "836092",
+        "soundcloud": "836092",
+        "appleMusic": "836092"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "DaniCW ft. Neiv",
+      "title": "Dance All Night",
+      "remix": "",
+      "label": "WH0 WORX",
+      "trackId": "9865331",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3530,
+      "mediaIds": {
+        "spotify": "933948",
+        "youtube": "933948",
+        "soundcloud": "933948",
+        "appleMusic": "933948"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Zurra",
+      "title": "Wasting My Time",
+      "remix": "",
+      "label": "STEREOHYPE",
+      "trackId": "9865332",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3635,
+      "mediaIds": {
+        "spotify": "923248",
+        "youtube": "923248",
+        "soundcloud": "923248",
+        "appleMusic": "923248"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Jewel Kid",
+      "title": "Feel This",
+      "remix": "",
+      "label": "TOOLROOM TRAX",
+      "trackId": "9865333",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3755,
+      "mediaIds": {
+        "spotify": "908847",
+        "youtube": "908847",
+        "soundcloud": "908847",
+        "appleMusic": "908847"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Dillon Francis & Alesso & Clementine Douglas",
+      "title": "Free",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "9865334",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3897,
+      "mediaIds": {
+        "spotify": "840590",
+        "youtube": "840590",
+        "soundcloud": "840590",
+        "appleMusic": "840590"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Kaskade & Project 46",
+      "title": "Chains",
+      "remix": "",
+      "label": "ARKADE",
+      "trackId": "9865335",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 4141,
+      "mediaIds": {
+        "spotify": "581251",
+        "youtube": "581251",
+        "appleMusic": "581251"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "John Summit ft. HAYLA",
+      "title": "Where You Are (Gorgon City Remix)",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "9865336",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 4270,
+      "mediaIds": {
+        "spotify": "892606",
+        "youtube": "892606",
+        "soundcloud": "892606",
+        "appleMusic": "892606"
+      },
+      "blendGroup": [
+        {
+          "artist": "John Summit ft. HAYLA",
+          "title": "Where You Are (Gorgon City Remix)",
+          "remix": "",
+          "trackId": "9865336"
+        },
+        {
+          "artist": "Justus",
+          "title": "The Sound",
+          "remix": "",
+          "trackId": "9865337"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justus",
+      "title": "The Sound",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "9865337",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "907490",
+        "youtube": "907490",
+        "soundcloud": "907490",
+        "appleMusic": "907490"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Kaskade & Justus",
+      "title": "Dance With Me",
+      "remix": "",
+      "label": "ARKADE",
+      "trackId": "9865338",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 4441,
+      "mediaIds": {
+        "spotify": "837508",
+        "youtube": "837508",
+        "appleMusic": "837508"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kaskade & Justus",
+          "title": "Dance With Me",
+          "remix": "",
+          "trackId": "9865338"
+        },
+        {
+          "artist": "Kaskade",
+          "title": "Atmosphere (Acappella)",
+          "remix": "",
+          "trackId": "9865339"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kaskade",
+      "title": "Atmosphere (Acappella)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "9865339",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "124866",
+        "youtube": "124866",
+        "soundcloud": "124866",
+        "appleMusic": "124866"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Kaskade & Skylar Grey",
+      "title": "Room for Happiness v3",
+      "remix": "",
+      "label": "ARKADE",
+      "trackId": "9865340",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 4677,
+      "mediaIds": {
+        "spotify": "764875",
+        "youtube": "764875",
+        "soundcloud": "764875",
+        "appleMusic": "764875"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3842901",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=fasJfdohDfE"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:57:06.429Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,398 @@
+{
+  "tlId": "pm1ycm1",
+  "dj": "Martin Solveig",
+  "stage": "EDC China",
+  "date": "2018-11-24",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/pm1ycm1/martin-solveig-kineticfield-edc-china-guangdong-2018-11-24.html",
+  "djs": [
+    {
+      "name": "Martin Solveig",
+      "slug": "martinsolveig"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Boys Noize & Virgil Abloh",
+      "title": "ORVNGE",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "3741215",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "399063",
+        "youtube": "399063",
+        "soundcloud": "399063",
+        "appleMusic": "399063"
+      },
+      "blendGroup": [
+        {
+          "artist": "Boys Noize & Virgil Abloh",
+          "title": "ORVNGE",
+          "remix": "",
+          "trackId": "3741215"
+        },
+        {
+          "artist": "Kendrick Lamar",
+          "title": "HUMBLE. (Acappella)",
+          "remix": "",
+          "trackId": "3741216"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kendrick Lamar",
+      "title": "HUMBLE. (Acappella)",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "3741216",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "384942",
+        "youtube": "384942",
+        "soundcloud": "384942",
+        "appleMusic": "384942"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kendrick Lamar",
+          "title": "HUMBLE. (Acappella)",
+          "remix": "",
+          "trackId": "3741216"
+        },
+        {
+          "artist": "Abby Jane & Billy Kenny",
+          "title": "I Operate (Josh Brown Remix)",
+          "remix": "",
+          "trackId": "3741217"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Abby Jane & Billy Kenny",
+      "title": "I Operate (Josh Brown Remix)",
+      "remix": "",
+      "label": "BIRDFEED EXCLUSIVE",
+      "trackId": "3741217",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "406115"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Justice vs. Simian",
+      "title": "We Are Your Friends",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "3741218",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 140,
+      "mediaIds": {
+        "spotify": "3157",
+        "youtube": "3157",
+        "soundcloud": "3157",
+        "appleMusic": "3157"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Dosem",
+      "title": "Just In Time",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "3741219",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": {
+        "spotify": "410991",
+        "youtube": "410991",
+        "soundcloud": "410991",
+        "appleMusic": "410991"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Martin Solveig",
+      "title": "My Love (Dillon Francis Remix)",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "3741220",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 307,
+      "mediaIds": {
+        "spotify": "437390",
+        "youtube": "437390",
+        "soundcloud": "437390",
+        "appleMusic": "437390"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Hot Since 82",
+      "title": "Veins",
+      "remix": "",
+      "label": "TRUESOUL",
+      "trackId": "3741221",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 435,
+      "mediaIds": {
+        "spotify": "265680",
+        "soundcloud": "265680",
+        "appleMusic": "265680"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Fatboy Slim",
+      "title": "Right Here, Right Now (CamelPhat Remix)",
+      "remix": "",
+      "label": "TOOLROOM/SKINT",
+      "trackId": "3741222",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 570,
+      "mediaIds": {
+        "spotify": "397944",
+        "youtube": "397944",
+        "soundcloud": "397944",
+        "appleMusic": "397944"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Silk City ft. Dua Lipa",
+      "title": "Electricity",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "3741223",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 725,
+      "mediaIds": {
+        "spotify": "440459",
+        "youtube": "440459",
+        "soundcloud": "440459",
+        "appleMusic": "440459"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Calvin Harris & Dua Lipa",
+      "title": "One Kiss",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "3741225",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 865,
+      "mediaIds": {
+        "spotify": "409548",
+        "youtube": "409548",
+        "soundcloud": "409548",
+        "appleMusic": "409548"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "RL Grime",
+      "title": "Feel Free",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "3741226",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1055,
+      "mediaIds": {
+        "spotify": "434263",
+        "youtube": "434263",
+        "soundcloud": "434263",
+        "appleMusic": "434263"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Martin Solveig ft. Sam White",
+      "title": "+1",
+      "remix": "",
+      "label": "SPINNIN' DEEP",
+      "trackId": "3741227",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1119,
+      "mediaIds": {
+        "spotify": "252079",
+        "youtube": "252079",
+        "soundcloud": "252079",
+        "appleMusic": "252079"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Mikey Lion & Sacha Robotti",
+      "title": "Glide",
+      "remix": "",
+      "label": "DIRTYBIRD",
+      "trackId": "3741228",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1260,
+      "mediaIds": {
+        "spotify": "418313",
+        "youtube": "418313",
+        "soundcloud": "418313",
+        "appleMusic": "418313"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Wheats",
+      "title": "U N I",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "3741229",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1335,
+      "mediaIds": {
+        "spotify": "455294",
+        "youtube": "455294",
+        "soundcloud": "455294",
+        "appleMusic": "455294"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "FISHER",
+      "title": "Losing It",
+      "remix": "",
+      "label": "CATCH & RELEASE/ASTRALWERKS",
+      "trackId": "3741230",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1560,
+      "mediaIds": {
+        "spotify": "417888",
+        "youtube": "417888",
+        "soundcloud": "417888",
+        "appleMusic": "417888"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Dynoro & Gigi D'Agostino",
+      "title": "In My Mind",
+      "remix": "",
+      "label": "COLUMBIA/B1",
+      "trackId": "3741231",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1750,
+      "mediaIds": {
+        "spotify": "421085",
+        "youtube": "421085",
+        "soundcloud": "421085",
+        "appleMusic": "421085"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dynoro & Gigi D'Agostino",
+          "title": "In My Mind",
+          "remix": "",
+          "trackId": "3741231"
+        },
+        {
+          "artist": "Spektre",
+          "title": "Carnival Of Souls",
+          "remix": "",
+          "trackId": "3741232"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Spektre",
+      "title": "Carnival Of Souls",
+      "remix": "",
+      "label": "RESPEKT",
+      "trackId": "3741232",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "420892",
+        "youtube": "420892",
+        "soundcloud": "420892",
+        "appleMusic": "420892"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Faithless",
+      "title": "Insomnia (Monster Mix)",
+      "remix": "",
+      "label": "SONY BMG",
+      "trackId": "3741233",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1935,
+      "mediaIds": {
+        "spotify": "205065",
+        "youtube": "1515",
+        "soundcloud": "1515",
+        "appleMusic": "205065"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Flume ft. Kai",
+      "title": "Never Be Like You (Martin Solveig Remix)",
+      "remix": "",
+      "label": "FUTURE CLASSIC",
+      "trackId": "3741235",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2100,
+      "mediaIds": {
+        "spotify": "315985",
+        "youtube": "315985",
+        "soundcloud": "315985",
+        "appleMusic": "315985"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T15:47:29.009Z",
+  "scrapeVersion": 2
+}

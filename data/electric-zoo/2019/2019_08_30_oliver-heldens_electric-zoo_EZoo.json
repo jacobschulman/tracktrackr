@@ -1,0 +1,104 @@
+{
+  "tlId": "1ty6zfhk",
+  "dj": "Oliver Heldens",
+  "stage": "Electric Zoo",
+  "date": "2019-08-30",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/1ty6zfhk/oliver-heldens-mainstage-electric-zoo-united-states-2019-08-30.html",
+  "djs": [
+    {
+      "name": "Oliver Heldens",
+      "slug": "oliverheldens"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Calvin Harris & Dua Lipa",
+      "title": "One Kiss (Oliver Heldens Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "4353339",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "419262",
+        "youtube": "419262",
+        "soundcloud": "419262",
+        "appleMusic": "419262"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "The Temper Trap",
+      "title": "Sweet Disposition (Axwell & Dirty South Remix)",
+      "remix": "",
+      "label": "INFECTIOUS/LIBERATION",
+      "trackId": "4353340",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "10071",
+        "youtube": "10071",
+        "soundcloud": "10071",
+        "appleMusic": "10071"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Swedish House Mafia & Knife Party ft. ADL",
+      "title": "Antidote",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "4353341",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "43328",
+        "youtube": "43328",
+        "soundcloud": "43328",
+        "appleMusic": "43328"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia & Knife Party ft. ADL",
+          "title": "Antidote",
+          "remix": "",
+          "trackId": "4353341"
+        },
+        {
+          "artist": "Tiësto & Oliver Heldens vs. Black Eyed Peas vs. Whitney Houston",
+          "title": "Wombass vs. I Gotta Feeling vs. I Wanna Dance With Somebody (Oliver Heldens Mashup)",
+          "remix": "",
+          "trackId": "4353342"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & Oliver Heldens vs. Black Eyed Peas vs. Whitney Houston",
+      "title": "Wombass vs. I Gotta Feeling vs. I Wanna Dance With Somebody (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "INTERSCOPE/ARISTA/MUSICAL FREEDOM",
+      "trackId": "4353342",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "431258"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T03:29:00.323Z",
+  "scrapeVersion": 2
+}

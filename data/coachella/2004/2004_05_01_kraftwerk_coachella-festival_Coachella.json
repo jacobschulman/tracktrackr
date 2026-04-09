@@ -1,0 +1,316 @@
+{
+  "tlId": "1ms8ktbt",
+  "dj": "Kraftwerk",
+  "stage": "Coachella Festival",
+  "date": "2004-05-01",
+  "year": 2004,
+  "url": "https://www.1001tracklists.com/tracklist/1ms8ktbt/kraftwerk-coachella-festival-united-states-2004-05-01.html",
+  "djs": [
+    {
+      "name": "Kraftwerk",
+      "slug": "kraftwerk"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Kraftwerk",
+      "title": "The Man Machine",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "12131178",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 31,
+      "mediaIds": {
+        "spotify": "270605",
+        "youtube": "270605",
+        "soundcloud": "270605",
+        "appleMusic": "270605"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Kraftwerk",
+      "title": "Planet Of Visions",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12131179",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 505,
+      "mediaIds": {
+        "spotify": "520640",
+        "youtube": "520640",
+        "soundcloud": "520640",
+        "appleMusic": "520640"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Kraftwerk",
+      "title": "Tour De France Étape 2",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "12131180",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 784,
+      "mediaIds": {
+        "spotify": "520693",
+        "youtube": "520693",
+        "appleMusic": "520693"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Kraftwerk",
+      "title": "Tour De France",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "12131181",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 1062,
+      "mediaIds": {
+        "spotify": "75499",
+        "youtube": "75499",
+        "soundcloud": "75499",
+        "appleMusic": "75499"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Kraftwerk",
+      "title": "Radioactivity",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "12131182",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1384,
+      "mediaIds": {
+        "spotify": "391033",
+        "youtube": "391033",
+        "soundcloud": "391033",
+        "appleMusic": "391033"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Kraftwerk",
+      "title": "Trans Europe Express",
+      "remix": "",
+      "label": "KLING KLONG",
+      "trackId": "12131183",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1774,
+      "mediaIds": {
+        "spotify": "168697",
+        "youtube": "168697",
+        "soundcloud": "168697",
+        "appleMusic": "168697"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kraftwerk",
+          "title": "Trans Europe Express",
+          "remix": "",
+          "trackId": "12131183"
+        },
+        {
+          "artist": "Kraftwerk",
+          "title": "Metal On Metal",
+          "remix": "",
+          "trackId": "12131184"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kraftwerk",
+      "title": "Metal On Metal",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "12131184",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "520633",
+        "youtube": "520633",
+        "appleMusic": "520633"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kraftwerk",
+          "title": "Metal On Metal",
+          "remix": "",
+          "trackId": "12131184"
+        },
+        {
+          "artist": "Kraftwerk",
+          "title": "Abzug",
+          "remix": "",
+          "trackId": "12131185"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kraftwerk",
+      "title": "Abzug",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "12131185",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "894657",
+        "youtube": "894657",
+        "appleMusic": "894657"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Kraftwerk",
+      "title": "Numbers",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "12131186",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 2355,
+      "mediaIds": {
+        "spotify": "25878",
+        "youtube": "25878",
+        "appleMusic": "25878"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kraftwerk",
+          "title": "Numbers",
+          "remix": "",
+          "trackId": "12131186"
+        },
+        {
+          "artist": "Kraftwerk",
+          "title": "Computer World",
+          "remix": "",
+          "trackId": "12131187"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kraftwerk",
+      "title": "Computer World",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "12131187",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "55377",
+        "youtube": "55377",
+        "appleMusic": "55377"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Kraftwerk",
+      "title": "The Robots",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "12131188",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 2782,
+      "mediaIds": {
+        "spotify": "374696",
+        "youtube": "374696",
+        "soundcloud": "374696",
+        "appleMusic": "374696"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Kraftwerk",
+      "title": "Aerodynamik",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "12131189",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 3071,
+      "mediaIds": {
+        "youtube": "39399"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Kraftwerk",
+      "title": "Boing Boom Tschak",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "12131190",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 3446,
+      "mediaIds": {
+        "spotify": "212441",
+        "youtube": "212441",
+        "soundcloud": "212441",
+        "appleMusic": "212441"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kraftwerk",
+          "title": "Boing Boom Tschak",
+          "remix": "",
+          "trackId": "12131190"
+        },
+        {
+          "artist": "Kraftwerk",
+          "title": "Musique Non Stop",
+          "remix": "",
+          "trackId": "12131191"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kraftwerk",
+      "title": "Musique Non Stop",
+      "remix": "",
+      "label": "KLING KLANG",
+      "trackId": "12131191",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "295525",
+        "youtube": "295525",
+        "soundcloud": "295525",
+        "appleMusic": "295525"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T05:11:11.753Z",
+  "scrapeVersion": 2
+}

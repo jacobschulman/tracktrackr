@@ -1,0 +1,1112 @@
+{
+  "tlId": "1yksjxrt",
+  "dj": "LOUDPVCK",
+  "stage": "EDC Las Vegas",
+  "date": "2018-05-18",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/1yksjxrt/loudpvck-cosmicmeadow-edc-las-vegas-united-states-2018-05-18.html",
+  "djs": [
+    {
+      "name": "LOUDPVCK",
+      "slug": "loudpvck"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Virtual Self",
+      "title": "Particle Arts (1788-L Flip)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3320245",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "418713",
+        "soundcloud": "418713"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Party Favor x Baauer",
+      "title": "MDR",
+      "remix": "",
+      "label": "AREA 25",
+      "trackId": "3320246",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "405939",
+        "youtube": "405939",
+        "soundcloud": "405939",
+        "appleMusic": "405939"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Noisia & The Upbeats",
+      "title": "Dead Limit (Noisia Outer Edges Remix)",
+      "remix": "",
+      "label": "VISION",
+      "trackId": "3320247",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 232,
+      "mediaIds": {
+        "spotify": "363568",
+        "youtube": "363568",
+        "soundcloud": "363568",
+        "appleMusic": "363568"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "A$AP Ferg vs. Boombox Cartel",
+      "title": "Plain Jane vs. Alamo (OneWix 2K18 Mashup)",
+      "remix": "(v2)",
+      "label": "MAD DECENT/RCA (SONY)",
+      "trackId": "3320248",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "403858"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Montell Jordan vs. Jauz",
+      "title": "This Is How We Do It vs. Alpha (JAUZ Mashup)",
+      "remix": "",
+      "label": "DEF JAM/BITE THIS!",
+      "trackId": "3320249",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "406171"
+      },
+      "blendGroup": [
+        {
+          "artist": "Montell Jordan vs. Jauz",
+          "title": "This Is How We Do It vs. Alpha (JAUZ Mashup)",
+          "remix": "",
+          "trackId": "3320249"
+        },
+        {
+          "artist": "Getter & Ghastly",
+          "title": "666! (Getter VIP / Dabow Flip)",
+          "remix": "",
+          "trackId": "3320250"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Getter & Ghastly",
+      "title": "666! (Getter VIP / Dabow Flip)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3320250",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "356845"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Michael Sparks ft. Paperboii",
+      "title": "Bust A Check",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3320251",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "432966",
+        "youtube": "432966",
+        "appleMusic": "432966"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Michael Sparks vs. Skrillex & Habstrakt",
+      "title": "Ja Rasta vs. Chicken Soup (Ekali Edit)",
+      "remix": "",
+      "label": "FREE/PANDA FUNK/OWSLA",
+      "trackId": "3320252",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Ty Dolla $ign ft. Future & Rae Sremmurd",
+      "title": "Blasé",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "3320253",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "266279",
+        "youtube": "266279",
+        "soundcloud": "266279",
+        "appleMusic": "266279"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ty Dolla $ign ft. Future & Rae Sremmurd",
+          "title": "Blasé",
+          "remix": "",
+          "trackId": "3320253"
+        },
+        {
+          "artist": "Valentino Khan & Wiwek",
+          "title": "Tropicana",
+          "remix": "",
+          "trackId": "3320254"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Valentino Khan & Wiwek",
+      "title": "Tropicana",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3320254",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "290010",
+        "youtube": "290010",
+        "soundcloud": "290010",
+        "appleMusic": "290010"
+      },
+      "blendGroup": [
+        {
+          "artist": "Valentino Khan & Wiwek",
+          "title": "Tropicana",
+          "remix": "",
+          "trackId": "3320254"
+        },
+        {
+          "artist": "YOOKiE",
+          "title": "Subs",
+          "remix": "",
+          "trackId": "3330802"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "YOOKiE",
+      "title": "Subs",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "3330802",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 615,
+      "mediaIds": {
+        "spotify": "341308",
+        "youtube": "341308",
+        "soundcloud": "341308",
+        "appleMusic": "341308"
+      },
+      "blendGroup": [
+        {
+          "artist": "YOOKiE",
+          "title": "Subs",
+          "remix": "",
+          "trackId": "3330802"
+        },
+        {
+          "artist": "LUUDE",
+          "title": "Don't Leave Me (QUIX Edit)",
+          "remix": "",
+          "trackId": "3320255"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "LUUDE",
+      "title": "Don't Leave Me (QUIX Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3320255",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "385282",
+        "soundcloud": "385282"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "GTA & Valentino Khan",
+      "title": "Break Your Neck",
+      "remix": "",
+      "label": "THREE SIX ZERO",
+      "trackId": "3320256",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "245561",
+        "youtube": "245561",
+        "soundcloud": "245561",
+        "appleMusic": "245561"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Slushii",
+      "title": "Bounce",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3320257",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "407679",
+        "youtube": "407679",
+        "appleMusic": "407679"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Dabow",
+      "title": "Olè",
+      "remix": "",
+      "label": "24-8",
+      "trackId": "3320258",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "355766",
+        "youtube": "355766",
+        "soundcloud": "355766",
+        "appleMusic": "355766"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "DJ Snake & Moksi",
+      "title": "Pigalle (4B Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "3320259",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "368459",
+        "soundcloud": "368459"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Gladiator & LOUDPVCK ft. Nipsey Hussle",
+      "title": "Tony",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "3320260",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "200883",
+        "youtube": "200883",
+        "appleMusic": "200883"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "QUIX",
+      "title": "Fatality",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3320261",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "416945",
+        "soundcloud": "416945"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Kodak Black vs. UNKWN",
+      "title": "Roll In Peace (Benzi & Chuwe Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "3320262",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Trampa",
+      "title": "Runners",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "3320264",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "337540",
+        "youtube": "337540",
+        "soundcloud": "337540",
+        "appleMusic": "337540"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "ATLiens",
+      "title": "Alchemy (TYNAN Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3320265",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "373404",
+        "youtube": "373404",
+        "soundcloud": "373404",
+        "appleMusic": "373404"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "BlocBoy JB ft. Drake",
+      "title": "Look Alive",
+      "remix": "",
+      "label": "OVO",
+      "trackId": "3320266",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "406786",
+        "youtube": "406786",
+        "soundcloud": "406786",
+        "appleMusic": "406786"
+      },
+      "blendGroup": [
+        {
+          "artist": "BlocBoy JB ft. Drake",
+          "title": "Look Alive",
+          "remix": "",
+          "trackId": "3320266"
+        },
+        {
+          "artist": "Zomboy & Eptic",
+          "title": "Bop It",
+          "remix": "",
+          "trackId": "3320267"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zomboy & Eptic",
+      "title": "Bop It",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "3320267",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "392141",
+        "youtube": "392141",
+        "soundcloud": "392141",
+        "appleMusic": "392141"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "JAUZ & Crankdat ft. Slushii",
+      "title": "I Hold Still (Slushii VIP)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "3585874",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1500,
+      "mediaIds": {
+        "youtube": "417492",
+        "soundcloud": "417492"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Slushii",
+      "title": "Level Up",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "3320268",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "388591",
+        "youtube": "388591",
+        "appleMusic": "388591"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Adventure Club & Dion Timmer ft. Kai",
+      "title": "Need Your Heart 2.0",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3320269",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "351417",
+        "soundcloud": "351417"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Hudson Mohawke",
+      "title": "Cbat (Boombox Cartel Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3320270",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "356930",
+        "soundcloud": "356930"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Waka Flocka Flame vs. Boombox Cartel & QUIX ft. Anjulie",
+      "title": "Hard In Da Paint vs. Supernatural (Flosstradamus Edit)",
+      "remix": "",
+      "label": "1017 BRICK SQUAD/MAD DECENT",
+      "trackId": "3320272",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Waka Flocka Flame vs. Boombox Cartel & QUIX ft. Anjulie",
+          "title": "Hard In Da Paint vs. Supernatural (Flosstradamus Edit)",
+          "remix": "",
+          "trackId": "3320272"
+        },
+        {
+          "artist": "GRAVEDGR",
+          "title": "Rampage",
+          "remix": "",
+          "trackId": "3320273"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GRAVEDGR",
+      "title": "Rampage",
+      "remix": "",
+      "label": "HEAVYWEIGHT",
+      "trackId": "3320273",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 1760,
+      "mediaIds": {
+        "spotify": "420463",
+        "youtube": "420463",
+        "soundcloud": "420463",
+        "appleMusic": "420463"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Skrillex & Rick Ross",
+      "title": "Purple Lamborghini (Slushii Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "3320274",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "958117"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Eliminate",
+      "title": "No Sleep",
+      "remix": "",
+      "label": "TWONK",
+      "trackId": "3320275",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "382114",
+        "youtube": "382114",
+        "soundcloud": "382114",
+        "appleMusic": "382114"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eliminate",
+          "title": "No Sleep",
+          "remix": "",
+          "trackId": "3320275"
+        },
+        {
+          "artist": "Darren Styles & Dougal & Gammer",
+          "title": "Party Don't Stop (Acappella)",
+          "remix": "",
+          "trackId": "3320276"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Darren Styles & Dougal & Gammer",
+      "title": "Party Don't Stop (Acappella)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "3320276",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "402343",
+        "youtube": "402343",
+        "soundcloud": "402343",
+        "appleMusic": "402343"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "IVORY",
+      "title": "Break It Down (Tisoki Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3320277",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "390563",
+        "soundcloud": "390563"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Lil Uzi Vert",
+      "title": "XO TOUR Llif3(Prod. by TM88)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "3320278",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "357886",
+        "youtube": "357886",
+        "soundcloud": "357886",
+        "appleMusic": "357886"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lil Uzi Vert",
+          "title": "XO TOUR Llif3(Prod. by TM88)",
+          "remix": "",
+          "trackId": "3320278"
+        },
+        {
+          "artist": "NGHTMRE",
+          "title": "Burn Out",
+          "remix": "",
+          "trackId": "3320279"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "NGHTMRE",
+      "title": "Burn Out",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "3320279",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "277687",
+        "youtube": "277687",
+        "soundcloud": "277687",
+        "appleMusic": "277687"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Kanye West vs. Zeds Dead & NGHTMRE & Wuki",
+      "title": "Power Frontlines (Wuki & NGHTMRE Edit)",
+      "remix": "",
+      "label": "ROC-A-FELLA/CIRCUS RECORDS/DEADBEATS",
+      "trackId": "3320280",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Virtual Self",
+      "title": "Ghost Voices (GTA Psy Edit)",
+      "remix": "",
+      "label": "VIRTUAL SELF",
+      "trackId": "3320282",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "416995",
+        "soundcloud": "416995"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "The Chainsmokers ft. Daya",
+      "title": "Don't Let Me Down (Spag Heddy Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3320283",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2387,
+      "mediaIds": {
+        "youtube": "303259",
+        "soundcloud": "303259"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Wuki & Benzi",
+      "title": "We Like To Fuck That Shit",
+      "remix": "",
+      "label": "WUKILEAKS/VIOLENT/WAX/BARONG FAMILY",
+      "trackId": "3320284",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "383849"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "DJ Snake ft. Lauv",
+      "title": "A Different Way (Ray Volpe Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3319858",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "404154",
+        "soundcloud": "404154"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Zomboy",
+      "title": "Like A Bitch (Slushii & Volt Edit)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "3319859",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "381201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Dillon Francis & NGHTMRE",
+      "title": "Another Dimension (YOOKiE Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "3319860",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "408721",
+        "youtube": "408721",
+        "soundcloud": "408721",
+        "appleMusic": "408721"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Kompany",
+      "title": "Override",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "3320445",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 2683,
+      "mediaIds": {
+        "spotify": "431188",
+        "youtube": "431188",
+        "soundcloud": "431188",
+        "appleMusic": "431188"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Kendrick Lamar",
+      "title": "HUMBLE. (Skrillex Remix)",
+      "remix": "",
+      "label": "TOP DAWG",
+      "trackId": "3319861",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "373720",
+        "youtube": "373720",
+        "soundcloud": "373720",
+        "appleMusic": "373720"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "DJ Fresh ft. Ce'Cile",
+      "title": "Gold Dust (Flux Pavilion Remix)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "3320446",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "39869",
+        "youtube": "39869",
+        "soundcloud": "39869",
+        "appleMusic": "39869"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Fresh ft. Ce'Cile",
+          "title": "Gold Dust (Flux Pavilion Remix)",
+          "remix": "",
+          "trackId": "3320446"
+        },
+        {
+          "artist": "Marshmello",
+          "title": "Alone (Slushii Remix)",
+          "remix": "",
+          "trackId": "3319862"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Marshmello",
+      "title": "Alone (Slushii Remix)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "3319862",
+      "row": 37,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "316393",
+        "youtube": "316393",
+        "appleMusic": "316393"
+      }
+    },
+    {
+      "pos": "38",
+      "artist": "HEKLER & G-REX",
+      "title": "Covenant",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3320447",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 2982,
+      "mediaIds": {
+        "soundcloud": "424142"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "GTA",
+      "title": "Saria's Turn Up",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3319863",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "275266",
+        "soundcloud": "275266"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Slushii",
+      "title": "Bow Down",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "3319864",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "406699",
+        "youtube": "406699",
+        "appleMusic": "406699"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "NGHTMRE & LOUDPVCK",
+      "title": "Click Clack",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3320285",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "291047",
+        "youtube": "291047",
+        "soundcloud": "291047",
+        "appleMusic": "291047"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "Phiso",
+      "title": "Jotaro (Slushii Flip)",
+      "remix": "",
+      "label": "SMOG",
+      "trackId": "3320286",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "328621",
+        "soundcloud": "328621"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "43",
+      "artist": "Alice Deejay vs. graves & Coolights & Crankdat",
+      "title": "Better Off 2 Say Things (Flosstradamus Edit)",
+      "remix": "",
+      "label": "VIOLENT/MASHBUK",
+      "trackId": "3319865",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "44",
+      "artist": "Maliboux",
+      "title": "City On Fire",
+      "remix": "",
+      "label": "NEW NOISE (DIM MAK)",
+      "trackId": "3320448",
+      "row": 44,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "417146",
+        "youtube": "417146",
+        "soundcloud": "417146",
+        "appleMusic": "417146"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "45",
+      "artist": "DMX",
+      "title": "Ruff Ryder's Anthem",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "3320449",
+      "row": 45,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "133123",
+        "youtube": "133123",
+        "soundcloud": "133123",
+        "appleMusic": "133123"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "46",
+      "artist": "Dr. Dre ft. Snoop Dogg & Kurupt & Nate Dogg",
+      "title": "The Next Episode",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "3320450",
+      "row": 46,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20863",
+        "youtube": "20863",
+        "soundcloud": "20863",
+        "appleMusic": "20863"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "47",
+      "artist": "House Of Pain",
+      "title": "Jump Around",
+      "remix": "",
+      "label": "TOMMY BOY",
+      "trackId": "3320451",
+      "row": 47,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1849",
+        "youtube": "1849",
+        "soundcloud": "1849",
+        "appleMusic": "1849"
+      },
+      "blendGroup": [
+        {
+          "artist": "House Of Pain",
+          "title": "Jump Around",
+          "remix": "",
+          "trackId": "3320451"
+        },
+        {
+          "artist": "Jackal",
+          "title": "Shakedown (LOUDPVCK Remix)",
+          "remix": "",
+          "trackId": "3320452"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jackal",
+      "title": "Shakedown (LOUDPVCK Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3320452",
+      "row": 47,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "143490",
+        "youtube": "143490",
+        "soundcloud": "143490",
+        "appleMusic": "143490"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "804646",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/454719963"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "797346",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "791403",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:14:26.549Z",
+  "scrapeVersion": 2
+}

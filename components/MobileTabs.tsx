@@ -7,16 +7,16 @@ const tabs = [
   { href: '/', icon: '◆', label: 'Home', view: 'overview' },
   { href: '/djs', icon: '◎', label: 'DJs', view: 'djs' },
   { href: '/tracks', icon: '♫', label: 'Tracks', view: 'tracks' },
-  { href: '/year', icon: '◷', label: 'Sets', view: 'year' },
-  { href: '/stages', icon: '⬡', label: 'Stages', view: 'stages' },
+  { href: '/sets', icon: '◷', label: 'Sets', view: 'sets' },
+  { href: '/festivals', icon: '⬡', label: 'Festivals', view: 'festivals' },
 ];
 
 function getActiveView(pathname: string): string {
   if (pathname === '/') return 'overview';
+  if (pathname.startsWith('/festivals')) return 'festivals';
   if (pathname.startsWith('/dj')) return 'djs';
-  if (pathname.startsWith('/track') || pathname.startsWith('/set')) return 'tracks';
-  if (pathname.startsWith('/year')) return 'year';
-  if (pathname.startsWith('/stages')) return 'stages';
+  if (pathname.startsWith('/track')) return 'tracks';
+  if (pathname.startsWith('/set') || pathname.startsWith('/year')) return 'sets';
   return '';
 }
 

@@ -1,0 +1,310 @@
+{
+  "tlId": "19bxhu1k",
+  "dj": "Keiji",
+  "stage": "EDC Las Vegas",
+  "date": "2018-05-18",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/19bxhu1k/keiji-wasteland-edc-las-vegas-united-states-2018-05-18.html",
+  "djs": [
+    {
+      "name": "Keiji",
+      "slug": "keiji"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Keiji",
+      "title": "Memory",
+      "remix": "",
+      "label": "X-BONE",
+      "trackId": "7927142",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "413700",
+        "soundcloud": "413700",
+        "appleMusic": "413700"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Solstice ft. Dani Omega",
+      "title": "Not Enough",
+      "remix": "",
+      "label": "SCANTRAXX SILVER",
+      "trackId": "7927143",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 38,
+      "mediaIds": {
+        "spotify": "426859",
+        "youtube": "426859",
+        "soundcloud": "426859",
+        "appleMusic": "426859"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Keiji",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7927144",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 227,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Keiji",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7927144"
+        },
+        {
+          "artist": "Audiotricz",
+          "title": "Let There Be Light",
+          "remix": "",
+          "trackId": "7927145"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Audiotricz",
+      "title": "Let There Be Light",
+      "remix": "",
+      "label": "WE R",
+      "trackId": "7927145",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 315,
+      "mediaIds": {
+        "spotify": "343770",
+        "youtube": "343770",
+        "soundcloud": "343770",
+        "appleMusic": "343770"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Devin Wild",
+      "title": "Let's Get Drunk",
+      "remix": "",
+      "label": "SCANTRAXX",
+      "trackId": "7927146",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 519,
+      "mediaIds": {
+        "spotify": "367728",
+        "youtube": "367728",
+        "soundcloud": "367728",
+        "appleMusic": "367728"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "TALON",
+      "title": "Primal Source",
+      "remix": "",
+      "label": "DIVERGENT (MEDIA REC.)",
+      "trackId": "7927147",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 701,
+      "mediaIds": {
+        "spotify": "436716",
+        "youtube": "436716",
+        "soundcloud": "436716"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Devin Wild",
+      "title": "Anarchism",
+      "remix": "",
+      "label": "SCANTRAXX",
+      "trackId": "7927148",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 868,
+      "mediaIds": {
+        "spotify": "407429",
+        "youtube": "407429",
+        "appleMusic": "407429"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Scabtik ft. Sewy",
+      "title": "Beautiful Life",
+      "remix": "",
+      "label": "X-BONE",
+      "trackId": "7927149",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1105,
+      "mediaIds": {
+        "spotify": "422108",
+        "youtube": "422108",
+        "soundcloud": "422108",
+        "appleMusic": "422108"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Wav3motion & Keiji",
+      "title": "Breakthrough",
+      "remix": "",
+      "label": "X-BONE",
+      "trackId": "7927150",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1257,
+      "mediaIds": {
+        "spotify": "493106",
+        "youtube": "493106",
+        "soundcloud": "493106",
+        "appleMusic": "493106"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Demi Kanon & Inverze",
+      "title": "Close Our Eyes",
+      "remix": "",
+      "label": "SCANTRAXX",
+      "trackId": "7927151",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1465,
+      "mediaIds": {
+        "spotify": "412403",
+        "youtube": "412403",
+        "soundcloud": "412403",
+        "appleMusic": "412403"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Post Malone",
+      "title": "I Fall Apart (Keiji Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "7927152",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1621,
+      "mediaIds": {
+        "youtube": "7927152",
+        "soundcloud": "7927152"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Scatman John",
+      "title": "Scatman (Ski Ba Bop Ba Dop Bop) (Tempest Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "7927153",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1826,
+      "mediaIds": {
+        "soundcloud": "425648"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "The Chainsmokers",
+      "title": "Sick Boy (TRI VICTVS Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "7927154",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2037,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Code Black & Crisis Era",
+      "title": "Beat Cannon",
+      "remix": "",
+      "label": "WE R",
+      "trackId": "7927155",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2222,
+      "mediaIds": {
+        "spotify": "385050",
+        "youtube": "385050",
+        "soundcloud": "385050",
+        "appleMusic": "385050"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Toneshifterz ft. MC D",
+      "title": "PSYSTYLE",
+      "remix": "",
+      "label": "WE R",
+      "trackId": "7927156",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2405,
+      "mediaIds": {
+        "spotify": "346138",
+        "youtube": "346138",
+        "soundcloud": "346138",
+        "appleMusic": "346138"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Travis Scott ft. Kendrick Lamar",
+      "title": "Goosebumps (Crisis Era Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7927157",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2622,
+      "mediaIds": {
+        "youtube": "359660",
+        "soundcloud": "359660"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2885454",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=BU_h-h9RPPE"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:10:01.488Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,1010 @@
+{
+  "tlId": "mscfh99",
+  "dj": "Netsky",
+  "stage": "Ultra Music Festival Japan",
+  "date": "2019-09-14",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/mscfh99/netsky-mainstage-ultra-music-festival-japan-2019-09-14.html",
+  "djs": [
+    {
+      "name": "Netsky",
+      "slug": "netsky"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "JAUZ & Netsky",
+      "title": "Higher (The Prototypes Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "4377263",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "310543",
+        "youtube": "310543",
+        "soundcloud": "310543",
+        "appleMusic": "310543"
+      },
+      "blendGroup": [
+        {
+          "artist": "JAUZ & Netsky",
+          "title": "Higher (The Prototypes Remix)",
+          "remix": "",
+          "trackId": "4377263"
+        },
+        {
+          "artist": "Eptic",
+          "title": "Cosmic",
+          "remix": "",
+          "trackId": "4377264"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eptic",
+      "title": "Cosmic",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "4377264",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 150,
+      "mediaIds": {
+        "spotify": "309331",
+        "youtube": "309331",
+        "soundcloud": "309331",
+        "appleMusic": "309331"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "RL Grime",
+      "title": "Core (Prismo Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4377265",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 200,
+      "mediaIds": {
+        "youtube": "409154",
+        "soundcloud": "409154"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "What So Not",
+      "title": "Divide & Conquer (Noisia Remix)",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "4377266",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 270,
+      "mediaIds": {
+        "spotify": "340162",
+        "youtube": "340162",
+        "soundcloud": "340162",
+        "appleMusic": "340162"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Wilkinson & Sub Focus ft. Tom Cane",
+      "title": "Illuminate",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "4377267",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 320,
+      "mediaIds": {
+        "spotify": "499234",
+        "youtube": "499234",
+        "soundcloud": "499234",
+        "appleMusic": "499234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Dua Lipa",
+      "title": "Be The One (Netsky Remix)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "4377268",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 430,
+      "mediaIds": {
+        "spotify": "346991",
+        "youtube": "346991",
+        "appleMusic": "346991"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Lost Frequencies & Netsky",
+      "title": "Here With You",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "4377269",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 630,
+      "mediaIds": {
+        "spotify": "366511",
+        "youtube": "366511",
+        "soundcloud": "366511",
+        "appleMusic": "366511"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Netsky & Aloe Blacc",
+      "title": "Snitch",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "4377270",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 840,
+      "mediaIds": {
+        "spotify": "511604",
+        "youtube": "511604",
+        "soundcloud": "511604",
+        "appleMusic": "511604"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Netsky & Urbandawn",
+      "title": "Power",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "4377271",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 990,
+      "mediaIds": {
+        "spotify": "626747",
+        "youtube": "626747",
+        "soundcloud": "626747",
+        "appleMusic": "626747"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "TroyBoi ft. Ice Cube",
+      "title": "Look At Me",
+      "remix": "",
+      "label": "T DOT",
+      "trackId": "4377272",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1080,
+      "mediaIds": {
+        "spotify": "379418",
+        "youtube": "379418",
+        "soundcloud": "379418",
+        "appleMusic": "379418"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Sheck Wes",
+      "title": "Mo Bamba",
+      "remix": "",
+      "label": "CACTUS JACK",
+      "trackId": "4377273",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1140,
+      "mediaIds": {
+        "spotify": "414142",
+        "youtube": "414142",
+        "soundcloud": "414142",
+        "appleMusic": "414142"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sheck Wes",
+          "title": "Mo Bamba",
+          "remix": "",
+          "trackId": "4377273"
+        },
+        {
+          "artist": "Emalkay",
+          "title": "Fabrication (Kanji Kinetic Refix)",
+          "remix": "",
+          "trackId": "4377274"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Emalkay",
+      "title": "Fabrication (Kanji Kinetic Refix)",
+      "remix": "",
+      "label": "DUB POLICE",
+      "trackId": "4377274",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "11",
+      "artist": "Skrillex ft. BEAM",
+      "title": "Mumbai Power",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "4377275",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1230,
+      "mediaIds": {
+        "spotify": "510349",
+        "youtube": "510349",
+        "soundcloud": "510349",
+        "appleMusic": "510349"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Travis Scott ft. Drake",
+      "title": "Sicko Mode (Skrillex Remix)",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "4377276",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1350,
+      "mediaIds": {
+        "spotify": "456620",
+        "youtube": "456620",
+        "soundcloud": "456620",
+        "appleMusic": "456620"
+      },
+      "blendGroup": [
+        {
+          "artist": "Travis Scott ft. Drake",
+          "title": "Sicko Mode (Skrillex Remix)",
+          "remix": "",
+          "trackId": "4377276"
+        },
+        {
+          "artist": "DJ Snake & Eptic",
+          "title": "SouthSide",
+          "remix": "",
+          "trackId": "4377277"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Snake & Eptic",
+      "title": "SouthSide",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "4377277",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "480201",
+        "youtube": "480201",
+        "soundcloud": "480201",
+        "appleMusic": "480201"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "San Holo vs. Kanye West",
+      "title": "Lights (NITTI Remix)",
+      "remix": "",
+      "label": "BITBIRD/ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "4377278",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1500,
+      "mediaIds": {
+        "youtube": "370392",
+        "soundcloud": "370392"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Avicii",
+      "title": "Levels",
+      "remix": "",
+      "label": "LE7ELS/UMG",
+      "trackId": "4377279",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1620,
+      "mediaIds": {
+        "spotify": "33255",
+        "youtube": "33255",
+        "soundcloud": "33255",
+        "appleMusic": "33255"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii",
+          "title": "Levels",
+          "remix": "",
+          "trackId": "4377279"
+        },
+        {
+          "artist": "thook",
+          "title": "Forest",
+          "remix": "",
+          "trackId": "4377280"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "thook",
+      "title": "Forest",
+      "remix": "",
+      "label": "THOOK SOUND",
+      "trackId": "4377280",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "399941",
+        "youtube": "399941",
+        "soundcloud": "399941",
+        "appleMusic": "399941"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "The Chemical Brothers",
+      "title": "Hey Boy, Hey Girl (Metrik Bootleg)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "4377281",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1710,
+      "mediaIds": {
+        "youtube": "206741",
+        "soundcloud": "206741"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Netsky & Darren Styles",
+      "title": "Look At Me Go",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "4377282",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "531255",
+        "youtube": "531255",
+        "soundcloud": "531255",
+        "appleMusic": "531255"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Virtual Self",
+      "title": "Ghost Voices (Netsky DnB Bootleg)",
+      "remix": "",
+      "label": "VIRTUAL SELF",
+      "trackId": "4377283",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1860,
+      "mediaIds": {
+        "youtube": "481296",
+        "soundcloud": "481296"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Darren Styles & Stonebank ft. EMEL",
+      "title": "Sky Is Falling",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "4377284",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1950,
+      "mediaIds": {
+        "spotify": "425940",
+        "youtube": "425940",
+        "soundcloud": "425940",
+        "appleMusic": "425940"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Porter Robinson ft. Bright Lights",
+      "title": "Language (JAUZ Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4377285",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2010,
+      "mediaIds": {
+        "youtube": "336080",
+        "soundcloud": "336080"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Netsky",
+      "title": "Iron Heart",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "4377286",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2160,
+      "mediaIds": {
+        "spotify": "76774",
+        "youtube": "76774",
+        "soundcloud": "76774",
+        "appleMusic": "76774"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Netsky",
+      "title": "Love Has Gone",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "4377287",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2280,
+      "mediaIds": {
+        "spotify": "76773",
+        "youtube": "76773",
+        "soundcloud": "76773",
+        "appleMusic": "76773"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "TC",
+      "title": "Tap Ho",
+      "remix": "",
+      "label": "DON'T PLAY",
+      "trackId": "4377288",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2400,
+      "mediaIds": {
+        "spotify": "55347",
+        "youtube": "55347",
+        "soundcloud": "55347",
+        "appleMusic": "55347"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Wuki",
+      "title": "Pon De Time (NITTI Edit)",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE/MAD DECENT",
+      "trackId": "4377289",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2480,
+      "mediaIds": {
+        "youtube": "430000",
+        "soundcloud": "430000"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "JAUZ & Netsky",
+      "title": "Higher",
+      "remix": "",
+      "label": "SONY/ULTRA",
+      "trackId": "4377290",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2520,
+      "mediaIds": {
+        "spotify": "300921",
+        "youtube": "300921",
+        "soundcloud": "300921",
+        "appleMusic": "300921"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Dizzee Rascal & Armand van Helden",
+      "title": "Bonkers",
+      "remix": "",
+      "label": "DIRTEE STANK",
+      "trackId": "4377291",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2640,
+      "mediaIds": {
+        "spotify": "3911",
+        "youtube": "3911",
+        "soundcloud": "3911",
+        "appleMusic": "3911"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dizzee Rascal & Armand van Helden",
+          "title": "Bonkers",
+          "remix": "",
+          "trackId": "4377291"
+        },
+        {
+          "artist": "FISHER",
+          "title": "Losing It",
+          "remix": "",
+          "trackId": "4377292"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "FISHER",
+      "title": "Losing It",
+      "remix": "",
+      "label": "CATCH & RELEASE/ASTRALWERKS",
+      "trackId": "4377292",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "417888",
+        "youtube": "417888",
+        "soundcloud": "417888",
+        "appleMusic": "417888"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "Netsky ft. Billie",
+      "title": "We Can Only Live Today (Puppy)",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "4377293",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2760,
+      "mediaIds": {
+        "youtube": "76772",
+        "soundcloud": "76772"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Rusko",
+      "title": "Woo Boost (SKIN DEEP Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4377294",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2910,
+      "mediaIds": {
+        "youtube": "292712",
+        "soundcloud": "292712"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Skrillex & Habstrakt",
+      "title": "Chicken Soup",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "4377295",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2940,
+      "mediaIds": {
+        "spotify": "357284",
+        "youtube": "357284",
+        "soundcloud": "357284",
+        "appleMusic": "357284"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Habstrakt",
+          "title": "Chicken Soup",
+          "remix": "",
+          "trackId": "4377295"
+        },
+        {
+          "artist": "Netsky & David Guetta",
+          "title": "Ice Cold",
+          "remix": "",
+          "trackId": "4377296"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Netsky & David Guetta",
+      "title": "Ice Cold",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "4377296",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "447706",
+        "youtube": "447706",
+        "soundcloud": "447706",
+        "appleMusic": "447706"
+      }
+    },
+    {
+      "pos": "29",
+      "artist": "Polo G ft. Lil Tjay",
+      "title": "Pop Out (Netsky Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "4377298",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3060,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Rusko ft. Amber Coffman",
+      "title": "Hold On (Sub Focus Remix)",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "4377299",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3120,
+      "mediaIds": {
+        "spotify": "20841",
+        "youtube": "20841",
+        "soundcloud": "20841",
+        "appleMusic": "20841"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rusko ft. Amber Coffman",
+          "title": "Hold On (Sub Focus Remix)",
+          "remix": "",
+          "trackId": "4377299"
+        },
+        {
+          "artist": "Dossa & Locuzzed",
+          "title": "Shag",
+          "remix": "",
+          "trackId": "4377300"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dossa & Locuzzed",
+      "title": "Shag",
+      "remix": "",
+      "label": "VIPER",
+      "trackId": "4377300",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "332798",
+        "youtube": "332798",
+        "soundcloud": "332798",
+        "appleMusic": "332798"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "Sub Focus & Dimension",
+      "title": "Desire",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "4377301",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3240,
+      "mediaIds": {
+        "spotify": "442447",
+        "youtube": "442447",
+        "soundcloud": "442447",
+        "appleMusic": "442447"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Sub Focus",
+      "title": "X-Ray (Metrik Remix)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "4377302",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 3360,
+      "mediaIds": {
+        "spotify": "394493",
+        "youtube": "394493",
+        "soundcloud": "394493",
+        "appleMusic": "394493"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Shameboy",
+      "title": "Strobot (Netsky Remix)",
+      "remix": "",
+      "label": "RADAR",
+      "trackId": "4377303",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 3480,
+      "mediaIds": {
+        "youtube": "68677",
+        "soundcloud": "68677"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Skrillex ft. Sirah",
+      "title": "Kyoto",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "4377304",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3510,
+      "mediaIds": {
+        "spotify": "57220",
+        "youtube": "57220",
+        "soundcloud": "57220",
+        "appleMusic": "57220"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Gigi D'Agostino",
+      "title": "L'Amour Toujours (I'll Fly With You) (Netsky Remix)",
+      "remix": "",
+      "label": "ZYX",
+      "trackId": "4377305",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 3630,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Gigi D'Agostino",
+          "title": "L'Amour Toujours (I'll Fly With You) (Netsky Remix)",
+          "remix": "",
+          "trackId": "4377305"
+        },
+        {
+          "artist": "Rusko",
+          "title": "Everyday (Netsky Remix)",
+          "remix": "",
+          "trackId": "4377306"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rusko",
+      "title": "Everyday (Netsky Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "4377306",
+      "row": 35,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "35508",
+        "youtube": "35508",
+        "soundcloud": "35508",
+        "appleMusic": "35508"
+      }
+    },
+    {
+      "pos": "36",
+      "artist": "The Champs",
+      "title": "Tequila",
+      "remix": "",
+      "label": "LONDON RECORDS",
+      "trackId": "4377307",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 3840,
+      "mediaIds": {
+        "youtube": "88990",
+        "soundcloud": "88990"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Champs",
+          "title": "Tequila",
+          "remix": "",
+          "trackId": "4377307"
+        },
+        {
+          "artist": "DJ Hazard & D*Minds",
+          "title": "Mr. Happy",
+          "remix": "",
+          "trackId": "4377308"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Hazard & D*Minds",
+      "title": "Mr. Happy",
+      "remix": "",
+      "label": "PLAYAZ",
+      "trackId": "4377308",
+      "row": 36,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "50601",
+        "youtube": "50601",
+        "soundcloud": "50601",
+        "appleMusic": "50601"
+      }
+    },
+    {
+      "pos": "37",
+      "artist": "Macky Gee",
+      "title": "Tour",
+      "remix": "",
+      "label": "ELEVATE RECORDS (SHOGUN)",
+      "trackId": "4377309",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 3960,
+      "mediaIds": {
+        "spotify": "397167",
+        "youtube": "397167",
+        "soundcloud": "397167",
+        "appleMusic": "397167"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Netsky",
+      "title": "Pirate Bay VIP",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4377310",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 4050,
+      "mediaIds": {
+        "youtube": "68668",
+        "soundcloud": "68668"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Dimension",
+      "title": "UK (Skrillex Edit)",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "4377311",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 4140,
+      "mediaIds": {
+        "youtube": "350997",
+        "soundcloud": "350997"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimension",
+          "title": "UK (Skrillex Edit)",
+          "remix": "",
+          "trackId": "4377311"
+        },
+        {
+          "artist": "Birdy Nam Nam",
+          "title": "Goin' In (Skrillex Goin' Down Mix)",
+          "remix": "",
+          "trackId": "4377312"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Birdy Nam Nam",
+      "title": "Goin' In (Skrillex Goin' Down Mix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "4377312",
+      "row": 39,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "84553",
+        "youtube": "84553",
+        "soundcloud": "84553",
+        "appleMusic": "84553"
+      }
+    },
+    {
+      "pos": "40",
+      "artist": "Netsky ft. Digital Farm Animals",
+      "title": "Rio",
+      "remix": "",
+      "label": "SONY/ULTRA",
+      "trackId": "4377313",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 4260,
+      "mediaIds": {
+        "spotify": "254517",
+        "youtube": "254517",
+        "soundcloud": "254517",
+        "appleMusic": "254517"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "1346892",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:47:47.367Z",
+  "scrapeVersion": 2
+}

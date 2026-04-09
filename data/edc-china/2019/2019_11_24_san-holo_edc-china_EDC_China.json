@@ -1,0 +1,160 @@
+{
+  "tlId": "sfkv4yt",
+  "dj": "San Holo",
+  "stage": "EDC China",
+  "date": "2019-11-24",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/sfkv4yt/san-holo-kineticfield-edc-china-guangdong-2019-11-24.html",
+  "djs": [
+    {
+      "name": "San Holo",
+      "slug": "sanholo"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Clams Casino & Imogen Heap",
+      "title": "I'm God (San Holo Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4510161",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "328236"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "San Holo",
+      "title": "One Thing",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4510162",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "389894",
+        "youtube": "389894",
+        "soundcloud": "389894",
+        "appleMusic": "389894"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "San Holo ft. Bipolar Sunshine",
+      "title": "Brighter Days",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4510163",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "440044",
+        "youtube": "440044",
+        "soundcloud": "440044",
+        "appleMusic": "440044"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "San Holo",
+      "title": "I Still See Your Face",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4510164",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "380011",
+        "youtube": "380011",
+        "soundcloud": "380011",
+        "appleMusic": "380011"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "San Holo",
+      "title": "Lead Me Back (VIP)",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4510165",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "San Holo",
+      "title": "Light",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4510166",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "335752",
+        "youtube": "335752",
+        "soundcloud": "335752",
+        "appleMusic": "335752"
+      },
+      "blendGroup": [
+        {
+          "artist": "San Holo",
+          "title": "Light",
+          "remix": "",
+          "trackId": "4510166"
+        },
+        {
+          "artist": "San Holo",
+          "title": "Light (Goslo Remix)",
+          "remix": "",
+          "trackId": "4510167"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "San Holo",
+      "title": "Light (Goslo Remix)",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4510167",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "398454",
+        "youtube": "398454",
+        "soundcloud": "398454",
+        "appleMusic": "398454"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "1449364",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:37:43.008Z",
+  "scrapeVersion": 2
+}

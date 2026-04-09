@@ -1,0 +1,417 @@
+{
+  "tlId": "2wu9mwk",
+  "dj": "Sunnery James & Ryan Marciano",
+  "stage": "EDC Las Vegas",
+  "date": "2012-06-10",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/2wu9mwk/sunnery-james-ryan-marciano-kineticfield-edc-las-vegas-united-states-2012-06-10.html",
+  "djs": [
+    {
+      "name": "Sunnery James & Ryan Marciano",
+      "slug": "sunneryjamesandryanmarciano"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Joe Brunning",
+      "title": "Now Let Me See You Work",
+      "remix": "",
+      "label": "BUSH",
+      "trackId": "240663",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30764",
+        "youtube": "30764",
+        "soundcloud": "30764",
+        "appleMusic": "30764"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Matt Caseli & Danny Freakazoid",
+      "title": "Raise Your Hands",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "240664",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30420",
+        "youtube": "30420",
+        "soundcloud": "30420",
+        "appleMusic": "30420"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Thomas Gold & Alex Kenji",
+      "title": "What's Up (Dub Mix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "240665",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 300,
+      "mediaIds": {
+        "spotify": "20806",
+        "youtube": "20806",
+        "appleMusic": "20806"
+      },
+      "blendGroup": [
+        {
+          "artist": "Thomas Gold & Alex Kenji",
+          "title": "What's Up (Dub Mix)",
+          "remix": "",
+          "trackId": "240665"
+        },
+        {
+          "artist": "Etta James",
+          "title": "Something's Got A Hold On Me (Acappella)",
+          "remix": "",
+          "trackId": "240666"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Etta James",
+      "title": "Something's Got A Hold On Me (Acappella)",
+      "remix": "",
+      "label": "ARGO",
+      "trackId": "240666",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 36000,
+      "mediaIds": {
+        "spotify": "30650",
+        "youtube": "30650",
+        "soundcloud": "30650",
+        "appleMusic": "30650"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Sander van Doorn",
+      "title": "Slap My Pitch Up",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "240667",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "32143",
+        "youtube": "32143",
+        "soundcloud": "32143",
+        "appleMusic": "32143"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sander van Doorn",
+          "title": "Slap My Pitch Up",
+          "remix": "",
+          "trackId": "240667"
+        },
+        {
+          "artist": "Ferry Corsten",
+          "title": "Punk",
+          "remix": "",
+          "trackId": "240668"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ferry Corsten",
+      "title": "Punk",
+      "remix": "",
+      "label": "FLASHOVER",
+      "trackId": "240668",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "27887",
+        "youtube": "27887",
+        "soundcloud": "27887",
+        "appleMusic": "27887"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Sunnery James & Ryan Marciano",
+      "title": "Tribeca",
+      "remix": "",
+      "label": "SUBLIMINAL (ARMADA)",
+      "trackId": "240669",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "33251",
+        "youtube": "33251",
+        "soundcloud": "33251",
+        "appleMusic": "33251"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sunnery James & Ryan Marciano",
+          "title": "Tribeca",
+          "remix": "",
+          "trackId": "240669"
+        },
+        {
+          "artist": "Adele",
+          "title": "Rolling In The Deep (Acappella)",
+          "remix": "",
+          "trackId": "240670"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Adele",
+      "title": "Rolling In The Deep (Acappella)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "240670",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "27980",
+        "youtube": "27980",
+        "soundcloud": "27980",
+        "appleMusic": "27980"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Fedde Le Grand",
+      "title": "Metrum",
+      "remix": "",
+      "label": "TOOLROOM/ALTRA MODA",
+      "trackId": "240671",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "34719",
+        "youtube": "34719",
+        "soundcloud": "34719",
+        "appleMusic": "34719"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fedde Le Grand",
+          "title": "Metrum",
+          "remix": "",
+          "trackId": "240671"
+        },
+        {
+          "artist": "Empire Of The Sun",
+          "title": "Walking On A Dream (Acappella)",
+          "remix": "",
+          "trackId": "240672"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Empire Of The Sun",
+      "title": "Walking On A Dream (Acappella)",
+      "remix": "",
+      "label": "SOUKSONIC",
+      "trackId": "240672",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3462",
+        "youtube": "3462",
+        "soundcloud": "3462",
+        "appleMusic": "3462"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Swedish House Mafia & Knife Party ft. ADL",
+      "title": "Antidote (Sunnery James & Ryan Marciano Re-Fixxx)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "240673",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "61699"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Zedd vs. Martin Solveig",
+      "title": "Shotgun Out (Vade Radio Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "240674",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1680,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Sunnery James & Ryan Marciano",
+      "title": "Lethal Industry",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "240676",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "50452",
+        "youtube": "50452",
+        "soundcloud": "50452",
+        "appleMusic": "50452"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sunnery James & Ryan Marciano",
+          "title": "Lethal Industry",
+          "remix": "",
+          "trackId": "240676"
+        },
+        {
+          "artist": "Kristine W",
+          "title": "Feel What You Want (Acappella)",
+          "remix": "",
+          "trackId": "240677"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kristine W",
+      "title": "Feel What You Want (Acappella)",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "240677",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "28314",
+        "youtube": "28314",
+        "appleMusic": "28314"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Sander van Doorn",
+      "title": "Koko",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "240678",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30200",
+        "youtube": "30200",
+        "soundcloud": "30200",
+        "appleMusic": "30200"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sander van Doorn",
+          "title": "Koko",
+          "remix": "",
+          "trackId": "240678"
+        },
+        {
+          "artist": "Nari & Milani",
+          "title": "Atom",
+          "remix": "",
+          "trackId": "240679"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nari & Milani",
+      "title": "Atom",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "240679",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "57099",
+        "youtube": "57099",
+        "soundcloud": "57099",
+        "appleMusic": "57099"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "240680",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Green Velvet",
+      "title": "Flash (Nicky Romero Remix)",
+      "remix": "",
+      "label": "RELIEF",
+      "trackId": "240681",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "24812",
+        "youtube": "24812",
+        "soundcloud": "24812",
+        "appleMusic": "24812"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "37638",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/DubShakerz"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "37510",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:32:25.811Z",
+  "scrapeVersion": 2
+}

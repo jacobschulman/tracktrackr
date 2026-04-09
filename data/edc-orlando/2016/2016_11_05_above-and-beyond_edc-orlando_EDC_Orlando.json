@@ -1,0 +1,475 @@
+{
+  "tlId": "xx9xdu1",
+  "dj": "Above & Beyond",
+  "stage": "EDC Orlando",
+  "date": "2016-11-05",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/xx9xdu1/above-beyond-kineticfield-edc-orlando-united-states-2016-11-05.html",
+  "djs": [
+    {
+      "name": "Above & Beyond",
+      "slug": "aboveandbeyond"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Above & Beyond",
+      "title": "ABGT200 Intro",
+      "remix": "",
+      "label": "",
+      "trackId": "2360886",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Fatum vs. Judah",
+      "title": "Love On A Real Train (Tangerine Dream Cover)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360445",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "327810",
+        "youtube": "327810",
+        "appleMusic": "327810"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Chicane ft. Moya Brennan",
+      "title": "Saltwater (Kryder Remix)",
+      "remix": "",
+      "label": "ENZO",
+      "trackId": "2360441",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 600,
+      "mediaIds": {
+        "spotify": "315593",
+        "youtube": "315593",
+        "soundcloud": "315593",
+        "appleMusic": "315593"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Above & Beyond pres. OceanLab",
+      "title": "Another Chance (Above & Beyond Club Mix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360442",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 1200,
+      "mediaIds": {
+        "spotify": "272051",
+        "youtube": "272051",
+        "soundcloud": "272051",
+        "appleMusic": "272051"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Nick Sember",
+      "title": "Sahara",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360443",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1500,
+      "mediaIds": {
+        "spotify": "327811",
+        "youtube": "327811",
+        "soundcloud": "327811",
+        "appleMusic": "327811"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Above & Beyond ft. Zoë Johnston",
+      "title": "We're All We Need (Ilan Bluestone Remix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360444",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "249505",
+        "youtube": "249505",
+        "soundcloud": "249505",
+        "appleMusic": "249505"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Above & Beyond",
+      "title": "1001",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360440",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 2100,
+      "mediaIds": {
+        "spotify": "349716",
+        "youtube": "349716",
+        "soundcloud": "349716",
+        "appleMusic": "349716"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Faithless",
+      "title": "Salva Mea 2.0 (Above & Beyond Remix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360446",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 2400,
+      "mediaIds": {
+        "spotify": "219335",
+        "youtube": "219335",
+        "soundcloud": "219335",
+        "appleMusic": "219335"
+      },
+      "blendGroup": [
+        {
+          "artist": "Faithless",
+          "title": "Salva Mea 2.0 (Above & Beyond Remix)",
+          "remix": "",
+          "trackId": "2360446"
+        },
+        {
+          "artist": "Above & Beyond ft. Alex Vargas",
+          "title": "Sticky Fingers",
+          "remix": "",
+          "trackId": "2360887"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Above & Beyond ft. Alex Vargas",
+      "title": "Sticky Fingers",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360887",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "159015",
+        "youtube": "159015",
+        "soundcloud": "159015",
+        "appleMusic": "159015"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Above & Beyond",
+      "title": "A.I.",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360447",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 2700,
+      "mediaIds": {
+        "spotify": "290331",
+        "youtube": "290331",
+        "soundcloud": "290331",
+        "appleMusic": "290331"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Above & Beyond ft. Gemma Hayes",
+      "title": "Counting Down The Days (Above & Beyond Club Mix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360448",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 3000,
+      "mediaIds": {
+        "spotify": "262110",
+        "youtube": "262110",
+        "soundcloud": "262110",
+        "appleMusic": "262110"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Moby",
+      "title": "Porcelain (Above & Beyond Remix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360449",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 3300,
+      "mediaIds": {
+        "spotify": "322484",
+        "youtube": "322484",
+        "appleMusic": "322484"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Above & Beyond",
+      "title": "Balearic Balls",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360450",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 3600,
+      "mediaIds": {
+        "spotify": "327820",
+        "youtube": "327820",
+        "soundcloud": "327820",
+        "appleMusic": "327820"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Above & Beyond ft. Alex Vargas",
+      "title": "Blue Sky Action (Above & Beyond Club Mix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360451",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 3900,
+      "mediaIds": {
+        "spotify": "203887",
+        "youtube": "203887",
+        "soundcloud": "203887",
+        "appleMusic": "203887"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Above & Beyond ft. Zoë Johnston",
+      "title": "Peace Of Mind (ARTY Remix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360452",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 4200,
+      "mediaIds": {
+        "spotify": "255346",
+        "youtube": "255346",
+        "soundcloud": "255346",
+        "appleMusic": "255346"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Above & Beyond",
+      "title": "Hello",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360453",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 4500,
+      "mediaIds": {
+        "spotify": "176748",
+        "youtube": "176748",
+        "soundcloud": "176748",
+        "appleMusic": "176748"
+      },
+      "blendGroup": [
+        {
+          "artist": "Above & Beyond",
+          "title": "Hello",
+          "remix": "",
+          "trackId": "2360453"
+        },
+        {
+          "artist": "Above & Beyond",
+          "title": "Stealing Time (Acappella)",
+          "remix": "",
+          "trackId": "2360883"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Above & Beyond",
+      "title": "Stealing Time (Acappella)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360883",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20284",
+        "youtube": "20284",
+        "soundcloud": "20284",
+        "appleMusic": "20284"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Ilan Bluestone",
+      "title": "43",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360454",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 4800,
+      "mediaIds": {
+        "spotify": "249504",
+        "youtube": "249504",
+        "appleMusic": "249504"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ilan Bluestone",
+          "title": "43",
+          "remix": "",
+          "trackId": "2360454"
+        },
+        {
+          "artist": "Above & Beyond pres. OceanLab",
+          "title": "Sky Falls Down",
+          "remix": "",
+          "trackId": "2360884"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Above & Beyond pres. OceanLab",
+      "title": "Sky Falls Down",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360884",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "62310",
+        "youtube": "62310",
+        "soundcloud": "62310",
+        "appleMusic": "62310"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Above & Beyond pres. OceanLab",
+      "title": "On A Good Day (Ilan Bluestone Remix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360455",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 5100,
+      "mediaIds": {
+        "spotify": "327824",
+        "youtube": "327824",
+        "soundcloud": "327824",
+        "appleMusic": "327824"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Tom Staar vs. Delerium ft. Sarah McLachlan",
+      "title": "Rocket vs. Silence (Above & Beyond It's Not Rocket Silence Mashup)",
+      "remix": "",
+      "label": "NETTWERK/TOOLROOM",
+      "trackId": "2360456",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 5400,
+      "mediaIds": {
+        "youtube": "293418"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Mat Zo",
+      "title": "Synapse Dynamics (ARTY Remix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360457",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 6000,
+      "mediaIds": {
+        "spotify": "27712",
+        "youtube": "27712",
+        "soundcloud": "27712",
+        "appleMusic": "27712"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Above & Beyond ft. Richard Bedford",
+      "title": "Sun & Moon",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "2360458",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 6300,
+      "mediaIds": {
+        "spotify": "27878",
+        "youtube": "27878",
+        "soundcloud": "27878",
+        "appleMusic": "27878"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "515088",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=wD2qdDfwhm8"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "513176",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=pkieTgdWotQ"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:36:25.309Z",
+  "scrapeVersion": 2
+}

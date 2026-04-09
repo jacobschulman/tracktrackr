@@ -1,0 +1,739 @@
+{
+  "tlId": "2tm2mzy9",
+  "dj": "Bassnectar",
+  "stage": "Coachella Festival",
+  "date": "2019-04-13",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/2tm2mzy9/bassnectar-outdoor-theatre-coachella-festival-united-states-2019-04-13.html",
+  "djs": [
+    {
+      "name": "Bassnectar",
+      "slug": "bassnectar"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Bassnectar",
+      "title": "Bass Head",
+      "remix": "(Intro Edit)",
+      "label": "BASSHEAD",
+      "trackId": "4056995",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "136569",
+        "soundcloud": "136569"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bassnectar",
+          "title": "Bass Head",
+          "remix": "(Intro Edit)",
+          "trackId": "4056995"
+        },
+        {
+          "artist": "Eminem",
+          "title": "My Name Is (Acappella)",
+          "remix": "",
+          "trackId": "4056996"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eminem",
+      "title": "My Name Is (Acappella)",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "4056996",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "74953",
+        "youtube": "74953",
+        "soundcloud": "74953",
+        "appleMusic": "74953"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eminem",
+          "title": "My Name Is (Acappella)",
+          "remix": "",
+          "trackId": "4056996"
+        },
+        {
+          "artist": "Clipse",
+          "title": "When The Last Time",
+          "remix": "(Acappella)",
+          "trackId": "4056997"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Clipse",
+      "title": "When The Last Time",
+      "remix": "(Acappella)",
+      "label": "ARISTA",
+      "trackId": "4056997",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "188996",
+        "youtube": "188996",
+        "appleMusic": "188996"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Jantsen & Bassnectar ft. Born I",
+      "title": "It's About To Get Hectic",
+      "remix": "",
+      "label": "AMORPHOUS",
+      "trackId": "4056998",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "516598",
+        "youtube": "516598",
+        "appleMusic": "516598"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Purity Ring",
+      "title": "Flood On The Floor",
+      "remix": "",
+      "label": "4AD",
+      "trackId": "4056999",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300076",
+        "youtube": "300076",
+        "appleMusic": "300076"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Bassnectar",
+      "title": "Pennywise Tribute",
+      "remix": "",
+      "label": "AMORPHOUS",
+      "trackId": "4057000",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "488864",
+        "appleMusic": "488864"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bassnectar",
+          "title": "Pennywise Tribute",
+          "remix": "",
+          "trackId": "4057000"
+        },
+        {
+          "artist": "Jungle Brothers",
+          "title": "Get Down",
+          "remix": "(Acappella)",
+          "trackId": "4059043"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jungle Brothers",
+      "title": "Get Down",
+      "remix": "(Acappella)",
+      "label": "V2",
+      "trackId": "4059043",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "488865",
+        "appleMusic": "488865"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "James Brown",
+      "title": "I Got You (I Feel Good)",
+      "remix": "",
+      "label": "KING RECORDS",
+      "trackId": "4057001",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "90610",
+        "youtube": "90610",
+        "soundcloud": "90610",
+        "appleMusic": "90610"
+      },
+      "blendGroup": [
+        {
+          "artist": "James Brown",
+          "title": "I Got You (I Feel Good)",
+          "remix": "",
+          "trackId": "4057001"
+        },
+        {
+          "artist": "Lil Wayne",
+          "title": "I Feel Good",
+          "remix": "",
+          "trackId": "4057002"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lil Wayne",
+      "title": "I Feel Good",
+      "remix": "",
+      "label": "YOUNG MONEY",
+      "trackId": "4057002",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Lil Wayne",
+          "title": "I Feel Good",
+          "remix": "",
+          "trackId": "4057002"
+        },
+        {
+          "artist": "Bassnectar & Gnar Gnar",
+          "title": "Generate",
+          "remix": "",
+          "trackId": "4057003"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bassnectar & Gnar Gnar",
+      "title": "Generate",
+      "remix": "",
+      "label": "AMORPHOUS",
+      "trackId": "4057003",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "313805"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Emalkay",
+      "title": "For The People",
+      "remix": "",
+      "label": "BRING IT DOWN",
+      "trackId": "4057004",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "232542",
+        "soundcloud": "232542"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Wuki & Ape Drums ft. Nicky Da B",
+      "title": "Bed Squeak (YOOKiE Edit)",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "4057005",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "484248"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Bassnectar & G Jones",
+      "title": "Chromatek",
+      "remix": "",
+      "label": "AMORPHOUS",
+      "trackId": "4057006",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "453531",
+        "youtube": "453531",
+        "soundcloud": "453531",
+        "appleMusic": "453531"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bassnectar & G Jones",
+          "title": "Chromatek",
+          "remix": "",
+          "trackId": "4057006"
+        },
+        {
+          "artist": "Nicki Minaj ft. Sean Garrett",
+          "title": "Massive Attack",
+          "remix": "(Acappella)",
+          "trackId": "4057007"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nicki Minaj ft. Sean Garrett",
+      "title": "Massive Attack",
+      "remix": "(Acappella)",
+      "label": "YOUNG MONEY (CASH MONEY)",
+      "trackId": "4057007",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "195638",
+        "appleMusic": "195638"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nicki Minaj ft. Sean Garrett",
+          "title": "Massive Attack",
+          "remix": "(Acappella)",
+          "trackId": "4057007"
+        },
+        {
+          "artist": "M.I.A.",
+          "title": "Borders",
+          "remix": "(Acappella)",
+          "trackId": "4059044"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "M.I.A.",
+      "title": "Borders",
+      "remix": "(Acappella)",
+      "label": "INTERSCOPE",
+      "trackId": "4059044",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "488866",
+        "youtube": "488866",
+        "appleMusic": "488866"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Bill Hicks Speech",
+      "title": "It's Just A Ride",
+      "remix": "",
+      "label": "",
+      "trackId": "4059045",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Bassnectar & PEEKABOO ft. Born I",
+      "title": "Illusion",
+      "remix": "",
+      "label": "AMORPHOUS",
+      "trackId": "4057008",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "486375",
+        "youtube": "486375",
+        "soundcloud": "486375",
+        "appleMusic": "486375"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Danny Brown ft. Kendrick Lamar & Ab-Soul & Earl Sweatshirt",
+      "title": "Really Doe",
+      "remix": "",
+      "label": "WARP",
+      "trackId": "4059046",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "386124",
+        "youtube": "386124",
+        "soundcloud": "386124",
+        "appleMusic": "386124"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Phiso",
+      "title": "Jotaro (JSTJR & Positron Flip)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4059047",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "488867",
+        "soundcloud": "488867"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Eliminate",
+      "title": "Snake Bite (VIP)",
+      "remix": "",
+      "label": "ARTIST INTELLIGENCE",
+      "trackId": "4059048",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "337607",
+        "youtube": "337607",
+        "soundcloud": "337607",
+        "appleMusic": "337607"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eliminate",
+          "title": "Snake Bite (VIP)",
+          "remix": "",
+          "trackId": "4059048"
+        },
+        {
+          "artist": "Three 6 Mafia",
+          "title": "Stay Fly (Acappella)",
+          "remix": "",
+          "trackId": "4059049"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Three 6 Mafia",
+      "title": "Stay Fly (Acappella)",
+      "remix": "",
+      "label": "SONY BMG",
+      "trackId": "4059049",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "91123",
+        "youtube": "91123",
+        "soundcloud": "91123",
+        "appleMusic": "91123"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Hex Cougar",
+      "title": "Hexifornia (Gesaffelstein Cover)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4059050",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "307853",
+        "soundcloud": "307853"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hex Cougar",
+          "title": "Hexifornia (Gesaffelstein Cover)",
+          "remix": "",
+          "trackId": "4059050"
+        },
+        {
+          "artist": "Pharoahe Monch",
+          "title": "Simon Says (Acappella)",
+          "remix": "",
+          "trackId": "4059051"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pharoahe Monch",
+      "title": "Simon Says (Acappella)",
+      "remix": "",
+      "label": "RAWKUS",
+      "trackId": "4059051",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "45635",
+        "youtube": "45635",
+        "soundcloud": "45635",
+        "appleMusic": "45635"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pharoahe Monch",
+          "title": "Simon Says (Acappella)",
+          "remix": "",
+          "trackId": "4059051"
+        },
+        {
+          "artist": "Busta Rhymes",
+          "title": "Dangerous (Acappella)",
+          "remix": "",
+          "trackId": "4059052"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Busta Rhymes",
+      "title": "Dangerous (Acappella)",
+      "remix": "",
+      "label": "ELEKTRA",
+      "trackId": "4059052",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "240427",
+        "youtube": "240427",
+        "soundcloud": "240427",
+        "appleMusic": "240427"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "David Banner",
+      "title": "Play",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "4059053",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "91165",
+        "youtube": "91165",
+        "appleMusic": "91165"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "HUCCI",
+      "title": "Hitta (VIP)",
+      "remix": "",
+      "label": "HUCCI WORLDWIDE",
+      "trackId": "4059054",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "250365",
+        "soundcloud": "250365"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Sole & JC",
+      "title": "What It Is",
+      "remix": "",
+      "label": "OM",
+      "trackId": "4059055",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Princess Superstar",
+      "title": "My Machine (Bassnectar Remix)",
+      "remix": "",
+      "label": "!K7",
+      "trackId": "4059056",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Travis Scott ft. Kendrick Lamar",
+      "title": "Goosebumps (NGHTMRE Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4059057",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "344111",
+        "soundcloud": "344111",
+        "appleMusic": "344111"
+      },
+      "blendGroup": [
+        {
+          "artist": "Travis Scott ft. Kendrick Lamar",
+          "title": "Goosebumps (NGHTMRE Remix)",
+          "remix": "",
+          "trackId": "4059057"
+        },
+        {
+          "artist": "Kraze",
+          "title": "The Party (Acappella)",
+          "remix": "",
+          "trackId": "4059058"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kraze",
+      "title": "The Party (Acappella)",
+      "remix": "",
+      "label": "MCA",
+      "trackId": "4059058",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "20",
+      "artist": "Bassnectar ft. Donnis",
+      "title": "Noise",
+      "remix": "",
+      "label": "AMORPHOUS",
+      "trackId": "4059059",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "213240"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bassnectar ft. Donnis",
+          "title": "Noise",
+          "remix": "",
+          "trackId": "4059059"
+        },
+        {
+          "artist": "Missy Elliott",
+          "title": "Get UR Freak On (Acappella)",
+          "remix": "",
+          "trackId": "4059060"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Missy Elliott",
+      "title": "Get UR Freak On (Acappella)",
+      "remix": "",
+      "label": "ELEKTRA",
+      "trackId": "4059060",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "18014",
+        "youtube": "18014",
+        "soundcloud": "18014",
+        "appleMusic": "18014"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Bassnectar & DIGITAL ETHOS",
+      "title": "Slather",
+      "remix": "",
+      "label": "AMORPHOUS",
+      "trackId": "4059061",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "447703",
+        "youtube": "447703",
+        "soundcloud": "447703",
+        "appleMusic": "447703"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bassnectar & DIGITAL ETHOS",
+          "title": "Slather",
+          "remix": "",
+          "trackId": "4059061"
+        },
+        {
+          "artist": "Technotronic",
+          "title": "Pump Up The Jam (Acappella)",
+          "remix": "",
+          "trackId": "4059062"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Technotronic",
+      "title": "Pump Up The Jam (Acappella)",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "4059062",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5108",
+        "youtube": "10191",
+        "soundcloud": "5108",
+        "appleMusic": "5108"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T04:12:35.618Z",
+  "scrapeVersion": 2
+}

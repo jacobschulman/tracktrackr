@@ -1,0 +1,645 @@
+{
+  "tlId": "2vr9ctuk",
+  "dj": "Virtual Riot",
+  "stage": "EDC Mexico",
+  "date": "2024-02-24",
+  "year": 2024,
+  "url": "https://www.1001tracklists.com/tracklist/2vr9ctuk/virtual-riot-wasteland-edc-mexico-2024-02-24.html",
+  "djs": [
+    {
+      "name": "Virtual Riot",
+      "slug": "virtualriot"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Virtual Riot",
+      "title": "Rocket Launch Intro",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "10213730",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "883452",
+        "soundcloud": "883452"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Virtual Riot",
+      "title": "REDLINE",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "10213732",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "722494",
+        "youtube": "722494",
+        "soundcloud": "722494",
+        "appleMusic": "722494"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Virtual Riot",
+      "title": "REDLINE (Eliminate Extremely Low Effort Unnecessary Edit)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "10213733",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "830942",
+        "soundcloud": "830942"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Ray Volpe",
+      "title": "Laserbeam (Virtual Riot Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "10213734",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "854804",
+        "soundcloud": "854804"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ray Volpe",
+          "title": "Laserbeam (Virtual Riot Remix)",
+          "remix": "",
+          "trackId": "10213734"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "Destroy Them With Lazers",
+          "remix": "(Acappella)",
+          "trackId": "10213735"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "Destroy Them With Lazers",
+      "remix": "(Acappella)",
+      "label": "EARSTORM",
+      "trackId": "10213735",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "57185",
+        "youtube": "57185",
+        "soundcloud": "57185",
+        "appleMusic": "57185"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Eliminate",
+      "title": "No Sleep",
+      "remix": "",
+      "label": "TWONK",
+      "trackId": "10213736",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "382114",
+        "youtube": "382114",
+        "soundcloud": "382114",
+        "appleMusic": "382114"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eliminate",
+          "title": "No Sleep",
+          "remix": "",
+          "trackId": "10213736"
+        },
+        {
+          "artist": "Kendrick Lamar",
+          "title": "HUMBLE. (Skrillex Remix)",
+          "remix": "",
+          "trackId": "10213737"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kendrick Lamar",
+      "title": "HUMBLE. (Skrillex Remix)",
+      "remix": "",
+      "label": "TOP DAWG",
+      "trackId": "10213737",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "373720",
+        "youtube": "373720",
+        "soundcloud": "373720",
+        "appleMusic": "373720"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Skrillex & PEEKABOO & G-REX & Flowdan",
+      "title": "Badders (Virtual Riot Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "10213738",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "932572",
+        "soundcloud": "932572"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Darude",
+      "title": "Sandstorm",
+      "remix": "",
+      "label": "NEO RECORDS/ROBBINS",
+      "trackId": "10213739",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "17045",
+        "youtube": "17045",
+        "soundcloud": "17045",
+        "appleMusic": "17045"
+      },
+      "blendGroup": [
+        {
+          "artist": "Darude",
+          "title": "Sandstorm",
+          "remix": "",
+          "trackId": "10213739"
+        },
+        {
+          "artist": "Skrillex & Fred again.. & Flowdan",
+          "title": "Rumble (Virtual Riot Remix)",
+          "remix": "",
+          "trackId": "10213740"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Fred again.. & Flowdan",
+      "title": "Rumble (Virtual Riot Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "10213740",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "878375",
+        "soundcloud": "878375"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Virtual Riot",
+      "title": "Touhou Riddim (Subtronics Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "10213741",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "825938",
+        "youtube": "825938",
+        "soundcloud": "825938",
+        "appleMusic": "825938"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Virtual Riot",
+      "title": "We're Not Alone (2023 VIP)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "10213742",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "882292",
+        "youtube": "882292",
+        "soundcloud": "882292",
+        "appleMusic": "882292"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Virtual Riot & Modestep ft. Frank Zummo",
+      "title": "This Could Be Us (VIP)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "10213743",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1073920",
+        "soundcloud": "1073920"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Kaskade ft. Ilsey",
+      "title": "Disarm You (Virtual Riot Remix)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "10213744",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "577214",
+        "soundcloud": "577214"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kaskade ft. Ilsey",
+          "title": "Disarm You (Virtual Riot Remix)",
+          "remix": "",
+          "trackId": "10213744"
+        },
+        {
+          "artist": "Virtual Riot",
+          "title": "Touhou Riddim",
+          "remix": "",
+          "trackId": "10213745"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Virtual Riot",
+      "title": "Touhou Riddim",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "10213745",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "721955",
+        "youtube": "721955",
+        "soundcloud": "721955",
+        "appleMusic": "721955"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Virtual Riot & Infekt",
+      "title": "Das Riddim",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "10213746",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "519172",
+        "youtube": "519172",
+        "soundcloud": "519172",
+        "appleMusic": "519172"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Virtual Riot",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10213747",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Hamdi",
+      "title": "Skanka (TYNAN Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "10213748",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "966382",
+        "soundcloud": "966382"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "The Kid LAROI & Justin Bieber vs. SVDDEN DEATH",
+      "title": "Stay For The Behemoth (Virtual Riot Edit)",
+      "remix": "",
+      "label": "SELF RELEASED/COLUMBIA (SONY)",
+      "trackId": "10213749",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "884730"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Virtual Riot",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10213750",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Virtual Riot",
+          "title": "ID",
+          "remix": "",
+          "trackId": "10213750"
+        },
+        {
+          "artist": "Swedish House Mafia",
+          "title": "It Gets Better",
+          "remix": "(Acappella)",
+          "trackId": "10213751"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia",
+      "title": "It Gets Better",
+      "remix": "(Acappella)",
+      "label": "SSA/REPUBLIC",
+      "trackId": "10213751",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "513628",
+        "youtube": "513628",
+        "soundcloud": "513628",
+        "appleMusic": "513628"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia",
+          "title": "It Gets Better",
+          "remix": "(Acappella)",
+          "trackId": "10213751"
+        },
+        {
+          "artist": "Kelis",
+          "title": "Milkshake",
+          "remix": "(Acappella)",
+          "trackId": "10213752"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kelis",
+      "title": "Milkshake",
+      "remix": "(Acappella)",
+      "label": "ARISTA",
+      "trackId": "10213752",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "15443",
+        "youtube": "15443",
+        "soundcloud": "15443",
+        "appleMusic": "15443"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Virtual Riot",
+      "title": "One Two (VIP)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "10213753",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "584171"
+      },
+      "blendGroup": [
+        {
+          "artist": "Virtual Riot",
+          "title": "One Two (VIP)",
+          "remix": "",
+          "trackId": "10213753"
+        },
+        {
+          "artist": "Virtual Riot",
+          "title": "Wallmonger",
+          "remix": "",
+          "trackId": "10213754"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Virtual Riot",
+      "title": "Wallmonger",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "10213754",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "497014",
+        "youtube": "497014",
+        "soundcloud": "497014",
+        "appleMusic": "497014"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Virtual Riot",
+      "title": "Gourmet Race",
+      "remix": "",
+      "label": "PATREON",
+      "trackId": "10213755",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "979144",
+        "soundcloud": "979144"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "BARELY ALIVE",
+      "title": "Be Mine",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "10213756",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "475087",
+        "youtube": "475087",
+        "soundcloud": "475087",
+        "appleMusic": "475087"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Valentino Khan",
+      "title": "Pony (Eliminate Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "10213758",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "548712",
+        "youtube": "548712",
+        "soundcloud": "548712",
+        "appleMusic": "548712"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Taylor Swift ft. Kendrick Lamar",
+      "title": "Bad Blood (Acappella)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "10213759",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "261279",
+        "youtube": "261279",
+        "soundcloud": "261279",
+        "appleMusic": "261279"
+      },
+      "blendGroup": [
+        {
+          "artist": "Taylor Swift ft. Kendrick Lamar",
+          "title": "Bad Blood (Acappella)",
+          "remix": "",
+          "trackId": "10213759"
+        },
+        {
+          "artist": "Virtual Riot",
+          "title": "now we got problems",
+          "remix": "",
+          "trackId": "10213760"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Virtual Riot",
+      "title": "now we got problems",
+      "remix": "",
+      "label": "PATREON",
+      "trackId": "10213760",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "966516",
+        "soundcloud": "966516"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Virtual Riot",
+      "title": "This Much Edits",
+      "remix": "",
+      "label": "OWSLA/ATLANTIC",
+      "trackId": "10213762",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "933704"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Virtual Riot",
+      "title": "Energy Drink",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "10213763",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "138135",
+        "youtube": "138135",
+        "soundcloud": "138135"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3990811",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=q0UXAV5NXvY"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:39:20.084Z",
+  "scrapeVersion": 2
+}

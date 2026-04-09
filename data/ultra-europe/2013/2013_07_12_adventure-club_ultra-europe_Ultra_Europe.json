@@ -1,0 +1,666 @@
+{
+  "tlId": "11rt741",
+  "dj": "Adventure Club",
+  "stage": "Ultra Europe",
+  "date": "2013-07-12",
+  "year": 2013,
+  "url": "https://www.1001tracklists.com/tracklist/11rt741/adventure-club-ultra-europe-croatia-2013-07-12.html",
+  "djs": [
+    {
+      "name": "Adventure Club",
+      "slug": "adventureclub"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "The Aston Shuffle vs. Tommy Trash",
+      "title": "Sunrise (Won't Get Lost) (Tommy Trash Version)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "563723",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 70,
+      "mediaIds": {
+        "spotify": "88224",
+        "youtube": "88224",
+        "soundcloud": "88224",
+        "appleMusic": "88224"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Quartus Saul",
+      "title": "Los Angeles (Tim Ismag Remix)",
+      "remix": "",
+      "label": "PLAY ME",
+      "trackId": "587140",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 107,
+      "mediaIds": {
+        "soundcloud": "126527"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Knife Party",
+      "title": "LRAD",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "563724",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 150,
+      "mediaIds": {
+        "spotify": "117950",
+        "youtube": "117950",
+        "soundcloud": "117950",
+        "appleMusic": "117950"
+      },
+      "blendGroup": [
+        {
+          "artist": "Knife Party",
+          "title": "LRAD",
+          "remix": "",
+          "trackId": "563724"
+        },
+        {
+          "artist": "Skrillex ft. Ellie Goulding",
+          "title": "Summit (Acappella)",
+          "remix": "",
+          "trackId": "587141"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex ft. Ellie Goulding",
+      "title": "Summit (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT/OWSLA",
+      "trackId": "587141",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 150,
+      "mediaIds": {
+        "spotify": "61702",
+        "youtube": "61702",
+        "soundcloud": "61702",
+        "appleMusic": "61702"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Adventure Club",
+      "title": "Thunderclap",
+      "remix": "",
+      "label": "BMG",
+      "trackId": "563725",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 215,
+      "mediaIds": {
+        "spotify": "157031",
+        "youtube": "157031",
+        "soundcloud": "157031",
+        "appleMusic": "157031"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Martin Garrix",
+      "title": "Animals",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "563726",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 350,
+      "mediaIds": {
+        "spotify": "133924",
+        "youtube": "133924",
+        "soundcloud": "133924",
+        "appleMusic": "133924"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Noisecontrollers & Showtek",
+      "title": "Get Loose",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "563727",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 430,
+      "mediaIds": {
+        "spotify": "100329",
+        "youtube": "100329",
+        "soundcloud": "100329",
+        "appleMusic": "100329"
+      },
+      "blendGroup": [
+        {
+          "artist": "Noisecontrollers & Showtek",
+          "title": "Get Loose",
+          "remix": "",
+          "trackId": "563727"
+        },
+        {
+          "artist": "Carnage & Tony Junior",
+          "title": "Michael Jordan",
+          "remix": "",
+          "trackId": "563728"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Carnage & Tony Junior",
+      "title": "Michael Jordan",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "563728",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "141338",
+        "youtube": "141338",
+        "soundcloud": "141338",
+        "appleMusic": "141338"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "GTA",
+      "title": "Ai Novinha",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "563729",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 490,
+      "mediaIds": {
+        "soundcloud": "104008"
+      },
+      "blendGroup": [
+        {
+          "artist": "GTA",
+          "title": "Ai Novinha",
+          "remix": "",
+          "trackId": "563729"
+        },
+        {
+          "artist": "Maurizio Gubellini & Nari & Milani ft. Nicci",
+          "title": "Vago",
+          "remix": "",
+          "trackId": "563730"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Maurizio Gubellini & Nari & Milani ft. Nicci",
+      "title": "Vago",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "563730",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "60805",
+        "youtube": "60805",
+        "soundcloud": "60805",
+        "appleMusic": "60805"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Felix Cartal ft. Maja Ivarsson",
+      "title": "Tonight (AutoErotique Remix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "563731",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 600,
+      "mediaIds": {
+        "spotify": "88867",
+        "youtube": "88867",
+        "soundcloud": "88867",
+        "appleMusic": "88867"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "AFROJACK",
+      "title": "Annie's Theme (Carnage Festival Trap Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "563732",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 660,
+      "mediaIds": {
+        "youtube": "101407",
+        "soundcloud": "101407"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Laidback Luke ft. Majestic",
+      "title": "Pogo",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "563734",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 780,
+      "mediaIds": {
+        "spotify": "110124",
+        "youtube": "110124",
+        "soundcloud": "110124",
+        "appleMusic": "110124"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Roberto Da Costa",
+      "title": "Excited (SICK INDIVIDUALS Remix)",
+      "remix": "",
+      "label": "BIG & DIRTY (BE YOURSELF)",
+      "trackId": "563735",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "88371",
+        "youtube": "88371",
+        "soundcloud": "88371",
+        "appleMusic": "88371"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Tiësto",
+      "title": "Chasing Summers (R3HAB & Quintino Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "563736",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "100112",
+        "youtube": "100112",
+        "soundcloud": "100112",
+        "appleMusic": "100112"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "W&W",
+      "title": "Thunder",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "563737",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "133689",
+        "youtube": "133689",
+        "soundcloud": "133689",
+        "appleMusic": "133689"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Adventure Club ft. Krewella",
+      "title": "Rise And Fall",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "563738",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "80055",
+        "youtube": "80055",
+        "soundcloud": "80055",
+        "appleMusic": "80055"
+      },
+      "blendGroup": [
+        {
+          "artist": "Adventure Club ft. Krewella",
+          "title": "Rise And Fall",
+          "remix": "",
+          "trackId": "563738"
+        },
+        {
+          "artist": "Adventure Club ft. Krewella",
+          "title": "Rise And Fall (KDrew Remix)",
+          "remix": "",
+          "trackId": "563739"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Adventure Club ft. Krewella",
+      "title": "Rise And Fall (KDrew Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "563739",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "92746",
+        "soundcloud": "92746"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Foxes",
+      "title": "Youth (Adventure Club Dubstep Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "563740",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1230,
+      "mediaIds": {
+        "spotify": "126225",
+        "youtube": "126225",
+        "soundcloud": "126225",
+        "appleMusic": "126225"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Adventure Club ft. Kai",
+      "title": "Need Your Heart",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "563741",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1410,
+      "mediaIds": {
+        "youtube": "126226",
+        "soundcloud": "126226"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Zedd ft. Foxes",
+      "title": "Clarity (Brillz Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "563743",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1530,
+      "mediaIds": {
+        "spotify": "117932",
+        "youtube": "117932",
+        "soundcloud": "117932",
+        "appleMusic": "117932"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Sub Focus ft. Kenzie May",
+      "title": "Falling Down (VIP)",
+      "remix": "",
+      "label": "MERCURY (UMG)",
+      "trackId": "563744",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1690,
+      "mediaIds": {
+        "spotify": "72884",
+        "youtube": "72884",
+        "soundcloud": "72884",
+        "appleMusic": "72884"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Bingo Players",
+      "title": "Cry (Just A Little) (Kids At The Bar Bootleg Remix)",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "563745",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1820,
+      "mediaIds": {
+        "youtube": "39328"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Gent & Jawns",
+      "title": "Turn Up",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "563746",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1925,
+      "mediaIds": {
+        "spotify": "112878",
+        "youtube": "112878",
+        "soundcloud": "112878",
+        "appleMusic": "112878"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Showtek",
+      "title": "Crunk",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "563747",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1970,
+      "mediaIds": {
+        "spotify": "100848",
+        "youtube": "100848",
+        "soundcloud": "100848",
+        "appleMusic": "100848"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Zedd",
+      "title": "Slam The Door (Rogue Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "563748",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2100,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Young Jeezy ft. Kanye West",
+      "title": "Put On (Adventure Club Dubstep Remix)",
+      "remix": "",
+      "label": "ISLAND DEF JAM (UMG)",
+      "trackId": "563749",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2160,
+      "mediaIds": {
+        "soundcloud": "129025"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Buraka Som Sistema",
+      "title": "Hangover (BaBaBa) (Dead Robot Remix)",
+      "remix": "",
+      "label": "ENCHUFADA",
+      "trackId": "563750",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2280,
+      "mediaIds": {
+        "youtube": "129026",
+        "soundcloud": "129026"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "The Partysquad & Boaz van de Beatz",
+      "title": "Oh My",
+      "remix": "",
+      "label": "REBEL YARD (SPINNIN')",
+      "trackId": "563751",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2370,
+      "mediaIds": {
+        "spotify": "106476",
+        "youtube": "106476",
+        "soundcloud": "106476",
+        "appleMusic": "106476"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Dimitri Vegas & MOGUAI & Like Mike",
+      "title": "Mammoth (Heroes x Villains & Carnage Remix)",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "563752",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2490,
+      "mediaIds": {
+        "spotify": "133125",
+        "youtube": "133125",
+        "soundcloud": "133125",
+        "appleMusic": "133125"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Krewella",
+      "title": "Alive (Pegboard Nerds Remix)",
+      "remix": "",
+      "label": "KREWELLA",
+      "trackId": "563753",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2700,
+      "mediaIds": {
+        "spotify": "107668",
+        "youtube": "107668",
+        "soundcloud": "107668",
+        "appleMusic": "107668"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Above & Beyond ft. Richard Bedford",
+      "title": "Sun & Moon (Taiki Nulight Remix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "563754",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2760,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Flight Facilities ft. Giselle",
+      "title": "Crave You (Adventure Club Dubstep Remix)",
+      "remix": "",
+      "label": "BANG GANG",
+      "trackId": "563755",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3000,
+      "mediaIds": {
+        "spotify": "107597",
+        "youtube": "107597",
+        "soundcloud": "107597",
+        "appleMusic": "107597"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Yuna",
+      "title": "Lullabies (Adventure Club Remix)",
+      "remix": "",
+      "label": "FADER",
+      "trackId": "563756",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "126230",
+        "youtube": "126230",
+        "soundcloud": "126230",
+        "appleMusic": "126230"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "3499453",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/UMFradio"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "4258337",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=giE7m6IhaFo"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:54:24.009Z",
+  "scrapeVersion": 2
+}

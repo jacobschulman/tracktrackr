@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { StageBadge } from '@/components/StageBadge';
+import { FestivalBadge } from '@/components/FestivalBadge';
 import { playInBar } from '@/components/PlayerBar';
 
 // ── Year selector as pill buttons ──────────────────────────────────
@@ -32,6 +33,7 @@ interface SetCardData {
   djName: string;
   stage: string;
   stageColor: string;
+  festival: string;
   date: string;
   dateFormatted: string;
   duration: string;
@@ -44,16 +46,22 @@ interface SetCardData {
   totalTracks: number;
 }
 
+interface FestivalLabel {
+  slug: string;
+  shortName: string;
+  accent: string;
+}
+
 type MediaFilter = 'all' | 'youtube' | 'soundcloud';
 
-export function FilterableSetGrid({ sets, stages }: { sets: SetCardData[]; stages: string[] }) {
+export function FilterableSetGrid({ sets, festivalLabels }: { sets: SetCardData[]; festivalLabels: FestivalLabel[] }) {
   const [mediaFilter, setMediaFilter] = useState<MediaFilter>('all');
-  const [stageFilter, setStageFilter] = useState<string>('all');
+  const [festivalFilter, setFestivalFilter] = useState<string>('all');
 
   const filtered = sets.filter(s => {
     if (mediaFilter === 'youtube' && !s.hasYouTube) return false;
     if (mediaFilter === 'soundcloud' && !s.hasSoundCloud) return false;
-    if (stageFilter !== 'all' && s.stage !== stageFilter) return false;
+    if (festivalFilter !== 'all' && s.festival !== festivalFilter) return false;
     return true;
   });
 
@@ -63,59 +71,63 @@ export function FilterableSetGrid({ sets, stages }: { sets: SetCardData[]; stage
   return (
     <>
       {/* Filters */}
-      <div className="sets-filters">
-        {/* Media filters */}
-        <div className="sets-filter-row">
-          <span className="filter-label">Listen</span>
-          <button
-            className={`filter-chip${mediaFilter === 'all' ? ' active' : ''}`}
-            onClick={() => setMediaFilter('all')}
-          >
-            All sets
-          </button>
-          {ytCount > 0 && (
+      <div className="sets-filters" style={{ display: 'flex', gap: 8, alignItems: 'center', flexWrap: 'wrap', marginBottom: 12 }}>
+        {/* Festival filters */}
+        {festivalLabels.length > 1 && (
+          <>
             <button
-              className={`filter-chip filter-chip-yt${mediaFilter === 'youtube' ? ' active' : ''}`}
-              onClick={() => setMediaFilter(mediaFilter === 'youtube' ? 'all' : 'youtube')}
+              className={`filter-chip${festivalFilter === 'all' ? ' active' : ''}`}
+              onClick={() => setFestivalFilter('all')}
             >
-              ▶ YouTube ({ytCount})
+              All Festivals
             </button>
-          )}
-          {scCount > 0 && (
-            <button
-              className={`filter-chip filter-chip-sc${mediaFilter === 'soundcloud' ? ' active' : ''}`}
-              onClick={() => setMediaFilter(mediaFilter === 'soundcloud' ? 'all' : 'soundcloud')}
-            >
-              ▶ SoundCloud ({scCount})
-            </button>
-          )}
-        </div>
-
-        {/* Stage filters */}
-        {stages.length > 1 && (
-          <div className="sets-filter-row">
-            <span className="filter-label">Stage</span>
-            <button
-              className={`filter-chip${stageFilter === 'all' ? ' active' : ''}`}
-              onClick={() => setStageFilter('all')}
-            >
-              All
-            </button>
-            {stages.map(stage => (
+            {festivalLabels.map(f => (
               <button
-                key={stage}
-                className={`filter-chip${stageFilter === stage ? ' active' : ''}`}
-                onClick={() => setStageFilter(stageFilter === stage ? 'all' : stage)}
+                key={f.slug}
+                className={`filter-chip${festivalFilter === f.slug ? ' active' : ''}`}
+                onClick={() => setFestivalFilter(f.slug)}
+                style={festivalFilter === f.slug ? {
+                  borderColor: f.accent,
+                  color: f.accent,
+                  background: `${f.accent}15`,
+                  boxShadow: `0 0 0 1px ${f.accent}, 0 1px 4px ${f.accent}40`,
+                } : undefined}
               >
-                {stage}
+                <span style={{ width: 6, height: 6, borderRadius: '50%', background: f.accent, flexShrink: 0 }} />
+                {f.shortName}
               </button>
             ))}
-          </div>
+            <span style={{ width: 1, height: 20, background: 'var(--border)', margin: '0 4px' }} />
+          </>
+        )}
+
+        {/* Media filters */}
+        <button
+          className={`filter-chip${mediaFilter === 'all' ? ' active' : ''}`}
+          onClick={() => setMediaFilter('all')}
+        >
+          All sets
+        </button>
+        {ytCount > 0 && (
+          <button
+            className={`filter-chip filter-chip-yt${mediaFilter === 'youtube' ? ' active' : ''}`}
+            onClick={() => setMediaFilter(mediaFilter === 'youtube' ? 'all' : 'youtube')}
+          >
+            &#9654; YouTube ({ytCount})
+          </button>
+        )}
+        {scCount > 0 && (
+          <button
+            className={`filter-chip filter-chip-sc${mediaFilter === 'soundcloud' ? ' active' : ''}`}
+            onClick={() => setMediaFilter(mediaFilter === 'soundcloud' ? 'all' : 'soundcloud')}
+          >
+            &#9654; SoundCloud ({scCount})
+          </button>
         )}
       </div>
 
       {/* Results count */}
-      {(mediaFilter !== 'all' || stageFilter !== 'all') && (
+      {(mediaFilter !== 'all' || festivalFilter !== 'all') && (
         <div style={{ fontSize: '0.75rem', color: 'var(--muted)', marginBottom: 12 }}>
           Showing {filtered.length} of {sets.length} sets
         </div>
@@ -131,6 +143,7 @@ export function FilterableSetGrid({ sets, stages }: { sets: SetCardData[]; stage
             >
               <div className="set-card-dj">{s.djName}</div>
               <div className="set-card-meta" style={{ marginBottom: 8 }}>
+                <FestivalBadge festival={s.festival} size="sm" />
                 <StageBadge stage={s.stage} />
                 <span className="separator">&middot;</span>
                 <span>{s.dateFormatted}</span>
@@ -170,7 +183,7 @@ export function FilterableSetGrid({ sets, stages }: { sets: SetCardData[]; stage
                       playInBar('youtube', s.ytUrl!, `${s.djName} @ ${s.stage}`, s.tlId);
                     }}
                   >
-                    ▶ YouTube
+                    &#9654; YouTube
                   </button>
                 )}
                 {s.hasSoundCloud && (
@@ -181,7 +194,7 @@ export function FilterableSetGrid({ sets, stages }: { sets: SetCardData[]; stage
                       playInBar('soundcloud', s.scUrl!, `${s.djName} @ ${s.stage}`, s.tlId);
                     }}
                   >
-                    ▶ SoundCloud
+                    &#9654; SoundCloud
                   </button>
                 )}
               </div>

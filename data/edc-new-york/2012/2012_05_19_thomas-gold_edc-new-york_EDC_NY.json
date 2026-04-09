@@ -1,0 +1,636 @@
+{
+  "tlId": "579wkrt",
+  "dj": "Thomas Gold",
+  "stage": "EDC New York",
+  "date": "2012-05-19",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/579wkrt/thomas-gold-cosmicmeadow-edc-new-york-united-states-2012-05-19.html",
+  "djs": [
+    {
+      "name": "Thomas Gold",
+      "slug": "thomasgold"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Thomas Gold",
+      "title": "Marsch Marsch",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "269507",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "22632",
+        "youtube": "22632",
+        "appleMusic": "22632"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Miike Snow",
+      "title": "The Wave (Thomas Gold Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "228927",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "68320",
+        "youtube": "68320",
+        "soundcloud": "68320",
+        "appleMusic": "68320"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Skrillex & The Doors",
+      "title": "Breakin' A Sweat (It's Alright) (Zedd Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "228928",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "61964",
+        "youtube": "61964",
+        "soundcloud": "61964",
+        "appleMusic": "61964"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & The Doors",
+          "title": "Breakin' A Sweat (It's Alright) (Zedd Remix)",
+          "remix": "",
+          "trackId": "228928"
+        },
+        {
+          "artist": "Fedde Le Grand & Deniz Koyu & Deniz Koyu & Johan Wedel",
+          "title": "Turn It",
+          "remix": "",
+          "trackId": "241845"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fedde Le Grand & Deniz Koyu & Deniz Koyu & Johan Wedel",
+      "title": "Turn It",
+      "remix": "",
+      "label": "FLAMINGO",
+      "trackId": "241845",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "58922",
+        "youtube": "58922",
+        "soundcloud": "58922",
+        "appleMusic": "58922"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Thomas Gold vs. Red Carpet",
+      "title": "Sing2Me vs. Alright (Thomas Gold Mashup)",
+      "remix": "",
+      "label": "A&S PRODUCTIONS/AXTONE",
+      "trackId": "228929",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Thomas Gold vs. Red Carpet",
+          "title": "Sing2Me vs. Alright (Thomas Gold Mashup)",
+          "remix": "",
+          "trackId": "228929"
+        },
+        {
+          "artist": "Delerium ft. Sarah McLachlan",
+          "title": "Silence (Acappella)",
+          "remix": "",
+          "trackId": "228930"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Delerium ft. Sarah McLachlan",
+      "title": "Silence (Acappella)",
+      "remix": "",
+      "label": "NETTWERK",
+      "trackId": "228930",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1787",
+        "youtube": "48624",
+        "soundcloud": "1787",
+        "appleMusic": "1787"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Adrian Lux",
+      "title": "Teenage Crime (Thomas Gold 2012 Rework)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "228932",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "76010",
+        "youtube": "76010",
+        "appleMusic": "76010"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Hard Rock Sofa",
+      "title": "Quasar",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "228933",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "58241",
+        "youtube": "58241",
+        "soundcloud": "58241",
+        "appleMusic": "58241"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hard Rock Sofa",
+          "title": "Quasar",
+          "remix": "",
+          "trackId": "228933"
+        },
+        {
+          "artist": "John Dahlbäck",
+          "title": "Blink",
+          "remix": "",
+          "trackId": "228934"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "John Dahlbäck",
+      "title": "Blink",
+      "remix": "",
+      "label": "MUTANTS",
+      "trackId": "228934",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1534",
+        "youtube": "1534",
+        "soundcloud": "1534",
+        "appleMusic": "1534"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Martin Solveig",
+      "title": "The Night Out",
+      "remix": "",
+      "label": "MIXTURE",
+      "trackId": "228935",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "33659",
+        "youtube": "33659",
+        "soundcloud": "33659",
+        "appleMusic": "33659"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Solveig",
+          "title": "The Night Out",
+          "remix": "",
+          "trackId": "228935"
+        },
+        {
+          "artist": "DJ Punish",
+          "title": "Industrial Sound",
+          "remix": "",
+          "trackId": "228936"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Punish",
+      "title": "Industrial Sound",
+      "remix": "",
+      "label": "REBEL YARD (SPINNIN')",
+      "trackId": "228936",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "70387",
+        "youtube": "70387",
+        "soundcloud": "70387",
+        "appleMusic": "70387"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Thomas Gold vs. The Police vs. Leventina",
+      "title": "Abart vs. Message In A Bottle vs. We're Gonna Start (Thomas Gold SOS Mashup)",
+      "remix": "",
+      "label": "UNRELEASED DIGITAL/A&M",
+      "trackId": "228937",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Thomas Gold",
+      "title": "Agora (Thomas Gold 2012 Rework)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "228940",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Etta James",
+      "title": "Something's Got A Hold On Me (Acappella)",
+      "remix": "",
+      "label": "ARGO",
+      "trackId": "228941",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30650",
+        "youtube": "30650",
+        "soundcloud": "30650",
+        "appleMusic": "30650"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Pryda",
+      "title": "Allein",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "228942",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "73464",
+        "youtube": "73464",
+        "soundcloud": "73464",
+        "appleMusic": "73464"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pryda",
+          "title": "Allein",
+          "remix": "",
+          "trackId": "228942"
+        },
+        {
+          "artist": "fRew ft. John Dubbs & Honorebel",
+          "title": "Wicked Woman (Tommy Trash Remix)",
+          "remix": "",
+          "trackId": "228943"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "fRew ft. John Dubbs & Honorebel",
+      "title": "Wicked Woman (Tommy Trash Remix)",
+      "remix": "",
+      "label": "ONELOVE",
+      "trackId": "228943",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "67619",
+        "youtube": "67619",
+        "appleMusic": "67619"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Michael Calfan",
+      "title": "Resurrection (Axwell Re-Cut Club Version)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "228944",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "54981",
+        "youtube": "54981",
+        "soundcloud": "54981",
+        "appleMusic": "54981"
+      },
+      "blendGroup": [
+        {
+          "artist": "Michael Calfan",
+          "title": "Resurrection (Axwell Re-Cut Club Version)",
+          "remix": "",
+          "trackId": "228944"
+        },
+        {
+          "artist": "Dirty South & Thomas Gold ft. Kate Elsworth",
+          "title": "Alive",
+          "remix": "",
+          "trackId": "228945"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dirty South & Thomas Gold ft. Kate Elsworth",
+      "title": "Alive",
+      "remix": "",
+      "label": "PHAZING",
+      "trackId": "228945",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "37888",
+        "youtube": "37888",
+        "soundcloud": "37888",
+        "appleMusic": "37888"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dirty South & Thomas Gold ft. Kate Elsworth",
+          "title": "Alive",
+          "remix": "",
+          "trackId": "228945"
+        },
+        {
+          "artist": "Eric Prydz",
+          "title": "Pjanoo",
+          "remix": "",
+          "trackId": "228946"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eric Prydz",
+      "title": "Pjanoo",
+      "remix": "",
+      "label": "PRYDA/DATA REC.",
+      "trackId": "228946",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1322",
+        "youtube": "1322",
+        "soundcloud": "1322",
+        "appleMusic": "1322"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "M-3ox ft. Heidrun",
+      "title": "Beating Of My Heart (Matisse & Sadko Instrumental Mix)",
+      "remix": "",
+      "label": "HEAT",
+      "trackId": "228947",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Coldplay vs. OneRepublic vs. Otto Knows",
+      "title": "Fix You vs. Apologize vs. Million Voices (Thomas Gold Bootleg)",
+      "remix": "",
+      "label": "MOSLEY (INTERSCOPE)/REFUNE/PARLOPHONE (WARNER MUSIC)",
+      "trackId": "228948",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "79634"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Deniz Koyu",
+      "title": "Tung!",
+      "remix": "",
+      "label": "FLAMINGO",
+      "trackId": "228951",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "35115",
+        "youtube": "35115",
+        "soundcloud": "35115",
+        "appleMusic": "35115"
+      },
+      "blendGroup": [
+        {
+          "artist": "Deniz Koyu",
+          "title": "Tung!",
+          "remix": "",
+          "trackId": "228951"
+        },
+        {
+          "artist": "Madonna",
+          "title": "Music",
+          "remix": "",
+          "trackId": "228952"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Madonna",
+      "title": "Music",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "228952",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "7195",
+        "youtube": "7195",
+        "soundcloud": "7195",
+        "appleMusic": "7195"
+      },
+      "blendGroup": [
+        {
+          "artist": "Madonna",
+          "title": "Music",
+          "remix": "",
+          "trackId": "228952"
+        },
+        {
+          "artist": "Thomas Gold",
+          "title": "Marsch Marsch (Thomas Gold 2011 Rework)",
+          "remix": "",
+          "trackId": "228953"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Thomas Gold",
+      "title": "Marsch Marsch (Thomas Gold 2011 Rework)",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "228953",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "48203",
+        "youtube": "48203",
+        "soundcloud": "48203",
+        "appleMusic": "48203"
+      },
+      "blendGroup": [
+        {
+          "artist": "Thomas Gold",
+          "title": "Marsch Marsch (Thomas Gold 2011 Rework)",
+          "remix": "",
+          "trackId": "228953"
+        },
+        {
+          "artist": "Coldplay",
+          "title": "Paradise",
+          "remix": "",
+          "trackId": "228954"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Coldplay",
+      "title": "Paradise",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "228954",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "48058",
+        "youtube": "48058",
+        "soundcloud": "48058",
+        "appleMusic": "48058"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Julian Jordan & TV Noise",
+      "title": "Oxford",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "228955",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "68184",
+        "youtube": "68184",
+        "soundcloud": "68184",
+        "appleMusic": "68184"
+      },
+      "blendGroup": [
+        {
+          "artist": "Julian Jordan & TV Noise",
+          "title": "Oxford",
+          "remix": "",
+          "trackId": "228955"
+        },
+        {
+          "artist": "Shakedown",
+          "title": "At Night (Acappella)",
+          "remix": "",
+          "trackId": "228956"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Shakedown",
+      "title": "At Night (Acappella)",
+      "remix": "",
+      "label": "PANORAMA",
+      "trackId": "228956",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1384",
+        "youtube": "1384",
+        "soundcloud": "1384",
+        "appleMusic": "1384"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Adele",
+      "title": "Set Fire To The Rain (Thomas Gold Remix)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "228957",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "35631",
+        "youtube": "35631",
+        "soundcloud": "35631",
+        "appleMusic": "35631"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T16:02:00.336Z",
+  "scrapeVersion": 2
+}

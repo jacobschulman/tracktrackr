@@ -1,0 +1,281 @@
+{
+  "tlId": "hchvxtk",
+  "dj": "Riot Ten",
+  "stage": "EDC Mexico",
+  "date": "2024-02-25",
+  "year": 2024,
+  "url": "https://www.1001tracklists.com/tracklist/hchvxtk/riot-ten-wasteland-edc-mexico-2024-02-25.html",
+  "djs": [
+    {
+      "name": "Riot Ten",
+      "slug": "riotten"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "VLCN & FelMax ft. Blupill",
+      "title": "Rail Split",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "10208965",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "952282",
+        "youtube": "952282",
+        "soundcloud": "952282",
+        "appleMusic": "952282"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "RL Grime & Juelz",
+      "title": "Breach",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "10258797",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "906208",
+        "youtube": "906208",
+        "soundcloud": "906208",
+        "appleMusic": "906208"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Riot Ten",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10208966",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Wuki & Benzi",
+      "title": "We Like To Fuck That Shit",
+      "remix": "",
+      "label": "WUKILEAKS/VIOLENT/WAX/BARONG FAMILY",
+      "trackId": "10208967",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "383849"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wuki & Benzi",
+          "title": "We Like To Fuck That Shit",
+          "remix": "",
+          "trackId": "10208967"
+        },
+        {
+          "artist": "Yeah Yeah Yeahs",
+          "title": "Heads Will Roll (A-Trak Remix)",
+          "remix": "",
+          "trackId": "10208968"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Heads Will Roll (A-Trak Remix)",
+      "remix": "",
+      "label": "DGC",
+      "trackId": "10208968",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "11556",
+        "youtube": "11556",
+        "soundcloud": "11556",
+        "appleMusic": "11556"
+      },
+      "blendGroup": [
+        {
+          "artist": "Yeah Yeah Yeahs",
+          "title": "Heads Will Roll (A-Trak Remix)",
+          "remix": "",
+          "trackId": "10208968"
+        },
+        {
+          "artist": "Knock2",
+          "title": "murdah (ISOxo Remix)",
+          "remix": "",
+          "trackId": "10208969"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knock2",
+      "title": "murdah (ISOxo Remix)",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "10208969",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "838103",
+        "youtube": "838103",
+        "soundcloud": "838103",
+        "appleMusic": "838103"
+      },
+      "blendGroup": [
+        {
+          "artist": "Knock2",
+          "title": "murdah (ISOxo Remix)",
+          "remix": "",
+          "trackId": "10208969"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "10208970"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10208970",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "05",
+      "artist": "Wuki",
+      "title": "DADADADA",
+      "remix": "",
+      "label": "WUKILEAKS",
+      "trackId": "10208971",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "326790",
+        "soundcloud": "326790"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wuki",
+          "title": "DADADADA",
+          "remix": "",
+          "trackId": "10208971"
+        },
+        {
+          "artist": "Calcium ft. Kamiyada+",
+          "title": "Bullet Rain (MAD DUBZ Remix)",
+          "remix": "",
+          "trackId": "10208972"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calcium ft. Kamiyada+",
+      "title": "Bullet Rain (MAD DUBZ Remix)",
+      "remix": "",
+      "label": "BASSWEIGHT",
+      "trackId": "10208972",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "951628",
+        "youtube": "951628",
+        "soundcloud": "951628",
+        "appleMusic": "951628"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Skrillex & JAUZ ft. Fatman Scoop",
+      "title": "Squad Out (Acappella)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "10208973",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "268533",
+        "youtube": "376613",
+        "soundcloud": "268533",
+        "appleMusic": "268533"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & JAUZ ft. Fatman Scoop",
+          "title": "Squad Out (Acappella)",
+          "remix": "",
+          "trackId": "10208973"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "10208974"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10208974",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "07",
+      "artist": "Eslabon Armado & Peso Pluma",
+      "title": "Ella Baila Sola",
+      "remix": "",
+      "label": "DEL",
+      "trackId": "10208975",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "895797",
+        "youtube": "895797",
+        "soundcloud": "895797",
+        "appleMusic": "895797"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T16:32:38.871Z",
+  "scrapeVersion": 2
+}

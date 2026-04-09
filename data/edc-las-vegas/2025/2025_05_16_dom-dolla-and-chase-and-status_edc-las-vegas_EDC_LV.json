@@ -1,0 +1,722 @@
+{
+  "tlId": "295s5sg1",
+  "dj": "Dom Dolla & Chase & Status",
+  "stage": "EDC Las Vegas",
+  "date": "2025-05-16",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/295s5sg1/dom-dolla-chase-status-kineticfield-edc-las-vegas-united-states-2025-05-16.html",
+  "djs": [
+    {
+      "name": "Dom Dolla",
+      "slug": "domdolla"
+    },
+    {
+      "name": "Chase & Status",
+      "slug": "chasestatus"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Dom Dolla ft. Daya",
+      "title": "Dreamin",
+      "remix": "",
+      "label": "THREE SIX ZERO/COLUMBIA",
+      "trackId": "12157737",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1068559",
+        "youtube": "1068559",
+        "soundcloud": "1068559",
+        "appleMusic": "1068559"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Dom Dolla & Nelly Furtado",
+      "title": "Eat Your Man",
+      "remix": "",
+      "label": "THREE SIX ZERO/SONY",
+      "trackId": "12157837",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 194,
+      "mediaIds": {
+        "spotify": "893212",
+        "youtube": "893212",
+        "soundcloud": "893212",
+        "appleMusic": "893212"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Playboi Carti",
+      "title": "EVIL J0RDAN (HILLS Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "12157745",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 308,
+      "mediaIds": {
+        "youtube": "1083596",
+        "soundcloud": "1083596"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Travis Scott ft. Playboi Carti",
+      "title": "FE!N (ZANS Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "12157739",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 451,
+      "mediaIds": {
+        "soundcloud": "1100116"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Zombie Nation",
+      "title": "Kernkraft 400 (James Hype Remix)",
+      "remix": "",
+      "label": "EPM",
+      "trackId": "12160837",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 609,
+      "mediaIds": {
+        "youtube": "854899",
+        "soundcloud": "854899"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Dom Dolla",
+      "title": "San Frandisco",
+      "remix": "",
+      "label": "SWEAT IT OUT!/THREE SIX ZERO",
+      "trackId": "12159859",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 674,
+      "mediaIds": {
+        "spotify": "466964",
+        "youtube": "466964",
+        "soundcloud": "466964",
+        "appleMusic": "466964"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dom Dolla",
+          "title": "San Frandisco",
+          "remix": "",
+          "trackId": "12159859"
+        },
+        {
+          "artist": "Vintage Culture",
+          "title": "Do You",
+          "remix": "",
+          "trackId": "12159201"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Vintage Culture",
+      "title": "Do You",
+      "remix": "",
+      "label": "DIYNAMIC",
+      "trackId": "12159201",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 788,
+      "mediaIds": {
+        "spotify": "1095687",
+        "youtube": "1095687",
+        "soundcloud": "1095687",
+        "appleMusic": "1095687"
+      },
+      "blendGroup": [
+        {
+          "artist": "Vintage Culture",
+          "title": "Do You",
+          "remix": "",
+          "trackId": "12159201"
+        },
+        {
+          "artist": "Dom Dolla",
+          "title": "San Frandisco",
+          "remix": "(Acappella)",
+          "trackId": "12159860"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dom Dolla",
+      "title": "San Frandisco",
+      "remix": "(Acappella)",
+      "label": "SWEAT IT OUT!/THREE SIX ZERO",
+      "trackId": "12159860",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 801,
+      "mediaIds": {
+        "spotify": "466964",
+        "youtube": "466964",
+        "soundcloud": "466964",
+        "appleMusic": "466964"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Cheyenne Giles & Kelland",
+      "title": "Lemme See Ya",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "12157738",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 914,
+      "mediaIds": {
+        "spotify": "1076714",
+        "youtube": "1076714",
+        "soundcloud": "1076714",
+        "appleMusic": "1076714"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Kamino",
+      "title": "Supersonic",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "12157743",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1038,
+      "mediaIds": {
+        "spotify": "1051805",
+        "youtube": "1051805",
+        "soundcloud": "1051805",
+        "appleMusic": "1051805"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Lola Young",
+      "title": "Messy (David Puentez VIP Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12157744",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1118,
+      "mediaIds": {
+        "youtube": "1077743",
+        "soundcloud": "1077743"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Ugo Banchi",
+      "title": "Dance With Ibiza (Linska Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12157742",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1248,
+      "mediaIds": {
+        "youtube": "1092737",
+        "soundcloud": "1092737"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Dom Dolla",
+      "title": "Saving Up (Odd Mob Remix)",
+      "remix": "",
+      "label": "THREE SIX ZERO",
+      "trackId": "12158085",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1378,
+      "mediaIds": {
+        "spotify": "954504",
+        "youtube": "954504",
+        "soundcloud": "954504",
+        "appleMusic": "954504"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Cassian & YOTTO & Da Hool",
+      "title": "Love Parade",
+      "remix": "",
+      "label": "AFTERLIFE",
+      "trackId": "12159876",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1577,
+      "mediaIds": {
+        "spotify": "1064398",
+        "youtube": "1064398",
+        "soundcloud": "1064398",
+        "appleMusic": "1064398"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Aliyah's Interlude",
+      "title": "IT GIRL (Everything Always Remix)",
+      "remix": "",
+      "label": "INTERLUDE",
+      "trackId": "12160838",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1685,
+      "mediaIds": {
+        "youtube": "1009303",
+        "soundcloud": "1009303",
+        "appleMusic": "1009303"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Dom Dolla",
+      "title": "girl$",
+      "remix": "",
+      "label": "THREE SIX ZERO",
+      "trackId": "12157781",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1814,
+      "mediaIds": {
+        "spotify": "993071",
+        "youtube": "993071",
+        "soundcloud": "993071",
+        "appleMusic": "993071"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Dom Dolla & Kid Cudi",
+      "title": "Forever (Rebūke Remix)",
+      "remix": "",
+      "label": "THREE SIX ZERO/COLUMBIA",
+      "trackId": "12160839",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2029,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Drake",
+      "title": "NOKIA (Kelland Remix)",
+      "remix": "",
+      "label": "OVO",
+      "trackId": "12160840",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2215,
+      "mediaIds": {
+        "youtube": "1092554",
+        "soundcloud": "1092554"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Fatboy Slim",
+      "title": "Right Here, Right Now (Dave Summer Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12160841",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2344,
+      "mediaIds": {
+        "youtube": "1094945",
+        "soundcloud": "1094945"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Sonny Fodera & Dom Dolla",
+      "title": "Moving Blind (Gorgon City Remix)",
+      "remix": "",
+      "label": "SOLOTOKO/SWEAT IT OUT!",
+      "trackId": "12157740",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2430,
+      "mediaIds": {
+        "spotify": "604447",
+        "youtube": "604447",
+        "soundcloud": "604447",
+        "appleMusic": "604447"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Dom Dolla & Go Freek",
+      "title": "Define",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "12158086",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2544,
+      "mediaIds": {
+        "spotify": "261807",
+        "youtube": "261807",
+        "soundcloud": "261807",
+        "appleMusic": "261807"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Proppa & Rich DietZ & Smith & Sorren",
+      "title": "Work",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "12157741",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2762,
+      "mediaIds": {
+        "spotify": "1036095",
+        "youtube": "1036095",
+        "soundcloud": "1036095",
+        "appleMusic": "1036095"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Dom Dolla ft. Clementine Douglas",
+      "title": "Miracle Maker (Subsonic Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "12157747",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2903,
+      "mediaIds": {
+        "youtube": "874154",
+        "soundcloud": "874154"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12159333",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3051,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "12159333"
+        },
+        {
+          "artist": "Playboi Carti ft. Skepta",
+          "title": "Toxic",
+          "remix": "(Acappella)",
+          "trackId": "12159334"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Playboi Carti ft. Skepta",
+      "title": "Toxic",
+      "remix": "(Acappella)",
+      "label": "INTERSCOPE",
+      "trackId": "12159334",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1084886",
+        "youtube": "1084886",
+        "soundcloud": "1084886",
+        "appleMusic": "1084886"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Chase & Status & Bou ft. Trigga & IRAH & Flowdan & Takura",
+      "title": "Baddadan",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "12157746",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3140,
+      "mediaIds": {
+        "spotify": "904345",
+        "youtube": "904345",
+        "soundcloud": "904345",
+        "appleMusic": "904345"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Subsonic",
+      "title": "Genesis",
+      "remix": "",
+      "label": "SUBSONIC : FREQUENCIES",
+      "trackId": "12157838",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3248,
+      "mediaIds": {
+        "spotify": "1037779",
+        "youtube": "1037779",
+        "soundcloud": "1037779",
+        "appleMusic": "1037779"
+      },
+      "blendGroup": [
+        {
+          "artist": "Subsonic",
+          "title": "Genesis",
+          "remix": "",
+          "trackId": "12157838"
+        },
+        {
+          "artist": "Dom Dolla & Tove Lo",
+          "title": "CAVE",
+          "remix": "(Acappella)",
+          "trackId": "12157839"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dom Dolla & Tove Lo",
+      "title": "CAVE",
+      "remix": "(Acappella)",
+      "label": "THREE SIX ZERO/COLUMBIA",
+      "trackId": "12157839",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "993072",
+        "youtube": "993072",
+        "soundcloud": "993072",
+        "appleMusic": "993072"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Travis Scott",
+      "title": "HYAENA",
+      "remix": "",
+      "label": "CACTUS JACK",
+      "trackId": "12157872",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3331,
+      "mediaIds": {
+        "spotify": "914384",
+        "youtube": "914384",
+        "soundcloud": "914384",
+        "appleMusic": "914384"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Chase & Status & Hedex ft. ArrDee",
+      "title": "Liquor & Cigarettes",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "12158226",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3401,
+      "mediaIds": {
+        "spotify": "927670",
+        "youtube": "927670",
+        "soundcloud": "927670",
+        "appleMusic": "927670"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Chris Lorenzo",
+      "title": "Pump (1991 Remix)",
+      "remix": "",
+      "label": "LATE CHECKOUT",
+      "trackId": "12157881",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3488,
+      "mediaIds": {
+        "spotify": "1014380",
+        "youtube": "1014380",
+        "soundcloud": "1014380",
+        "appleMusic": "1014380"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12159335",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3616,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "A$AP Ferg",
+      "title": "Plain Jane",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "12159336",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3682,
+      "mediaIds": {
+        "spotify": "386579",
+        "youtube": "386579",
+        "soundcloud": "386579",
+        "appleMusic": "386579"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "MK & Dom Dolla",
+      "title": "Rhyme Dust (Dimension Remix / Darren Styles & GRVITY 4/4 Edit)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "12157979",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3752,
+      "mediaIds": {
+        "youtube": "937724"
+      },
+      "blendGroup": [
+        {
+          "artist": "MK & Dom Dolla",
+          "title": "Rhyme Dust (Dimension Remix / Darren Styles & GRVITY 4/4 Edit)",
+          "remix": "",
+          "trackId": "12157979"
+        },
+        {
+          "artist": "MK & Dom Dolla",
+          "title": "Rhyme Dust (Dimension Remix)",
+          "remix": "",
+          "trackId": "12157980"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MK & Dom Dolla",
+      "title": "Rhyme Dust (Dimension Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "12157980",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "889992",
+        "youtube": "889992",
+        "soundcloud": "889992",
+        "appleMusic": "889992"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "Chase & Status & Stormzy",
+      "title": "BACKBONE",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "12159285",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3849,
+      "mediaIds": {
+        "spotify": "1025828",
+        "youtube": "1025828",
+        "soundcloud": "1025828",
+        "appleMusic": "1025828"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Adam F",
+      "title": "Circles (Segan Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12159337",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 4029,
+      "mediaIds": {
+        "soundcloud": "1095843"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "hearthis",
+      "idMedia": "4781243",
+      "idSource": "40",
+      "url": "https://hearthis.at/12159404/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:18:11.835Z",
+  "scrapeVersion": 2
+}

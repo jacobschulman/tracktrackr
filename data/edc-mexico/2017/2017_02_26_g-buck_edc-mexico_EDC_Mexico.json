@@ -1,0 +1,194 @@
+{
+  "tlId": "2vt8fr29",
+  "dj": "G-Buck",
+  "stage": "EDC Mexico",
+  "date": "2017-02-26",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/2vt8fr29/g-buck-dosequis-edc-mexico-2017-02-26.html",
+  "djs": [
+    {
+      "name": "G-Buck",
+      "slug": "gbuck"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Daddy Yankee",
+      "title": "Shaky Shaky",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "11747086",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "349403",
+        "youtube": "349403",
+        "soundcloud": "349403",
+        "appleMusic": "349403"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Daddy Yankee",
+      "title": "Gasolina",
+      "remix": "",
+      "label": "EL CARTEL",
+      "trackId": "11747087",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "153585",
+        "youtube": "153585",
+        "soundcloud": "153585",
+        "appleMusic": "153585"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daddy Yankee",
+          "title": "Gasolina",
+          "remix": "",
+          "trackId": "11747087"
+        },
+        {
+          "artist": "Munchi",
+          "title": "Pa Lo Under",
+          "remix": "",
+          "trackId": "11747088"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Munchi",
+      "title": "Pa Lo Under",
+      "remix": "",
+      "label": "SELEGNA",
+      "trackId": "11747088",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "308668",
+        "youtube": "308668",
+        "soundcloud": "308668",
+        "appleMusic": "308668"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Flosstradamus ft. Casino",
+      "title": "Mosh Pit (Acappella)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "11747089",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "230379",
+        "youtube": "230379",
+        "soundcloud": "230379",
+        "appleMusic": "230379"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flosstradamus ft. Casino",
+          "title": "Mosh Pit (Acappella)",
+          "remix": "",
+          "trackId": "11747089"
+        },
+        {
+          "artist": "Flosstradamus & GTA ft. Lil Jon",
+          "title": "Prison Riot",
+          "remix": "",
+          "trackId": "11747090"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flosstradamus & GTA ft. Lil Jon",
+      "title": "Prison Riot",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "11747090",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "231264",
+        "youtube": "231264",
+        "soundcloud": "231264",
+        "appleMusic": "231264"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flosstradamus & GTA ft. Lil Jon",
+          "title": "Prison Riot",
+          "remix": "",
+          "trackId": "11747090"
+        },
+        {
+          "artist": "Skrillex",
+          "title": "Scary Monsters And Nice Sprites (Acappella)",
+          "remix": "",
+          "trackId": "11747091"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex",
+      "title": "Scary Monsters And Nice Sprites (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "11747091",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "23595",
+        "youtube": "23595",
+        "soundcloud": "23595",
+        "appleMusic": "23595"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex",
+          "title": "Scary Monsters And Nice Sprites (Acappella)",
+          "remix": "",
+          "trackId": "11747091"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "11747092"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "11747092",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T18:39:00.529Z",
+  "scrapeVersion": 2
+}

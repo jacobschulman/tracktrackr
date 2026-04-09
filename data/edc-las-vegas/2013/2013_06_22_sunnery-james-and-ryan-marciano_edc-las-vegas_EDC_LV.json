@@ -1,0 +1,770 @@
+{
+  "tlId": "3y2xzdk",
+  "dj": "Sunnery James & Ryan Marciano",
+  "stage": "EDC Las Vegas",
+  "date": "2013-06-22",
+  "year": 2013,
+  "url": "https://www.1001tracklists.com/tracklist/3y2xzdk/sunnery-james-ryan-marciano-kineticfield-edc-las-vegas-united-states-2013-06-22.html",
+  "djs": [
+    {
+      "name": "Sunnery James & Ryan Marciano",
+      "slug": "sunneryjamesandryanmarciano"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Nicky Romero & Sunnery James & Ryan Marciano ft. Fast Eddie",
+      "title": "S.O.T.U. (Sound Of The Underground)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "539246",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "124820",
+        "youtube": "124820",
+        "soundcloud": "124820",
+        "appleMusic": "124820"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Alex M.O.R.P.H. & Jerome Isma-Ae",
+      "title": "Bang!",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "539247",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 180,
+      "mediaIds": {
+        "spotify": "137301",
+        "youtube": "137301",
+        "soundcloud": "137301",
+        "appleMusic": "137301"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alex M.O.R.P.H. & Jerome Isma-Ae",
+          "title": "Bang!",
+          "remix": "",
+          "trackId": "539247"
+        },
+        {
+          "artist": "Joe Brunning",
+          "title": "Now Let Me See You Work (Acappella)",
+          "remix": "",
+          "trackId": "539819"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Joe Brunning",
+      "title": "Now Let Me See You Work (Acappella)",
+      "remix": "",
+      "label": "BUSH",
+      "trackId": "539819",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 250,
+      "mediaIds": {
+        "spotify": "30764",
+        "youtube": "30764",
+        "soundcloud": "30764",
+        "appleMusic": "30764"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Abel Ramos",
+      "title": "Latex",
+      "remix": "",
+      "label": "DEEPERFECT",
+      "trackId": "539248",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 390,
+      "mediaIds": {
+        "spotify": "57465",
+        "youtube": "57465",
+        "soundcloud": "57465",
+        "appleMusic": "57465"
+      },
+      "blendGroup": [
+        {
+          "artist": "Abel Ramos",
+          "title": "Latex",
+          "remix": "",
+          "trackId": "539248"
+        },
+        {
+          "artist": "Hard Rock Sofa & St. Brothers",
+          "title": "Blow Up (Thomas Gold vs. Axwell Remix)",
+          "remix": "",
+          "trackId": "539820"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hard Rock Sofa & St. Brothers",
+      "title": "Blow Up (Thomas Gold vs. Axwell Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "539820",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 420,
+      "mediaIds": {
+        "spotify": "25379",
+        "youtube": "25379",
+        "soundcloud": "25379",
+        "appleMusic": "25379"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hard Rock Sofa & St. Brothers",
+          "title": "Blow Up (Thomas Gold vs. Axwell Remix)",
+          "remix": "",
+          "trackId": "539820"
+        },
+        {
+          "artist": "Zedd ft. Matthew Koma",
+          "title": "Spectrum (Deniz Koyu Remix)",
+          "remix": "",
+          "trackId": "539249"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd ft. Matthew Koma",
+      "title": "Spectrum (Deniz Koyu Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "539249",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "82343",
+        "youtube": "82343",
+        "soundcloud": "82343",
+        "appleMusic": "82343"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Sunnery James & Ryan Marciano ft. Chocolate Puma",
+      "title": "Stiffness",
+      "remix": "",
+      "label": "X",
+      "trackId": "539250",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "99303",
+        "youtube": "99303",
+        "soundcloud": "99303",
+        "appleMusic": "99303"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sunnery James & Ryan Marciano ft. Chocolate Puma",
+          "title": "Stiffness",
+          "remix": "",
+          "trackId": "539250"
+        },
+        {
+          "artist": "Shakedown",
+          "title": "At Night (Acappella)",
+          "remix": "",
+          "trackId": "539251"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Shakedown",
+      "title": "At Night (Acappella)",
+      "remix": "",
+      "label": "PANORAMA",
+      "trackId": "539251",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1384",
+        "youtube": "1384",
+        "soundcloud": "1384",
+        "appleMusic": "1384"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Sunnery James & Ryan Marciano",
+      "title": "Ultronic",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "539252",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 690,
+      "mediaIds": {
+        "spotify": "130495",
+        "youtube": "130495",
+        "soundcloud": "130495",
+        "appleMusic": "130495"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sunnery James & Ryan Marciano",
+          "title": "Ultronic",
+          "remix": "",
+          "trackId": "539252"
+        },
+        {
+          "artist": "Plastik Funk",
+          "title": "Let Me See Your Hands (Acappella)",
+          "remix": "",
+          "trackId": "539821"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Plastik Funk",
+      "title": "Let Me See Your Hands (Acappella)",
+      "remix": "",
+      "label": "3BEAT",
+      "trackId": "539821",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "17493"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Sebjak & Marcus Schossow vs. Florence & The Machine",
+      "title": "Liceu vs. Spectrum (Say My Name) (Sebastian Ingrosso Edit)",
+      "remix": "",
+      "label": "ISLAND (UMG)/SIZE",
+      "trackId": "539253",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 930,
+      "mediaIds": {
+        "youtube": "128076"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Ummet Ozcan & DJ Ghost",
+      "title": "Airport",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "539254",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1110,
+      "mediaIds": {
+        "spotify": "134120",
+        "youtube": "134120",
+        "soundcloud": "134120",
+        "appleMusic": "134120"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Tristan Garner & Gregori Klosman",
+      "title": "Bounce",
+      "remix": "",
+      "label": "XTRALIFE",
+      "trackId": "539255",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1320,
+      "mediaIds": {
+        "spotify": "32136",
+        "youtube": "32136",
+        "soundcloud": "32136",
+        "appleMusic": "32136"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tristan Garner & Gregori Klosman",
+          "title": "Bounce",
+          "remix": "",
+          "trackId": "539255"
+        },
+        {
+          "artist": "New World Punx",
+          "title": "Romper",
+          "remix": "",
+          "trackId": "539822"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "New World Punx",
+      "title": "Romper",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "539822",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1938,
+      "mediaIds": {
+        "spotify": "127081",
+        "youtube": "127081",
+        "soundcloud": "127081",
+        "appleMusic": "127081"
+      },
+      "blendGroup": [
+        {
+          "artist": "New World Punx",
+          "title": "Romper",
+          "remix": "",
+          "trackId": "539822"
+        },
+        {
+          "artist": "Matt Caseli & Danny Freakazoid",
+          "title": "Raise Your Hands",
+          "remix": "",
+          "trackId": "539256"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Matt Caseli & Danny Freakazoid",
+      "title": "Raise Your Hands",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "539256",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30420",
+        "youtube": "30420",
+        "soundcloud": "30420",
+        "appleMusic": "30420"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Feenixpawl ft. Quilla",
+      "title": "Universe (David Tort Remix)",
+      "remix": "",
+      "label": "NEON",
+      "trackId": "539257",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1460,
+      "mediaIds": {
+        "spotify": "103784",
+        "youtube": "103784",
+        "soundcloud": "103784",
+        "appleMusic": "103784"
+      },
+      "blendGroup": [
+        {
+          "artist": "Feenixpawl ft. Quilla",
+          "title": "Universe (David Tort Remix)",
+          "remix": "",
+          "trackId": "539257"
+        },
+        {
+          "artist": "Calvin Harris ft. Florence Welch",
+          "title": "Sweet Nothing",
+          "remix": "",
+          "trackId": "539258"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris ft. Florence Welch",
+      "title": "Sweet Nothing",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "539258",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "92181",
+        "youtube": "92181",
+        "soundcloud": "92181",
+        "appleMusic": "92181"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Hard Rock Sofa & Swanky Tunes",
+      "title": "Thank You (MYNC Exclusive Edit)",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "539259",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1575,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Hard Rock Sofa & Swanky Tunes",
+          "title": "Thank You (MYNC Exclusive Edit)",
+          "remix": "",
+          "trackId": "539259"
+        },
+        {
+          "artist": "Kings Of Tomorrow ft. Julie McKnight",
+          "title": "Finally (Acappella)",
+          "remix": "",
+          "trackId": "539993"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kings Of Tomorrow ft. Julie McKnight",
+      "title": "Finally (Acappella)",
+      "remix": "",
+      "label": "DEFECTED",
+      "trackId": "539993",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1044",
+        "youtube": "7921",
+        "appleMusic": "1044"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Sunnery James & Ryan Marciano & DubVision",
+      "title": "Triton (Dance Valley 2013 Anthem)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "539260",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1830,
+      "mediaIds": {
+        "spotify": "143849",
+        "youtube": "143849",
+        "soundcloud": "143849",
+        "appleMusic": "143849"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sunnery James & Ryan Marciano & DubVision",
+          "title": "Triton (Dance Valley 2013 Anthem)",
+          "remix": "",
+          "trackId": "539260"
+        },
+        {
+          "artist": "Soul Providers ft. Michelle Shellers",
+          "title": "Rise (Acappella)",
+          "remix": "",
+          "trackId": "539823"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Soul Providers ft. Michelle Shellers",
+      "title": "Rise (Acappella)",
+      "remix": "",
+      "label": "OCEAN TRAX",
+      "trackId": "539823",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "4693",
+        "youtube": "4693",
+        "soundcloud": "4693",
+        "appleMusic": "4693"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Sunnery James & Ryan Marciano",
+      "title": "Lethal Industry",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "539261",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2080,
+      "mediaIds": {
+        "spotify": "50452",
+        "youtube": "50452",
+        "soundcloud": "50452",
+        "appleMusic": "50452"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sunnery James & Ryan Marciano",
+          "title": "Lethal Industry",
+          "remix": "",
+          "trackId": "539261"
+        },
+        {
+          "artist": "Coco Star",
+          "title": "I Need A Miracle (Acappella)",
+          "remix": "",
+          "trackId": "539262"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Coco Star",
+      "title": "I Need A Miracle (Acappella)",
+      "remix": "",
+      "label": "GREENLIGHT",
+      "trackId": "539262",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "78559",
+        "youtube": "78559",
+        "soundcloud": "78559",
+        "appleMusic": "78559"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Ivan Gough vs. Steve Bleas & Stevie Mink",
+      "title": "Boom!",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "539263",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2400,
+      "mediaIds": {
+        "spotify": "119900",
+        "youtube": "119900",
+        "soundcloud": "119900"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ivan Gough vs. Steve Bleas & Stevie Mink",
+          "title": "Boom!",
+          "remix": "",
+          "trackId": "539263"
+        },
+        {
+          "artist": "Funkerman ft. Red Hot Chili Peppers",
+          "title": "Otherside 2010",
+          "remix": "",
+          "trackId": "539264"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Funkerman ft. Red Hot Chili Peppers",
+      "title": "Otherside 2010",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "539264",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "15586",
+        "soundcloud": "15586"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Faithless",
+      "title": "Insomnia (Fedde Le Grand Remix)",
+      "remix": "",
+      "label": "SONY BMG",
+      "trackId": "539824",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2666,
+      "mediaIds": {
+        "spotify": "267855",
+        "youtube": "267855",
+        "soundcloud": "267855"
+      },
+      "blendGroup": [
+        {
+          "artist": "Faithless",
+          "title": "Insomnia (Fedde Le Grand Remix)",
+          "remix": "",
+          "trackId": "539824"
+        },
+        {
+          "artist": "Joe Brunning",
+          "title": "Now Let Me See You Work (Acappella)",
+          "remix": "",
+          "trackId": "539825"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Joe Brunning",
+      "title": "Now Let Me See You Work (Acappella)",
+      "remix": "",
+      "label": "BUSH",
+      "trackId": "539825",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 2835,
+      "mediaIds": {
+        "spotify": "30764",
+        "youtube": "30764",
+        "soundcloud": "30764",
+        "appleMusic": "30764"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Genairo Nvilla",
+      "title": "Mind Drum",
+      "remix": "",
+      "label": "4KENZO",
+      "trackId": "539994",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2820,
+      "mediaIds": {
+        "spotify": "206100",
+        "youtube": "206100",
+        "soundcloud": "206100",
+        "appleMusic": "206100"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Dimitri Vegas & Like Mike",
+      "title": "Wakanda",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "539265",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3080,
+      "mediaIds": {
+        "spotify": "106434",
+        "youtube": "106434",
+        "soundcloud": "106434",
+        "appleMusic": "106434"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike",
+          "title": "Wakanda",
+          "remix": "",
+          "trackId": "539265"
+        },
+        {
+          "artist": "Axwell & Sebastian Ingrosso & Steve Angello & Laidback Luke ft. Deborah Cox",
+          "title": "Leave The World Behind (Acappella)",
+          "remix": "",
+          "trackId": "539826"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Axwell & Sebastian Ingrosso & Steve Angello & Laidback Luke ft. Deborah Cox",
+      "title": "Leave The World Behind (Acappella)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "539826",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 3120,
+      "mediaIds": {
+        "spotify": "3679",
+        "youtube": "3679",
+        "soundcloud": "3679",
+        "appleMusic": "13033"
+      },
+      "blendGroup": [
+        {
+          "artist": "Axwell & Sebastian Ingrosso & Steve Angello & Laidback Luke ft. Deborah Cox",
+          "title": "Leave The World Behind (Acappella)",
+          "remix": "",
+          "trackId": "539826"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "LRAD",
+          "remix": "",
+          "trackId": "539827"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "LRAD",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "539827",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 3180,
+      "mediaIds": {
+        "spotify": "117950",
+        "youtube": "117950",
+        "soundcloud": "117950",
+        "appleMusic": "117950"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Kaskade ft. Haley",
+      "title": "Dynasty (Sunnery James & Ryan Marciano Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "539266",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3300,
+      "mediaIds": {
+        "spotify": "20368"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "95670",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:21:25.983Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,1254 @@
+{
+  "tlId": "x008rdt",
+  "dj": "Excision",
+  "stage": "EDC Las Vegas",
+  "date": "2017-06-18",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/x008rdt/excision-circuitgrounds-edc-las-vegas-united-states-2017-06-18.html",
+  "djs": [
+    {
+      "name": "Excision",
+      "slug": "excision"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Excision ft. Sam King",
+      "title": "G Shit (BadKlaat Remix)",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2704036",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "365223",
+        "youtube": "365223",
+        "soundcloud": "365223",
+        "appleMusic": "365223"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Spag Heddy",
+      "title": "Samir (Not Alone! Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "2704037",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "368610",
+        "soundcloud": "368610"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "12th Planet & Zomboy ft. Jay Fresh",
+      "title": "Dead Presidents",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "2704038",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "348427",
+        "youtube": "348427",
+        "soundcloud": "348427",
+        "appleMusic": "348427"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Dirty Audio & Rickyxsan",
+      "title": "Gettin' That (Spag Heddy Bootleg)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2704039",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "327873",
+        "soundcloud": "327873"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Zomboy",
+      "title": "Invaders (Spag Heddy Remix)",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "2704040",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "365210",
+        "youtube": "365210",
+        "soundcloud": "365210",
+        "appleMusic": "365210"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2704377",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Eliminate",
+      "title": "Final Warning",
+      "remix": "",
+      "label": "UPLINK AUDIO",
+      "trackId": "2704585",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 265,
+      "mediaIds": {
+        "spotify": "363633",
+        "youtube": "363633",
+        "soundcloud": "363633",
+        "appleMusic": "363633"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Kendrick Lamar ft. MC Eiht",
+      "title": "m.A.A.d city",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "2704586",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "113728",
+        "youtube": "113728",
+        "soundcloud": "113728",
+        "appleMusic": "113728"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kendrick Lamar ft. MC Eiht",
+          "title": "m.A.A.d city",
+          "remix": "",
+          "trackId": "2704586"
+        },
+        {
+          "artist": "WAVEDASH & QUEST!",
+          "title": "Off Leash",
+          "remix": "",
+          "trackId": "2704042"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "WAVEDASH & QUEST!",
+      "title": "Off Leash",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2704042",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "307625",
+        "youtube": "307625",
+        "soundcloud": "307625",
+        "appleMusic": "307625"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "AFK & Wooli ft. Jay Fresh",
+      "title": "WDGAF (We Don't Give A Fuck)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2704043",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "357323",
+        "youtube": "357323",
+        "soundcloud": "357323",
+        "appleMusic": "357323"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Excision & Dion Timmer",
+      "title": "Final Boss",
+      "remix": "",
+      "label": "ROTTUN/FREE",
+      "trackId": "2704044",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "311043",
+        "youtube": "311043",
+        "soundcloud": "311043",
+        "appleMusic": "311043"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "JAUZ x Ghastly",
+      "title": "Ghosts N' Sharks",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2704045",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "276815",
+        "soundcloud": "276815"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Excision & Dion Timmer",
+      "title": "Mirror",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2704046",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "331903",
+        "youtube": "331903",
+        "soundcloud": "331903",
+        "appleMusic": "331903"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Zomboy",
+      "title": "Lights Out (Ghastly Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "2704047",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "346615",
+        "youtube": "346615",
+        "soundcloud": "346615",
+        "appleMusic": "346615"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Dirtyphonics",
+      "title": "Boombox",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "4757870",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "357437",
+        "youtube": "357437",
+        "soundcloud": "357437",
+        "appleMusic": "357437"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Excision",
+      "title": "Codename X (Virtual Riot Remix)",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2704048",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "293776",
+        "youtube": "293776",
+        "soundcloud": "293776",
+        "appleMusic": "293776"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "MineSweepa",
+      "title": "Burning For U",
+      "remix": "",
+      "label": "MMAD",
+      "trackId": "4757909",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "357193",
+        "youtube": "357193",
+        "soundcloud": "357193",
+        "appleMusic": "357193"
+      },
+      "blendGroup": [
+        {
+          "artist": "MineSweepa",
+          "title": "Burning For U",
+          "remix": "",
+          "trackId": "4757909"
+        },
+        {
+          "artist": "LUMBERJVCK ft. wehavetojump",
+          "title": "No Sleep Tonight (Carbin Remix)",
+          "remix": "",
+          "trackId": "2704049"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "LUMBERJVCK ft. wehavetojump",
+      "title": "No Sleep Tonight (Carbin Remix)",
+      "remix": "",
+      "label": "MMAD",
+      "trackId": "2704049",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "380455",
+        "youtube": "380455",
+        "soundcloud": "380455",
+        "appleMusic": "380455"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Adventure Club & Dion Timmer ft. Kai",
+      "title": "Need Your Heart 2.0",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2704051",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "351417",
+        "soundcloud": "351417"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Boombox Cartel",
+      "title": "Jefe",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2704052",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "348418",
+        "youtube": "348418",
+        "soundcloud": "348418",
+        "appleMusic": "348418"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Rich Boy vs. Skrillex & Rick Ross",
+      "title": "Throw Some Purple Lamborghinis (Boombox Cartel Edit)",
+      "remix": "",
+      "label": "INTERSCOPE/ATLANTIC (WARNER MUSIC)",
+      "trackId": "4757871",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "376589"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rich Boy vs. Skrillex & Rick Ross",
+          "title": "Throw Some Purple Lamborghinis (Boombox Cartel Edit)",
+          "remix": "",
+          "trackId": "4757871"
+        },
+        {
+          "artist": "Skrillex & Rick Ross",
+          "title": "Purple Lamborghini (Tisoki Quickie Flip)",
+          "remix": "",
+          "trackId": "2704053"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Rick Ross",
+      "title": "Purple Lamborghini (Tisoki Quickie Flip)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "2704053",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "332225",
+        "soundcloud": "332225"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Rick Ross",
+          "title": "Purple Lamborghini (Tisoki Quickie Flip)",
+          "remix": "",
+          "trackId": "2704053"
+        },
+        {
+          "artist": "G-Eazy & Bebe Rexha",
+          "title": "Me, Myself & I (Acappella)",
+          "remix": "",
+          "trackId": "2704054"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "G-Eazy & Bebe Rexha",
+      "title": "Me, Myself & I (Acappella)",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "2704054",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "297704",
+        "youtube": "298859",
+        "soundcloud": "297704",
+        "appleMusic": "297704"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Trampa & TrollPhace",
+      "title": "Headbang Gang",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "2703131",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "364111",
+        "youtube": "364111",
+        "soundcloud": "364111",
+        "appleMusic": "364111"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Excision & Datsik & Dion Timmer",
+      "title": "Harambe",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2704055",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "327337",
+        "youtube": "327337",
+        "soundcloud": "327337",
+        "appleMusic": "327337"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Excision ft. Messinian",
+      "title": "Neck Brace (AFK Remix)",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2704056",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "376614",
+        "youtube": "376614",
+        "soundcloud": "376614",
+        "appleMusic": "376614"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2704057",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "FuntCase ft. Merky ACE",
+      "title": "4 Barz of Fury (BARELY ALIVE Remix)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "2704058",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "361513",
+        "youtube": "361513",
+        "soundcloud": "361513",
+        "appleMusic": "361513"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Herobust vs. Dead Prez",
+      "title": "Vertebreaker vs. Hip Hop (Oski Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "2703129",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Excision",
+      "title": "Generator (Eliminate Remix)",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2703128",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 1440,
+      "mediaIds": {
+        "spotify": "376616",
+        "youtube": "376616",
+        "soundcloud": "376616",
+        "appleMusic": "376616"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Point.Blank",
+      "title": "Hoodrep",
+      "remix": "",
+      "label": "BUYGORE",
+      "trackId": "2704059",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "376618",
+        "youtube": "376618",
+        "soundcloud": "376618",
+        "appleMusic": "376618"
+      },
+      "blendGroup": [
+        {
+          "artist": "Point.Blank",
+          "title": "Hoodrep",
+          "remix": "",
+          "trackId": "2704059"
+        },
+        {
+          "artist": "Excision & Datsik",
+          "title": "Swagga (Acappella)",
+          "remix": "",
+          "trackId": "2704060"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Datsik",
+      "title": "Swagga (Acappella)",
+      "remix": "",
+      "label": "EX7",
+      "trackId": "2704060",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20955",
+        "youtube": "347040",
+        "soundcloud": "20955",
+        "appleMusic": "20955"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Bro Safari ft. Sarah Hudson",
+      "title": "Reality (Dion Timmer Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2703136",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "342035",
+        "youtube": "342035",
+        "soundcloud": "342035",
+        "appleMusic": "342035"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Boy Kid Cloud ft. Skeez & Stacks",
+      "title": "Gang",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "2703137",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "347412",
+        "youtube": "347412",
+        "soundcloud": "347412",
+        "appleMusic": "347412"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Excision",
+      "title": "Virus",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2703138",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "331892",
+        "youtube": "331892",
+        "soundcloud": "331892",
+        "appleMusic": "331892"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision",
+          "title": "Virus",
+          "remix": "",
+          "trackId": "2703138"
+        },
+        {
+          "artist": "Excision",
+          "title": "Virus (Dubloadz Remix)",
+          "remix": "",
+          "trackId": "2704061"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision",
+      "title": "Virus (Dubloadz Remix)",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2704061",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "367285",
+        "youtube": "367285",
+        "soundcloud": "367285",
+        "appleMusic": "367285"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "Excision & Downlink & Space Laces",
+      "title": "Destroid 1. Raise Your Fist",
+      "remix": "",
+      "label": "DESTROID",
+      "trackId": "2704062",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "102954",
+        "youtube": "102954",
+        "soundcloud": "102954",
+        "appleMusic": "102954"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Excision & Downlink",
+      "title": "Headbanga",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2704063",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "82096",
+        "youtube": "82096",
+        "soundcloud": "82096",
+        "appleMusic": "82096"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Downlink",
+          "title": "Headbanga",
+          "remix": "",
+          "trackId": "2704063"
+        },
+        {
+          "artist": "Trampa",
+          "title": "Rise Up",
+          "remix": "",
+          "trackId": "2704064"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Trampa",
+      "title": "Rise Up",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "2704064",
+      "row": 32,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "227750",
+        "youtube": "227750",
+        "soundcloud": "227750",
+        "appleMusic": "227750"
+      }
+    },
+    {
+      "pos": "33",
+      "artist": "GTA ft. Sam Bruno",
+      "title": "Red Lips (Skrillex Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2703132",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "245755",
+        "youtube": "245755",
+        "soundcloud": "245755",
+        "appleMusic": "245755"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Alesso ft. Tove Lo",
+      "title": "Heroes (We Could Be) (Grandtheft Remix)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "2704587",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "234050",
+        "youtube": "234050",
+        "soundcloud": "234050",
+        "appleMusic": "234050"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso ft. Tove Lo",
+          "title": "Heroes (We Could Be) (Grandtheft Remix)",
+          "remix": "",
+          "trackId": "2704587"
+        },
+        {
+          "artist": "MARAUDA",
+          "title": "Casket",
+          "remix": "",
+          "trackId": "2734124"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MARAUDA",
+      "title": "Casket",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "2734124",
+      "row": 34,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "368077",
+        "youtube": "368077",
+        "soundcloud": "368077",
+        "appleMusic": "368077"
+      }
+    },
+    {
+      "pos": "35",
+      "artist": "Excision ft. Akylla",
+      "title": "Drowning",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2704589",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "334368",
+        "youtube": "334368",
+        "soundcloud": "334368",
+        "appleMusic": "334368"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Excision & Dion Timmer",
+      "title": "Africa",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2704590",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "266241",
+        "youtube": "266241",
+        "soundcloud": "266241",
+        "appleMusic": "266241"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Doctor P",
+      "title": "Rekt Together (Every Single Night)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "2704591",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "316038",
+        "youtube": "316038",
+        "soundcloud": "316038",
+        "appleMusic": "316038"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "IVORY ft. Virus Syndicate",
+      "title": "93 Style",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "2704592",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "363187",
+        "youtube": "363187",
+        "soundcloud": "363187",
+        "appleMusic": "363187"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "MONXX & Walter Wilde",
+      "title": "The Wonky Song (X Rated Version)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2704065",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "365272"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Excision & Downlink",
+      "title": "Robo Kitty",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2704593",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "212975",
+        "youtube": "212975",
+        "soundcloud": "212975",
+        "appleMusic": "212975"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "Downlink",
+      "title": "Mosh Pit",
+      "remix": "",
+      "label": "UPLINK AUDIO",
+      "trackId": "2704594",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "326544",
+        "youtube": "326544",
+        "soundcloud": "326544",
+        "appleMusic": "326544"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "Excision & Space Laces",
+      "title": "Throwin' Elbows",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2704066",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "320314",
+        "youtube": "320314",
+        "soundcloud": "320314",
+        "appleMusic": "320314"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "43",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2704595",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "2704595"
+        },
+        {
+          "artist": "WAVEDASH",
+          "title": "Bang (Acappella)",
+          "remix": "",
+          "trackId": "4757910"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "WAVEDASH",
+      "title": "Bang (Acappella)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "4757910",
+      "row": 43,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "292925",
+        "youtube": "382335",
+        "soundcloud": "382335",
+        "appleMusic": "382335"
+      }
+    },
+    {
+      "pos": "44",
+      "artist": "DJ Snake ft. Justin Bieber",
+      "title": "Let Me Love You (Spag Heddy Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2704596",
+      "row": 44,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "350309"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "45",
+      "artist": "Slushii",
+      "title": "Air",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4757911",
+      "row": 45,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "678923",
+        "soundcloud": "678923"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "46",
+      "artist": "Black Tiger Sex Machine & LeKtriQue",
+      "title": "Armada",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "4757912",
+      "row": 46,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "299291",
+        "youtube": "299291",
+        "soundcloud": "299291",
+        "appleMusic": "299291"
+      },
+      "blendGroup": [
+        {
+          "artist": "Black Tiger Sex Machine & LeKtriQue",
+          "title": "Armada",
+          "remix": "",
+          "trackId": "4757912"
+        },
+        {
+          "artist": "WAVEDASH",
+          "title": "Bang (Acappella)",
+          "remix": "",
+          "trackId": "2703133"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "WAVEDASH",
+      "title": "Bang (Acappella)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2703133",
+      "row": 46,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "292925",
+        "youtube": "382335",
+        "soundcloud": "382335",
+        "appleMusic": "382335"
+      }
+    },
+    {
+      "pos": "47",
+      "artist": "IVORY",
+      "title": "Conflict",
+      "remix": "",
+      "label": "PANDABEAT",
+      "trackId": "2704067",
+      "row": 47,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "368611",
+        "soundcloud": "368611"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "48",
+      "artist": "Excision",
+      "title": "The Paradox",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2704072",
+      "row": 48,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "293777",
+        "youtube": "293777",
+        "soundcloud": "293777",
+        "appleMusic": "293777"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "49",
+      "artist": "Excision & The Frim ft. MC Messinian",
+      "title": "X Up",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2704073",
+      "row": 49,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "212962",
+        "youtube": "212962",
+        "soundcloud": "212962",
+        "appleMusic": "212962"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & The Frim ft. MC Messinian",
+          "title": "X Up",
+          "remix": "",
+          "trackId": "2704073"
+        },
+        {
+          "artist": "Excision & The Frim ft. MC Messinian",
+          "title": "X Up (Erotic Cafe' Remix)",
+          "remix": "",
+          "trackId": "2704074"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & The Frim ft. MC Messinian",
+      "title": "X Up (Erotic Cafe' Remix)",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2704074",
+      "row": 49,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "271043",
+        "youtube": "271043",
+        "soundcloud": "271043",
+        "appleMusic": "271043"
+      }
+    },
+    {
+      "pos": "50",
+      "artist": "JAUZ & Netsky",
+      "title": "Higher (The Prototypes Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "4757913",
+      "row": 50,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "310543",
+        "youtube": "310543",
+        "soundcloud": "310543",
+        "appleMusic": "310543"
+      },
+      "blendGroup": [
+        {
+          "artist": "JAUZ & Netsky",
+          "title": "Higher (The Prototypes Remix)",
+          "remix": "",
+          "trackId": "4757913"
+        },
+        {
+          "artist": "Downlink",
+          "title": "Bass War",
+          "remix": "",
+          "trackId": "2704075"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Downlink",
+      "title": "Bass War",
+      "remix": "",
+      "label": "UPLINK AUDIO",
+      "trackId": "2704075",
+      "row": 50,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "321506",
+        "youtube": "321506",
+        "soundcloud": "321506",
+        "appleMusic": "321506"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "733187",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=yVcvFuDVBxc"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "1611461",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:26:28.386Z",
+  "scrapeVersion": 2
+}

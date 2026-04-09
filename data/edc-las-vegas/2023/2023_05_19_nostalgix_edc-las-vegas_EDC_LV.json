@@ -1,0 +1,1133 @@
+{
+  "tlId": "y6zk9kk",
+  "dj": "Nostalgix",
+  "stage": "EDC Las Vegas",
+  "date": "2023-05-19",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/y6zk9kk/nostalgix-cosmicmeadow-edc-las-vegas-united-states-2023-05-19.html",
+  "djs": [
+    {
+      "name": "Nostalgix",
+      "slug": "nostalgix"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9167536",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Major Lazer ft. Travis Scott & Camila Cabello & Quavo",
+      "title": "Know No Better (BROHUG Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "9167537",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "378005",
+        "youtube": "378005",
+        "soundcloud": "378005",
+        "appleMusic": "378005"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Knock2",
+      "title": "JUMP in",
+      "remix": "",
+      "label": "NIGHTMODE",
+      "trackId": "9167538",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "861806",
+        "youtube": "861806",
+        "soundcloud": "861806",
+        "appleMusic": "861806"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "YOGI ft. Pusha T",
+      "title": "Burial",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "9167539",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "186418",
+        "youtube": "186418",
+        "soundcloud": "186418",
+        "appleMusic": "186418"
+      },
+      "blendGroup": [
+        {
+          "artist": "YOGI ft. Pusha T",
+          "title": "Burial",
+          "remix": "",
+          "trackId": "9167539"
+        },
+        {
+          "artist": "RIOT",
+          "title": "In Your House",
+          "remix": "",
+          "trackId": "9167540"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RIOT",
+      "title": "In Your House",
+      "remix": "",
+      "label": "GUD VIBRATIONS",
+      "trackId": "9167540",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 200,
+      "mediaIds": {
+        "spotify": "910935",
+        "youtube": "910935",
+        "soundcloud": "910935",
+        "appleMusic": "910935"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Nostalgix",
+      "title": "Act Out",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "9167541",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "634023",
+        "youtube": "634023",
+        "soundcloud": "634023",
+        "appleMusic": "634023"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nostalgix",
+          "title": "Act Out",
+          "remix": "",
+          "trackId": "9167541"
+        },
+        {
+          "artist": "BASSTRICK",
+          "title": "No Words",
+          "remix": "",
+          "trackId": "9167542"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "BASSTRICK",
+      "title": "No Words",
+      "remix": "",
+      "label": "",
+      "trackId": "9167542",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "896420",
+        "youtube": "896420",
+        "soundcloud": "896420",
+        "appleMusic": "896420"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Danny Time",
+      "title": "Once Again",
+      "remix": "",
+      "label": "",
+      "trackId": "9167543",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "897824",
+        "youtube": "897824",
+        "soundcloud": "897824",
+        "appleMusic": "897824"
+      },
+      "blendGroup": [
+        {
+          "artist": "Danny Time",
+          "title": "Once Again",
+          "remix": "",
+          "trackId": "9167543"
+        },
+        {
+          "artist": "Habstrakt",
+          "title": "Tonight",
+          "remix": "",
+          "trackId": "9167544"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Habstrakt",
+      "title": "Tonight",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "9167544",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "878103",
+        "youtube": "878103",
+        "soundcloud": "878103",
+        "appleMusic": "878103"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "DJ Fresh ft. Sian Evans",
+      "title": "Louder",
+      "remix": "",
+      "label": "MINISTRY OF SOUND",
+      "trackId": "9167545",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "36024",
+        "youtube": "36024",
+        "soundcloud": "36024",
+        "appleMusic": "36024"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Fresh ft. Sian Evans",
+          "title": "Louder",
+          "remix": "",
+          "trackId": "9167545"
+        },
+        {
+          "artist": "JAUZ & TYNAN",
+          "title": "Bring Em Back (Nostalgix Edit)",
+          "remix": "",
+          "trackId": "9167546"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAUZ & TYNAN",
+      "title": "Bring Em Back (Nostalgix Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9167546",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "08",
+      "artist": "ALRT",
+      "title": "New Hype",
+      "remix": "",
+      "label": "NRG RECORDS",
+      "trackId": "9167547",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "903204",
+        "youtube": "903204",
+        "soundcloud": "903204",
+        "appleMusic": "903204"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Bring Me The Horizon",
+      "title": "Parasite Eve (Saint Punk Remix)",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "9167548",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "991275",
+        "soundcloud": "991275"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "TV Noise",
+      "title": "Can You Feel It",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "9167549",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "860100",
+        "youtube": "860100",
+        "soundcloud": "860100",
+        "appleMusic": "860100"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Nostalgix",
+      "title": "My Type",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "9167550",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "793174",
+        "youtube": "793174",
+        "soundcloud": "793174",
+        "appleMusic": "793174"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "ATRIP",
+      "title": "Shots Fired",
+      "remix": "",
+      "label": "DIVERGE",
+      "trackId": "9167611",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 841,
+      "mediaIds": {
+        "spotify": "614806",
+        "youtube": "614806",
+        "soundcloud": "614806",
+        "appleMusic": "614806"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Empire Of The Sun",
+      "title": "Alive (Zedd Remix)",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "9167551",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 888,
+      "mediaIds": {
+        "spotify": "135866",
+        "youtube": "135866",
+        "soundcloud": "135866",
+        "appleMusic": "135866"
+      },
+      "blendGroup": [
+        {
+          "artist": "Empire Of The Sun",
+          "title": "Alive (Zedd Remix)",
+          "remix": "",
+          "trackId": "9167551"
+        },
+        {
+          "artist": "Andrew Lux",
+          "title": "Peanut Butter Smack (Nostalgix Edit)",
+          "remix": "",
+          "trackId": "9167552"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Andrew Lux",
+      "title": "Peanut Butter Smack (Nostalgix Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9167552",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 945,
+      "mediaIds": null
+    },
+    {
+      "pos": "14",
+      "artist": "Nostalgix",
+      "title": "Need You",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "9167553",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 994,
+      "mediaIds": {
+        "spotify": "968933",
+        "youtube": "968933",
+        "soundcloud": "968933",
+        "appleMusic": "968933"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Lil Uzi Vert",
+      "title": "Just Wanna Rock",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "9167554",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "839321",
+        "youtube": "839321",
+        "soundcloud": "839321",
+        "appleMusic": "839321"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lil Uzi Vert",
+          "title": "Just Wanna Rock",
+          "remix": "",
+          "trackId": "9167554"
+        },
+        {
+          "artist": "RageMode",
+          "title": "For You (Nostalgix Edit)",
+          "remix": "",
+          "trackId": "9167555"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RageMode",
+      "title": "For You (Nostalgix Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9167555",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "16",
+      "artist": "Dr. Fresch & BIJOU ft. Willy Northpole",
+      "title": "Westside (Nostalgix Remix)",
+      "remix": "",
+      "label": "DO NOT DUPLICATE",
+      "trackId": "9167556",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "627691",
+        "youtube": "627691",
+        "soundcloud": "627691",
+        "appleMusic": "627691"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Valentino Khan & NITTI",
+      "title": "What You Got",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "9167557",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "873629",
+        "youtube": "873629",
+        "soundcloud": "873629",
+        "appleMusic": "873629"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Leotrix",
+      "title": "Tokyo Bounce (JACKNIFE Recut)",
+      "remix": "",
+      "label": "PATREON/UMG/NSD: BLACK LABEL",
+      "trackId": "9167558",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "718901",
+        "soundcloud": "718901"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Moksi & Mike Cervello",
+      "title": "Brooklyn",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "9167559",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "586639",
+        "youtube": "586639",
+        "soundcloud": "586639",
+        "appleMusic": "586639"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Skrillex & Mr. Oizo ft. Missy Elliott",
+      "title": "RATATA (Nostalgix Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "9167560",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Moksi & Nostalgix",
+      "title": "Gimme Bass",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "9167561",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "902725",
+        "youtube": "902725",
+        "soundcloud": "902725",
+        "appleMusic": "902725"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Fraze & Fame Sounds ft. Milano The Don",
+      "title": "Black Out",
+      "remix": "",
+      "label": "",
+      "trackId": "9167562",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1807,
+      "mediaIds": {
+        "soundcloud": "9167562"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone (Pickle Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "9167563",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "840274",
+        "soundcloud": "840274"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alice Deejay",
+          "title": "Better Off Alone (Pickle Remix)",
+          "remix": "",
+          "trackId": "9167563"
+        },
+        {
+          "artist": "Benny Benassi pres. The Biz",
+          "title": "Satisfaction (Acappella)",
+          "remix": "",
+          "trackId": "9167564"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Benny Benassi pres. The Biz",
+      "title": "Satisfaction (Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "9167564",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2029",
+        "youtube": "2029",
+        "soundcloud": "2029",
+        "appleMusic": "2029"
+      },
+      "blendGroup": [
+        {
+          "artist": "Benny Benassi pres. The Biz",
+          "title": "Satisfaction (Acappella)",
+          "remix": "",
+          "trackId": "9167564"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9446586"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9446586",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "24",
+      "artist": "Ariana Grande",
+      "title": "God Is A Woman",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "9167565",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "453479",
+        "youtube": "453479",
+        "soundcloud": "453479",
+        "appleMusic": "453479"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ariana Grande",
+          "title": "God Is A Woman",
+          "remix": "",
+          "trackId": "9167565"
+        },
+        {
+          "artist": "Justyle",
+          "title": "Illusion",
+          "remix": "",
+          "trackId": "9167566"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justyle",
+      "title": "Illusion",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "9167566",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "896422",
+        "youtube": "896422",
+        "soundcloud": "896422",
+        "appleMusic": "896422"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Danny Time",
+      "title": "Let It Drip",
+      "remix": "",
+      "label": "THICCFREQNESS",
+      "trackId": "9167567",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "938060",
+        "youtube": "938060",
+        "soundcloud": "938060",
+        "appleMusic": "938060"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Nostalgix & Michael Sparks",
+      "title": "Supah Fly",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "9167568",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "830401",
+        "youtube": "830401",
+        "soundcloud": "830401",
+        "appleMusic": "830401"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Dog Blood",
+      "title": "Turn Off The Lights (Guy Arthur Flip)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9167569",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "503507",
+        "soundcloud": "503507"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Ray Volpe",
+      "title": "Laserbeam (Good Times Ahead Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9167570",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "863068",
+        "youtube": "863068",
+        "soundcloud": "863068",
+        "appleMusic": "863068"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Mikeable & Nightsub",
+      "title": "Everything",
+      "remix": "",
+      "label": "",
+      "trackId": "9167571",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "896423",
+        "youtube": "896423",
+        "soundcloud": "896423",
+        "appleMusic": "896423"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Nostalgix ft. Chi City",
+      "title": "Party All Night",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "9167572",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "840513",
+        "youtube": "840513",
+        "appleMusic": "840513"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Henry Fong",
+      "title": "Rave Tool",
+      "remix": "",
+      "label": "SKINK",
+      "trackId": "9167573",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "513623",
+        "youtube": "513623",
+        "soundcloud": "513623",
+        "appleMusic": "513623"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Jack Ü ft. Bunji Garlin & MX Prime",
+      "title": "Jungle Bae",
+      "remix": "",
+      "label": "ATLANTIC/MAD DECENT",
+      "trackId": "9167574",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "220647",
+        "youtube": "220647",
+        "soundcloud": "220647",
+        "appleMusic": "220647"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Wuki & Benzi vs. Yeah Yeah Yeahs vs. Riot Ten & Crankdat",
+      "title": "We Like To Fuck That Shit vs. Heads Will Roll vs. Own The Night (Netgate Edit)",
+      "remix": "",
+      "label": "DGC/WUKILEAKS/VIOLENT/WAX/BARONG FAMILY/DIM MAK",
+      "trackId": "9167575",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "985012"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wuki & Benzi vs. Yeah Yeah Yeahs vs. Riot Ten & Crankdat",
+          "title": "We Like To Fuck That Shit vs. Heads Will Roll vs. Own The Night (Netgate Edit)",
+          "remix": "",
+          "trackId": "9167575"
+        },
+        {
+          "artist": "JAUZ & DJ Snake",
+          "title": "Gassed Up",
+          "remix": "(Edit)",
+          "trackId": "9167577"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAUZ & DJ Snake",
+      "title": "Gassed Up",
+      "remix": "(Edit)",
+      "label": "BITE THIS!",
+      "trackId": "9167577",
+      "row": 33,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "376599",
+        "youtube": "376599",
+        "soundcloud": "376599",
+        "appleMusic": "376599"
+      }
+    },
+    {
+      "pos": "34",
+      "artist": "Destiny's Child",
+      "title": "Jumpin' Jumpin'",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "9167578",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "413984",
+        "youtube": "413984",
+        "appleMusic": "413984"
+      },
+      "blendGroup": [
+        {
+          "artist": "Destiny's Child",
+          "title": "Jumpin' Jumpin'",
+          "remix": "",
+          "trackId": "9167578"
+        },
+        {
+          "artist": "Knock2",
+          "title": "JUMP in (2Spade Flip)",
+          "remix": "",
+          "trackId": "9167579"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knock2",
+      "title": "JUMP in (2Spade Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "9167579",
+      "row": 34,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "917778",
+        "soundcloud": "917778"
+      }
+    },
+    {
+      "pos": "35",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9167580",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Habstrakt",
+      "title": "Tonight",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "9167581",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "878103",
+        "youtube": "878103",
+        "soundcloud": "878103",
+        "appleMusic": "878103"
+      },
+      "blendGroup": [
+        {
+          "artist": "Habstrakt",
+          "title": "Tonight",
+          "remix": "",
+          "trackId": "9167581"
+        },
+        {
+          "artist": "Michael Sparks & SWRVO",
+          "title": "Act To Me",
+          "remix": "(Edit)",
+          "trackId": "9167582"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Michael Sparks & SWRVO",
+      "title": "Act To Me",
+      "remix": "(Edit)",
+      "label": "MOKSI FAMILY (BARONG FAMILY)",
+      "trackId": "9167582",
+      "row": 36,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "571941",
+        "youtube": "571941",
+        "soundcloud": "571941",
+        "appleMusic": "571941"
+      }
+    },
+    {
+      "pos": "37",
+      "artist": "Nostalgix",
+      "title": "Step Back",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "9167583",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "879495",
+        "youtube": "879495",
+        "soundcloud": "879495",
+        "appleMusic": "879495"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Saint Punk",
+      "title": "Pump It Up",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "9167584",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 3285,
+      "mediaIds": {
+        "spotify": "907279",
+        "youtube": "907279",
+        "soundcloud": "907279",
+        "appleMusic": "907279"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Corona",
+      "title": "The Rhythm Of The Night (Acappella)",
+      "remix": "",
+      "label": "ZYX",
+      "trackId": "9167585",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2598",
+        "youtube": "8651",
+        "soundcloud": "2598",
+        "appleMusic": "2598"
+      },
+      "blendGroup": [
+        {
+          "artist": "Corona",
+          "title": "The Rhythm Of The Night (Acappella)",
+          "remix": "",
+          "trackId": "9167585"
+        },
+        {
+          "artist": "Trippie Redd ft. Playboi Carti",
+          "title": "Miss The Rage",
+          "remix": "",
+          "trackId": "9446773"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Trippie Redd ft. Playboi Carti",
+      "title": "Miss The Rage",
+      "remix": "",
+      "label": "TENTHOUSAND PROJECTS",
+      "trackId": "9446773",
+      "row": 39,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "690828",
+        "youtube": "690828",
+        "soundcloud": "690828",
+        "appleMusic": "690828"
+      },
+      "blendGroup": [
+        {
+          "artist": "Trippie Redd ft. Playboi Carti",
+          "title": "Miss The Rage",
+          "remix": "",
+          "trackId": "9446773"
+        },
+        {
+          "artist": "TV Noise & Henry Fong",
+          "title": "Bumba Bass",
+          "remix": "",
+          "trackId": "9167586"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TV Noise & Henry Fong",
+      "title": "Bumba Bass",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "9167586",
+      "row": 39,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "869118",
+        "youtube": "869118",
+        "soundcloud": "869118",
+        "appleMusic": "869118"
+      },
+      "blendGroup": [
+        {
+          "artist": "TV Noise & Henry Fong",
+          "title": "Bumba Bass",
+          "remix": "",
+          "trackId": "9167586"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9167587"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9167587",
+      "row": 39,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "3541512",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1558491313"
+    },
+    {
+      "platform": "source_2",
+      "idMedia": "3467857",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/nostalgix-at-edc-las-vegas-2023-cosmic-meadow-stage-dj-mix/1693422166/us/album/nostalgix-at-edc-las-vegas-2023-cosmic-meadow-stage-dj-mix/1693422166?app=music&at=1000lwkw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:23:11.053Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,640 @@
+{
+  "tlId": "6v9fhv1",
+  "dj": "Hook N Sling",
+  "stage": "Electric Zoo",
+  "date": "2014-08-30",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/6v9fhv1/hook-n-sling-electric-zoo-united-states-2014-08-30.html",
+  "djs": [
+    {
+      "name": "Hook N Sling",
+      "slug": "hooknsling"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Kryder & Still Young ft. Duane Harden",
+      "title": "Feels Like Summer",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1060740",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 15,
+      "mediaIds": {
+        "spotify": "205320",
+        "youtube": "205320",
+        "soundcloud": "205320",
+        "appleMusic": "205320"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Mark Knight & Funkagenda",
+      "title": "Man With The Red Face (Hardwell Remix)",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "1060741",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 164,
+      "mediaIds": {
+        "spotify": "146370",
+        "youtube": "146370",
+        "soundcloud": "146370",
+        "appleMusic": "146370"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mark Knight & Funkagenda",
+          "title": "Man With The Red Face (Hardwell Remix)",
+          "remix": "",
+          "trackId": "1060741"
+        },
+        {
+          "artist": "Disclosure ft. London Grammar",
+          "title": "Help Me Lose My Mind (DallasK Bootleg)",
+          "remix": "",
+          "trackId": "1060742"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Disclosure ft. London Grammar",
+      "title": "Help Me Lose My Mind (DallasK Bootleg)",
+      "remix": "",
+      "label": "PMR",
+      "trackId": "1060742",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 239,
+      "mediaIds": {
+        "youtube": "181406",
+        "soundcloud": "181406"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Armin van Buuren ft. Miri Ben-Ari",
+      "title": "Intense (Dannic Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "1105804",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 321,
+      "mediaIds": {
+        "spotify": "155188",
+        "youtube": "155188",
+        "soundcloud": "155188",
+        "appleMusic": "155188"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Arno Cost & Norman Doray",
+      "title": "Apocalypse 2014 (Kryder & Tom Staar Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1060743",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 426,
+      "mediaIds": {
+        "spotify": "177985",
+        "youtube": "177985",
+        "soundcloud": "177985",
+        "appleMusic": "177985"
+      },
+      "blendGroup": [
+        {
+          "artist": "Arno Cost & Norman Doray",
+          "title": "Apocalypse 2014 (Kryder & Tom Staar Remix)",
+          "remix": "",
+          "trackId": "1060743"
+        },
+        {
+          "artist": "Alesso",
+          "title": "Raise Your Head (Acappella)",
+          "remix": "",
+          "trackId": "1060744"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alesso",
+      "title": "Raise Your Head (Acappella)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "1060744",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 542,
+      "mediaIds": {
+        "spotify": "47971",
+        "youtube": "81528",
+        "soundcloud": "81528",
+        "appleMusic": "47971"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Hook N Sling ft. Karin Park",
+      "title": "Tokyo By Night (Acappella)",
+      "remix": "",
+      "label": "DIVERSION",
+      "trackId": "1060745",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 648,
+      "mediaIds": {
+        "spotify": "145229",
+        "youtube": "145229",
+        "soundcloud": "213268",
+        "appleMusic": "145229"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hook N Sling ft. Karin Park",
+          "title": "Tokyo By Night (Acappella)",
+          "remix": "",
+          "trackId": "1060745"
+        },
+        {
+          "artist": "Alesso",
+          "title": "Tear The Roof Up",
+          "remix": "",
+          "trackId": "1060746"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alesso",
+      "title": "Tear The Roof Up",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "1060746",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 723,
+      "mediaIds": {
+        "spotify": "186091",
+        "youtube": "186091",
+        "soundcloud": "186091",
+        "appleMusic": "186091"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Duke Dumont & A*M*E vs. Oliver Heldens",
+      "title": "100% vs. Gecko (Cobra Effect Biteleg)",
+      "remix": "",
+      "label": "MINISTRY OF SOUND/MUSICAL FREEDOM",
+      "trackId": "1060747",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 826,
+      "mediaIds": {
+        "youtube": "198671",
+        "soundcloud": "198671"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Bass Kleph",
+      "title": "Cowboy Coffee",
+      "remix": "",
+      "label": "VACATION",
+      "trackId": "1060748",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1074,
+      "mediaIds": {
+        "spotify": "239236",
+        "soundcloud": "239236",
+        "appleMusic": "239236"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Marco V",
+      "title": "MET",
+      "remix": "",
+      "label": "FLAMINGO",
+      "trackId": "1060749",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1223,
+      "mediaIds": {
+        "spotify": "197669",
+        "youtube": "197669",
+        "soundcloud": "197669",
+        "appleMusic": "197669"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Kid Cudi ft. MGMT & Ratatat",
+      "title": "Pursuit Of Happiness (Steve Aoki Remix)",
+      "remix": "",
+      "label": "REPUBLIC/GOOD MUSIC",
+      "trackId": "1060751",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1457,
+      "mediaIds": {
+        "spotify": "28421",
+        "youtube": "28421",
+        "soundcloud": "28421",
+        "appleMusic": "28421"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kid Cudi ft. MGMT & Ratatat",
+          "title": "Pursuit Of Happiness (Steve Aoki Remix)",
+          "remix": "",
+          "trackId": "1060751"
+        },
+        {
+          "artist": "Tommy Trash",
+          "title": "Monkey See Monkey Do (Tommy Trash Re-Edit)",
+          "remix": "",
+          "trackId": "1060750"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tommy Trash",
+      "title": "Monkey See Monkey Do (Tommy Trash Re-Edit)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "1060750",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 1467,
+      "mediaIds": {
+        "spotify": "119031",
+        "youtube": "119031",
+        "soundcloud": "119031",
+        "appleMusic": "119031"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Dansson & Marlon Hoffstadt",
+      "title": "Shake That (Tom Staar Remix)",
+      "remix": "",
+      "label": "FFRR (PARLOPHONE)",
+      "trackId": "1060752",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "172215",
+        "youtube": "172215",
+        "soundcloud": "172215",
+        "appleMusic": "172215"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Sandro Silva vs. Hard Rock Sofa & Skidka",
+      "title": "Arms Around Me vs. Payback (Sandro Sofa) (Cobra Effect Biteleg)",
+      "remix": "",
+      "label": "REVEALED/AXTONE",
+      "trackId": "1060753",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1856,
+      "mediaIds": {
+        "soundcloud": "209942"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Sultan + Shepard ft. Denny White",
+      "title": "Don't Let Me Down (Hook N Sling Remix)",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "1060755",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2098,
+      "mediaIds": {
+        "spotify": "246268",
+        "youtube": "246268",
+        "soundcloud": "246268",
+        "appleMusic": "246268"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sultan + Shepard ft. Denny White",
+          "title": "Don't Let Me Down (Hook N Sling Remix)",
+          "remix": "",
+          "trackId": "1060755"
+        },
+        {
+          "artist": "Icona Pop ft. Charli xcx",
+          "title": "I Love It",
+          "remix": "",
+          "trackId": "1060757"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Icona Pop ft. Charli xcx",
+      "title": "I Love It",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1060757",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 2357,
+      "mediaIds": {
+        "spotify": "94593",
+        "youtube": "94593",
+        "soundcloud": "94593",
+        "appleMusic": "94593"
+      },
+      "blendGroup": [
+        {
+          "artist": "Icona Pop ft. Charli xcx",
+          "title": "I Love It",
+          "remix": "",
+          "trackId": "1060757"
+        },
+        {
+          "artist": "Alice Deejay",
+          "title": "Better Off Alone",
+          "remix": "",
+          "trackId": "1060756"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone",
+      "remix": "",
+      "label": "VIOLENT",
+      "trackId": "1060756",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 2372,
+      "mediaIds": {
+        "spotify": "30450",
+        "youtube": "30450",
+        "soundcloud": "30450",
+        "appleMusic": "30450"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alice Deejay",
+          "title": "Better Off Alone",
+          "remix": "",
+          "trackId": "1060756"
+        },
+        {
+          "artist": "Funkin Matt",
+          "title": "Alive",
+          "remix": "",
+          "trackId": "1060759"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Funkin Matt",
+      "title": "Alive",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "1060759",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 2399,
+      "mediaIds": {
+        "spotify": "175729",
+        "youtube": "175729",
+        "soundcloud": "175729",
+        "appleMusic": "175729"
+      },
+      "blendGroup": [
+        {
+          "artist": "Funkin Matt",
+          "title": "Alive",
+          "remix": "",
+          "trackId": "1060759"
+        },
+        {
+          "artist": "Don Diablo & CID",
+          "title": "Got Me Thinkin' (Acappella)",
+          "remix": "",
+          "trackId": "1105805"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Don Diablo & CID",
+      "title": "Got Me Thinkin' (Acappella)",
+      "remix": "",
+      "label": "X",
+      "trackId": "1105805",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 2459,
+      "mediaIds": {
+        "spotify": "161050",
+        "youtube": "161050",
+        "soundcloud": "216776"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Anna Lunoe",
+      "title": "Bass Drum Dealer (B.D.D)",
+      "remix": "",
+      "label": "NEST (OWSLA)",
+      "trackId": "1060760",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2461,
+      "mediaIds": {
+        "spotify": "201112",
+        "youtube": "201112",
+        "soundcloud": "201112",
+        "appleMusic": "201112"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Major Lazer vs. Dada Life vs. Dimitri Vegas & Like Mike",
+      "title": "Watch Out For Bubble Butt (Alesso Mashup)",
+      "remix": "",
+      "label": "MAD DECENT/SECRETLY CANADIAN",
+      "trackId": "1060761",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2610,
+      "mediaIds": {
+        "soundcloud": "190187"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Calvin Harris",
+      "title": "C.U.B.A",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "1060763",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2795,
+      "mediaIds": {
+        "spotify": "200708",
+        "youtube": "200708",
+        "soundcloud": "200708",
+        "appleMusic": "200708"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "R3hab & Deorro vs. Disclosure & Sam Smith & Joel Fletcher",
+      "title": "Flashlight vs. Latch (Pjanoo Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/PMR",
+      "trackId": "1060764",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2963,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Hook N Sling ft. Karin Park",
+      "title": "Tokyo By Night",
+      "remix": "",
+      "label": "DIVERSION",
+      "trackId": "1072571",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3165,
+      "mediaIds": {
+        "spotify": "145229",
+        "youtube": "145229",
+        "soundcloud": "145229",
+        "appleMusic": "145229"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hook N Sling ft. Karin Park",
+          "title": "Tokyo By Night",
+          "remix": "",
+          "trackId": "1072571"
+        },
+        {
+          "artist": "Hook N Sling ft. Karin Park",
+          "title": "Tokyo By Night (Axwell Remix)",
+          "remix": "",
+          "trackId": "1060766"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hook N Sling ft. Karin Park",
+      "title": "Tokyo By Night (Axwell Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "1060766",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 3285,
+      "mediaIds": {
+        "spotify": "188442",
+        "youtube": "188442",
+        "soundcloud": "188442",
+        "appleMusic": "188442"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Lana Del Rey",
+      "title": "Ultraviolence (Hook N Sling Remix)",
+      "remix": "",
+      "label": "ARMADA TRICE",
+      "trackId": "1060767",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3420,
+      "mediaIds": {
+        "spotify": "206617",
+        "youtube": "206617",
+        "soundcloud": "206617",
+        "appleMusic": "206617"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Hardwell & Joey Dale ft. Luciana",
+      "title": "Arcadia",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1060768",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3537,
+      "mediaIds": {
+        "spotify": "186122",
+        "youtube": "186122",
+        "soundcloud": "186122",
+        "appleMusic": "186122"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "212195",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=1nVyE0vJIyg"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "212252",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/thebesthouse"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "212848",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:07:38.261Z",
+  "scrapeVersion": 2
+}

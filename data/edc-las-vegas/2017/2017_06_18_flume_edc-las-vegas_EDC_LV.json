@@ -1,0 +1,191 @@
+{
+  "tlId": "10r7um7k",
+  "dj": "Flume",
+  "stage": "EDC Las Vegas",
+  "date": "2017-06-18",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/10r7um7k/flume-daylight-beach-club-edc-las-vegas-united-states-2017-06-18.html",
+  "djs": [
+    {
+      "name": "Flume",
+      "slug": "flume"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Point Point",
+      "title": "doubleOreo (San Holo Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "2720598",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "246603",
+        "soundcloud": "246603"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Carnage ft. Lil Uzi Vert & A$AP Ferg & Rich The Kid",
+      "title": "WDYW",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "2720599",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "238145",
+        "youtube": "238145",
+        "soundcloud": "238145",
+        "appleMusic": "238145"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Hudson Mohawke",
+      "title": "Cbat (Boombox Cartel Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2720600",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "356930",
+        "soundcloud": "356930"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Kap G ft. Ty Dolla $ign & Quavo",
+      "title": "Girlfriend (Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "2720601",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "349322",
+        "youtube": "349322",
+        "soundcloud": "349322",
+        "appleMusic": "349322"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kap G ft. Ty Dolla $ign & Quavo",
+          "title": "Girlfriend (Remix)",
+          "remix": "",
+          "trackId": "2720601"
+        },
+        {
+          "artist": "The Notorious B.I.G.",
+          "title": "Big Poppa",
+          "remix": "",
+          "trackId": "2720602"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Notorious B.I.G.",
+      "title": "Big Poppa",
+      "remix": "",
+      "label": "WORD OF MOUTH",
+      "trackId": "2720602",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "272839",
+        "youtube": "272839",
+        "soundcloud": "272839",
+        "appleMusic": "272839"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Disclosure ft. Eliza Doolittle",
+      "title": "You & Me (Flume Remix)",
+      "remix": "",
+      "label": "PMR",
+      "trackId": "2720603",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "142071",
+        "youtube": "142071",
+        "soundcloud": "142071",
+        "appleMusic": "142071"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "What So Not",
+      "title": "Touched",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2720604",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "167996",
+        "soundcloud": "167996"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Future",
+      "title": "Mask Off",
+      "remix": "",
+      "label": "FREEBANDZ",
+      "trackId": "2720605",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "348685",
+        "youtube": "348685",
+        "soundcloud": "348685",
+        "appleMusic": "348685"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Flume ft. Kai",
+      "title": "Never Be Like You",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "2720606",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "291910",
+        "youtube": "291910",
+        "soundcloud": "291910",
+        "appleMusic": "291910"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T07:24:37.989Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,588 @@
+{
+  "tlId": "397fu01",
+  "dj": "CAZZETTE",
+  "stage": "EDC Las Vegas",
+  "date": "2013-06-23",
+  "year": 2013,
+  "url": "https://www.1001tracklists.com/tracklist/397fu01/cazzette-circuitgrounds-edc-las-vegas-united-states-2013-06-23.html",
+  "djs": [
+    {
+      "name": "CAZZETTE",
+      "slug": "cazzette"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Justice",
+      "title": "Genesis",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "552553",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "67026",
+        "youtube": "67026",
+        "soundcloud": "67026",
+        "appleMusic": "67026"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "New World Sound",
+      "title": "Aye!",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "541241",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "122521",
+        "youtube": "122521",
+        "soundcloud": "122521",
+        "appleMusic": "122521"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "CAZZETTE",
+      "title": "Hit Da Face",
+      "remix": "",
+      "label": "4TH & B'WAY (ISLAND DEF JAM)",
+      "trackId": "540620",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "68321",
+        "youtube": "68321",
+        "soundcloud": "68321"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Bingo Players",
+      "title": "Rattle",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "540621",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "46307",
+        "youtube": "46307",
+        "soundcloud": "46307",
+        "appleMusic": "46307"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bingo Players",
+          "title": "Rattle",
+          "remix": "",
+          "trackId": "540621"
+        },
+        {
+          "artist": "MVTH",
+          "title": "Fuck",
+          "remix": "",
+          "trackId": "540622"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MVTH",
+      "title": "Fuck",
+      "remix": "",
+      "label": "BURN THE FIRE",
+      "trackId": "540622",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "138327",
+        "youtube": "138327",
+        "soundcloud": "138327",
+        "appleMusic": "138327"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "The Chemical Brothers",
+      "title": "Block Rockin Beats (CAZZETTE Live Bootleg)",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "540623",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "141384"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Swedish House Mafia",
+      "title": "Greyhound",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "540624",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "64824",
+        "youtube": "64824",
+        "soundcloud": "64824",
+        "appleMusic": "64824"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia",
+          "title": "Greyhound",
+          "remix": "",
+          "trackId": "540624"
+        },
+        {
+          "artist": "Chris Lake & Marco Lys",
+          "title": "La Tromba (Chris Lake & Nom De Strip Remix)",
+          "remix": "",
+          "trackId": "540654"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chris Lake & Marco Lys",
+      "title": "La Tromba (Chris Lake & Nom De Strip Remix)",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "540654",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "137508",
+        "youtube": "137508",
+        "soundcloud": "137508",
+        "appleMusic": "137508"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Tritonal & 7 Skies",
+      "title": "Reset",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "540626",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "126208",
+        "youtube": "126208",
+        "soundcloud": "126208",
+        "appleMusic": "126208"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tritonal & 7 Skies",
+          "title": "Reset",
+          "remix": "",
+          "trackId": "540626"
+        },
+        {
+          "artist": "Nicky Romero",
+          "title": "Toulouse",
+          "remix": "",
+          "trackId": "540625"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nicky Romero",
+      "title": "Toulouse",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "540625",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "56269",
+        "youtube": "56269",
+        "soundcloud": "56269",
+        "appleMusic": "56269"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Tiësto",
+      "title": "Chasing Summers (R3HAB & Quintino Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "540627",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "100112",
+        "youtube": "100112",
+        "soundcloud": "100112",
+        "appleMusic": "100112"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto",
+          "title": "Chasing Summers (R3HAB & Quintino Remix)",
+          "remix": "",
+          "trackId": "540627"
+        },
+        {
+          "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+          "title": "Fall Into The Sky",
+          "remix": "",
+          "trackId": "540628"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+      "title": "Fall Into The Sky",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "540628",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "97743",
+        "youtube": "97743",
+        "soundcloud": "97743",
+        "appleMusic": "97743"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "CAZZETTE ft. Niles Mason",
+      "title": "I Surrender (Dzeko & Torres Remix)",
+      "remix": "",
+      "label": "VERATONE",
+      "trackId": "540629",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "140388"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "CAZZETTE ft. Niles Mason",
+      "title": "I Surrender",
+      "remix": "",
+      "label": "4TH & B'WAY (ISLAND DEF JAM)",
+      "trackId": "6011156",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "113387",
+        "youtube": "113387"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "CAZZETTE",
+      "title": "Weapon",
+      "remix": "",
+      "label": "4TH & B'WAY (ISLAND DEF JAM)",
+      "trackId": "540630",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "92967",
+        "youtube": "92967"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Henrik B & Niklas Gustavsson & Peter Johansson",
+      "title": "Echoes",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "540631",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "124992",
+        "youtube": "124992",
+        "soundcloud": "124992",
+        "appleMusic": "124992"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Discopolis",
+      "title": "Committed To Sparkle Motion (DubVision Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "540632",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "99863",
+        "youtube": "99863",
+        "soundcloud": "99863",
+        "appleMusic": "99863"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "CAZZETTE ft. Bebe Rexha",
+      "title": "One Cry",
+      "remix": "",
+      "label": "ICONS",
+      "trackId": "540633",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "181254",
+        "soundcloud": "181254"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "CAZZETTE ft. Heather Bright",
+      "title": "Beam Me Up (Kill Mode) (Vocal Mix)",
+      "remix": "",
+      "label": "4TH & B'WAY (ISLAND DEF JAM)",
+      "trackId": "540655",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "66694",
+        "soundcloud": "66694"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Noisecontrollers & Showtek",
+      "title": "Get Loose (Tiësto Remix)",
+      "remix": "",
+      "label": "2DUTCH",
+      "trackId": "540634",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "104908",
+        "youtube": "104908",
+        "soundcloud": "104908",
+        "appleMusic": "104908"
+      },
+      "blendGroup": [
+        {
+          "artist": "Noisecontrollers & Showtek",
+          "title": "Get Loose (Tiësto Remix)",
+          "remix": "",
+          "trackId": "540634"
+        },
+        {
+          "artist": "Martin Garrix",
+          "title": "Animals",
+          "remix": "",
+          "trackId": "540635"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Garrix",
+      "title": "Animals",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "540635",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "133924",
+        "youtube": "133924",
+        "soundcloud": "133924",
+        "appleMusic": "133924"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6011157",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6011157"
+        },
+        {
+          "artist": "Pendulum",
+          "title": "The Island, Pt. I (Dawn) (Acappella)",
+          "remix": "",
+          "trackId": "540636"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pendulum",
+      "title": "The Island, Pt. I (Dawn) (Acappella)",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "540636",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "19473",
+        "youtube": "19473",
+        "soundcloud": "30649",
+        "appleMusic": "19473"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "CAZZETTE",
+      "title": "The Rat",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "927370",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "61015"
+      },
+      "blendGroup": [
+        {
+          "artist": "CAZZETTE",
+          "title": "The Rat",
+          "remix": "",
+          "trackId": "927370"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike",
+          "title": "Wakanda",
+          "remix": "",
+          "trackId": "540637"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike",
+      "title": "Wakanda",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "540637",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "106434",
+        "youtube": "106434",
+        "soundcloud": "106434",
+        "appleMusic": "106434"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Tim Berg",
+      "title": "Alcoholic (CAZZETTE Trapleg Mix)",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "540669",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "128052",
+        "youtube": "128052",
+        "appleMusic": "128052"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Benny Benassi pres. The Biz",
+      "title": "Satisfaction (RL Grime Remix)",
+      "remix": "",
+      "label": "D:VISION",
+      "trackId": "540638",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "104427",
+        "youtube": "104427",
+        "soundcloud": "104427",
+        "appleMusic": "104427"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "956402",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=0m_B9iEB86g"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "956401",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/livesetsdjmixes"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "95926",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:14:34.803Z",
+  "scrapeVersion": 2
+}

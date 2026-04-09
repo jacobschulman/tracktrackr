@@ -1,0 +1,176 @@
+{
+  "tlId": "9j3du39",
+  "dj": "CamelPhat",
+  "stage": "EDC Mexico",
+  "date": "2019-02-24",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/9j3du39/camelphat-neongarden-edc-mexico-2019-02-24.html",
+  "djs": [
+    {
+      "name": "CamelPhat",
+      "slug": "camelphat"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Rebūke",
+      "title": "Along Came Polly",
+      "remix": "",
+      "label": "HOT CREATIONS",
+      "trackId": "4072669",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "455000",
+        "youtube": "455000",
+        "soundcloud": "455000",
+        "appleMusic": "455000"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Xpansions",
+      "title": "Move Your Body (Elevation) (Rebūke Remix)",
+      "remix": "",
+      "label": "FOOD MUSIC",
+      "trackId": "4072670",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 192,
+      "mediaIds": {
+        "spotify": "473189",
+        "youtube": "473189",
+        "soundcloud": "473189",
+        "appleMusic": "473189"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4072671",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 420,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Patrice Bäumel",
+      "title": "Roar (Adana Twins Remix)",
+      "remix": "",
+      "label": "WATERGATE",
+      "trackId": "4072672",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 640,
+      "mediaIds": {
+        "spotify": "426432",
+        "youtube": "426432",
+        "soundcloud": "426432",
+        "appleMusic": "426432"
+      },
+      "blendGroup": [
+        {
+          "artist": "Patrice Bäumel",
+          "title": "Roar (Adana Twins Remix)",
+          "remix": "",
+          "trackId": "4072672"
+        },
+        {
+          "artist": "The Chemical Brothers",
+          "title": "Hey Boy, Hey Girl (Acappella)",
+          "remix": "",
+          "trackId": "4072673"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chemical Brothers",
+      "title": "Hey Boy, Hey Girl (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "4072673",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1952",
+        "youtube": "9502",
+        "soundcloud": "1952",
+        "appleMusic": "1952"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Luigi Madonna",
+      "title": "Chaud Fontaine",
+      "remix": "",
+      "label": "",
+      "trackId": "13300645",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "CamelPhat & Cristoph ft. Jem Cooke",
+      "title": "Breathe",
+      "remix": "",
+      "label": "PRYDA PRESENTS/MINISTRY OF SOUND",
+      "trackId": "4072674",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "450150",
+        "youtube": "450150",
+        "soundcloud": "450150",
+        "appleMusic": "450150"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "CamelPhat",
+      "title": "The Solution",
+      "remix": "",
+      "label": "CIRCUS RECORDINGS",
+      "trackId": "4072675",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "417182",
+        "youtube": "417182",
+        "soundcloud": "417182",
+        "appleMusic": "417182"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1163936",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=_nlh8AxYFfg"
+    }
+  ],
+  "scrapedAt": "2026-04-08T18:12:38.693Z",
+  "scrapeVersion": 2
+}

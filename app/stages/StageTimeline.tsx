@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
 
 interface StageData {
   stage: string;
@@ -11,6 +11,13 @@ interface StageData {
   appearedYears: number[];
   missingYears: number[];
   color: string;
+  festival: string;
+}
+
+interface FestivalLabel {
+  slug: string;
+  shortName: string;
+  accent: string;
 }
 
 interface StageTimelineProps {
@@ -19,17 +26,24 @@ interface StageTimelineProps {
   minYear: number;
   maxYear: number;
   stageSetCounts: Record<string, Record<number, number>>;
+  festivalLabels: FestivalLabel[];
 }
 
-export default function StageTimeline({ stages, years, minYear, maxYear, stageSetCounts }: StageTimelineProps) {
+export default function StageTimeline({ stages, years, minYear, maxYear, stageSetCounts, festivalLabels }: StageTimelineProps) {
   const [selectedStage, setSelectedStage] = useState<string | null>(null);
+  const [festivalFilter, setFestivalFilter] = useState<string>('');
+
+  const filteredStages = useMemo(() => {
+    if (!festivalFilter) return stages;
+    return stages.filter(s => s.festival === festivalFilter);
+  }, [stages, festivalFilter]);
 
   const labelWidth = 200;
   const margin = { top: 30, right: 20, bottom: 10, left: labelWidth };
   const rowHeight = 26;
   const barHeight = 16;
   const width = 900;
-  const height = margin.top + margin.bottom + stages.length * rowHeight;
+  const height = margin.top + margin.bottom + filteredStages.length * rowHeight;
   const chartWidth = width - margin.left - margin.right;
 
   const xScale = (year: number) =>
@@ -37,7 +51,7 @@ export default function StageTimeline({ stages, years, minYear, maxYear, stageSe
 
   const yearTicks = years.filter(y => y % 5 === 0 || y === minYear || y === maxYear);
 
-  const stage = selectedStage ? stages.find(s => s.stage === selectedStage) : null;
+  const stage = selectedStage ? filteredStages.find(s => s.stage === selectedStage) : null;
   const setCounts = stage ? stageSetCounts[stage.stage] || {} : {};
   const sparkYears: number[] = [];
   const sparkCounts: number[] = [];
@@ -51,6 +65,34 @@ export default function StageTimeline({ stages, years, minYear, maxYear, stageSe
 
   return (
     <>
+      {/* Festival filter */}
+      {festivalLabels.length > 1 && (
+        <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 16 }}>
+          <button
+            className={`filter-chip${festivalFilter === '' ? ' active' : ''}`}
+            onClick={() => { setFestivalFilter(''); setSelectedStage(null); }}
+          >
+            All Festivals
+          </button>
+          {festivalLabels.map(f => (
+            <button
+              key={f.slug}
+              className={`filter-chip${festivalFilter === f.slug ? ' active' : ''}`}
+              onClick={() => { setFestivalFilter(f.slug); setSelectedStage(null); }}
+              style={festivalFilter === f.slug ? {
+                borderColor: f.accent,
+                color: f.accent,
+                background: `${f.accent}15`,
+                boxShadow: `0 0 0 1px ${f.accent}, 0 1px 4px ${f.accent}40`,
+              } : undefined}
+            >
+              <span style={{ width: 6, height: 6, borderRadius: '50%', background: f.accent, flexShrink: 0 }} />
+              {f.shortName}
+            </button>
+          ))}
+        </div>
+      )}
+
       {/* Desktop SVG timeline */}
       <div className="viz-container stage-desktop" style={{ overflowX: 'auto' }}>
         <svg width={width} height={height} style={{ display: 'block' }}>
@@ -76,13 +118,13 @@ export default function StageTimeline({ stages, years, minYear, maxYear, stageSe
                 x1={xScale(y)}
                 x2={xScale(y)}
                 y1={0}
-                y2={stages.length * rowHeight}
+                y2={filteredStages.length * rowHeight}
                 stroke="#1e1e2e"
                 strokeDasharray="2,3"
               />
             ))}
             {/* Stage rows */}
-            {stages.map((s, i) => {
+            {filteredStages.map((s, i) => {
               const y = i * rowHeight;
               const yearWidth = xScale(1) - xScale(0);
               return (
@@ -121,7 +163,7 @@ export default function StageTimeline({ stages, years, minYear, maxYear, stageSe
             })}
           </g>
           {/* Stage name labels (outside chart area) */}
-          {stages.map((s, i) => {
+          {filteredStages.map((s, i) => {
             const y = i * rowHeight;
             const label = s.stage.length > 24 ? s.stage.substring(0, 22) + '...' : s.stage;
             return (
@@ -146,7 +188,7 @@ export default function StageTimeline({ stages, years, minYear, maxYear, stageSe
 
       {/* Mobile card list */}
       <div className="stage-card-list">
-        {stages.map(s => (
+        {filteredStages.map(s => (
           <div
             key={s.stage}
             className="stage-card"

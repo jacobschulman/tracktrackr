@@ -1,0 +1,555 @@
+{
+  "tlId": "1jtn3kf1",
+  "dj": "Malaa",
+  "stage": "Electric Zoo",
+  "date": "2022-09-02",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/1jtn3kf1/malaa-the-landing-electric-zoo-3.0-united-states-2022-09-02.html",
+  "djs": [
+    {
+      "name": "Malaa",
+      "slug": "malaa"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "KOHMI & Honey & Bagder",
+      "title": "ID",
+      "remix": "(Intro Edit)",
+      "label": "",
+      "trackId": "8142707",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Lodgerz",
+      "title": "Pyhu",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "8140485",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 180,
+      "mediaIds": {
+        "youtube": "819304"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "DJ Snake & Tchami & Malaa & MERCER",
+      "title": "Made In France",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "8140486",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 345,
+      "mediaIds": {
+        "spotify": "511944",
+        "youtube": "511944",
+        "soundcloud": "511944",
+        "appleMusic": "511944"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake & Tchami & Malaa & MERCER",
+          "title": "Made In France",
+          "remix": "",
+          "trackId": "8140486"
+        },
+        {
+          "artist": "DJ Snake & Tchami & Malaa & MERCER",
+          "title": "Made In France (BELLECOUR Remix)",
+          "remix": "",
+          "trackId": "8140487"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Snake & Tchami & Malaa & MERCER",
+      "title": "Made In France (BELLECOUR Remix)",
+      "remix": "",
+      "label": "GEFFEN (UMG)",
+      "trackId": "8140487",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "603699",
+        "soundcloud": "603699"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake & Tchami & Malaa & MERCER",
+          "title": "Made In France (BELLECOUR Remix)",
+          "remix": "",
+          "trackId": "8140487"
+        },
+        {
+          "artist": "Honey & Badger",
+          "title": "Careless",
+          "remix": "",
+          "trackId": "8140488"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Honey & Badger",
+      "title": "Careless",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "8140488",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 500,
+      "mediaIds": {
+        "spotify": "830904",
+        "youtube": "830904",
+        "soundcloud": "830904",
+        "appleMusic": "830904"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Black Eyed Peas & Shakira & David Guetta",
+      "title": "Don't You Worry (Malaa Remix)",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "8140489",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 570,
+      "mediaIds": {
+        "spotify": "818801",
+        "youtube": "818801",
+        "appleMusic": "818801"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Malaa",
+      "title": "Who I Am",
+      "remix": "",
+      "label": "ILLEGAL",
+      "trackId": "8140490",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 740,
+      "mediaIds": {
+        "spotify": "735748",
+        "youtube": "735748",
+        "soundcloud": "735748",
+        "appleMusic": "735748"
+      },
+      "blendGroup": [
+        {
+          "artist": "Malaa",
+          "title": "Who I Am",
+          "remix": "",
+          "trackId": "8140490"
+        },
+        {
+          "artist": "Malaa",
+          "title": "Who I Am (Lodgerz Remix)",
+          "remix": "",
+          "trackId": "8140491"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Malaa",
+      "title": "Who I Am (Lodgerz Remix)",
+      "remix": "",
+      "label": "ILLEGAL",
+      "trackId": "8140491",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "773691",
+        "soundcloud": "773691"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "DJ Snake ft. Sheck Wes & Offset & 21 Savage & Gucci Mane",
+      "title": "Enzo (Malaa Remix)",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "8140492",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 960,
+      "mediaIds": {
+        "spotify": "502983",
+        "youtube": "502983",
+        "soundcloud": "502983",
+        "appleMusic": "502983"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Fivio Foreign & Kanye West & Alicia Keys",
+      "title": "City of Gods",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "8140493",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1070,
+      "mediaIds": {
+        "spotify": "778176",
+        "youtube": "778176",
+        "soundcloud": "778176",
+        "appleMusic": "778176"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Malaa ft. Fivio Foreign",
+      "title": "Outcast",
+      "remix": "",
+      "label": "ILLEGAL",
+      "trackId": "8140494",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1170,
+      "mediaIds": {
+        "spotify": "842389",
+        "youtube": "842389",
+        "appleMusic": "842389"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Lil Wayne",
+      "title": "A Milli (Norsheep Remix)",
+      "remix": "",
+      "label": "YOUNG MONEY (CASH MONEY)",
+      "trackId": "8140495",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1335,
+      "mediaIds": {
+        "soundcloud": "834636"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Malaa",
+      "title": "How It Is",
+      "remix": "",
+      "label": "ILLEGAL",
+      "trackId": "8140496",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1465,
+      "mediaIds": {
+        "spotify": "801771",
+        "youtube": "801771",
+        "soundcloud": "801771",
+        "appleMusic": "801771"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "KEELD",
+      "title": "Now Pop",
+      "remix": "",
+      "label": "SANS MERCI",
+      "trackId": "8140497",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1680,
+      "mediaIds": {
+        "spotify": "844556",
+        "youtube": "844556",
+        "soundcloud": "844556",
+        "appleMusic": "844556"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Kasablanca",
+      "title": "Synthetic Blues",
+      "remix": "",
+      "label": "ARMADA ELECTRONIC ELEMENTS",
+      "trackId": "8140498",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "613560",
+        "youtube": "613560",
+        "soundcloud": "613560",
+        "appleMusic": "613560"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Malaa",
+      "title": "Hypnotic",
+      "remix": "",
+      "label": "ILLEGAL",
+      "trackId": "8140499",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2040,
+      "mediaIds": {
+        "spotify": "819858",
+        "youtube": "819858",
+        "soundcloud": "819858",
+        "appleMusic": "819858"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Malaa",
+      "title": "Gangsta",
+      "remix": "",
+      "label": "ILLEGAL",
+      "trackId": "8140500",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2270,
+      "mediaIds": {
+        "spotify": "832657",
+        "youtube": "832657",
+        "soundcloud": "832657",
+        "appleMusic": "832657"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "DJ Snake & Malaa",
+      "title": "Ring The Alarm",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "8140501",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2460,
+      "mediaIds": {
+        "spotify": "708336",
+        "youtube": "708336",
+        "soundcloud": "708336",
+        "appleMusic": "708336"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake & Malaa",
+          "title": "Ring The Alarm",
+          "remix": "",
+          "trackId": "8140501"
+        },
+        {
+          "artist": "DJ Snake & Malaa",
+          "title": "Ring The Alarm (Habstrakt Remix)",
+          "remix": "",
+          "trackId": "8140502"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Snake & Malaa",
+      "title": "Ring The Alarm (Habstrakt Remix)",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "8140502",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "740916",
+        "youtube": "740916",
+        "soundcloud": "740916",
+        "appleMusic": "740916"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Dizzee Rascal & Armand van Helden",
+      "title": "Bonkers",
+      "remix": "",
+      "label": "DIRTEE STANK",
+      "trackId": "8140503",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2630,
+      "mediaIds": {
+        "spotify": "3911",
+        "youtube": "3911",
+        "soundcloud": "3911",
+        "appleMusic": "3911"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Aazar",
+      "title": "That Thing",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "8140504",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2850,
+      "mediaIds": {
+        "spotify": "871481",
+        "youtube": "871481",
+        "soundcloud": "871481",
+        "appleMusic": "871481"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Linkin Park",
+      "title": "In The End (Malaa Remix)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "8140505",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3036,
+      "mediaIds": {
+        "spotify": "769688",
+        "youtube": "769688",
+        "soundcloud": "769688",
+        "appleMusic": "769688"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Kiro Prime & ROOSTERJAXX",
+      "title": "Elevate",
+      "remix": "",
+      "label": "TERMINAL UNDERGROUND",
+      "trackId": "8140506",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3240,
+      "mediaIds": {
+        "spotify": "814604",
+        "youtube": "814604",
+        "soundcloud": "814604",
+        "appleMusic": "814604"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Malaa & Tony Romera",
+      "title": "The Game Is Dead",
+      "remix": "",
+      "label": "ILLEGAL",
+      "trackId": "8285526",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3375,
+      "mediaIds": {
+        "spotify": "830846",
+        "youtube": "830846",
+        "appleMusic": "830846"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Malaa vs. BARILAN",
+      "title": "Notorious vs. Lockdown (Malaa Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "8140508",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3580,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "DJ Snake",
+      "title": "Nightbird",
+      "remix": "",
+      "label": "INTERSCOPE/DJ SNAKE",
+      "trackId": "8140528",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3760,
+      "mediaIds": {
+        "spotify": "840534",
+        "youtube": "840534",
+        "soundcloud": "840534",
+        "appleMusic": "840534"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8140529",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3950,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Malaa",
+      "title": "How It Is (SUBSHIFT Remix)",
+      "remix": "",
+      "label": "ILLEGAL",
+      "trackId": "8140530",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 4170,
+      "mediaIds": {
+        "spotify": "819310",
+        "youtube": "819310",
+        "soundcloud": "819310",
+        "appleMusic": "819310"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "3132002",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1344646441"
+    }
+  ],
+  "scrapedAt": "2026-04-08T02:55:59.923Z",
+  "scrapeVersion": 2
+}

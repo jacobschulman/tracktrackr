@@ -1,0 +1,463 @@
+{
+  "tlId": "1tuxgpu9",
+  "dj": "Throttle",
+  "stage": "EDC New York",
+  "date": "2016-05-15",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/1tuxgpu9/throttle-cosmicmeadow-edc-new-york-united-states-2016-05-15.html",
+  "djs": [
+    {
+      "name": "Throttle",
+      "slug": "throttle"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Galantis",
+      "title": "Runaway (U & I) (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "11364398",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "216135",
+        "youtube": "246185",
+        "soundcloud": "246185",
+        "appleMusic": "216135"
+      },
+      "blendGroup": [
+        {
+          "artist": "Galantis",
+          "title": "Runaway (U & I) (Acappella)",
+          "remix": "",
+          "trackId": "11364398"
+        },
+        {
+          "artist": "Conrad Sewell",
+          "title": "Hold Me Up (Throttle Remix)",
+          "remix": "",
+          "trackId": "2043646"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Conrad Sewell",
+      "title": "Hold Me Up (Throttle Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "2043646",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 130,
+      "mediaIds": {
+        "spotify": "250672",
+        "youtube": "250672",
+        "soundcloud": "250672",
+        "appleMusic": "250672"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "AlunaGeorge ft. Popcaan",
+      "title": "I'm In Control (Throttle Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "2043647",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 270,
+      "mediaIds": {
+        "youtube": "299759",
+        "soundcloud": "299759"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "SNBRN ft. Kaleena Zanders",
+      "title": "California (Chris Lake & Matroda Remix)",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "2043648",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 472,
+      "mediaIds": {
+        "spotify": "247151",
+        "youtube": "247151",
+        "soundcloud": "247151",
+        "appleMusic": "247151"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Wolfgang Gartner",
+      "title": "Illmerica",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "2043649",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 609,
+      "mediaIds": {
+        "spotify": "21548",
+        "youtube": "21548",
+        "soundcloud": "21548",
+        "appleMusic": "21548"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wolfgang Gartner",
+          "title": "Illmerica",
+          "remix": "",
+          "trackId": "2043649"
+        },
+        {
+          "artist": "Earth, Wind & Fire",
+          "title": "Boogie Wonderland",
+          "remix": "",
+          "trackId": "2698580"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Earth, Wind & Fire",
+      "title": "Boogie Wonderland",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "2698580",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 609,
+      "mediaIds": {
+        "spotify": "24111",
+        "youtube": "24111",
+        "appleMusic": "24111"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Sam Smith",
+      "title": "Stay With Me (Throttle Remix)",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "2043650",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 730,
+      "mediaIds": {
+        "youtube": "202936",
+        "soundcloud": "202936"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "The Weeknd",
+      "title": "Can't Feel My Face (Throttle Remix)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "2043651",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 928,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Throttle",
+      "title": "Hit The Road Jack",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2043652",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1113,
+      "mediaIds": {
+        "spotify": "318735",
+        "youtube": "318735",
+        "soundcloud": "318735",
+        "appleMusic": "318735"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Throttle",
+      "title": "What's That Sound",
+      "remix": "(Live Mashup)",
+      "label": "FREE",
+      "trackId": "2043653",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1186,
+      "mediaIds": {
+        "soundcloud": "158733"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Shirts & Skins",
+      "title": "Then Came You",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2043659",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1374,
+      "mediaIds": {
+        "youtube": "265362",
+        "soundcloud": "265362"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "HI-LO",
+      "title": "Ooh La La",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "2043660",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1556,
+      "mediaIds": {
+        "spotify": "276247",
+        "youtube": "276247",
+        "soundcloud": "276247",
+        "appleMusic": "276247"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Florence + The Machine",
+      "title": "You've Got The Love (Throttle Remix)",
+      "remix": "",
+      "label": "ISLAND",
+      "trackId": "2043661",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1634,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "CID",
+      "title": "No!",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2043662",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1870,
+      "mediaIds": {
+        "spotify": "241394",
+        "youtube": "241394",
+        "soundcloud": "241394",
+        "appleMusic": "241394"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "TJR",
+      "title": "Funky Vodka",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "2043663",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1944,
+      "mediaIds": {
+        "spotify": "40872",
+        "youtube": "40872",
+        "soundcloud": "40872",
+        "appleMusic": "40872"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Whitney Houston",
+      "title": "I Wanna Dance with Somebody (Who Loves Me) (Halogen Remix)",
+      "remix": "",
+      "label": "ARISTA",
+      "trackId": "2043664",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2055,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Stevie Wonder",
+      "title": "Superstition (Throttle Remix)",
+      "remix": "",
+      "label": "TAMLA",
+      "trackId": "2043665",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2267,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Stevie Wonder",
+          "title": "Superstition (Throttle Remix)",
+          "remix": "",
+          "trackId": "2043665"
+        },
+        {
+          "artist": "CAZZETTE ft. Terri B!!",
+          "title": "Blind Heart",
+          "remix": "",
+          "trackId": "2043763"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "CAZZETTE ft. Terri B!!",
+      "title": "Blind Heart",
+      "remix": "",
+      "label": "ICONS",
+      "trackId": "2043763",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 2400,
+      "mediaIds": {
+        "spotify": "221179",
+        "youtube": "221179",
+        "soundcloud": "221179",
+        "appleMusic": "221179"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Throttle",
+      "title": "No Good",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2043666",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2428,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Galantis",
+      "title": "Peanut Butter Jelly",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "2043667",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2630,
+      "mediaIds": {
+        "spotify": "250416",
+        "youtube": "250416",
+        "soundcloud": "250416",
+        "appleMusic": "250416"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Oliver Heldens & Throttle",
+      "title": "Waiting",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "2043668",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2856,
+      "mediaIds": {
+        "spotify": "286858",
+        "youtube": "286858",
+        "soundcloud": "286858",
+        "appleMusic": "286858"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Throttle x Earth, Wind & Fire",
+      "title": "September",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "2043669",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3078,
+      "mediaIds": {
+        "spotify": "282167",
+        "youtube": "282167",
+        "soundcloud": "282167",
+        "appleMusic": "282167"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Throttle ft. LunchMoney Lewis & Aston Merrygold",
+      "title": "Money Maker",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2043670",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3308,
+      "mediaIds": {
+        "spotify": "303964",
+        "youtube": "303964",
+        "soundcloud": "303964",
+        "appleMusic": "303964"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "The Magician ft. Olly Alexander",
+      "title": "Together (Lucas & Steve Remix)",
+      "remix": "",
+      "label": "POTION/SPINNIN' REMIXES",
+      "trackId": "2043671",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3510,
+      "mediaIds": {
+        "spotify": "276836",
+        "youtube": "276836",
+        "soundcloud": "276836",
+        "appleMusic": "276836"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "439291",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:25:41.127Z",
+  "scrapeVersion": 2
+}

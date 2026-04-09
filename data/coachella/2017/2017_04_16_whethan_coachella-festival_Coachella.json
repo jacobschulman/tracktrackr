@@ -1,0 +1,809 @@
+{
+  "tlId": "21b4z7u9",
+  "dj": "Whethan",
+  "stage": "Coachella Festival",
+  "date": "2017-04-16",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/21b4z7u9/whethan-do-lab-stage-coachella-festival-united-states-2017-04-16.html",
+  "djs": [
+    {
+      "name": "Whethan",
+      "slug": "whethan"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Drake",
+      "title": "Passionfruit",
+      "remix": "",
+      "label": "YOUNG MONEY (CASH MONEY)",
+      "trackId": "2606062",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "355107",
+        "youtube": "355107",
+        "appleMusic": "355107"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "A$AP Rocky",
+      "title": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "2606063",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "236488",
+        "youtube": "236488",
+        "soundcloud": "236488",
+        "appleMusic": "236488"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "RL Grime",
+      "title": "Scylla",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "2606064",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "221491",
+        "youtube": "221491",
+        "soundcloud": "221491",
+        "appleMusic": "221491"
+      },
+      "blendGroup": [
+        {
+          "artist": "RL Grime",
+          "title": "Scylla",
+          "remix": "",
+          "trackId": "2606064"
+        },
+        {
+          "artist": "Whethan ft. Flux Pavilion & MAX",
+          "title": "Savage (VIP)",
+          "remix": "",
+          "trackId": "2606065"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Whethan ft. Flux Pavilion & MAX",
+      "title": "Savage (VIP)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "2606065",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "462886",
+        "soundcloud": "462886"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "MAX",
+      "title": "10 Victoria's Secret Models (Whethan Remix)",
+      "remix": "",
+      "label": "CRUSH",
+      "trackId": "2606066",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "316242",
+        "soundcloud": "316242",
+        "appleMusic": "316242"
+      },
+      "blendGroup": [
+        {
+          "artist": "MAX",
+          "title": "10 Victoria's Secret Models (Whethan Remix)",
+          "remix": "",
+          "trackId": "2606066"
+        },
+        {
+          "artist": "Dillon Francis ft. Simon Lord",
+          "title": "Drunk All The Time (The Rebirth)",
+          "remix": "",
+          "trackId": "2606067"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dillon Francis ft. Simon Lord",
+      "title": "Drunk All The Time (The Rebirth)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "2606067",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "125082",
+        "soundcloud": "125082"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Skrillex & Kill The Noise ft. Fatman Scoop & Michael Angelakos",
+      "title": "Recess (Flux Pavilion Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2606068",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "201420",
+        "youtube": "201420",
+        "soundcloud": "201420",
+        "appleMusic": "201420"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Kid Cudi",
+      "title": "Day 'n' Nite (Crookers Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "2606069",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8047",
+        "youtube": "8047",
+        "soundcloud": "8047",
+        "appleMusic": "8047"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Mura Masa",
+      "title": "Lotus Eater",
+      "remix": "",
+      "label": "JAKARTA",
+      "trackId": "2606070",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "238668",
+        "youtube": "238668",
+        "soundcloud": "238668",
+        "appleMusic": "238668"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Hermitude",
+      "title": "HyperParadise (Flume Remix)",
+      "remix": "",
+      "label": "ELEFANT TRAKS",
+      "trackId": "2606071",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "85270",
+        "youtube": "85270",
+        "soundcloud": "85270",
+        "appleMusic": "85270"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hermitude",
+          "title": "HyperParadise (Flume Remix)",
+          "remix": "",
+          "trackId": "2606071"
+        },
+        {
+          "artist": "G Jones",
+          "title": "Helix",
+          "remix": "",
+          "trackId": "2606072"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "G Jones",
+      "title": "Helix",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "2606072",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "309216",
+        "youtube": "309216",
+        "soundcloud": "309216",
+        "appleMusic": "309216"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Cashmere Cat ft. MØ & Sophie",
+      "title": "9 (After Coachella)",
+      "remix": "",
+      "label": "MAD LOVE (INTERSCOPE)",
+      "trackId": "2606073",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "356813",
+        "youtube": "356813",
+        "soundcloud": "356813",
+        "appleMusic": "356813"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "The Weeknd",
+      "title": "The Hills (RL Grime Remix)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "2606074",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "273108",
+        "youtube": "273108",
+        "soundcloud": "273108",
+        "appleMusic": "273108"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Weeknd",
+          "title": "The Hills (RL Grime Remix)",
+          "remix": "",
+          "trackId": "2606074"
+        },
+        {
+          "artist": "Rustie",
+          "title": "Slasherr (Flume Edit)",
+          "remix": "",
+          "trackId": "2606075"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rustie",
+      "title": "Slasherr (Flume Edit)",
+      "remix": "",
+      "label": "NUMBERS",
+      "trackId": "2606075",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "162494",
+        "soundcloud": "162494"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "MssingNo",
+      "title": "XE3 (Wheathin Turn)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2606076",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "260111",
+        "soundcloud": "260111"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "ZAYN",
+      "title": "Pillowtalk (Bearson & Wheathin Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2606077",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "311181",
+        "soundcloud": "311181"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Migos",
+      "title": "Get Right Witcha",
+      "remix": "",
+      "label": "QUALITY CONTROL",
+      "trackId": "2606078",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "353061",
+        "youtube": "353061",
+        "appleMusic": "353061"
+      },
+      "blendGroup": [
+        {
+          "artist": "Migos",
+          "title": "Get Right Witcha",
+          "remix": "",
+          "trackId": "2606078"
+        },
+        {
+          "artist": "Alison Wonderland ft. Wayne Coyne",
+          "title": "U Don't Know (Vincent Remix)",
+          "remix": "",
+          "trackId": "2606079"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alison Wonderland ft. Wayne Coyne",
+      "title": "U Don't Know (Vincent Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2606079",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "282187",
+        "youtube": "282187",
+        "soundcloud": "282187",
+        "appleMusic": "282187"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Travis Scott ft. Kendrick Lamar",
+      "title": "Goosebumps (NGHTMRE Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2606080",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "344111",
+        "soundcloud": "344111",
+        "appleMusic": "344111"
+      },
+      "blendGroup": [
+        {
+          "artist": "Travis Scott ft. Kendrick Lamar",
+          "title": "Goosebumps (NGHTMRE Remix)",
+          "remix": "",
+          "trackId": "2606080"
+        },
+        {
+          "artist": "Sikdope",
+          "title": "Snakes (Michael Sparks Flip)",
+          "remix": "",
+          "trackId": "2606081"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sikdope",
+      "title": "Snakes (Michael Sparks Flip)",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "2606081",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "309576",
+        "soundcloud": "309576"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger (Dillon Francis Remix)",
+      "remix": "",
+      "label": "DAFT LIFE",
+      "trackId": "2606082",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "188234",
+        "soundcloud": "188234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Galantis",
+      "title": "In My Head (Slushii Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "2606084",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "299963"
+      },
+      "blendGroup": [
+        {
+          "artist": "Galantis",
+          "title": "In My Head (Slushii Remix)",
+          "remix": "",
+          "trackId": "2606084"
+        },
+        {
+          "artist": "Dirty Audio & Rickyxsan",
+          "title": "Gettin' That",
+          "remix": "",
+          "trackId": "2606085"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dirty Audio & Rickyxsan",
+      "title": "Gettin' That",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2606085",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "292619",
+        "youtube": "292619",
+        "soundcloud": "292619",
+        "appleMusic": "292619"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Skrillex ft. Niki & The Dove",
+      "title": "Ease My Mind (Jai Wolf Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2606086",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "201419",
+        "youtube": "201419",
+        "soundcloud": "201419",
+        "appleMusic": "201419"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Flux Pavilion",
+      "title": "I Can't Stop (Ekali Tribute)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2606088",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "307068",
+        "youtube": "307068",
+        "soundcloud": "307068",
+        "appleMusic": "307068"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "GRiZ ft. IDA Hawk",
+      "title": "Stop Trippin' (NGHTMRE Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2606089",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "288573",
+        "youtube": "288573",
+        "soundcloud": "288573",
+        "appleMusic": "288573"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "TroyBoi & Flosstradamus",
+      "title": "Soundclash",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "2606090",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "226289",
+        "youtube": "226289",
+        "soundcloud": "226289",
+        "appleMusic": "226289"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Kendrick Lamar",
+      "title": "HUMBLE.",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "2606091",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "354525",
+        "youtube": "354525",
+        "soundcloud": "354525",
+        "appleMusic": "354525"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Whethan ft. Charli xcx",
+      "title": "Love Gang",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "2606092",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "357432",
+        "youtube": "357432",
+        "soundcloud": "357432",
+        "appleMusic": "357432"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Travis Scott",
+      "title": "Way Back",
+      "remix": "",
+      "label": "GRAND HUSTLE",
+      "trackId": "2606093",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "338213",
+        "youtube": "338213",
+        "appleMusic": "338213"
+      },
+      "blendGroup": [
+        {
+          "artist": "Travis Scott",
+          "title": "Way Back",
+          "remix": "",
+          "trackId": "2606093"
+        },
+        {
+          "artist": "Flume ft. Andrew Wyatt",
+          "title": "Some Minds",
+          "remix": "",
+          "trackId": "2606094"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flume ft. Andrew Wyatt",
+      "title": "Some Minds",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "2606094",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "257253",
+        "youtube": "257253",
+        "soundcloud": "257253",
+        "appleMusic": "257253"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Opia",
+      "title": "Falling (Wheathin Redo)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2606095",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "313507",
+        "youtube": "313507",
+        "soundcloud": "313507",
+        "appleMusic": "313507"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "ELOHIM",
+      "title": "Sensations (Whethan Remix)",
+      "remix": "",
+      "label": "B3SCI",
+      "trackId": "2606096",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "310272",
+        "youtube": "310272",
+        "soundcloud": "310272",
+        "appleMusic": "310272"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Whethan ft. ASHE",
+      "title": "Can't Hide",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2606097",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "322358",
+        "youtube": "322358",
+        "soundcloud": "322358",
+        "appleMusic": "322358"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Whethan & Oliver Tree",
+      "title": "When I'm Down",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2606098",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "344292",
+        "youtube": "344292",
+        "soundcloud": "344292",
+        "appleMusic": "344292"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Whethan & Oliver Tree",
+      "title": "When I'm Down (Virtu Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2606099",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "344293"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Whethan & Oliver Tree",
+      "title": "All You Ever Talk About",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2606134",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "344291",
+        "soundcloud": "344291"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Whethan & Oliver Tree",
+      "title": "Enemy",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2606135",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "2606135"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Whethan ft. Flux Pavilion & MAX",
+      "title": "Savage",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "2606100",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "339885",
+        "youtube": "339885",
+        "soundcloud": "339885",
+        "appleMusic": "339885"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Robokid & Manila Killa & AObeats ft. Blaise Railey",
+      "title": "Helix 2.0",
+      "remix": "",
+      "label": "MOVING CASTLE",
+      "trackId": "2606102",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "280205",
+        "youtube": "280205",
+        "soundcloud": "280205",
+        "appleMusic": "280205"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T04:28:38.768Z",
+  "scrapeVersion": 2
+}

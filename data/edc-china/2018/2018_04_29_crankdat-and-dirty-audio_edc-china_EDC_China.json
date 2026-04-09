@@ -1,0 +1,536 @@
+{
+  "tlId": "x11x0tt",
+  "dj": "Crankdat & Dirty Audio",
+  "stage": "EDC China",
+  "date": "2018-04-29",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/x11x0tt/crankdat-dirty-audio-kineticfield-edc-china-shanghai-2018-04-29.html",
+  "djs": [
+    {
+      "name": "Crankdat",
+      "slug": "crankdat"
+    },
+    {
+      "name": "Dirty Audio",
+      "slug": "dirtyaudio"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Skrillex & MUST DIE!",
+      "title": "VIP's (Gent & Jawns Remix / Skrillex Edit / Acraze Flip)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3448322",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "406685"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Lil Uzi Vert",
+      "title": "XO TOUR Llif3(Prod. by TM88)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "3448323",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 20,
+      "mediaIds": {
+        "spotify": "357886",
+        "youtube": "357886",
+        "soundcloud": "357886",
+        "appleMusic": "357886"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lil Uzi Vert",
+          "title": "XO TOUR Llif3(Prod. by TM88)",
+          "remix": "",
+          "trackId": "3448323"
+        },
+        {
+          "artist": "Boombox Cartel",
+          "title": "Jefe (VIP)",
+          "remix": "",
+          "trackId": "3448324"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Boombox Cartel",
+      "title": "Jefe (VIP)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "3448324",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "379398",
+        "soundcloud": "379398"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Tha Trickaz & Creaky Jackals",
+      "title": "Dopeness (BASSTRICK Remix)",
+      "remix": "",
+      "label": "OTODAYO SŪPA",
+      "trackId": "3448325",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 85,
+      "mediaIds": {
+        "spotify": "370808",
+        "youtube": "370808",
+        "soundcloud": "370808",
+        "appleMusic": "370808"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "The Chainsmokers ft. Charlee",
+      "title": "Inside Out (Dirty Audio Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "3448327",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 125,
+      "mediaIds": {
+        "youtube": "318224",
+        "soundcloud": "318224"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Martin Garrix & Dua Lipa",
+      "title": "Scared To Be Lonely",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "3448328",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 213,
+      "mediaIds": {
+        "spotify": "344436",
+        "youtube": "344436",
+        "soundcloud": "344436",
+        "appleMusic": "344436"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Garrix & Dua Lipa",
+          "title": "Scared To Be Lonely",
+          "remix": "",
+          "trackId": "3448328"
+        },
+        {
+          "artist": "Zeds Dead",
+          "title": "Ratchet (Crankdat Dubstep Re-Crank)",
+          "remix": "",
+          "trackId": "3448329"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zeds Dead",
+      "title": "Ratchet (Crankdat Dubstep Re-Crank)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3448329",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "383124",
+        "soundcloud": "383124"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Guns N' Roses",
+      "title": "Welcome To The Jungle",
+      "remix": "",
+      "label": "GEFFEN (UMG)",
+      "trackId": "3448331",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 345,
+      "mediaIds": {
+        "spotify": "24661",
+        "youtube": "24661",
+        "soundcloud": "24661",
+        "appleMusic": "24661"
+      },
+      "blendGroup": [
+        {
+          "artist": "Guns N' Roses",
+          "title": "Welcome To The Jungle",
+          "remix": "",
+          "trackId": "3448331"
+        },
+        {
+          "artist": "Alvaro & DJ MERCER ft. Lil Jon",
+          "title": "Welcome To The Jungle (Acappella)",
+          "remix": "",
+          "trackId": "3448332"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alvaro & DJ MERCER ft. Lil Jon",
+      "title": "Welcome To The Jungle (Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "3448332",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "132127",
+        "youtube": "132127",
+        "soundcloud": "132127",
+        "appleMusic": "132127"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alvaro & DJ MERCER ft. Lil Jon",
+          "title": "Welcome To The Jungle (Acappella)",
+          "remix": "",
+          "trackId": "3448332"
+        },
+        {
+          "artist": "JAUZ",
+          "title": "Alpha",
+          "remix": "",
+          "trackId": "3448333"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAUZ",
+      "title": "Alpha",
+      "remix": "",
+      "label": "BITE THIS!",
+      "trackId": "3448333",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "374681",
+        "youtube": "374681",
+        "soundcloud": "374681",
+        "appleMusic": "374681"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "BURNS",
+      "title": "Make It Clap",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "3448334",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 452,
+      "mediaIds": {
+        "spotify": "255493",
+        "youtube": "255493",
+        "soundcloud": "255493",
+        "appleMusic": "255493"
+      },
+      "blendGroup": [
+        {
+          "artist": "BURNS",
+          "title": "Make It Clap",
+          "remix": "",
+          "trackId": "3448334"
+        },
+        {
+          "artist": "Deorro & Dirty Audio ft. iE-z",
+          "title": "Hit It",
+          "remix": "",
+          "trackId": "3449845"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Deorro & Dirty Audio ft. iE-z",
+      "title": "Hit It",
+      "remix": "",
+      "label": "ULTRA/PANDA FUNK",
+      "trackId": "3449845",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "206844",
+        "youtube": "206844",
+        "soundcloud": "206844",
+        "appleMusic": "206844"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Curbi",
+      "title": "Shinai",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3448335",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 508,
+      "mediaIds": {
+        "spotify": "346319",
+        "youtube": "346319",
+        "soundcloud": "346319",
+        "appleMusic": "346319"
+      },
+      "blendGroup": [
+        {
+          "artist": "Curbi",
+          "title": "Shinai",
+          "remix": "",
+          "trackId": "3448335"
+        },
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "3448336"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+      "title": "Put Ya Fuckin Hands Up (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "3448336",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "16909",
+        "soundcloud": "16909"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Janet Jackson",
+      "title": "Go Deep (Tchami Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3448337",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 552,
+      "mediaIds": {
+        "youtube": "162346",
+        "soundcloud": "162346"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Ghastly & Crankdat",
+      "title": "Lemme See U",
+      "remix": "",
+      "label": "GHASTLY",
+      "trackId": "3448338",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 596,
+      "mediaIds": {
+        "spotify": "413125",
+        "youtube": "413125",
+        "soundcloud": "413125",
+        "appleMusic": "413125"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Jaden Smith",
+      "title": "Icon (Crankdat Re-Crank)",
+      "remix": "",
+      "label": "MSFTSMUSIC",
+      "trackId": "3448339",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 700,
+      "mediaIds": {
+        "youtube": "405936",
+        "soundcloud": "405936"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Jack Ü ft. Bunji Garlin & MX Prime",
+      "title": "Jungle Bae",
+      "remix": "",
+      "label": "ATLANTIC/MAD DECENT",
+      "trackId": "3448340",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 790,
+      "mediaIds": {
+        "spotify": "220647",
+        "youtube": "220647",
+        "soundcloud": "220647",
+        "appleMusic": "220647"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jack Ü ft. Bunji Garlin & MX Prime",
+          "title": "Jungle Bae",
+          "remix": "",
+          "trackId": "3448340"
+        },
+        {
+          "artist": "Dirty Audio",
+          "title": "Sky High (Michael Sparks Remix)",
+          "remix": "",
+          "trackId": "3448341"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dirty Audio",
+      "title": "Sky High (Michael Sparks Remix)",
+      "remix": "",
+      "label": "PANDA FUNK",
+      "trackId": "3448341",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "429602",
+        "youtube": "429602",
+        "soundcloud": "429602",
+        "appleMusic": "429602"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "The Prodigy",
+      "title": "Breathe",
+      "remix": "",
+      "label": "XL",
+      "trackId": "3448342",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 848,
+      "mediaIds": {
+        "spotify": "2756",
+        "youtube": "2756",
+        "soundcloud": "2756",
+        "appleMusic": "2756"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Prodigy",
+          "title": "Breathe",
+          "remix": "",
+          "trackId": "3448342"
+        },
+        {
+          "artist": "MERCER & SAYMYNAME",
+          "title": "Wanted (Acappella)",
+          "remix": "",
+          "trackId": "3448343"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MERCER & SAYMYNAME",
+      "title": "Wanted (Acappella)",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "3448343",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "317539",
+        "youtube": "317539",
+        "soundcloud": "317539",
+        "appleMusic": "317539"
+      },
+      "blendGroup": [
+        {
+          "artist": "MERCER & SAYMYNAME",
+          "title": "Wanted (Acappella)",
+          "remix": "",
+          "trackId": "3448343"
+        },
+        {
+          "artist": "Hardwell & Quintino",
+          "title": "Woest",
+          "remix": "",
+          "trackId": "3448344"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hardwell & Quintino",
+      "title": "Woest",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "3448344",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "397401",
+        "youtube": "397401",
+        "soundcloud": "397401",
+        "appleMusic": "397401"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Nirvana",
+      "title": "Smells Like Teen Spirit",
+      "remix": "",
+      "label": "GEFFEN (UMG)",
+      "trackId": "3448345",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 914,
+      "mediaIds": {
+        "spotify": "2022",
+        "youtube": "2022",
+        "soundcloud": "2022",
+        "appleMusic": "2022"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T15:54:57.141Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,608 @@
+{
+  "tlId": "fwz3ct",
+  "dj": "Sidney Samson",
+  "stage": "Electric Zoo",
+  "date": "2011-09-03",
+  "year": 2011,
+  "url": "https://www.1001tracklists.com/tracklist/fwz3ct/sidney-samson-electric-zoo-united-states-2011-09-03.html",
+  "djs": [
+    {
+      "name": "Sidney Samson",
+      "slug": "sidneysamson"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Sidney Samson",
+      "title": "Thanks I Get",
+      "remix": "",
+      "label": "ROCKTHEHOUZE (SPINNIN')",
+      "trackId": "95595",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "50209",
+        "youtube": "50209"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Sidney Samson",
+      "title": "Hold Up",
+      "remix": "",
+      "label": "ROCKTHEHOUZE (SPINNIN')",
+      "trackId": "95596",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "58368",
+        "appleMusic": "58368"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Basement Jaxx",
+      "title": "Where's Your Head At? (Acappella)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "95597",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5190",
+        "youtube": "10129",
+        "soundcloud": "5190",
+        "appleMusic": "5190"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Spencer & Hill",
+      "title": "Cool (AFROJACK Remix)",
+      "remix": "",
+      "label": "SNEAKERZ (SPINNIN')",
+      "trackId": "95598",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "10116",
+        "youtube": "10116",
+        "soundcloud": "10116",
+        "appleMusic": "10116"
+      },
+      "blendGroup": [
+        {
+          "artist": "Spencer & Hill",
+          "title": "Cool (AFROJACK Remix)",
+          "remix": "",
+          "trackId": "95598"
+        },
+        {
+          "artist": "Calvin Harris",
+          "title": "Awooga",
+          "remix": "",
+          "trackId": "95599"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris",
+      "title": "Awooga",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "95599",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30218",
+        "youtube": "30218",
+        "soundcloud": "30218",
+        "appleMusic": "30218"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Avicii",
+      "title": "Levels (Original Vocal Mix)",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "95600",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "33255",
+        "youtube": "45242",
+        "soundcloud": "33255",
+        "appleMusic": "33255"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "The Loops Of Fury",
+      "title": "I Need",
+      "remix": "",
+      "label": "U&A",
+      "trackId": "95601",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "34971",
+        "youtube": "34971",
+        "soundcloud": "34971",
+        "appleMusic": "34971"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Benny Benassi ft. Chris Brown",
+      "title": "Beautiful People",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "95602",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "29259",
+        "youtube": "29259",
+        "soundcloud": "29259",
+        "appleMusic": "29259"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "DJ Bam Bam",
+      "title": "Playing With Fire",
+      "remix": "",
+      "label": "FLY HOUSE",
+      "trackId": "95603",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "DJ Bam Bam",
+          "title": "Playing With Fire",
+          "remix": "",
+          "trackId": "95603"
+        },
+        {
+          "artist": "Fatboy Slim",
+          "title": "Rockafeller Skank (Acappella)",
+          "remix": "",
+          "trackId": "97927"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fatboy Slim",
+      "title": "Rockafeller Skank (Acappella)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "97927",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "4511",
+        "youtube": "4511",
+        "soundcloud": "27742",
+        "appleMusic": "4511"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fatboy Slim",
+          "title": "Rockafeller Skank (Acappella)",
+          "remix": "",
+          "trackId": "97927"
+        },
+        {
+          "artist": "The White Stripes",
+          "title": "Seven Nation Army",
+          "remix": "",
+          "trackId": "95604"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army",
+      "remix": "",
+      "label": "XL",
+      "trackId": "95604",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1491",
+        "youtube": "1491",
+        "soundcloud": "1491",
+        "appleMusic": "1491"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "AFROJACK",
+      "title": "Bangduck (MOGUAI Remix)",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "95605",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "35159",
+        "youtube": "35159",
+        "soundcloud": "35159",
+        "appleMusic": "35159"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Bart B More",
+      "title": "Brap",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "95606",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "21239",
+        "youtube": "21239",
+        "soundcloud": "21239",
+        "appleMusic": "21239"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Save The World (Zedd Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "95607",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "37806",
+        "youtube": "37806",
+        "soundcloud": "37806",
+        "appleMusic": "37806"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Laidback Luke & Steve Aoki ft. Lil Jon",
+      "title": "Turbulence (Sidney Samson Remix)",
+      "remix": "",
+      "label": "ULTRA/DIM MAK",
+      "trackId": "95608",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30162",
+        "youtube": "30162",
+        "soundcloud": "30162",
+        "appleMusic": "30162"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Henrik B",
+      "title": "Acid Rocker (David Tort Remix)",
+      "remix": "",
+      "label": "THE MANSION",
+      "trackId": "95609",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "31517",
+        "soundcloud": "31517"
+      },
+      "blendGroup": [
+        {
+          "artist": "Henrik B",
+          "title": "Acid Rocker (David Tort Remix)",
+          "remix": "",
+          "trackId": "95609"
+        },
+        {
+          "artist": "Black & White Brothers",
+          "title": "Put Your Hands Up In The Air (Acappella)",
+          "remix": "",
+          "trackId": "95610"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Black & White Brothers",
+      "title": "Put Your Hands Up In The Air (Acappella)",
+      "remix": "",
+      "label": "ALTRA MODA",
+      "trackId": "95610",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "105909",
+        "youtube": "105910",
+        "soundcloud": "105909",
+        "appleMusic": "105909"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "AFROJACK & Steve Aoki ft. Miss Palmer",
+      "title": "No Beef (Instrumental Mix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "95611",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "42117",
+        "youtube": "42117",
+        "soundcloud": "42117",
+        "appleMusic": "42117"
+      },
+      "blendGroup": [
+        {
+          "artist": "AFROJACK & Steve Aoki ft. Miss Palmer",
+          "title": "No Beef (Instrumental Mix)",
+          "remix": "",
+          "trackId": "95611"
+        },
+        {
+          "artist": "Benny Benassi pres. The Biz",
+          "title": "Satisfaction (Acappella)",
+          "remix": "",
+          "trackId": "95612"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Benny Benassi pres. The Biz",
+      "title": "Satisfaction (Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "95612",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2029",
+        "youtube": "2029",
+        "soundcloud": "2029",
+        "appleMusic": "2029"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "LMFAO ft. Lauren Bennett & Goonrock",
+      "title": "Party Rock Anthem (Audiobot Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "95613",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "35571"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "The Bloody Beetroots ft. Steve Aoki",
+      "title": "Warp 1.9",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "95614",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "6516",
+        "youtube": "6516",
+        "soundcloud": "6516",
+        "appleMusic": "6516"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "So Shifty",
+      "title": "Lift Up Dat (Angger Dimas Remix)",
+      "remix": "",
+      "label": "MOVELTRAXX",
+      "trackId": "95615",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "So Shifty",
+          "title": "Lift Up Dat (Angger Dimas Remix)",
+          "remix": "",
+          "trackId": "95615"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Acappella)",
+          "remix": "",
+          "trackId": "95616"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "95616",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8354",
+        "youtube": "8354",
+        "soundcloud": "8354",
+        "appleMusic": "8354"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "WTF!? & Dead Prez",
+      "title": "It's Bigger Than Hip Hop UK (Sidney Samson Remix)",
+      "remix": "",
+      "label": "LOUDBIT",
+      "trackId": "95617",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "DJ Fresh ft. Ce'Cile",
+      "title": "Gold Dust (Flux Pavilion Remix)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "95618",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "39869",
+        "youtube": "39869",
+        "soundcloud": "39869",
+        "appleMusic": "39869"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Rusko",
+      "title": "Everyday (Netsky Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "95619",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "35508",
+        "youtube": "35508",
+        "soundcloud": "35508",
+        "appleMusic": "35508"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Otherside",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "95620",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5247",
+        "youtube": "5247",
+        "soundcloud": "5247",
+        "appleMusic": "5247"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Silvio Ecomo & Chuckie",
+      "title": "Moombah (AFROJACK Mix)",
+      "remix": "",
+      "label": "DIRTY DUTCH",
+      "trackId": "95621",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "10123",
+        "youtube": "10123",
+        "appleMusic": "10123"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Marvin Gaye",
+      "title": "I Heard It Through The Grapevine (Acappella)",
+      "remix": "",
+      "label": "TAMLA",
+      "trackId": "95622",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "27084",
+        "youtube": "27084",
+        "appleMusic": "27084"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Sidney Samson ft. MC Ambush",
+      "title": "Surrender",
+      "remix": "",
+      "label": "ROCKTHEHOUZE (SPINNIN')",
+      "trackId": "95623",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "37869",
+        "youtube": "37869"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T04:36:34.667Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,553 @@
+{
+  "tlId": "1xpxu7tt",
+  "dj": "MOSKA",
+  "stage": "EDC Mexico",
+  "date": "2020-02-28",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/1xpxu7tt/moska-circuitgrounds-edc-mexico-2020-02-28.html",
+  "djs": [
+    {
+      "name": "MOSKA",
+      "slug": "moska"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "DJ Fronter",
+      "title": "Haidaku",
+      "remix": "",
+      "label": "STEREO",
+      "trackId": "4710366",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "236051",
+        "youtube": "236051",
+        "soundcloud": "236051",
+        "appleMusic": "236051"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Kryder ft. Fast Eddie",
+      "title": "Get Funky",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "4710367",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 217,
+      "mediaIds": {
+        "spotify": "399471",
+        "youtube": "399471",
+        "soundcloud": "399471",
+        "appleMusic": "399471"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Chris Lake & Destructo",
+      "title": "Y.O.D.O",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "4710368",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 341,
+      "mediaIds": {
+        "spotify": "428428",
+        "youtube": "428428",
+        "soundcloud": "428428",
+        "appleMusic": "428428"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "KC Lights",
+      "title": "SOL",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "4710369",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 413,
+      "mediaIds": {
+        "spotify": "501259",
+        "youtube": "501259",
+        "soundcloud": "501259",
+        "appleMusic": "501259"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Jose De Mara & Crusy & NORII",
+      "title": "De Beber",
+      "remix": "",
+      "label": "KRYTERIA",
+      "trackId": "4710370",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 537,
+      "mediaIds": {
+        "spotify": "452898",
+        "youtube": "452898",
+        "soundcloud": "452898",
+        "appleMusic": "452898"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "ALOK & Sevenn",
+      "title": "BYOB",
+      "remix": "",
+      "label": "SYMPHONIC",
+      "trackId": "4710371",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 709,
+      "mediaIds": {
+        "spotify": "291591",
+        "youtube": "291591",
+        "soundcloud": "291591",
+        "appleMusic": "291591"
+      },
+      "blendGroup": [
+        {
+          "artist": "ALOK & Sevenn",
+          "title": "BYOB",
+          "remix": "",
+          "trackId": "4710371"
+        },
+        {
+          "artist": "Dario Nuñez",
+          "title": "See Line Woman",
+          "remix": "",
+          "trackId": "4710372"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dario Nuñez",
+      "title": "See Line Woman",
+      "remix": "",
+      "label": "",
+      "trackId": "4710372",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "07",
+      "artist": "Good Times Ahead & FIGHT CLVB",
+      "title": "BMB",
+      "remix": "",
+      "label": "GOOD TIMES BAD TIMES",
+      "trackId": "4710373",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 792,
+      "mediaIds": {
+        "spotify": "543648",
+        "youtube": "543648",
+        "soundcloud": "543648",
+        "appleMusic": "543648"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Dog Blood & Josh Pan & X&G",
+      "title": "4 Mind (Good Times Ahead Remix)",
+      "remix": "",
+      "label": "HARD RECS (INSOMNIAC)",
+      "trackId": "4710374",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 870,
+      "mediaIds": {
+        "spotify": "516446",
+        "youtube": "516446",
+        "soundcloud": "516446",
+        "appleMusic": "516446"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Tiësto ft. Stevie Appleton",
+      "title": "Blue (MOSKA Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/PM:AM",
+      "trackId": "4710375",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 990,
+      "mediaIds": {
+        "spotify": "552601",
+        "youtube": "552601",
+        "appleMusic": "552601"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Stafford Brothers & MOSKA",
+      "title": "Wolf",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "4710376",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1066,
+      "mediaIds": {
+        "spotify": "473134",
+        "youtube": "473134",
+        "soundcloud": "473134",
+        "appleMusic": "473134"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Moska vs. Post Malone",
+      "title": "Legend vs. Congratulations (MOSKA Mashup)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)/MUSICAL FREEDOM",
+      "trackId": "4710377",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1145,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "MOSKA",
+      "title": "This Is House",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "4710378",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1222,
+      "mediaIds": {
+        "spotify": "387686",
+        "youtube": "387686",
+        "soundcloud": "387686",
+        "appleMusic": "387686"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "MOSKA",
+      "title": "House Religion",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "4710379",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1323,
+      "mediaIds": {
+        "spotify": "412773",
+        "youtube": "412773",
+        "soundcloud": "412773",
+        "appleMusic": "412773"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "MEDUZA ft. GOODBOYS",
+      "title": "Piece Of Your Heart (MOSKA x Bluckther Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "4710432",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1401,
+      "mediaIds": {
+        "soundcloud": "498374"
+      },
+      "blendGroup": [
+        {
+          "artist": "MEDUZA ft. GOODBOYS",
+          "title": "Piece Of Your Heart (MOSKA x Bluckther Remix)",
+          "remix": "",
+          "trackId": "4710432"
+        },
+        {
+          "artist": "FISHER",
+          "title": "You Little Beauty",
+          "remix": "",
+          "trackId": "4710433"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "FISHER",
+      "title": "You Little Beauty",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "4710433",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "431348",
+        "youtube": "431348",
+        "soundcloud": "431348",
+        "appleMusic": "431348"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Major Lazer ft. J Balvin & El Alfa",
+      "title": "Que Calor (MOSKA Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "4710434",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1587,
+      "mediaIds": {
+        "youtube": "530310"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Tiësto & MOSKA",
+      "title": "Acordeão",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "4710435",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1738,
+      "mediaIds": {
+        "spotify": "514355",
+        "youtube": "514355",
+        "soundcloud": "514355",
+        "appleMusic": "514355"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Hermanos Lebron",
+      "title": "Que Pena (MOSKA Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "4710436",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1884,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Dua Lipa",
+      "title": "Don't Start Now (MOSKA Remix)",
+      "remix": "",
+      "label": "COLUMBIA",
+      "trackId": "4710481",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2095,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Dateless",
+      "title": "Pressure",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4710482",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2246,
+      "mediaIds": {
+        "spotify": "434048",
+        "youtube": "434048",
+        "soundcloud": "434048"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "MOSKA",
+      "title": "90's",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "4710483",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2382,
+      "mediaIds": {
+        "spotify": "582920",
+        "youtube": "582920",
+        "soundcloud": "582920",
+        "appleMusic": "582920"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "MOSKA & Ivan Miranda",
+      "title": "Take It Off",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "4710484",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2506,
+      "mediaIds": {
+        "spotify": "522526",
+        "youtube": "522526",
+        "soundcloud": "522526",
+        "appleMusic": "522526"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Swedish House Mafia & Knife Party vs. Thomas Gold & Corey James",
+      "title": "Antidote vs. Orinoco (Steve Angello Mashup)",
+      "remix": "",
+      "label": "POPHOUSE/ARMADA/SIZE",
+      "trackId": "4710485",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2674,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Tiësto & 7 Skies ft. RebMoe",
+      "title": "My Frequency",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "4710380",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2776,
+      "mediaIds": {
+        "spotify": "547194",
+        "youtube": "547194",
+        "soundcloud": "547194",
+        "appleMusic": "547194"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Edward Maya & Vika Jigulina vs. Mike Williams",
+      "title": "Stereo Love vs. Don't Hurt (MOSKA Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "4710510",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2904,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Daft Punk",
+      "title": "One More Time (MOSKA Miami 2013 Bootleg)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "4710511",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3005,
+      "mediaIds": {
+        "soundcloud": "125607"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Alesso vs. Tom Staar",
+      "title": "I Wanna Know Drift (Victor S Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "4710514",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3089,
+      "mediaIds": {
+        "soundcloud": "4710514"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Avicii vs. Dimitri Vangelis & Wyman",
+      "title": "Without You x Penny (Tiësto Tomorrowland 2019 Mashup)",
+      "remix": "",
+      "label": "UMG/BUCE",
+      "trackId": "4710515",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3224,
+      "mediaIds": {
+        "youtube": "512187"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "MOSKA ft. Sara Jaramillo",
+      "title": "Loca",
+      "remix": "",
+      "label": "AFTR:HRS",
+      "trackId": "4710516",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3429,
+      "mediaIds": {
+        "spotify": "576625",
+        "youtube": "576625",
+        "soundcloud": "576625",
+        "appleMusic": "576625"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1589926",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=gmbgvdgvV90"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "1584072",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T18:10:22.772Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,893 @@
+{
+  "tlId": "114g7xxk",
+  "dj": "Oppidan",
+  "stage": "EDC Las Vegas",
+  "date": "2025-05-17",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/114g7xxk/oppidan-cosmicmeadow-edc-las-vegas-united-states-2025-05-17.html",
+  "djs": [
+    {
+      "name": "Oppidan",
+      "slug": "oppidan"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12307524",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "12307524"
+        },
+        {
+          "artist": "Oppidan & Cutty Ranks",
+          "title": "Armed & Dangerous",
+          "remix": "",
+          "trackId": "12435552"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Oppidan & Cutty Ranks",
+      "title": "Armed & Dangerous",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "12435552",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "897086",
+        "youtube": "897086",
+        "appleMusic": "897086"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Masters At Work",
+      "title": "Work",
+      "remix": "",
+      "label": "MAW",
+      "trackId": "12307525",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 106,
+      "mediaIds": {
+        "spotify": "2033",
+        "youtube": "2033",
+        "soundcloud": "2033",
+        "appleMusic": "2033"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Oppidan & Hans Glader",
+      "title": "AH BEAT",
+      "remix": "",
+      "label": "PROMISED LAND",
+      "trackId": "12307526",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 156,
+      "mediaIds": {
+        "spotify": "1125266",
+        "youtube": "1125266",
+        "soundcloud": "1125266"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Oppidan",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12307527",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 199,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Oppidan ft. Frisco",
+      "title": "FRESH AND NEW (Bumpy Mix)",
+      "remix": "",
+      "label": "PROMISED LAND",
+      "trackId": "12307528",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Oppidan",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12435553",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 900,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Oppidan",
+          "title": "ID",
+          "remix": "",
+          "trackId": "12435553"
+        },
+        {
+          "artist": "Masters At Work",
+          "title": "Work (Acappella)",
+          "remix": "",
+          "trackId": "12307529"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Masters At Work",
+      "title": "Work (Acappella)",
+      "remix": "",
+      "label": "MAW",
+      "trackId": "12307529",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 900,
+      "mediaIds": {
+        "spotify": "2033",
+        "youtube": "8350",
+        "soundcloud": "2033",
+        "appleMusic": "2033"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Osmosis Jones",
+      "title": "Bombtrack",
+      "remix": "",
+      "label": "INTHEHOUSE",
+      "trackId": "12307530",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1100135",
+        "youtube": "1100135",
+        "soundcloud": "1100135",
+        "appleMusic": "1100135"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Oppidan",
+      "title": "Wake & Break (VIP)",
+      "remix": "",
+      "label": "PROMISED LAND",
+      "trackId": "12307531",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Oppidan",
+      "title": "Lose My Head",
+      "remix": "",
+      "label": "PROMISED LAND",
+      "trackId": "12307532",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1074600",
+        "youtube": "1074600",
+        "soundcloud": "1074600",
+        "appleMusic": "1074600"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Pete Graham & Chris Lorenzo & Mark Starr",
+      "title": "Something In The Water",
+      "remix": "",
+      "label": "FOOD MUSIC",
+      "trackId": "12307533",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "166146",
+        "youtube": "166146",
+        "soundcloud": "166146",
+        "appleMusic": "166146"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pete Graham & Chris Lorenzo & Mark Starr",
+          "title": "Something In The Water",
+          "remix": "",
+          "trackId": "12307533"
+        },
+        {
+          "artist": "Skin On Skin",
+          "title": "Burn Dem Bridges",
+          "remix": "",
+          "trackId": "12307534"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skin On Skin",
+      "title": "Burn Dem Bridges",
+      "remix": "",
+      "label": "FFRR (PARLOPHONE)",
+      "trackId": "12307534",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "820025",
+        "youtube": "820025",
+        "soundcloud": "820025",
+        "appleMusic": "820025"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skin On Skin",
+          "title": "Burn Dem Bridges",
+          "remix": "",
+          "trackId": "12307534"
+        },
+        {
+          "artist": "Oppidan",
+          "title": "WHERE'S MY VAPE?",
+          "remix": "",
+          "trackId": "12307535"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Oppidan",
+      "title": "WHERE'S MY VAPE?",
+      "remix": "",
+      "label": "PROMISED LAND",
+      "trackId": "12307535",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1029107",
+        "youtube": "1029107",
+        "soundcloud": "1029107",
+        "appleMusic": "1029107"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Oppidan & Cutty Ranks",
+      "title": "Armed & Dangerous",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "12307536",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "897086",
+        "youtube": "897086",
+        "appleMusic": "897086"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Oppidan",
+      "title": "Send It",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "12307537",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "839766",
+        "youtube": "839766",
+        "soundcloud": "839766",
+        "appleMusic": "839766"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "NOTION & Oppidan",
+      "title": "No Dubplates",
+      "remix": "",
+      "label": "",
+      "trackId": "12307538",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1333,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Fatima Yamaha",
+      "title": "What's A Girl To Do (IsGwan Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12307539",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1052774",
+        "soundcloud": "1052774",
+        "appleMusic": "1052774"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Oppidan",
+      "title": "UNTITLED SINES",
+      "remix": "",
+      "label": "PROMISED LAND",
+      "trackId": "12307540",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1055327",
+        "youtube": "1055327",
+        "soundcloud": "1055327",
+        "appleMusic": "1055327"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Sammy Virji",
+      "title": "If U Need It (Oppidan Remix)",
+      "remix": "",
+      "label": "POSITIVA",
+      "trackId": "12307541",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1472,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Oppidan",
+      "title": "Move Your Feet (VIP)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12307542",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1516,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Oppidan",
+          "title": "Move Your Feet (VIP)",
+          "remix": "",
+          "trackId": "12307542"
+        },
+        {
+          "artist": "Ghoulish",
+          "title": "Let Me Tell U",
+          "remix": "",
+          "trackId": "12307543"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ghoulish",
+      "title": "Let Me Tell U",
+      "remix": "",
+      "label": "WAREHOUSE PROJECT RECORDS",
+      "trackId": "12307543",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1649,
+      "mediaIds": {
+        "spotify": "1092696",
+        "soundcloud": "1092696"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Fatboy Slim",
+      "title": "Rockafeller Skank (Oppidan Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12307544",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1720,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Oppidan",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12307545",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1783,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Overmono",
+      "title": "So U Kno",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12307546",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "702138",
+        "youtube": "702138",
+        "soundcloud": "702138",
+        "appleMusic": "702138"
+      },
+      "blendGroup": [
+        {
+          "artist": "Overmono",
+          "title": "So U Kno",
+          "remix": "",
+          "trackId": "12307546"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "12307547"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12307547",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "21",
+      "artist": "Diffrent",
+      "title": "A Little Closer (Oppidan Remix)",
+      "remix": "",
+      "label": "COLUMBIA LOCAL",
+      "trackId": "12307548",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1031218",
+        "youtube": "1031218",
+        "soundcloud": "1031218",
+        "appleMusic": "1031218"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Elvis Crespo",
+      "title": "Suavemente (Oppidan Dub)",
+      "remix": "",
+      "label": "SONY BMG",
+      "trackId": "12307549",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2141,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Elvis Crespo",
+          "title": "Suavemente (Oppidan Dub)",
+          "remix": "",
+          "trackId": "12307549"
+        },
+        {
+          "artist": "Sir Spyro ft. Teddy Brukshot & Lady Chann & Killa P",
+          "title": "Topper Top",
+          "remix": "",
+          "trackId": "12307550"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sir Spyro ft. Teddy Brukshot & Lady Chann & Killa P",
+      "title": "Topper Top",
+      "remix": "",
+      "label": "DEEP MEDI",
+      "trackId": "12307550",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 2141,
+      "mediaIds": {
+        "spotify": "335359",
+        "youtube": "335359",
+        "soundcloud": "335359",
+        "appleMusic": "335359"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Oppidan",
+      "title": "Mr. Sandman",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12307551",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "938086",
+        "youtube": "938086",
+        "soundcloud": "938086",
+        "appleMusic": "938086"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Disclosure",
+      "title": "When A Fire Starts To Burn",
+      "remix": "",
+      "label": "UNIVERSAL ISLAND",
+      "trackId": "12307552",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "137975",
+        "youtube": "137975",
+        "soundcloud": "137975",
+        "appleMusic": "137975"
+      },
+      "blendGroup": [
+        {
+          "artist": "Disclosure",
+          "title": "When A Fire Starts To Burn",
+          "remix": "",
+          "trackId": "12307552"
+        },
+        {
+          "artist": "Crystal Waters",
+          "title": "Gypsy Woman (She's Homeless)",
+          "remix": "",
+          "trackId": "12307553"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Crystal Waters",
+      "title": "Gypsy Woman (She's Homeless)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "12307553",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "7502",
+        "youtube": "7502",
+        "soundcloud": "7502",
+        "appleMusic": "7502"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Adam F",
+      "title": "Circles (Oppidan Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "12307554",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "797444",
+        "soundcloud": "797444"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Oppidan",
+      "title": "Renegade Master (Cutty Ranks VIP)",
+      "remix": "",
+      "label": "",
+      "trackId": "12307555",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2173,
+      "mediaIds": {
+        "soundcloud": "886839"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Joy Orbison",
+      "title": "Flight FM",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12307556",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "963958",
+        "youtube": "963958",
+        "soundcloud": "963958",
+        "appleMusic": "963958"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Travis Scott ft. Playboi Carti",
+      "title": "FE!N (Chris Lorenzo Edit)",
+      "remix": "",
+      "label": "CACTUS JACK",
+      "trackId": "12307558",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2662,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Dismantle & Van Basten",
+      "title": "Smack The Door",
+      "remix": "",
+      "label": "MORE TIME",
+      "trackId": "12307559",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "742075",
+        "youtube": "742075",
+        "appleMusic": "742075"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Sammy Virji & Interplanetary Criminal",
+      "title": "Damager",
+      "remix": "",
+      "label": "SAMMY VIRJI",
+      "trackId": "12307560",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1053081",
+        "youtube": "1053081",
+        "soundcloud": "1053081",
+        "appleMusic": "1053081"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sammy Virji & Interplanetary Criminal",
+          "title": "Damager",
+          "remix": "",
+          "trackId": "12307560"
+        },
+        {
+          "artist": "DJ Bigga G",
+          "title": "Mind, Body & Soul",
+          "remix": "",
+          "trackId": "12307561"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Bigga G",
+      "title": "Mind, Body & Soul",
+      "remix": "",
+      "label": "RUFF N READY",
+      "trackId": "12307561",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "184039",
+        "soundcloud": "184039"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Bigga G",
+          "title": "Mind, Body & Soul",
+          "remix": "",
+          "trackId": "12307561"
+        },
+        {
+          "artist": "Tyla",
+          "title": "Water",
+          "remix": "",
+          "trackId": "12307562"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tyla",
+      "title": "Water",
+      "remix": "",
+      "label": "FAX",
+      "trackId": "12307562",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 2997,
+      "mediaIds": {
+        "spotify": "912729",
+        "youtube": "912729",
+        "soundcloud": "912729",
+        "appleMusic": "912729"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "Oppidan",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12435554",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2997,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Mac DeMarco",
+      "title": "Chamber Of Reflection",
+      "remix": "",
+      "label": "CAPTURED TRACKS",
+      "trackId": "12307563",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "425739",
+        "youtube": "425739",
+        "soundcloud": "425739",
+        "appleMusic": "425739"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Upgrade",
+      "title": "Function",
+      "remix": "",
+      "label": "SERIAL KILLAZ",
+      "trackId": "12307564",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "625008",
+        "youtube": "625008",
+        "soundcloud": "625008",
+        "appleMusic": "625008"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "IsGwan",
+      "title": "Incredible Dub",
+      "remix": "",
+      "label": "SUBSOUL",
+      "trackId": "12307565",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3226,
+      "mediaIds": {
+        "spotify": "1013115",
+        "youtube": "1013115",
+        "appleMusic": "1013115"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Club Angel",
+      "title": "Bulletproof",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "12307567",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 3405,
+      "mediaIds": {
+        "youtube": "951876",
+        "soundcloud": "951876"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Oppidan & venbee",
+      "title": "Over You",
+      "remix": "",
+      "label": "PROMISED LAND",
+      "trackId": "12307568",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 3466,
+      "mediaIds": {
+        "spotify": "1104330",
+        "youtube": "1104330",
+        "soundcloud": "1104330",
+        "appleMusic": "1104330"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_2",
+      "idMedia": "4830840",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/oppidan-at-edc-las-vegas-2025-cosmic-meadow-stage-dj-mix/1821294027/us/album/oppidan-at-edc-las-vegas-2025-cosmic-meadow-stage-dj-mix/1821294027?app=music&at=1000lwkw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T02:56:37.289Z",
+  "scrapeVersion": 2
+}

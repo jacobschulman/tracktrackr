@@ -1,0 +1,514 @@
+{
+  "tlId": "1h39gcs9",
+  "dj": "MEDUZA",
+  "stage": "EDC Las Vegas",
+  "date": "2025-05-17",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/1h39gcs9/meduza-kineticfield-edc-las-vegas-united-states-2025-05-17.html",
+  "djs": [
+    {
+      "name": "MEDUZA",
+      "slug": "meduza"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Linska",
+      "title": "Bad Boy (GENESI Remix)",
+      "remix": "(MEDUZA Intro Edit)",
+      "label": "REALM",
+      "trackId": "12161891",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1068393",
+        "youtube": "1068393",
+        "soundcloud": "1068393",
+        "appleMusic": "1068393"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Alterboy",
+      "title": "Let's Jack",
+      "remix": "",
+      "label": "AETERNA",
+      "trackId": "12167326",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 359,
+      "mediaIds": {
+        "spotify": "1092847",
+        "youtube": "1092847",
+        "soundcloud": "1092847",
+        "appleMusic": "1092847"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Lesgo",
+      "title": "Rhythm",
+      "remix": "",
+      "label": "AETERNA",
+      "trackId": "12161972",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 550,
+      "mediaIds": {
+        "spotify": "1093678",
+        "youtube": "1093678",
+        "soundcloud": "1093678",
+        "appleMusic": "1093678"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lesgo",
+          "title": "Rhythm",
+          "remix": "",
+          "trackId": "12161972"
+        },
+        {
+          "artist": "MEDUZA ft. Sam Tompkins & Em Beihold",
+          "title": "Phone",
+          "remix": "",
+          "trackId": "12161967"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MEDUZA ft. Sam Tompkins & Em Beihold",
+      "title": "Phone",
+      "remix": "",
+      "label": "ISLAND/CROSS",
+      "trackId": "12161967",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "906262",
+        "youtube": "906262",
+        "soundcloud": "906262",
+        "appleMusic": "906262"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "MEDUZA & Innellea & GENESI ft. Nu-La",
+      "title": "Edge Of The World",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "12161968",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 820,
+      "mediaIds": {
+        "spotify": "1050147",
+        "youtube": "1050147",
+        "soundcloud": "1050147",
+        "appleMusic": "1050147"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "HILLS",
+      "title": "Teardrops",
+      "remix": "",
+      "label": "AETERNA",
+      "trackId": "12161973",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1080,
+      "mediaIds": {
+        "spotify": "1087374",
+        "youtube": "1087374",
+        "soundcloud": "1087374",
+        "appleMusic": "1087374"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Calvin Harris",
+      "title": "I'm Not Alone (CamelPhat Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "12162086",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1240,
+      "mediaIds": {
+        "spotify": "486720",
+        "youtube": "486720",
+        "soundcloud": "486720",
+        "appleMusic": "486720"
+      },
+      "blendGroup": [
+        {
+          "artist": "Calvin Harris",
+          "title": "I'm Not Alone (CamelPhat Remix)",
+          "remix": "",
+          "trackId": "12162086"
+        },
+        {
+          "artist": "MEDUZA",
+          "title": "Friends",
+          "remix": "(Acappella)",
+          "trackId": "12162081"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MEDUZA",
+      "title": "Friends",
+      "remix": "(Acappella)",
+      "label": "AETERNA",
+      "trackId": "12162081",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "887200",
+        "youtube": "887200",
+        "soundcloud": "887200",
+        "appleMusic": "887200"
+      },
+      "blendGroup": [
+        {
+          "artist": "MEDUZA",
+          "title": "Friends",
+          "remix": "(Acappella)",
+          "trackId": "12162081"
+        },
+        {
+          "artist": "Travis Scott ft. Playboi Carti",
+          "title": "FE!N",
+          "remix": "",
+          "trackId": "12162085"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Travis Scott ft. Playboi Carti",
+      "title": "FE!N",
+      "remix": "",
+      "label": "CACTUS JACK",
+      "trackId": "12162085",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "914385",
+        "youtube": "914385",
+        "soundcloud": "914385",
+        "appleMusic": "914385"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Volaris",
+      "title": "Tygar",
+      "remix": "",
+      "label": "SOLA (ARMADA)",
+      "trackId": "12162099",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1430,
+      "mediaIds": {
+        "spotify": "827038",
+        "youtube": "827038",
+        "soundcloud": "827038",
+        "appleMusic": "827038"
+      },
+      "blendGroup": [
+        {
+          "artist": "Volaris",
+          "title": "Tygar",
+          "remix": "",
+          "trackId": "12162099"
+        },
+        {
+          "artist": "MEDUZA ft. Dermot Kennedy",
+          "title": "Paradise",
+          "remix": "(Acappella)",
+          "trackId": "12162100"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MEDUZA ft. Dermot Kennedy",
+      "title": "Paradise",
+      "remix": "(Acappella)",
+      "label": "ISLAND/CROSS",
+      "trackId": "12162100",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "627421",
+        "youtube": "627421",
+        "soundcloud": "627421",
+        "appleMusic": "627421"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Avicii & Elle King",
+      "title": "Let's Ride Away (MEDUZA For Tim Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "12179473",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1710,
+      "mediaIds": {
+        "spotify": "1097007",
+        "youtube": "1097007",
+        "soundcloud": "1097007",
+        "appleMusic": "1097007"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "GENESI & MEDUZA ft. Aya Anne",
+      "title": "Freak",
+      "remix": "",
+      "label": "DIYNAMIC",
+      "trackId": "12162107",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1057838",
+        "youtube": "1057838",
+        "soundcloud": "1057838",
+        "appleMusic": "1057838"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "MEDUZA ft. HAYLA",
+      "title": "Another World (Kevin de Vries & SLVR Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "12162215",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1052985",
+        "youtube": "1052985",
+        "soundcloud": "1052985",
+        "appleMusic": "1052985"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Supermode",
+      "title": "Tell Me Why (MEDUZA Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "12162216",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "821909",
+        "youtube": "821909",
+        "soundcloud": "821909",
+        "appleMusic": "821909"
+      },
+      "blendGroup": [
+        {
+          "artist": "Supermode",
+          "title": "Tell Me Why (MEDUZA Remix)",
+          "remix": "",
+          "trackId": "12162216"
+        },
+        {
+          "artist": "MEDUZA ft. Hozier",
+          "title": "Tell It To My Heart",
+          "remix": "(Acappella)",
+          "trackId": "12162222"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MEDUZA ft. Hozier",
+      "title": "Tell It To My Heart",
+      "remix": "(Acappella)",
+      "label": "ISLAND (UMG)",
+      "trackId": "12162222",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "736685",
+        "youtube": "736685",
+        "soundcloud": "736685",
+        "appleMusic": "736685"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "OKAYVAL",
+      "title": "Count Up",
+      "remix": "",
+      "label": "AETERNA",
+      "trackId": "12162242",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1892,
+      "mediaIds": {
+        "spotify": "1093366",
+        "youtube": "1093366",
+        "soundcloud": "1093366",
+        "appleMusic": "1093366"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Argy & MEDUZA ft. PollyAnna",
+      "title": "Melodia",
+      "remix": "",
+      "label": "AETERNA",
+      "trackId": "12162241",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1982,
+      "mediaIds": {
+        "spotify": "1099517",
+        "youtube": "1099517",
+        "soundcloud": "1099517",
+        "appleMusic": "1099517"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Au/Ra & CamelPhat",
+      "title": "Panic Room",
+      "remix": "",
+      "label": "RCA/LOUDMOUTH",
+      "trackId": "12162267",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2223,
+      "mediaIds": {
+        "spotify": "403330",
+        "youtube": "403330",
+        "soundcloud": "403330",
+        "appleMusic": "403330"
+      },
+      "blendGroup": [
+        {
+          "artist": "Au/Ra & CamelPhat",
+          "title": "Panic Room",
+          "remix": "",
+          "trackId": "12162267"
+        },
+        {
+          "artist": "MEDUZA x Becky Hill x GOODBOYS",
+          "title": "Lose Control",
+          "remix": "",
+          "trackId": "12162268"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MEDUZA x Becky Hill x GOODBOYS",
+      "title": "Lose Control",
+      "remix": "",
+      "label": "VIRGIN/POLYDOR",
+      "trackId": "12162268",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "528460",
+        "youtube": "528460",
+        "soundcloud": "528460",
+        "appleMusic": "528460"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Notre Dame vs. MEDUZA & FAST BOY",
+      "title": "Yumi vs. Bad Memories (Tim Grand Edit)",
+      "remix": "",
+      "label": "ISLAND/CROSS/DIYNAMIC",
+      "trackId": "12162310",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2495,
+      "mediaIds": {
+        "soundcloud": "937917"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Tiga vs. MEDUZA",
+      "title": "You Gonna Want Me (I Know)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "12162311",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2840,
+      "mediaIds": {
+        "spotify": "1130960",
+        "youtube": "1130960",
+        "soundcloud": "1130960",
+        "appleMusic": "1130960"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "MEDUZA ft. GOODBOYS",
+      "title": "Piece Of Your Heart",
+      "remix": "",
+      "label": "VIRGIN/ASTRALWERKS",
+      "trackId": "12162312",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3104,
+      "mediaIds": {
+        "spotify": "433090",
+        "youtube": "433090",
+        "soundcloud": "433090",
+        "appleMusic": "433090"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4786251",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=BlS2A-1nEb0"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:04:46.073Z",
+  "scrapeVersion": 2
+}

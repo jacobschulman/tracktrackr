@@ -1,0 +1,290 @@
+{
+  "tlId": "235wnlq9",
+  "dj": "Autograf",
+  "stage": "EDC Las Vegas",
+  "date": "2017-06-17",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/235wnlq9/autograf-cosmicmeadow-edc-las-vegas-united-states-2017-06-17.html",
+  "djs": [
+    {
+      "name": "Autograf",
+      "slug": "autograf"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Clean Bandit ft. Sean Paul & Anne-Marie",
+      "title": "Rockabye (Autograf Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "2696881",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "347872",
+        "youtube": "347872",
+        "soundcloud": "347872"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Autograf",
+      "title": "Sleepless In NYC",
+      "remix": "",
+      "label": "ARMADA DEEP",
+      "trackId": "2696882",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 30,
+      "mediaIds": {
+        "spotify": "378521",
+        "soundcloud": "378521",
+        "appleMusic": "378521"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Daft Punk",
+      "title": "Robot Rock",
+      "remix": "",
+      "label": "DAFT LIFE",
+      "trackId": "2696883",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "22628",
+        "youtube": "22628",
+        "soundcloud": "22628",
+        "appleMusic": "22628"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Robot Rock",
+          "remix": "",
+          "trackId": "2696883"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Aerodynamic",
+          "remix": "",
+          "trackId": "2696884"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Aerodynamic",
+      "remix": "",
+      "label": "DAFT LIFE",
+      "trackId": "2696884",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2606",
+        "youtube": "2606",
+        "soundcloud": "2606",
+        "appleMusic": "2606"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Aerodynamic",
+          "remix": "",
+          "trackId": "2696884"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "One More Time (Acappella)",
+          "remix": "",
+          "trackId": "2696885"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "One More Time (Acappella)",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE",
+      "trackId": "2696885",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1847",
+        "youtube": "1847",
+        "soundcloud": "1847",
+        "appleMusic": "1847"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "One More Time (Acappella)",
+          "remix": "",
+          "trackId": "2696885"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "One More Time",
+          "remix": "",
+          "trackId": "2696886"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "One More Time",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE",
+      "trackId": "2696886",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1847",
+        "youtube": "1847",
+        "soundcloud": "1847",
+        "appleMusic": "1847"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "One More Time",
+          "remix": "",
+          "trackId": "2696886"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Oh Yeah",
+          "remix": "",
+          "trackId": "2696887"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Oh Yeah",
+      "remix": "",
+      "label": "DAFT TRAX (VIRGIN)",
+      "trackId": "2696887",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "47330",
+        "youtube": "47330",
+        "soundcloud": "47330",
+        "appleMusic": "47330"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Migos ft. Lil Uzi Vert",
+      "title": "Bad And Boujee",
+      "remix": "",
+      "label": "QUALITY CONTROL",
+      "trackId": "2696888",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "336462",
+        "youtube": "336462",
+        "soundcloud": "336462",
+        "appleMusic": "336462"
+      },
+      "blendGroup": [
+        {
+          "artist": "Migos ft. Lil Uzi Vert",
+          "title": "Bad And Boujee",
+          "remix": "",
+          "trackId": "2696888"
+        },
+        {
+          "artist": "Migos ft. Lil Uzi Vert",
+          "title": "Bad And Boujee",
+          "remix": "",
+          "trackId": "2696889"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Migos ft. Lil Uzi Vert",
+      "title": "Bad And Boujee",
+      "remix": "",
+      "label": "QUALITY CONTROL",
+      "trackId": "2696889",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "336462",
+        "youtube": "336462",
+        "soundcloud": "336462",
+        "appleMusic": "336462"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Post Malone ft. Quavo",
+      "title": "Congratulations",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "2696890",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "348489",
+        "youtube": "348489",
+        "soundcloud": "348489",
+        "appleMusic": "348489"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2696891",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2696892",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T07:42:23.092Z",
+  "scrapeVersion": 2
+}

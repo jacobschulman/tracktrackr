@@ -1,0 +1,1286 @@
+{
+  "tlId": "2unzwpbk",
+  "dj": "BELLECOUR",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-23",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/2unzwpbk/bellecour-stereobloom-edc-las-vegas-united-states-2021-10-23.html",
+  "djs": [
+    {
+      "name": "BELLECOUR",
+      "slug": "bellecour"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "BELLECOUR",
+      "title": "Maxi Tacos",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6962676",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 53,
+      "mediaIds": {
+        "spotify": "556554",
+        "youtube": "556554",
+        "appleMusic": "556554"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Born Dirty & BELLECOUR",
+      "title": "Tokyo Bill",
+      "remix": "",
+      "label": "WAY WAY",
+      "trackId": "6962677",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 146,
+      "mediaIds": {
+        "spotify": "522892",
+        "youtube": "522892",
+        "soundcloud": "522892",
+        "appleMusic": "522892"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Carmen",
+      "title": "Time To Move",
+      "remix": "",
+      "label": "!K7",
+      "trackId": "6962678",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 219,
+      "mediaIds": {
+        "spotify": "38596",
+        "youtube": "38596",
+        "soundcloud": "38596"
+      },
+      "blendGroup": [
+        {
+          "artist": "Carmen",
+          "title": "Time To Move",
+          "remix": "",
+          "trackId": "6962678"
+        },
+        {
+          "artist": "Aazar & BELLECOUR",
+          "title": "Da Vinci",
+          "remix": "",
+          "trackId": "6962679"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Aazar & BELLECOUR",
+      "title": "Da Vinci",
+      "remix": "",
+      "label": "PREMIERE CLASSE",
+      "trackId": "6962679",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 276,
+      "mediaIds": {
+        "spotify": "416735",
+        "youtube": "416735",
+        "soundcloud": "416735",
+        "appleMusic": "416735"
+      },
+      "blendGroup": [
+        {
+          "artist": "Aazar & BELLECOUR",
+          "title": "Da Vinci",
+          "remix": "",
+          "trackId": "6962679"
+        },
+        {
+          "artist": "Aazar & BELLECOUR",
+          "title": "Da Vinci (BELLECOUR Remix)",
+          "remix": "",
+          "trackId": "6962680"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Aazar & BELLECOUR",
+      "title": "Da Vinci (BELLECOUR Remix)",
+      "remix": "",
+      "label": "PREMIERE CLASSE",
+      "trackId": "6962680",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 350,
+      "mediaIds": null
+    },
+    {
+      "pos": "04",
+      "artist": "Robert Miles",
+      "title": "Children",
+      "remix": "",
+      "label": "ARISTA",
+      "trackId": "6962681",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 415,
+      "mediaIds": {
+        "spotify": "6166",
+        "youtube": "6166",
+        "soundcloud": "6166",
+        "appleMusic": "6166"
+      },
+      "blendGroup": [
+        {
+          "artist": "Robert Miles",
+          "title": "Children",
+          "remix": "",
+          "trackId": "6962681"
+        },
+        {
+          "artist": "Aazar & Kovalenco Gennadi ft. Lil Jon",
+          "title": "2 Lit (BELLECOUR Remix)",
+          "remix": "",
+          "trackId": "6962682"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Aazar & Kovalenco Gennadi ft. Lil Jon",
+      "title": "2 Lit (BELLECOUR Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "6962682",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 475,
+      "mediaIds": null
+    },
+    {
+      "pos": "05",
+      "artist": "Matroda & Bleu Clair",
+      "title": "Disco Tool (OOTORO Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6962683",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 506,
+      "mediaIds": {
+        "spotify": "733953",
+        "youtube": "733953",
+        "soundcloud": "733953",
+        "appleMusic": "733953"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Matroda & San Pacho",
+      "title": "La Pasion",
+      "remix": "",
+      "label": "TERMINAL UNDERGROUND",
+      "trackId": "6962684",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 571,
+      "mediaIds": {
+        "spotify": "708570",
+        "youtube": "708570",
+        "soundcloud": "708570",
+        "appleMusic": "708570"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "MNNR ft. Nostalgix",
+      "title": "Low Key",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "6962685",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 615,
+      "mediaIds": {
+        "spotify": "598555",
+        "youtube": "598555",
+        "soundcloud": "598555",
+        "appleMusic": "598555"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "BELLECOUR & Neon Steve",
+      "title": "Paparazzi",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6962686",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 684,
+      "mediaIds": {
+        "spotify": "736951",
+        "youtube": "736951",
+        "appleMusic": "736951"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "OMNOM",
+      "title": "Watch Me Whip",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "6962687",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 822,
+      "mediaIds": {
+        "spotify": "734214",
+        "youtube": "734214",
+        "soundcloud": "734214",
+        "appleMusic": "734214"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "BELLECOUR",
+      "title": "Choukar Elevator",
+      "remix": "",
+      "label": "IN / ROTATION",
+      "trackId": "6962688",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 878,
+      "mediaIds": {
+        "spotify": "505275",
+        "youtube": "505275",
+        "soundcloud": "505275",
+        "appleMusic": "505275"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Dada Life",
+      "title": "Let's Get Bleeped Tonight (BELLECOUR Remix)",
+      "remix": "",
+      "label": "BIG & DIRTY",
+      "trackId": "7791572",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 907,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Born Dirty",
+      "title": "Burn That Whistle",
+      "remix": "",
+      "label": "WAY WAY",
+      "trackId": "6962689",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 977,
+      "mediaIds": {
+        "spotify": "711301",
+        "youtube": "711301",
+        "soundcloud": "711301",
+        "appleMusic": "711301"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "BELLECOUR",
+      "title": "Next Generation",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "6962690",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1040,
+      "mediaIds": {
+        "spotify": "712705",
+        "youtube": "712705",
+        "soundcloud": "712705",
+        "appleMusic": "712705"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Aazar & BELLECOUR",
+      "title": "Bonaparte",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "6963094",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1135,
+      "mediaIds": {
+        "spotify": "509741",
+        "youtube": "509741",
+        "soundcloud": "509741",
+        "appleMusic": "509741"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "KiNK",
+      "title": "Aerotrim",
+      "remix": "",
+      "label": "SOFIA",
+      "trackId": "7791584",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1177,
+      "mediaIds": {
+        "spotify": "633982",
+        "youtube": "633982",
+        "soundcloud": "633982",
+        "appleMusic": "633982"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "CID ft. Jaquell",
+      "title": "Downstairs (AC Slater Remix)",
+      "remix": "",
+      "label": "NIGHT SERVICE ONLY",
+      "trackId": "6963095",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1238,
+      "mediaIds": {
+        "spotify": "619843",
+        "youtube": "619843",
+        "soundcloud": "619843",
+        "appleMusic": "619843"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Kevin McKay & Dillon Nathaniel",
+      "title": "Jump Around",
+      "remix": "",
+      "label": "GLASGOW UNDERGROUND",
+      "trackId": "6963096",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1305,
+      "mediaIds": {
+        "spotify": "742924",
+        "youtube": "742924",
+        "soundcloud": "742924",
+        "appleMusic": "742924"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Habstrakt & BELLECOUR",
+      "title": "Lasagne",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "6930792",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1352,
+      "mediaIds": {
+        "spotify": "509755",
+        "youtube": "509755",
+        "soundcloud": "509755",
+        "appleMusic": "509755"
+      },
+      "blendGroup": [
+        {
+          "artist": "Habstrakt & BELLECOUR",
+          "title": "Lasagne",
+          "remix": "",
+          "trackId": "6930792"
+        },
+        {
+          "artist": "Prok & Fitch",
+          "title": "Indiance",
+          "remix": "",
+          "trackId": "6930793"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Prok & Fitch",
+      "title": "Indiance",
+      "remix": "",
+      "label": "SOLID GROOVES",
+      "trackId": "6930793",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 1411,
+      "mediaIds": {
+        "spotify": "599424",
+        "youtube": "599424",
+        "soundcloud": "599424",
+        "appleMusic": "599424"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "BELLECOUR",
+      "title": "Merde",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "6930794",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1464,
+      "mediaIds": {
+        "spotify": "913947",
+        "youtube": "913947",
+        "soundcloud": "913947",
+        "appleMusic": "913947"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "BELLECOUR",
+      "title": "Right About",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "6963097",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1555,
+      "mediaIds": {
+        "spotify": "452316",
+        "youtube": "452316",
+        "soundcloud": "452316",
+        "appleMusic": "452316"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "BELLECOUR",
+      "title": "Le Coq",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "6930795",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1612,
+      "mediaIds": {
+        "spotify": "347246",
+        "youtube": "347246",
+        "soundcloud": "347246",
+        "appleMusic": "347246"
+      },
+      "blendGroup": [
+        {
+          "artist": "BELLECOUR",
+          "title": "Le Coq",
+          "remix": "",
+          "trackId": "6930795"
+        },
+        {
+          "artist": "Buitano & Makla",
+          "title": "Digits",
+          "remix": "",
+          "trackId": "6930796"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Buitano & Makla",
+      "title": "Digits",
+      "remix": "",
+      "label": "SANS MERCI",
+      "trackId": "6930796",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 1655,
+      "mediaIds": {
+        "spotify": "579135",
+        "youtube": "579135",
+        "soundcloud": "579135",
+        "appleMusic": "579135"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Habstrakt",
+      "title": "Show Me (BELLECOUR Remix)",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6930797",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1685,
+      "mediaIds": {
+        "spotify": "608899",
+        "youtube": "608899",
+        "soundcloud": "608899",
+        "appleMusic": "608899"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Wax Motif & Shahay ft. Scrufizzer",
+      "title": "Come Again",
+      "remix": "",
+      "label": "DIVIDED SOULS",
+      "trackId": "6930798",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1761,
+      "mediaIds": {
+        "spotify": "735578",
+        "youtube": "735578",
+        "soundcloud": "735578",
+        "appleMusic": "735578"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Dom Dolla",
+      "title": "San Frandisco",
+      "remix": "",
+      "label": "SWEAT IT OUT!/THREE SIX ZERO",
+      "trackId": "6930799",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1848,
+      "mediaIds": {
+        "spotify": "466964",
+        "youtube": "466964",
+        "soundcloud": "466964",
+        "appleMusic": "466964"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dom Dolla",
+          "title": "San Frandisco",
+          "remix": "",
+          "trackId": "6930799"
+        },
+        {
+          "artist": "Truth x Lies x Austin Hennessey",
+          "title": "Other Side",
+          "remix": "",
+          "trackId": "6963098"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Truth x Lies x Austin Hennessey",
+      "title": "Other Side",
+      "remix": "",
+      "label": "IN / ROTATION",
+      "trackId": "6963098",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 1851,
+      "mediaIds": {
+        "spotify": "594869",
+        "youtube": "594869",
+        "soundcloud": "594869",
+        "appleMusic": "594869"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "KEELD & Frents",
+      "title": "Not A Test",
+      "remix": "",
+      "label": "SANS MERCI",
+      "trackId": "6930800",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 1880,
+      "mediaIds": {
+        "spotify": "745119",
+        "youtube": "745119",
+        "soundcloud": "745119",
+        "appleMusic": "745119"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Chris Lake & Chris Lorenzo pres. Anti Up",
+      "title": "Shake",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "6930801",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 1982,
+      "mediaIds": {
+        "spotify": "685219",
+        "youtube": "685219",
+        "soundcloud": "685219",
+        "appleMusic": "685219"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "BELLECOUR",
+      "title": "Fever 105",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6930802",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2031,
+      "mediaIds": {
+        "spotify": "555831",
+        "youtube": "555831",
+        "soundcloud": "555831",
+        "appleMusic": "555831"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "BELLECOUR & SQWAD",
+      "title": "Calibrator",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "6930803",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2197,
+      "mediaIds": {
+        "spotify": "531489",
+        "youtube": "531489",
+        "soundcloud": "531489",
+        "appleMusic": "531489"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Good Times Ahead",
+      "title": "PSHET",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "6930804",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2255,
+      "mediaIds": {
+        "spotify": "605990",
+        "youtube": "605990",
+        "soundcloud": "605990",
+        "appleMusic": "605990"
+      },
+      "blendGroup": [
+        {
+          "artist": "Good Times Ahead",
+          "title": "PSHET",
+          "remix": "",
+          "trackId": "6930804"
+        },
+        {
+          "artist": "BELLECOUR",
+          "title": "Everybody Goes",
+          "remix": "(Acappella)",
+          "trackId": "6930805"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "BELLECOUR",
+      "title": "Everybody Goes",
+      "remix": "(Acappella)",
+      "label": "CONFESSION",
+      "trackId": "6930805",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "352288",
+        "youtube": "352288",
+        "soundcloud": "352288",
+        "appleMusic": "352288"
+      }
+    },
+    {
+      "pos": "30",
+      "artist": "Wuki ft. Roxanna",
+      "title": "NYC 2 LA (BELLECOUR Remix)",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "6930806",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2316,
+      "mediaIds": {
+        "spotify": "521653",
+        "youtube": "521653",
+        "soundcloud": "521653",
+        "appleMusic": "521653"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wuki ft. Roxanna",
+          "title": "NYC 2 LA (BELLECOUR Remix)",
+          "remix": "",
+          "trackId": "6930806"
+        },
+        {
+          "artist": "deadmau5 & Wolfgang Gartner",
+          "title": "Animal Rights",
+          "remix": "",
+          "trackId": "6930867"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 & Wolfgang Gartner",
+      "title": "Animal Rights",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "6930867",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20780",
+        "youtube": "20780",
+        "soundcloud": "20780",
+        "appleMusic": "20780"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "DJ Snake & Tchami & Malaa & MERCER",
+      "title": "Made In France (BELLECOUR Remix)",
+      "remix": "",
+      "label": "GEFFEN (UMG)",
+      "trackId": "6930807",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2389,
+      "mediaIds": {
+        "youtube": "603699",
+        "soundcloud": "603699"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "SLATIN & Whenuknow",
+      "title": "Stretch",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "6930808",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2472,
+      "mediaIds": {
+        "spotify": "724076",
+        "youtube": "724076",
+        "soundcloud": "724076",
+        "appleMusic": "724076"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "BELLECOUR & The Shooters",
+      "title": "Hangover",
+      "remix": "",
+      "label": "SPRS (SPINNIN')",
+      "trackId": "6930809",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 2548,
+      "mediaIds": {
+        "spotify": "706883",
+        "youtube": "706883",
+        "soundcloud": "706883",
+        "appleMusic": "706883"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Norsheep",
+      "title": "Be The One",
+      "remix": "",
+      "label": "GENERATION HEX",
+      "trackId": "6930810",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 2608,
+      "mediaIds": {
+        "spotify": "813560",
+        "youtube": "813560",
+        "soundcloud": "813560",
+        "appleMusic": "813560"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Bleu Clair & OOTORO",
+      "title": "Beat Like This",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "6930811",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 2757,
+      "mediaIds": {
+        "spotify": "648425",
+        "youtube": "648425",
+        "soundcloud": "648425",
+        "appleMusic": "648425"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Body Ocean",
+      "title": "Once The Music",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "6930812",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 2821,
+      "mediaIds": {
+        "spotify": "647106",
+        "youtube": "647106",
+        "soundcloud": "647106",
+        "appleMusic": "647106"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Aazar & KEELD",
+      "title": "Hermanos",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "6930813",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 2896,
+      "mediaIds": {
+        "spotify": "830023",
+        "youtube": "830023",
+        "soundcloud": "830023",
+        "appleMusic": "830023"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Black Jersey",
+      "title": "Everything I Want",
+      "remix": "",
+      "label": "BUY NOW",
+      "trackId": "6930814",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 2956,
+      "mediaIds": {
+        "spotify": "679770",
+        "youtube": "679770",
+        "soundcloud": "679770",
+        "appleMusic": "679770"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "BELLECOUR",
+      "title": "DV1",
+      "remix": "",
+      "label": "SANS MERCI",
+      "trackId": "6930815",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 3014,
+      "mediaIds": {
+        "spotify": "783984",
+        "youtube": "783984",
+        "soundcloud": "783984",
+        "appleMusic": "783984"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Truth x Lies",
+      "title": "Like This",
+      "remix": "",
+      "label": "IN / ROTATION",
+      "trackId": "6930816",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 3150,
+      "mediaIds": {
+        "spotify": "714830",
+        "youtube": "714830",
+        "soundcloud": "714830",
+        "appleMusic": "714830"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "KEELD ft. Rhiannon Roze",
+      "title": "Get Down",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "6930817",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 3213,
+      "mediaIds": {
+        "spotify": "710963",
+        "youtube": "710963",
+        "soundcloud": "710963",
+        "appleMusic": "710963"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "Chris Lake & Michael Woods vs. Justice & Simian",
+      "title": "Domino's vs. We Are Your Friends (Tony Romera Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "6930818",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 3323,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "43",
+      "artist": "Chris Lake & Solardo",
+      "title": "Free Your Body",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "6930819",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 3379,
+      "mediaIds": {
+        "spotify": "529154",
+        "youtube": "529154",
+        "soundcloud": "529154",
+        "appleMusic": "529154"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chris Lake & Solardo",
+          "title": "Free Your Body",
+          "remix": "",
+          "trackId": "6930819"
+        },
+        {
+          "artist": "Kage",
+          "title": "The Raid",
+          "remix": "",
+          "trackId": "7869659"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kage",
+      "title": "The Raid",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "7869659",
+      "row": 43,
+      "type": "blend",
+      "cueTime": 3425,
+      "mediaIds": {
+        "spotify": "608397",
+        "youtube": "608397",
+        "soundcloud": "608397",
+        "appleMusic": "608397"
+      }
+    },
+    {
+      "pos": "44",
+      "artist": "BELLECOUR",
+      "title": "Amertune",
+      "remix": "",
+      "label": "SANS MERCI",
+      "trackId": "6930820",
+      "row": 44,
+      "type": "normal",
+      "cueTime": 3457,
+      "mediaIds": {
+        "spotify": "573698",
+        "youtube": "573698",
+        "soundcloud": "573698",
+        "appleMusic": "573698"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "45",
+      "artist": "Chris Lake vs. BELLECOUR",
+      "title": "Lose My Mind vs. Absurde (BELLECOUR Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "6930821",
+      "row": 45,
+      "type": "normal",
+      "cueTime": 3666,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "46",
+      "artist": "Morelia",
+      "title": "This New System",
+      "remix": "",
+      "label": "TEETHY",
+      "trackId": "6963099",
+      "row": 46,
+      "type": "normal",
+      "cueTime": 3769,
+      "mediaIds": {
+        "spotify": "733208",
+        "soundcloud": "733208",
+        "appleMusic": "733208"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "47",
+      "artist": "Body Ocean",
+      "title": "Pop Your Hip",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "6930822",
+      "row": 47,
+      "type": "normal",
+      "cueTime": 3919,
+      "mediaIds": {
+        "spotify": "676185",
+        "youtube": "676185",
+        "soundcloud": "676185",
+        "appleMusic": "676185"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "48",
+      "artist": "BELLECOUR",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6930824",
+      "row": 48,
+      "type": "normal",
+      "cueTime": 4085,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "49",
+      "artist": "Destructo",
+      "title": "Bodyback (BELLECOUR Remix)",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "6930825",
+      "row": 49,
+      "type": "normal",
+      "cueTime": 4244,
+      "mediaIds": {
+        "spotify": "834302",
+        "youtube": "834302",
+        "soundcloud": "834302",
+        "appleMusic": "834302"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "50",
+      "artist": "ToMix",
+      "title": "Da Way U Move",
+      "remix": "",
+      "label": "GOLD DIGGER",
+      "trackId": "6963100",
+      "row": 50,
+      "type": "normal",
+      "cueTime": 4407,
+      "mediaIds": {
+        "spotify": "741921",
+        "youtube": "741921",
+        "soundcloud": "741921",
+        "appleMusic": "741921"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "51",
+      "artist": "BELLECOUR",
+      "title": "TCL",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "6930826",
+      "row": 51,
+      "type": "normal",
+      "cueTime": 4463,
+      "mediaIds": {
+        "spotify": "673864",
+        "youtube": "673864",
+        "soundcloud": "673864",
+        "appleMusic": "673864"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "52",
+      "artist": "Malaa",
+      "title": "Bylina (BELLECOUR Remix)",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "6930827",
+      "row": 52,
+      "type": "normal",
+      "cueTime": 4676,
+      "mediaIds": {
+        "spotify": "397760",
+        "youtube": "397760",
+        "soundcloud": "397760",
+        "appleMusic": "397760"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "53",
+      "artist": "BELLECOUR vs. Habstrakt & Skrillex & Badjokes",
+      "title": "Fonky Beat vs. Chicken Soup (BELLECOUR Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "6930828",
+      "row": 53,
+      "type": "normal",
+      "cueTime": 4886,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "54",
+      "artist": "KEELD",
+      "title": "No Rules",
+      "remix": "",
+      "label": "DIVIDED SOULS",
+      "trackId": "6930829",
+      "row": 54,
+      "type": "normal",
+      "cueTime": 4973,
+      "mediaIds": {
+        "spotify": "803239",
+        "youtube": "803239",
+        "soundcloud": "803239",
+        "appleMusic": "803239"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "55",
+      "artist": "BELLECOUR",
+      "title": "He Was Like",
+      "remix": "",
+      "label": "SANS MERCI",
+      "trackId": "6930830",
+      "row": 55,
+      "type": "normal",
+      "cueTime": 5005,
+      "mediaIds": {
+        "spotify": "483371",
+        "youtube": "483371",
+        "soundcloud": "483371",
+        "appleMusic": "483371"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "56",
+      "artist": "BELLECOUR",
+      "title": "Los Choukarios",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6930831",
+      "row": 56,
+      "type": "normal",
+      "cueTime": 5062,
+      "mediaIds": {
+        "spotify": "592259",
+        "youtube": "592259",
+        "soundcloud": "592259",
+        "appleMusic": "592259"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "57",
+      "artist": "Marshmello & BELLECOUR",
+      "title": "Set Me Free",
+      "remix": "",
+      "label": "JOYTIME COLLECTIVE",
+      "trackId": "6930832",
+      "row": 57,
+      "type": "normal",
+      "cueTime": 5247,
+      "mediaIds": {
+        "spotify": "507627",
+        "youtube": "507627",
+        "soundcloud": "507627",
+        "appleMusic": "507627"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "2548199",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1158827647"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:27:02.597Z",
+  "scrapeVersion": 2
+}

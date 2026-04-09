@@ -1,0 +1,218 @@
+{
+  "tlId": "1jk6w601",
+  "dj": "ZHU",
+  "stage": "Ultra Music Festival Japan",
+  "date": "2016-09-17",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/1jk6w601/zhu-mainstage-ultra-music-festival-japan-2016-09-17.html",
+  "djs": [
+    {
+      "name": "ZHU",
+      "slug": "zhu"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ZHU",
+      "title": "Exhale",
+      "remix": "",
+      "label": "MIND OF A GENIUS",
+      "trackId": "2264486",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "375990"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ZHU",
+      "title": "Paradise Awaits",
+      "remix": "",
+      "label": "MIND OF A GENIUS",
+      "trackId": "2264487",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "192610",
+        "youtube": "192610"
+      },
+      "blendGroup": [
+        {
+          "artist": "ZHU",
+          "title": "Paradise Awaits",
+          "remix": "",
+          "trackId": "2264487"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Touch It",
+          "remix": "",
+          "trackId": "2264488"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Touch It",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "2264488",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "67577",
+        "youtube": "67577"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Touch It",
+          "remix": "",
+          "trackId": "2264488"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Technologic",
+          "remix": "",
+          "trackId": "2264489"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Technologic",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE",
+      "trackId": "2264489",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2592",
+        "youtube": "2592",
+        "soundcloud": "2592",
+        "appleMusic": "2592"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "ZHU",
+      "title": "In The Morning",
+      "remix": "",
+      "label": "MIND OF A GENIUS",
+      "trackId": "2264491",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "309358",
+        "youtube": "309358",
+        "soundcloud": "309358",
+        "appleMusic": "309358"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "ZHU",
+      "title": "Cold Blooded",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "2264492",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "347462",
+        "soundcloud": "347462"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "ZHU",
+      "title": "Superfriends (Just A Gent Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2264493",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "254174",
+        "soundcloud": "254174"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "ZHU",
+      "title": "Generationwhy (Leon Lour Remix)",
+      "remix": "",
+      "label": "MIND OF A GENIUS",
+      "trackId": "2264494",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "352887"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "ZHU",
+      "title": "Palm Of My Hand",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "2264495",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "319637",
+        "youtube": "319637",
+        "soundcloud": "319637",
+        "appleMusic": "319637"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "ZHU",
+      "title": "Numb",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "2264496",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "322324"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "489418",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/Livesets2016"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:06:29.774Z",
+  "scrapeVersion": 2
+}

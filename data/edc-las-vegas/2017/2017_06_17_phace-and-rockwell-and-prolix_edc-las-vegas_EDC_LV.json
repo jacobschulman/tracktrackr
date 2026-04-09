@@ -1,0 +1,178 @@
+{
+  "tlId": "2smc512k",
+  "dj": "Phace & Rockwell & Prolix",
+  "stage": "EDC Las Vegas",
+  "date": "2017-06-17",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/2smc512k/phace-rockwell-prolix-basspod-edc-las-vegas-united-states-2017-06-17.html",
+  "djs": [
+    {
+      "name": "Phace",
+      "slug": "phace"
+    },
+    {
+      "name": "Rockwell",
+      "slug": "rockwell-uk"
+    },
+    {
+      "name": "Prolix",
+      "slug": "prolix"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "TC & Metrik",
+      "title": "The Light (A.M.C Remix)",
+      "remix": "",
+      "label": "3BEAT",
+      "trackId": "2696953",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "363208",
+        "youtube": "363208",
+        "soundcloud": "363208",
+        "appleMusic": "363208"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2696954",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "2696954"
+        },
+        {
+          "artist": "Twenty One Pilots",
+          "title": "Heathens",
+          "remix": "",
+          "trackId": "2696955"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Twenty One Pilots",
+      "title": "Heathens",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "2696955",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "328400",
+        "youtube": "328400",
+        "soundcloud": "328400",
+        "appleMusic": "328400"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2696956",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Dexplicit",
+      "title": "Might Be (Rockwell Version)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2696957",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "336002"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2696958",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Rockwell",
+      "title": "Hoez To The Floor",
+      "remix": "",
+      "label": "SHOGUN",
+      "trackId": "2696959",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "335994",
+        "soundcloud": "335994"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Phace",
+      "title": "Beyond Number",
+      "remix": "",
+      "label": "BLACKOUT MUSIC",
+      "trackId": "2696960",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "343369",
+        "soundcloud": "343369"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2696961",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T07:41:33.091Z",
+  "scrapeVersion": 2
+}

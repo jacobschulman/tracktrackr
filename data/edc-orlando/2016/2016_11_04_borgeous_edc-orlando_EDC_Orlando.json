@@ -1,0 +1,809 @@
+{
+  "tlId": "2435twwt",
+  "dj": "BORGEOUS",
+  "stage": "EDC Orlando",
+  "date": "2016-11-04",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/2435twwt/borgeous-kineticfield-edc-orlando-united-states-2016-11-04.html",
+  "djs": [
+    {
+      "name": "BORGEOUS",
+      "slug": "borgeous"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "BORGEOUS vs. Riggi & Piros ft. Lil Jon",
+      "title": "Savage",
+      "remix": "",
+      "label": "GEOUSUS",
+      "trackId": "2344714",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "313658",
+        "youtube": "313658",
+        "soundcloud": "313658",
+        "appleMusic": "313658"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Jewelz & Sparks",
+      "title": "Crank (HWL Edit)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2344715",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "331835",
+        "youtube": "331835",
+        "soundcloud": "331835",
+        "appleMusic": "331835"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Queen",
+      "title": "We Will Rock You",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "2477455",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "13206",
+        "youtube": "13206",
+        "soundcloud": "13206",
+        "appleMusic": "13206"
+      },
+      "blendGroup": [
+        {
+          "artist": "Queen",
+          "title": "We Will Rock You",
+          "remix": "",
+          "trackId": "2477455"
+        },
+        {
+          "artist": "AFROJACK ft. Wrabel",
+          "title": "Ten Feet Tall (BORGEOUS Remix)",
+          "remix": "",
+          "trackId": "2477456"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AFROJACK ft. Wrabel",
+      "title": "Ten Feet Tall (BORGEOUS Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "2477456",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "186078",
+        "youtube": "186078",
+        "soundcloud": "186078",
+        "appleMusic": "186078"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Borgeous & David Solano vs. Corona",
+      "title": "Rhythm Of The Big Bang (BORGEOUS Edit)",
+      "remix": "",
+      "label": "ZYX/DOORN (SPINNIN')",
+      "trackId": "2477457",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "DVBBS & BORGEOUS",
+      "title": "Tsunami",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "8081917",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "144474",
+        "youtube": "144474",
+        "soundcloud": "144474",
+        "appleMusic": "144474"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "DVBBS & BORGEOUS",
+      "title": "Tsunami (Jay Cosmic Remix / Borgeous Edit)",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "2477458",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "230051",
+        "soundcloud": "230051"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Boombox Cartel & Jackal",
+      "title": "Jamba",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "8081918",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "234024",
+        "youtube": "234024",
+        "soundcloud": "234024",
+        "appleMusic": "234024"
+      },
+      "blendGroup": [
+        {
+          "artist": "Boombox Cartel & Jackal",
+          "title": "Jamba",
+          "remix": "",
+          "trackId": "8081918"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike & DVBBS & Borgeous vs. Krewella",
+          "title": "Stampede Alive (BORGEOUS Edit)",
+          "remix": "",
+          "trackId": "2477459"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike & DVBBS & Borgeous vs. Krewella",
+      "title": "Stampede Alive (BORGEOUS Edit)",
+      "remix": "",
+      "label": "KREWELLA/SPINNIN'",
+      "trackId": "2477459",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "08",
+      "artist": "The White Stripes vs. Thomas Gold & Borgeous",
+      "title": "Seven Nation Army vs. Beast (BeatBreaker Edit)",
+      "remix": "",
+      "label": "XL/SPINNIN'",
+      "trackId": "2477461",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Borgeous feat. Fatman Scoop vs. Red Hot Chili Peppers",
+      "title": "Explode Under The Bridge (BORGEOUS Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "2477462",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8081919",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Mr. Belt & Wezol & Freejak vs. Bassjackers & Thomas Newson vs. Henry Fong",
+      "title": "Somebody Dem Wave Your Hands (BORGEOUS Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "2477463",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Keys N Krates vs. Bro Safari vs. Autoerotique & Max Styler",
+      "title": "Badman Scumbag Dum Dee Dum Sandstorm (BORGEOUS Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "2477464",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "D.R.A.M. ft. Lil Yachty",
+      "title": "Broccoli",
+      "remix": "",
+      "label": "EMPIRE",
+      "trackId": "2344723",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "307337",
+        "youtube": "307337",
+        "soundcloud": "307337",
+        "appleMusic": "307337"
+      },
+      "blendGroup": [
+        {
+          "artist": "D.R.A.M. ft. Lil Yachty",
+          "title": "Broccoli",
+          "remix": "",
+          "trackId": "2344723"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "8081920"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8081920",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "14",
+      "artist": "Nero",
+      "title": "Crush On You (Sullivan King & Tascione Remix)",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "2477465",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "316934",
+        "soundcloud": "316934"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nero",
+          "title": "Crush On You (Sullivan King & Tascione Remix)",
+          "remix": "",
+          "trackId": "2477465"
+        },
+        {
+          "artist": "PIERCE",
+          "title": "Audi",
+          "remix": "",
+          "trackId": "8081921"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "PIERCE",
+      "title": "Audi",
+      "remix": "",
+      "label": "SPINNIN' PREMIUM",
+      "trackId": "8081921",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "328465",
+        "youtube": "328465",
+        "soundcloud": "328465",
+        "appleMusic": "328465"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "BORGEOUS & Jay Cosmic ft. Ragga Twins",
+      "title": "Spitfire",
+      "remix": "",
+      "label": "GEOUSUS",
+      "trackId": "3717204",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "314828",
+        "youtube": "314828",
+        "soundcloud": "314828",
+        "appleMusic": "314828"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Dirty Heads",
+      "title": "My Sweet Summer (BORGEOUS Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3717205",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "211440",
+        "soundcloud": "211440"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "System Of A Down vs. Gregor Salto & Wiwek",
+      "title": "On Your Mark Chop Suey! (Rodrigo Cheeseball Edit)",
+      "remix": "",
+      "label": "SONY BMG/G-REX",
+      "trackId": "3717206",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "System Of A Down vs. Gregor Salto & Wiwek",
+          "title": "On Your Mark Chop Suey! (Rodrigo Cheeseball Edit)",
+          "remix": "",
+          "trackId": "3717206"
+        },
+        {
+          "artist": "Ragga Twins ft. A.R.D",
+          "title": "Bad Man (Skrillex Remix)",
+          "remix": "",
+          "trackId": "3717207"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ragga Twins ft. A.R.D",
+      "title": "Bad Man (Skrillex Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3717207",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "244936",
+        "youtube": "244936",
+        "soundcloud": "244936",
+        "appleMusic": "244936"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Duke Dumont ft. A*M*E",
+      "title": "Need U (100%) (JAUZ & Marshmello Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "8081922",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "275863",
+        "soundcloud": "275863"
+      },
+      "blendGroup": [
+        {
+          "artist": "Duke Dumont ft. A*M*E",
+          "title": "Need U (100%) (JAUZ & Marshmello Remix)",
+          "remix": "",
+          "trackId": "8081922"
+        },
+        {
+          "artist": "DJ Snake",
+          "title": "Propaganda (SAYMYNAME Remix)",
+          "remix": "",
+          "trackId": "3717208"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Snake",
+      "title": "Propaganda (SAYMYNAME Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3717208",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300683",
+        "youtube": "300683",
+        "soundcloud": "300683",
+        "appleMusic": "300683"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "BORGEOUS & Rvssian & M.R.I ft. Sean Paul",
+      "title": "Ride It (SAYMYNAME Remix)",
+      "remix": "",
+      "label": "GEOUSUS",
+      "trackId": "2344724",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "317546",
+        "youtube": "317546",
+        "soundcloud": "317546",
+        "appleMusic": "317546"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Ephwurd ft. DKAY",
+      "title": "Duckface",
+      "remix": "",
+      "label": "SPRS (SPINNIN')",
+      "trackId": "8081923",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "266054",
+        "youtube": "266054",
+        "soundcloud": "266054",
+        "appleMusic": "266054"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ephwurd ft. DKAY",
+          "title": "Duckface",
+          "remix": "",
+          "trackId": "8081923"
+        },
+        {
+          "artist": "Dzeko & Torres & Andres Fresko",
+          "title": "Lose Your Mind",
+          "remix": "",
+          "trackId": "2344725"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dzeko & Torres & Andres Fresko",
+      "title": "Lose Your Mind",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "2344725",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "258076",
+        "youtube": "258076",
+        "soundcloud": "258076",
+        "appleMusic": "258076"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "O.T. Genasis",
+      "title": "CoCo (MAKJ Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "2344726",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "226430",
+        "youtube": "226430",
+        "soundcloud": "226430",
+        "appleMusic": "226430"
+      },
+      "blendGroup": [
+        {
+          "artist": "O.T. Genasis",
+          "title": "CoCo (MAKJ Remix)",
+          "remix": "",
+          "trackId": "2344726"
+        },
+        {
+          "artist": "Jack Ü & SNAILS ft. Taranchyla",
+          "title": "Holla Out",
+          "remix": "",
+          "trackId": "3717209"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jack Ü & SNAILS ft. Taranchyla",
+      "title": "Holla Out",
+      "remix": "",
+      "label": "ATLANTIC/MAD DECENT",
+      "trackId": "3717209",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "220639",
+        "youtube": "220639",
+        "soundcloud": "220639",
+        "appleMusic": "220639"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "G-Eazy & Bebe Rexha",
+      "title": "Me, Myself & I (Clips X Ahoy Remix)",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "2344727",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "298862"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Kenneth G",
+      "title": "Bonzai",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "3717210",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "305374",
+        "youtube": "305374",
+        "soundcloud": "305374",
+        "appleMusic": "305374"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Twenty One Pilots",
+      "title": "Ride",
+      "remix": "",
+      "label": "FUELED BY RAMEN",
+      "trackId": "2344728",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "297095",
+        "youtube": "297095",
+        "soundcloud": "297095",
+        "appleMusic": "297095"
+      },
+      "blendGroup": [
+        {
+          "artist": "Twenty One Pilots",
+          "title": "Ride",
+          "remix": "",
+          "trackId": "2344728"
+        },
+        {
+          "artist": "Wiwek & Skrillex ft. Eliphant",
+          "title": "Killa (Slushii Remix)",
+          "remix": "",
+          "trackId": "3717211"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wiwek & Skrillex ft. Eliphant",
+      "title": "Killa (Slushii Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3717211",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "304930",
+        "youtube": "304930",
+        "soundcloud": "304930",
+        "appleMusic": "304930"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Bassjackers",
+      "title": "F*CK (Dimitri Vegas & Like Mike Edit)",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "2344729",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "308383",
+        "youtube": "308383",
+        "soundcloud": "308383",
+        "appleMusic": "308383"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Kid Cudi & MGMT & Steve Aoki vs. Borgeous",
+      "title": "Pursuit Of Celebration (BORGEOUS Edit)",
+      "remix": "",
+      "label": "REPUBLIC/GOOD MUSIC/SPINNIN'",
+      "trackId": "3717212",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "BORGEOUS & tyDi",
+      "title": "Wanna Lose You (Ryos Remix)",
+      "remix": "",
+      "label": "GEOUSUS",
+      "trackId": "2344731",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "324443",
+        "soundcloud": "324443",
+        "appleMusic": "324443"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "BORGEOUS vs. GTA ft. Sam Bruno & Skrillex",
+      "title": "Invincible vs. Red Lips (BORGEOUS Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "2344732",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Borgeous vs. Dzeko & Torres & ODESZA ft. Shy Girls",
+      "title": "Wildfire All We Need (BORGEOUS Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "2344734",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Borgeous vs. Dzeko & Torres & ODESZA ft. Shy Girls",
+          "title": "Wildfire All We Need (BORGEOUS Edit)",
+          "remix": "",
+          "trackId": "2344734"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "8081924"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8081924",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "30",
+      "artist": "BORGEOUS & Shaun Frank ft. Delaney Jane",
+      "title": "This Could Be Love (Ryos Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "8081925",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "237609"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "BORGEOUS & Lights vs. Zedd & Lucky Date vs. Chuckie",
+      "title": "Zero Gravity vs. Fall Into The Sky vs. Are You Ready (BORGEOUS Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "2344733",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "546036",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/Livesets2016"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "510471",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:41:35.459Z",
+  "scrapeVersion": 2
+}

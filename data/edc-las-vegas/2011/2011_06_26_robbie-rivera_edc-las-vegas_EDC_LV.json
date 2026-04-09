@@ -1,0 +1,398 @@
+{
+  "tlId": "3rjyg1",
+  "dj": "Robbie Rivera",
+  "stage": "EDC Las Vegas",
+  "date": "2011-06-26",
+  "year": 2011,
+  "url": "https://www.1001tracklists.com/tracklist/3rjyg1/robbie-rivera-cosmicmeadow-edc-las-vegas-united-states-2011-06-26.html",
+  "djs": [
+    {
+      "name": "Robbie Rivera",
+      "slug": "robbierivera"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Daft Punk",
+      "title": "Da Funk",
+      "remix": "",
+      "label": "DAFT LIFE",
+      "trackId": "73641",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "12780",
+        "youtube": "12780",
+        "soundcloud": "12780",
+        "appleMusic": "12780"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Robbie Rivera ft. Denise Rivera",
+      "title": "Back To Zero (Robbie Rivera Reworked 2009 Mix)",
+      "remix": "",
+      "label": "JUICY",
+      "trackId": "73642",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": {
+        "youtube": "31259"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Guru Josh Project",
+      "title": "Infinity 2008 (Klaas Vocal Remix)",
+      "remix": "",
+      "label": "CLS MUSIC",
+      "trackId": "73643",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 420,
+      "mediaIds": {
+        "spotify": "8341",
+        "youtube": "8341",
+        "soundcloud": "8341",
+        "appleMusic": "8341"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "The Rivera Project",
+      "title": "Young Folks (Robbie Rivera Electro Mix)",
+      "remix": "",
+      "label": "JUICY",
+      "trackId": "73644",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 720,
+      "mediaIds": {
+        "spotify": "23861",
+        "appleMusic": "23861"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Robbie Rivera ft. Rooster & Peralta",
+      "title": "Move Move",
+      "remix": "",
+      "label": "JUICY",
+      "trackId": "73645",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1080,
+      "mediaIds": {
+        "spotify": "3449",
+        "appleMusic": "3449"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Robbie Rivera",
+      "title": "Rock The Disco",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "73646",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1260,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Robbie Rivera",
+          "title": "Rock The Disco",
+          "remix": "",
+          "trackId": "73646"
+        },
+        {
+          "artist": "Rene Kuppens",
+          "title": "Congo Drumz (Mix 1)",
+          "remix": "",
+          "trackId": "79138"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rene Kuppens",
+      "title": "Congo Drumz (Mix 1)",
+      "remix": "",
+      "label": "SNEAKERZ (SPINNIN')",
+      "trackId": "79138",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "32997",
+        "appleMusic": "32997"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "73647",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "73647"
+        },
+        {
+          "artist": "Eric Prydz ft. Adeva",
+          "title": "In & Out (Acappella)",
+          "remix": "",
+          "trackId": "73648"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eric Prydz ft. Adeva",
+      "title": "In & Out (Acappella)",
+      "remix": "",
+      "label": "JOIA",
+      "trackId": "73648",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 1740,
+      "mediaIds": null
+    },
+    {
+      "pos": "08",
+      "artist": "DJ Chus & Tom Stephan",
+      "title": "Tormenta (Rishi Romero Ghetto Electric Remix)",
+      "remix": "",
+      "label": "JUICY",
+      "trackId": "73649",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1920,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "73650",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 2100,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Maurizio Gubellini & Nari & Milani",
+      "title": "Unbelievable (Nari & Milani Remix)",
+      "remix": "",
+      "label": "JUICY",
+      "trackId": "73651",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2340,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Robbie Rivera ft. Jerique Allan",
+      "title": "We Live For The Music (Juicy Ibiza Final Mix)",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "73652",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2580,
+      "mediaIds": {
+        "spotify": "30826"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Robbie Rivera",
+      "title": "Imagine",
+      "remix": "",
+      "label": "",
+      "trackId": "73653",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2760,
+      "mediaIds": {
+        "spotify": "31277",
+        "appleMusic": "31277"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Robbie Rivera ft. Ana Criado",
+      "title": "The Sound Of The Times (Dance Or Die Juicy Mix)",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "73654",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 3000,
+      "mediaIds": {
+        "spotify": "36265",
+        "appleMusic": "36265"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Robbie Rivera ft. Jumpsmokers",
+      "title": "Bang",
+      "remix": "",
+      "label": "",
+      "trackId": "73655",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 3180,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Hypster",
+      "title": "The Uprising",
+      "remix": "",
+      "label": "PLASMAPOOL",
+      "trackId": "73656",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 3420,
+      "mediaIds": {
+        "soundcloud": "37235"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Depeche Mode",
+      "title": "Personal Jesus (Eric Prydz Remix)",
+      "remix": "",
+      "label": "RHINO ENTERTAINMENT (WARNER MUSIC)",
+      "trackId": "73657",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3660,
+      "mediaIds": {
+        "spotify": "31347",
+        "youtube": "31347",
+        "soundcloud": "31347",
+        "appleMusic": "31347"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Robbie Rivera ft. Lizzie Curious",
+      "title": "Departures (Cosmic Gate Remix)",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "73658",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3900,
+      "mediaIds": {
+        "spotify": "25199",
+        "appleMusic": "25199"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Robbie Rivera pres.Keylime",
+      "title": "Girlfriend 2010",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "73659",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 4260,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Robbie Rivera ft. Wynter Gordon",
+      "title": "In The Morning",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "73660",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 4440,
+      "mediaIds": {
+        "spotify": "90690",
+        "youtube": "90690",
+        "soundcloud": "90690",
+        "appleMusic": "90690"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Sidney Samson",
+      "title": "Filter",
+      "remix": "",
+      "label": "ROCKTHEHOUZE (SPINNIN')",
+      "trackId": "73661",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 4680,
+      "mediaIds": {
+        "spotify": "33384",
+        "appleMusic": "33384"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Swanky Tunes",
+      "title": "Oh Yeah",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "73662",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "23417",
+        "youtube": "23417",
+        "soundcloud": "23417",
+        "appleMusic": "23417"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T13:43:52.200Z",
+  "scrapeVersion": 2
+}

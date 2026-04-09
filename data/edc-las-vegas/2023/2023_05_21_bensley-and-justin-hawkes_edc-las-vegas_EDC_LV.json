@@ -1,0 +1,685 @@
+{
+  "tlId": "13tnhqst",
+  "dj": "Bensley & Justin Hawkes",
+  "stage": "EDC Las Vegas",
+  "date": "2023-05-21",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/13tnhqst/bensley-justin-hawkes-basspod-edc-las-vegas-united-states-2023-05-21.html",
+  "djs": [
+    {
+      "name": "Bensley",
+      "slug": "bensley"
+    },
+    {
+      "name": "Justin Hawkes",
+      "slug": "justinhawkes"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Justin Hawkes",
+      "title": "Black Bloc (VIP)",
+      "remix": "",
+      "label": "PILOT",
+      "trackId": "9052689",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "919638",
+        "youtube": "919638",
+        "soundcloud": "919638",
+        "appleMusic": "919638"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Bensley",
+      "title": "Roll The Dice",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "9052690",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 154,
+      "mediaIds": {
+        "spotify": "777123",
+        "youtube": "777123",
+        "appleMusic": "777123"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Lexurus ft. Rhode",
+      "title": "Magnify (Justin Hawkes Remix)",
+      "remix": "",
+      "label": "LIQUICITY",
+      "trackId": "9052691",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 219,
+      "mediaIds": {
+        "spotify": "660969",
+        "youtube": "660969",
+        "soundcloud": "660969",
+        "appleMusic": "660969"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Justin Hawkes ft. PAV4N",
+      "title": "Arbiter",
+      "remix": "",
+      "label": "PILOT",
+      "trackId": "9052692",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 286,
+      "mediaIds": {
+        "spotify": "834306",
+        "youtube": "834306",
+        "soundcloud": "834306",
+        "appleMusic": "834306"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Tame Impala",
+      "title": "It Might Be Time (Bensley Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9052693",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 352,
+      "mediaIds": {
+        "youtube": "671975",
+        "soundcloud": "671975"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tame Impala",
+          "title": "It Might Be Time (Bensley Edit)",
+          "remix": "",
+          "trackId": "9052693"
+        },
+        {
+          "artist": "Birdy Nam Nam",
+          "title": "Goin' In (Skrillex Goin' Down Mix)",
+          "remix": "",
+          "trackId": "9052694"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Birdy Nam Nam",
+      "title": "Goin' In (Skrillex Goin' Down Mix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "9052694",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "84553",
+        "youtube": "84553",
+        "soundcloud": "84553",
+        "appleMusic": "84553"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "DEV ft. The Cataracs",
+      "title": "Bass Down Low (Bensley Edit)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "9052695",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 419,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Kanine",
+      "title": "The Shadows",
+      "remix": "",
+      "label": "SUBWAY SOUNDZ",
+      "trackId": "9052696",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 507,
+      "mediaIds": {
+        "spotify": "449942",
+        "youtube": "449942",
+        "soundcloud": "449942",
+        "appleMusic": "449942"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Skrillex & Habstrakt",
+      "title": "Chicken Soup (Flite Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "9052697",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 574,
+      "mediaIds": {
+        "youtube": "463591",
+        "soundcloud": "463591"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Bensley & DNMO",
+      "title": "Interference",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "9052698",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 640,
+      "mediaIds": {
+        "spotify": "942791",
+        "youtube": "942791",
+        "soundcloud": "942791",
+        "appleMusic": "942791"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Justin Hawkes",
+      "title": "Inheritance",
+      "remix": "",
+      "label": "PILOT",
+      "trackId": "9052699",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 696,
+      "mediaIds": {
+        "spotify": "838336",
+        "youtube": "838336",
+        "soundcloud": "838336",
+        "appleMusic": "838336"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Bensley",
+      "title": "Burn It Up",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "9052700",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 748,
+      "mediaIds": {
+        "spotify": "923746",
+        "youtube": "923746",
+        "soundcloud": "923746",
+        "appleMusic": "923746"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Bensley ft. Skyelle",
+      "title": "One Last Chance (2019 Remix)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "9052701",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 794,
+      "mediaIds": {
+        "spotify": "519879",
+        "youtube": "519879",
+        "soundcloud": "519879",
+        "appleMusic": "519879"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bensley ft. Skyelle",
+          "title": "One Last Chance (2019 Remix)",
+          "remix": "",
+          "trackId": "9052701"
+        },
+        {
+          "artist": "Justin Hawkes & Audioscribe",
+          "title": "Hymn",
+          "remix": "",
+          "trackId": "9052702"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justin Hawkes & Audioscribe",
+      "title": "Hymn",
+      "remix": "",
+      "label": "PILOT",
+      "trackId": "9052702",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "584862",
+        "youtube": "584862",
+        "soundcloud": "584862",
+        "appleMusic": "584862"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Sub Focus",
+      "title": "Solar System",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "9052703",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 882,
+      "mediaIds": {
+        "spotify": "511201",
+        "youtube": "511201",
+        "soundcloud": "511201",
+        "appleMusic": "511201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Bensley ft. Skyelle",
+      "title": "All I Wanted",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "9052704",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 949,
+      "mediaIds": {
+        "spotify": "885585",
+        "youtube": "885585",
+        "soundcloud": "885585",
+        "appleMusic": "885585"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Bensley",
+      "title": "All Night",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "9052705",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1059,
+      "mediaIds": {
+        "spotify": "586053",
+        "youtube": "586053",
+        "soundcloud": "586053",
+        "appleMusic": "586053"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bensley",
+          "title": "All Night",
+          "remix": "",
+          "trackId": "9052705"
+        },
+        {
+          "artist": "RL Grime",
+          "title": "Core (Flite Bootleg)",
+          "remix": "",
+          "trackId": "9052706"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RL Grime",
+      "title": "Core (Flite Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "9052706",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "522159",
+        "soundcloud": "522159"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Bensley",
+      "title": "Vex",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "9052707",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1136,
+      "mediaIds": {
+        "spotify": "626514",
+        "youtube": "626514",
+        "soundcloud": "626514",
+        "appleMusic": "626514"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9052708",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1191,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9052708"
+        },
+        {
+          "artist": "Adam F",
+          "title": "Circles (Pola & Bryson Bootleg)",
+          "remix": "",
+          "trackId": "9052709"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Adam F",
+      "title": "Circles (Pola & Bryson Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "9052709",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "491277"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Justin Hawkes",
+      "title": "IJDK",
+      "remix": "",
+      "label": "SPACE YACHT",
+      "trackId": "9052710",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1280,
+      "mediaIds": {
+        "spotify": "723644",
+        "youtube": "723644",
+        "soundcloud": "723644",
+        "appleMusic": "723644"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "hayve",
+      "title": "Flow",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "9052711",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1367,
+      "mediaIds": {
+        "spotify": "884022",
+        "youtube": "884022",
+        "soundcloud": "884022",
+        "appleMusic": "884022"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Justin Hawkes",
+      "title": "Jump (All Night)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "9052712",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1435,
+      "mediaIds": {
+        "spotify": "1031034",
+        "youtube": "1031034",
+        "soundcloud": "1031034",
+        "appleMusic": "1031034"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Fred again.. & Skrillex & Four Tet ft. Lil Baby",
+      "title": "Baby Again.. (The Outsiders Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "9052713",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1517,
+      "mediaIds": {
+        "youtube": "892811",
+        "soundcloud": "892811"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Flite",
+      "title": "Tragedy, Humanity",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "9052714",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1586,
+      "mediaIds": {
+        "spotify": "535493",
+        "youtube": "535493",
+        "soundcloud": "535493",
+        "appleMusic": "535493"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flite",
+          "title": "Tragedy, Humanity",
+          "remix": "",
+          "trackId": "9052714"
+        },
+        {
+          "artist": "Kx5 ft. HAYLA",
+          "title": "Escape (Bensley Bootleg)",
+          "remix": "",
+          "trackId": "9052715"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kx5 ft. HAYLA",
+      "title": "Escape (Bensley Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "9052715",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "23",
+      "artist": "Noisia & The Upbeats",
+      "title": "Halcyon (Bensley Remix)",
+      "remix": "",
+      "label": "VISION",
+      "trackId": "9052716",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1699,
+      "mediaIds": {
+        "spotify": "867352",
+        "youtube": "867352",
+        "soundcloud": "867352",
+        "appleMusic": "867352"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Justin Hawkes ft. Andrew Hellier",
+      "title": "Better Than Gold",
+      "remix": "",
+      "label": "PILOT",
+      "trackId": "9052717",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1796,
+      "mediaIds": {
+        "spotify": "830467",
+        "youtube": "830467",
+        "soundcloud": "830467",
+        "appleMusic": "830467"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Urbandawn & Alibi (BR)",
+      "title": "Caramel",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "9052718",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 1875,
+      "mediaIds": {
+        "spotify": "862921",
+        "youtube": "862921",
+        "soundcloud": "862921",
+        "appleMusic": "862921"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Bensley & Justin Hawkes",
+      "title": "Don't Be Scared",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "9052719",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 1963,
+      "mediaIds": {
+        "spotify": "899639",
+        "youtube": "899639",
+        "soundcloud": "899639",
+        "appleMusic": "899639"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Bensley",
+      "title": "Hit The Lights",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "9052720",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2095,
+      "mediaIds": {
+        "spotify": "821299",
+        "youtube": "821299",
+        "soundcloud": "821299",
+        "appleMusic": "821299"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Bensley",
+      "title": "That Feeling",
+      "remix": "",
+      "label": "PILOT",
+      "trackId": "9052721",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2162,
+      "mediaIds": {
+        "spotify": "680308",
+        "youtube": "680308",
+        "soundcloud": "680308",
+        "appleMusic": "680308"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Justin Hawkes",
+      "title": "Heartleap",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "9052722",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2263,
+      "mediaIds": {
+        "spotify": "891841",
+        "youtube": "891841",
+        "soundcloud": "891841",
+        "appleMusic": "891841"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "3412606",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1525281499"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "3409046",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=x9vxiFTNikQ"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:08:10.952Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,999 @@
+{
+  "tlId": "5h6yu8t",
+  "dj": "Dannic",
+  "stage": "EDC Las Vegas",
+  "date": "2015-06-20",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/5h6yu8t/dannic-circuitgrounds-edc-las-vegas-united-states-2015-06-20.html",
+  "djs": [
+    {
+      "name": "Dannic",
+      "slug": "dannic"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Dannic vs. Martin Garrix",
+      "title": "Zenith vs. Fonk vs. Proxy (Dannic Intro Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/REVEALED",
+      "trackId": "1480511",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Dannic & Amersy vs. Alesso ft. Tove Lo",
+      "title": "Lights Out Heroes (Dannic Tomorrowland Mashup)",
+      "remix": "",
+      "label": "REFUNE/DEF JAM/FONK",
+      "trackId": "2023250",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "307124",
+        "soundcloud": "307124"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dannic & Amersy vs. Alesso ft. Tove Lo",
+          "title": "Lights Out Heroes (Dannic Tomorrowland Mashup)",
+          "remix": "",
+          "trackId": "2023250"
+        },
+        {
+          "artist": "Justice vs. Simian",
+          "title": "We Are Your Friends (Acappella)",
+          "remix": "",
+          "trackId": "1481056"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice vs. Simian",
+      "title": "We Are Your Friends (Acappella)",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "1481056",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 273,
+      "mediaIds": {
+        "spotify": "8095",
+        "youtube": "8095",
+        "soundcloud": "3157",
+        "appleMusic": "8095"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice vs. Simian",
+          "title": "We Are Your Friends (Acappella)",
+          "remix": "",
+          "trackId": "1481056"
+        },
+        {
+          "artist": "TJR & VINAI",
+          "title": "Bounce Generation (Acappella)",
+          "remix": "",
+          "trackId": "1481057"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TJR & VINAI",
+      "title": "Bounce Generation (Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1481057",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "184772",
+        "youtube": "200674",
+        "soundcloud": "200674",
+        "appleMusic": "184772"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Dannic",
+      "title": "Can You Feel It",
+      "remix": "",
+      "label": "FONK/FREE",
+      "trackId": "1481392",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 485,
+      "mediaIds": {
+        "spotify": "316676",
+        "youtube": "316676",
+        "soundcloud": "316676",
+        "appleMusic": "316676"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dannic",
+          "title": "Can You Feel It",
+          "remix": "",
+          "trackId": "1481392"
+        },
+        {
+          "artist": "Alesso",
+          "title": "Raise Your Head (Acappella)",
+          "remix": "",
+          "trackId": "1481059"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alesso",
+      "title": "Raise Your Head (Acappella)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "1481059",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "47971",
+        "youtube": "81528",
+        "soundcloud": "81528",
+        "appleMusic": "47971"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Andrew Rayel",
+      "title": "Dark Warrior (Dannic Remix)",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "1486332",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "243004",
+        "youtube": "243004",
+        "soundcloud": "243004",
+        "appleMusic": "243004"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Hardwell & Dannic ft. Haris",
+      "title": "Survivors",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1480515",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 714,
+      "mediaIds": {
+        "spotify": "246732",
+        "youtube": "246732",
+        "soundcloud": "246732",
+        "appleMusic": "246732"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hardwell & Dannic ft. Haris",
+          "title": "Survivors",
+          "remix": "",
+          "trackId": "1480515"
+        },
+        {
+          "artist": "Riva Starr & Fatboy Slim ft. Beardyman",
+          "title": "Eat Sleep Rave Repeat (Acappella)",
+          "remix": "",
+          "trackId": "1482230"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Riva Starr & Fatboy Slim ft. Beardyman",
+      "title": "Eat Sleep Rave Repeat (Acappella)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "1482230",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "141682",
+        "youtube": "141893",
+        "soundcloud": "141893",
+        "appleMusic": "141682"
+      },
+      "blendGroup": [
+        {
+          "artist": "Riva Starr & Fatboy Slim ft. Beardyman",
+          "title": "Eat Sleep Rave Repeat (Acappella)",
+          "remix": "",
+          "trackId": "1482230"
+        },
+        {
+          "artist": "Chuck Nash",
+          "title": "Are You Ready (Make Some Noise) (Acappella)",
+          "remix": "",
+          "trackId": "1482231"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chuck Nash",
+      "title": "Are You Ready (Make Some Noise) (Acappella)",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "1482231",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "111059",
+        "soundcloud": "111059"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Dannic vs. Tom & Jame",
+      "title": "Clap",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1480516",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 921,
+      "mediaIds": {
+        "spotify": "267142",
+        "youtube": "267142",
+        "soundcloud": "267142",
+        "appleMusic": "267142"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dannic vs. Tom & Jame",
+          "title": "Clap",
+          "remix": "",
+          "trackId": "1480516"
+        },
+        {
+          "artist": "Riva Starr & Fatboy Slim ft. Beardyman",
+          "title": "Eat Sleep Rave Repeat (Acappella)",
+          "remix": "",
+          "trackId": "1483098"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Riva Starr & Fatboy Slim ft. Beardyman",
+      "title": "Eat Sleep Rave Repeat (Acappella)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "1483098",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 1010,
+      "mediaIds": {
+        "spotify": "141682",
+        "youtube": "141893",
+        "soundcloud": "141893",
+        "appleMusic": "141682"
+      },
+      "blendGroup": [
+        {
+          "artist": "Riva Starr & Fatboy Slim ft. Beardyman",
+          "title": "Eat Sleep Rave Repeat (Acappella)",
+          "remix": "",
+          "trackId": "1483098"
+        },
+        {
+          "artist": "Chuckie & JunxterJack",
+          "title": "Make Some Noise (Acappella)",
+          "remix": "",
+          "trackId": "1482902"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chuckie & JunxterJack",
+      "title": "Make Some Noise (Acappella)",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "1482902",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 1070,
+      "mediaIds": {
+        "spotify": "76653",
+        "youtube": "76653",
+        "soundcloud": "107294",
+        "appleMusic": "76653"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Dannic & Tom & Jame vs. Hardwell & MAKJ vs. Holl & Rush ft. Haris",
+      "title": "Clap vs. Countdown vs. Got Some vs. Survivors (Hardwell Mashup)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1480517",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1132,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Dannic & TV Noise",
+      "title": "Solid",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1480519",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1419,
+      "mediaIds": {
+        "spotify": "214672",
+        "youtube": "214672",
+        "soundcloud": "214672",
+        "appleMusic": "214672"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dannic & TV Noise",
+          "title": "Solid",
+          "remix": "",
+          "trackId": "1480519"
+        },
+        {
+          "artist": "Route 94 ft. Jess Glynne",
+          "title": "My Love (Acappella)",
+          "remix": "",
+          "trackId": "1481286"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Route 94 ft. Jess Glynne",
+      "title": "My Love (Acappella)",
+      "remix": "",
+      "label": "RINSE",
+      "trackId": "1481286",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1420,
+      "mediaIds": {
+        "spotify": "154258",
+        "youtube": "154258",
+        "soundcloud": "154258",
+        "appleMusic": "154258"
+      },
+      "blendGroup": [
+        {
+          "artist": "Route 94 ft. Jess Glynne",
+          "title": "My Love (Acappella)",
+          "remix": "",
+          "trackId": "1481286"
+        },
+        {
+          "artist": "Tiësto & KSHMR ft. VASSY",
+          "title": "Secrets (Acappella)",
+          "remix": "",
+          "trackId": "1481062"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & KSHMR ft. VASSY",
+      "title": "Secrets (Acappella)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "1481062",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1493,
+      "mediaIds": {
+        "spotify": "239625",
+        "youtube": "239625",
+        "soundcloud": "258327",
+        "appleMusic": "239625"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & KSHMR ft. VASSY",
+          "title": "Secrets (Acappella)",
+          "remix": "",
+          "trackId": "1481062"
+        },
+        {
+          "artist": "Mightyfools",
+          "title": "Footrocker (Get Your, Get Your Hands Up Acappella)",
+          "remix": "",
+          "trackId": "1481063"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mightyfools",
+      "title": "Footrocker (Get Your, Get Your Hands Up Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1481063",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "137470",
+        "youtube": "145416",
+        "soundcloud": "137470",
+        "appleMusic": "137470"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Tiësto & DallasK",
+      "title": "Show Me",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "1480520",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1582,
+      "mediaIds": {
+        "spotify": "232618",
+        "youtube": "232618",
+        "soundcloud": "232618",
+        "appleMusic": "232618"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & DallasK",
+          "title": "Show Me",
+          "remix": "",
+          "trackId": "1480520"
+        },
+        {
+          "artist": "DJ Khaled ft. Ludacris & Rick Ross & T-Pain & Snoop Dogg",
+          "title": "All I Do Is Win",
+          "remix": "",
+          "trackId": "1484678"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Khaled ft. Ludacris & Rick Ross & T-Pain & Snoop Dogg",
+      "title": "All I Do Is Win",
+      "remix": "",
+      "label": "E1 MUSIC",
+      "trackId": "1484678",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "52598",
+        "youtube": "52598",
+        "soundcloud": "52598",
+        "appleMusic": "52598"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Khaled ft. Ludacris & Rick Ross & T-Pain & Snoop Dogg",
+          "title": "All I Do Is Win",
+          "remix": "",
+          "trackId": "1484678"
+        },
+        {
+          "artist": "Ricky Remedy",
+          "title": "Make Me",
+          "remix": "",
+          "trackId": "1484679"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ricky Remedy",
+      "title": "Make Me",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1484679",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "229415",
+        "youtube": "229415",
+        "soundcloud": "229415",
+        "appleMusic": "229415"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ricky Remedy",
+          "title": "Make Me",
+          "remix": "",
+          "trackId": "1484679"
+        },
+        {
+          "artist": "Rune RK",
+          "title": "Calabria (Firebeatz Remix)",
+          "remix": "",
+          "trackId": "1481065"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rune RK",
+      "title": "Calabria (Firebeatz Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "1481065",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 1597,
+      "mediaIds": {
+        "spotify": "186960",
+        "youtube": "186960",
+        "soundcloud": "186960",
+        "appleMusic": "186960"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Dannic & SICK INDIVIDUALS",
+      "title": "Feel Your Love",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1480521",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1727,
+      "mediaIds": {
+        "spotify": "265449",
+        "youtube": "265449",
+        "soundcloud": "265449",
+        "appleMusic": "265449"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dannic & SICK INDIVIDUALS",
+          "title": "Feel Your Love",
+          "remix": "",
+          "trackId": "1480521"
+        },
+        {
+          "artist": "Deorro & J-Trick",
+          "title": "Rambo (Let's Get Fuckin' Crazy Acappella)",
+          "remix": "",
+          "trackId": "1510401"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Deorro & J-Trick",
+      "title": "Rambo (Let's Get Fuckin' Crazy Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1510401",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "161178",
+        "youtube": "164676",
+        "soundcloud": "161178",
+        "appleMusic": "161178"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Dannic & Lucky Date vs. Sebastian Ingrosso & Tommy Trash & John Martin",
+      "title": "Mayday vs. Reload (SICK INDIVIDUALS Mashup)",
+      "remix": "",
+      "label": "REFUNE/REVEALED",
+      "trackId": "1480522",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Dannic & Lucky Date vs. Sebastian Ingrosso & Tommy Trash & John Martin",
+          "title": "Mayday vs. Reload (SICK INDIVIDUALS Mashup)",
+          "remix": "",
+          "trackId": "1480522"
+        },
+        {
+          "artist": "Tiesto & Hardwell vs. Red Hot Chili Peppers",
+          "title": "Waiting For Zero 76 (Dannic Mashup)",
+          "remix": "",
+          "trackId": "1481067"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiesto & Hardwell vs. Red Hot Chili Peppers",
+      "title": "Waiting For Zero 76 (Dannic Mashup)",
+      "remix": "",
+      "label": "WARNER BROS./MUSICAL FREEDOM/REVEALED",
+      "trackId": "1481067",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1893,
+      "mediaIds": {
+        "youtube": "65669"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Dannic ft. Bright Lights",
+      "title": "Forever",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1480523",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2133,
+      "mediaIds": {
+        "spotify": "256889",
+        "youtube": "256889",
+        "soundcloud": "256889",
+        "appleMusic": "256889"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dannic ft. Bright Lights",
+          "title": "Forever",
+          "remix": "",
+          "trackId": "1480523"
+        },
+        {
+          "artist": "Hardwell & MAKJ",
+          "title": "Countdown (Acappella)",
+          "remix": "",
+          "trackId": "1481068"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hardwell & MAKJ",
+      "title": "Countdown (Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1481068",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 2185,
+      "mediaIds": {
+        "spotify": "146726",
+        "youtube": "173432",
+        "soundcloud": "146726",
+        "appleMusic": "146726"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Dannic vs. Sander Van Doorn & Martin Garrix & DVBBS ft. Aleesia",
+      "title": "Zenith Gold Skies (Dannic Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/REVEALED",
+      "trackId": "1480524",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2380,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Dannic vs. Sander Van Doorn & Martin Garrix & DVBBS ft. Aleesia",
+          "title": "Zenith Gold Skies (Dannic Mashup)",
+          "remix": "",
+          "trackId": "1480524"
+        },
+        {
+          "artist": "DallasK",
+          "title": "Retrograde",
+          "remix": "",
+          "trackId": "1481069"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DallasK",
+      "title": "Retrograde",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1481069",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 2441,
+      "mediaIds": {
+        "spotify": "254523",
+        "youtube": "254523",
+        "soundcloud": "254523",
+        "appleMusic": "254523"
+      },
+      "blendGroup": [
+        {
+          "artist": "DallasK",
+          "title": "Retrograde",
+          "remix": "",
+          "trackId": "1481069"
+        },
+        {
+          "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+          "title": "Fall Into The Sky (Everybody Fuckin Jump Acappella)",
+          "remix": "",
+          "trackId": "1481070"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+      "title": "Fall Into The Sky (Everybody Fuckin Jump Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "1481070",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "97743",
+        "youtube": "139706",
+        "soundcloud": "139706",
+        "appleMusic": "97743"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Lucky Date ft. Sabrina Signs",
+      "title": "I Like You",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1480525",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2574,
+      "mediaIds": {
+        "spotify": "258175",
+        "youtube": "258175",
+        "soundcloud": "258175",
+        "appleMusic": "258175"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lucky Date ft. Sabrina Signs",
+          "title": "I Like You",
+          "remix": "",
+          "trackId": "1480525"
+        },
+        {
+          "artist": "Bastille",
+          "title": "Pompeii (Audien Remix)",
+          "remix": "",
+          "trackId": "1481071"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bastille",
+      "title": "Pompeii (Audien Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "1481071",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 2622,
+      "mediaIds": {
+        "spotify": "172665",
+        "youtube": "172665",
+        "soundcloud": "172665",
+        "appleMusic": "172665"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "BYNON & Domeno ft. Alice Berg",
+      "title": "Golden Hearts (Dannic Edit)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1480526",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2756,
+      "mediaIds": {
+        "spotify": "233120",
+        "youtube": "233120",
+        "soundcloud": "233120",
+        "appleMusic": "233120"
+      },
+      "blendGroup": [
+        {
+          "artist": "BYNON & Domeno ft. Alice Berg",
+          "title": "Golden Hearts (Dannic Edit)",
+          "remix": "",
+          "trackId": "1480526"
+        },
+        {
+          "artist": "Hardwell ft. Amba Shepherd",
+          "title": "Apollo (Acappella)",
+          "remix": "",
+          "trackId": "1481323"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hardwell ft. Amba Shepherd",
+      "title": "Apollo (Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1481323",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "100255",
+        "youtube": "100255",
+        "soundcloud": "100255",
+        "appleMusic": "100255"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hardwell ft. Amba Shepherd",
+          "title": "Apollo (Acappella)",
+          "remix": "",
+          "trackId": "1481323"
+        },
+        {
+          "artist": "Fedde Le Grand",
+          "title": "Put Your Hands Up For Detroit (Acappella)",
+          "remix": "",
+          "trackId": "1481072"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fedde Le Grand",
+      "title": "Put Your Hands Up For Detroit (Acappella)",
+      "remix": "",
+      "label": "DATA REC. (MINISTRY OF SOUND)",
+      "trackId": "1481072",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 2927,
+      "mediaIds": {
+        "spotify": "1206",
+        "youtube": "9801",
+        "soundcloud": "1206",
+        "appleMusic": "1206"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fedde Le Grand",
+          "title": "Put Your Hands Up For Detroit (Acappella)",
+          "remix": "",
+          "trackId": "1481072"
+        },
+        {
+          "artist": "Axwell Λ Ingrosso ft. Vargas & Lagola",
+          "title": "Sun Is Shining",
+          "remix": "",
+          "trackId": "1481073"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Axwell Λ Ingrosso ft. Vargas & Lagola",
+      "title": "Sun Is Shining",
+      "remix": "",
+      "label": "POPHOUSE/DEF JAM",
+      "trackId": "1481073",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "199459",
+        "youtube": "199459",
+        "soundcloud": "199459",
+        "appleMusic": "199459"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Dannic ft. Bright Lights",
+      "title": "Dear Life (Dannic Original Mix vs. Bassjackers Remix Mashup)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1480527",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3001,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Dannic & SICK INDIVIDUALS",
+      "title": "Blueprint (Stino & Jule Hardstyle Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1481074",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3122,
+      "mediaIds": {
+        "youtube": "221750",
+        "soundcloud": "221750"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Timbaland ft. OneRepublic",
+      "title": "Apologize (Dannic Tomorrowland Remix)",
+      "remix": "",
+      "label": "MOSLEY (INTERSCOPE)",
+      "trackId": "1481076",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3211,
+      "mediaIds": {
+        "youtube": "265652"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "384624",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=OHWgAQkV_Y4"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "313165",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/211479656"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "312100",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/thebesthouse"
+    }
+  ],
+  "scrapedAt": "2026-04-08T08:26:48.427Z",
+  "scrapeVersion": 2
+}

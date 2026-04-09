@@ -1,0 +1,535 @@
+{
+  "tlId": "1xxx7gst",
+  "dj": "Purple Disco Machine",
+  "stage": "Coachella Festival",
+  "date": "2024-04-20",
+  "year": 2024,
+  "url": "https://www.1001tracklists.com/tracklist/1xxx7gst/purple-disco-machine-sahara-coachella-festival-weekend-2-united-states-2024-04-20.html",
+  "djs": [
+    {
+      "name": "Purple Disco Machine",
+      "slug": "purplediscomachine"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Shakedown",
+      "title": "At Night (Purple Disco Machine Remix)",
+      "remix": "(Intro Edit)",
+      "label": "DEFECTED",
+      "trackId": "10428256",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "409281",
+        "youtube": "409281",
+        "soundcloud": "409281",
+        "appleMusic": "409281"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Deepswing",
+      "title": "In The Music (Acappella)",
+      "remix": "",
+      "label": "RISE RECORDS (TIME REC.)",
+      "trackId": "10428257",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "17241",
+        "youtube": "17241",
+        "appleMusic": "17241"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Purple Disco Machine & Sophie and the Giants",
+      "title": "In The Dark(Co-Prod. by Tom Enzy)",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "10428454",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "764099",
+        "youtube": "764099",
+        "soundcloud": "764099",
+        "appleMusic": "764099"
+      },
+      "blendGroup": [
+        {
+          "artist": "Purple Disco Machine & Sophie and the Giants",
+          "title": "In The Dark(Co-Prod. by Tom Enzy)",
+          "remix": "",
+          "trackId": "10428454"
+        },
+        {
+          "artist": "Steve Winwood",
+          "title": "Valerie (Purple Disco Machine Remix)",
+          "remix": "",
+          "trackId": "10428258"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Steve Winwood",
+      "title": "Valerie (Purple Disco Machine Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "10428258",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "04",
+      "artist": "Diplo & SIDEPIECE",
+      "title": "On My Mind (Purple Disco Machine Remix)",
+      "remix": "",
+      "label": "HIGHER GROUND (MAD DECENT)",
+      "trackId": "10428259",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "573161",
+        "youtube": "573161",
+        "soundcloud": "573161",
+        "appleMusic": "573161"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Purple Disco Machine",
+      "title": "Bad Company",
+      "remix": "",
+      "label": "COLUMBIA LOCAL",
+      "trackId": "10428260",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "896074",
+        "youtube": "896074",
+        "soundcloud": "896074",
+        "appleMusic": "896074"
+      },
+      "blendGroup": [
+        {
+          "artist": "Purple Disco Machine",
+          "title": "Bad Company",
+          "remix": "",
+          "trackId": "10428260"
+        },
+        {
+          "artist": "Harold Faltermeyer",
+          "title": "Axel F",
+          "remix": "(Purple Disco Machine Edit)",
+          "trackId": "10428261"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Harold Faltermeyer",
+      "title": "Axel F",
+      "remix": "(Purple Disco Machine Edit)",
+      "label": "MCA",
+      "trackId": "10428261",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "76733",
+        "youtube": "76733",
+        "soundcloud": "76733",
+        "appleMusic": "76733"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Phoenix",
+      "title": "If I Ever Feel Better (I'd Go To The Disco)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "10428262",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1155365",
+        "youtube": "1155365",
+        "appleMusic": "1155365"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Eddie Johns",
+      "title": "More Spell On You",
+      "remix": "",
+      "label": "WAGRAM",
+      "trackId": "10428263",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "32917",
+        "youtube": "32917",
+        "soundcloud": "32917",
+        "appleMusic": "32917"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eddie Johns",
+          "title": "More Spell On You",
+          "remix": "",
+          "trackId": "10428263"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "One More Time",
+          "remix": "",
+          "trackId": "10428264"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "One More Time",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE",
+      "trackId": "10428264",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1847",
+        "youtube": "1847",
+        "soundcloud": "1847",
+        "appleMusic": "1847"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "La Roux & Chromeo",
+      "title": "Discoproof (Purple Disco Machine Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "10428265",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "C&C Music Factory",
+      "title": "Gonna Make You Sweat (Everybody Dance Now) (Purple Disco Machine Remix)",
+      "remix": "",
+      "label": "BMG",
+      "trackId": "10428266",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Purple Disco Machine",
+      "title": "Body Funk",
+      "remix": "",
+      "label": "CLUB SWEAT",
+      "trackId": "10428267",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "357787",
+        "youtube": "357787",
+        "soundcloud": "357787",
+        "appleMusic": "357787"
+      },
+      "blendGroup": [
+        {
+          "artist": "Purple Disco Machine",
+          "title": "Body Funk",
+          "remix": "",
+          "trackId": "10428267"
+        },
+        {
+          "artist": "M|A|R|R|S",
+          "title": "Pump Up The Volume",
+          "remix": "",
+          "trackId": "10428456"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "M|A|R|R|S",
+      "title": "Pump Up The Volume",
+      "remix": "",
+      "label": "4AD",
+      "trackId": "10428456",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "88309",
+        "youtube": "88309",
+        "appleMusic": "88309"
+      },
+      "blendGroup": [
+        {
+          "artist": "M|A|R|R|S",
+          "title": "Pump Up The Volume",
+          "remix": "",
+          "trackId": "10428456"
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "title": "Move Or Not",
+          "remix": "",
+          "trackId": "10428268"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Purple Disco Machine",
+      "title": "Move Or Not",
+      "remix": "",
+      "label": "OFF REC.",
+      "trackId": "10428268",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "151719",
+        "youtube": "151719",
+        "soundcloud": "151719",
+        "appleMusic": "151719"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Wolfram & Josh Ludlow",
+      "title": "YoYo Disco (Purple Disco Machine Remix)",
+      "remix": "",
+      "label": "DEFECTED",
+      "trackId": "10428457",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "950602",
+        "youtube": "950602",
+        "soundcloud": "950602",
+        "appleMusic": "950602"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "The Human League",
+      "title": "Don't You Want Me (Purple Disco Machine Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "10428269",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "743102",
+        "youtube": "743102",
+        "soundcloud": "743102",
+        "appleMusic": "743102"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Purple Disco Machine & Duke Dumont & Nothing But Thieves",
+      "title": "Something On My Mind",
+      "remix": "",
+      "label": "COLUMBIA LOCAL",
+      "trackId": "10428270",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "924125",
+        "youtube": "924125",
+        "soundcloud": "924125",
+        "appleMusic": "924125"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Purple Disco Machine ft. Roosevelt",
+      "title": "Higher Ground",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "10428271",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "983060",
+        "youtube": "983060",
+        "soundcloud": "983060",
+        "appleMusic": "983060"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Lipps, Inc.",
+      "title": "FunkyTown",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "10428272",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20947",
+        "youtube": "20947",
+        "soundcloud": "20947",
+        "appleMusic": "20947"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Purple Disco Machine",
+      "title": "Playbox",
+      "remix": "",
+      "label": "POSITIVA",
+      "trackId": "10428458",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "698896",
+        "youtube": "698896",
+        "soundcloud": "698896",
+        "appleMusic": "698896"
+      },
+      "blendGroup": [
+        {
+          "artist": "Purple Disco Machine",
+          "title": "Playbox",
+          "remix": "",
+          "trackId": "10428458"
+        },
+        {
+          "artist": "Zombie Nation",
+          "title": "Kernkraft 400",
+          "remix": "(Purple Disco Machine Edit)",
+          "trackId": "10428462"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zombie Nation",
+      "title": "Kernkraft 400",
+      "remix": "(Purple Disco Machine Edit)",
+      "label": "EPM",
+      "trackId": "10428462",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3577",
+        "youtube": "3577",
+        "soundcloud": "3577",
+        "appleMusic": "3577"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Purple Disco Machine & Kungs ft. Julian Perretta",
+      "title": "Substitution",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "10428463",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "877649",
+        "youtube": "877649",
+        "soundcloud": "877649",
+        "appleMusic": "877649"
+      },
+      "blendGroup": [
+        {
+          "artist": "Purple Disco Machine & Kungs ft. Julian Perretta",
+          "title": "Substitution",
+          "remix": "",
+          "trackId": "10428463"
+        },
+        {
+          "artist": "Bronski Beat",
+          "title": "Smalltown Boy",
+          "remix": "",
+          "trackId": "10428464"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bronski Beat",
+      "title": "Smalltown Boy",
+      "remix": "",
+      "label": "LONDON RECORDS",
+      "trackId": "10428464",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "122283",
+        "youtube": "122283",
+        "soundcloud": "122283",
+        "appleMusic": "122283"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Madonna",
+      "title": "Like A Prayer (Purple Disco Machine Remix)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "10428470",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T03:13:48.283Z",
+  "scrapeVersion": 2
+}

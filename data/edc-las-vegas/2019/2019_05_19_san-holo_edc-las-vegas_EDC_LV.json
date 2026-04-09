@@ -1,0 +1,100 @@
+{
+  "tlId": "w47cy01",
+  "dj": "San Holo",
+  "stage": "EDC Las Vegas",
+  "date": "2019-05-19",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/w47cy01/san-holo-foresthouse-edc-las-vegas-united-states-2019-05-19.html",
+  "djs": [
+    {
+      "name": "San Holo",
+      "slug": "sanholo"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "San Holo ft. The Nicholas",
+      "title": "They Just Haven't Seen It",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "4126723",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300816",
+        "youtube": "300816",
+        "soundcloud": "300816",
+        "appleMusic": "300816"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Taska Black",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4126724",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "San Holo",
+      "title": "Light",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4126726",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "335752",
+        "youtube": "335752",
+        "soundcloud": "335752",
+        "appleMusic": "335752"
+      },
+      "blendGroup": [
+        {
+          "artist": "San Holo",
+          "title": "Light",
+          "remix": "",
+          "trackId": "4126726"
+        },
+        {
+          "artist": "San Holo",
+          "title": "Fly (VIP)",
+          "remix": "",
+          "trackId": "4126727"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "San Holo",
+      "title": "Fly (VIP)",
+      "remix": "",
+      "label": "HEROIC",
+      "trackId": "4126727",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "515138",
+        "soundcloud": "515138"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T06:09:16.206Z",
+  "scrapeVersion": 2
+}

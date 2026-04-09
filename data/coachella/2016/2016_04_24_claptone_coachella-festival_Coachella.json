@@ -1,0 +1,199 @@
+{
+  "tlId": "1jjx87j9",
+  "dj": "Claptone",
+  "stage": "Coachella Festival",
+  "date": "2016-04-24",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/1jjx87j9/claptone-do-lab-stage-coachella-festival-weekend-2-united-states-2016-04-24.html",
+  "djs": [
+    {
+      "name": "Claptone",
+      "slug": "claptone"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Claptone",
+      "title": "The Only Thing",
+      "remix": "",
+      "label": "EXPLOITED",
+      "trackId": "2055247",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "272338",
+        "soundcloud": "272338",
+        "appleMusic": "272338"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Frankie Knuckles pres.Marshall Jefferson",
+      "title": "Move Your Body (Skapes Remix)",
+      "remix": "",
+      "label": "TRAX (PHUTURE TRAX)",
+      "trackId": "2055248",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300576",
+        "soundcloud": "300576"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Junior Sanchez",
+      "title": "Da House Dat Jack Built",
+      "remix": "",
+      "label": "DFTD (DEFECTED)",
+      "trackId": "2055249",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "304347",
+        "appleMusic": "304347"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2055250",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Gregory Porter",
+      "title": "Liquid Spirit (Claptone Remix)",
+      "remix": "",
+      "label": "BLUE NOTE (UMG)",
+      "trackId": "2055251",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "244574",
+        "youtube": "244574",
+        "soundcloud": "244574",
+        "appleMusic": "244574"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2055252",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Disclosure ft. Sam Smith",
+      "title": "Omen (Claptone Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "2055253",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "271809",
+        "youtube": "271809",
+        "soundcloud": "271809",
+        "appleMusic": "271809"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Raumakustik",
+      "title": "Raider",
+      "remix": "",
+      "label": "HOTTRAX",
+      "trackId": "2055254",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "239729",
+        "youtube": "239729",
+        "soundcloud": "239729",
+        "appleMusic": "239729"
+      },
+      "blendGroup": [
+        {
+          "artist": "Raumakustik",
+          "title": "Raider",
+          "remix": "",
+          "trackId": "2055254"
+        },
+        {
+          "artist": "Claptone",
+          "title": "Wrong",
+          "remix": "",
+          "trackId": "2055255"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Claptone",
+      "title": "Wrong",
+      "remix": "",
+      "label": "EXPLOITED",
+      "trackId": "2055255",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "115767",
+        "youtube": "115767",
+        "soundcloud": "115767"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Thrilogy",
+      "title": "Heaven (K98 Remix)",
+      "remix": "",
+      "label": "WOLF MUSIC",
+      "trackId": "2055256",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "276971",
+        "youtube": "276971",
+        "soundcloud": "276971",
+        "appleMusic": "276971"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T04:35:39.447Z",
+  "scrapeVersion": 2
+}

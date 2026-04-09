@@ -1,0 +1,621 @@
+{
+  "tlId": "1w0hwttk",
+  "dj": "Dom Dolla",
+  "stage": "EDC Las Vegas",
+  "date": "2023-05-20",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/1w0hwttk/dom-dolla-circuitgrounds-edc-las-vegas-united-states-2023-05-20.html",
+  "djs": [
+    {
+      "name": "Dom Dolla",
+      "slug": "domdolla"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "AFROJACK",
+      "title": "Pacha On Acid",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "9164671",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "13993",
+        "youtube": "13993",
+        "soundcloud": "13993",
+        "appleMusic": "13993"
+      },
+      "blendGroup": [
+        {
+          "artist": "AFROJACK",
+          "title": "Pacha On Acid",
+          "remix": "",
+          "trackId": "9164671"
+        },
+        {
+          "artist": "Who Da Funk ft. Jessica Eve",
+          "title": "Shiny Disco Balls",
+          "remix": "",
+          "trackId": "9228806"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Who Da Funk ft. Jessica Eve",
+      "title": "Shiny Disco Balls",
+      "remix": "",
+      "label": "SUBUSA",
+      "trackId": "9228806",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "25187",
+        "youtube": "25187",
+        "soundcloud": "25187",
+        "appleMusic": "25187"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Chris Lake ft. Aatig",
+      "title": "In The Yuma (Martin Ikin Remix)",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "9164672",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 90,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Da Hool",
+      "title": "Meet Her At The Love Parade (Dom Dolla & Torren Foot Remix)",
+      "remix": "",
+      "label": "KOSMO",
+      "trackId": "9164673",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 200,
+      "mediaIds": {
+        "youtube": "782945"
+      },
+      "blendGroup": [
+        {
+          "artist": "Da Hool",
+          "title": "Meet Her At The Love Parade (Dom Dolla & Torren Foot Remix)",
+          "remix": "",
+          "trackId": "9164673"
+        },
+        {
+          "artist": "Faithless",
+          "title": "Insomnia (Acappella)",
+          "remix": "",
+          "trackId": "9164674"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Faithless",
+      "title": "Insomnia (Acappella)",
+      "remix": "",
+      "label": "CHEEKY",
+      "trackId": "9164674",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1515",
+        "youtube": "1515",
+        "soundcloud": "1515",
+        "appleMusic": "1515"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "CamelPhat & Dom Dolla",
+      "title": "Hood No Riff",
+      "remix": "",
+      "label": "",
+      "trackId": "9049587",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 330,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "CamelPhat & Dom Dolla",
+          "title": "Hood No Riff",
+          "remix": "",
+          "trackId": "9049587"
+        },
+        {
+          "artist": "Dom Dolla",
+          "title": "Take It",
+          "remix": "(Acappella)",
+          "trackId": "9049588"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dom Dolla",
+      "title": "Take It",
+      "remix": "(Acappella)",
+      "label": "SWEAT IT OUT!",
+      "trackId": "9049588",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "429941",
+        "youtube": "429941",
+        "soundcloud": "429941",
+        "appleMusic": "429941"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Walker & Royce & Nala",
+      "title": "Not About You",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "9049589",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 550,
+      "mediaIds": {
+        "spotify": "827278",
+        "youtube": "827278",
+        "soundcloud": "827278",
+        "appleMusic": "827278"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Odd Mob",
+      "title": "XTC",
+      "remix": "",
+      "label": "TINTED",
+      "trackId": "9049590",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 670,
+      "mediaIds": {
+        "spotify": "885968",
+        "youtube": "885968",
+        "soundcloud": "885968",
+        "appleMusic": "885968"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Nick Coleman",
+      "title": "Faces Of Meth (Holmes John Remix)",
+      "remix": "",
+      "label": "SUCKMUSIC",
+      "trackId": "9049591",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 750,
+      "mediaIds": {
+        "soundcloud": "782895"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Fergie DJ",
+      "title": "Here Comes That Sound",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "9049592",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 850,
+      "mediaIds": {
+        "spotify": "882678",
+        "youtube": "882678",
+        "soundcloud": "882678",
+        "appleMusic": "882678"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fergie DJ",
+          "title": "Here Comes That Sound",
+          "remix": "",
+          "trackId": "9049592"
+        },
+        {
+          "artist": "Dom Dolla",
+          "title": "San Frandisco",
+          "remix": "(Acappella)",
+          "trackId": "9049597"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dom Dolla",
+      "title": "San Frandisco",
+      "remix": "(Acappella)",
+      "label": "SWEAT IT OUT!/THREE SIX ZERO",
+      "trackId": "9049597",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "466964",
+        "youtube": "466964",
+        "soundcloud": "466964",
+        "appleMusic": "466964"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Airwolf Paradise ft. Paul Johnson",
+      "title": "Only Man",
+      "remix": "",
+      "label": "DIYNAMIC",
+      "trackId": "9049593",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1090,
+      "mediaIds": {
+        "spotify": "850832",
+        "youtube": "850832",
+        "soundcloud": "850832",
+        "appleMusic": "850832"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Chris Lorenzo",
+      "title": "Every Morning",
+      "remix": "",
+      "label": "SIXTY6MUSIC",
+      "trackId": "9049594",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1297,
+      "mediaIds": {
+        "spotify": "519610",
+        "youtube": "519610",
+        "soundcloud": "519610",
+        "appleMusic": "519610"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "John Summit ft. HAYLA",
+      "title": "Where You Are (Gorgon City Remix)",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "9049595",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1435,
+      "mediaIds": {
+        "spotify": "892606",
+        "youtube": "892606",
+        "soundcloud": "892606",
+        "appleMusic": "892606"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Zonderling",
+      "title": "Variant",
+      "remix": "",
+      "label": "ZENDER/HILOMATIK",
+      "trackId": "9049596",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1650,
+      "mediaIds": {
+        "spotify": "893350",
+        "youtube": "893350",
+        "soundcloud": "893350",
+        "appleMusic": "893350"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "RÜFÜS DU SOL",
+      "title": "Make It Happen (Dom Dolla Remix)",
+      "remix": "",
+      "label": "ROSE AVENUE",
+      "trackId": "9049620",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1770,
+      "mediaIds": {
+        "spotify": "803435",
+        "youtube": "803435",
+        "soundcloud": "803435",
+        "appleMusic": "803435"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Odd Mob",
+      "title": "Give You",
+      "remix": "",
+      "label": "TINTED",
+      "trackId": "9049621",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1988,
+      "mediaIds": {
+        "spotify": "867822",
+        "youtube": "867822",
+        "soundcloud": "867822",
+        "appleMusic": "867822"
+      },
+      "blendGroup": [
+        {
+          "artist": "Odd Mob",
+          "title": "Give You",
+          "remix": "",
+          "trackId": "9049621"
+        },
+        {
+          "artist": "Dom Dolla",
+          "title": "Take It",
+          "remix": "(Acappella)",
+          "trackId": "9049667"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dom Dolla",
+      "title": "Take It",
+      "remix": "(Acappella)",
+      "label": "SWEAT IT OUT!",
+      "trackId": "9049667",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "429941",
+        "youtube": "429941",
+        "soundcloud": "429941",
+        "appleMusic": "429941"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "MK & Dom Dolla",
+      "title": "Rhyme Dust",
+      "remix": "",
+      "label": "COLUMBIA/ULTRA",
+      "trackId": "9049665",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2148,
+      "mediaIds": {
+        "spotify": "867915",
+        "youtube": "867915",
+        "soundcloud": "867915",
+        "appleMusic": "867915"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Øostil & Juan Hansen",
+      "title": "Drown (Massano Remix)",
+      "remix": "",
+      "label": "AFTERLIFE",
+      "trackId": "9165374",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2383,
+      "mediaIds": {
+        "spotify": "788853",
+        "youtube": "788853",
+        "soundcloud": "788853",
+        "appleMusic": "788853"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Eric Prydz vs. Wankelmut & Emma Louise & MK",
+      "title": "Pjanoo vs. My Head Is A Jungle (Hayden James Edit)",
+      "remix": "",
+      "label": "PRYDA/DATA REC./ULTRA",
+      "trackId": "9049668",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2655,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "MEDUZA",
+      "title": "Friends",
+      "remix": "",
+      "label": "AETERNA",
+      "trackId": "9049669",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2900,
+      "mediaIds": {
+        "spotify": "887200",
+        "youtube": "887200",
+        "soundcloud": "887200",
+        "appleMusic": "887200"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Mau P",
+      "title": "Your Mind Is Dirty",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "9049670",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3050,
+      "mediaIds": {
+        "spotify": "887827",
+        "youtube": "887827",
+        "soundcloud": "887827",
+        "appleMusic": "887827"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Walker & Royce & Glass Petals & ELOHIM",
+      "title": "Stop Time",
+      "remix": "",
+      "label": "RULES DON'T APPLY",
+      "trackId": "9049671",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3260,
+      "mediaIds": {
+        "spotify": "897043",
+        "youtube": "897043",
+        "soundcloud": "897043",
+        "appleMusic": "897043"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Dom Dolla",
+      "title": "San Frandisco",
+      "remix": "",
+      "label": "SWEAT IT OUT!/THREE SIX ZERO",
+      "trackId": "9049709",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3395,
+      "mediaIds": {
+        "spotify": "466964",
+        "youtube": "466964",
+        "soundcloud": "466964",
+        "appleMusic": "466964"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Eli Brown",
+      "title": "Diamonds On My Mind",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "9049710",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3618,
+      "mediaIds": {
+        "spotify": "903127",
+        "youtube": "903127",
+        "soundcloud": "903127",
+        "appleMusic": "903127"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "FOVOS",
+      "title": "Lollipop",
+      "remix": "",
+      "label": "CLUBWRK",
+      "trackId": "9049714",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3810,
+      "mediaIds": {
+        "spotify": "897558",
+        "youtube": "897558",
+        "soundcloud": "897558",
+        "appleMusic": "897558"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Dom Dolla ft. Clementine Douglas",
+      "title": "Miracle Maker",
+      "remix": "(VIP Intro)",
+      "label": "THREE SIX ZERO/SONY",
+      "trackId": "9049715",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3925,
+      "mediaIds": {
+        "spotify": "791747",
+        "youtube": "791747",
+        "soundcloud": "791747",
+        "appleMusic": "791747"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "MK & Dom Dolla",
+      "title": "Rhyme Dust (Dimension Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "9049716",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 4182,
+      "mediaIds": {
+        "spotify": "889992",
+        "youtube": "889992",
+        "soundcloud": "889992",
+        "appleMusic": "889992"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3466430",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=cb7SLofRJmc"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "3467605",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1545170443"
+    },
+    {
+      "platform": "source_2",
+      "idMedia": "3466707",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/dom-dolla-at-edc-las-vegas-2023-circuit-grounds-stage-dj-mix/1693658407/us/album/dom-dolla-at-edc-las-vegas-2023-circuit-grounds-stage-dj-mix/1693658407?app=music&at=1000lwkw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:19:05.731Z",
+  "scrapeVersion": 2
+}

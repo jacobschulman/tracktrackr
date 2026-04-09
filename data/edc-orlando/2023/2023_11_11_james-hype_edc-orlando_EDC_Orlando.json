@@ -1,0 +1,852 @@
+{
+  "tlId": "15q4vpgk",
+  "dj": "James Hype",
+  "stage": "EDC Orlando",
+  "date": "2023-11-11",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/15q4vpgk/james-hype-kineticfield-edc-orlando-united-states-2023-11-11.html",
+  "djs": [
+    {
+      "name": "James Hype",
+      "slug": "jameshype"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "James Hype ft. Dots Per Inch & Ayak",
+      "title": "I Was Lovin' You",
+      "remix": "",
+      "label": "GOOD COMPANY",
+      "trackId": "9755809",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "503352",
+        "youtube": "503352",
+        "soundcloud": "503352",
+        "appleMusic": "503352"
+      },
+      "blendGroup": [
+        {
+          "artist": "James Hype ft. Dots Per Inch & Ayak",
+          "title": "I Was Lovin' You",
+          "remix": "",
+          "trackId": "9755809"
+        },
+        {
+          "artist": "Skrillex & Damian Marley",
+          "title": "Make It Bun Dem (Acappella)",
+          "remix": "",
+          "trackId": "9755812"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Damian Marley",
+      "title": "Make It Bun Dem (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT/OWSLA",
+      "trackId": "9755812",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "71742",
+        "youtube": "131656",
+        "soundcloud": "131656",
+        "appleMusic": "71742"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Damian Marley",
+          "title": "Make It Bun Dem (Acappella)",
+          "remix": "",
+          "trackId": "9755812"
+        },
+        {
+          "artist": "Martin Ikin",
+          "title": "In The Streets",
+          "remix": "",
+          "trackId": "9755297"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Ikin",
+      "title": "In The Streets",
+      "remix": "",
+      "label": "STEREOHYPE",
+      "trackId": "9755297",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "943291",
+        "youtube": "943291",
+        "soundcloud": "943291",
+        "appleMusic": "943291"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Doja Cat",
+      "title": "Paint The Town Red (James Hype Remix)",
+      "remix": "",
+      "label": "KEMOSABE (SONY)",
+      "trackId": "9739050",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 150,
+      "mediaIds": {
+        "youtube": "949845",
+        "soundcloud": "949845"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Hotswing",
+      "title": "Feel It",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "9739051",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 274,
+      "mediaIds": {
+        "spotify": "942904",
+        "youtube": "942904",
+        "soundcloud": "942904",
+        "appleMusic": "942904"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hotswing",
+          "title": "Feel It",
+          "remix": "",
+          "trackId": "9739051"
+        },
+        {
+          "artist": "Kool & The Gang",
+          "title": "Get Down On It",
+          "remix": "(Acappella)",
+          "trackId": "9739052"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kool & The Gang",
+      "title": "Get Down On It",
+      "remix": "(Acappella)",
+      "label": "ISLAND DEF JAM (UMG)",
+      "trackId": "9739052",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "218847",
+        "youtube": "218847",
+        "soundcloud": "218847",
+        "appleMusic": "218847"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Da Hool",
+      "title": "Meet Her At The Love Parade (James Hype Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9739053",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 435,
+      "mediaIds": {
+        "youtube": "955459",
+        "soundcloud": "955459"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Fatboy Slim",
+      "title": "Star 69 (Acappella)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "9739054",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "1853",
+        "youtube": "1853",
+        "soundcloud": "1853",
+        "appleMusic": "1853"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fatboy Slim",
+          "title": "Star 69 (Acappella)",
+          "remix": "",
+          "trackId": "9739054"
+        },
+        {
+          "artist": "Run DMC vs. Jason Nevins",
+          "title": "It's Like That (Maitland Remix)",
+          "remix": "",
+          "trackId": "9739055"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Run DMC vs. Jason Nevins",
+      "title": "It's Like That (Maitland Remix)",
+      "remix": "",
+      "label": "SM:)E COMMUNICATIONS",
+      "trackId": "9739055",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "940420"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Danny Tenaglia ft. Celeda",
+      "title": "Music Is The Answer (Dancin' And Prancin') (Acappella)",
+      "remix": "",
+      "label": "TWISTED",
+      "trackId": "9739056",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 637,
+      "mediaIds": {
+        "spotify": "1278",
+        "youtube": "1278",
+        "soundcloud": "1278",
+        "appleMusic": "1278"
+      },
+      "blendGroup": [
+        {
+          "artist": "Danny Tenaglia ft. Celeda",
+          "title": "Music Is The Answer (Dancin' And Prancin') (Acappella)",
+          "remix": "",
+          "trackId": "9739056"
+        },
+        {
+          "artist": "SUBSHIFT & Silque",
+          "title": "Freak Out",
+          "remix": "",
+          "trackId": "9739057"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SUBSHIFT & Silque",
+      "title": "Freak Out",
+      "remix": "",
+      "label": "STEREOHYPE",
+      "trackId": "9739057",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "936668",
+        "youtube": "936668",
+        "soundcloud": "936668",
+        "appleMusic": "936668"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Major Lazer & James Hype",
+      "title": "Number 1",
+      "remix": "",
+      "label": "STEREOHYPE",
+      "trackId": "9739070",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 755,
+      "mediaIds": {
+        "spotify": "853596",
+        "youtube": "853596",
+        "soundcloud": "853596",
+        "appleMusic": "853596"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Simon Kidzoo",
+      "title": "Vibrant",
+      "remix": "",
+      "label": "GIVE SOUL",
+      "trackId": "9739058",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 915,
+      "mediaIds": {
+        "spotify": "941624",
+        "youtube": "941624",
+        "soundcloud": "941624",
+        "appleMusic": "941624"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Adapter",
+      "title": "Kattapult (James Hype Edit)",
+      "remix": "",
+      "label": "STEREOHYPE",
+      "trackId": "9739059",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1005,
+      "mediaIds": {
+        "spotify": "978514",
+        "youtube": "978514",
+        "soundcloud": "978514",
+        "appleMusic": "978514"
+      },
+      "blendGroup": [
+        {
+          "artist": "Adapter",
+          "title": "Kattapult (James Hype Edit)",
+          "remix": "",
+          "trackId": "9739059"
+        },
+        {
+          "artist": "James Hype ft. Kelli-Leigh",
+          "title": "More Than Friends",
+          "remix": "(Acappella)",
+          "trackId": "9739076"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "James Hype ft. Kelli-Leigh",
+      "title": "More Than Friends",
+      "remix": "(Acappella)",
+      "label": "OMT (WARNER MUSIC)",
+      "trackId": "9739076",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "365207",
+        "youtube": "365207",
+        "soundcloud": "365207",
+        "appleMusic": "365207"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "James Hype ft. Kim Petras",
+      "title": "Drums",
+      "remix": "",
+      "label": "ISLAND/CROSS",
+      "trackId": "9739060",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1147,
+      "mediaIds": {
+        "spotify": "513093",
+        "youtube": "513093",
+        "soundcloud": "513093",
+        "appleMusic": "513093"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "James Hype ft. Kim Petras",
+      "title": "Drums (Max Styler Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "9772946",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1283,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Martin Ikin",
+      "title": "Make U Sweat",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "9739071",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1328,
+      "mediaIds": {
+        "spotify": "946752",
+        "youtube": "946752",
+        "soundcloud": "946752",
+        "appleMusic": "946752"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Andrea Mattioli",
+      "title": "Evolution",
+      "remix": "",
+      "label": "KLAPHOUSE",
+      "trackId": "9739072",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1470,
+      "mediaIds": {
+        "spotify": "940418",
+        "youtube": "940418",
+        "soundcloud": "940418",
+        "appleMusic": "940418"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Piero Pirupa",
+      "title": "Change Your Mind",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "9739073",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1540,
+      "mediaIds": {
+        "spotify": "930213",
+        "youtube": "930213",
+        "soundcloud": "930213",
+        "appleMusic": "930213"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Vintage Culture & James Hype",
+      "title": "You Give Me A Feeling (James Hype VIP Edit)",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "9739074",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1660,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "HEREN & Julio Navas",
+      "title": "Como",
+      "remix": "",
+      "label": "FRESCO",
+      "trackId": "9739075",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "946063",
+        "youtube": "946063",
+        "appleMusic": "946063"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Daft Punk",
+      "title": "One More Time (James Hype Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9739061",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1950,
+      "mediaIds": {
+        "youtube": "915053"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "HP Vince ft. Chuck Roberts",
+      "title": "Jack Had A Groove (CASSIMM Remix)",
+      "remix": "",
+      "label": "PHOENIX MUSIC",
+      "trackId": "9739160",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2100,
+      "mediaIds": {
+        "spotify": "912604",
+        "appleMusic": "912604"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Quality Control ft. Lil Baby & DaBaby",
+      "title": "Baby (James Hype Remix)",
+      "remix": "",
+      "label": "QUALITY CONTROL",
+      "trackId": "9739157",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2228,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Nicolau Marinho",
+      "title": "Candy Shop",
+      "remix": "",
+      "label": "BLAAH!",
+      "trackId": "9739077",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2317,
+      "mediaIds": {
+        "spotify": "721867",
+        "youtube": "721867",
+        "soundcloud": "721867",
+        "appleMusic": "721867"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "MOGUAI",
+      "title": "ACIIID",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "9739158",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2392,
+      "mediaIds": {
+        "spotify": "186697",
+        "youtube": "186697",
+        "soundcloud": "186697",
+        "appleMusic": "186697"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Dave & Central Cee",
+      "title": "Sprinter (James Hype Remix)",
+      "remix": "",
+      "label": "NEIGHBOURHOOD",
+      "trackId": "9739159",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2465,
+      "mediaIds": {
+        "youtube": "940419",
+        "soundcloud": "940419"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Melodie MC",
+      "title": "Dum da Dum",
+      "remix": "(Acappella)",
+      "label": "",
+      "trackId": "9739161",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2570,
+      "mediaIds": {
+        "spotify": "855966",
+        "youtube": "855966",
+        "appleMusic": "855966"
+      },
+      "blendGroup": [
+        {
+          "artist": "Melodie MC",
+          "title": "Dum da Dum",
+          "remix": "(Acappella)",
+          "trackId": "9739161"
+        },
+        {
+          "artist": "Technotronic",
+          "title": "Pump Up The Jam (James Hype VIP Remix)",
+          "remix": "",
+          "trackId": "9739168"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Technotronic",
+      "title": "Pump Up The Jam (James Hype VIP Remix)",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "9739168",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "24",
+      "artist": "James Hype & Tita Lau",
+      "title": "Vibrate",
+      "remix": "",
+      "label": "STEREOHYPE",
+      "trackId": "9739169",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2650,
+      "mediaIds": {
+        "spotify": "936524",
+        "youtube": "936524",
+        "soundcloud": "936524",
+        "appleMusic": "936524"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Tyla",
+      "title": "Water (James Hype Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9739170",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2775,
+      "mediaIds": {
+        "youtube": "956641",
+        "soundcloud": "956641"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "James Hype ft. Shamiya Battles",
+      "title": "7 Seconds",
+      "remix": "",
+      "label": "STEREOHYPE",
+      "trackId": "9739171",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2880,
+      "mediaIds": {
+        "spotify": "1005637",
+        "youtube": "1005637",
+        "soundcloud": "1005637",
+        "appleMusic": "1005637"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "James Hype & Tita Lau",
+      "title": "Disconnected",
+      "remix": "",
+      "label": "SOLOTOKO",
+      "trackId": "9739172",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3030,
+      "mediaIds": {
+        "spotify": "707057",
+        "youtube": "707057",
+        "soundcloud": "707057",
+        "appleMusic": "707057"
+      },
+      "blendGroup": [
+        {
+          "artist": "James Hype & Tita Lau",
+          "title": "Disconnected",
+          "remix": "",
+          "trackId": "9739172"
+        },
+        {
+          "artist": "Armand van Helden",
+          "title": "I Want Your Soul",
+          "remix": "",
+          "trackId": "9739196"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Armand van Helden",
+      "title": "I Want Your Soul",
+      "remix": "",
+      "label": "SOUTHERN FRIED",
+      "trackId": "9739196",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "23200",
+        "youtube": "23200",
+        "soundcloud": "23200",
+        "appleMusic": "23200"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "James Hype & Tita Lau",
+      "title": "On The Ground",
+      "remix": "",
+      "label": "STEREOHYPE",
+      "trackId": "10062079",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3320,
+      "mediaIds": {
+        "spotify": "963594",
+        "youtube": "963594",
+        "soundcloud": "963594",
+        "appleMusic": "963594"
+      },
+      "blendGroup": [
+        {
+          "artist": "James Hype & Tita Lau",
+          "title": "On The Ground",
+          "remix": "",
+          "trackId": "10062079"
+        },
+        {
+          "artist": "James Hype & Miggy Dela Rosa",
+          "title": "Ferrari",
+          "remix": "",
+          "trackId": "9739197"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "James Hype & Miggy Dela Rosa",
+      "title": "Ferrari",
+      "remix": "",
+      "label": "ISLAND/CROSS",
+      "trackId": "9739197",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "779692",
+        "youtube": "779692",
+        "soundcloud": "779692",
+        "appleMusic": "779692"
+      },
+      "blendGroup": [
+        {
+          "artist": "James Hype & Miggy Dela Rosa",
+          "title": "Ferrari",
+          "remix": "",
+          "trackId": "9739197"
+        },
+        {
+          "artist": "AJ Tracey",
+          "title": "Ladbroke Grove",
+          "remix": "",
+          "trackId": "9739198"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AJ Tracey",
+      "title": "Ladbroke Grove",
+      "remix": "",
+      "label": "AJ TRACEY",
+      "trackId": "9739198",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "517937",
+        "youtube": "517937",
+        "soundcloud": "517937",
+        "appleMusic": "517937"
+      }
+    },
+    {
+      "pos": "29",
+      "artist": "James Hype",
+      "title": "Wild",
+      "remix": "",
+      "label": "STEREOHYPE",
+      "trackId": "9739199",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3750,
+      "mediaIds": {
+        "spotify": "937600",
+        "youtube": "937600",
+        "soundcloud": "937600",
+        "appleMusic": "937600"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "MistaJam & EMEXL",
+      "title": "Boom Box",
+      "remix": "",
+      "label": "TRICK",
+      "trackId": "9755810",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3910,
+      "mediaIds": {
+        "spotify": "937394",
+        "youtube": "937394",
+        "soundcloud": "937394",
+        "appleMusic": "937394"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "James Hype",
+      "title": "Lose Control",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "9755811",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3994,
+      "mediaIds": {
+        "spotify": "853598",
+        "youtube": "853598",
+        "soundcloud": "853598",
+        "appleMusic": "853598"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3791932",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=yvQWUHGE85E"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:05:07.910Z",
+  "scrapeVersion": 2
+}

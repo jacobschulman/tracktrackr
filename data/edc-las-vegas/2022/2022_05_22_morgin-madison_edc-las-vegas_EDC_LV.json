@@ -1,0 +1,501 @@
+{
+  "tlId": "13s9b8r1",
+  "dj": "Morgin Madison",
+  "stage": "EDC Las Vegas",
+  "date": "2022-05-22",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/13s9b8r1/morgin-madison-rynobus-art-car-edc-las-vegas-united-states-2022-05-22.html",
+  "djs": [
+    {
+      "name": "Morgin Madison",
+      "slug": "morginmadison"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Baauer",
+      "title": "HOT 44",
+      "remix": "",
+      "label": "LUCKYME",
+      "trackId": "8064740",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "590510",
+        "youtube": "590510",
+        "soundcloud": "590510",
+        "appleMusic": "590510"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Ivan Gough & Feenixpawl ft. Georgi Kay",
+      "title": "In My Mind (Acappella)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "8064741",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 90,
+      "mediaIds": {
+        "spotify": "58319",
+        "youtube": "120853",
+        "soundcloud": "58319",
+        "appleMusic": "58319"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Mat Zo",
+      "title": "Bipolar",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "8064742",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 227,
+      "mediaIds": {
+        "spotify": "50339",
+        "youtube": "50339",
+        "soundcloud": "50339",
+        "appleMusic": "50339"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Morgin Madison",
+      "title": "Club Dystopia",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "8064743",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 320,
+      "mediaIds": {
+        "spotify": "685217",
+        "youtube": "685217",
+        "soundcloud": "685217",
+        "appleMusic": "685217"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Morgin Madison ft. Gregg Sgar",
+      "title": "Far From Home",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "8064744",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 702,
+      "mediaIds": {
+        "spotify": "661386",
+        "youtube": "661386",
+        "soundcloud": "661386",
+        "appleMusic": "661386"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Loge21",
+      "title": "Just Bass",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "8064745",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 955,
+      "mediaIds": {
+        "spotify": "357861",
+        "youtube": "357861",
+        "soundcloud": "357861",
+        "appleMusic": "357861"
+      },
+      "blendGroup": [
+        {
+          "artist": "Loge21",
+          "title": "Just Bass",
+          "remix": "",
+          "trackId": "8064745"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Around The World (Acappella)",
+          "remix": "",
+          "trackId": "8064746"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Around The World (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "8064746",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 960,
+      "mediaIds": {
+        "spotify": "1537",
+        "youtube": "8415",
+        "soundcloud": "1537",
+        "appleMusic": "1537"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Sunny Lax",
+      "title": "Enceladus",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "8064747",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1125,
+      "mediaIds": {
+        "spotify": "272055",
+        "youtube": "272055",
+        "soundcloud": "272055",
+        "appleMusic": "272055"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sunny Lax",
+          "title": "Enceladus",
+          "remix": "",
+          "trackId": "8064747"
+        },
+        {
+          "artist": "deadmau5 & Kaskade ft. Haley Gibby",
+          "title": "Move For Me (Acappella)",
+          "remix": "",
+          "trackId": "8064748"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 & Kaskade ft. Haley Gibby",
+      "title": "Move For Me (Acappella)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "8064748",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 1232,
+      "mediaIds": {
+        "spotify": "3455",
+        "youtube": "3455",
+        "soundcloud": "3455",
+        "appleMusic": "3455"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Tritonal & Emme (AR)",
+      "title": "Out Of The Dark (Morgin Madison Remix)",
+      "remix": "",
+      "label": "ENHANCED",
+      "trackId": "8064749",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1428,
+      "mediaIds": {
+        "spotify": "742558",
+        "youtube": "742558",
+        "soundcloud": "742558",
+        "appleMusic": "742558"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Eric Prydz",
+      "title": "2night",
+      "remix": "",
+      "label": "PRYDA",
+      "trackId": "8064750",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1595,
+      "mediaIds": {
+        "spotify": "45004",
+        "youtube": "45004",
+        "soundcloud": "45004",
+        "appleMusic": "45004"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eric Prydz",
+          "title": "2night",
+          "remix": "",
+          "trackId": "8064750"
+        },
+        {
+          "artist": "Coldplay",
+          "title": "Every Teardrop Is A Waterfall (Acappella)",
+          "remix": "",
+          "trackId": "8064751"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Coldplay",
+      "title": "Every Teardrop Is A Waterfall (Acappella)",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "8064751",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 1607,
+      "mediaIds": {
+        "spotify": "37996",
+        "youtube": "43596",
+        "soundcloud": "43596",
+        "appleMusic": "37996"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Nero",
+      "title": "Innocence (Reopened)",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "8064752",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1834,
+      "mediaIds": {
+        "youtube": "334222",
+        "soundcloud": "334222"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Morgin Madison",
+      "title": "Broken Love",
+      "remix": "",
+      "label": "WE ARE DIAMOND",
+      "trackId": "8064753",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1980,
+      "mediaIds": {
+        "spotify": "833504",
+        "youtube": "833504",
+        "appleMusic": "833504"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Morgin Madison ft. Dominique",
+      "title": "Drifter (Kindrid Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "8064754",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2247,
+      "mediaIds": {
+        "soundcloud": "830390"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Fatum",
+      "title": "The Wolf",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "8064756",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2550,
+      "mediaIds": {
+        "spotify": "489806",
+        "youtube": "489806",
+        "soundcloud": "489806",
+        "appleMusic": "489806"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Wolfgang Gartner",
+      "title": "The Way It Was",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "8064757",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2705,
+      "mediaIds": {
+        "youtube": "46773"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Morgin Madison",
+      "title": "Feels Like",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "8064758",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2918,
+      "mediaIds": {
+        "spotify": "682789",
+        "youtube": "682789",
+        "soundcloud": "682789",
+        "appleMusic": "682789"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Baauer",
+      "title": "REACHUPDONTSTOP (Cozway Remix)",
+      "remix": "",
+      "label": "LUCKYME",
+      "trackId": "8064759",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3067,
+      "mediaIds": {
+        "spotify": "830388",
+        "youtube": "830388",
+        "soundcloud": "830388",
+        "appleMusic": "830388"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "M83",
+      "title": "Midnight City (Eric Prydz Private Remix)",
+      "remix": "",
+      "label": "MUTE",
+      "trackId": "8064760",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3143,
+      "mediaIds": {
+        "spotify": "59431",
+        "youtube": "59431",
+        "soundcloud": "59431",
+        "appleMusic": "59431"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Morgin Madison",
+      "title": "I Hate Portals",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "8064761",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3283,
+      "mediaIds": {
+        "spotify": "682788",
+        "youtube": "682788",
+        "soundcloud": "682788",
+        "appleMusic": "682788"
+      },
+      "blendGroup": [
+        {
+          "artist": "Morgin Madison",
+          "title": "I Hate Portals",
+          "remix": "",
+          "trackId": "8064761"
+        },
+        {
+          "artist": "Above & Beyond ft. Richard Bedford",
+          "title": "Thing Called Love (Acappella)",
+          "remix": "",
+          "trackId": "8064762"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Above & Beyond ft. Richard Bedford",
+      "title": "Thing Called Love (Acappella)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "8064762",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 3490,
+      "mediaIds": {
+        "spotify": "18704",
+        "youtube": "116450",
+        "soundcloud": "116450",
+        "appleMusic": "18704"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Morgin Madison",
+      "title": "Can't Do It Alone",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "8064763",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3725,
+      "mediaIds": {
+        "spotify": "802991",
+        "youtube": "802991",
+        "soundcloud": "802991",
+        "appleMusic": "802991"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Seven Lions & Xilent",
+      "title": "The Fall",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "8064764",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 4038,
+      "mediaIds": {
+        "spotify": "222744",
+        "youtube": "222744",
+        "soundcloud": "222744",
+        "appleMusic": "222744"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "2928288",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1283728261"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:38:29.243Z",
+  "scrapeVersion": 2
+}

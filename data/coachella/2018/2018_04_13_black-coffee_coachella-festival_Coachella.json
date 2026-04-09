@@ -1,0 +1,291 @@
+{
+  "tlId": "1uuh11k1",
+  "dj": "Black Coffee",
+  "stage": "Coachella Festival",
+  "date": "2018-04-13",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/1uuh11k1/black-coffee-mojave-tent-coachella-festival-united-states-2018-04-13.html",
+  "djs": [
+    {
+      "name": "Black Coffee",
+      "slug": "blackcoffee"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "&ME ft. Sabota",
+      "title": "Trilogy",
+      "remix": "",
+      "label": "KEINEMUSIK",
+      "trackId": "3260400",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "260289",
+        "youtube": "260289",
+        "soundcloud": "260289",
+        "appleMusic": "260289"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Keinemusik",
+      "title": "Muyè (Black Coffee Remix)",
+      "remix": "",
+      "label": "KEINEMUSIK",
+      "trackId": "3260401",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "409937",
+        "youtube": "409937",
+        "soundcloud": "409937",
+        "appleMusic": "409937"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Shimza ft. Argento Dust",
+      "title": "All Alone",
+      "remix": "",
+      "label": "MADORASINDAHOUSE",
+      "trackId": "3260402",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "436015",
+        "youtube": "436015",
+        "appleMusic": "436015"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "CamelPhat & Elderbrook",
+      "title": "Cola (MoBlack Remix)",
+      "remix": "",
+      "label": "MOBLACK",
+      "trackId": "3260403",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "404762",
+        "youtube": "404762",
+        "appleMusic": "404762"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Danny Tenaglia ft. Celeda",
+      "title": "Music Is The Answer (Dancin' And Prancin')",
+      "remix": "(Black Coffee Tribal Edit)",
+      "label": "TWISTED",
+      "trackId": "3260404",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1278",
+        "youtube": "1278",
+        "soundcloud": "1278",
+        "appleMusic": "1278"
+      },
+      "blendGroup": [
+        {
+          "artist": "Danny Tenaglia ft. Celeda",
+          "title": "Music Is The Answer (Dancin' And Prancin')",
+          "remix": "(Black Coffee Tribal Edit)",
+          "trackId": "3260404"
+        },
+        {
+          "artist": "Da Capo",
+          "title": "Umbovukazi",
+          "remix": "",
+          "trackId": "3260405"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Da Capo",
+      "title": "Umbovukazi",
+      "remix": "",
+      "label": "RISE MUSIC",
+      "trackId": "3260405",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "503732",
+        "youtube": "503732",
+        "soundcloud": "503732",
+        "appleMusic": "503732"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Robin S",
+      "title": "Show Me Love (Acappella)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "3260406",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2602",
+        "youtube": "2602",
+        "soundcloud": "2602",
+        "appleMusic": "2602"
+      },
+      "blendGroup": [
+        {
+          "artist": "Robin S",
+          "title": "Show Me Love (Acappella)",
+          "remix": "",
+          "trackId": "3260406"
+        },
+        {
+          "artist": "Mr Joe",
+          "title": "Lost In My Dub",
+          "remix": "",
+          "trackId": "3260407"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mr Joe",
+      "title": "Lost In My Dub",
+      "remix": "",
+      "label": "DE SONG",
+      "trackId": "3260407",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "410822",
+        "youtube": "410822",
+        "soundcloud": "410822",
+        "appleMusic": "410822"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Gotye ft. Kimbra",
+      "title": "Somebody That I Used To Know",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "3260408",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "45982",
+        "youtube": "45982",
+        "soundcloud": "45982",
+        "appleMusic": "45982"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Manu Dibango",
+      "title": "Soul Makossa",
+      "remix": "",
+      "label": "AFRICA SEVEN",
+      "trackId": "3260409",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "274824",
+        "youtube": "274824",
+        "soundcloud": "274824",
+        "appleMusic": "274824"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3260410",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Daft Punk",
+      "title": "One More Time",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE",
+      "trackId": "3260411",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1847",
+        "youtube": "1847",
+        "soundcloud": "1847",
+        "appleMusic": "1847"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Daft Punk",
+      "title": "Around The World",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE",
+      "trackId": "3260412",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1537",
+        "youtube": "1537",
+        "soundcloud": "1537",
+        "appleMusic": "1537"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "London Grammar",
+      "title": "Hell To The Liars (Kölsch Remix)",
+      "remix": "",
+      "label": "METAL & DUST",
+      "trackId": "3260413",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "361000",
+        "youtube": "361000",
+        "appleMusic": "361000"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T04:21:55.134Z",
+  "scrapeVersion": 2
+}

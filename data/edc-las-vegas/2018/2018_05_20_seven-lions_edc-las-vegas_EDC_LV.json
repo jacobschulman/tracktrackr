@@ -1,0 +1,827 @@
+{
+  "tlId": "hzny9gt",
+  "dj": "Seven Lions",
+  "stage": "EDC Las Vegas",
+  "date": "2018-05-20",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/hzny9gt/seven-lions-kineticfield-edc-las-vegas-united-states-2018-05-20.html",
+  "djs": [
+    {
+      "name": "Seven Lions",
+      "slug": "sevenlions"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Seven Lions & Jason Ross ft. Paul Meany",
+      "title": "Higher Love",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "3324883",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "327823",
+        "youtube": "327823",
+        "soundcloud": "327823",
+        "appleMusic": "327823"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Gammer",
+      "title": "The Drop (Stonebank Remix)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "3324884",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 218,
+      "mediaIds": {
+        "spotify": "420031",
+        "youtube": "420031",
+        "soundcloud": "420031",
+        "appleMusic": "420031"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Seven Lions ft. NÉONHÈART",
+      "title": "Where I Won't Be Found",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "3323719",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 277,
+      "mediaIds": {
+        "spotify": "362066",
+        "youtube": "362066",
+        "soundcloud": "362066",
+        "appleMusic": "362066"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Mark Sixma & Husman",
+      "title": "Prime",
+      "remix": "",
+      "label": "INHARMONY (ARMADA)",
+      "trackId": "3323720",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 430,
+      "mediaIds": {
+        "spotify": "401771",
+        "youtube": "401771",
+        "soundcloud": "401771",
+        "appleMusic": "401771"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mark Sixma & Husman",
+          "title": "Prime",
+          "remix": "",
+          "trackId": "3323720"
+        },
+        {
+          "artist": "4 Strings ft. Susanne Teutenberg",
+          "title": "Take Me Away (Into The Night)",
+          "remix": "(Acappella)",
+          "trackId": "3323721"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "4 Strings ft. Susanne Teutenberg",
+      "title": "Take Me Away (Into The Night)",
+      "remix": "(Acappella)",
+      "label": "LIQUID (SPINNIN')",
+      "trackId": "3323721",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "294708",
+        "youtube": "294708",
+        "soundcloud": "294708",
+        "appleMusic": "294708"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Seven Lions & Blastoyz ft. Fiora",
+      "title": "After Dark",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "3323722",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 558,
+      "mediaIds": {
+        "spotify": "431211",
+        "youtube": "431211",
+        "soundcloud": "431211",
+        "appleMusic": "431211"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Seven Lions & Kill The Noise",
+      "title": "Cold Hearted",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "3323724",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 720,
+      "mediaIds": {
+        "spotify": "385508",
+        "youtube": "385508",
+        "soundcloud": "385508",
+        "appleMusic": "385508"
+      },
+      "blendGroup": [
+        {
+          "artist": "Seven Lions & Kill The Noise",
+          "title": "Cold Hearted",
+          "remix": "",
+          "trackId": "3323724"
+        },
+        {
+          "artist": "Vini Vici & Astrix",
+          "title": "Adhana",
+          "remix": "",
+          "trackId": "3325428"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Vini Vici & Astrix",
+      "title": "Adhana",
+      "remix": "",
+      "label": "IBOGA",
+      "trackId": "3325428",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 730,
+      "mediaIds": {
+        "spotify": "392831",
+        "youtube": "392831",
+        "soundcloud": "392831",
+        "appleMusic": "392831"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Seven Lions & Kill The Noise ft. Shadow Cliq",
+      "title": "The Blood",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "3323725",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 870,
+      "mediaIds": {
+        "spotify": "431206",
+        "youtube": "431206",
+        "soundcloud": "431206",
+        "appleMusic": "431206"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Trivecta & Wooli",
+      "title": "Falling",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "3324721",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 960,
+      "mediaIds": {
+        "spotify": "416719",
+        "youtube": "416719",
+        "soundcloud": "416719",
+        "appleMusic": "416719"
+      },
+      "blendGroup": [
+        {
+          "artist": "Trivecta & Wooli",
+          "title": "Falling",
+          "remix": "",
+          "trackId": "3324721"
+        },
+        {
+          "artist": "Seven Lions",
+          "title": "Slow Dive",
+          "remix": "",
+          "trackId": "3330953"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions",
+      "title": "Slow Dive",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "3330953",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 960,
+      "mediaIds": {
+        "spotify": "366521",
+        "youtube": "366521",
+        "soundcloud": "366521",
+        "appleMusic": "366521"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Carbin",
+      "title": "Twenty-2-Life",
+      "remix": "",
+      "label": "FIREPOWER",
+      "trackId": "3348980",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1080,
+      "mediaIds": {
+        "spotify": "404201",
+        "youtube": "404201",
+        "soundcloud": "404201",
+        "appleMusic": "404201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Trivecta & Wooli",
+      "title": "Falling",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "3324886",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1132,
+      "mediaIds": {
+        "spotify": "416719",
+        "youtube": "416719",
+        "soundcloud": "416719",
+        "appleMusic": "416719"
+      },
+      "blendGroup": [
+        {
+          "artist": "Trivecta & Wooli",
+          "title": "Falling",
+          "remix": "",
+          "trackId": "3324886"
+        },
+        {
+          "artist": "RL Grime",
+          "title": "Core (Prismo Remix)",
+          "remix": "",
+          "trackId": "3325429"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RL Grime",
+      "title": "Core (Prismo Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3325429",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1190,
+      "mediaIds": {
+        "youtube": "409154",
+        "soundcloud": "409154"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Martin Garrix & Matisse & Sadko",
+      "title": "Forever",
+      "remix": "",
+      "label": "EPIC AMSTERDAM/STMPD",
+      "trackId": "3324888",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1308,
+      "mediaIds": {
+        "spotify": "379512",
+        "youtube": "379512",
+        "soundcloud": "379512",
+        "appleMusic": "379512"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Garrix & Matisse & Sadko",
+          "title": "Forever",
+          "remix": "",
+          "trackId": "3324888"
+        },
+        {
+          "artist": "Seven Lions ft. Lights",
+          "title": "Falling Away",
+          "remix": "",
+          "trackId": "3324889"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions ft. Lights",
+      "title": "Falling Away",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "3324889",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1320,
+      "mediaIds": {
+        "spotify": "266112",
+        "youtube": "266112",
+        "soundcloud": "266112",
+        "appleMusic": "266112"
+      },
+      "blendGroup": [
+        {
+          "artist": "Seven Lions ft. Lights",
+          "title": "Falling Away",
+          "remix": "",
+          "trackId": "3324889"
+        },
+        {
+          "artist": "Seven Lions ft. Ellie Goulding",
+          "title": "Don't Leave",
+          "remix": "",
+          "trackId": "3324890"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions ft. Ellie Goulding",
+      "title": "Don't Leave",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "3324890",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1320,
+      "mediaIds": {
+        "spotify": "194353",
+        "youtube": "194353",
+        "soundcloud": "194353",
+        "appleMusic": "194353"
+      },
+      "blendGroup": [
+        {
+          "artist": "Seven Lions ft. Ellie Goulding",
+          "title": "Don't Leave",
+          "remix": "",
+          "trackId": "3324890"
+        },
+        {
+          "artist": "Seven Lions & ILLENIUM & Said The Sky ft. HALIENE",
+          "title": "Rush Over Me",
+          "remix": "",
+          "trackId": "3325430"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions & ILLENIUM & Said The Sky ft. HALIENE",
+      "title": "Rush Over Me",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "3325430",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1330,
+      "mediaIds": {
+        "spotify": "330054",
+        "youtube": "330054",
+        "soundcloud": "330054",
+        "appleMusic": "330054"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Blastoyz",
+      "title": "Mandala",
+      "remix": "",
+      "label": "NUTEK",
+      "trackId": "3324891",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1455,
+      "mediaIds": {
+        "spotify": "402666",
+        "youtube": "402666",
+        "soundcloud": "402666",
+        "appleMusic": "402666"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Seven Lions & Jason Ross",
+      "title": "The Sirens",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "3324892",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1575,
+      "mediaIds": {
+        "spotify": "409182",
+        "youtube": "409182",
+        "soundcloud": "409182",
+        "appleMusic": "409182"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Seven Lions & Unlike Pluto",
+      "title": "Rescue Me",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "3324893",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1678,
+      "mediaIds": {
+        "spotify": "365797",
+        "youtube": "365797",
+        "soundcloud": "365797",
+        "appleMusic": "365797"
+      },
+      "blendGroup": [
+        {
+          "artist": "Seven Lions & Unlike Pluto",
+          "title": "Rescue Me",
+          "remix": "",
+          "trackId": "3324893"
+        },
+        {
+          "artist": "ILLENIUM & Kill The Noise ft. Mako",
+          "title": "Don't Give Up On Me",
+          "remix": "",
+          "trackId": "3325869"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ILLENIUM & Kill The Noise ft. Mako",
+      "title": "Don't Give Up On Me",
+      "remix": "",
+      "label": "PROXIMITY",
+      "trackId": "3325869",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 1710,
+      "mediaIds": {
+        "spotify": "401180",
+        "youtube": "401180",
+        "soundcloud": "401180",
+        "appleMusic": "401180"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Seven Lions",
+      "title": "Cusp (Just A Tune & Last Heroes Flip)",
+      "remix": "",
+      "label": "WHO'S AFRAID OF 138 (ARMADA)",
+      "trackId": "3324895",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "soundcloud": "346325"
+      },
+      "blendGroup": [
+        {
+          "artist": "Seven Lions",
+          "title": "Cusp (Just A Tune & Last Heroes Flip)",
+          "remix": "",
+          "trackId": "3324895"
+        },
+        {
+          "artist": "Seven Lions",
+          "title": "Cusp (VIP)",
+          "remix": "",
+          "trackId": "3339397"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions",
+      "title": "Cusp (VIP)",
+      "remix": "",
+      "label": "WHO'S AFRAID OF 138 (ARMADA)",
+      "trackId": "3339397",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1800,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Seven Lions",
+          "title": "Cusp (VIP)",
+          "remix": "",
+          "trackId": "3339397"
+        },
+        {
+          "artist": "Seven Lions",
+          "title": "Lucy",
+          "remix": "",
+          "trackId": "3351935"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions",
+      "title": "Lucy",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "3351935",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1939,
+      "mediaIds": {
+        "spotify": "221902",
+        "youtube": "221902",
+        "soundcloud": "221902",
+        "appleMusic": "221902"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Dimibo",
+      "title": "Junglerok",
+      "remix": "",
+      "label": "WHO'S AFRAID OF 138 (ARMADA)",
+      "trackId": "3324894",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1960,
+      "mediaIds": {
+        "spotify": "401776",
+        "youtube": "401776",
+        "soundcloud": "401776",
+        "appleMusic": "401776"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Delta Heavy",
+      "title": "I Need You",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "3330954",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2044,
+      "mediaIds": {
+        "spotify": "400826",
+        "youtube": "400826",
+        "soundcloud": "400826",
+        "appleMusic": "400826"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "1788-L",
+      "title": "P U L S A R / B E A M",
+      "remix": "",
+      "label": "ANVIL DROP",
+      "trackId": "3324896",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2044,
+      "mediaIds": {
+        "spotify": "404431",
+        "youtube": "404431",
+        "soundcloud": "404431",
+        "appleMusic": "404431"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Seven Lions & Jason Ross ft. Jonathan Mendelsohn",
+      "title": "Ocean",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "3324897",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2160,
+      "mediaIds": {
+        "spotify": "380623",
+        "youtube": "380623",
+        "soundcloud": "380623",
+        "appleMusic": "380623"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Seven Lions ft. Kerli",
+      "title": "Worlds Apart",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "3324898",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2380,
+      "mediaIds": {
+        "spotify": "192315",
+        "youtube": "192315",
+        "soundcloud": "192315",
+        "appleMusic": "192315"
+      },
+      "blendGroup": [
+        {
+          "artist": "Seven Lions ft. Kerli",
+          "title": "Worlds Apart",
+          "remix": "",
+          "trackId": "3324898"
+        },
+        {
+          "artist": "Seven Lions & Myon & Shane 54 ft. Tove Lo",
+          "title": "Strangers",
+          "remix": "",
+          "trackId": "3350865"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions & Myon & Shane 54 ft. Tove Lo",
+      "title": "Strangers",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "3350865",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 2442,
+      "mediaIds": {
+        "spotify": "147905",
+        "youtube": "147905",
+        "soundcloud": "147905",
+        "appleMusic": "147905"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Seven Lions ft. Skyler Stonestreet",
+      "title": "Freesol",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "3324899",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2480,
+      "mediaIds": {
+        "spotify": "354063",
+        "youtube": "354063",
+        "soundcloud": "354063",
+        "appleMusic": "354063"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "AFK & Wooli ft. Jay Fresh",
+      "title": "WDGAF (We Don't Give A Fuck) (Wooli VIP)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3324900",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2660,
+      "mediaIds": {
+        "spotify": "418454",
+        "youtube": "418454",
+        "soundcloud": "418454",
+        "appleMusic": "418454"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Seven Lions ft. RUNN",
+      "title": "Calling You Home",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "3324901",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2727,
+      "mediaIds": {
+        "spotify": "401097",
+        "youtube": "401097",
+        "soundcloud": "401097",
+        "appleMusic": "401097"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Seven Lions & Wooli & Trivecta ft. Nevve",
+      "title": "Island",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "3324902",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3000,
+      "mediaIds": {
+        "spotify": "459012",
+        "youtube": "459012",
+        "soundcloud": "459012",
+        "appleMusic": "459012"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Seven Lions ft. Fiora",
+      "title": "Dreamin'",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "3324903",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3040,
+      "mediaIds": {
+        "spotify": "429613",
+        "youtube": "429613",
+        "soundcloud": "429613",
+        "appleMusic": "429613"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "YOOKiE",
+      "title": "Project 9",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "3359361",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3064,
+      "mediaIds": {
+        "spotify": "405433",
+        "youtube": "405433",
+        "soundcloud": "405433",
+        "appleMusic": "405433"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "802605",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=pRdU63U-MyM"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "797287",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T06:59:13.146Z",
+  "scrapeVersion": 2
+}

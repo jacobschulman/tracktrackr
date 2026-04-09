@@ -1,0 +1,565 @@
+{
+  "tlId": "7p9mj01",
+  "dj": "ARTY",
+  "stage": "EDC Las Vegas",
+  "date": "2013-06-21",
+  "year": 2013,
+  "url": "https://www.1001tracklists.com/tracklist/7p9mj01/arty-circuitgrounds-edc-las-vegas-united-states-2013-06-21.html",
+  "djs": [
+    {
+      "name": "ARTY",
+      "slug": "arty"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ARTY",
+      "title": "When I See You (Alesso Remix)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "538740",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "109888",
+        "youtube": "109888",
+        "soundcloud": "109888",
+        "appleMusic": "109888"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Emma Hewitt",
+      "title": "ReWind (Mikkas Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "538741",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 135,
+      "mediaIds": {
+        "spotify": "105852",
+        "youtube": "105852",
+        "soundcloud": "105852",
+        "appleMusic": "105852"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Henry Fong & Toby Green",
+      "title": "Revival",
+      "remix": "",
+      "label": "MEGATON",
+      "trackId": "538742",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 437,
+      "mediaIds": {
+        "spotify": "130718",
+        "youtube": "130718",
+        "soundcloud": "130718"
+      },
+      "blendGroup": [
+        {
+          "artist": "Henry Fong & Toby Green",
+          "title": "Revival",
+          "remix": "",
+          "trackId": "538742"
+        },
+        {
+          "artist": "Wolfgang Gartner",
+          "title": "Space Junk",
+          "remix": "",
+          "trackId": "539391"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wolfgang Gartner",
+      "title": "Space Junk",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "539391",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 442,
+      "mediaIds": {
+        "spotify": "25161",
+        "youtube": "25161",
+        "soundcloud": "25161",
+        "appleMusic": "25161"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Kaskade & Skrillex",
+      "title": "Lick It",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "539392",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 559,
+      "mediaIds": {
+        "spotify": "51422",
+        "youtube": "51422",
+        "soundcloud": "51422",
+        "appleMusic": "51422"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Eric Prydz",
+      "title": "Pjanoo",
+      "remix": "",
+      "label": "PRYDA/DATA REC.",
+      "trackId": "538743",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 660,
+      "mediaIds": {
+        "spotify": "1322",
+        "youtube": "1322",
+        "soundcloud": "1322",
+        "appleMusic": "1322"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eric Prydz",
+          "title": "Pjanoo",
+          "remix": "",
+          "trackId": "538743"
+        },
+        {
+          "artist": "Henrix vs. Wayne & Woods",
+          "title": "Jumangee",
+          "remix": "",
+          "trackId": "538744"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Henrix vs. Wayne & Woods",
+      "title": "Jumangee",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "538744",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 765,
+      "mediaIds": {
+        "spotify": "117883",
+        "youtube": "117883",
+        "soundcloud": "117883",
+        "appleMusic": "117883"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Arty & Mat Zo vs. Justice & Simian",
+      "title": "We Are Mozart's Friends (SHATO & Paul Rockseek Mashup / Arty Edit)",
+      "remix": "",
+      "label": "ED BANGER/ANJUNABEATS",
+      "trackId": "538745",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 840,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Lucky Date",
+      "title": "Freak",
+      "remix": "",
+      "label": "WARPATH",
+      "trackId": "538746",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1020,
+      "mediaIds": {
+        "youtube": "121400",
+        "soundcloud": "121400"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Mat Zo",
+      "title": "Lucid Dreams",
+      "remix": "",
+      "label": "ANJUNABEATS/ASTRALWERKS",
+      "trackId": "538747",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1140,
+      "mediaIds": {
+        "spotify": "141254",
+        "youtube": "141254",
+        "soundcloud": "141254",
+        "appleMusic": "141254"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Axwell vs. R.E.M. vs. Ferry Corsten & Arty",
+      "title": "Heart Is King vs. Losing My Religion vs. Punk (Axwell Bootleg)",
+      "remix": "",
+      "label": "WARNER BROS./FLASHOVER/AXTONE",
+      "trackId": "538748",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1380,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Dave Winnel ft. Will Reckless",
+      "title": "Achtung!",
+      "remix": "",
+      "label": "VICIOUS",
+      "trackId": "538749",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1623,
+      "mediaIds": {
+        "spotify": "135675",
+        "youtube": "135675",
+        "soundcloud": "135675",
+        "appleMusic": "135675"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "ARTY ft. Chris James",
+      "title": "Together We Are",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "538750",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "82187",
+        "youtube": "82187",
+        "soundcloud": "82187",
+        "appleMusic": "82187"
+      },
+      "blendGroup": [
+        {
+          "artist": "ARTY ft. Chris James",
+          "title": "Together We Are",
+          "remix": "",
+          "trackId": "538750"
+        },
+        {
+          "artist": "ARTY ft. Chris James",
+          "title": "Together We Are (Audien Remix)",
+          "remix": "",
+          "trackId": "538751"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ARTY ft. Chris James",
+      "title": "Together We Are (Audien Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "538751",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "124296",
+        "youtube": "124296",
+        "soundcloud": "124296",
+        "appleMusic": "124296"
+      },
+      "blendGroup": [
+        {
+          "artist": "ARTY ft. Chris James",
+          "title": "Together We Are (Audien Remix)",
+          "remix": "",
+          "trackId": "538751"
+        },
+        {
+          "artist": "ARTY ft. Chris James",
+          "title": "Together We Are (Whiiite Remix)",
+          "remix": "",
+          "trackId": "538752"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ARTY ft. Chris James",
+      "title": "Together We Are (Whiiite Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "538752",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "127674",
+        "youtube": "127674",
+        "soundcloud": "127674",
+        "appleMusic": "127674"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Showtek & Justin Prime",
+      "title": "Cannonball",
+      "remix": "",
+      "label": "2DUTCH",
+      "trackId": "538753",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2100,
+      "mediaIds": {
+        "spotify": "100256",
+        "youtube": "100256",
+        "soundcloud": "100256",
+        "appleMusic": "100256"
+      },
+      "blendGroup": [
+        {
+          "artist": "Showtek & Justin Prime",
+          "title": "Cannonball",
+          "remix": "",
+          "trackId": "538753"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike",
+          "title": "Wakanda",
+          "remix": "",
+          "trackId": "538754"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike",
+      "title": "Wakanda",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "538754",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "106434",
+        "youtube": "106434",
+        "soundcloud": "106434",
+        "appleMusic": "106434"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike",
+          "title": "Wakanda",
+          "remix": "",
+          "trackId": "538754"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "LRAD",
+          "remix": "",
+          "trackId": "538755"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "LRAD",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "538755",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "117950",
+        "youtube": "117950",
+        "soundcloud": "117950",
+        "appleMusic": "117950"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Arston",
+      "title": "Zodiac",
+      "remix": "",
+      "label": "PINKSTAR",
+      "trackId": "538756",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2310,
+      "mediaIds": {
+        "spotify": "120967",
+        "youtube": "120967",
+        "soundcloud": "120967",
+        "appleMusic": "120967"
+      },
+      "blendGroup": [
+        {
+          "artist": "Arston",
+          "title": "Zodiac",
+          "remix": "",
+          "trackId": "538756"
+        },
+        {
+          "artist": "Coldplay",
+          "title": "Fix You (Acappella)",
+          "remix": "",
+          "trackId": "539393"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Coldplay",
+      "title": "Fix You (Acappella)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "539393",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 2325,
+      "mediaIds": {
+        "spotify": "45047",
+        "youtube": "45047",
+        "soundcloud": "45047",
+        "appleMusic": "45047"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Daft Punk",
+      "title": "Aerodynamic",
+      "remix": "",
+      "label": "DAFT LIFE",
+      "trackId": "538757",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2580,
+      "mediaIds": {
+        "spotify": "2606",
+        "youtube": "2606",
+        "soundcloud": "2606",
+        "appleMusic": "2606"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Aerodynamic",
+          "remix": "",
+          "trackId": "538757"
+        },
+        {
+          "artist": "ARTY",
+          "title": "Flashback",
+          "remix": "",
+          "trackId": "538758"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ARTY",
+      "title": "Flashback",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "538758",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "135947",
+        "youtube": "135947",
+        "soundcloud": "135947",
+        "appleMusic": "135947"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Alesso & Sebastian Ingrosso vs. Arty & Mat Zo",
+      "title": "Calling Rebound (ARTY Mashup)",
+      "remix": "",
+      "label": "ANJUNABEATS/REFUNE",
+      "trackId": "538759",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2830,
+      "mediaIds": {
+        "youtube": "64254"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Dash Berlin vs. Coldplay",
+      "title": "Ticking Clocks",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "538760",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3100,
+      "mediaIds": {
+        "soundcloud": "94605"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Daft Punk",
+      "title": "One More Time",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE",
+      "trackId": "539394",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3420,
+      "mediaIds": {
+        "spotify": "1847",
+        "youtube": "1847",
+        "soundcloud": "1847",
+        "appleMusic": "1847"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "96452",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/98578773"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "95156",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:24:07.652Z",
+  "scrapeVersion": 2
+}

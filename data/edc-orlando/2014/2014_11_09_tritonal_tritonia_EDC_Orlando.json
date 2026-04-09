@@ -1,0 +1,536 @@
+{
+  "tlId": "420s1d1",
+  "dj": "Tritonal",
+  "stage": "Tritonia",
+  "date": "2014-11-09",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/420s1d1/tritonal-tritonia-072-circuitgrounds-edc-orlando-united-states-2014-11-08-2014-11-09.html",
+  "djs": [
+    {
+      "name": "Tritonal",
+      "slug": "tritonal"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Tritonal & Paris Blohm ft. Sterling Fox",
+      "title": "Colors (Simon & Phil Acoustic Intro Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "1162879",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 29,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Marnik vs. Alesso",
+      "title": "Tear The Momentum Up (Tritonal Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "1152155",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 90,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Alesso ft. Tove Lo",
+      "title": "Heroes (We Could Be)",
+      "remix": "",
+      "label": "REFUNE/DEF JAM",
+      "trackId": "1152156",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 208,
+      "mediaIds": {
+        "spotify": "201252",
+        "youtube": "201252",
+        "soundcloud": "201252",
+        "appleMusic": "201252"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Dada Life",
+      "title": "Freaks Have More Fun",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "1152157",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 387,
+      "mediaIds": {
+        "spotify": "214365",
+        "youtube": "214365",
+        "soundcloud": "214365",
+        "appleMusic": "214365"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Tritonal",
+      "title": "Ginsu",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "1152158",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "239517",
+        "youtube": "239517",
+        "soundcloud": "239517",
+        "appleMusic": "239517"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Tritonal ft. Chloe Angelides",
+      "title": "Anchor",
+      "remix": "",
+      "label": "ENHANCED",
+      "trackId": "1153283",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 750,
+      "mediaIds": {
+        "spotify": "211610",
+        "youtube": "211610",
+        "soundcloud": "211610",
+        "appleMusic": "211610"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tritonal ft. Chloe Angelides",
+          "title": "Anchor",
+          "remix": "",
+          "trackId": "1153283"
+        },
+        {
+          "artist": "Tritonal ft. Chloe Angelides",
+          "title": "Anchor (M35 Remix)",
+          "remix": "",
+          "trackId": "1153284"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tritonal ft. Chloe Angelides",
+      "title": "Anchor (M35 Remix)",
+      "remix": "",
+      "label": "ENHANCED",
+      "trackId": "1153284",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 950,
+      "mediaIds": {
+        "spotify": "219199",
+        "youtube": "219199",
+        "soundcloud": "219199",
+        "appleMusic": "219199"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "R3HAB & Trevor Guthrie",
+      "title": "Soundwave (VINAI Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "1152159",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 983,
+      "mediaIds": {
+        "spotify": "217181",
+        "youtube": "217181",
+        "soundcloud": "217181",
+        "appleMusic": "217181"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Paris & Simo",
+      "title": "Zombie (3LAU TomorrowWorld Edit)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "1152160",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1168,
+      "mediaIds": {
+        "youtube": "218581",
+        "soundcloud": "218581"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Jim Yosef vs. Hardwell ft. Chris Jones",
+      "title": "Flash vs. Young Again (Tritonal Mashup)",
+      "remix": "",
+      "label": "REVEALED/CONCORDIA",
+      "trackId": "1152161",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1380,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Calvin Harris & R3HAB",
+      "title": "Burnin'",
+      "remix": "",
+      "label": "FLY EYE/SONY",
+      "trackId": "1152162",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1553,
+      "mediaIds": {
+        "spotify": "218543",
+        "youtube": "218543",
+        "soundcloud": "218543",
+        "appleMusic": "218543"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Hardwell & Amba Shepherd & Lucky Date vs. TJR & VINAI",
+      "title": "Bounce The Electric Apollo (Tritonal Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "1152163",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1685,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Deorro & MAKJ",
+      "title": "Ready!",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1152164",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1933,
+      "mediaIds": {
+        "youtube": "201283",
+        "soundcloud": "201283"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Tritonal ft. Phoebe Ryan",
+      "title": "Now Or Never (Estiva & Juventa Remix)",
+      "remix": "",
+      "label": "ENHANCED",
+      "trackId": "1152165",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1994,
+      "mediaIds": {
+        "spotify": "165924",
+        "youtube": "165924",
+        "soundcloud": "165924",
+        "appleMusic": "165924"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Henry Fong & Mike Hawkins & Toby Green vs. Disclosure & Sam Smith",
+      "title": "Latch vs. Hot Steppa (Henry Fong Mashup)",
+      "remix": "",
+      "label": "ISLAND (UMG)/SPINNIN'",
+      "trackId": "1152176",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2212,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Henry Fong & Mike Hawkins & Toby Green vs. Disclosure & Sam Smith",
+          "title": "Latch vs. Hot Steppa (Henry Fong Mashup)",
+          "remix": "",
+          "trackId": "1152176"
+        },
+        {
+          "artist": "Henry Fong & Mike Hawkins & Toby Green",
+          "title": "Hot Steppa",
+          "remix": "",
+          "trackId": "12515167"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Henry Fong & Mike Hawkins & Toby Green",
+      "title": "Hot Steppa",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "12515167",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 2242,
+      "mediaIds": {
+        "spotify": "148564",
+        "youtube": "148564",
+        "soundcloud": "148564",
+        "appleMusic": "148564"
+      },
+      "blendGroup": [
+        {
+          "artist": "Henry Fong & Mike Hawkins & Toby Green",
+          "title": "Hot Steppa",
+          "remix": "",
+          "trackId": "12515167"
+        },
+        {
+          "artist": "Henry Fong & Mike Hawkins & Toby Green",
+          "title": "Hot Steppa (Tom Tyger Edit)",
+          "remix": "",
+          "trackId": "12515165"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Henry Fong & Mike Hawkins & Toby Green",
+      "title": "Hot Steppa (Tom Tyger Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12515165",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 2287,
+      "mediaIds": {
+        "youtube": "1075730"
+      },
+      "blendGroup": [
+        {
+          "artist": "Henry Fong & Mike Hawkins & Toby Green",
+          "title": "Hot Steppa (Tom Tyger Edit)",
+          "remix": "",
+          "trackId": "12515165"
+        },
+        {
+          "artist": "Zedd",
+          "title": "Shotgun (1, 2, 3 Jump Acappella)",
+          "remix": "",
+          "trackId": "1152178"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd",
+      "title": "Shotgun (1, 2, 3 Jump Acappella)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "1152178",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 2390,
+      "mediaIds": {
+        "spotify": "68586",
+        "youtube": "126882",
+        "soundcloud": "68586",
+        "appleMusic": "68586"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd",
+          "title": "Shotgun (1, 2, 3 Jump Acappella)",
+          "remix": "",
+          "trackId": "1152178"
+        },
+        {
+          "artist": "I Am Legion",
+          "title": "Choosing For You (Nightwatch Remix)",
+          "remix": "",
+          "trackId": "1152167"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "I Am Legion",
+      "title": "Choosing For You (Nightwatch Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1152167",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 2392,
+      "mediaIds": {
+        "spotify": "162655",
+        "youtube": "162655",
+        "soundcloud": "162655",
+        "appleMusic": "162655"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Cash Cash ft. Julia Michaels",
+      "title": "Surrender (Tritonal Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1152168",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2430,
+      "mediaIds": {
+        "spotify": "217358",
+        "youtube": "217358",
+        "soundcloud": "217358",
+        "appleMusic": "217358"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Firebeatz",
+      "title": "Bazooka",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1152169",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2657,
+      "mediaIds": {
+        "spotify": "189504",
+        "youtube": "189504",
+        "soundcloud": "189504",
+        "appleMusic": "189504"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Tritonal ft. Jonathan Mendelsohn",
+      "title": "Satellite",
+      "remix": "",
+      "label": "ENHANCED",
+      "trackId": "1152170",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2845,
+      "mediaIds": {
+        "spotify": "173210",
+        "youtube": "173210",
+        "soundcloud": "173210",
+        "appleMusic": "173210"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Sander Van Doorn & Martin Garrix & DVBBS & Aleesia vs. Steve Aoki & Tommy Trash",
+      "title": "Gold Skies Ladi Dadi (Tritonal Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "1152171",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3017,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Thomas Newson & Futuristic Polar Bears",
+      "title": "Taurus",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1152172",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3197,
+      "mediaIds": {
+        "spotify": "220667",
+        "youtube": "220667",
+        "soundcloud": "220667",
+        "appleMusic": "220667"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Tritonal & Paris Blohm ft. Sterling Fox",
+      "title": "Colors",
+      "remix": "",
+      "label": "PROTOCOL",
+      "trackId": "1152181",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3363,
+      "mediaIds": {
+        "spotify": "157677",
+        "youtube": "157677",
+        "soundcloud": "157677",
+        "appleMusic": "157677"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "234685",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/176130833"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "234527",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=a4cYXdHiMAg"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "235100",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/FreeLivesets"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "234712",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/thebesthouse"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "235026",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "235026",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:49:28.695Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,181 @@
+{
+  "tlId": "113t0221",
+  "dj": "Cloonee & Marco Carola",
+  "stage": "EDC Mexico",
+  "date": "2025-02-22",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/113t0221/cloonee-marco-carola-neongarden-edc-mexico-2025-02-22.html",
+  "djs": [
+    {
+      "name": "Cloonee",
+      "slug": "cloonee"
+    },
+    {
+      "name": "Marco Carola",
+      "slug": "marcocarola"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Wakyin ft. Carlos Vives",
+      "title": "Beso (Fruta Fresca) (MichaelBM Remix)",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "11796899",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 27,
+      "mediaIds": {
+        "spotify": "1001049",
+        "youtube": "1001049",
+        "soundcloud": "1001049",
+        "appleMusic": "1001049"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "11796900",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 363,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Angel Heredia & Javi Galan",
+      "title": "Feel Good",
+      "remix": "",
+      "label": "KOBBOK",
+      "trackId": "11796901",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 570,
+      "mediaIds": {
+        "spotify": "1073180",
+        "youtube": "1073180",
+        "soundcloud": "1073180",
+        "appleMusic": "1073180"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "FLOWFAT",
+      "title": "Notik",
+      "remix": "",
+      "label": "",
+      "trackId": "11796902",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1120471",
+        "youtube": "1120471",
+        "soundcloud": "1120471"
+      },
+      "blendGroup": [
+        {
+          "artist": "FLOWFAT",
+          "title": "Notik",
+          "remix": "",
+          "trackId": "11796902"
+        },
+        {
+          "artist": "Cloonee",
+          "title": "Sippin' Yak",
+          "remix": "(Acappella)",
+          "trackId": "11796903"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cloonee",
+      "title": "Sippin' Yak",
+      "remix": "(Acappella)",
+      "label": "HELLBENT",
+      "trackId": "11796903",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "980898",
+        "youtube": "980898",
+        "soundcloud": "980898",
+        "appleMusic": "980898"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Disco Service & Edris Omar",
+      "title": "Up The Jam",
+      "remix": "",
+      "label": "NORTH OF NEPTUNE",
+      "trackId": "11796904",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1046523",
+        "youtube": "1046523",
+        "soundcloud": "1046523",
+        "appleMusic": "1046523"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Discip",
+      "title": "The Way I Like It",
+      "remix": "",
+      "label": "TAKE NOTES",
+      "trackId": "12736903",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1056852",
+        "youtube": "1056852",
+        "soundcloud": "1056852",
+        "appleMusic": "1056852"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Bad Bunny",
+      "title": "DtMF (Vikko Remix)",
+      "remix": "",
+      "label": "RIMAS",
+      "trackId": "12736904",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1089398"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4644648",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=W_uVX6Nh2mo"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:06:36.784Z",
+  "scrapeVersion": 2
+}

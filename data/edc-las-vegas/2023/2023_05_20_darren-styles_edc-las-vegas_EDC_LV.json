@@ -1,0 +1,705 @@
+{
+  "tlId": "13tpddrt",
+  "dj": "Darren Styles",
+  "stage": "EDC Las Vegas",
+  "date": "2023-05-20",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/13tpddrt/darren-styles-wasteland-edc-las-vegas-united-states-2023-05-20.html",
+  "djs": [
+    {
+      "name": "Darren Styles",
+      "slug": "darrenstyles"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Mauro Picotto",
+      "title": "Lizard (Darren Styles & Stonebank Remix / 2023 Edit)",
+      "remix": "",
+      "label": "NUKLEUZ",
+      "trackId": "9073690",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 65,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Mauro Picotto",
+          "title": "Lizard (Darren Styles & Stonebank Remix / 2023 Edit)",
+          "remix": "",
+          "trackId": "9073690"
+        },
+        {
+          "artist": "Rooler & Sickmode",
+          "title": "TOO HOT (Darren Styles Edit)",
+          "remix": "",
+          "trackId": "9073691"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rooler & Sickmode",
+      "title": "TOO HOT (Darren Styles Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9073691",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 93,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Rooler & Sickmode",
+          "title": "TOO HOT (Darren Styles Edit)",
+          "remix": "",
+          "trackId": "9073691"
+        },
+        {
+          "artist": "Dougal & Gammer",
+          "title": "Blow This",
+          "remix": "",
+          "trackId": "9073692"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dougal & Gammer",
+      "title": "Blow This",
+      "remix": "",
+      "label": "WELCOME",
+      "trackId": "9073692",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 176,
+      "mediaIds": {
+        "spotify": "453108",
+        "youtube": "453108",
+        "soundcloud": "453108",
+        "appleMusic": "453108"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Spyro",
+      "title": "Mash Up Da Place",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9073693",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 202,
+      "mediaIds": {
+        "soundcloud": "498366"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Ian Van Dahl ft. Marsha",
+      "title": "Castles In The Sky (Hixxy Remix)",
+      "remix": "",
+      "label": "A&S",
+      "trackId": "9073694",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 299,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Ian Van Dahl ft. Marsha",
+          "title": "Castles In The Sky (Hixxy Remix)",
+          "remix": "",
+          "trackId": "9073694"
+        },
+        {
+          "artist": "TNT",
+          "title": "Boom Boom Boom",
+          "remix": "",
+          "trackId": "9073695"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TNT",
+      "title": "Boom Boom Boom",
+      "remix": "",
+      "label": "DIRTY WORKZ",
+      "trackId": "9073695",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 357,
+      "mediaIds": {
+        "spotify": "872948",
+        "youtube": "872948",
+        "soundcloud": "872948",
+        "appleMusic": "872948"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Ultrabeat vs. Darren Styles",
+      "title": "Discolights (Darren Styles VIP)",
+      "remix": "",
+      "label": "XPLODED",
+      "trackId": "9073696",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 408,
+      "mediaIds": {
+        "spotify": "894456",
+        "soundcloud": "894456",
+        "appleMusic": "894456"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Rooler",
+      "title": "MOVE 2 DA BEAT",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "9073697",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 526,
+      "mediaIds": {
+        "spotify": "806696",
+        "youtube": "806696",
+        "soundcloud": "806696",
+        "appleMusic": "806696"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Toneshifterz & Darren Styles",
+      "title": "Clarity",
+      "remix": "",
+      "label": "I AM HARDSTYLE",
+      "trackId": "9073698",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 616,
+      "mediaIds": {
+        "spotify": "883584",
+        "youtube": "883584",
+        "soundcloud": "883584",
+        "appleMusic": "883584"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "DVBBS & BORGEOUS",
+      "title": "Tsunami (Jay Cosmic Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9073699",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 722,
+      "mediaIds": {
+        "youtube": "172300",
+        "soundcloud": "172300",
+        "appleMusic": "172300"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Darren Styles ft. Diandra Faye",
+      "title": "Rave Into The Night",
+      "remix": "",
+      "label": "SINPHONY (SPINNIN')",
+      "trackId": "9073700",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 795,
+      "mediaIds": {
+        "spotify": "931952",
+        "youtube": "931952",
+        "soundcloud": "931952",
+        "appleMusic": "931952"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Darren Styles",
+      "title": "Us Against The World",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "9073701",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 950,
+      "mediaIds": {
+        "spotify": "353022",
+        "youtube": "353022",
+        "soundcloud": "353022",
+        "appleMusic": "353022"
+      },
+      "blendGroup": [
+        {
+          "artist": "Darren Styles",
+          "title": "Us Against The World",
+          "remix": "",
+          "trackId": "9073701"
+        },
+        {
+          "artist": "Calvin Harris & Ellie Goulding",
+          "title": "Miracle",
+          "remix": "",
+          "trackId": "9073702"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris & Ellie Goulding",
+      "title": "Miracle",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "9073702",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "873098",
+        "youtube": "873098",
+        "soundcloud": "873098",
+        "appleMusic": "873098"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Act of Rage & Nolz",
+      "title": "Road Rage",
+      "remix": "",
+      "label": "MINUS IS MORE",
+      "trackId": "9073703",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1163,
+      "mediaIds": {
+        "spotify": "740710",
+        "youtube": "740710",
+        "soundcloud": "740710",
+        "appleMusic": "740710"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Dimitri Vegas & Like Mike & Darren Styles",
+      "title": "Better Off Alone",
+      "remix": "",
+      "label": "SMASH CLASSICS",
+      "trackId": "9073704",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1267,
+      "mediaIds": {
+        "youtube": "912206"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Darren Styles & TNT",
+      "title": "Wonder",
+      "remix": "",
+      "label": "DIRTY WORKZ",
+      "trackId": "9073705",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1443,
+      "mediaIds": {
+        "spotify": "603579",
+        "youtube": "603579",
+        "soundcloud": "603579",
+        "appleMusic": "603579"
+      },
+      "blendGroup": [
+        {
+          "artist": "Darren Styles & TNT",
+          "title": "Wonder",
+          "remix": "",
+          "trackId": "9073705"
+        },
+        {
+          "artist": "Brennan Heart & Ben Nicky ft. Maikki",
+          "title": "Make Some Noise",
+          "remix": "",
+          "trackId": "9073706"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Brennan Heart & Ben Nicky ft. Maikki",
+      "title": "Make Some Noise",
+      "remix": "",
+      "label": "I AM HARDSTYLE",
+      "trackId": "9073706",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1508,
+      "mediaIds": {
+        "spotify": "838851",
+        "youtube": "838851",
+        "soundcloud": "838851",
+        "appleMusic": "838851"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Darren Styles",
+      "title": "Satellite (Tweekacore Remix)",
+      "remix": "",
+      "label": "ELECTRIC FOX (DIRTY WORKZ)",
+      "trackId": "9073707",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1591,
+      "mediaIds": {
+        "spotify": "897968",
+        "youtube": "897968",
+        "soundcloud": "897968",
+        "appleMusic": "897968"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Darren Styles & TNT",
+      "title": "DLMD",
+      "remix": "",
+      "label": "ELECTRIC FOX (DIRTY WORKZ)",
+      "trackId": "9073708",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1767,
+      "mediaIds": {
+        "spotify": "558757",
+        "youtube": "558757",
+        "soundcloud": "558757",
+        "appleMusic": "558757"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Styles & Breeze",
+      "title": "Electric (Darren Styles VIP)",
+      "remix": "",
+      "label": "RAVER BABY",
+      "trackId": "9073709",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1849,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Styles & Breeze",
+          "title": "Electric (Darren Styles VIP)",
+          "remix": "",
+          "trackId": "9073709"
+        },
+        {
+          "artist": "Darren Styles & TNT",
+          "title": "Hard Beat",
+          "remix": "",
+          "trackId": "9073710"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Darren Styles & TNT",
+      "title": "Hard Beat",
+      "remix": "",
+      "label": "DIRTY WORKZ",
+      "trackId": "9073710",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1876,
+      "mediaIds": {
+        "spotify": "941618",
+        "youtube": "941618",
+        "soundcloud": "941618",
+        "appleMusic": "941618"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "MK & Dom Dolla",
+      "title": "Rhyme Dust (Dimension Remix / Darren Styles & GRVITY 4/4 Edit)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "9073711",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1950,
+      "mediaIds": {
+        "youtube": "937724"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Darren Styles",
+      "title": "Quiver (Darren Styles VIP)",
+      "remix": "",
+      "label": "XPLODED",
+      "trackId": "9073712",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2099,
+      "mediaIds": {
+        "youtube": "931953",
+        "soundcloud": "931953"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "ATB & iiO",
+      "title": "Till I Come x Rapture (Overdrive Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "9073713",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2262,
+      "mediaIds": {
+        "soundcloud": "629317"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Darren Styles",
+      "title": "Bad Man Sound",
+      "remix": "",
+      "label": "BE GOOD",
+      "trackId": "9073714",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2388,
+      "mediaIds": {
+        "spotify": "931954",
+        "youtube": "931954",
+        "soundcloud": "931954",
+        "appleMusic": "931954"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Manian",
+      "title": "Hold Me Tonight (Darren Styles Remix)",
+      "remix": "",
+      "label": "ZOO DIGITAL (ZOOLAND)",
+      "trackId": "9073715",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2530,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Manian",
+          "title": "Hold Me Tonight (Darren Styles Remix)",
+          "remix": "",
+          "trackId": "9073715"
+        },
+        {
+          "artist": "Darren Styles & TNT",
+          "title": "Got The Music",
+          "remix": "",
+          "trackId": "9073716"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Darren Styles & TNT",
+      "title": "Got The Music",
+      "remix": "",
+      "label": "DIRTY WORKZ",
+      "trackId": "9073716",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 2605,
+      "mediaIds": {
+        "spotify": "781121",
+        "youtube": "781121",
+        "soundcloud": "781121",
+        "appleMusic": "781121"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Jengi",
+      "title": "Bel Mercy (Darren Styles Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "9073717",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2733,
+      "mediaIds": {
+        "youtube": "884972"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Spyro",
+      "title": "Short Dick Man (Sickmode Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "9073718",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2792,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Oliver Tree & Robin Schulz",
+      "title": "Miss You (Darren Styles & Dimitri Vegas & Like Mike Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "9073719",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2878,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Darren Styles & Hixxy ft. Jelle Van Dael",
+      "title": "I Follow Rivers (Deep Sea Baby)",
+      "remix": "",
+      "label": "XPLODED",
+      "trackId": "9073720",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3032,
+      "mediaIds": {
+        "spotify": "817960",
+        "youtube": "817960",
+        "soundcloud": "817960",
+        "appleMusic": "817960"
+      },
+      "blendGroup": [
+        {
+          "artist": "Darren Styles & Hixxy ft. Jelle Van Dael",
+          "title": "I Follow Rivers (Deep Sea Baby)",
+          "remix": "",
+          "trackId": "9073720"
+        },
+        {
+          "artist": "Rooler & Sickmode",
+          "title": "LET THE BASS KICK",
+          "remix": "",
+          "trackId": "9073721"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rooler & Sickmode",
+      "title": "LET THE BASS KICK",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "9073721",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 3125,
+      "mediaIds": {
+        "spotify": "754871",
+        "youtube": "754871",
+        "soundcloud": "754871",
+        "appleMusic": "754871"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "The Kid LAROI & Justin Bieber",
+      "title": "STAY (Colin Hennerz Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "9073722",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3143,
+      "mediaIds": {
+        "spotify": "713670",
+        "youtube": "713670",
+        "soundcloud": "713670"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Darren Styles & Furyan vs. Above & BEYOND & Richard Bedford",
+      "title": "Switch & Moon (Darren Styles & Furyan Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9073723",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3220,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Darren Styles & Chris Unknown & Dougal & Gammer",
+      "title": "Down Like That vs. Party Don't Stop (Darren Styles Mashup)",
+      "remix": "",
+      "label": "MONSTERCAT/TOGETHER WE RISE",
+      "trackId": "9073724",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3439,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "The Prophet",
+      "title": "Wanna Play? (Darren Styles Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9073727",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3498,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3410333",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=pJXtVJVBVYw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:13:18.749Z",
+  "scrapeVersion": 2
+}

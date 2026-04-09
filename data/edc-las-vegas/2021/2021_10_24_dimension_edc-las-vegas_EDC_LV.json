@@ -1,0 +1,737 @@
+{
+  "tlId": "2hhbd78t",
+  "dj": "Dimension",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-24",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/2hhbd78t/dimension-basspod-edc-las-vegas-united-states-2021-10-24.html",
+  "djs": [
+    {
+      "name": "Dimension",
+      "slug": "dimension"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Dimension",
+      "title": "Organ",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6898415",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "666395",
+        "youtube": "666395",
+        "soundcloud": "666395",
+        "appleMusic": "666395"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Sub Focus",
+      "title": "Solar System",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "6898416",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "511201",
+        "youtube": "511201",
+        "soundcloud": "511201",
+        "appleMusic": "511201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Dimension ft. Cameron Hayes",
+      "title": "Devotion",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6898417",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "493221",
+        "youtube": "493221",
+        "soundcloud": "493221",
+        "appleMusic": "493221"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Sub Focus",
+      "title": "Rock It (Wilkinson Remix)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6898418",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "708442",
+        "youtube": "708442",
+        "soundcloud": "708442",
+        "appleMusic": "708442"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Wilkinson",
+      "title": "Take You Higher",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6898419",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "119343",
+        "youtube": "119343",
+        "soundcloud": "119343",
+        "appleMusic": "119343"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wilkinson",
+          "title": "Take You Higher",
+          "remix": "",
+          "trackId": "6898419"
+        },
+        {
+          "artist": "Culture Shock ft. Lili Caseley",
+          "title": "Renaissance",
+          "remix": "",
+          "trackId": "6902315"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Culture Shock ft. Lili Caseley",
+      "title": "Renaissance",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6902315",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 430,
+      "mediaIds": {
+        "spotify": "490003",
+        "youtube": "490003",
+        "soundcloud": "490003",
+        "appleMusic": "490003"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Culture Shock",
+      "title": "Discotheque",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6898420",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 510,
+      "mediaIds": {
+        "spotify": "680700",
+        "youtube": "680700",
+        "soundcloud": "680700",
+        "appleMusic": "680700"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Wilkinson & Sub Focus ft. Tom Cane",
+      "title": "Illuminate",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "6898421",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "499234",
+        "youtube": "499234",
+        "soundcloud": "499234",
+        "appleMusic": "499234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Dimension",
+      "title": "Love To Me",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "6898422",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "214279",
+        "youtube": "214279",
+        "soundcloud": "214279",
+        "appleMusic": "214279"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Dimension ft. Matt Wilson",
+      "title": "Generator",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6898423",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "353001",
+        "youtube": "353001",
+        "soundcloud": "353001",
+        "appleMusic": "353001"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Kanine",
+      "title": "One",
+      "remix": "",
+      "label": "UNLEASHED",
+      "trackId": "6898424",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 900,
+      "mediaIds": {
+        "spotify": "673761",
+        "youtube": "673761",
+        "soundcloud": "673761",
+        "appleMusic": "673761"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Dimension",
+      "title": "Techno",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6902316",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 940,
+      "mediaIds": {
+        "spotify": "409909",
+        "youtube": "409909",
+        "soundcloud": "409909",
+        "appleMusic": "409909"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Sub Focus",
+      "title": "Timewarp (Dimension Remix)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6898425",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "704722",
+        "youtube": "704722",
+        "soundcloud": "704722",
+        "appleMusic": "704722"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Dimension ft. Arctic Lake",
+      "title": "Plus Minus",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6898426",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "659083",
+        "youtube": "659083",
+        "soundcloud": "659083",
+        "appleMusic": "659083"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimension ft. Arctic Lake",
+          "title": "Plus Minus",
+          "remix": "",
+          "trackId": "6898426"
+        },
+        {
+          "artist": "Dimension",
+          "title": "Whip Slap",
+          "remix": "",
+          "trackId": "6898460"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimension",
+      "title": "Whip Slap",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "6898460",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 1254,
+      "mediaIds": {
+        "spotify": "237726",
+        "youtube": "237726",
+        "soundcloud": "237726",
+        "appleMusic": "237726"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Kanine",
+      "title": "Want You",
+      "remix": "",
+      "label": "CRUCAST",
+      "trackId": "6898427",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1320,
+      "mediaIds": {
+        "spotify": "508287",
+        "youtube": "508287",
+        "soundcloud": "508287",
+        "appleMusic": "508287"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Shouse",
+      "title": "Love Tonight (Netsky & Sub Focus Remix)",
+      "remix": "",
+      "label": "HELL BEACH",
+      "trackId": "6898428",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "782519",
+        "soundcloud": "782519",
+        "appleMusic": "782519"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Dimension",
+      "title": "If You Want To",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6898429",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "514864",
+        "youtube": "514864",
+        "soundcloud": "514864",
+        "appleMusic": "514864"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Dimension ft. Knytro & Takura",
+      "title": "Psycho",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6898430",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "666300",
+        "youtube": "666300",
+        "soundcloud": "666300",
+        "appleMusic": "666300"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Dimension ft. MC GQ",
+      "title": "Danger",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6898431",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "659084",
+        "youtube": "659084",
+        "soundcloud": "659084",
+        "appleMusic": "659084"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Dimension",
+      "title": "Offender",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6898432",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "639015",
+        "youtube": "639015",
+        "soundcloud": "639015",
+        "appleMusic": "639015"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimension",
+          "title": "Offender",
+          "remix": "",
+          "trackId": "6898432"
+        },
+        {
+          "artist": "Grafix",
+          "title": "Acid Generation",
+          "remix": "",
+          "trackId": "6898461"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Grafix",
+      "title": "Acid Generation",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "6898461",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "495826",
+        "youtube": "495826",
+        "soundcloud": "495826",
+        "appleMusic": "495826"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Rusko ft. Amber Coffman",
+      "title": "Hold On (Sub Focus Remix / REAPER Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "6898433",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "572712",
+        "soundcloud": "572712"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Dimension ft. Sharlene Hector",
+      "title": "Saviour",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6898434",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "592435",
+        "youtube": "592435",
+        "soundcloud": "592435",
+        "appleMusic": "592435"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimension ft. Sharlene Hector",
+          "title": "Saviour",
+          "remix": "",
+          "trackId": "6898434"
+        },
+        {
+          "artist": "Flume ft. Vera Blue",
+          "title": "Rushing Back (Ekko & Sidetrack Bootleg)",
+          "remix": "",
+          "trackId": "6898435"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flume ft. Vera Blue",
+      "title": "Rushing Back (Ekko & Sidetrack Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "6898435",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "558891",
+        "soundcloud": "558891"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Dimension ft. TS Graye",
+      "title": "Remedy",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6898436",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "627621",
+        "youtube": "627621",
+        "soundcloud": "627621",
+        "appleMusic": "627621"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Sub Focus",
+      "title": "Siren",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "6898437",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "512171",
+        "youtube": "512171",
+        "soundcloud": "512171",
+        "appleMusic": "512171"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Axwell",
+      "title": "Nobody Else (1991 Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "6898438",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "494540",
+        "youtube": "494540",
+        "soundcloud": "494540",
+        "appleMusic": "494540"
+      },
+      "blendGroup": [
+        {
+          "artist": "Axwell",
+          "title": "Nobody Else (1991 Remix)",
+          "remix": "",
+          "trackId": "6898438"
+        },
+        {
+          "artist": "Wilkinson & Solardo & Eli Brown",
+          "title": "XTC (Remix)",
+          "remix": "",
+          "trackId": "6898462"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wilkinson & Solardo & Eli Brown",
+      "title": "XTC (Remix)",
+      "remix": "",
+      "label": "SLEEPLESS MUSIC",
+      "trackId": "6898462",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "671298",
+        "youtube": "671298",
+        "soundcloud": "671298",
+        "appleMusic": "671298"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "RL Grime",
+      "title": "Core (Flite Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "6898439",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "522159",
+        "soundcloud": "522159"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Prospa",
+      "title": "WANT NEED LOVE (Dimension Remix)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "6898440",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "723760",
+        "youtube": "723760",
+        "soundcloud": "723760",
+        "appleMusic": "723760"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Sub Focus & Dimension",
+      "title": "Desire",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "6898441",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "442447",
+        "youtube": "442447",
+        "soundcloud": "442447",
+        "appleMusic": "442447"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Dimension ft. Clementine Douglas",
+      "title": "Sensory Division",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6898442",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "646993",
+        "youtube": "646993",
+        "soundcloud": "646993",
+        "appleMusic": "646993"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Sub Focus",
+      "title": "X-Ray (Metrik Remix)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6898443",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "394493",
+        "youtube": "394493",
+        "soundcloud": "394493",
+        "appleMusic": "394493"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Dimension & Culture Shock ft. Billy Lockett",
+      "title": "Love To Give",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6898444",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "561985",
+        "youtube": "561985",
+        "soundcloud": "561985",
+        "appleMusic": "561985"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Dimension ft. Poppy Baskcomb",
+      "title": "Alive",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6898445",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "650578",
+        "youtube": "650578",
+        "soundcloud": "650578",
+        "appleMusic": "650578"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2523565",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=AgvQz7kpgT4"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "2523566",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=O2oDGKHma_8"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:16:42.286Z",
+  "scrapeVersion": 2
+}

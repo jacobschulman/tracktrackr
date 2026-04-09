@@ -1,0 +1,222 @@
+{
+  "tlId": "2p3b8kc1",
+  "dj": "Jai Wolf",
+  "stage": "EDC Las Vegas",
+  "date": "2022-05-21",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/2p3b8kc1/jai-wolf-cosmicmeadow-edc-las-vegas-united-states-2022-05-21.html",
+  "djs": [
+    {
+      "name": "Jai Wolf",
+      "slug": "jaiwolf"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Jai Wolf",
+      "title": "Alive (TCTL Tour Intro)",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "7713778",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1028040",
+        "youtube": "1028040",
+        "soundcloud": "1028040",
+        "appleMusic": "1028040"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Jai Wolf",
+      "title": "Telepathy",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "7713779",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "469399",
+        "youtube": "469399",
+        "soundcloud": "469399",
+        "appleMusic": "469399"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Jai Wolf",
+      "title": "Still Sleeping",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "7713780",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "798201",
+        "youtube": "798201",
+        "soundcloud": "798201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7713781",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "ODESZA ft. Zyra",
+      "title": "Say My Name (Jai Wolf Remix)",
+      "remix": "",
+      "label": "COUNTER (NINJA)",
+      "trackId": "7713782",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "236260",
+        "youtube": "236260",
+        "soundcloud": "236260",
+        "appleMusic": "236260"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Jai Wolf ft. JMR",
+      "title": "Gravity",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "7713783",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "389969",
+        "youtube": "389969",
+        "soundcloud": "389969",
+        "appleMusic": "389969"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Jai Wolf",
+      "title": "This Song Reminds Me Of You",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "7713784",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "486166",
+        "youtube": "486166",
+        "soundcloud": "486166",
+        "appleMusic": "486166"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jai Wolf",
+          "title": "This Song Reminds Me Of You",
+          "remix": "",
+          "trackId": "7713784"
+        },
+        {
+          "artist": "Jai Wolf ft. now, now",
+          "title": "Around the World",
+          "remix": "",
+          "trackId": "7713785"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jai Wolf ft. now, now",
+      "title": "Around the World",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "7713785",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "798202",
+        "youtube": "798202",
+        "soundcloud": "798202",
+        "appleMusic": "798202"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Jai Wolf ft. Chelsea Jade",
+      "title": "Lost",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "7713786",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "451223",
+        "youtube": "451223",
+        "soundcloud": "451223",
+        "appleMusic": "451223"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Jai Wolf ft. Wrabel",
+      "title": "Moon Rider",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "7713787",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "548637",
+        "youtube": "548637",
+        "soundcloud": "548637",
+        "appleMusic": "548637"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2820276",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=Eg7_pfsIR5Q"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "2815488",
+      "idSource": "40",
+      "url": "https://hearthis.at/6771852/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:58:39.773Z",
+  "scrapeVersion": 2
+}

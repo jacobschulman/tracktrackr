@@ -1,0 +1,144 @@
+{
+  "tlId": "1u0clwct",
+  "dj": "Solarstone",
+  "stage": "EDC Mexico",
+  "date": "2016-02-28",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/1u0clwct/solarstone-circuitgrounds-edc-mexico-2016-02-28.html",
+  "djs": [
+    {
+      "name": "Solarstone",
+      "slug": "solarstone"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Solarstone",
+      "title": "4Ever (Pure Retouch)",
+      "remix": "",
+      "label": "PURE TRANCE (BLACK HOLE)",
+      "trackId": "5889884",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "176537",
+        "youtube": "176537"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Pet Shop Boys",
+      "title": "Inner Sanctum",
+      "remix": "",
+      "label": "X2",
+      "trackId": "5889885",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "308686",
+        "appleMusic": "308686"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pet Shop Boys",
+          "title": "Inner Sanctum",
+          "remix": "",
+          "trackId": "5889885"
+        },
+        {
+          "artist": "Ciaran McAuley",
+          "title": "Maria",
+          "remix": "",
+          "trackId": "5889886"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ciaran McAuley",
+      "title": "Maria",
+      "remix": "",
+      "label": "PURE TRANCE (BLACK HOLE)",
+      "trackId": "5889886",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "289873",
+        "youtube": "289873",
+        "appleMusic": "289873"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Solarstone with Aly & Fila",
+      "title": "Fireisland (Aly & Fila Uplifting Mix)",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "5889887",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "90042",
+        "youtube": "90042",
+        "soundcloud": "90042",
+        "appleMusic": "90042"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Lemon",
+      "title": "We Can't Fly (Solarstone Pure Mix)",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "5889888",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "89477",
+        "youtube": "89477",
+        "soundcloud": "89477",
+        "appleMusic": "89477"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Armin van Buuren ft. Emma Hewitt",
+      "title": "Forever Is Ours (Solarstone Pure Mix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5889889",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "156199",
+        "youtube": "156199",
+        "soundcloud": "156199"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2081468",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=hrsX7GmJmps"
+    }
+  ],
+  "scrapedAt": "2026-04-08T18:48:42.964Z",
+  "scrapeVersion": 2
+}

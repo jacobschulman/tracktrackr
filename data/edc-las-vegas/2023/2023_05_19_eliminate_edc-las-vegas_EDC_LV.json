@@ -1,0 +1,1577 @@
+{
+  "tlId": "25bjkl3t",
+  "dj": "Eliminate",
+  "stage": "EDC Las Vegas",
+  "date": "2023-05-19",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/25bjkl3t/eliminate-basspod-edc-las-vegas-united-states-2023-05-19.html",
+  "djs": [
+    {
+      "name": "Eliminate",
+      "slug": "eliminate"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Eliminate",
+      "title": "BREAKSH!T",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9046809",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "591133",
+        "youtube": "591133",
+        "soundcloud": "591133",
+        "appleMusic": "591133"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Eliminate",
+      "title": "Sinkhole (VIP)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9046810",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 90,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Eliminate",
+          "title": "Sinkhole (VIP)",
+          "remix": "",
+          "trackId": "9046810"
+        },
+        {
+          "artist": "Benny Benassi pres. The Biz",
+          "title": "Satisfaction (Eliminate Edit)",
+          "remix": "",
+          "trackId": "9046811"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Benny Benassi pres. The Biz",
+      "title": "Satisfaction (Eliminate Edit)",
+      "remix": "",
+      "label": "D:VISION",
+      "trackId": "9046811",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 160,
+      "mediaIds": {
+        "spotify": "2029",
+        "youtube": "2029",
+        "soundcloud": "929593",
+        "appleMusic": "2029"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "100 Gecs",
+      "title": "Dumbest Girl Alive",
+      "remix": "",
+      "label": "DOG SHOW",
+      "trackId": "9046812",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 230,
+      "mediaIds": {
+        "spotify": "878953",
+        "youtube": "878953",
+        "soundcloud": "878953",
+        "appleMusic": "878953"
+      },
+      "blendGroup": [
+        {
+          "artist": "100 Gecs",
+          "title": "Dumbest Girl Alive",
+          "remix": "",
+          "trackId": "9046812"
+        },
+        {
+          "artist": "Resurge",
+          "title": "Ravestabdub",
+          "remix": "",
+          "trackId": "9046813"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Resurge",
+      "title": "Ravestabdub",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "9046813",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 310,
+      "mediaIds": {
+        "spotify": "892334",
+        "soundcloud": "892334",
+        "appleMusic": "892334"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Eliminate",
+      "title": "MOREPWR",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "9046814",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 330,
+      "mediaIds": {
+        "spotify": "969015",
+        "youtube": "969015",
+        "soundcloud": "969015",
+        "appleMusic": "969015"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Skrillex & Fred again.. & Flowdan",
+      "title": "Rumble (Eliminate Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9046816",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 570,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Fred again.. & Flowdan",
+          "title": "Rumble (Eliminate Remix)",
+          "remix": "",
+          "trackId": "9046816"
+        },
+        {
+          "artist": "Huey",
+          "title": "Pop, Lock And Drop It",
+          "remix": "(Acappella)",
+          "trackId": "9046817"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Huey",
+      "title": "Pop, Lock And Drop It",
+      "remix": "(Acappella)",
+      "label": "JIVE",
+      "trackId": "9046817",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "94954",
+        "youtube": "94954",
+        "soundcloud": "94954",
+        "appleMusic": "94954"
+      },
+      "blendGroup": [
+        {
+          "artist": "Huey",
+          "title": "Pop, Lock And Drop It",
+          "remix": "(Acappella)",
+          "trackId": "9046817"
+        },
+        {
+          "artist": "Justin Timberlake ft. Timbaland",
+          "title": "SexyBack",
+          "remix": "(Acappella)",
+          "trackId": "9046818"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justin Timberlake ft. Timbaland",
+      "title": "SexyBack",
+      "remix": "(Acappella)",
+      "label": "MOSLEY (INTERSCOPE)",
+      "trackId": "9046818",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1013",
+        "youtube": "1013",
+        "soundcloud": "1013",
+        "appleMusic": "1013"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Eliminate",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9046819",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 640,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Eliminate",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9046819"
+        },
+        {
+          "artist": "Lil Jon ft. Three 6 Mafia",
+          "title": "Act A Fool (Acappella)",
+          "remix": "",
+          "trackId": "9046820"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lil Jon ft. Three 6 Mafia",
+      "title": "Act A Fool (Acappella)",
+      "remix": "",
+      "label": "TVT",
+      "trackId": "9046820",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "292579",
+        "youtube": "292579",
+        "soundcloud": "292579",
+        "appleMusic": "292579"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Eliminate",
+      "title": "heart.EXE",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "9046821",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 730,
+      "mediaIds": {
+        "spotify": "971117",
+        "youtube": "971117",
+        "soundcloud": "971117"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eliminate",
+          "title": "heart.EXE",
+          "remix": "",
+          "trackId": "9046821"
+        },
+        {
+          "artist": "Subtronics ft. Nevve",
+          "title": "Spacetime (Virtual Riot Remix)",
+          "remix": "",
+          "trackId": "9046822"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Subtronics ft. Nevve",
+      "title": "Spacetime (Virtual Riot Remix)",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "9046822",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "854805",
+        "youtube": "854805",
+        "soundcloud": "854805",
+        "appleMusic": "854805"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9046823",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 900,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Eliminate",
+      "title": "Mutation",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "9046824",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 970,
+      "mediaIds": {
+        "spotify": "878049",
+        "youtube": "878049",
+        "soundcloud": "878049",
+        "appleMusic": "878049"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Oliver Tree & Robin Schulz",
+      "title": "Miss You",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "9046825",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1160,
+      "mediaIds": {
+        "spotify": "837357",
+        "youtube": "837357",
+        "soundcloud": "837357",
+        "appleMusic": "837357"
+      },
+      "blendGroup": [
+        {
+          "artist": "Oliver Tree & Robin Schulz",
+          "title": "Miss You",
+          "remix": "",
+          "trackId": "9046825"
+        },
+        {
+          "artist": "Da Tweekaz ft. HALIENE",
+          "title": "Bring Me To Life",
+          "remix": "",
+          "trackId": "9047302"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Da Tweekaz ft. HALIENE",
+      "title": "Bring Me To Life",
+      "remix": "",
+      "label": "Q-DANCE",
+      "trackId": "9047302",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1191,
+      "mediaIds": {
+        "spotify": "389253",
+        "youtube": "389253",
+        "appleMusic": "389253"
+      },
+      "blendGroup": [
+        {
+          "artist": "Da Tweekaz ft. HALIENE",
+          "title": "Bring Me To Life",
+          "remix": "",
+          "trackId": "9047302"
+        },
+        {
+          "artist": "Eliminate",
+          "title": "Open Your Eyes",
+          "remix": "",
+          "trackId": "9046826"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eliminate",
+      "title": "Open Your Eyes",
+      "remix": "",
+      "label": "NIGHTMODE",
+      "trackId": "9046826",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "799059",
+        "youtube": "799059",
+        "soundcloud": "799059",
+        "appleMusic": "799059"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Eliminate",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9046827",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1270,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Eliminate",
+      "title": "Mind Control",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "9046828",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1360,
+      "mediaIds": {
+        "spotify": "538507",
+        "youtube": "538507",
+        "soundcloud": "538507",
+        "appleMusic": "538507"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eliminate",
+          "title": "Mind Control",
+          "remix": "",
+          "trackId": "9046828"
+        },
+        {
+          "artist": "Rickyxsan",
+          "title": "Poppin'",
+          "remix": "",
+          "trackId": "9046829"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rickyxsan",
+      "title": "Poppin'",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "9046829",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "306331",
+        "youtube": "306331",
+        "soundcloud": "306331",
+        "appleMusic": "306331"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rickyxsan",
+          "title": "Poppin'",
+          "remix": "",
+          "trackId": "9046829"
+        },
+        {
+          "artist": "Edison Cole",
+          "title": "Fight",
+          "remix": "",
+          "trackId": "9046830"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Edison Cole",
+      "title": "Fight",
+      "remix": "",
+      "label": "DISTROKID",
+      "trackId": "9046830",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "824344",
+        "youtube": "824344",
+        "soundcloud": "824344",
+        "appleMusic": "824344"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "NRVE",
+      "title": "PLASMA CUTTER",
+      "remix": "",
+      "label": "HARD TOOTH",
+      "trackId": "9046831",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1465,
+      "mediaIds": {
+        "spotify": "892324",
+        "youtube": "892324",
+        "soundcloud": "892324",
+        "appleMusic": "892324"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Playboi Carti",
+      "title": "Stop Breathing (WINK Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9046832",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1490,
+      "mediaIds": {
+        "youtube": "879337",
+        "soundcloud": "879337"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Eliminate & SMLE",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9046833",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1570,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Eliminate & SMLE",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9046833"
+        },
+        {
+          "artist": "Boombox Cartel",
+          "title": "Máquina",
+          "remix": "",
+          "trackId": "9046935"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Boombox Cartel",
+      "title": "Máquina",
+      "remix": "",
+      "label": "MONTA",
+      "trackId": "9046935",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "564019",
+        "youtube": "564019",
+        "soundcloud": "564019",
+        "appleMusic": "564019"
+      },
+      "blendGroup": [
+        {
+          "artist": "Boombox Cartel",
+          "title": "Máquina",
+          "remix": "",
+          "trackId": "9046935"
+        },
+        {
+          "artist": "The Notorious B.I.G.",
+          "title": "Suicidal Thoughts",
+          "remix": "(Acappella)",
+          "trackId": "9046936"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Notorious B.I.G.",
+      "title": "Suicidal Thoughts",
+      "remix": "(Acappella)",
+      "label": "BAD BOYS (INTERSCOPE)",
+      "trackId": "9046936",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "130485",
+        "youtube": "130485",
+        "appleMusic": "130485"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Resurge",
+      "title": "null",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "9046834",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1620,
+      "mediaIds": {
+        "spotify": "798589",
+        "youtube": "798589",
+        "soundcloud": "798589",
+        "appleMusic": "798589"
+      },
+      "blendGroup": [
+        {
+          "artist": "Resurge",
+          "title": "null",
+          "remix": "",
+          "trackId": "9046834"
+        },
+        {
+          "artist": "DJ Snake & Eptic",
+          "title": "SouthSide",
+          "remix": "(Acappella)",
+          "trackId": "9046835"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Snake & Eptic",
+      "title": "SouthSide",
+      "remix": "(Acappella)",
+      "label": "DJ SNAKE",
+      "trackId": "9046835",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "480201",
+        "youtube": "480201",
+        "soundcloud": "480201",
+        "appleMusic": "480201"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake & Eptic",
+          "title": "SouthSide",
+          "remix": "(Acappella)",
+          "trackId": "9046835"
+        },
+        {
+          "artist": "Soulja Boy Tell 'Em",
+          "title": "Crank That (Soulja Boy) (Acappella)",
+          "remix": "",
+          "trackId": "9046836"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Soulja Boy Tell 'Em",
+      "title": "Crank That (Soulja Boy) (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "9046836",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "158977",
+        "youtube": "207175",
+        "soundcloud": "158977",
+        "appleMusic": "158977"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Eliminate",
+      "title": "Multiplex",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9046837",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1660,
+      "mediaIds": {
+        "spotify": "627945",
+        "youtube": "627945",
+        "soundcloud": "627945",
+        "appleMusic": "627945"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eliminate",
+          "title": "Multiplex",
+          "remix": "",
+          "trackId": "9046837"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9047303"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9047303",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1720,
+      "mediaIds": null
+    },
+    {
+      "pos": "18",
+      "artist": "DJ Khaled ft. Ludacris & Rick Ross & T-Pain & Snoop Dogg",
+      "title": "All I Do Is Win",
+      "remix": "",
+      "label": "E1 MUSIC",
+      "trackId": "9046838",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1750,
+      "mediaIds": {
+        "spotify": "52598",
+        "youtube": "52598",
+        "soundcloud": "52598",
+        "appleMusic": "52598"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Khaled ft. Ludacris & Rick Ross & T-Pain & Snoop Dogg",
+          "title": "All I Do Is Win",
+          "remix": "",
+          "trackId": "9046838"
+        },
+        {
+          "artist": "RIOT",
+          "title": "Streets",
+          "remix": "",
+          "trackId": "9046839"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RIOT",
+      "title": "Streets",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "9046839",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "882391",
+        "youtube": "882391",
+        "soundcloud": "882391",
+        "appleMusic": "882391"
+      },
+      "blendGroup": [
+        {
+          "artist": "RIOT",
+          "title": "Streets",
+          "remix": "",
+          "trackId": "9046839"
+        },
+        {
+          "artist": "Lil Pump & Smokepurpp",
+          "title": "Tesla",
+          "remix": "(Acappella)",
+          "trackId": "9047300"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lil Pump & Smokepurpp",
+      "title": "Tesla",
+      "remix": "(Acappella)",
+      "label": "SELF RELEASED",
+      "trackId": "9047300",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 1774,
+      "mediaIds": {
+        "spotify": "892493",
+        "youtube": "892493",
+        "appleMusic": "892493"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Knife Party ft. MistaJam",
+      "title": "Sleaze",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "9047301",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1855,
+      "mediaIds": {
+        "spotify": "42143",
+        "youtube": "42143",
+        "soundcloud": "42143",
+        "appleMusic": "42143"
+      },
+      "blendGroup": [
+        {
+          "artist": "Knife Party ft. MistaJam",
+          "title": "Sleaze",
+          "remix": "",
+          "trackId": "9047301"
+        },
+        {
+          "artist": "Mötley Crüe",
+          "title": "Kickstart My Heart",
+          "remix": "",
+          "trackId": "9046840"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mötley Crüe",
+      "title": "Kickstart My Heart",
+      "remix": "",
+      "label": "ELEKTRA",
+      "trackId": "9046840",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 1900,
+      "mediaIds": {
+        "spotify": "878160",
+        "youtube": "878160",
+        "appleMusic": "878160"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "PhaseOne & HelaSex",
+      "title": "Drop Bears",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9046841",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1980,
+      "mediaIds": {
+        "spotify": "731949",
+        "youtube": "731949",
+        "soundcloud": "731949",
+        "appleMusic": "731949"
+      },
+      "blendGroup": [
+        {
+          "artist": "PhaseOne & HelaSex",
+          "title": "Drop Bears",
+          "remix": "",
+          "trackId": "9046841"
+        },
+        {
+          "artist": "Skrillex & Mr. Oizo ft. Missy Elliott",
+          "title": "RATATA",
+          "remix": "",
+          "trackId": "9046842"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Mr. Oizo ft. Missy Elliott",
+      "title": "RATATA",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "9046842",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "615904",
+        "youtube": "615904",
+        "soundcloud": "615904",
+        "appleMusic": "615904"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Mr. Oizo ft. Missy Elliott",
+          "title": "RATATA",
+          "remix": "",
+          "trackId": "9046842"
+        },
+        {
+          "artist": "RIOT",
+          "title": "Back To Back",
+          "remix": "",
+          "trackId": "9054889"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RIOT",
+      "title": "Back To Back",
+      "remix": "",
+      "label": "GUD VIBRATIONS",
+      "trackId": "9054889",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 1980,
+      "mediaIds": {
+        "spotify": "897065",
+        "youtube": "897065",
+        "soundcloud": "897065",
+        "appleMusic": "897065"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Valentino Khan & Eptic ft. Lil Jon",
+      "title": "Bloodbath",
+      "remix": "",
+      "label": "VK MUSIC",
+      "trackId": "9046843",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2060,
+      "mediaIds": {
+        "spotify": "654326",
+        "youtube": "654326",
+        "soundcloud": "654326",
+        "appleMusic": "654326"
+      },
+      "blendGroup": [
+        {
+          "artist": "Valentino Khan & Eptic ft. Lil Jon",
+          "title": "Bloodbath",
+          "remix": "",
+          "trackId": "9046843"
+        },
+        {
+          "artist": "Skrillex ft. Foreign Beggars",
+          "title": "Still Gettin It (Bizo Flip)",
+          "remix": "",
+          "trackId": "9046844"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex ft. Foreign Beggars",
+      "title": "Still Gettin It (Bizo Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "9046844",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "875090",
+        "soundcloud": "875090"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Valentino Khan",
+      "title": "Pony (Eliminate Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "9046845",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2100,
+      "mediaIds": {
+        "spotify": "548712",
+        "youtube": "548712",
+        "soundcloud": "548712",
+        "appleMusic": "548712"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Eliminate",
+      "title": "I'll Be There",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9046846",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2140,
+      "mediaIds": {
+        "spotify": "480206",
+        "youtube": "480206",
+        "soundcloud": "480206",
+        "appleMusic": "480206"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Ray Volpe",
+      "title": "Laserbeam (Eliminate Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9046847",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2240,
+      "mediaIds": {
+        "spotify": "861657",
+        "youtube": "861657",
+        "soundcloud": "861657",
+        "appleMusic": "861657"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ray Volpe",
+          "title": "Laserbeam (Eliminate Remix)",
+          "remix": "",
+          "trackId": "9046847"
+        },
+        {
+          "artist": "Galantis",
+          "title": "No Money (Acappella)",
+          "remix": "",
+          "trackId": "9046848"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Galantis",
+      "title": "No Money (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "9046848",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300668",
+        "youtube": "305968",
+        "soundcloud": "305968",
+        "appleMusic": "300668"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Virtual Riot",
+      "title": "REDLINE (Eliminate Extremely Low Effort Unnecessary Edit)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9046850",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2420,
+      "mediaIds": {
+        "youtube": "830942",
+        "soundcloud": "830942"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Valentino Khan",
+      "title": "Goin Up",
+      "remix": "",
+      "label": "VK MUSIC",
+      "trackId": "9046851",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2470,
+      "mediaIds": {
+        "spotify": "838922",
+        "youtube": "838922",
+        "soundcloud": "838922",
+        "appleMusic": "838922"
+      },
+      "blendGroup": [
+        {
+          "artist": "Valentino Khan",
+          "title": "Goin Up",
+          "remix": "",
+          "trackId": "9046851"
+        },
+        {
+          "artist": "Justin Timberlake ft. Timbaland",
+          "title": "SexyBack",
+          "remix": "(Acappella)",
+          "trackId": "9046852"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justin Timberlake ft. Timbaland",
+      "title": "SexyBack",
+      "remix": "(Acappella)",
+      "label": "MOSLEY (INTERSCOPE)",
+      "trackId": "9046852",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1013",
+        "youtube": "1013",
+        "soundcloud": "1013",
+        "appleMusic": "1013"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "Eliminate",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9046853",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2560,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Eliminate",
+      "title": "Weeble Wobble",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9046854",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2600,
+      "mediaIds": {
+        "spotify": "482859",
+        "youtube": "482859",
+        "soundcloud": "482859",
+        "appleMusic": "482859"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "GHENGAR",
+      "title": "Poison",
+      "remix": "",
+      "label": "HAUNTED HAUS COLLECTIVE",
+      "trackId": "9046855",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2670,
+      "mediaIds": {
+        "spotify": "868063",
+        "youtube": "868063",
+        "soundcloud": "868063",
+        "appleMusic": "868063"
+      },
+      "blendGroup": [
+        {
+          "artist": "GHENGAR",
+          "title": "Poison",
+          "remix": "",
+          "trackId": "9046855"
+        },
+        {
+          "artist": "Flosstradamus ft. Casino",
+          "title": "Mosh Pit (Acappella)",
+          "remix": "",
+          "trackId": "9046856"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flosstradamus ft. Casino",
+      "title": "Mosh Pit (Acappella)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "9046856",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "230379",
+        "youtube": "230379",
+        "soundcloud": "230379",
+        "appleMusic": "230379"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flosstradamus ft. Casino",
+          "title": "Mosh Pit (Acappella)",
+          "remix": "",
+          "trackId": "9046856"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9046857"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9046857",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 2710,
+      "mediaIds": null
+    },
+    {
+      "pos": "30",
+      "artist": "Virtual Riot",
+      "title": "Lost Angeles",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9046858",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2740,
+      "mediaIds": {
+        "spotify": "782278",
+        "youtube": "782278",
+        "soundcloud": "782278",
+        "appleMusic": "782278"
+      },
+      "blendGroup": [
+        {
+          "artist": "Virtual Riot",
+          "title": "Lost Angeles",
+          "remix": "",
+          "trackId": "9046858"
+        },
+        {
+          "artist": "Eliminate ft. Virus Syndicate",
+          "title": "Them",
+          "remix": "",
+          "trackId": "9047336"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eliminate ft. Virus Syndicate",
+      "title": "Them",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9047336",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "481582",
+        "youtube": "481582",
+        "soundcloud": "481582",
+        "appleMusic": "481582"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "Eliminate",
+      "title": "Mula",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "9046859",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2790,
+      "mediaIds": {
+        "spotify": "532552",
+        "youtube": "532552",
+        "soundcloud": "532552",
+        "appleMusic": "532552"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eliminate",
+          "title": "Mula",
+          "remix": "",
+          "trackId": "9046859"
+        },
+        {
+          "artist": "Eliminate",
+          "title": "Mula (Harder Edit)",
+          "remix": "",
+          "trackId": "9046860"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eliminate",
+      "title": "Mula (Harder Edit)",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "9046860",
+      "row": 31,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "717266"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eliminate",
+          "title": "Mula (Harder Edit)",
+          "remix": "",
+          "trackId": "9046860"
+        },
+        {
+          "artist": "Metro Boomin ft. The Weeknd & 21 Savage",
+          "title": "Creepin'",
+          "remix": "(Acappella)",
+          "trackId": "9046861"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Metro Boomin ft. The Weeknd & 21 Savage",
+      "title": "Creepin'",
+      "remix": "(Acappella)",
+      "label": "BOOMINATI WORLDWIDE",
+      "trackId": "9046861",
+      "row": 31,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "850507",
+        "youtube": "850507",
+        "soundcloud": "850507",
+        "appleMusic": "850507"
+      }
+    },
+    {
+      "pos": "32",
+      "artist": "Eliminate",
+      "title": "Stupid",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9046862",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2990,
+      "mediaIds": {
+        "spotify": "530648",
+        "youtube": "530648",
+        "soundcloud": "530648",
+        "appleMusic": "530648"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eliminate",
+          "title": "Stupid",
+          "remix": "",
+          "trackId": "9046862"
+        },
+        {
+          "artist": "GHOSTEMANE",
+          "title": "Venom",
+          "remix": "",
+          "trackId": "9046863"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GHOSTEMANE",
+      "title": "Venom",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "9046863",
+      "row": 32,
+      "type": "blend",
+      "cueTime": 3120,
+      "mediaIds": {
+        "spotify": "925097",
+        "youtube": "925097",
+        "soundcloud": "925097",
+        "appleMusic": "925097"
+      }
+    },
+    {
+      "pos": "33",
+      "artist": "Eliminate",
+      "title": "Cyber Trap Vol. 1",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9046864",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 3060,
+      "mediaIds": {
+        "spotify": "717265",
+        "youtube": "717265",
+        "soundcloud": "717265",
+        "appleMusic": "717265"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eliminate",
+          "title": "Cyber Trap Vol. 1",
+          "remix": "",
+          "trackId": "9046864"
+        },
+        {
+          "artist": "Eliminate ft. Leah Culver",
+          "title": "You're Gonna Love Me (Sharks Remix)",
+          "remix": "",
+          "trackId": "9046865"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eliminate ft. Leah Culver",
+      "title": "You're Gonna Love Me (Sharks Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9046865",
+      "row": 33,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "630232",
+        "youtube": "630232",
+        "soundcloud": "630232",
+        "appleMusic": "630232"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eliminate ft. Leah Culver",
+          "title": "You're Gonna Love Me (Sharks Remix)",
+          "remix": "",
+          "trackId": "9046865"
+        },
+        {
+          "artist": "David Guetta ft. Bebe Rexha",
+          "title": "I'm Good (Blue)",
+          "remix": "",
+          "trackId": "9046866"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta ft. Bebe Rexha",
+      "title": "I'm Good (Blue)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "9046866",
+      "row": 33,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "351861",
+        "youtube": "351861",
+        "soundcloud": "351861",
+        "appleMusic": "351861"
+      }
+    },
+    {
+      "pos": "34",
+      "artist": "Eliminate",
+      "title": "BREAKSH!T (Reprise)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "9046867",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3190,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Eliminate",
+      "title": "Waste My Time",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "9046868",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 3260,
+      "mediaIds": {
+        "spotify": "954140",
+        "youtube": "954140",
+        "soundcloud": "954140",
+        "appleMusic": "954140"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eliminate",
+          "title": "Waste My Time",
+          "remix": "",
+          "trackId": "9046868"
+        },
+        {
+          "artist": "Fred again.. & Swedish House Mafia ft. Future",
+          "title": "Turn On The Lights Again..",
+          "remix": "(Acappella)",
+          "trackId": "9046920"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fred again.. & Swedish House Mafia ft. Future",
+      "title": "Turn On The Lights Again..",
+      "remix": "(Acappella)",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "9046920",
+      "row": 35,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "788426",
+        "youtube": "788426",
+        "soundcloud": "788426",
+        "appleMusic": "788426"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "3402362",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1520285335"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "3399027",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=OcZBv8q_aUw"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "3399880",
+      "idSource": "40",
+      "url": "https://hearthis.at/9080923/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:29:20.845Z",
+  "scrapeVersion": 2
+}

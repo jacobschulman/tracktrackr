@@ -1,0 +1,199 @@
+{
+  "tlId": "xyvm9sk",
+  "dj": "ILLENIUM",
+  "stage": "EDC China",
+  "date": "2018-04-30",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/xyvm9sk/illenium-circuitgrounds-edc-china-shanghai-2018-04-30.html",
+  "djs": [
+    {
+      "name": "ILLENIUM",
+      "slug": "illenium"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Seven Lions ft. Lights",
+      "title": "Falling Away (MitiS Remix)",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "3448841",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "315495",
+        "youtube": "315495",
+        "soundcloud": "315495",
+        "appleMusic": "315495"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Virtual Riot",
+      "title": "Purple Dragons (Dragons VIP)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3448842",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 30,
+      "mediaIds": {
+        "youtube": "441838",
+        "soundcloud": "441838"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Zomboy",
+      "title": "Like A Bitch (Kill The Noise Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "3448843",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 82,
+      "mediaIds": {
+        "spotify": "346111",
+        "youtube": "346111",
+        "soundcloud": "346111",
+        "appleMusic": "346111"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Flume ft. Tove Lo",
+      "title": "Say It (ILLENIUM Remix)",
+      "remix": "",
+      "label": "FUTURE CLASSIC",
+      "trackId": "3448844",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 150,
+      "mediaIds": {
+        "spotify": "325610",
+        "youtube": "325610",
+        "soundcloud": "325610",
+        "appleMusic": "325610"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flume ft. Tove Lo",
+          "title": "Say It (ILLENIUM Remix)",
+          "remix": "",
+          "trackId": "3448844"
+        },
+        {
+          "artist": "Flume ft. Tove Lo",
+          "title": "Say It (ILLENIUM VIP Remix)",
+          "remix": "",
+          "trackId": "3448845"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flume ft. Tove Lo",
+      "title": "Say It (ILLENIUM VIP Remix)",
+      "remix": "",
+      "label": "FUTURE CLASSIC",
+      "trackId": "3448845",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 265,
+      "mediaIds": {
+        "youtube": "432548"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "ILLENIUM & Kill The Noise ft. Mako",
+      "title": "Don't Give Up On Me",
+      "remix": "",
+      "label": "PROXIMITY",
+      "trackId": "3448846",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 445,
+      "mediaIds": {
+        "spotify": "401180",
+        "youtube": "401180",
+        "soundcloud": "401180",
+        "appleMusic": "401180"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Post Malone vs. ILLENIUM & Eden",
+      "title": "I Fall Apart vs. Leaving (ILLENIUM Mashup)",
+      "remix": "",
+      "label": "SEEKING BLUE/REPUBLIC (UMG)",
+      "trackId": "3448847",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 650,
+      "mediaIds": {
+        "soundcloud": "900987"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "San Holo",
+      "title": "Light",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "3448848",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 864,
+      "mediaIds": {
+        "spotify": "335752",
+        "youtube": "335752",
+        "soundcloud": "335752",
+        "appleMusic": "335752"
+      },
+      "blendGroup": [
+        {
+          "artist": "San Holo",
+          "title": "Light",
+          "remix": "",
+          "trackId": "3448848"
+        },
+        {
+          "artist": "San Holo vs. Kanye West",
+          "title": "Lights (NITTI Remix)",
+          "remix": "",
+          "trackId": "3448852"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "San Holo vs. Kanye West",
+      "title": "Lights (NITTI Remix)",
+      "remix": "",
+      "label": "BITBIRD/ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "3448852",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 902,
+      "mediaIds": {
+        "youtube": "370392",
+        "soundcloud": "370392"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T15:50:15.911Z",
+  "scrapeVersion": 2
+}

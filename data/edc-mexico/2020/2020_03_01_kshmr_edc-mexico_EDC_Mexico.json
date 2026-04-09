@@ -1,0 +1,957 @@
+{
+  "tlId": "2nz0067t",
+  "dj": "KSHMR",
+  "stage": "EDC Mexico",
+  "date": "2020-03-01",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/2nz0067t/kshmr-kineticfield-edc-mexico-2020-03-01.html",
+  "djs": [
+    {
+      "name": "KSHMR",
+      "slug": "kshmr"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "KSHMR & 7 Skies",
+      "title": "Neverland",
+      "remix": "(Intro Edit)",
+      "label": "DHARMA (SPINNIN')",
+      "trackId": "4718156",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "431526",
+        "youtube": "431526",
+        "soundcloud": "431526",
+        "appleMusic": "431526"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "KSHMR ft. Nevve",
+      "title": "Do Bad Well",
+      "remix": "",
+      "label": "DHARMA (SPINNIN')",
+      "trackId": "4718157",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "523727",
+        "youtube": "523727",
+        "soundcloud": "523727",
+        "appleMusic": "523727"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Mark Sixma pres.M6",
+      "title": "Heartbeat",
+      "remix": "",
+      "label": "WHO'S AFRAID OF 138 (ARMADA)",
+      "trackId": "4718158",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 50,
+      "mediaIds": {
+        "spotify": "361987",
+        "youtube": "361987",
+        "soundcloud": "361987",
+        "appleMusic": "361987"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "KSHMR vs. Dimatik & Weaver",
+      "title": "Magic vs. Dragonite (KSHMR Mashup)",
+      "remix": "",
+      "label": "DHARMA (SPINNIN')/CINEMATIK",
+      "trackId": "4718159",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 80,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "KSHMR ft. Jake Reese",
+      "title": "Carry Me Home",
+      "remix": "",
+      "label": "DHARMA (SPINNIN')",
+      "trackId": "4718160",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 245,
+      "mediaIds": {
+        "spotify": "416844",
+        "youtube": "416844",
+        "soundcloud": "416844",
+        "appleMusic": "416844"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "KSHMR & Crossnaders ft. Micky Blue",
+      "title": "Back To Me",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4718161",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 445,
+      "mediaIds": {
+        "spotify": "349697",
+        "youtube": "349697",
+        "soundcloud": "349697",
+        "appleMusic": "349697"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "KSHMR & DallasK",
+      "title": "Burn",
+      "remix": "",
+      "label": "REVEALED/SPINNIN'",
+      "trackId": "4718162",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 634,
+      "mediaIds": {
+        "spotify": "211000",
+        "youtube": "211000",
+        "soundcloud": "211000",
+        "appleMusic": "211000"
+      },
+      "blendGroup": [
+        {
+          "artist": "KSHMR & DallasK",
+          "title": "Burn",
+          "remix": "",
+          "trackId": "4718162"
+        },
+        {
+          "artist": "KSHMR & DallasK ft. Luciana",
+          "title": "Burn (Let Your Mind Go)",
+          "remix": "",
+          "trackId": "4718164"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "KSHMR & DallasK ft. Luciana",
+      "title": "Burn (Let Your Mind Go)",
+      "remix": "",
+      "label": "SPINNIN'/ULTRA",
+      "trackId": "4718164",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 704,
+      "mediaIds": {
+        "spotify": "223887",
+        "youtube": "223887",
+        "soundcloud": "223887",
+        "appleMusic": "223887"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Firebeatz & KSHMR ft. Luciana",
+      "title": "No Heroes",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4718165",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 791,
+      "mediaIds": {
+        "spotify": "200818",
+        "youtube": "200818",
+        "soundcloud": "200818",
+        "appleMusic": "200818"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Timmy Trumpet & The Golden Army",
+      "title": "Mufasa",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4718166",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 890,
+      "mediaIds": {
+        "spotify": "437730",
+        "youtube": "437730",
+        "soundcloud": "437730",
+        "appleMusic": "437730"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Mariana BO",
+      "title": "Mantra",
+      "remix": "",
+      "label": "DHARMA (SPINNIN')",
+      "trackId": "4718214",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 931,
+      "mediaIds": {
+        "spotify": "432026",
+        "youtube": "432026",
+        "soundcloud": "432026",
+        "appleMusic": "432026"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "KSHMR & MARNIK ft. The Golden Army",
+      "title": "Shiva (Sunburn 2017 Anthem)",
+      "remix": "",
+      "label": "DHARMA (SPINNIN')",
+      "trackId": "4718215",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 964,
+      "mediaIds": {
+        "spotify": "393002",
+        "youtube": "393002",
+        "soundcloud": "393002",
+        "appleMusic": "393002"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Skellism & Terror Bass ft. Lil Jon",
+      "title": "In The Pit",
+      "remix": "",
+      "label": "GEFFEN (UMG)",
+      "trackId": "4718167",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1081,
+      "mediaIds": {
+        "spotify": "333437",
+        "youtube": "333437",
+        "soundcloud": "333437",
+        "appleMusic": "333437"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Headhunterz & KSHMR",
+      "title": "Dharma",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4718216",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1129,
+      "mediaIds": {
+        "spotify": "310424",
+        "youtube": "310424",
+        "soundcloud": "310424",
+        "appleMusic": "310424"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "KSHMR & JDG & Mariana BO",
+      "title": "Kolkata",
+      "remix": "",
+      "label": "DHARMA (SPINNIN')",
+      "trackId": "4718168",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1298,
+      "mediaIds": {
+        "spotify": "369485",
+        "youtube": "369485",
+        "soundcloud": "369485",
+        "appleMusic": "369485"
+      },
+      "blendGroup": [
+        {
+          "artist": "KSHMR & JDG & Mariana BO",
+          "title": "Kolkata",
+          "remix": "",
+          "trackId": "4718168"
+        },
+        {
+          "artist": "KSHMR & MR.BLACK",
+          "title": "Doonka (MR.BLACK Psy Edit)",
+          "remix": "",
+          "trackId": "4718217"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "KSHMR & MR.BLACK",
+      "title": "Doonka (MR.BLACK Psy Edit)",
+      "remix": "",
+      "label": "DHARMA (SPINNIN')",
+      "trackId": "4718217",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 1402,
+      "mediaIds": {
+        "soundcloud": "436141"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "R3HAB & KSHMR",
+      "title": "Karate",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4718218",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1458,
+      "mediaIds": {
+        "spotify": "212855",
+        "youtube": "212855",
+        "soundcloud": "212855",
+        "appleMusic": "212855"
+      },
+      "blendGroup": [
+        {
+          "artist": "R3HAB & KSHMR",
+          "title": "Karate",
+          "remix": "",
+          "trackId": "4718218"
+        },
+        {
+          "artist": "Vicente Fernandez",
+          "title": "El Rey",
+          "remix": "",
+          "trackId": "4718219"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Vicente Fernandez",
+      "title": "El Rey",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "4718219",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1523,
+      "mediaIds": {
+        "spotify": "558880",
+        "youtube": "558880",
+        "soundcloud": "558880",
+        "appleMusic": "558880"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "KSHMR & KAAZE ft. KARRA",
+      "title": "Devil Inside Me",
+      "remix": "",
+      "label": "DHARMA/REVEALED",
+      "trackId": "4718221",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1639,
+      "mediaIds": {
+        "spotify": "496369",
+        "youtube": "496369",
+        "soundcloud": "496369",
+        "appleMusic": "496369"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Tiësto & KSHMR ft. VASSY",
+      "title": "Secrets",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/PM:AM",
+      "trackId": "4718222",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1821,
+      "mediaIds": {
+        "spotify": "239625",
+        "youtube": "239625",
+        "soundcloud": "239625",
+        "appleMusic": "239625"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & KSHMR ft. VASSY",
+          "title": "Secrets",
+          "remix": "",
+          "trackId": "4718222"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+          "title": "Tremor (Sensation 2014 Anthem) (3, 2, 1 Go Acappella)",
+          "remix": "",
+          "trackId": "4718220"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+      "title": "Tremor (Sensation 2014 Anthem) (3, 2, 1 Go Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4718220",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "167281",
+        "youtube": "167281",
+        "soundcloud": "198768",
+        "appleMusic": "167281"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "KSHMR & Sak Noel ft. TxTHEWAY",
+      "title": "Bruk It Down",
+      "remix": "",
+      "label": "DHARMA (SPINNIN')",
+      "trackId": "4718223",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2096,
+      "mediaIds": {
+        "spotify": "574298",
+        "youtube": "574298",
+        "soundcloud": "574298",
+        "appleMusic": "574298"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "KSHMR & MARNIK",
+      "title": "Bazaar (Official Sunburn Goa 2015 Anthem)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4718224",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2252,
+      "mediaIds": {
+        "spotify": "282085",
+        "youtube": "282085",
+        "soundcloud": "282085",
+        "appleMusic": "282085"
+      },
+      "blendGroup": [
+        {
+          "artist": "KSHMR & MARNIK",
+          "title": "Bazaar (Official Sunburn Goa 2015 Anthem)",
+          "remix": "",
+          "trackId": "4718224"
+        },
+        {
+          "artist": "KSHMR & MARNIK",
+          "title": "Bazaar (Official Sunburn Goa 2015 Anthem) (Sickddellz Edit)",
+          "remix": "",
+          "trackId": "4718225"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "KSHMR & MARNIK",
+      "title": "Bazaar (Official Sunburn Goa 2015 Anthem) (Sickddellz Edit)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4718225",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 2376,
+      "mediaIds": null
+    },
+    {
+      "pos": "20",
+      "artist": "Luis Miguel",
+      "title": "Ahora Te Puedes Marchar",
+      "remix": "",
+      "label": "",
+      "trackId": "4718226",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2406,
+      "mediaIds": {
+        "spotify": "560397",
+        "youtube": "560397",
+        "appleMusic": "560397"
+      },
+      "blendGroup": [
+        {
+          "artist": "Luis Miguel",
+          "title": "Ahora Te Puedes Marchar",
+          "remix": "",
+          "trackId": "4718226"
+        },
+        {
+          "artist": "Dropgun & Jesse Wilde",
+          "title": "Uluwatu",
+          "remix": "",
+          "trackId": "4718227"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dropgun & Jesse Wilde",
+      "title": "Uluwatu",
+      "remix": "",
+      "label": "DHARMA (SPINNIN')",
+      "trackId": "4718227",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 2486,
+      "mediaIds": {
+        "spotify": "412006",
+        "youtube": "412006",
+        "soundcloud": "412006",
+        "appleMusic": "412006"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Timmy Trumpet & JETFIRE ft. RAGE",
+      "title": "Flamenco",
+      "remix": "",
+      "label": "DHARMA (SPINNIN')",
+      "trackId": "4718228",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2558,
+      "mediaIds": {
+        "spotify": "409037",
+        "youtube": "409037",
+        "soundcloud": "409037",
+        "appleMusic": "409037"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Tiësto & 7 Skies ft. RebMoe",
+      "title": "My Frequency",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "4718229",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2647,
+      "mediaIds": {
+        "spotify": "547194",
+        "youtube": "547194",
+        "soundcloud": "547194",
+        "appleMusic": "547194"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "KSHMR & Timmy Trumpet ft. Zafrir",
+      "title": "The Prayer",
+      "remix": "",
+      "label": "SINPHONY (SPINNIN')",
+      "trackId": "4718230",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2724,
+      "mediaIds": {
+        "spotify": "586278",
+        "youtube": "586278",
+        "soundcloud": "586278",
+        "appleMusic": "586278"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "The Cranberries",
+      "title": "Zombie",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "4718231",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2895,
+      "mediaIds": {
+        "spotify": "397829",
+        "youtube": "397829",
+        "soundcloud": "397829",
+        "appleMusic": "397829"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Cranberries",
+          "title": "Zombie",
+          "remix": "",
+          "trackId": "4718231"
+        },
+        {
+          "artist": "The White Stripes",
+          "title": "Seven Nation Army",
+          "remix": "",
+          "trackId": "4718232"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army",
+      "remix": "",
+      "label": "XL",
+      "trackId": "4718232",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 2946,
+      "mediaIds": {
+        "spotify": "1491",
+        "youtube": "1491",
+        "soundcloud": "1491",
+        "appleMusic": "1491"
+      },
+      "blendGroup": [
+        {
+          "artist": "The White Stripes",
+          "title": "Seven Nation Army",
+          "remix": "",
+          "trackId": "4718232"
+        },
+        {
+          "artist": "KSHMR & Timmy Trumpet",
+          "title": "The People",
+          "remix": "",
+          "trackId": "4718233"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "KSHMR & Timmy Trumpet",
+      "title": "The People",
+      "remix": "",
+      "label": "DHARMA (SPINNIN')",
+      "trackId": "4718233",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 2997,
+      "mediaIds": {
+        "spotify": "505943",
+        "youtube": "505943",
+        "soundcloud": "505943",
+        "appleMusic": "505943"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Timmy Trumpet & 22Bullets ft. GISHIN",
+      "title": "Everybody In The Party",
+      "remix": "",
+      "label": "DHARMA (SPINNIN')",
+      "trackId": "4718259",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3088,
+      "mediaIds": {
+        "spotify": "558936",
+        "youtube": "558936",
+        "soundcloud": "558936",
+        "appleMusic": "558936"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Hardwell & KSHMR ft. Jarrad Kritzstein",
+      "title": "Power",
+      "remix": "",
+      "label": "REVEALED/DHARMA",
+      "trackId": "4718260",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3334,
+      "mediaIds": {
+        "spotify": "356362",
+        "youtube": "356362",
+        "soundcloud": "356362",
+        "appleMusic": "356362"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Vicente Fernandez",
+      "title": "Como Mexico No Hay Dos",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "4718261",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3556,
+      "mediaIds": {
+        "spotify": "536569",
+        "youtube": "536569",
+        "appleMusic": "536569"
+      },
+      "blendGroup": [
+        {
+          "artist": "Vicente Fernandez",
+          "title": "Como Mexico No Hay Dos",
+          "remix": "",
+          "trackId": "4718261"
+        },
+        {
+          "artist": "DVBBS & BORGEOUS",
+          "title": "Tsunami",
+          "remix": "",
+          "trackId": "4718262"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DVBBS & BORGEOUS",
+      "title": "Tsunami",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "4718262",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 3662,
+      "mediaIds": {
+        "spotify": "144474",
+        "youtube": "144474",
+        "soundcloud": "144474",
+        "appleMusic": "144474"
+      },
+      "blendGroup": [
+        {
+          "artist": "DVBBS & BORGEOUS",
+          "title": "Tsunami",
+          "remix": "",
+          "trackId": "4718262"
+        },
+        {
+          "artist": "DVBBS & BORGEOUS",
+          "title": "Tsunami (Jay Cosmic Remix)",
+          "remix": "",
+          "trackId": "4718263"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DVBBS & BORGEOUS",
+      "title": "Tsunami (Jay Cosmic Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4718263",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 3720,
+      "mediaIds": {
+        "youtube": "172300",
+        "soundcloud": "172300",
+        "appleMusic": "172300"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "KSHMR & Hard Lights ft. Charlott Boss",
+      "title": "Over And Out",
+      "remix": "",
+      "label": "DHARMA (SPINNIN')",
+      "trackId": "4718264",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3767,
+      "mediaIds": {
+        "spotify": "553073",
+        "youtube": "553073",
+        "soundcloud": "553073",
+        "appleMusic": "553073"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "KSHMR & BassKillers & B3nte",
+      "title": "The Spook",
+      "remix": "",
+      "label": "SPINNIN' PREMIUM",
+      "trackId": "4718265",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3957,
+      "mediaIds": {
+        "spotify": "250583",
+        "youtube": "250583",
+        "soundcloud": "250583",
+        "appleMusic": "250583"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Timmy Trumpet ft. Savage",
+      "title": "Freaks (W&W Bigroom Edit)",
+      "remix": "",
+      "label": "MAINSTAGE/HUSSLE",
+      "trackId": "4902325",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 4027,
+      "mediaIds": {
+        "youtube": "229461",
+        "soundcloud": "229461",
+        "appleMusic": "229461"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Darren Styles & Dougal & Gammer",
+      "title": "Party Don't Stop",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "4718266",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 4077,
+      "mediaIds": {
+        "spotify": "349633",
+        "youtube": "349633",
+        "soundcloud": "349633",
+        "appleMusic": "349633"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "KSHMR & Bassjackers ft. Sirah",
+      "title": "Memories",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4718267",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 4122,
+      "mediaIds": {
+        "spotify": "260141",
+        "youtube": "260141",
+        "soundcloud": "260141",
+        "appleMusic": "260141"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Carnage ft. Timmy Trumpet & KSHMR",
+      "title": "Toca",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "4718268",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 4375,
+      "mediaIds": {
+        "spotify": "253874",
+        "youtube": "253874",
+        "soundcloud": "253874",
+        "appleMusic": "253874"
+      },
+      "blendGroup": [
+        {
+          "artist": "Carnage ft. Timmy Trumpet & KSHMR",
+          "title": "Toca",
+          "remix": "",
+          "trackId": "4718268"
+        },
+        {
+          "artist": "Survivor",
+          "title": "Eye Of The Tiger",
+          "remix": "",
+          "trackId": "4718269"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Survivor",
+      "title": "Eye Of The Tiger",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "4718269",
+      "row": 33,
+      "type": "blend",
+      "cueTime": 4465,
+      "mediaIds": {
+        "spotify": "17194",
+        "youtube": "17194",
+        "soundcloud": "17194",
+        "appleMusic": "17194"
+      }
+    },
+    {
+      "pos": "34",
+      "artist": "KSHMR",
+      "title": "Kashmir",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/PM:AM",
+      "trackId": "4718270",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 4674,
+      "mediaIds": {
+        "spotify": "223341",
+        "youtube": "223341",
+        "soundcloud": "223341",
+        "appleMusic": "223341"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1585133",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=U910kmdFkgQ"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:43:37.456Z",
+  "scrapeVersion": 2
+}

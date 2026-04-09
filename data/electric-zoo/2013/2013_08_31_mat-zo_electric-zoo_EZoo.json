@@ -1,0 +1,980 @@
+{
+  "tlId": "2rgkxlt",
+  "dj": "Mat Zo",
+  "stage": "Electric Zoo",
+  "date": "2013-08-31",
+  "year": 2013,
+  "url": "https://www.1001tracklists.com/tracklist/2rgkxlt/mat-zo-electric-zoo-united-states-2013-08-31.html",
+  "djs": [
+    {
+      "name": "Mat Zo",
+      "slug": "matzo"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Pryda",
+      "title": "Layers",
+      "remix": "",
+      "label": "PRYDA",
+      "trackId": "606466",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "120406",
+        "youtube": "120406",
+        "soundcloud": "120406",
+        "appleMusic": "120406"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pryda",
+          "title": "Layers",
+          "remix": "",
+          "trackId": "606466"
+        },
+        {
+          "artist": "Dajae",
+          "title": "Everyday My Life (Acappella)",
+          "remix": "",
+          "trackId": "606467"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dajae",
+      "title": "Everyday My Life (Acappella)",
+      "remix": "",
+      "label": "DEFECTED",
+      "trackId": "606467",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 180,
+      "mediaIds": {
+        "spotify": "2505",
+        "youtube": "2505",
+        "appleMusic": "2505"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Disfunktion & Leon Du Star",
+      "title": "I See Dead Pixels (TUJAMO Remix)",
+      "remix": "",
+      "label": "SUME (HOUSESESSION)",
+      "trackId": "684478",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 313,
+      "mediaIds": {
+        "youtube": "27278"
+      },
+      "blendGroup": [
+        {
+          "artist": "Disfunktion & Leon Du Star",
+          "title": "I See Dead Pixels (TUJAMO Remix)",
+          "remix": "",
+          "trackId": "684478"
+        },
+        {
+          "artist": "Fedde Le Grand",
+          "title": "Put Your Hands Up For Detroit",
+          "remix": "",
+          "trackId": "606610"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fedde Le Grand",
+      "title": "Put Your Hands Up For Detroit",
+      "remix": "",
+      "label": "DATA REC. (MINISTRY OF SOUND)",
+      "trackId": "606610",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 327,
+      "mediaIds": {
+        "spotify": "1206",
+        "youtube": "1206",
+        "soundcloud": "1206",
+        "appleMusic": "1206"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Mat Zo",
+      "title": "Bipolar",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "606468",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 460,
+      "mediaIds": {
+        "spotify": "50339",
+        "youtube": "50339",
+        "soundcloud": "50339",
+        "appleMusic": "50339"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Steve Aoki & Chris Lake & TUJAMO",
+      "title": "Boneless",
+      "remix": "",
+      "label": "DIM MAK/ULTRA",
+      "trackId": "606469",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 534,
+      "mediaIds": {
+        "spotify": "128940",
+        "youtube": "128940",
+        "soundcloud": "128940",
+        "appleMusic": "128940"
+      },
+      "blendGroup": [
+        {
+          "artist": "Steve Aoki & Chris Lake & TUJAMO",
+          "title": "Boneless",
+          "remix": "",
+          "trackId": "606469"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Strobe",
+          "remix": "",
+          "trackId": "606611"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Strobe",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "606611",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 590,
+      "mediaIds": {
+        "spotify": "5663",
+        "youtube": "5663",
+        "soundcloud": "5663",
+        "appleMusic": "5663"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5",
+          "title": "Strobe",
+          "remix": "",
+          "trackId": "606611"
+        },
+        {
+          "artist": "Above & Beyond ft. Richard Bedford",
+          "title": "Sun & Moon (Acappella)",
+          "remix": "",
+          "trackId": "606470"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Above & Beyond ft. Richard Bedford",
+      "title": "Sun & Moon (Acappella)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "606470",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 590,
+      "mediaIds": {
+        "spotify": "27878",
+        "youtube": "27878",
+        "soundcloud": "31704",
+        "appleMusic": "27878"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Estiva",
+      "title": "Dinodrums",
+      "remix": "",
+      "label": "ENHANCED",
+      "trackId": "606471",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 745,
+      "mediaIds": {
+        "spotify": "145793",
+        "youtube": "145793",
+        "soundcloud": "145793",
+        "appleMusic": "145793"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "deadmau5 ft. Greta Svabo Bech",
+      "title": "Raise Your Weapon (Madeon Extended Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "606472",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1011,
+      "mediaIds": {
+        "spotify": "34917",
+        "youtube": "34917",
+        "soundcloud": "34917",
+        "appleMusic": "34917"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5 ft. Greta Svabo Bech",
+          "title": "Raise Your Weapon (Madeon Extended Remix)",
+          "remix": "",
+          "trackId": "606472"
+        },
+        {
+          "artist": "Wuki",
+          "title": "Jolt",
+          "remix": "",
+          "trackId": "606473"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wuki",
+      "title": "Jolt",
+      "remix": "",
+      "label": "WARPATH",
+      "trackId": "606473",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 1095,
+      "mediaIds": {
+        "soundcloud": "150337"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Mat Zo ft. Chuck D",
+      "title": "Pyramid Scheme (Club Mix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "606474",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1156,
+      "mediaIds": {
+        "spotify": "119020",
+        "youtube": "119020",
+        "soundcloud": "119020",
+        "appleMusic": "119020"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mat Zo ft. Chuck D",
+          "title": "Pyramid Scheme (Club Mix)",
+          "remix": "",
+          "trackId": "606474"
+        },
+        {
+          "artist": "Above & Beyond",
+          "title": "Walter White",
+          "remix": "",
+          "trackId": "606475"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Above & Beyond",
+      "title": "Walter White",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "606475",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 1329,
+      "mediaIds": {
+        "spotify": "120600",
+        "youtube": "120600",
+        "soundcloud": "120600",
+        "appleMusic": "120600"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Wolfgang Gartner",
+      "title": "Menage A Trois",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "606476",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1500,
+      "mediaIds": {
+        "spotify": "41551",
+        "youtube": "41551",
+        "appleMusic": "41551"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "ARTY & Mat Zo",
+      "title": "Rebound",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "606477",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1770,
+      "mediaIds": {
+        "spotify": "29492",
+        "youtube": "29492",
+        "soundcloud": "29492",
+        "appleMusic": "29492"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Mat Zo",
+      "title": "Caller ID",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "607224",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2065,
+      "mediaIds": {
+        "spotify": "119027",
+        "youtube": "119027",
+        "soundcloud": "119027",
+        "appleMusic": "119027"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Mikkas & Amba Shepherd",
+      "title": "Finally (Botnek Remix)",
+      "remix": "",
+      "label": "STRICTLY RHYTHM",
+      "trackId": "606612",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2160,
+      "mediaIds": {
+        "spotify": "114261",
+        "youtube": "114261",
+        "soundcloud": "114261",
+        "appleMusic": "114261"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Green Velvet vs. Mat Zo",
+      "title": "Put A Flash On It (Mat Zo Mashup)",
+      "remix": "",
+      "label": "YETI",
+      "trackId": "606478",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2204,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Fedde Le Grand",
+      "title": "Rockin' N' Rollin' (Togglehead Remix)",
+      "remix": "",
+      "label": "FLAMINGO",
+      "trackId": "606479",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2425,
+      "mediaIds": {
+        "soundcloud": "149767"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fedde Le Grand",
+          "title": "Rockin' N' Rollin' (Togglehead Remix)",
+          "remix": "",
+          "trackId": "606479"
+        },
+        {
+          "artist": "Tommy Trash",
+          "title": "Monkey See Monkey Do (Tommy Trash Re-Edit)",
+          "remix": "",
+          "trackId": "606480"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tommy Trash",
+      "title": "Monkey See Monkey Do (Tommy Trash Re-Edit)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "606480",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 2494,
+      "mediaIds": {
+        "spotify": "119031",
+        "youtube": "119031",
+        "soundcloud": "119031",
+        "appleMusic": "119031"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Tangle & Mateusz",
+      "title": "Basilisk",
+      "remix": "",
+      "label": "AIR UP THERE (ENHANCED)",
+      "trackId": "607037",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2609,
+      "mediaIds": {
+        "spotify": "128964",
+        "youtube": "128964",
+        "soundcloud": "128964",
+        "appleMusic": "128964"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tangle & Mateusz",
+          "title": "Basilisk",
+          "remix": "",
+          "trackId": "607037"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "EDM Death Machine",
+          "remix": "",
+          "trackId": "606481"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "EDM Death Machine",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "606481",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 2647,
+      "mediaIds": {
+        "spotify": "129558",
+        "youtube": "129558",
+        "soundcloud": "129558",
+        "appleMusic": "129558"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Mat Zo",
+      "title": "Lucid Dreams",
+      "remix": "",
+      "label": "ANJUNABEATS/ASTRALWERKS",
+      "trackId": "606482",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2693,
+      "mediaIds": {
+        "spotify": "141254",
+        "youtube": "141254",
+        "soundcloud": "141254",
+        "appleMusic": "141254"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Empire Of The Sun",
+      "title": "Alive (Mat Zo Remix)",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "606483",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2880,
+      "mediaIds": {
+        "spotify": "136820",
+        "youtube": "136820",
+        "soundcloud": "136820",
+        "appleMusic": "136820"
+      },
+      "blendGroup": [
+        {
+          "artist": "Empire Of The Sun",
+          "title": "Alive (Mat Zo Remix)",
+          "remix": "",
+          "trackId": "606483"
+        },
+        {
+          "artist": "Empire Of The Sun",
+          "title": "Alive (Zedd Remix)",
+          "remix": "",
+          "trackId": "606484"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Empire Of The Sun",
+      "title": "Alive (Zedd Remix)",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "606484",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 2945,
+      "mediaIds": {
+        "spotify": "135866",
+        "youtube": "135866",
+        "soundcloud": "135866",
+        "appleMusic": "135866"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Andrew Bayer",
+      "title": "England",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "606498",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3030,
+      "mediaIds": {
+        "spotify": "117078",
+        "youtube": "117078",
+        "soundcloud": "117078",
+        "appleMusic": "117078"
+      },
+      "blendGroup": [
+        {
+          "artist": "Andrew Bayer",
+          "title": "England",
+          "remix": "",
+          "trackId": "606498"
+        },
+        {
+          "artist": "Wolfgang Gartner",
+          "title": "Flexx",
+          "remix": "",
+          "trackId": "606613"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wolfgang Gartner",
+      "title": "Flexx",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "606613",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 3150,
+      "mediaIds": {
+        "spotify": "79624",
+        "youtube": "79624",
+        "soundcloud": "79624",
+        "appleMusic": "79624"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "The Prodigy",
+      "title": "Breathe",
+      "remix": "",
+      "label": "XL",
+      "trackId": "606485",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3204,
+      "mediaIds": {
+        "spotify": "2756",
+        "youtube": "2756",
+        "soundcloud": "2756",
+        "appleMusic": "2756"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Prodigy",
+          "title": "Breathe",
+          "remix": "",
+          "trackId": "606485"
+        },
+        {
+          "artist": "Hardwell",
+          "title": "Spaceman",
+          "remix": "",
+          "trackId": "606486"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hardwell",
+      "title": "Spaceman",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "606486",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 3261,
+      "mediaIds": {
+        "spotify": "51416",
+        "youtube": "51416",
+        "soundcloud": "51416",
+        "appleMusic": "51416"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Charlie Darker",
+      "title": "Soup",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "606487",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3360,
+      "mediaIds": {
+        "soundcloud": "146056"
+      },
+      "blendGroup": [
+        {
+          "artist": "Charlie Darker",
+          "title": "Soup",
+          "remix": "",
+          "trackId": "606487"
+        },
+        {
+          "artist": "Zedd ft. Foxes",
+          "title": "Clarity (Torro Torro Remix)",
+          "remix": "",
+          "trackId": "606614"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd ft. Foxes",
+      "title": "Clarity (Torro Torro Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "606614",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 3387,
+      "mediaIds": {
+        "spotify": "119675",
+        "youtube": "119675",
+        "soundcloud": "119675"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "The Aston Shuffle vs. Tommy Trash",
+      "title": "Sunrise (Won't Get Lost) (Tommy Trash Version)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "606488",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3535,
+      "mediaIds": {
+        "spotify": "88224",
+        "youtube": "88224",
+        "soundcloud": "88224",
+        "appleMusic": "88224"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Aston Shuffle vs. Tommy Trash",
+          "title": "Sunrise (Won't Get Lost) (Tommy Trash Version)",
+          "remix": "",
+          "trackId": "606488"
+        },
+        {
+          "artist": "The M Machine ft. pennybirdrabbit",
+          "title": "Ghosts In The Machine (Kill The Noise Remix)",
+          "remix": "",
+          "trackId": "606489"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The M Machine ft. pennybirdrabbit",
+      "title": "Ghosts In The Machine (Kill The Noise Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "606489",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 3535,
+      "mediaIds": {
+        "spotify": "122657",
+        "youtube": "122657",
+        "soundcloud": "122657"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Wolfgang Gartner",
+      "title": "Nuke",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "606490",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3684,
+      "mediaIds": {
+        "spotify": "94512",
+        "youtube": "94512",
+        "soundcloud": "94512",
+        "appleMusic": "94512"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wolfgang Gartner",
+          "title": "Nuke",
+          "remix": "",
+          "trackId": "606490"
+        },
+        {
+          "artist": "Fistin Furious",
+          "title": "Touchdown",
+          "remix": "",
+          "trackId": "606615"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fistin Furious",
+      "title": "Touchdown",
+      "remix": "",
+      "label": "PLASMA.DIGITAL",
+      "trackId": "606615",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 3740,
+      "mediaIds": {
+        "spotify": "148668",
+        "soundcloud": "148668"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fistin Furious",
+          "title": "Touchdown",
+          "remix": "",
+          "trackId": "606615"
+        },
+        {
+          "artist": "Chris Lake & Michael Woods",
+          "title": "Black Thong",
+          "remix": "",
+          "trackId": "607257"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chris Lake & Michael Woods",
+      "title": "Black Thong",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "607257",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 3774,
+      "mediaIds": {
+        "spotify": "100345",
+        "youtube": "100345",
+        "soundcloud": "100345",
+        "appleMusic": "100345"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Lemon & Einar K",
+      "title": "Anticipation",
+      "remix": "",
+      "label": "FLASHOVER",
+      "trackId": "606491",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3917,
+      "mediaIds": {
+        "spotify": "104794",
+        "youtube": "104794",
+        "appleMusic": "104794"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lemon & Einar K",
+          "title": "Anticipation",
+          "remix": "",
+          "trackId": "606491"
+        },
+        {
+          "artist": "Chris Lake & Marco Lys",
+          "title": "La Tromba (Chris Lake & Nom De Strip Remix)",
+          "remix": "",
+          "trackId": "606492"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chris Lake & Marco Lys",
+      "title": "La Tromba (Chris Lake & Nom De Strip Remix)",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "606492",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 3976,
+      "mediaIds": {
+        "spotify": "137508",
+        "youtube": "137508",
+        "soundcloud": "137508",
+        "appleMusic": "137508"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Inpetto",
+      "title": "Girls & Boys",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "606493",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 4030,
+      "mediaIds": {
+        "spotify": "131885",
+        "youtube": "131885",
+        "soundcloud": "131885",
+        "appleMusic": "131885"
+      },
+      "blendGroup": [
+        {
+          "artist": "Inpetto",
+          "title": "Girls & Boys",
+          "remix": "",
+          "trackId": "606493"
+        },
+        {
+          "artist": "Benny Benassi pres. The Biz",
+          "title": "Satisfaction (Dada Life Remix)",
+          "remix": "",
+          "trackId": "606494"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Benny Benassi pres. The Biz",
+      "title": "Satisfaction (Dada Life Remix)",
+      "remix": "",
+      "label": "D:VISION",
+      "trackId": "606494",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 4074,
+      "mediaIds": {
+        "spotify": "113335"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Carli",
+      "title": "The Weekender",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "606495",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 4234,
+      "mediaIds": {
+        "soundcloud": "149126"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Mat Zo & Porter Robinson",
+      "title": "Easy",
+      "remix": "",
+      "label": "MINISTRY OF SOUND/ANJUNABEATS",
+      "trackId": "606496",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 4348,
+      "mediaIds": {
+        "spotify": "103785",
+        "youtube": "103785",
+        "soundcloud": "103785",
+        "appleMusic": "103785"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Firebeatz & Schella",
+      "title": "Dear New York",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "606497",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 4522,
+      "mediaIds": {
+        "spotify": "90988",
+        "youtube": "90988",
+        "soundcloud": "90988",
+        "appleMusic": "90988"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "111582",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:14:07.799Z",
+  "scrapeVersion": 2
+}

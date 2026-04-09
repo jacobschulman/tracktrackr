@@ -1,0 +1,766 @@
+{
+  "tlId": "195yxuvk",
+  "dj": "San Holo",
+  "stage": "EDC Orlando",
+  "date": "2019-11-09",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/195yxuvk/san-holo-edc-orlando-united-states-2019-11-09.html",
+  "djs": [
+    {
+      "name": "San Holo",
+      "slug": "sanholo"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "San Holo ft. Sofie Winterson",
+      "title": "Lift Me From The Ground",
+      "remix": "(Live Edit)",
+      "label": "BITBIRD",
+      "trackId": "4487931",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "433052",
+        "youtube": "433052",
+        "soundcloud": "433052",
+        "appleMusic": "433052"
+      },
+      "blendGroup": [
+        {
+          "artist": "San Holo ft. Sofie Winterson",
+          "title": "Lift Me From The Ground",
+          "remix": "(Live Edit)",
+          "trackId": "4487931"
+        },
+        {
+          "artist": "San Holo ft. Sofie Winterson",
+          "title": "Lift Me From The Ground (Jaron Remix)",
+          "remix": "",
+          "trackId": "4487932"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "San Holo ft. Sofie Winterson",
+      "title": "Lift Me From The Ground (Jaron Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4487932",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "456911",
+        "youtube": "456911",
+        "soundcloud": "456911",
+        "appleMusic": "456911"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "San Holo ft. The Nicholas",
+      "title": "Voices In My Head",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4487933",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 270,
+      "mediaIds": {
+        "spotify": "443326",
+        "youtube": "443326",
+        "soundcloud": "443326",
+        "appleMusic": "443326"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "San Holo",
+      "title": "Fly",
+      "remix": "",
+      "label": "HEROIC",
+      "trackId": "4487934",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 310,
+      "mediaIds": {
+        "spotify": "224717",
+        "youtube": "224717",
+        "soundcloud": "224717",
+        "appleMusic": "224717"
+      },
+      "blendGroup": [
+        {
+          "artist": "San Holo",
+          "title": "Fly",
+          "remix": "",
+          "trackId": "4487934"
+        },
+        {
+          "artist": "San Holo",
+          "title": "Fly (VIP)",
+          "remix": "",
+          "trackId": "4487935"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "San Holo",
+      "title": "Fly (VIP)",
+      "remix": "",
+      "label": "HEROIC",
+      "trackId": "4487935",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "515138",
+        "soundcloud": "515138"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "San Holo ft. EASTGHOST & Analogue Dear & Taska Black & DROELOE & Losi & ILIVEHERE. & Goslo",
+      "title": "If Only (Mega Collab)",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4487936",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "389443",
+        "youtube": "389443",
+        "soundcloud": "389443"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Ribb[]n",
+      "title": "Piece Of Mind",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4487937",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "487361",
+        "youtube": "487361",
+        "soundcloud": "487361",
+        "appleMusic": "487361"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "San Holo",
+      "title": "Still Looking",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4487938",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 720,
+      "mediaIds": {
+        "spotify": "311987",
+        "youtube": "311987",
+        "soundcloud": "311987",
+        "appleMusic": "311987"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "San Holo",
+      "title": "BWU (VIP)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4497250",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Former Hero",
+      "title": "Erase You",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4497251",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "490506",
+        "youtube": "490506",
+        "soundcloud": "490506",
+        "appleMusic": "490506"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Former Hero",
+      "title": "Changing Tense",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4487939",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1080,
+      "mediaIds": {
+        "spotify": "469799",
+        "youtube": "469799",
+        "soundcloud": "469799",
+        "appleMusic": "469799"
+      },
+      "blendGroup": [
+        {
+          "artist": "Former Hero",
+          "title": "Changing Tense",
+          "remix": "",
+          "trackId": "4487939"
+        },
+        {
+          "artist": "San Holo",
+          "title": "Light",
+          "remix": "",
+          "trackId": "4487940"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "San Holo",
+      "title": "Light",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4487940",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "335752",
+        "youtube": "335752",
+        "soundcloud": "335752",
+        "appleMusic": "335752"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "San Holo",
+      "title": "We Rise",
+      "remix": "(Live Edit)",
+      "label": "NEST (OWSLA)",
+      "trackId": "4487941",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1140,
+      "mediaIds": {
+        "spotify": "242791",
+        "youtube": "242791",
+        "soundcloud": "242791",
+        "appleMusic": "242791"
+      },
+      "blendGroup": [
+        {
+          "artist": "San Holo",
+          "title": "We Rise",
+          "remix": "(Live Edit)",
+          "trackId": "4487941"
+        },
+        {
+          "artist": "San Holo",
+          "title": "We Rise (VIP)",
+          "remix": "",
+          "trackId": "4487942"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "San Holo",
+      "title": "We Rise (VIP)",
+      "remix": "",
+      "label": "NEST (OWSLA)",
+      "trackId": "4487942",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "366069"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "EPROM",
+      "title": "Hurricane (San Holo Edit)",
+      "remix": "",
+      "label": "RWINA",
+      "trackId": "4487943",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1410,
+      "mediaIds": {
+        "youtube": "274297",
+        "soundcloud": "274297"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "San Holo",
+      "title": "Victory",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "4780589",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1483,
+      "mediaIds": {
+        "spotify": "256531",
+        "youtube": "256531",
+        "soundcloud": "256531",
+        "appleMusic": "256531"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "San Holo",
+      "title": "Show Me (SouKO Remix)",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4780590",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1565,
+      "mediaIds": {
+        "youtube": "513845"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Dr. Dre ft. Snoop Dogg & Kurupt & Nate Dogg",
+      "title": "The Next Episode (San Holo Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4487944",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1680,
+      "mediaIds": {
+        "youtube": "219326",
+        "soundcloud": "219326"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "OutKast",
+      "title": "Ms. Jackson (San Holo Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4487945",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": {
+        "spotify": "241839",
+        "youtube": "241839"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Nelly",
+      "title": "Ride Wit Me (San Holo Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4487946",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1840,
+      "mediaIds": {
+        "youtube": "274288",
+        "soundcloud": "274288"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "San Holo",
+      "title": "Everything Matters (When It Comes To You) (Aiobahn Remix)",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4487947",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1935,
+      "mediaIds": {
+        "spotify": "497074",
+        "youtube": "497074",
+        "soundcloud": "497074",
+        "appleMusic": "497074"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "San Holo",
+      "title": "Lost Lately",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4487948",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2040,
+      "mediaIds": {
+        "spotify": "502811",
+        "youtube": "502811",
+        "soundcloud": "502811",
+        "appleMusic": "502811"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "DROELOE",
+      "title": "Only Be Me (Duskus Remix)",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4487949",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2100,
+      "mediaIds": {
+        "spotify": "479211",
+        "youtube": "479211",
+        "soundcloud": "479211",
+        "appleMusic": "479211"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "San Holo",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4488154",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2160,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "The Legend Of Zelda: Ocarina Of Time",
+      "title": "Song Of Storms (Deon Custom Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4488155",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2290,
+      "mediaIds": {
+        "soundcloud": "401379"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "San Holo",
+      "title": "One Thing",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4488156",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2370,
+      "mediaIds": {
+        "spotify": "389894",
+        "youtube": "389894",
+        "soundcloud": "389894",
+        "appleMusic": "389894"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "San Holo ft. Bipolar Sunshine",
+      "title": "Brighter Days",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4488157",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2485,
+      "mediaIds": {
+        "spotify": "440044",
+        "youtube": "440044",
+        "soundcloud": "440044",
+        "appleMusic": "440044"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "San Holo",
+      "title": "I Still See Your Face",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4488158",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2640,
+      "mediaIds": {
+        "spotify": "380011",
+        "youtube": "380011",
+        "soundcloud": "380011",
+        "appleMusic": "380011"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Duskus & San Holo",
+      "title": "Forever Free",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4488159",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2730,
+      "mediaIds": {
+        "spotify": "442638",
+        "youtube": "442638",
+        "soundcloud": "442638",
+        "appleMusic": "442638"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "San Holo ft. The Nicholas",
+      "title": "They Just Haven't Seen It",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "4488160",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2855,
+      "mediaIds": {
+        "spotify": "300816",
+        "youtube": "300816",
+        "soundcloud": "300816",
+        "appleMusic": "300816"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Rae Sremmurd",
+      "title": "No Type(Prod. by Mike WiLL Made It)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "4488161",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2940,
+      "mediaIds": {
+        "spotify": "219460",
+        "youtube": "219460",
+        "soundcloud": "219460",
+        "appleMusic": "219460"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rae Sremmurd",
+          "title": "No Type(Prod. by Mike WiLL Made It)",
+          "remix": "",
+          "trackId": "4488161"
+        },
+        {
+          "artist": "Eptic",
+          "title": "The End (Breaux VIP)",
+          "remix": "",
+          "trackId": "4489366"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eptic",
+      "title": "The End (Breaux VIP)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4489366",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "257175",
+        "soundcloud": "257175"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Point Point",
+      "title": "doubleOreo (San Holo Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "4780591",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3076,
+      "mediaIds": {
+        "youtube": "246603",
+        "soundcloud": "246603"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "San Holo",
+      "title": "Vestal Avenue",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4780592",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3182,
+      "mediaIds": {
+        "spotify": "443328",
+        "youtube": "443328",
+        "soundcloud": "443328",
+        "appleMusic": "443328"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "San Holo ft. James Vincent McMorrow",
+      "title": "The Future",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4488163",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3253,
+      "mediaIds": {
+        "spotify": "366068",
+        "youtube": "366068",
+        "soundcloud": "366068",
+        "appleMusic": "366068"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "San Holo ft. James Vincent McMorrow",
+      "title": "The Future (Vincent Remix)",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4488164",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3300,
+      "mediaIds": {
+        "spotify": "374290",
+        "youtube": "374290",
+        "soundcloud": "374290",
+        "appleMusic": "374290"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "San Holo",
+      "title": "Lead Me Back (VIP)",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4780593",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 3369,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Jan Level",
+      "title": "I Believe",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "4488165",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 3430,
+      "mediaIds": {
+        "spotify": "328328",
+        "youtube": "328328",
+        "soundcloud": "328328",
+        "appleMusic": "328328"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Tiësto ft. Jónsi",
+      "title": "Kaleidoscope (San Holo Edit)",
+      "remix": "",
+      "label": "MAGIK MUZIK (BLACK HOLE)",
+      "trackId": "4780594",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3499,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "San Holo",
+      "title": "Light",
+      "remix": "(Outro Edit)",
+      "label": "BITBIRD",
+      "trackId": "4488166",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 3635,
+      "mediaIds": {
+        "spotify": "335752",
+        "youtube": "335752",
+        "soundcloud": "335752",
+        "appleMusic": "335752"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1425093",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=F70n8duV6hI"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:04:26.618Z",
+  "scrapeVersion": 2
+}

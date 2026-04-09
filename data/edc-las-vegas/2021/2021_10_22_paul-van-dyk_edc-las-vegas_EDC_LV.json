@@ -1,0 +1,159 @@
+{
+  "tlId": "23cwm841",
+  "dj": "Paul van Dyk",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-22",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/23cwm841/paul-van-dyk-quantumvalley-edc-las-vegas-united-states-2021-10-22.html",
+  "djs": [
+    {
+      "name": "Paul van Dyk",
+      "slug": "paulvandyk"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Andrew Robbixen",
+      "title": "Tornado",
+      "remix": "",
+      "label": "VANDIT",
+      "trackId": "6898168",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "761074",
+        "youtube": "761074",
+        "soundcloud": "761074",
+        "appleMusic": "761074"
+      },
+      "blendGroup": [
+        {
+          "artist": "Andrew Robbixen",
+          "title": "Tornado",
+          "remix": "",
+          "trackId": "6898168"
+        },
+        {
+          "artist": "Paul van Dyk & Shedona",
+          "title": "Exhale",
+          "remix": "",
+          "trackId": "7346310"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Paul van Dyk & Shedona",
+      "title": "Exhale",
+      "remix": "",
+      "label": "VANDIT",
+      "trackId": "7346310",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "604360",
+        "appleMusic": "604360"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Energy 52",
+      "title": "Cafe Del Mar (Paul van Dyk SHINE Remix)",
+      "remix": "",
+      "label": "SUPERSTITION",
+      "trackId": "6898169",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "708767",
+        "youtube": "708767",
+        "soundcloud": "708767",
+        "appleMusic": "708767"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Paul van Dyk & Kolonie",
+      "title": "Wishful Thinking (Paul van Dyk Club Mix)",
+      "remix": "",
+      "label": "VANDIT",
+      "trackId": "6898170",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "740489",
+        "youtube": "740489",
+        "soundcloud": "740489",
+        "appleMusic": "740489"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Paul van Dyk ft. Vega 4",
+      "title": "Time Of Our Lives (Paul van Dyk New Club Edit)",
+      "remix": "",
+      "label": "VANDIT",
+      "trackId": "6898171",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Ciaran McAuley ft. Faith",
+      "title": "Im Coming Home (Paul van Dyk Rework)",
+      "remix": "",
+      "label": "",
+      "trackId": "6898172",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Paul van Dyk ft. Johnny McDaid & Plumb",
+      "title": "Music Rescues Me (Paul van Dyk Mashup)",
+      "remix": "",
+      "label": "VANDIT",
+      "trackId": "6898173",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "575067"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2523497",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=9D6XINDTUGI"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "3896963",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/dsotm"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:40:02.711Z",
+  "scrapeVersion": 2
+}

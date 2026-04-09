@@ -1,0 +1,583 @@
+{
+  "tlId": "1t589ss9",
+  "dj": "San Holo",
+  "stage": "EDC Las Vegas",
+  "date": "2022-05-22",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/1t589ss9/san-holo-cosmicmeadow-edc-las-vegas-united-states-2022-05-22.html",
+  "djs": [
+    {
+      "name": "San Holo",
+      "slug": "sanholo"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "San Holo",
+      "title": "bb u ok?",
+      "remix": "(Live Edit)",
+      "label": "COUNTER (NINJA)",
+      "trackId": "7720198",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 12,
+      "mediaIds": {
+        "spotify": "636300",
+        "youtube": "636300",
+        "soundcloud": "636300",
+        "appleMusic": "636300"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "San Holo ft. Sofie Winterson",
+      "title": "Lift Me From The Ground",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "7720121",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 312,
+      "mediaIds": {
+        "spotify": "433052",
+        "youtube": "433052",
+        "soundcloud": "433052",
+        "appleMusic": "433052"
+      },
+      "blendGroup": [
+        {
+          "artist": "San Holo ft. Sofie Winterson",
+          "title": "Lift Me From The Ground",
+          "remix": "",
+          "trackId": "7720121"
+        },
+        {
+          "artist": "San Holo ft. Sofie Winterson",
+          "title": "Lift Me From The Ground (Jaron Remix)",
+          "remix": "",
+          "trackId": "7720122"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "San Holo ft. Sofie Winterson",
+      "title": "Lift Me From The Ground (Jaron Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7720122",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "456911",
+        "youtube": "456911",
+        "soundcloud": "456911",
+        "appleMusic": "456911"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "San Holo",
+      "title": "black and white",
+      "remix": "",
+      "label": "BITBIRD/COUNTER",
+      "trackId": "7720123",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 510,
+      "mediaIds": {
+        "spotify": "679373",
+        "youtube": "679373",
+        "soundcloud": "679373",
+        "appleMusic": "679373"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "San Holo",
+      "title": "Fly",
+      "remix": "(Live Edit)",
+      "label": "HEROIC",
+      "trackId": "7720124",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 608,
+      "mediaIds": {
+        "spotify": "224717",
+        "youtube": "224717",
+        "soundcloud": "224717",
+        "appleMusic": "224717"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Former Hero",
+      "title": "untitled 143 Dj Tool",
+      "remix": "",
+      "label": "MEADOWDEATH",
+      "trackId": "7720125",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 690,
+      "mediaIds": {
+        "spotify": "910866",
+        "youtube": "910866",
+        "soundcloud": "910866",
+        "appleMusic": "910866"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "San Holo ft. The Nicholas",
+      "title": "Voices In My Head",
+      "remix": "(Live Edit)",
+      "label": "BITBIRD",
+      "trackId": "7720126",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 770,
+      "mediaIds": {
+        "spotify": "443326",
+        "youtube": "443326",
+        "soundcloud": "443326",
+        "appleMusic": "443326"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "San Holo",
+      "title": "i am thinking of you",
+      "remix": "(Live Edit)",
+      "label": "COUNTER (NINJA)",
+      "trackId": "7720127",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 845,
+      "mediaIds": {
+        "spotify": "698235",
+        "youtube": "698235",
+        "soundcloud": "698235",
+        "appleMusic": "698235"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "San Holo",
+      "title": "(if only i could) hold you",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "7720128",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 940,
+      "mediaIds": {
+        "spotify": "578727",
+        "youtube": "578727",
+        "soundcloud": "578727",
+        "appleMusic": "578727"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "San Holo ft. Bipolar Sunshine",
+      "title": "new one",
+      "remix": "",
+      "label": "COUNTER (NINJA)",
+      "trackId": "7720129",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 991,
+      "mediaIds": {
+        "spotify": "698236",
+        "youtube": "698236",
+        "soundcloud": "698236",
+        "appleMusic": "698236"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "San Holo & Jai Wolf",
+      "title": "We Will Meet Again",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "7720130",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1145,
+      "mediaIds": {
+        "spotify": "801164",
+        "youtube": "801164",
+        "soundcloud": "801164",
+        "appleMusic": "801164"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "San Holo ft. The Nicholas",
+      "title": "i just wanna fucking cry",
+      "remix": "(Live Edit)",
+      "label": "COUNTER (NINJA)",
+      "trackId": "7720131",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1340,
+      "mediaIds": {
+        "spotify": "698237",
+        "youtube": "698237",
+        "soundcloud": "698237",
+        "appleMusic": "698237"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7720132",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1460,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7720132"
+        },
+        {
+          "artist": "Dabow",
+          "title": "Ah Nah",
+          "remix": "",
+          "trackId": "7853427"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dabow",
+      "title": "Ah Nah",
+      "remix": "",
+      "label": "KUMO COLLECTIVE",
+      "trackId": "7853427",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1518,
+      "mediaIds": {
+        "spotify": "650829",
+        "youtube": "650829",
+        "soundcloud": "650829",
+        "appleMusic": "650829"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "San Holo",
+      "title": "Show Me",
+      "remix": "(Live Edit)",
+      "label": "BITBIRD",
+      "trackId": "7720134",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1547,
+      "mediaIds": {
+        "spotify": "443322",
+        "youtube": "443322",
+        "soundcloud": "443322",
+        "appleMusic": "443322"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "San Holo",
+      "title": "do you see me?",
+      "remix": "(Live Edit)",
+      "label": "COUNTER (NINJA)",
+      "trackId": "7720135",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1675,
+      "mediaIds": {
+        "spotify": "698243",
+        "youtube": "698243",
+        "soundcloud": "698243",
+        "appleMusic": "698243"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "San Holo ft. Bipolar Sunshine",
+      "title": "Find Your Way",
+      "remix": "(Live Edit)",
+      "label": "COUNTER (NINJA)",
+      "trackId": "7720136",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1798,
+      "mediaIds": {
+        "spotify": "656570",
+        "youtube": "656570",
+        "soundcloud": "656570",
+        "appleMusic": "656570"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "EPROM",
+      "title": "Pineapple (G Jones Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7720137",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1940,
+      "mediaIds": {
+        "spotify": "371305",
+        "youtube": "371305",
+        "soundcloud": "371305",
+        "appleMusic": "371305"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "San Holo",
+      "title": "One Thing",
+      "remix": "(Live Edit)",
+      "label": "BITBIRD",
+      "trackId": "7720138",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1998,
+      "mediaIds": {
+        "spotify": "389894",
+        "youtube": "389894",
+        "soundcloud": "389894",
+        "appleMusic": "389894"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "San Holo",
+      "title": "IT HURTS!",
+      "remix": "(Live Edit)",
+      "label": "COUNTER (NINJA)",
+      "trackId": "7720139",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2078,
+      "mediaIds": {
+        "spotify": "669704",
+        "youtube": "669704",
+        "soundcloud": "669704",
+        "appleMusic": "669704"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "San Holo",
+      "title": "Lost Lately",
+      "remix": "(Live Edit)",
+      "label": "BITBIRD",
+      "trackId": "7720140",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2198,
+      "mediaIds": {
+        "spotify": "502811",
+        "youtube": "502811",
+        "soundcloud": "502811",
+        "appleMusic": "502811"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "San Holo",
+      "title": "i get lonely around people, too",
+      "remix": "(Live Edit)",
+      "label": "COUNTER (NINJA)",
+      "trackId": "7720141",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2312,
+      "mediaIds": {
+        "spotify": "698240",
+        "youtube": "698240",
+        "soundcloud": "698240",
+        "appleMusic": "698240"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Duskus & San Holo",
+      "title": "Forever Free",
+      "remix": "(Live Edit)",
+      "label": "BITBIRD",
+      "trackId": "7720142",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2478,
+      "mediaIds": {
+        "spotify": "442638",
+        "youtube": "442638",
+        "soundcloud": "442638",
+        "appleMusic": "442638"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "San Holo ft. Chet Porter",
+      "title": "You've Changed, I've Changed",
+      "remix": "",
+      "label": "COUNTER (NINJA)",
+      "trackId": "7723599",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2578,
+      "mediaIds": {
+        "spotify": "691093",
+        "youtube": "691093",
+        "soundcloud": "691093",
+        "appleMusic": "691093"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Former Hero",
+      "title": "Foxgloves",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "7720144",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2709,
+      "mediaIds": {
+        "spotify": "710696",
+        "youtube": "710696",
+        "soundcloud": "710696",
+        "appleMusic": "710696"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "San Holo ft. BROODS",
+      "title": "Honest",
+      "remix": "(Live Edit)",
+      "label": "BITBIRD",
+      "trackId": "7723600",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2821,
+      "mediaIds": {
+        "spotify": "552357",
+        "youtube": "552357",
+        "soundcloud": "552357",
+        "appleMusic": "552357"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "San Holo",
+      "title": "We Rise",
+      "remix": "(Live Edit)",
+      "label": "NEST (OWSLA)",
+      "trackId": "7723601",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2925,
+      "mediaIds": {
+        "spotify": "242791",
+        "youtube": "242791",
+        "soundcloud": "242791",
+        "appleMusic": "242791"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "San Holo",
+      "title": "Light",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "7723602",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3220,
+      "mediaIds": {
+        "spotify": "335752",
+        "youtube": "335752",
+        "soundcloud": "335752",
+        "appleMusic": "335752"
+      },
+      "blendGroup": [
+        {
+          "artist": "San Holo",
+          "title": "Light",
+          "remix": "",
+          "trackId": "7723602"
+        },
+        {
+          "artist": "San Holo",
+          "title": "bb u ok?",
+          "remix": "",
+          "trackId": "7723603"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "San Holo",
+      "title": "bb u ok?",
+      "remix": "",
+      "label": "COUNTER (NINJA)",
+      "trackId": "7723603",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "636300",
+        "youtube": "636300",
+        "soundcloud": "636300",
+        "appleMusic": "636300"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2823206",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=lQ4zdJRcbFg"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:43:59.595Z",
+  "scrapeVersion": 2
+}

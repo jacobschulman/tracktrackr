@@ -1,0 +1,997 @@
+{
+  "tlId": "1kquvusk",
+  "dj": "James Hype & Vintage Culture",
+  "stage": "EDC Las Vegas",
+  "date": "2022-05-22",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/1kquvusk/james-hype-vintage-culture-stereobloom-edc-las-vegas-united-states-2022-05-22.html",
+  "djs": [
+    {
+      "name": "James Hype",
+      "slug": "jameshype"
+    },
+    {
+      "name": "Vintage Culture",
+      "slug": "vintageculture"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Carl Cox & Fatboy Slim ft. Dan Diamond",
+      "title": "Speed Trials On Acid (Vintage Culture Remix)",
+      "remix": "",
+      "label": "BMG",
+      "trackId": "7735346",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "50 Cent",
+      "title": "Disco Inferno (Acappella)",
+      "remix": "",
+      "label": "SHADY (INTERSCOPE)",
+      "trackId": "7735347",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 225,
+      "mediaIds": {
+        "spotify": "212428",
+        "youtube": "212428",
+        "soundcloud": "212428",
+        "appleMusic": "212428"
+      },
+      "blendGroup": [
+        {
+          "artist": "50 Cent",
+          "title": "Disco Inferno (Acappella)",
+          "remix": "",
+          "trackId": "7735347"
+        },
+        {
+          "artist": "Sidney Charles",
+          "title": "Jack Endlessly",
+          "remix": "",
+          "trackId": "7735348"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sidney Charles",
+      "title": "Jack Endlessly",
+      "remix": "",
+      "label": "TRUESOUL",
+      "trackId": "7735348",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "398145",
+        "youtube": "398145",
+        "soundcloud": "398145",
+        "appleMusic": "398145"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Pimpo Gama",
+      "title": "Play That Bass",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "7735349",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 410,
+      "mediaIds": {
+        "spotify": "782793",
+        "youtube": "782793",
+        "appleMusic": "782793"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Vintage Culture & James Hype",
+      "title": "You Give Me A Feeling",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "7735351",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 630,
+      "mediaIds": {
+        "spotify": "689900",
+        "youtube": "689900",
+        "soundcloud": "689900",
+        "appleMusic": "689900"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7735352",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 860,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Vintage Culture & Fancy Inc & Roland Clark",
+      "title": "Free",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "7735353",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 940,
+      "mediaIds": {
+        "spotify": "700825",
+        "youtube": "700825",
+        "soundcloud": "700825",
+        "appleMusic": "700825"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Jack Back & Fancy Inc & Roland Clark",
+      "title": "Alive",
+      "remix": "",
+      "label": "SINK OR SWIM",
+      "trackId": "7735354",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1140,
+      "mediaIds": {
+        "spotify": "738485",
+        "youtube": "738485",
+        "soundcloud": "738485",
+        "appleMusic": "738485"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jack Back & Fancy Inc & Roland Clark",
+          "title": "Alive",
+          "remix": "",
+          "trackId": "7735354"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7735355"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7735355",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "08",
+      "artist": "James Hype",
+      "title": "Let Loose",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "7735356",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1320,
+      "mediaIds": {
+        "spotify": "798101",
+        "youtube": "798101",
+        "soundcloud": "798101",
+        "appleMusic": "798101"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Tiga",
+      "title": "Mind Dimension (Ben Sterling Remix)",
+      "remix": "",
+      "label": "DIFFERENT (PIAS)",
+      "trackId": "7735357",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1410,
+      "mediaIds": {
+        "spotify": "791241",
+        "youtube": "791241",
+        "soundcloud": "791241",
+        "appleMusic": "791241"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Crusy",
+      "title": "Party People",
+      "remix": "",
+      "label": "STEREOHYPE",
+      "trackId": "7735358",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1550,
+      "mediaIds": {
+        "spotify": "743256",
+        "youtube": "743256",
+        "soundcloud": "743256",
+        "appleMusic": "743256"
+      },
+      "blendGroup": [
+        {
+          "artist": "Crusy",
+          "title": "Party People",
+          "remix": "",
+          "trackId": "7735358"
+        },
+        {
+          "artist": "Josh Wink pres. Size 9",
+          "title": "I'm Ready",
+          "remix": "",
+          "trackId": "7735359"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Josh Wink pres. Size 9",
+      "title": "I'm Ready",
+      "remix": "",
+      "label": "OVUM",
+      "trackId": "7735359",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "39291"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Vintage Culture",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7735360",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1640,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "MEDUZA ft. Hozier",
+      "title": "Tell It To My Heart (James Hype Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "7735361",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1830,
+      "mediaIds": {
+        "spotify": "753297",
+        "youtube": "753297",
+        "soundcloud": "753297",
+        "appleMusic": "753297"
+      },
+      "blendGroup": [
+        {
+          "artist": "MEDUZA ft. Hozier",
+          "title": "Tell It To My Heart (James Hype Remix)",
+          "remix": "",
+          "trackId": "7735361"
+        },
+        {
+          "artist": "DMX",
+          "title": "Party Up (Up In Here) (Acappella)",
+          "remix": "",
+          "trackId": "7735362"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DMX",
+      "title": "Party Up (Up In Here) (Acappella)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "7735362",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "27196",
+        "youtube": "27196",
+        "soundcloud": "27196",
+        "appleMusic": "27196"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Kid Cudi ft. MGMT & Ratatat",
+      "title": "Pursuit Of Happiness",
+      "remix": "",
+      "label": "REPUBLIC/GOOD MUSIC",
+      "trackId": "7735363",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2020,
+      "mediaIds": {
+        "spotify": "16825",
+        "youtube": "16825",
+        "appleMusic": "16825"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "VOLAC",
+      "title": "To The Beat",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "7735364",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2160,
+      "mediaIds": {
+        "spotify": "795024",
+        "youtube": "795024",
+        "soundcloud": "795024",
+        "appleMusic": "795024"
+      },
+      "blendGroup": [
+        {
+          "artist": "VOLAC",
+          "title": "To The Beat",
+          "remix": "",
+          "trackId": "7735364"
+        },
+        {
+          "artist": "Marvin Gaye",
+          "title": "Got To Give It Up (Acappella)",
+          "remix": "",
+          "trackId": "7735365"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Marvin Gaye",
+      "title": "Got To Give It Up (Acappella)",
+      "remix": "",
+      "label": "TAMLA",
+      "trackId": "7735365",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "24001",
+        "youtube": "24001",
+        "soundcloud": "24001",
+        "appleMusic": "24001"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Steve Angello & Laidback Luke ft. Robin S",
+      "title": "Show Me Love (Vintage Culture Remix)",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "7735366",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2270,
+      "mediaIds": {
+        "spotify": "634379",
+        "youtube": "634379",
+        "soundcloud": "634379",
+        "appleMusic": "634379"
+      },
+      "blendGroup": [
+        {
+          "artist": "Steve Angello & Laidback Luke ft. Robin S",
+          "title": "Show Me Love (Vintage Culture Remix)",
+          "remix": "",
+          "trackId": "7735366"
+        },
+        {
+          "artist": "Marlena Shaw",
+          "title": "Woman Of The Ghetto",
+          "remix": "(Acappella)",
+          "trackId": "7735367"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Marlena Shaw",
+      "title": "Woman Of The Ghetto",
+      "remix": "(Acappella)",
+      "label": "VERVE",
+      "trackId": "7735367",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "181285",
+        "youtube": "181285",
+        "soundcloud": "181285",
+        "appleMusic": "181285"
+      },
+      "blendGroup": [
+        {
+          "artist": "Marlena Shaw",
+          "title": "Woman Of The Ghetto",
+          "remix": "(Acappella)",
+          "trackId": "7735367"
+        },
+        {
+          "artist": "Croatia Squad",
+          "title": "The Vibe",
+          "remix": "",
+          "trackId": "7735368"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Croatia Squad",
+      "title": "The Vibe",
+      "remix": "",
+      "label": "ENORMOUS TUNES",
+      "trackId": "7735368",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "583377",
+        "youtube": "583377",
+        "soundcloud": "583377",
+        "appleMusic": "583377"
+      },
+      "blendGroup": [
+        {
+          "artist": "Croatia Squad",
+          "title": "The Vibe",
+          "remix": "",
+          "trackId": "7735368"
+        },
+        {
+          "artist": "FISHER & Shermanology",
+          "title": "It's A Killa",
+          "remix": "",
+          "trackId": "7735369"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "FISHER & Shermanology",
+      "title": "It's A Killa",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "7735369",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "777129",
+        "youtube": "777129",
+        "soundcloud": "777129",
+        "appleMusic": "777129"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Vintage Culture",
+      "title": "Bros",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "7735370",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2580,
+      "mediaIds": {
+        "spotify": "553238",
+        "youtube": "553238",
+        "soundcloud": "553238",
+        "appleMusic": "553238"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "James Hype",
+      "title": "Dancing",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7735371",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2780,
+      "mediaIds": {
+        "spotify": "667206",
+        "youtube": "667206",
+        "soundcloud": "667206",
+        "appleMusic": "667206"
+      },
+      "blendGroup": [
+        {
+          "artist": "James Hype",
+          "title": "Dancing",
+          "remix": "",
+          "trackId": "7735371"
+        },
+        {
+          "artist": "Aaaron",
+          "title": "Feelin This",
+          "remix": "",
+          "trackId": "7735372"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Aaaron",
+      "title": "Feelin This",
+      "remix": "",
+      "label": "DFTD (DEFECTED)",
+      "trackId": "7735372",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "133379",
+        "youtube": "133379",
+        "soundcloud": "133379",
+        "appleMusic": "133379"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Vintage Culture & GOODBOYS",
+      "title": "This Feeling",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "7735373",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3060,
+      "mediaIds": {
+        "spotify": "787128",
+        "youtube": "787128",
+        "soundcloud": "787128",
+        "appleMusic": "787128"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "James Hype & Tita Lau",
+      "title": "Disconnected",
+      "remix": "",
+      "label": "SOLOTOKO",
+      "trackId": "7735374",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3200,
+      "mediaIds": {
+        "spotify": "707057",
+        "youtube": "707057",
+        "soundcloud": "707057",
+        "appleMusic": "707057"
+      },
+      "blendGroup": [
+        {
+          "artist": "James Hype & Tita Lau",
+          "title": "Disconnected",
+          "remix": "",
+          "trackId": "7735374"
+        },
+        {
+          "artist": "Kill Your Heroes ft. Dave Giles II",
+          "title": "Locked In (Darius Syrossian Remix)",
+          "remix": "",
+          "trackId": "7735375"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kill Your Heroes ft. Dave Giles II",
+      "title": "Locked In (Darius Syrossian Remix)",
+      "remix": "",
+      "label": "SNATCH!",
+      "trackId": "7735375",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "666568",
+        "youtube": "666568",
+        "soundcloud": "666568",
+        "appleMusic": "666568"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Darude",
+      "title": "Sandstorm (Vintage Culture & Zerky VIP)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7735376",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3360,
+      "mediaIds": {
+        "youtube": "534640",
+        "soundcloud": "534640",
+        "appleMusic": "534640"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Patrick Topping",
+      "title": "Forget",
+      "remix": "",
+      "label": "HOT CREATIONS",
+      "trackId": "7735377",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3520,
+      "mediaIds": {
+        "spotify": "184051",
+        "youtube": "184051",
+        "appleMusic": "184051"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Sandy B",
+      "title": "Make The World Go Round (Deep Dish Round The World Remix)",
+      "remix": "",
+      "label": "D:VISION",
+      "trackId": "7735378",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3600,
+      "mediaIds": {
+        "spotify": "433000",
+        "youtube": "433000",
+        "soundcloud": "433000",
+        "appleMusic": "433000"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Roddy Lima",
+      "title": "Last Night",
+      "remix": "",
+      "label": "",
+      "trackId": "7735379",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3720,
+      "mediaIds": {
+        "youtube": "800916",
+        "soundcloud": "800916"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Daft Punk",
+      "title": "One More Time (Visage Music Bootleg)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "7735380",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3870,
+      "mediaIds": {
+        "youtube": "320352"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Ultra Naté",
+      "title": "Free (Acappella)",
+      "remix": "",
+      "label": "STRICTLY RHYTHM",
+      "trackId": "7735381",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3960,
+      "mediaIds": {
+        "spotify": "1506",
+        "youtube": "1506",
+        "soundcloud": "1506",
+        "appleMusic": "1506"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ultra Naté",
+          "title": "Free (Acappella)",
+          "remix": "",
+          "trackId": "7735381"
+        },
+        {
+          "artist": "Julie McDermott",
+          "title": "Don't Go (Gerd Janson Re-Work)",
+          "remix": "",
+          "trackId": "7735382"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Julie McDermott",
+      "title": "Don't Go (Gerd Janson Re-Work)",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "7735382",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "431844",
+        "youtube": "431844",
+        "soundcloud": "431844",
+        "appleMusic": "431844"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "Danny Tenaglia ft. Celeda",
+      "title": "Music Is The Answer (Dancin' And Prancin') (Acappella)",
+      "remix": "",
+      "label": "TWISTED",
+      "trackId": "7735383",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 4110,
+      "mediaIds": {
+        "spotify": "1278",
+        "youtube": "1278",
+        "soundcloud": "1278",
+        "appleMusic": "1278"
+      },
+      "blendGroup": [
+        {
+          "artist": "Danny Tenaglia ft. Celeda",
+          "title": "Music Is The Answer (Dancin' And Prancin') (Acappella)",
+          "remix": "",
+          "trackId": "7735383"
+        },
+        {
+          "artist": "Vintage Culture",
+          "title": "Fractions",
+          "remix": "",
+          "trackId": "7735384"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Vintage Culture",
+      "title": "Fractions",
+      "remix": "",
+      "label": "TOMORROWLAND",
+      "trackId": "7735384",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "767548",
+        "youtube": "767548",
+        "soundcloud": "767548",
+        "appleMusic": "767548"
+      },
+      "blendGroup": [
+        {
+          "artist": "Vintage Culture",
+          "title": "Fractions",
+          "remix": "",
+          "trackId": "7735384"
+        },
+        {
+          "artist": "French Montana ft. Swae Lee",
+          "title": "Unforgettable (Acappella)",
+          "remix": "",
+          "trackId": "7735385"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "French Montana ft. Swae Lee",
+      "title": "Unforgettable (Acappella)",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "7735385",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "350640",
+        "youtube": "350640",
+        "soundcloud": "350640",
+        "appleMusic": "350640"
+      },
+      "blendGroup": [
+        {
+          "artist": "French Montana ft. Swae Lee",
+          "title": "Unforgettable (Acappella)",
+          "remix": "",
+          "trackId": "7735385"
+        },
+        {
+          "artist": "Adam Ten & Mita Gami",
+          "title": "Lego",
+          "remix": "",
+          "trackId": "7735386"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Adam Ten & Mita Gami",
+      "title": "Lego",
+      "remix": "",
+      "label": "DIYNAMIC",
+      "trackId": "7735386",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "730796",
+        "youtube": "730796",
+        "soundcloud": "730796",
+        "appleMusic": "730796"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "Swedish House Mafia ft. Sting",
+      "title": "Redlight (James Hype Remix)",
+      "remix": "",
+      "label": "SSA",
+      "trackId": "7735387",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 4580,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Bingo Players ft. Far East Movement",
+      "title": "Rattle (Get Up) (James Hype Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "7719055",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "MAFFEI",
+      "title": "Yeah",
+      "remix": "",
+      "label": "",
+      "trackId": "7719056",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "798087",
+        "soundcloud": "798087"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Vicente Belenguer & T. Tommy & Luis Mendez",
+      "title": "My Mind",
+      "remix": "",
+      "label": "",
+      "trackId": "7719057",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Vintage Culture & James Hype",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7719058",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Eli Brown",
+      "title": "Sweet Dreams",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "7719061",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "798474",
+        "soundcloud": "798474",
+        "appleMusic": "798474"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Shouse",
+      "title": "Love Tonight (Vintage Culture & Kiko Franco Remix)",
+      "remix": "",
+      "label": "HELL BEACH",
+      "trackId": "7763016",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "657342",
+        "youtube": "657342",
+        "soundcloud": "657342",
+        "appleMusic": "657342"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2822036",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=M1iXDe28LaQ"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:45:33.919Z",
+  "scrapeVersion": 2
+}

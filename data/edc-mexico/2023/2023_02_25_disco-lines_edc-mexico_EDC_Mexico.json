@@ -1,0 +1,596 @@
+{
+  "tlId": "2dskmyw9",
+  "dj": "Disco Lines",
+  "stage": "EDC Mexico",
+  "date": "2023-02-25",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/2dskmyw9/disco-lines-kineticfield-edc-mexico-2023-02-25.html",
+  "djs": [
+    {
+      "name": "Disco Lines",
+      "slug": "discolines"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Disco Lines",
+      "title": "Another Chance",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "8765675",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "865211",
+        "youtube": "865211",
+        "soundcloud": "865211",
+        "appleMusic": "865211"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Azzecca",
+      "title": "I've Been Waiting",
+      "remix": "",
+      "label": "HIGHER GROUND (MAD DECENT)",
+      "trackId": "8765676",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 202,
+      "mediaIds": {
+        "spotify": "804430",
+        "youtube": "804430",
+        "soundcloud": "804430",
+        "appleMusic": "804430"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Skrillex ft. Bobby Raps",
+      "title": "Leave Me Like This",
+      "remix": "",
+      "label": "OWSLA/ATLANTIC",
+      "trackId": "8765677",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 394,
+      "mediaIds": {
+        "spotify": "837030",
+        "youtube": "837030",
+        "soundcloud": "837030",
+        "appleMusic": "837030"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Disco Lines",
+      "title": "Is This Love",
+      "remix": "",
+      "label": "DISCO DISCO DISCO",
+      "trackId": "8765678",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 497,
+      "mediaIds": {
+        "spotify": "869924",
+        "youtube": "869924",
+        "soundcloud": "869924",
+        "appleMusic": "869924"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "MK & Dom Dolla",
+      "title": "Rhyme Dust",
+      "remix": "",
+      "label": "COLUMBIA/ULTRA",
+      "trackId": "8765679",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 620,
+      "mediaIds": {
+        "spotify": "867915",
+        "youtube": "867915",
+        "soundcloud": "867915",
+        "appleMusic": "867915"
+      },
+      "blendGroup": [
+        {
+          "artist": "MK & Dom Dolla",
+          "title": "Rhyme Dust",
+          "remix": "",
+          "trackId": "8765679"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "(Into The Future)",
+          "trackId": "8765680"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "(Into The Future)",
+      "label": "",
+      "trackId": "8765680",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 703,
+      "mediaIds": null
+    },
+    {
+      "pos": "06",
+      "artist": "Taylor Swift",
+      "title": "Love Story (Disco Lines Remix)",
+      "remix": "",
+      "label": "BIG MACHINE (UMG)",
+      "trackId": "8765681",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 855,
+      "mediaIds": {
+        "youtube": "840610",
+        "soundcloud": "840610"
+      },
+      "blendGroup": [
+        {
+          "artist": "Taylor Swift",
+          "title": "Love Story (Disco Lines Remix)",
+          "remix": "",
+          "trackId": "8765681"
+        },
+        {
+          "artist": "Giveon",
+          "title": "Favorite Mistake (Knock2 Remix)",
+          "remix": "",
+          "trackId": "8852745"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Giveon",
+      "title": "Favorite Mistake (Knock2 Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "8852745",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 938,
+      "mediaIds": {
+        "youtube": "759858",
+        "soundcloud": "759858",
+        "appleMusic": "759858"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Disco Lines",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8765682",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1000,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "FREAK ON",
+      "title": "T.F.C.",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "8765683",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1104,
+      "mediaIds": {
+        "spotify": "866685",
+        "youtube": "866685",
+        "soundcloud": "866685",
+        "appleMusic": "866685"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Disco Lines",
+      "title": "Find Me In Da Club !!!",
+      "remix": "",
+      "label": "DISCO DISCO DISCO",
+      "trackId": "8765684",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1212,
+      "mediaIds": {
+        "spotify": "781211",
+        "youtube": "781211",
+        "soundcloud": "781211"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Disco Lines ft. Morgan Harvill",
+      "title": "Techno + Tequila",
+      "remix": "",
+      "label": "DISCO DISCO DISCO",
+      "trackId": "8765685",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1347,
+      "mediaIds": {
+        "spotify": "791261",
+        "youtube": "791261",
+        "soundcloud": "791261",
+        "appleMusic": "791261"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Oliver Schories",
+      "title": "Devon (Oliver Huntemann Remix)",
+      "remix": "",
+      "label": "RITTER BUTZKE",
+      "trackId": "9268907",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1471,
+      "mediaIds": {
+        "spotify": "744855",
+        "youtube": "744855",
+        "soundcloud": "744855",
+        "appleMusic": "744855"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "FISHER & Shermanology",
+      "title": "It's A Killa",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "8765686",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1530,
+      "mediaIds": {
+        "spotify": "777129",
+        "youtube": "777129",
+        "soundcloud": "777129",
+        "appleMusic": "777129"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Space Rangers & Disco Lines",
+      "title": "Till I Die",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "8765687",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1629,
+      "mediaIds": {
+        "spotify": "860412",
+        "youtube": "860412",
+        "soundcloud": "860412",
+        "appleMusic": "860412"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Ship Wrek & Disco Lines",
+      "title": "Misbehave",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "8765688",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1683,
+      "mediaIds": {
+        "spotify": "880761",
+        "youtube": "880761",
+        "soundcloud": "880761",
+        "appleMusic": "880761"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Wax Motif & KURA",
+      "title": "Lo Que Soy",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "8765689",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1834,
+      "mediaIds": {
+        "spotify": "877637",
+        "youtube": "877637",
+        "soundcloud": "877637",
+        "appleMusic": "877637"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Zeds Dead ft. Scrufizzer",
+      "title": "One Three Nine",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "8765691",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1988,
+      "mediaIds": {
+        "spotify": "861754",
+        "youtube": "861754",
+        "soundcloud": "861754",
+        "appleMusic": "861754"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Emmit Fenn",
+      "title": "Control (Disco Lines Remix)",
+      "remix": "",
+      "label": "TH3RD BRAIN",
+      "trackId": "8765692",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2164,
+      "mediaIds": {
+        "spotify": "870244",
+        "youtube": "870244",
+        "soundcloud": "870244",
+        "appleMusic": "870244"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Odd Mob",
+      "title": "Give You",
+      "remix": "",
+      "label": "TINTED",
+      "trackId": "8765693",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2266,
+      "mediaIds": {
+        "spotify": "867822",
+        "youtube": "867822",
+        "soundcloud": "867822",
+        "appleMusic": "867822"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Disco Lines & Juj ft. Kiana Zara",
+      "title": "Gato",
+      "remix": "",
+      "label": "",
+      "trackId": "9268908",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2355,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Left In Detroit",
+      "title": "Yo Mamma",
+      "remix": "",
+      "label": "IN / ROTATION",
+      "trackId": "8765695",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2483,
+      "mediaIds": {
+        "spotify": "525414",
+        "youtube": "525414",
+        "soundcloud": "525414",
+        "appleMusic": "525414"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Disco Lines",
+      "title": "MDMA",
+      "remix": "",
+      "label": "GOOD GOOD",
+      "trackId": "8765696",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2605,
+      "mediaIds": {
+        "spotify": "902894",
+        "youtube": "902894",
+        "soundcloud": "902894",
+        "appleMusic": "902894"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Noizu & SecondCity",
+      "title": "More Love (Camden Cox Remix)",
+      "remix": "",
+      "label": "TECHNE",
+      "trackId": "8765697",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2826,
+      "mediaIds": {
+        "spotify": "839835",
+        "youtube": "839835",
+        "soundcloud": "839835",
+        "appleMusic": "839835"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Disco Lines",
+      "title": "Baby Girl",
+      "remix": "",
+      "label": "DISCO DISCO DISCO",
+      "trackId": "8765698",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2888,
+      "mediaIds": {
+        "spotify": "793733",
+        "youtube": "793733",
+        "soundcloud": "793733",
+        "appleMusic": "793733"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Disco Lines",
+      "title": "Baby Girl (James Hiraeth Remix)",
+      "remix": "",
+      "label": "DISCO DISCO DISCO",
+      "trackId": "8765699",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3056,
+      "mediaIds": {
+        "spotify": "834635",
+        "youtube": "834635",
+        "soundcloud": "834635",
+        "appleMusic": "834635"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Disco Lines",
+      "title": "Restless Bones",
+      "remix": "",
+      "label": "BOO",
+      "trackId": "8765700",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3134,
+      "mediaIds": {
+        "spotify": "838131",
+        "youtube": "838131",
+        "soundcloud": "838131",
+        "appleMusic": "838131"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Rain Radio & Disco Lines",
+      "title": "I See Colors",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "8765701",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3236,
+      "mediaIds": {
+        "spotify": "874999",
+        "youtube": "874999",
+        "soundcloud": "874999",
+        "appleMusic": "874999"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rain Radio & Disco Lines",
+          "title": "I See Colors",
+          "remix": "",
+          "trackId": "8765701"
+        },
+        {
+          "artist": "Benny Benassi ft. Gary Go",
+          "title": "Cinema (Acappella)",
+          "remix": "",
+          "trackId": "8765702"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Benny Benassi ft. Gary Go",
+      "title": "Cinema (Acappella)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "8765702",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "26051",
+        "youtube": "40116",
+        "soundcloud": "26051",
+        "appleMusic": "26051"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "Disco Lines vs Benny Benassi & Gary Go",
+      "title": "Restless Bones vs. Cinema (Disco Lines Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "8765703",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3337,
+      "mediaIds": {
+        "youtube": "8765703"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "3237700",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1456447195"
+    },
+    {
+      "platform": "source_2",
+      "idMedia": "3308063",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/disco-lines-at-edc-mexico-2023-kinetic-field-stage-dj-mix/1677231556/us/album/disco-lines-at-edc-mexico-2023-kinetic-field-stage-dj-mix/1677231556?app=music&at=1000lwkw"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "3290979",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=f53KRCGi9eI"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:59:05.433Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,726 @@
+{
+  "tlId": "1c5r9cyt",
+  "dj": "Deorro",
+  "stage": "EDC Mexico",
+  "date": "2022-02-25",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/1c5r9cyt/deorro-circuitgrounds-edc-mexico-2022-02-25.html",
+  "djs": [
+    {
+      "name": "Deorro",
+      "slug": "deorro"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Deorro & MAKJ & Quintino",
+      "title": "Knockout",
+      "remix": "(Deorro EDC MX Intro)",
+      "label": "SPINNIN'",
+      "trackId": "7376920",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 142,
+      "mediaIds": {
+        "spotify": "421527",
+        "youtube": "421527",
+        "soundcloud": "421527",
+        "appleMusic": "421527"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Azul Azul",
+      "title": "La Bomba (Deorro Moombahton Edit)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "7376921",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 182,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Azul Azul",
+          "title": "La Bomba (Deorro Moombahton Edit)",
+          "remix": "",
+          "trackId": "7376921"
+        },
+        {
+          "artist": "El Chombo",
+          "title": "A Mover El Culo (Cesar Mannix & IAN VII Remix)",
+          "remix": "",
+          "trackId": "7489986"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "El Chombo",
+      "title": "A Mover El Culo (Cesar Mannix & IAN VII Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "7489986",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 244,
+      "mediaIds": null
+    },
+    {
+      "pos": "03",
+      "artist": "Oro Solido",
+      "title": "El Beeper (Clax Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "7376922",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 314,
+      "mediaIds": {
+        "youtube": "631055"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Control",
+      "title": "Tao, Tao",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "7376923",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 367,
+      "mediaIds": {
+        "spotify": "625942",
+        "youtube": "625942",
+        "appleMusic": "625942"
+      },
+      "blendGroup": [
+        {
+          "artist": "Control",
+          "title": "Tao, Tao",
+          "remix": "",
+          "trackId": "7376923"
+        },
+        {
+          "artist": "ETC!ETC! & Deorro",
+          "title": "Hija De Su",
+          "remix": "",
+          "trackId": "7376924"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ETC!ETC! & Deorro",
+      "title": "Hija De Su",
+      "remix": "",
+      "label": "PANDA FUNK",
+      "trackId": "7376924",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 414,
+      "mediaIds": {
+        "spotify": "721034",
+        "youtube": "721034",
+        "soundcloud": "721034",
+        "appleMusic": "721034"
+      },
+      "blendGroup": [
+        {
+          "artist": "ETC!ETC! & Deorro",
+          "title": "Hija De Su",
+          "remix": "",
+          "trackId": "7376924"
+        },
+        {
+          "artist": "Deorro ft. Jon Z",
+          "title": "Ponte Pa' Mi",
+          "remix": "",
+          "trackId": "7376925"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Deorro ft. Jon Z",
+      "title": "Ponte Pa' Mi",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "7376925",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 432,
+      "mediaIds": {
+        "spotify": "711194",
+        "youtube": "711194",
+        "soundcloud": "711194",
+        "appleMusic": "711194"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Deorro & Lua",
+      "title": "Si Tú No Estás Aquí",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "7376926",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 531,
+      "mediaIds": {
+        "spotify": "669366",
+        "youtube": "669366",
+        "soundcloud": "669366",
+        "appleMusic": "669366"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "ACRAZE & Cherish & Sak Noel vs. Deorro & MAKJ vs. Moksi & Mintnite",
+      "title": "Do It To It vs. Retumba vs. Crowd Control (Deorro Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "7376927",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 615,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Masters At Work",
+      "title": "Work",
+      "remix": "",
+      "label": "MAW",
+      "trackId": "7376931",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 888,
+      "mediaIds": {
+        "spotify": "2033",
+        "youtube": "2033",
+        "soundcloud": "2033",
+        "appleMusic": "2033"
+      },
+      "blendGroup": [
+        {
+          "artist": "Masters At Work",
+          "title": "Work",
+          "remix": "",
+          "trackId": "7376931"
+        },
+        {
+          "artist": "Laidback Luke",
+          "title": "Break Down The House",
+          "remix": "",
+          "trackId": "7376932"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Laidback Luke",
+      "title": "Break Down The House",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "7376932",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 915,
+      "mediaIds": {
+        "spotify": "1546",
+        "youtube": "1546",
+        "soundcloud": "1546",
+        "appleMusic": "1546"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "LMFAO ft. Lauren Bennett & Goonrock",
+      "title": "Party Rock Anthem",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "7376933",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 946,
+      "mediaIds": {
+        "spotify": "33868",
+        "youtube": "33868",
+        "soundcloud": "33868",
+        "appleMusic": "33868"
+      },
+      "blendGroup": [
+        {
+          "artist": "LMFAO ft. Lauren Bennett & Goonrock",
+          "title": "Party Rock Anthem",
+          "remix": "",
+          "trackId": "7376933"
+        },
+        {
+          "artist": "TJR",
+          "title": "What's Up Suckaz (Everybody Put Your Hands In The Air Acappella)",
+          "remix": "",
+          "trackId": "7376934"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TJR",
+      "title": "What's Up Suckaz (Everybody Put Your Hands In The Air Acappella)",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "7376934",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "125210",
+        "youtube": "154460",
+        "soundcloud": "125210",
+        "appleMusic": "125210"
+      },
+      "blendGroup": [
+        {
+          "artist": "TJR",
+          "title": "What's Up Suckaz (Everybody Put Your Hands In The Air Acappella)",
+          "remix": "",
+          "trackId": "7376934"
+        },
+        {
+          "artist": "Deorro ft. Jon Z",
+          "title": "Ponte Pa' Mi (Chan Remix)",
+          "remix": "",
+          "trackId": "7376935"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Deorro ft. Jon Z",
+      "title": "Ponte Pa' Mi (Chan Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "7376935",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1006,
+      "mediaIds": {
+        "youtube": "777957",
+        "soundcloud": "777957"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Deorro ft. Elvis Crespo",
+      "title": "Bailar",
+      "remix": "(Intro)",
+      "label": "ULTRA",
+      "trackId": "7376936",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1060,
+      "mediaIds": {
+        "spotify": "307276",
+        "youtube": "307276",
+        "soundcloud": "307276",
+        "appleMusic": "307276"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Deorro & Criminal Sounds",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7376937",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1274,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Oasis",
+      "title": "Wonderwall (Acappella)",
+      "remix": "",
+      "label": "CREATION",
+      "trackId": "7376938",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1451,
+      "mediaIds": {
+        "spotify": "13636",
+        "youtube": "17191",
+        "soundcloud": "13636",
+        "appleMusic": "13636"
+      },
+      "blendGroup": [
+        {
+          "artist": "Oasis",
+          "title": "Wonderwall (Acappella)",
+          "remix": "",
+          "trackId": "7376938"
+        },
+        {
+          "artist": "Celso Piña",
+          "title": "Cumbia Sobre El Rio",
+          "remix": "",
+          "trackId": "7376939"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Celso Piña",
+      "title": "Cumbia Sobre El Rio",
+      "remix": "",
+      "label": "CONCORD",
+      "trackId": "7376939",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "547738",
+        "appleMusic": "547738"
+      },
+      "blendGroup": [
+        {
+          "artist": "Celso Piña",
+          "title": "Cumbia Sobre El Rio",
+          "remix": "",
+          "trackId": "7376939"
+        },
+        {
+          "artist": "Deorro & J-Trick",
+          "title": "Rambo (Deorro VIP Remix)",
+          "remix": "",
+          "trackId": "7376940"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Deorro & J-Trick",
+      "title": "Rambo (Deorro VIP Remix)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "7376940",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1560,
+      "mediaIds": {
+        "soundcloud": "206851"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Deorro",
+      "title": "Five Hours",
+      "remix": "(Intro)",
+      "label": "LE7ELS/ULTRA",
+      "trackId": "7376941",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1602,
+      "mediaIds": {
+        "spotify": "143155",
+        "youtube": "143155",
+        "soundcloud": "143155",
+        "appleMusic": "143155"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Hombres G",
+      "title": "Devuelveme A Mi Chica",
+      "remix": "",
+      "label": "WARNER MUSIC SPAIN",
+      "trackId": "7376942",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1721,
+      "mediaIds": {
+        "spotify": "773693",
+        "youtube": "773693",
+        "appleMusic": "773693"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Maná",
+      "title": "Oye Mi Amor",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "7376943",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1797,
+      "mediaIds": {
+        "spotify": "539796",
+        "youtube": "539796",
+        "appleMusic": "539796"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Los Dutis",
+      "title": "Ponte",
+      "remix": "",
+      "label": "LA CLINICA",
+      "trackId": "7376944",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1947,
+      "mediaIds": {
+        "spotify": "325663",
+        "youtube": "325663",
+        "soundcloud": "325663",
+        "appleMusic": "325663"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Deorro & Los Dutis",
+      "title": "Cuando",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "7376945",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2045,
+      "mediaIds": {
+        "spotify": "581283",
+        "youtube": "581283",
+        "soundcloud": "581283",
+        "appleMusic": "581283"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Deorro & Los Tucanes De Tijuana & Maffio",
+      "title": "Yo Las Pongo",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "7376946",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2160,
+      "mediaIds": {
+        "spotify": "798262",
+        "youtube": "798262",
+        "soundcloud": "798262",
+        "appleMusic": "798262"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Drake",
+      "title": "God's Plan",
+      "remix": "",
+      "label": "OVO",
+      "trackId": "7376947",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2254,
+      "mediaIds": {
+        "spotify": "399604",
+        "youtube": "399604",
+        "soundcloud": "399604",
+        "appleMusic": "399604"
+      },
+      "blendGroup": [
+        {
+          "artist": "Drake",
+          "title": "God's Plan",
+          "remix": "",
+          "trackId": "7376947"
+        },
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "7377133"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+      "title": "Put Ya Fuckin Hands Up (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "7377133",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "16909",
+        "soundcloud": "16909"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "7377133"
+        },
+        {
+          "artist": "GTA & Diplo",
+          "title": "Boy Oh Boy",
+          "remix": "",
+          "trackId": "7376948"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GTA & Diplo",
+      "title": "Boy Oh Boy",
+      "remix": "",
+      "label": "MAD DECENT/FREE",
+      "trackId": "7376948",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 2319,
+      "mediaIds": {
+        "spotify": "117721",
+        "youtube": "117721",
+        "soundcloud": "117721",
+        "appleMusic": "117721"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "IAmChino & Pitbull",
+      "title": "Discoteca (Deorro Remix)",
+      "remix": "",
+      "label": "MR. 305",
+      "trackId": "7376949",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2349,
+      "mediaIds": {
+        "spotify": "780268",
+        "youtube": "780268",
+        "soundcloud": "780268",
+        "appleMusic": "780268"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Deorro & Junkie Kid",
+      "title": "ID",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7376950",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2547,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Deorro",
+      "title": "Como Me Tienes",
+      "remix": "(EDC Mexico Intro)",
+      "label": "ULTRA",
+      "trackId": "7556454",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2705,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Tiësto & Deorro",
+      "title": "Savage(Co-Prod. by SWACQ)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7510221",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2869,
+      "mediaIds": {
+        "spotify": "788129",
+        "youtube": "788129",
+        "soundcloud": "788129",
+        "appleMusic": "788129"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Deorro ft. Adrian Delgado & DyCy",
+      "title": "Perdóname",
+      "remix": "",
+      "label": "ULTRA/PANDA FUNK",
+      "trackId": "7376952",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2998,
+      "mediaIds": {
+        "spotify": "213018",
+        "youtube": "213018",
+        "soundcloud": "213018",
+        "appleMusic": "213018"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Caballo Dorado",
+      "title": "Payaso De Rodeo",
+      "remix": "",
+      "label": "WARNER MUSIC",
+      "trackId": "7377169",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3284,
+      "mediaIds": {
+        "spotify": "773755",
+        "youtube": "773755",
+        "appleMusic": "773755"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2706652",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=WfVLgSCu_9A"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "2705291",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1225413916"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:35:30.868Z",
+  "scrapeVersion": 2
+}

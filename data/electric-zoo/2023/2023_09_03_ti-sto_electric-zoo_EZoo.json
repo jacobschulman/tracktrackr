@@ -1,0 +1,906 @@
+{
+  "tlId": "1lr00clt",
+  "dj": "Tiësto",
+  "stage": "Electric Zoo",
+  "date": "2023-09-03",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/1lr00clt/tiesto-the-convergence-electric-zoo-hyperspace-united-states-2023-09-03.html",
+  "djs": [
+    {
+      "name": "Tiësto",
+      "slug": "tiesto"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Tiësto",
+      "title": "I'll Take You High",
+      "remix": "(Instrumental Edit)",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "9441980",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "723411",
+        "youtube": "723411",
+        "soundcloud": "723411",
+        "appleMusic": "723411"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Tiësto & R3HAB",
+      "title": "Run Free (Countdown)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "9441981",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "923196",
+        "youtube": "923196",
+        "soundcloud": "923196",
+        "appleMusic": "923196"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Firebeatz",
+      "title": "Lose My Sh!t",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "9441982",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "844978",
+        "youtube": "844978",
+        "soundcloud": "844978",
+        "appleMusic": "844978"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Tiësto & Dzeko ft. Preme & Post Malone",
+      "title": "Jackie Chan (Keanu Silva Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/PM:AM",
+      "trackId": "9441983",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "435651",
+        "youtube": "435651",
+        "soundcloud": "435651",
+        "appleMusic": "435651"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & Dzeko ft. Preme & Post Malone",
+          "title": "Jackie Chan (Keanu Silva Remix)",
+          "remix": "",
+          "trackId": "9441983"
+        },
+        {
+          "artist": "MAKJ & Luis Torres",
+          "title": "PSA",
+          "remix": "",
+          "trackId": "9441984"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MAKJ & Luis Torres",
+      "title": "PSA",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "9441984",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "919841",
+        "youtube": "919841",
+        "soundcloud": "919841",
+        "appleMusic": "919841"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Tiësto & Tate McRae vs. NLW & R3HAB & MC Ambush",
+      "title": "10:35 vs. Let Me See Those Hands (Tiësto Mashup)",
+      "remix": "",
+      "label": "WALL/UMG/ATLANTIC/MUSICAL FREEDOM",
+      "trackId": "9441985",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Domiziana",
+      "title": "Ohne Benzin (Tiësto Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "9441986",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "815820"
+      },
+      "blendGroup": [
+        {
+          "artist": "Domiziana",
+          "title": "Ohne Benzin (Tiësto Remix)",
+          "remix": "",
+          "trackId": "9441986"
+        },
+        {
+          "artist": "The Weeknd",
+          "title": "Can't Feel My Face (Acappella)",
+          "remix": "",
+          "trackId": "9441987"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Weeknd",
+      "title": "Can't Feel My Face (Acappella)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "9441987",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "261757",
+        "youtube": "261757",
+        "soundcloud": "261757",
+        "appleMusic": "261757"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Bizarrap & Quevedo",
+      "title": "Quédate (Tiësto Remix)",
+      "remix": "",
+      "label": "DALE PLAY/SONY",
+      "trackId": "9441988",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "830880",
+        "youtube": "830880",
+        "soundcloud": "830880",
+        "appleMusic": "830880"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Tiësto & Black Eyed Peas",
+      "title": "Pump It Louder",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/ATLANTIC",
+      "trackId": "9441989",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "814519",
+        "youtube": "814519",
+        "soundcloud": "814519",
+        "appleMusic": "814519"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Tiësto",
+      "title": "Grapevine",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "9441990",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "418735",
+        "youtube": "418735",
+        "soundcloud": "418735",
+        "appleMusic": "418735"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto",
+          "title": "Grapevine",
+          "remix": "",
+          "trackId": "9441990"
+        },
+        {
+          "artist": "Tiësto & The Chainsmokers",
+          "title": "Split (Only U)",
+          "remix": "",
+          "trackId": "9441991"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & The Chainsmokers",
+      "title": "Split (Only U)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "9441991",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "214231",
+        "youtube": "214231",
+        "soundcloud": "214231",
+        "appleMusic": "214231"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & The Chainsmokers",
+          "title": "Split (Only U)",
+          "remix": "",
+          "trackId": "9441991"
+        },
+        {
+          "artist": "Tiësto & The Chainsmokers",
+          "title": "Split (Only U) (VIP)",
+          "remix": "",
+          "trackId": "9441992"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & The Chainsmokers",
+      "title": "Split (Only U) (VIP)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "9441992",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "10",
+      "artist": "Dillon Francis & Alesso & Clementine Douglas",
+      "title": "Free",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "9441993",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "840590",
+        "youtube": "840590",
+        "soundcloud": "840590",
+        "appleMusic": "840590"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "ANOTR & Abel Balder",
+      "title": "Relax My Eyes (Tiësto Remix)",
+      "remix": "",
+      "label": "NO ART",
+      "trackId": "9441994",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "917670",
+        "soundcloud": "917670"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Lewis Capaldi",
+      "title": "Someone You Loved (Tiësto Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "9442018",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Notre Dame & Tiësto vs. P!nk",
+      "title": "Yumi vs. What About Us (Tiësto Mashup)",
+      "remix": "",
+      "label": "RCA (SONY)/THREE SIX ZERO",
+      "trackId": "9441995",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Tiësto & Tears For Fears & NIIKO X SWAE x GUDFELLA",
+      "title": "Rule The World (Everybody)",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "9441996",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "935476",
+        "youtube": "935476",
+        "soundcloud": "935476",
+        "appleMusic": "935476"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Tiësto & Poppy Baskcomb",
+      "title": "Drifting",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "9441997",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "880059",
+        "youtube": "880059",
+        "soundcloud": "880059",
+        "appleMusic": "880059"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Cannons vs. Tiësto & Matthew Koma vs. M83 & NITTI",
+      "title": "Fire For You vs. Wasted vs. Midnight City (Tiësto Mashup)",
+      "remix": "",
+      "label": "PM:AM (UMG)/COLUMBIA (SONY)/NAIVE",
+      "trackId": "9441998",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Tiësto ft. James Bell",
+      "title": "The Business",
+      "remix": "(VIP)",
+      "label": "ATLANTIC/MUSICAL FREEDOM",
+      "trackId": "9442019",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "615306",
+        "youtube": "615306",
+        "soundcloud": "615306",
+        "appleMusic": "615306"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Tiësto & Sevenn",
+      "title": "BOOM",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/UMG",
+      "trackId": "9442020",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "351739",
+        "youtube": "351739",
+        "soundcloud": "351739",
+        "appleMusic": "351739"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Tiësto vs. Da Hool",
+      "title": "Meet Her",
+      "remix": "",
+      "label": "NITRON (SONY)",
+      "trackId": "9442021",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "894347",
+        "youtube": "894347",
+        "soundcloud": "894347",
+        "appleMusic": "894347"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Knock2",
+      "title": "dashstar*",
+      "remix": "",
+      "label": "NIGHTMODE",
+      "trackId": "9441999",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "653419",
+        "youtube": "653419",
+        "soundcloud": "653419",
+        "appleMusic": "653419"
+      },
+      "blendGroup": [
+        {
+          "artist": "Knock2",
+          "title": "dashstar*",
+          "remix": "",
+          "trackId": "9441999"
+        },
+        {
+          "artist": "Knock2",
+          "title": "dashstar* (VIP)",
+          "remix": "",
+          "trackId": "9442000"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knock2",
+      "title": "dashstar* (VIP)",
+      "remix": "",
+      "label": "NIGHTMODE",
+      "trackId": "9442000",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "762699",
+        "youtube": "762699",
+        "soundcloud": "762699",
+        "appleMusic": "762699"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Lil Uzi Vert vs. Knock2",
+      "title": "Just Wanna Rock vs. dashstar* (VIP) (Tiësto Mashup)",
+      "remix": "",
+      "label": "NIGHTMODE/ATLANTIC (WARNER MUSIC)",
+      "trackId": "9442022",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Avicii",
+      "title": "Levels (W&W Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "9442023",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "419360",
+        "soundcloud": "419360",
+        "appleMusic": "419360"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii",
+          "title": "Levels (W&W Remix)",
+          "remix": "",
+          "trackId": "9442023"
+        },
+        {
+          "artist": "JAUZ & Ephwurd",
+          "title": "Rock The Party",
+          "remix": "",
+          "trackId": "9442024"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAUZ & Ephwurd",
+      "title": "Rock The Party",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "9442024",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "253586",
+        "youtube": "253586",
+        "soundcloud": "253586",
+        "appleMusic": "253586"
+      },
+      "blendGroup": [
+        {
+          "artist": "JAUZ & Ephwurd",
+          "title": "Rock The Party",
+          "remix": "",
+          "trackId": "9442024"
+        },
+        {
+          "artist": "Knock2",
+          "title": "dashstar* (VIP)",
+          "remix": "",
+          "trackId": "9442025"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knock2",
+      "title": "dashstar* (VIP)",
+      "remix": "",
+      "label": "NIGHTMODE",
+      "trackId": "9442025",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "762699",
+        "youtube": "762699",
+        "soundcloud": "762699",
+        "appleMusic": "762699"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Sandro Silva & Quintino & Garmiani vs. JAY-Z & Alicia Keys",
+      "title": "Epic vs. Empire State Of Mind (Tiësto Mashup)",
+      "remix": "",
+      "label": "ROC NATION (SONY)/MUSICAL FREEDOM",
+      "trackId": "9442026",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Axwell Λ Ingrosso ft. Kristoffer Fogelmark",
+      "title": "More Than You Know",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "9442028",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "255105",
+        "youtube": "255105",
+        "soundcloud": "255105",
+        "appleMusic": "255105"
+      },
+      "blendGroup": [
+        {
+          "artist": "Axwell Λ Ingrosso ft. Kristoffer Fogelmark",
+          "title": "More Than You Know",
+          "remix": "",
+          "trackId": "9442028"
+        },
+        {
+          "artist": "Showtek & Justin Prime",
+          "title": "Cannonball",
+          "remix": "",
+          "trackId": "9442029"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Showtek & Justin Prime",
+      "title": "Cannonball",
+      "remix": "",
+      "label": "2DUTCH",
+      "trackId": "9442029",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "100256",
+        "youtube": "100256",
+        "soundcloud": "100256",
+        "appleMusic": "100256"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "R3HAB & Deorro",
+      "title": "Flashlight",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "9442030",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "177775",
+        "youtube": "177775",
+        "soundcloud": "177775",
+        "appleMusic": "177775"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Tiësto & KSHMR ft. VASSY",
+      "title": "Secrets",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/PM:AM",
+      "trackId": "9442031",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "239625",
+        "youtube": "239625",
+        "soundcloud": "239625",
+        "appleMusic": "239625"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone (Pickle Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "9442001",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "840274",
+        "soundcloud": "840274"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "ALOK & Ava Max",
+      "title": "Car Keys (Ayla) (Tiësto Remix)",
+      "remix": "",
+      "label": "B1 (SONY)",
+      "trackId": "9442032",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "910041",
+        "youtube": "910041",
+        "soundcloud": "910041",
+        "appleMusic": "910041"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "ATB & Topic & A7S & Tiësto vs. Michel Zitron",
+      "title": "Your Love (9PM) vs. Red Lights (Tiësto Mashup)",
+      "remix": "",
+      "label": "PM:AM (UMG)/VIRGIN",
+      "trackId": "9442033",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Tiësto & Karol G",
+      "title": "Don't Be Shy (Tiësto VIP Mix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "9442034",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "852725",
+        "appleMusic": "852725"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Dave & Central Cee",
+      "title": "Sprinter (Tiësto Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "9442035",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "906976",
+        "soundcloud": "906976"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Travis Scott ft. Playboi Carti",
+      "title": "FE!N (Tiësto Remix)",
+      "remix": "",
+      "label": "CACTUS JACK",
+      "trackId": "9442036",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Delerium ft. Sarah McLachlan",
+      "title": "Silence (Tiësto 2022 Remix)",
+      "remix": "",
+      "label": "NETTWERK",
+      "trackId": "9442037",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "814378",
+        "appleMusic": "814378"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Randy Katana vs. Age Of Love",
+      "title": "The Fair Of Love (Tiësto Tomorrowland 2022 Mashup)",
+      "remix": "",
+      "label": "SILVER PREMIUM/DIKI",
+      "trackId": "9442051",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Jones & Stephenson",
+      "title": "The First Rebirth (Tiësto Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9442038",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "920772"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Post Malone & Swae Lee",
+      "title": "Sunflower (Tiësto Remix)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "9442052",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Ivan Gough & Feenixpawl & Georgi Kay vs. Gigi D'Agostino",
+      "title": "In My Mind vs. L'amour Toujours (Tiësto Mashup)",
+      "remix": "",
+      "label": "AXTONE/ZYX",
+      "trackId": "9442053",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Tiësto",
+      "title": "Adagio For Strings",
+      "remix": "",
+      "label": "MAGIK MUZIK (BLACK HOLE)",
+      "trackId": "9442054",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5402",
+        "youtube": "5402",
+        "soundcloud": "5402",
+        "appleMusic": "5402"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Issey Cross",
+      "title": "Bittersweet Goodbye (Tiësto Hardcore Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "9442055",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "917674",
+        "youtube": "917674",
+        "soundcloud": "917674",
+        "appleMusic": "917674"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "SZA",
+      "title": "Kill Bill (Tiësto Remix)",
+      "remix": "",
+      "label": "TOP DAWG",
+      "trackId": "9442058",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "923197",
+        "soundcloud": "923197"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T02:41:45.545Z",
+  "scrapeVersion": 2
+}

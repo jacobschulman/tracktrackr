@@ -1,0 +1,739 @@
+{
+  "tlId": "280vkxck",
+  "dj": "Said The Sky",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-22",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/280vkxck/said-the-sky-cosmicmeadow-edc-las-vegas-united-states-2021-10-22.html",
+  "djs": [
+    {
+      "name": "Said The Sky",
+      "slug": "saidthesky"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Said The Sky & Olivver The Kid",
+      "title": "We Know Who We Are (Midnight Kids Remix)",
+      "remix": "",
+      "label": "12TONE",
+      "trackId": "6865754",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 90,
+      "mediaIds": {
+        "spotify": "706284",
+        "youtube": "706284",
+        "appleMusic": "706284"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Said The Sky & Kwesi",
+      "title": "All I Got",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "6865755",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 300,
+      "mediaIds": {
+        "spotify": "387825",
+        "youtube": "387825",
+        "soundcloud": "387825",
+        "appleMusic": "387825"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "MitiS ft. Adara",
+      "title": "Moments",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "6865756",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 360,
+      "mediaIds": {
+        "spotify": "393455",
+        "youtube": "393455",
+        "soundcloud": "393455",
+        "appleMusic": "393455"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "ILLENIUM ft. Jon Bellion",
+      "title": "Good Things Fall Apart",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "6865757",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 525,
+      "mediaIds": {
+        "spotify": "497561",
+        "youtube": "497561",
+        "soundcloud": "497561",
+        "appleMusic": "497561"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Said The Sky & Kerli",
+      "title": "Never Gone",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "6865758",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 600,
+      "mediaIds": {
+        "spotify": "432648",
+        "youtube": "432648",
+        "soundcloud": "432648",
+        "appleMusic": "432648"
+      },
+      "blendGroup": [
+        {
+          "artist": "Said The Sky & Kerli",
+          "title": "Never Gone",
+          "remix": "",
+          "trackId": "6865758"
+        },
+        {
+          "artist": "San Holo ft. Sofie Winterson",
+          "title": "Lift Me From The Ground",
+          "remix": "",
+          "trackId": "6865759"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "San Holo ft. Sofie Winterson",
+      "title": "Lift Me From The Ground",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "6865759",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "433052",
+        "youtube": "433052",
+        "soundcloud": "433052",
+        "appleMusic": "433052"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "RÜFÜS DU SOL vs. RL Grime & graves",
+      "title": "Innerbloom vs. Arcus (graves Edit)",
+      "remix": "",
+      "label": "SWEAT IT OUT!/SABLE VALLEY",
+      "trackId": "6865760",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 705,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "ILLENIUM & Said The Sky",
+      "title": "Where'd U Go",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "6865761",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 760,
+      "mediaIds": {
+        "spotify": "381422",
+        "youtube": "381422",
+        "soundcloud": "381422",
+        "appleMusic": "381422"
+      },
+      "blendGroup": [
+        {
+          "artist": "ILLENIUM & Said The Sky",
+          "title": "Where'd U Go",
+          "remix": "",
+          "trackId": "6865761"
+        },
+        {
+          "artist": "M83",
+          "title": "Midnight City",
+          "remix": "",
+          "trackId": "6865762"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "M83",
+      "title": "Midnight City",
+      "remix": "",
+      "label": "NAIVE",
+      "trackId": "6865762",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "47318",
+        "youtube": "47318",
+        "soundcloud": "47318",
+        "appleMusic": "47318"
+      },
+      "blendGroup": [
+        {
+          "artist": "M83",
+          "title": "Midnight City",
+          "remix": "",
+          "trackId": "6865762"
+        },
+        {
+          "artist": "We The Kings",
+          "title": "Check Yes, Juliet",
+          "remix": "",
+          "trackId": "6878828"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "We The Kings",
+      "title": "Check Yes, Juliet",
+      "remix": "",
+      "label": "LIBERATION",
+      "trackId": "6878828",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "446742",
+        "youtube": "446742",
+        "appleMusic": "446742"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "ILLENIUM & Blanke ft. Bipolar Sunshine",
+      "title": "Gorgeous",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "6865763",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 900,
+      "mediaIds": {
+        "spotify": "516130",
+        "youtube": "516130",
+        "soundcloud": "516130",
+        "appleMusic": "516130"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Kane Brown & blackbear",
+      "title": "Memory",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "6865764",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 980,
+      "mediaIds": {
+        "spotify": "742163",
+        "youtube": "742163",
+        "appleMusic": "742163"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kane Brown & blackbear",
+          "title": "Memory",
+          "remix": "",
+          "trackId": "6865764"
+        },
+        {
+          "artist": "Said The Sky ft. The Maine",
+          "title": "Go On Then, Love",
+          "remix": "",
+          "trackId": "6865765"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Said The Sky ft. The Maine",
+      "title": "Go On Then, Love",
+      "remix": "",
+      "label": "LOWLY/SAID THE SKY",
+      "trackId": "6865765",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "730984",
+        "youtube": "730984",
+        "appleMusic": "730984"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Seven Lions & Illenium & Said The Sky ft. HALIENE vs. Trivecta",
+      "title": "Rush Over Me vs. Shatterpoint (Seven Lions Mashup)",
+      "remix": "",
+      "label": "SEEKING BLUE/ARTIST INTELLIGENCE",
+      "trackId": "6865766",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1215,
+      "mediaIds": {
+        "youtube": "412606",
+        "soundcloud": "412606"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Panic! At The Disco",
+      "title": "I Write Sins Not Tragedies (Said The Sky & FRND Remix)",
+      "remix": "",
+      "label": "FUELED BY RAMEN",
+      "trackId": "6865767",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1538,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Said The Sky ft. Yuppycult",
+      "title": "Just Us",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "6865768",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1640,
+      "mediaIds": {
+        "spotify": "438661",
+        "soundcloud": "438661",
+        "appleMusic": "438661"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Said The Sky & FRND",
+      "title": "Bittersweet Melody",
+      "remix": "",
+      "label": "LOWLY (TRAP NATION)",
+      "trackId": "6865769",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1710,
+      "mediaIds": {
+        "spotify": "771571",
+        "soundcloud": "771571",
+        "appleMusic": "771571"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "ODEA",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6865770",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1810,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ODEA",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6865770"
+        },
+        {
+          "artist": "ILLENIUM ft. Foy Vance",
+          "title": "Blood",
+          "remix": "",
+          "trackId": "6914382"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ILLENIUM ft. Foy Vance",
+      "title": "Blood",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "6914382",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "514951",
+        "youtube": "514951",
+        "soundcloud": "514951",
+        "appleMusic": "514951"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "A Day To Remember vs. Illenium & Said The Sky ft. Sirma",
+      "title": "If It Means A Lot To You vs. Drop Our Hearts, Pt. 2 (Said The Sky Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "6865771",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2015,
+      "mediaIds": {
+        "soundcloud": "6865771"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "RL Grime ft. Jeremy Zucker",
+      "title": "Atoms (Said The Sky Remix)",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "6865772",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2150,
+      "mediaIds": {
+        "spotify": "465277",
+        "youtube": "465277",
+        "soundcloud": "465277",
+        "appleMusic": "465277"
+      },
+      "blendGroup": [
+        {
+          "artist": "RL Grime ft. Jeremy Zucker",
+          "title": "Atoms (Said The Sky Remix)",
+          "remix": "",
+          "trackId": "6865772"
+        },
+        {
+          "artist": "Seven Lions ft. Kerli",
+          "title": "Worlds Apart",
+          "remix": "",
+          "trackId": "6865773"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions ft. Kerli",
+      "title": "Worlds Apart",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "6865773",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "192315",
+        "youtube": "192315",
+        "soundcloud": "192315",
+        "appleMusic": "192315"
+      },
+      "blendGroup": [
+        {
+          "artist": "Seven Lions ft. Kerli",
+          "title": "Worlds Apart",
+          "remix": "",
+          "trackId": "6865773"
+        },
+        {
+          "artist": "Skrillex ft. BEAM",
+          "title": "Mumbai Power",
+          "remix": "",
+          "trackId": "6865774"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex ft. BEAM",
+      "title": "Mumbai Power",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "6865774",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "510349",
+        "youtube": "510349",
+        "soundcloud": "510349",
+        "appleMusic": "510349"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "SLANDER & Said The Sky ft. JT Roach",
+      "title": "Potions (Tisoki Remix)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "6865775",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2335,
+      "mediaIds": {
+        "spotify": "574033",
+        "youtube": "574033",
+        "appleMusic": "574033"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "SLANDER & Said The Sky ft. JT Roach",
+      "title": "Potions (Au5 Remix)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "6865776",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2400,
+      "mediaIds": {
+        "spotify": "571071",
+        "youtube": "571071",
+        "soundcloud": "571071",
+        "appleMusic": "571071"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "SLANDER & Said The Sky ft. JT Roach",
+      "title": "Potions",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "6865777",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2440,
+      "mediaIds": {
+        "spotify": "497484",
+        "youtube": "497484",
+        "soundcloud": "497484",
+        "appleMusic": "497484"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Said The Sky ft. Claire Ridgely",
+      "title": "Show & Tell",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "6865778",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2550,
+      "mediaIds": {
+        "spotify": "362812",
+        "youtube": "362812",
+        "soundcloud": "362812",
+        "appleMusic": "362812"
+      },
+      "blendGroup": [
+        {
+          "artist": "Said The Sky ft. Claire Ridgely",
+          "title": "Show & Tell",
+          "remix": "",
+          "trackId": "6865778"
+        },
+        {
+          "artist": "San Holo",
+          "title": "Light",
+          "remix": "",
+          "trackId": "6865780"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "San Holo",
+      "title": "Light",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "6865780",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "335752",
+        "youtube": "335752",
+        "soundcloud": "335752",
+        "appleMusic": "335752"
+      },
+      "blendGroup": [
+        {
+          "artist": "San Holo",
+          "title": "Light",
+          "remix": "",
+          "trackId": "6865780"
+        },
+        {
+          "artist": "San Holo vs. Kanye West",
+          "title": "Lights (NITTI Remix)",
+          "remix": "",
+          "trackId": "6865781"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "San Holo vs. Kanye West",
+      "title": "Lights (NITTI Remix)",
+      "remix": "",
+      "label": "BITBIRD/ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "6865781",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "370392",
+        "soundcloud": "370392"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Said The Sky & We The Kings",
+      "title": "It Was You",
+      "remix": "",
+      "label": "LOWLY (TRAP NATION)",
+      "trackId": "6865782",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2760,
+      "mediaIds": {
+        "spotify": "771573",
+        "soundcloud": "771573",
+        "appleMusic": "771573"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Said The Sky & Dabin ft. Olivver The Kid",
+      "title": "Hero",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "6865783",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2860,
+      "mediaIds": {
+        "spotify": "532913",
+        "youtube": "532913",
+        "soundcloud": "532913",
+        "appleMusic": "532913"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Said The Sky",
+      "title": "Treading Water",
+      "remix": "",
+      "label": "LOWLY/SAID THE SKY",
+      "trackId": "6865784",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3080,
+      "mediaIds": {
+        "spotify": "717142",
+        "youtube": "717142",
+        "soundcloud": "717142",
+        "appleMusic": "717142"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Owl City",
+      "title": "Fireflies (Said The Sky Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "6865785",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3165,
+      "mediaIds": {
+        "youtube": "368248",
+        "soundcloud": "368248"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "ILLENIUM & Said The Sky ft. Annika Wells",
+      "title": "Sad Songs",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "6865786",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3325,
+      "mediaIds": {
+        "spotify": "516520",
+        "youtube": "516520",
+        "soundcloud": "516520",
+        "appleMusic": "516520"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "ILLENIUM & Said The Sky ft. Rock Mafia",
+      "title": "Crazy Times",
+      "remix": "",
+      "label": "12TONE",
+      "trackId": "6865787",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3445,
+      "mediaIds": {
+        "spotify": "709123",
+        "youtube": "709123",
+        "soundcloud": "709123",
+        "appleMusic": "709123"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "2692843",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1150895464"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:42:46.287Z",
+  "scrapeVersion": 2
+}

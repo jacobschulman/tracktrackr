@@ -1,0 +1,159 @@
+{
+  "tlId": "2nypf8k9",
+  "dj": "Layton Giordani",
+  "stage": "EDC Orlando",
+  "date": "2019-11-09",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/2nypf8k9/layton-giordani-neongarden-edc-orlando-united-states-2019-11-09.html",
+  "djs": [
+    {
+      "name": "Layton Giordani",
+      "slug": "laytongiordani"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Westend",
+      "title": "Friend Zone",
+      "remix": "",
+      "label": "COUNTRY CLUB DISCO",
+      "trackId": "4483759",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "513346",
+        "youtube": "513346",
+        "soundcloud": "513346",
+        "appleMusic": "513346"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Andrea Oliva",
+      "title": "The Repeater (Oscar L Remix)",
+      "remix": "",
+      "label": "TRUESOUL",
+      "trackId": "4483760",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "530807",
+        "youtube": "530807",
+        "soundcloud": "530807",
+        "appleMusic": "530807"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Cuartero",
+      "title": "Repit",
+      "remix": "",
+      "label": "CUARTERO CONCEPT",
+      "trackId": "4483761",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "520671",
+        "youtube": "520671",
+        "appleMusic": "520671"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Detlef",
+      "title": "Music Please",
+      "remix": "",
+      "label": "REPOPULATE MARS",
+      "trackId": "4483762",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "513631",
+        "youtube": "513631",
+        "soundcloud": "513631",
+        "appleMusic": "513631"
+      },
+      "blendGroup": [
+        {
+          "artist": "Detlef",
+          "title": "Music Please",
+          "remix": "",
+          "trackId": "4483762"
+        },
+        {
+          "artist": "Luca M & JUST2",
+          "title": "The Power (Stefano Noferini Re-Edit)",
+          "remix": "",
+          "trackId": "4483763"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Luca M & JUST2",
+      "title": "The Power (Stefano Noferini Re-Edit)",
+      "remix": "",
+      "label": "DEEPERFECT",
+      "trackId": "4483763",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "259622",
+        "youtube": "259622",
+        "soundcloud": "259622",
+        "appleMusic": "259622"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Will Taylor (UK)",
+      "title": "Streetlights",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "4483764",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "515528",
+        "soundcloud": "515528",
+        "appleMusic": "515528"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Green Velvet",
+      "title": "Bigger Than Prince (Darius Syrossian Remix)",
+      "remix": "",
+      "label": "CIRCUS RECORDINGS",
+      "trackId": "4483765",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "204766",
+        "youtube": "204766",
+        "soundcloud": "204766",
+        "appleMusic": "204766"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T17:08:09.043Z",
+  "scrapeVersion": 2
+}

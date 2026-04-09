@@ -1,0 +1,92 @@
+{
+  "tlId": "rjywss9",
+  "dj": "Kölsch",
+  "stage": "EDC Mexico",
+  "date": "2020-02-28",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/rjywss9/kolsch-neongarden-edc-mexico-2020-02-28.html",
+  "djs": [
+    {
+      "name": "Kölsch",
+      "slug": "kolsch"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "5384712",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "5384713",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 300,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Kölsch & Tiga",
+      "title": "HAL",
+      "remix": "",
+      "label": "IPSO",
+      "trackId": "5384714",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "422965",
+        "youtube": "422965",
+        "soundcloud": "422965",
+        "appleMusic": "422965"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Kölsch",
+      "title": "Opa",
+      "remix": "",
+      "label": "KOMPAKT",
+      "trackId": "5384715",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "61538",
+        "youtube": "61538",
+        "soundcloud": "61538",
+        "appleMusic": "61538"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1887325",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=4sbqgqoqaWs"
+    }
+  ],
+  "scrapedAt": "2026-04-08T18:01:44.683Z",
+  "scrapeVersion": 2
+}

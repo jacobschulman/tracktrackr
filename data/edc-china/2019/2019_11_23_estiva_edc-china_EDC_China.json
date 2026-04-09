@@ -1,0 +1,173 @@
+{
+  "tlId": "x2lc59k",
+  "dj": "Estiva",
+  "stage": "EDC China",
+  "date": "2019-11-23",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/x2lc59k/estiva-quantumvalley-edc-china-guangdong-2019-11-23.html",
+  "djs": [
+    {
+      "name": "Estiva",
+      "slug": "estiva"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Marco V",
+      "title": "Simulated (Estiva Remix)",
+      "remix": "",
+      "label": "IN CHARGE (BE YOURSELF)",
+      "trackId": "4512610",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "391789",
+        "youtube": "391789",
+        "soundcloud": "391789",
+        "appleMusic": "391789"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "CamelPhat & Cristoph ft. Jem Cooke",
+      "title": "Breathe",
+      "remix": "",
+      "label": "PRYDA PRESENTS/MINISTRY OF SOUND",
+      "trackId": "4512611",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 100,
+      "mediaIds": {
+        "spotify": "450150",
+        "youtube": "450150",
+        "soundcloud": "450150",
+        "appleMusic": "450150"
+      },
+      "blendGroup": [
+        {
+          "artist": "CamelPhat & Cristoph ft. Jem Cooke",
+          "title": "Breathe",
+          "remix": "",
+          "trackId": "4512611"
+        },
+        {
+          "artist": "Estiva",
+          "title": "Rage Race",
+          "remix": "",
+          "trackId": "4512612"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Estiva",
+      "title": "Rage Race",
+      "remix": "",
+      "label": "STATEMENT!",
+      "trackId": "4512612",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "428743",
+        "appleMusic": "428743"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4512613",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 283,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4512613"
+        },
+        {
+          "artist": "Eric Prydz ft. Tom Cane",
+          "title": "Generate",
+          "remix": "",
+          "trackId": "4512614"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eric Prydz ft. Tom Cane",
+      "title": "Generate",
+      "remix": "",
+      "label": "PRYDA",
+      "trackId": "4512614",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "208177",
+        "youtube": "208177",
+        "soundcloud": "208177",
+        "appleMusic": "208177"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4512615",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 557,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4512615"
+        },
+        {
+          "artist": "Ellie Goulding",
+          "title": "Lights (Acappella)",
+          "remix": "",
+          "trackId": "4512616"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ellie Goulding",
+      "title": "Lights (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "4512616",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "34519",
+        "youtube": "34519",
+        "soundcloud": "34519",
+        "appleMusic": "34519"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T15:39:50.412Z",
+  "scrapeVersion": 2
+}

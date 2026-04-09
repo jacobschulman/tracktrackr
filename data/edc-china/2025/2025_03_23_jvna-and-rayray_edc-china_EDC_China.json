@@ -1,0 +1,742 @@
+{
+  "tlId": "rvnpp79",
+  "dj": "JVNA & RayRay",
+  "stage": "EDC China",
+  "date": "2025-03-23",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/rvnpp79/jvna-rayray-circuitgrounds-edc-china-2025-03-23.html",
+  "djs": [
+    {
+      "name": "JVNA",
+      "slug": "jvna"
+    },
+    {
+      "name": "RayRay",
+      "slug": "rayray"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "RayRay & JVNA",
+      "title": "Butterfly (Hard Techno Remix)",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "13300520",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "RayRay & JVNA",
+          "title": "Butterfly (Hard Techno Remix)",
+          "remix": "",
+          "trackId": "13300520"
+        },
+        {
+          "artist": "RayRay & JVNA",
+          "title": "Butterfly",
+          "remix": "",
+          "trackId": "13300521"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RayRay & JVNA",
+      "title": "Butterfly",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "13300521",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "844241"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "JVNA",
+      "title": "Chemicals",
+      "remix": "",
+      "label": "PROXIMITY",
+      "trackId": "13300522",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "526041",
+        "youtube": "526041",
+        "soundcloud": "526041",
+        "appleMusic": "526041"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Zedd ft. Foxes",
+      "title": "Clarity (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "13300523",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "99468",
+        "youtube": "106505",
+        "soundcloud": "99468",
+        "appleMusic": "99468"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd ft. Foxes",
+          "title": "Clarity (Acappella)",
+          "remix": "",
+          "trackId": "13300523"
+        },
+        {
+          "artist": "KEVU",
+          "title": "Sound Of The Underground",
+          "remix": "",
+          "trackId": "13300524"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "KEVU",
+      "title": "Sound Of The Underground",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13300524",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "878504",
+        "youtube": "878504",
+        "soundcloud": "878504",
+        "appleMusic": "878504"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Gwen Stefani",
+      "title": "Hollaback Girl",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "13300525",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2153",
+        "youtube": "2153",
+        "soundcloud": "2153",
+        "appleMusic": "2153"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Virtual Riot",
+      "title": "REDLINE",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "13300526",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "722494",
+        "youtube": "722494",
+        "soundcloud": "722494",
+        "appleMusic": "722494"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "VINNE & BONKA & RayRay",
+      "title": "Yessir",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13300527",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1026097",
+        "youtube": "1026097",
+        "soundcloud": "1026097",
+        "appleMusic": "1026097"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13300528",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "JVNA & CHYL ft. Demie The Destroyer",
+      "title": "Demon Time",
+      "remix": "",
+      "label": "VIOLET ARROW LLC",
+      "trackId": "13300529",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "894128",
+        "appleMusic": "894128"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "RayRay",
+      "title": "404 (CHYL Remix)",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "13300530",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "910939",
+        "youtube": "910939",
+        "soundcloud": "910939",
+        "appleMusic": "910939"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Skrillex & Mr. Oizo ft. Missy Elliott",
+      "title": "RATATA (TYNAN Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "13300531",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "899196",
+        "soundcloud": "899196"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "JVNA",
+      "title": "Breakdown",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13300532",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "675071",
+        "youtube": "675071",
+        "soundcloud": "675071",
+        "appleMusic": "675071"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "RL Grime & JAWNS",
+      "title": "NME",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "13300533",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "897317",
+        "youtube": "897317",
+        "soundcloud": "897317",
+        "appleMusic": "897317"
+      },
+      "blendGroup": [
+        {
+          "artist": "RL Grime & JAWNS",
+          "title": "NME",
+          "remix": "",
+          "trackId": "13300533"
+        },
+        {
+          "artist": "Flume ft. Kai",
+          "title": "Never Be Like You (Acappella)",
+          "remix": "",
+          "trackId": "13300534"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flume ft. Kai",
+      "title": "Never Be Like You (Acappella)",
+      "remix": "",
+      "label": "FUTURE CLASSIC",
+      "trackId": "13300534",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "328841",
+        "youtube": "328841",
+        "soundcloud": "328841",
+        "appleMusic": "291910"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "RayRay ft. Patrick Brasca",
+      "title": "Just Like You",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "13300535",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "849273",
+        "youtube": "849273",
+        "soundcloud": "849273",
+        "appleMusic": "849273"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Fito Silva",
+      "title": "Blah Blah Blah",
+      "remix": "",
+      "label": "HUMBLE CARTEL",
+      "trackId": "13300536",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1025435",
+        "youtube": "1025435",
+        "soundcloud": "1025435",
+        "appleMusic": "1025435"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "RayRay",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13300537",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "JVNA",
+      "title": "Until Dawn",
+      "remix": "",
+      "label": "VIOLET ARROW LLC",
+      "trackId": "13300538",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1150969",
+        "youtube": "1150969",
+        "soundcloud": "1150969",
+        "appleMusic": "1150969"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "JVNA",
+      "title": "Taking It Slow",
+      "remix": "",
+      "label": "NCS",
+      "trackId": "13300539",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1015296",
+        "youtube": "1015296",
+        "soundcloud": "1015296",
+        "appleMusic": "1015296"
+      },
+      "blendGroup": [
+        {
+          "artist": "JVNA",
+          "title": "Taking It Slow",
+          "remix": "",
+          "trackId": "13300539"
+        },
+        {
+          "artist": "JVNA & HALIENE",
+          "title": "Take Your Throne",
+          "remix": "",
+          "trackId": "13300540"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JVNA & HALIENE",
+      "title": "Take Your Throne",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13300540",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "974191",
+        "youtube": "974191",
+        "appleMusic": "974191"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "JVNA",
+      "title": "I'm With You",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13300541",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "508053",
+        "youtube": "508053",
+        "soundcloud": "508053",
+        "appleMusic": "508053"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Nicolas Julian",
+      "title": "Sucker",
+      "remix": "",
+      "label": "BACKLOG",
+      "trackId": "13300542",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1023425",
+        "youtube": "1023425",
+        "soundcloud": "1023425",
+        "appleMusic": "1023425"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Bassjackers & Wasback",
+      "title": "Set Me Free",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "13300543",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "986751",
+        "youtube": "986751",
+        "soundcloud": "986751",
+        "appleMusic": "986751"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "DSTBL",
+      "title": "Bass Down Low",
+      "remix": "",
+      "label": "TUNECORE",
+      "trackId": "13300544",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1027328",
+        "soundcloud": "1027328",
+        "appleMusic": "1027328"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "RayRay",
+      "title": "Trouble",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "13300545",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1016314",
+        "youtube": "1016314",
+        "soundcloud": "1016314",
+        "appleMusic": "1016314"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "MUGLI PROJECT & Jules Devi",
+      "title": "Vibrate",
+      "remix": "",
+      "label": "REBEAT",
+      "trackId": "13300546",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1083199",
+        "soundcloud": "1083199",
+        "appleMusic": "1083199"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Dimension",
+      "title": "DJ Turn It Up (Ben Nicky Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13300547",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "920418",
+        "youtube": "920418",
+        "soundcloud": "920418",
+        "appleMusic": "920418"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "DJ Snake",
+      "title": "Propaganda",
+      "remix": "",
+      "label": "DJ SNAKE/INTERSCOPE",
+      "trackId": "13300548",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "288201",
+        "youtube": "288201",
+        "soundcloud": "288201",
+        "appleMusic": "288201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Argy & Omnya (IL)",
+      "title": "Aria (Adventure Club Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13300549",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1027880"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "JVNA",
+      "title": "Dance With Me",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13300550",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "JVNA",
+      "title": "Light",
+      "remix": "",
+      "label": "",
+      "trackId": "13300551",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "963626",
+        "appleMusic": "963626"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "SZA",
+      "title": "Kill Bill (JVNA Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13300552",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "RayRay & Red Hood Squad",
+      "title": "Harsh",
+      "remix": "",
+      "label": "WELCOME",
+      "trackId": "13300553",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "767306",
+        "youtube": "767306",
+        "soundcloud": "767306",
+        "appleMusic": "767306"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Marlon Hoffstadt aka DJ Daddy Trance",
+      "title": "It's That Time",
+      "remix": "",
+      "label": "METHOD 808",
+      "trackId": "13300554",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "887970",
+        "youtube": "887970",
+        "soundcloud": "887970",
+        "appleMusic": "887970"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "RayRay",
+      "title": "Hot In This",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "13300555",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1115967",
+        "youtube": "1115967",
+        "soundcloud": "1115967",
+        "appleMusic": "1115967"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "JVNA",
+      "title": "THE WORLD IS MINE",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13300556",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "881974",
+        "youtube": "881974"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Chappell Roan",
+      "title": "HOT TO GO!",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "13300557",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1012784",
+        "youtube": "1012784",
+        "soundcloud": "1012784",
+        "appleMusic": "1012784"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "RayRay & DJ Mii ft. CHYL",
+      "title": "I Think I Like You",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "13300558",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1073773",
+        "youtube": "1073773",
+        "soundcloud": "1073773",
+        "appleMusic": "1073773"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "5152992",
+      "idSource": "13",
+      "url": ""
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:22:49.957Z",
+  "scrapeVersion": 2
+}

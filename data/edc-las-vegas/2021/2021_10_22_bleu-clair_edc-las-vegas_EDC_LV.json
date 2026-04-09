@@ -1,0 +1,503 @@
+{
+  "tlId": "1r8ffs5k",
+  "dj": "Bleu Clair",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-22",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/1r8ffs5k/bleu-clair-stereobloom-edc-las-vegas-united-states-2021-10-22.html",
+  "djs": [
+    {
+      "name": "Bleu Clair",
+      "slug": "bleuclair"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Bleu Clair ft. Jelita",
+      "title": "Have Me All",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6866009",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "702858",
+        "youtube": "702858",
+        "soundcloud": "702858",
+        "appleMusic": "702858"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ANGELZ",
+      "title": "Letter After F",
+      "remix": "",
+      "label": "MAISON SAINTE",
+      "trackId": "6998094",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 160,
+      "mediaIds": {
+        "spotify": "438635",
+        "youtube": "438635",
+        "appleMusic": "438635"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Bleu Clair",
+      "title": "Poison Paradise",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7235986",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 259,
+      "mediaIds": {
+        "youtube": "557385",
+        "soundcloud": "557385"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bleu Clair",
+          "title": "Poison Paradise",
+          "remix": "",
+          "trackId": "7235986"
+        },
+        {
+          "artist": "THYKIER",
+          "title": "You Want",
+          "remix": "",
+          "trackId": "7235988"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "THYKIER",
+      "title": "You Want",
+      "remix": "",
+      "label": "ACTUATION",
+      "trackId": "7235988",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 377,
+      "mediaIds": {
+        "spotify": "707374",
+        "youtube": "707374",
+        "soundcloud": "707374",
+        "appleMusic": "707374"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Bleu Clair",
+      "title": "Out Of My Head",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6866010",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 438,
+      "mediaIds": {
+        "youtube": "740943",
+        "soundcloud": "740943"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "ZDX",
+      "title": "605",
+      "remix": "",
+      "label": "HOUSE VIEWS",
+      "trackId": "7235989",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 606,
+      "mediaIds": {
+        "spotify": "744359",
+        "youtube": "744359",
+        "soundcloud": "744359",
+        "appleMusic": "744359"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Medium Rare",
+      "title": "One Two Step",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7235990",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 667,
+      "mediaIds": {
+        "youtube": "677917",
+        "soundcloud": "677917"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Tchami ft. Daecolm",
+      "title": "Proud (Bleu Clair Remix)",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "7235991",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 835,
+      "mediaIds": {
+        "spotify": "695996",
+        "youtube": "695996",
+        "soundcloud": "695996",
+        "appleMusic": "695996"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Bleu Clair",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6998317",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 935,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Bleu Clair & YTRAM ft. RA",
+      "title": "Make You Mine",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "6866001",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1175,
+      "mediaIds": {
+        "spotify": "596677",
+        "youtube": "596677",
+        "soundcloud": "596677",
+        "appleMusic": "596677"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "ACRAZE ft. Cherish",
+      "title": "Do It To It (Bleu Clair Edit)",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "6877149",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1400,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Bleu Clair",
+      "title": "Jellyfish",
+      "remix": "",
+      "label": "",
+      "trackId": "6866006",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1595,
+      "mediaIds": {
+        "soundcloud": "648669"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Bleu Clair",
+      "title": "American Boy",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7235994",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1820,
+      "mediaIds": {
+        "youtube": "571634",
+        "soundcloud": "571634"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Bleu Clair & Jargen",
+      "title": "Amani",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6866002",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1956,
+      "mediaIds": {
+        "spotify": "718105",
+        "youtube": "718105",
+        "soundcloud": "718105",
+        "appleMusic": "718105"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Matroda & Bleu Clair",
+      "title": "Disco Tool",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7235992",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2170,
+      "mediaIds": {
+        "spotify": "686476",
+        "youtube": "686476",
+        "soundcloud": "686476",
+        "appleMusic": "686476"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Matroda & Bleu Clair",
+      "title": "Disco Tool (OOTORO Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7235993",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2250,
+      "mediaIds": {
+        "spotify": "733953",
+        "youtube": "733953",
+        "soundcloud": "733953",
+        "appleMusic": "733953"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "HODA",
+      "title": "Overthink",
+      "remix": "",
+      "label": "THE ARCHIVES",
+      "trackId": "6877148",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2328,
+      "mediaIds": {
+        "spotify": "649862",
+        "youtube": "649862",
+        "soundcloud": "649862",
+        "appleMusic": "649862"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Bleu Clair ft. Teza Sumendra",
+      "title": "Hyperspace",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6998004",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2403,
+      "mediaIds": {
+        "spotify": "740531",
+        "youtube": "740531",
+        "soundcloud": "740531",
+        "appleMusic": "740531"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Bleu Clair",
+      "title": "Play Jana",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6997999",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2610,
+      "mediaIds": {
+        "spotify": "747958",
+        "youtube": "747958",
+        "soundcloud": "747958",
+        "appleMusic": "747958"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Bleu Clair",
+      "title": "El Pasado",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6998098",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2704,
+      "mediaIds": {
+        "spotify": "748037",
+        "youtube": "748037",
+        "soundcloud": "748037",
+        "appleMusic": "748037"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Bleu Clair",
+      "title": "Hypnotized",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6866790",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2958,
+      "mediaIds": {
+        "spotify": "620775",
+        "youtube": "620775",
+        "soundcloud": "620775",
+        "appleMusic": "620775"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Mary Jane Girls",
+      "title": "All Night Long (Ardalan Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6998099",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3111,
+      "mediaIds": {
+        "youtube": "344823",
+        "soundcloud": "344823"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Kille Billie",
+      "title": "Rock Like A Vandal",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6998005",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3200,
+      "mediaIds": {
+        "soundcloud": "758607"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "JOYRYDE ft. Freddie Gibbs",
+      "title": "Damn (Bleu Clair Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6866007",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3295,
+      "mediaIds": {
+        "youtube": "594861",
+        "soundcloud": "594861"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "AlunaGeorge",
+      "title": "Kaleidoscope Love (KAYTRANADA Remix / Bleu Clair Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "6998006",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3388,
+      "mediaIds": {
+        "youtube": "738506",
+        "soundcloud": "738506"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Bleu Clair ft. Tania Foster",
+      "title": "Better Things",
+      "remix": "",
+      "label": "REALM",
+      "trackId": "6998100",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3480,
+      "mediaIds": {
+        "spotify": "766969",
+        "youtube": "766969",
+        "soundcloud": "766969",
+        "appleMusic": "766969"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Bleu Clair & OOTORO",
+      "title": "Beat Like This",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "6866791",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3611,
+      "mediaIds": {
+        "spotify": "648425",
+        "youtube": "648425",
+        "soundcloud": "648425",
+        "appleMusic": "648425"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2559817",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=CgnJLE5cuCw"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "2559818",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1165849624"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:42:06.785Z",
+  "scrapeVersion": 2
+}

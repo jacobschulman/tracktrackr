@@ -1,0 +1,801 @@
+{
+  "tlId": "77v5t6t",
+  "dj": "Excision",
+  "stage": "EDC Las Vegas",
+  "date": "2015-06-20",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/77v5t6t/excision-basspod-edc-las-vegas-united-states-2015-06-20.html",
+  "djs": [
+    {
+      "name": "Excision",
+      "slug": "excision"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Virtual Riot",
+      "title": "Carrier",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "1493656",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "243513",
+        "youtube": "243513",
+        "soundcloud": "243513",
+        "appleMusic": "243513"
+      },
+      "blendGroup": [
+        {
+          "artist": "Virtual Riot",
+          "title": "Carrier",
+          "remix": "",
+          "trackId": "1493656"
+        },
+        {
+          "artist": "Flux Pavilion",
+          "title": "Vibrate",
+          "remix": "",
+          "trackId": "1493657"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flux Pavilion",
+      "title": "Vibrate",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "1493657",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "266215",
+        "youtube": "266215",
+        "soundcloud": "266215",
+        "appleMusic": "266215"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "SKisM & LAXX",
+      "title": "Hostile (Eptic Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "1493661",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "236130",
+        "youtube": "236130",
+        "soundcloud": "236130",
+        "appleMusic": "236130"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Eptic",
+      "title": "Gun Finga (EH!DE Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "1493662",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "195854"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Skrillex & Kill The Noise ft. Fatman Scoop & Michael Angelakos",
+      "title": "Recess (Flux Pavilion Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "1493663",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "201420",
+        "youtube": "201420",
+        "soundcloud": "201420",
+        "appleMusic": "201420"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Excision & Downlink",
+      "title": "Robo Kitty",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "1493664",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "212975",
+        "youtube": "212975",
+        "soundcloud": "212975",
+        "appleMusic": "212975"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Downlink",
+      "title": "Destroid 5. Activation",
+      "remix": "",
+      "label": "DESTROID",
+      "trackId": "1493665",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "102957",
+        "soundcloud": "102957",
+        "appleMusic": "102957"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Zomboy",
+      "title": "Terror Squad (Bro Safari & Ricky Remedy Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "1493666",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "246600",
+        "youtube": "246600",
+        "soundcloud": "246600",
+        "appleMusic": "246600"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone (BARELY ALIVE Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "1493667",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "226731",
+        "soundcloud": "226731"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1493668",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 585,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Flosstradamus & Valentino Khan",
+      "title": "MFU",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "1485286",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "240878",
+        "youtube": "240878",
+        "soundcloud": "240878",
+        "appleMusic": "240878"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Flux Pavilion ft. Doctor",
+      "title": "International Anthem",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "1485287",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "253557",
+        "youtube": "253557",
+        "soundcloud": "253557",
+        "appleMusic": "253557"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Robots Can't Dance",
+      "title": "Bada Bing (Flux Pavilion & Doctor P Remix)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "1485288",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "243931",
+        "youtube": "243931",
+        "soundcloud": "243931",
+        "appleMusic": "243931"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Excision & Bassnectar",
+      "title": "Destroid 6. Put It Down (Crizzly Remix)",
+      "remix": "",
+      "label": "DESTROID",
+      "trackId": "1485289",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "200684",
+        "youtube": "200684",
+        "soundcloud": "200684",
+        "appleMusic": "200684"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1485290",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 270,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Excision & Downlink & Space Laces",
+      "title": "Destroid 3. Crusaders",
+      "remix": "",
+      "label": "DESTROID",
+      "trackId": "1485291",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "102970",
+        "youtube": "102970",
+        "soundcloud": "102970",
+        "appleMusic": "102970"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Excision",
+      "title": "Live Wire",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "1485292",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "247379",
+        "youtube": "247379",
+        "soundcloud": "247379",
+        "appleMusic": "247379"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Excision & Space Laces",
+      "title": "Destroid 11. Get Stupid",
+      "remix": "",
+      "label": "DESTROID",
+      "trackId": "1485293",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "167414",
+        "youtube": "167414",
+        "soundcloud": "167414",
+        "appleMusic": "167414"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Excision & Downlink & Space Laces",
+      "title": "Destroid 1. Raise Your Fist",
+      "remix": "",
+      "label": "DESTROID",
+      "trackId": "1485294",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "102954",
+        "youtube": "102954",
+        "soundcloud": "102954",
+        "appleMusic": "102954"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Modulation",
+      "title": "Evil Burger",
+      "remix": "",
+      "label": "PANDA FUNK",
+      "trackId": "1485380",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Metropolis & QUEST!",
+      "title": "Theories",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1485296",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 875,
+      "mediaIds": {
+        "youtube": "262230",
+        "soundcloud": "262230"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Zomboy",
+      "title": "Resurrected",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "1485297",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "256021",
+        "youtube": "256021",
+        "soundcloud": "256021",
+        "appleMusic": "256021"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Bear Grillz & TrollPhace",
+      "title": "Marijuana",
+      "remix": "",
+      "label": "FIREPOWER",
+      "trackId": "1485298",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "257569",
+        "youtube": "257569",
+        "soundcloud": "257569",
+        "appleMusic": "257569"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Jaydan",
+      "title": "Big Man Talk",
+      "remix": "",
+      "label": "",
+      "trackId": "1485299",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Excision & Pegboard Nerds ft. Mayor Apeshit",
+      "title": "Bring The Madness",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "1485300",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "212969",
+        "youtube": "212969",
+        "soundcloud": "212969",
+        "appleMusic": "212969"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Excision & Dion Timmer ft. SPLITBREED",
+      "title": "Out Of Time",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "1485301",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "212488",
+        "youtube": "212488",
+        "soundcloud": "212488",
+        "appleMusic": "212488"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Excision & Space Laces",
+      "title": "Push It Up",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "1485302",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "248835",
+        "youtube": "248835",
+        "soundcloud": "248835",
+        "appleMusic": "248835"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "TrollPhace ft. Harvey J",
+      "title": "Make It Bounce",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "1485303",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "228613",
+        "youtube": "228613",
+        "soundcloud": "228613"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "M.I.A.",
+      "title": "Y.A.L.A.(Prod. by The Partysquad) (Bro Safari & Valentino Khan Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1485304",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "180867",
+        "soundcloud": "180867"
+      },
+      "blendGroup": [
+        {
+          "artist": "M.I.A.",
+          "title": "Y.A.L.A.(Prod. by The Partysquad) (Bro Safari & Valentino Khan Remix)",
+          "remix": "",
+          "trackId": "1485304"
+        },
+        {
+          "artist": "Skrillex ft. Diplo & G-Dragon & CL",
+          "title": "Dirty Vibe (DJ Snake & Aazar Remix)",
+          "remix": "",
+          "trackId": "1485305"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex ft. Diplo & G-Dragon & CL",
+      "title": "Dirty Vibe (DJ Snake & Aazar Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "1485305",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "202801",
+        "youtube": "202801",
+        "soundcloud": "202801",
+        "appleMusic": "202801"
+      }
+    },
+    {
+      "pos": "29",
+      "artist": "Nostalgia",
+      "title": "Tear The Roof Out (AFK Remix)",
+      "remix": "",
+      "label": "PRIME AUDIO",
+      "trackId": "1485306",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "257888",
+        "soundcloud": "257888",
+        "appleMusic": "257888"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Zomboy",
+      "title": "Game Time (BARELY ALIVE Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "1485307",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "259501",
+        "youtube": "259501",
+        "soundcloud": "259501",
+        "appleMusic": "259501"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Eptic",
+      "title": "The End",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "1485308",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "220720",
+        "youtube": "220720",
+        "soundcloud": "220720",
+        "appleMusic": "220720"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eptic",
+          "title": "The End",
+          "remix": "",
+          "trackId": "1485308"
+        },
+        {
+          "artist": "MAKJ & Lil Jon",
+          "title": "Let's Get F*cked Up (Acappella)",
+          "remix": "",
+          "trackId": "1485309"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MAKJ & Lil Jon",
+      "title": "Let's Get F*cked Up (Acappella)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "1485309",
+      "row": 31,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "181650",
+        "youtube": "178981",
+        "soundcloud": "178981",
+        "appleMusic": "181650"
+      },
+      "blendGroup": [
+        {
+          "artist": "MAKJ & Lil Jon",
+          "title": "Let's Get F*cked Up (Acappella)",
+          "remix": "",
+          "trackId": "1485309"
+        },
+        {
+          "artist": "BARELY ALIVE",
+          "title": "Poison Dart",
+          "remix": "",
+          "trackId": "1485310"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "BARELY ALIVE",
+      "title": "Poison Dart",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "1485310",
+      "row": 31,
+      "type": "blend",
+      "cueTime": 1685,
+      "mediaIds": {
+        "spotify": "274154",
+        "youtube": "274154",
+        "soundcloud": "274154",
+        "appleMusic": "274154"
+      }
+    },
+    {
+      "pos": "32",
+      "artist": "MUST DIE!",
+      "title": "Hellcat",
+      "remix": "",
+      "label": "NEVER SAY DIE/OWSLA",
+      "trackId": "1485311",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "197661",
+        "youtube": "197661",
+        "soundcloud": "197661",
+        "appleMusic": "197661"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "BadKlaat",
+      "title": "Head Crush",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "1485312",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "236044",
+        "youtube": "236044",
+        "soundcloud": "236044",
+        "appleMusic": "236044"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Flosstradamus & GTA ft. Lil Jon",
+      "title": "Prison Riot",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "1485313",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "231264",
+        "youtube": "231264",
+        "soundcloud": "231264",
+        "appleMusic": "231264"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Diplo ft. Lil Jon",
+      "title": "U Don't Like Me (Datsik Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "1485314",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "48432",
+        "soundcloud": "48432"
+      },
+      "blendGroup": [
+        {
+          "artist": "Diplo ft. Lil Jon",
+          "title": "U Don't Like Me (Datsik Remix)",
+          "remix": "",
+          "trackId": "1485314"
+        },
+        {
+          "artist": "Trolley Snatcha",
+          "title": "Put You On Your Game",
+          "remix": "",
+          "trackId": "1493658"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Trolley Snatcha",
+      "title": "Put You On Your Game",
+      "remix": "",
+      "label": "",
+      "trackId": "1493658",
+      "row": 35,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "36",
+      "artist": "Virtual Riot & Autodrive ft. SPLITBREED",
+      "title": "Nightmare",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "1493659",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "244490",
+        "youtube": "244490",
+        "soundcloud": "244490",
+        "appleMusic": "244490"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Excision & The Frim ft. Luciana",
+      "title": "Night Shine",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "1493660",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "213016",
+        "youtube": "213016",
+        "soundcloud": "213016",
+        "appleMusic": "213016"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T08:25:21.214Z",
+  "scrapeVersion": 2
+}

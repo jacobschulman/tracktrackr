@@ -1,0 +1,140 @@
+{
+  "tlId": "d8mp1kk",
+  "dj": "Ghastly",
+  "stage": "EDC China",
+  "date": "2018-04-29",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/d8mp1kk/ghastly-basspod-edc-china-shanghai-2018-04-29.html",
+  "djs": [
+    {
+      "name": "Ghastly",
+      "slug": "ghastly"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Trampa & Franky Nuts",
+      "title": "They Don't Want It",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "3445878",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "311807",
+        "youtube": "311807",
+        "soundcloud": "311807",
+        "appleMusic": "311807"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Black Tiger Sex Machine ft. Panther",
+      "title": "Face Down (Riot Ten & CYBRPNK Remix)",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "3445879",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 130,
+      "mediaIds": {
+        "spotify": "359556",
+        "youtube": "359556",
+        "soundcloud": "359556",
+        "appleMusic": "359556"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Zomboy",
+      "title": "Like A Bitch (Slushii & Volt Edit)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "3445880",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 180,
+      "mediaIds": {
+        "youtube": "381201"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zomboy",
+          "title": "Like A Bitch (Slushii & Volt Edit)",
+          "remix": "",
+          "trackId": "3445880"
+        },
+        {
+          "artist": "Excision & Space Laces",
+          "title": "Throwin' Elbows",
+          "remix": "",
+          "trackId": "3445881"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Space Laces",
+      "title": "Throwin' Elbows",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "3445881",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "320314",
+        "youtube": "320314",
+        "soundcloud": "320314",
+        "appleMusic": "320314"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Ghastly",
+      "title": "Geisha",
+      "remix": "",
+      "label": "GHASTLY",
+      "trackId": "3445883",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 500,
+      "mediaIds": {
+        "spotify": "377137",
+        "youtube": "377137",
+        "soundcloud": "377137",
+        "appleMusic": "377137"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Ghastly",
+      "title": "LSD",
+      "remix": "",
+      "label": "GHASTLY",
+      "trackId": "3445884",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 570,
+      "mediaIds": {
+        "spotify": "411392",
+        "youtube": "411392",
+        "soundcloud": "411392",
+        "appleMusic": "411392"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T15:55:39.377Z",
+  "scrapeVersion": 2
+}

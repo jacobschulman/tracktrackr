@@ -1,0 +1,150 @@
+{
+  "tlId": "rdycuk",
+  "dj": "Alesso",
+  "stage": "EDC Las Vegas",
+  "date": "2011-06-26",
+  "year": 2011,
+  "url": "https://www.1001tracklists.com/tracklist/rdycuk/alesso-kineticfield-edc-las-vegas-united-states-2011-06-26.html",
+  "djs": [
+    {
+      "name": "Alesso",
+      "slug": "alesso"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Cirez D",
+      "title": "Full Stop",
+      "remix": "",
+      "label": "MOUSEVILLE",
+      "trackId": "73568",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "28009",
+        "youtube": "28009",
+        "soundcloud": "28009",
+        "appleMusic": "28009"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cirez D",
+          "title": "Full Stop",
+          "remix": "",
+          "trackId": "73568"
+        },
+        {
+          "artist": "Eric Prydz ft. Adeva",
+          "title": "In & Out (Acappella)",
+          "remix": "",
+          "trackId": "1325645"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eric Prydz ft. Adeva",
+      "title": "In & Out (Acappella)",
+      "remix": "",
+      "label": "JOIA",
+      "trackId": "1325645",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "02",
+      "artist": "Third ≡ Party",
+      "title": "Release",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "73569",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "22437",
+        "youtube": "22437",
+        "soundcloud": "22437",
+        "appleMusic": "22437"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "LMFAO ft. Lauren Bennett & Goonrock",
+      "title": "Party Rock Anthem (Alesso Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "73570",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "35219",
+        "youtube": "35219",
+        "soundcloud": "35219"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Dúné",
+      "title": "Heiress Of Valentina (Alesso Remix)",
+      "remix": "",
+      "label": "NERO (JOIA)",
+      "trackId": "73571",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "24472",
+        "youtube": "24472",
+        "soundcloud": "24472",
+        "appleMusic": "24472"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Peter Brown & Swanky Tunes vs. Wolfgang Gartner",
+      "title": "I'll House Space Junk (Alesso Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "73572",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Nadia Ali & Starkillers & Alex Kenji",
+      "title": "Pressure (Alesso Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "73573",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "32288",
+        "youtube": "32288",
+        "soundcloud": "32288",
+        "appleMusic": "32288"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T13:44:54.504Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,619 @@
+{
+  "tlId": "sg586zk",
+  "dj": "ARMNHMR",
+  "stage": "EDC Las Vegas",
+  "date": "2020-05-15",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/sg586zk/armnhmr-edc-las-vegas-virtual-rave-a-thon-united-states-2020-05-15.html",
+  "djs": [
+    {
+      "name": "ARMNHMR",
+      "slug": "armnhmr"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ARMNHMR ft. NKOLO",
+      "title": "Oceans",
+      "remix": "",
+      "label": "TRAP CITY (SPINNIN')",
+      "trackId": "4960483",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 52,
+      "mediaIds": {
+        "spotify": "371485",
+        "youtube": "371485",
+        "soundcloud": "371485",
+        "appleMusic": "371485"
+      },
+      "blendGroup": [
+        {
+          "artist": "ARMNHMR ft. NKOLO",
+          "title": "Oceans",
+          "remix": "",
+          "trackId": "4960483"
+        },
+        {
+          "artist": "ARMNHMR ft. Nevve",
+          "title": "Here With Me",
+          "remix": "",
+          "trackId": "4960894"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ARMNHMR ft. Nevve",
+      "title": "Here With Me",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "4960894",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "550589",
+        "youtube": "550589",
+        "soundcloud": "550589",
+        "appleMusic": "550589"
+      },
+      "blendGroup": [
+        {
+          "artist": "ARMNHMR ft. Nevve",
+          "title": "Here With Me",
+          "remix": "",
+          "trackId": "4960894"
+        },
+        {
+          "artist": "Blanke",
+          "title": "Control",
+          "remix": "",
+          "trackId": "4960484"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Blanke",
+      "title": "Control",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4960484",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "581112",
+        "youtube": "581112",
+        "soundcloud": "581112",
+        "appleMusic": "581112"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "ARMNHMR & NvrLeft ft. Monika Santucci",
+      "title": "When I Fall",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "4960485",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 180,
+      "mediaIds": {
+        "spotify": "654290",
+        "youtube": "654290",
+        "soundcloud": "654290",
+        "appleMusic": "654290"
+      },
+      "blendGroup": [
+        {
+          "artist": "ARMNHMR & NvrLeft ft. Monika Santucci",
+          "title": "When I Fall",
+          "remix": "",
+          "trackId": "4960485"
+        },
+        {
+          "artist": "Zedd ft. Foxes",
+          "title": "Clarity (Acappella)",
+          "remix": "",
+          "trackId": "4960486"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd ft. Foxes",
+      "title": "Clarity (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "4960486",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "99468",
+        "youtube": "106505",
+        "soundcloud": "99468",
+        "appleMusic": "99468"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "ARMNHMR & Ray Volpe",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4960487",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 270,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ARMNHMR & Ray Volpe",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4960487"
+        },
+        {
+          "artist": "Post Malone",
+          "title": "Circles",
+          "remix": "",
+          "trackId": "4960895"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Post Malone",
+      "title": "Circles",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "4960895",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "525559",
+        "youtube": "525559",
+        "soundcloud": "525559",
+        "appleMusic": "525559"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Dillon Francis & Alison Wonderland",
+      "title": "Lost My Mind (ARMNHMR Remix)",
+      "remix": "",
+      "label": "IDGAFOS",
+      "trackId": "4960489",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 360,
+      "mediaIds": {
+        "spotify": "499042",
+        "youtube": "499042",
+        "soundcloud": "499042",
+        "appleMusic": "499042"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "ATB",
+      "title": "Ecstasy (ARMNHMR & Dathan Flip)",
+      "remix": "",
+      "label": "KONTOR",
+      "trackId": "4960488",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 445,
+      "mediaIds": {
+        "youtube": "287067"
+      },
+      "blendGroup": [
+        {
+          "artist": "ATB",
+          "title": "Ecstasy (ARMNHMR & Dathan Flip)",
+          "remix": "",
+          "trackId": "4960488"
+        },
+        {
+          "artist": "ARMNHMR ft. Micah Martin",
+          "title": "The Universe Is Yours",
+          "remix": "",
+          "trackId": "4960490"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ARMNHMR ft. Micah Martin",
+      "title": "The Universe Is Yours",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "4960490",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "538710",
+        "youtube": "538710",
+        "soundcloud": "538710",
+        "appleMusic": "538710"
+      },
+      "blendGroup": [
+        {
+          "artist": "ARMNHMR ft. Micah Martin",
+          "title": "The Universe Is Yours",
+          "remix": "",
+          "trackId": "4960490"
+        },
+        {
+          "artist": "Kompany",
+          "title": "Justice",
+          "remix": "",
+          "trackId": "4960491"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kompany",
+      "title": "Justice",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "4960491",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "463468",
+        "youtube": "463468",
+        "soundcloud": "463468",
+        "appleMusic": "463468"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "SHARPS & Jiqui",
+      "title": "Drop It",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4960492",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 550,
+      "mediaIds": {
+        "spotify": "563290",
+        "youtube": "563290",
+        "soundcloud": "563290",
+        "appleMusic": "563290"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "ILLENIUM ft. X Ambassadors",
+      "title": "In Your Arms (ARMNHMR Remix)",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "4960493",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 590,
+      "mediaIds": {
+        "spotify": "581113",
+        "youtube": "581113",
+        "soundcloud": "581113",
+        "appleMusic": "581113"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Adventure Club & ARMNHMR ft. HALIENE",
+      "title": "Anywhere",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "4960494",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 680,
+      "mediaIds": {
+        "spotify": "581114",
+        "youtube": "581114",
+        "soundcloud": "581114",
+        "appleMusic": "581114"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "ARMNHMR ft. KARRA",
+      "title": "Silver Lining",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "4960495",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 770,
+      "mediaIds": {
+        "spotify": "531218",
+        "youtube": "531218",
+        "soundcloud": "531218",
+        "appleMusic": "531218"
+      },
+      "blendGroup": [
+        {
+          "artist": "ARMNHMR ft. KARRA",
+          "title": "Silver Lining",
+          "remix": "",
+          "trackId": "4960495"
+        },
+        {
+          "artist": "ARMNHMR ft. KARRA",
+          "title": "Silver Lining (Champagne Drip Remix)",
+          "remix": "",
+          "trackId": "4960496"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ARMNHMR ft. KARRA",
+      "title": "Silver Lining (Champagne Drip Remix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "4960496",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "581115",
+        "youtube": "581115",
+        "soundcloud": "581115",
+        "appleMusic": "581115"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "ARMNHMR ft. Nevve",
+      "title": "Here With Me",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "4960497",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 877,
+      "mediaIds": {
+        "spotify": "550589",
+        "youtube": "550589",
+        "soundcloud": "550589",
+        "appleMusic": "550589"
+      },
+      "blendGroup": [
+        {
+          "artist": "ARMNHMR ft. Nevve",
+          "title": "Here With Me",
+          "remix": "",
+          "trackId": "4960497"
+        },
+        {
+          "artist": "Sebastian Ingrosso & Tommy Trash ft. John Martin",
+          "title": "Reload (Acappella)",
+          "remix": "",
+          "trackId": "4960498"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sebastian Ingrosso & Tommy Trash ft. John Martin",
+      "title": "Reload (Acappella)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "4960498",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "143331",
+        "youtube": "143331",
+        "soundcloud": "143331",
+        "appleMusic": "143331"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "NURKO & ARMNHMR ft. Micah Martin",
+      "title": "Won't Make A Sound",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "4960499",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 977,
+      "mediaIds": {
+        "spotify": "605303",
+        "youtube": "605303",
+        "soundcloud": "605303",
+        "appleMusic": "605303"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "ARMNHMR & Anki",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4960500",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1110,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ARMNHMR & Anki",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4960500"
+        },
+        {
+          "artist": "Above & Beyond ft. Richard Bedford",
+          "title": "Sun & Moon (Acappella)",
+          "remix": "",
+          "trackId": "4960501"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Above & Beyond ft. Richard Bedford",
+      "title": "Sun & Moon (Acappella)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "4960501",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "27878",
+        "youtube": "27878",
+        "soundcloud": "31704",
+        "appleMusic": "27878"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Seven Lions & Tyler Graves",
+      "title": "Only Now",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "4960502",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1215,
+      "mediaIds": {
+        "spotify": "524589",
+        "youtube": "524589",
+        "soundcloud": "524589",
+        "appleMusic": "524589"
+      },
+      "blendGroup": [
+        {
+          "artist": "Seven Lions & Tyler Graves",
+          "title": "Only Now",
+          "remix": "",
+          "trackId": "4960502"
+        },
+        {
+          "artist": "ARMNHMR ft. Luma",
+          "title": "I Don't Know You (Heimanu Remix)",
+          "remix": "",
+          "trackId": "4978161"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ARMNHMR ft. Luma",
+      "title": "I Don't Know You (Heimanu Remix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "4978161",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "592262",
+        "youtube": "592262",
+        "soundcloud": "592262",
+        "appleMusic": "592262"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Billie Eilish & Khalid",
+      "title": "lovely (Aleko Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "4960512",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1307,
+      "mediaIds": {
+        "youtube": "613866",
+        "soundcloud": "613866"
+      },
+      "blendGroup": [
+        {
+          "artist": "Billie Eilish & Khalid",
+          "title": "lovely (Aleko Remix)",
+          "remix": "",
+          "trackId": "4960512"
+        },
+        {
+          "artist": "Bassnectar",
+          "title": "Empathy (Bass Remedy Remix)",
+          "remix": "",
+          "trackId": "4960513"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bassnectar",
+      "title": "Empathy (Bass Remedy Remix)",
+      "remix": "",
+      "label": "AMORPHOUS",
+      "trackId": "4960513",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 1370,
+      "mediaIds": {
+        "spotify": "593942",
+        "youtube": "593942",
+        "appleMusic": "593942"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "The Chainsmokers & ARMNHMR ft. Phoebe Ryan",
+      "title": "Don't Give Up",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "4960514",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1433,
+      "mediaIds": {
+        "soundcloud": "539787"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1712677",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=cbx9RycUoak"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "1702397",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/Quaranstreams1"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:58:20.888Z",
+  "scrapeVersion": 2
+}

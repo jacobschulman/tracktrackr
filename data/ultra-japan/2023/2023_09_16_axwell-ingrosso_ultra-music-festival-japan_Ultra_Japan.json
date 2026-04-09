@@ -1,0 +1,604 @@
+{
+  "tlId": "j8d3dut",
+  "dj": "Axwell Λ Ingrosso",
+  "stage": "Ultra Music Festival Japan",
+  "date": "2023-09-16",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/j8d3dut/axwell-ingrosso-mainstage-ultra-music-festival-japan-2023-09-16.html",
+  "djs": [
+    {
+      "name": "Axwell Λ Ingrosso",
+      "slug": "axwellandingrosso"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Swedish House Mafia",
+      "title": "Can U Feel It",
+      "remix": "(Intro Edit)",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "9490605",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "786071",
+        "youtube": "786071",
+        "soundcloud": "786071",
+        "appleMusic": "786071"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia",
+          "title": "Can U Feel It",
+          "remix": "(Intro Edit)",
+          "trackId": "9490605"
+        },
+        {
+          "artist": "Hook N Sling ft. Karin Park",
+          "title": "Tokyo By Night (Acappella)",
+          "remix": "",
+          "trackId": "9490606"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hook N Sling ft. Karin Park",
+      "title": "Tokyo By Night (Acappella)",
+      "remix": "",
+      "label": "DIVERSION",
+      "trackId": "9490606",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "145229",
+        "youtube": "145229",
+        "soundcloud": "213268",
+        "appleMusic": "145229"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Swedish House Mafia",
+      "title": "It Gets Better vs. Greyhound (Swedish House Mafia Mashup)",
+      "remix": "",
+      "label": "EMI/SSA (REPUBLIC)",
+      "trackId": "9490607",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 150,
+      "mediaIds": {
+        "spotify": "819608",
+        "youtube": "819608",
+        "soundcloud": "819608",
+        "appleMusic": "819608"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Swedish House Mafia ft. Tinie Tempah",
+      "title": "Miami 2 Ibiza (Paradise Again Edit)",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "9490608",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 495,
+      "mediaIds": {
+        "spotify": "790306",
+        "youtube": "790306",
+        "soundcloud": "790306",
+        "appleMusic": "790306"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia ft. Tinie Tempah",
+          "title": "Miami 2 Ibiza (Paradise Again Edit)",
+          "remix": "",
+          "trackId": "9490608"
+        },
+        {
+          "artist": "Axwell Λ Ingrosso ft. Vargas & Lagola",
+          "title": "Something New (Acappella)",
+          "remix": "",
+          "trackId": "9490609"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Axwell Λ Ingrosso ft. Vargas & Lagola",
+      "title": "Something New (Acappella)",
+      "remix": "",
+      "label": "POPHOUSE/DEF JAM",
+      "trackId": "9490609",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "226613",
+        "youtube": "226613",
+        "soundcloud": "226613",
+        "appleMusic": "226613"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Axwell Λ Ingrosso ft. Sanjin",
+      "title": "How Do You Feel Right Now",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "9490610",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 700,
+      "mediaIds": {
+        "spotify": "331623",
+        "youtube": "331623",
+        "soundcloud": "331623",
+        "appleMusic": "331623"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Swedish House Mafia",
+      "title": "Omen",
+      "remix": "",
+      "label": "SUPERHUMAN",
+      "trackId": "9490611",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 788,
+      "mediaIds": {
+        "youtube": "910337",
+        "soundcloud": "910337"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Axwell Λ Ingrosso ft. Kristoffer Fogelmark",
+      "title": "More Than You Know",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "9490612",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1015,
+      "mediaIds": {
+        "spotify": "255105",
+        "youtube": "255105",
+        "soundcloud": "255105",
+        "appleMusic": "255105"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Swedish House Mafia & Knife Party ft. ADL",
+      "title": "Antidote (Swedish House Mafia Rework)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "9490613",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1193,
+      "mediaIds": {
+        "youtube": "812648"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Swedish House Mafia ft. Sting",
+      "title": "Redlight",
+      "remix": "",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "9490614",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1313,
+      "mediaIds": {
+        "spotify": "772366",
+        "youtube": "772366",
+        "soundcloud": "772366",
+        "appleMusic": "772366"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "PARISI x Sebastian Ingrosso x Steve Angello",
+      "title": "U Ok?",
+      "remix": "",
+      "label": "FFRR/MAJOR RECORDINGS",
+      "trackId": "9490615",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1530,
+      "mediaIds": {
+        "spotify": "878016",
+        "youtube": "878016",
+        "soundcloud": "878016",
+        "appleMusic": "878016"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Steve Angello & Laidback Luke & Rowetta",
+      "title": "Be vs. Show Me Love vs. Knas (Swedish House Mafia Mashup)",
+      "remix": "",
+      "label": "MIXMASH/SIZE",
+      "trackId": "9490616",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1700,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Swedish House Mafia & A$AP Rocky",
+      "title": "Frankenstein (Swedish House Mafia Rework)",
+      "remix": "",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "9490617",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1815,
+      "mediaIds": {
+        "soundcloud": "880482"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia & A$AP Rocky",
+          "title": "Frankenstein (Swedish House Mafia Rework)",
+          "remix": "",
+          "trackId": "9490617"
+        },
+        {
+          "artist": "Kevin Saunderson pres. Inner City",
+          "title": "Good Life (Swedish House Mafia Remix)",
+          "remix": "",
+          "trackId": "9490618"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kevin Saunderson pres. Inner City",
+      "title": "Good Life (Swedish House Mafia Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "9490618",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1927,
+      "mediaIds": null
+    },
+    {
+      "pos": "12",
+      "artist": "Swedish House Mafia",
+      "title": "One",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "9490619",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1988,
+      "mediaIds": {
+        "spotify": "16112",
+        "youtube": "16112",
+        "soundcloud": "16112",
+        "appleMusic": "16112"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia",
+          "title": "One",
+          "remix": "",
+          "trackId": "9490619"
+        },
+        {
+          "artist": "Swedish House Mafia ft. Pharrell Williams",
+          "title": "One (Your Name)",
+          "remix": "",
+          "trackId": "9490620"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia ft. Pharrell Williams",
+      "title": "One (Your Name)",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "9490620",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "18080",
+        "youtube": "18080",
+        "soundcloud": "18080",
+        "appleMusic": "18080"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Swedish House Mafia ft. Seinabo Sey",
+      "title": "Don't Go Mad",
+      "remix": "",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "9490621",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2205,
+      "mediaIds": {
+        "spotify": "787908",
+        "youtube": "787908",
+        "soundcloud": "787908",
+        "appleMusic": "787908"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Axwell Λ Ingrosso & Trevor Guthrie vs. Ivan Gough & Feenixpawl ft. Georgi Kay",
+      "title": "Dreamer vs. In My Mind (Axwell Λ Ingrosso Mashup)",
+      "remix": "",
+      "label": "AXTONE/POPHOUSE",
+      "trackId": "9491389",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2425,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Fred again.. & Swedish House Mafia ft. Future",
+      "title": "Turn On The Lights Again..",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "9490622",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2680,
+      "mediaIds": {
+        "spotify": "788426",
+        "youtube": "788426",
+        "soundcloud": "788426",
+        "appleMusic": "788426"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Swedish House Mafia",
+      "title": "Ray Of Solar",
+      "remix": "",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "9490623",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2940,
+      "mediaIds": {
+        "spotify": "904672",
+        "youtube": "904672",
+        "soundcloud": "904672",
+        "appleMusic": "904672"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia",
+          "title": "Ray Of Solar",
+          "remix": "",
+          "trackId": "9490623"
+        },
+        {
+          "artist": "Swedish House Mafia",
+          "title": "Ray Of Solar (Tiësto Remix)",
+          "remix": "",
+          "trackId": "9490624"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia",
+      "title": "Ray Of Solar (Tiësto Remix)",
+      "remix": "",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "9490624",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 3050,
+      "mediaIds": {
+        "spotify": "933403",
+        "youtube": "933403",
+        "soundcloud": "933403",
+        "appleMusic": "933403"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Hans Zimmer vs. Sebastian Ingrosso & Tommy Trash & John Martin vs. Green Velvet & Nicky Romero vs. The Weeknd & Daft Punk",
+      "title": "Cornfield Chase vs. Reload vs. Flash vs. Starboy (Axwell Λ Ingrosso Mashup)",
+      "remix": "",
+      "label": "RELIEF/REFUNE/WATERTOWER/XO (REPUBLIC)",
+      "trackId": "9490629",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3145,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Hans Zimmer vs. Sebastian Ingrosso & Tommy Trash & John Martin vs. Green Velvet & Nicky Romero vs. The Weeknd & Daft Punk",
+          "title": "Cornfield Chase vs. Reload vs. Flash vs. Starboy (Axwell Λ Ingrosso Mashup)",
+          "remix": "",
+          "trackId": "9490629"
+        },
+        {
+          "artist": "Axwell Λ Ingrosso ft. Vargas & Lagola",
+          "title": "Sun Is Shining (Acappella)",
+          "remix": "",
+          "trackId": "9490631"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Axwell Λ Ingrosso ft. Vargas & Lagola",
+      "title": "Sun Is Shining (Acappella)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "9490631",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 3168,
+      "mediaIds": {
+        "spotify": "199459",
+        "youtube": "199459",
+        "soundcloud": "199459",
+        "appleMusic": "199459"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Supermode & MEDUZA vs. Swedish House Mafia & The Weeknd",
+      "title": "Tell Me Why vs. Moth To A Flame (Swedish House Mafia Mashup)",
+      "remix": "",
+      "label": "SSA (REPUBLIC)/AXTONE",
+      "trackId": "9490625",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3415,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Don't You Worry Child",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "9490626",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3710,
+      "mediaIds": {
+        "spotify": "84601",
+        "youtube": "84601",
+        "soundcloud": "84601",
+        "appleMusic": "84601"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Don't You Worry Child",
+          "remix": "",
+          "trackId": "9490626"
+        },
+        {
+          "artist": "Swedish House Mafia & Connie Constance",
+          "title": "Heaven Takes You Home(Co-Prod. by Klahr)",
+          "remix": "(Acappella)",
+          "trackId": "9490627"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia & Connie Constance",
+      "title": "Heaven Takes You Home(Co-Prod. by Klahr)",
+      "remix": "(Acappella)",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "9490627",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 3743,
+      "mediaIds": {
+        "spotify": "788043",
+        "youtube": "788043",
+        "soundcloud": "788043",
+        "appleMusic": "788043"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia & Connie Constance",
+          "title": "Heaven Takes You Home(Co-Prod. by Klahr)",
+          "remix": "(Acappella)",
+          "trackId": "9490627"
+        },
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Don't You Worry Child (Swedish House Mafia Rework)",
+          "remix": "",
+          "trackId": "9490628"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Don't You Worry Child (Swedish House Mafia Rework)",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "9490628",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 3820,
+      "mediaIds": null
+    },
+    {
+      "pos": "20",
+      "artist": "Swedish House Mafia ft. 070 Shake",
+      "title": "Not Yesterday",
+      "remix": "",
+      "label": "SUPERHUMAN",
+      "trackId": "9490632",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 4085,
+      "mediaIds": {
+        "youtube": "941264",
+        "soundcloud": "941264"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Swedish House Mafia & The Weeknd vs. John Martin vs. Fred again.. & Future vs. Sebastian Ingrosso & Alesso",
+      "title": "Moth To A Flame vs. Save The World vs. Turn On The Lights Again.. vs. Calling (Swedish House Mafia Mashup)",
+      "remix": "",
+      "label": "REFUNE/EMI/SSA (REPUBLIC)/ATLANTIC (WARNER MUSIC)",
+      "trackId": "9490633",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 4298,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3656727",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=2S19vk9qN-4"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:38:36.684Z",
+  "scrapeVersion": 2
+}

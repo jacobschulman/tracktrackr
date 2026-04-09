@@ -1,0 +1,608 @@
+{
+  "tlId": "291m03dk",
+  "dj": "testpilot",
+  "stage": "Coachella Festival",
+  "date": "2023-04-21",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/291m03dk/testpilot-deadmau5-yuma-tent-coachella-festival-weekend-2-united-states-2023-04-21.html",
+  "djs": [
+    {
+      "name": "testpilot",
+      "slug": "testpilot"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Arnaud Le Texier",
+      "title": "Curveball",
+      "remix": "",
+      "label": "",
+      "trackId": "8947965",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "936690"
+      },
+      "blendGroup": [
+        {
+          "artist": "Arnaud Le Texier",
+          "title": "Curveball",
+          "remix": "",
+          "trackId": "8947965"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Your Ad Here",
+          "remix": "(\"Are You There?\" Sample)",
+          "trackId": "8947966"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Your Ad Here",
+      "remix": "(\"Are You There?\" Sample)",
+      "label": "MAU5TRAP",
+      "trackId": "8947966",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "164226",
+        "youtube": "164226",
+        "appleMusic": "164226"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Flug",
+      "title": "Fake Tales",
+      "remix": "",
+      "label": "DCLTD",
+      "trackId": "8947967",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "859619",
+        "youtube": "859619",
+        "soundcloud": "859619",
+        "appleMusic": "859619"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Ribé & Roll Dann",
+      "title": "Preludio",
+      "remix": "",
+      "label": "KLOCKWORKS",
+      "trackId": "8960238",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "890221",
+        "youtube": "890221",
+        "appleMusic": "890221"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Ø [Phase]",
+      "title": "Wire",
+      "remix": "",
+      "label": "MODWERKS",
+      "trackId": "8947969",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "883206",
+        "youtube": "883206",
+        "soundcloud": "883206",
+        "appleMusic": "883206"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ø [Phase]",
+          "title": "Wire",
+          "remix": "",
+          "trackId": "8947969"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Secondary Complications",
+          "remix": "",
+          "trackId": "8947970"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Secondary Complications",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "8947970",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "22884",
+        "youtube": "22884",
+        "soundcloud": "22884"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Modig",
+      "title": "Object 0982 (Flug Remix)",
+      "remix": "",
+      "label": "SUARA",
+      "trackId": "8947971",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "723445",
+        "youtube": "723445",
+        "soundcloud": "723445",
+        "appleMusic": "723445"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Dustin Zahn & Marcal",
+      "title": "Charger",
+      "remix": "",
+      "label": "RSPX (REKIDS)",
+      "trackId": "8947972",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "862279",
+        "youtube": "862279",
+        "soundcloud": "862279",
+        "appleMusic": "862279"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Juan Trujillo",
+      "title": "Virulo",
+      "remix": "",
+      "label": "ELEKTRAX",
+      "trackId": "8947973",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "8947973"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8947974",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "8947974"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Sometimes Things Get, Whatever (Acappella)",
+          "remix": "",
+          "trackId": "8947975"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Sometimes Things Get, Whatever (Acappella)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "8947975",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1767",
+        "youtube": "1767",
+        "soundcloud": "20017",
+        "appleMusic": "1767"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Amotik",
+      "title": "Ikyavan",
+      "remix": "",
+      "label": "AMOTIK",
+      "trackId": "8947976",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "624288",
+        "youtube": "624288",
+        "soundcloud": "624288",
+        "appleMusic": "624288"
+      },
+      "blendGroup": [
+        {
+          "artist": "Amotik",
+          "title": "Ikyavan",
+          "remix": "",
+          "trackId": "8947976"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Your Ad Here",
+          "remix": "(\"Are You There?\" Sample)",
+          "trackId": "8947977"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Your Ad Here",
+      "remix": "(\"Are You There?\" Sample)",
+      "label": "MAU5TRAP",
+      "trackId": "8947977",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "164226",
+        "youtube": "164226",
+        "appleMusic": "164226"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Mathys Lenne",
+      "title": "Zone X",
+      "remix": "",
+      "label": "FLOAT",
+      "trackId": "8947978",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "758498",
+        "youtube": "758498",
+        "soundcloud": "758498",
+        "appleMusic": "758498"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mathys Lenne",
+          "title": "Zone X",
+          "remix": "",
+          "trackId": "8947978"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Moar Ghosts 'n' Stuff",
+          "remix": "",
+          "trackId": "8947979"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Moar Ghosts 'n' Stuff",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "8947979",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "6422",
+        "youtube": "6422",
+        "soundcloud": "6422",
+        "appleMusic": "6422"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Pfirter",
+      "title": "Birth",
+      "remix": "",
+      "label": "ODD EVEN",
+      "trackId": "8947980",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "884617",
+        "appleMusic": "884617"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Wehbba",
+      "title": "Mind Awake",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "8947981",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "411000",
+        "youtube": "411000",
+        "soundcloud": "411000",
+        "appleMusic": "411000"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "No Mana vs. Secret Cinema & Egbert",
+      "title": "Laser Beam vs. Elementen (No Mana Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "8947982",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "No Mana vs. Secret Cinema & Egbert",
+          "title": "Laser Beam vs. Elementen (No Mana Mashup)",
+          "remix": "",
+          "trackId": "8947982"
+        },
+        {
+          "artist": "Kenji Kawai",
+          "title": "Ghost City (Ghost In The Shell OST)",
+          "remix": "",
+          "trackId": "8947983"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kenji Kawai",
+      "title": "Ghost City (Ghost In The Shell OST)",
+      "remix": "",
+      "label": "PARAMOUNT PICTURES",
+      "trackId": "8947983",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "463589",
+        "youtube": "463589",
+        "appleMusic": "463589"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Beico",
+      "title": "Irradiant",
+      "remix": "",
+      "label": "1605",
+      "trackId": "8947984",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "785294",
+        "youtube": "785294",
+        "soundcloud": "785294"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Tayyar",
+      "title": "Freya",
+      "remix": "",
+      "label": "SPACE KRAFT",
+      "trackId": "8947985",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "710838",
+        "youtube": "710838",
+        "soundcloud": "710838",
+        "appleMusic": "710838"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Layton Giordani",
+      "title": "Astro",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "8947986",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "685541",
+        "youtube": "685541",
+        "soundcloud": "685541",
+        "appleMusic": "685541"
+      },
+      "blendGroup": [
+        {
+          "artist": "Layton Giordani",
+          "title": "Astro",
+          "remix": "",
+          "trackId": "8947986"
+        },
+        {
+          "artist": "Orlando Voorn",
+          "title": "Paco Di Bango's World",
+          "remix": "",
+          "trackId": "8947987"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Orlando Voorn",
+      "title": "Paco Di Bango's World",
+      "remix": "",
+      "label": "SUBMERGE",
+      "trackId": "8947987",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "15033",
+        "youtube": "15033"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Charlotte de Witte",
+      "title": "Kuda",
+      "remix": "",
+      "label": "NOVAMUTE",
+      "trackId": "8947988",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "423110",
+        "youtube": "423110",
+        "soundcloud": "423110",
+        "appleMusic": "423110"
+      },
+      "blendGroup": [
+        {
+          "artist": "Charlotte de Witte",
+          "title": "Kuda",
+          "remix": "",
+          "trackId": "8947988"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Moar Ghosts 'n' Stuff",
+          "remix": "",
+          "trackId": "8947989"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Moar Ghosts 'n' Stuff",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "8947989",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "6422",
+        "youtube": "6422",
+        "soundcloud": "6422",
+        "appleMusic": "6422"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Enrico Sangiuliano",
+      "title": "Symbiosis",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "8947990",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "416798",
+        "youtube": "416798",
+        "soundcloud": "416798",
+        "appleMusic": "416798"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Enrico Sangiuliano",
+      "title": "New Expression Of Love",
+      "remix": "",
+      "label": "NINETOZERO",
+      "trackId": "8947991",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "799712",
+        "youtube": "799712",
+        "appleMusic": "799712"
+      },
+      "blendGroup": [
+        {
+          "artist": "Enrico Sangiuliano",
+          "title": "New Expression Of Love",
+          "remix": "",
+          "trackId": "8947991"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Moar Ghosts 'n' Stuff",
+          "remix": "",
+          "trackId": "8947992"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Moar Ghosts 'n' Stuff",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "8947992",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "6422",
+        "youtube": "6422",
+        "soundcloud": "6422",
+        "appleMusic": "6422"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T03:37:37.792Z",
+  "scrapeVersion": 2
+}

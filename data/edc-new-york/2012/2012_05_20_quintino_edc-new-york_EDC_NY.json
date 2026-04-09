@@ -1,0 +1,562 @@
+{
+  "tlId": "653kpm1",
+  "dj": "Quintino",
+  "stage": "EDC New York",
+  "date": "2012-05-20",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/653kpm1/quintino-circuitgrounds-edc-new-york-united-states-2012-05-20.html",
+  "djs": [
+    {
+      "name": "Quintino",
+      "slug": "quintino"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Sandro Silva & Quintino vs. Obek & MC Ambush",
+      "title": "Epic Countdown (MAKJ Edit)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/CR2",
+      "trackId": "228631",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Sandro Silva & Quintino",
+      "title": "Epic (Pretty-D Bootleg)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "228632",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "73596"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Daft Punk vs. Elite Force vs. The Loops Of Fury",
+      "title": "Aerodynamic Be Strong (Quintino Bootleg)",
+      "remix": "",
+      "label": "DAFT LIFE/U&A",
+      "trackId": "228633",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Quintino & MOTi",
+      "title": "Circuits",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "228635",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "61559",
+        "youtube": "61559",
+        "soundcloud": "61559",
+        "appleMusic": "61559"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Gotye ft. Kimbra",
+      "title": "Somebody That I Used To Know (dBerrie Remix)",
+      "remix": "",
+      "label": "BOOTYLICIOUS",
+      "trackId": "228636",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "65208",
+        "soundcloud": "65208"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Tommy Trash",
+      "title": "Cascade",
+      "remix": "",
+      "label": "PINKSTAR",
+      "trackId": "228637",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "61535",
+        "youtube": "61535",
+        "soundcloud": "61535",
+        "appleMusic": "61535"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Quintino & MOTi ft. Taylr Renee",
+      "title": "Dynamite",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "399905",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "147112",
+        "youtube": "147112",
+        "soundcloud": "147112",
+        "appleMusic": "147112"
+      },
+      "blendGroup": [
+        {
+          "artist": "Quintino & MOTi ft. Taylr Renee",
+          "title": "Dynamite",
+          "remix": "",
+          "trackId": "399905"
+        },
+        {
+          "artist": "M.I.A.",
+          "title": "Bad Girls (Acappella)",
+          "remix": "",
+          "trackId": "228638"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "M.I.A.",
+      "title": "Bad Girls (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "228638",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "64147",
+        "youtube": "64147",
+        "soundcloud": "64147",
+        "appleMusic": "64147"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Marco V",
+      "title": "Analogital",
+      "remix": "",
+      "label": "TAO",
+      "trackId": "228639",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "58737",
+        "youtube": "58737",
+        "soundcloud": "58737"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Ralvero",
+      "title": "Rage",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "228640",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69756",
+        "youtube": "69756",
+        "soundcloud": "69756",
+        "appleMusic": "69756"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Otherside",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "228641",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5247",
+        "youtube": "5247",
+        "soundcloud": "5247",
+        "appleMusic": "5247"
+      },
+      "blendGroup": [
+        {
+          "artist": "Red Hot Chili Peppers",
+          "title": "Otherside",
+          "remix": "",
+          "trackId": "228641"
+        },
+        {
+          "artist": "Steve Angello vs. Faithless",
+          "title": "Knas vs. Insomnia 2011 (East & Young Remix)",
+          "remix": "",
+          "trackId": "228642"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Steve Angello vs. Faithless",
+      "title": "Knas vs. Insomnia 2011 (East & Young Remix)",
+      "remix": "",
+      "label": "CHEEKY/SIZE",
+      "trackId": "228642",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "23421"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Calvin Harris ft. Ne-Yo",
+      "title": "Let's Go (Quintino Bootleg)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "228644",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Dada Life",
+      "title": "Kick Out The Epic Motherfucker (Instrumental)",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "228645",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "67242"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Quintino & MOTi",
+      "title": "Kinky Denise",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "228646",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "79664",
+        "youtube": "79664",
+        "soundcloud": "79664",
+        "appleMusic": "79664"
+      },
+      "blendGroup": [
+        {
+          "artist": "Quintino & MOTi",
+          "title": "Kinky Denise",
+          "remix": "",
+          "trackId": "228646"
+        },
+        {
+          "artist": "Martin Solveig ft. Dragonette",
+          "title": "Hello (Acappella)",
+          "remix": "",
+          "trackId": "229495"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Solveig ft. Dragonette",
+      "title": "Hello (Acappella)",
+      "remix": "",
+      "label": "MERCURY (UMG)",
+      "trackId": "229495",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "19452",
+        "youtube": "19452",
+        "soundcloud": "61518",
+        "appleMusic": "19452"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Zedd vs. Bloody Beetroots vs. Benassi",
+      "title": "Shotgun Music 1.9 (Ken Loi Bootup)",
+      "remix": "",
+      "label": "DIM MAK/ULTRA/OWSLA",
+      "trackId": "228647",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "105558"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Congorock",
+      "title": "Ivory (Laidback Luke Edit)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "228648",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "75505",
+        "youtube": "75505",
+        "soundcloud": "75505",
+        "appleMusic": "75505"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Rita Ora",
+      "title": "How We Do (Party) (Laidback Luke Dirty Remix)",
+      "remix": "",
+      "label": "ROC NATION (SONY)",
+      "trackId": "228649",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "74515",
+        "soundcloud": "74515"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Deniz Koyu vs. Coldplay",
+      "title": "Hertz In Paradise (Ken Loi Edit)",
+      "remix": "",
+      "label": "FLAMINGO/PARLOPHONE (WARNER MUSIC)",
+      "trackId": "228650",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Swedish House Mafia vs. Pitbull & Bingo Players",
+      "title": "Save Everything Tonight (Laidback Luke Mashup)",
+      "remix": "",
+      "label": "POPHOUSE/MR. 305",
+      "trackId": "228652",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "40058"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Dada Life",
+      "title": "White Noise / Red Meat",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "228653",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "26412",
+        "youtube": "26412",
+        "soundcloud": "26412",
+        "appleMusic": "26412"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Zedd",
+      "title": "Shave It",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "228654",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "48581",
+        "youtube": "48581",
+        "soundcloud": "48581",
+        "appleMusic": "48581"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Sato Goldschlag ft. Wynter Gordon",
+      "title": "Mr. Mister (Laidback Luke Remix)",
+      "remix": "",
+      "label": "MDLY",
+      "trackId": "228655",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69464",
+        "youtube": "69464",
+        "soundcloud": "69464"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Sidney Samson ft. Lil Jon",
+      "title": "Mutate",
+      "remix": "",
+      "label": "ROCKTHEHOUZE (SPINNIN')",
+      "trackId": "228656",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "44575",
+        "youtube": "44575",
+        "soundcloud": "44575",
+        "appleMusic": "44575"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Bingo Players",
+      "title": "L'Amour",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "228657",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "64040",
+        "youtube": "64040",
+        "soundcloud": "64040",
+        "appleMusic": "64040"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Knife Party",
+      "title": "Internet Friends",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "228658",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "42147",
+        "youtube": "42147",
+        "soundcloud": "42147",
+        "appleMusic": "42147"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Zombie Nation",
+      "title": "Kernkraft 400 (Laidback Luke Bootleg)",
+      "remix": "",
+      "label": "EPM",
+      "trackId": "228659",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "9213"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Albin Myers",
+      "title": "Hells Bells",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "228661",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "58438",
+        "youtube": "58438",
+        "soundcloud": "58438",
+        "appleMusic": "58438"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Laidback Luke & Steve Aoki ft. Lil Jon",
+      "title": "Turbulence",
+      "remix": "",
+      "label": "ULTRA/DIM MAK",
+      "trackId": "228662",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "18698",
+        "youtube": "18698",
+        "soundcloud": "18698",
+        "appleMusic": "18698"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "35321",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/DubShakerz"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:00:02.865Z",
+  "scrapeVersion": 2
+}

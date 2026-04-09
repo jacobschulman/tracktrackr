@@ -1,0 +1,580 @@
+{
+  "tlId": "2tmccxyk",
+  "dj": "Jeffrey Sutorius",
+  "stage": "Ultra Europe",
+  "date": "2019-07-14",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/2tmccxyk/jeffrey-sutorius-mainstage-ultra-europe-croatia-2019-07-14.html",
+  "djs": [
+    {
+      "name": "Jeffrey Sutorius",
+      "slug": "jeffreysutorius"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Martin Garrix",
+      "title": "Pizza",
+      "remix": "",
+      "label": "EPIC AMSTERDAM/STMPD",
+      "trackId": "4245222",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "372744",
+        "youtube": "372744",
+        "soundcloud": "372744",
+        "appleMusic": "372744"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Alesso ft. Tove Lo",
+      "title": "Heroes (We Could Be) (Dash Berlin Rework)",
+      "remix": "",
+      "label": "REFUNE/DEF JAM",
+      "trackId": "4245223",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 120,
+      "mediaIds": {
+        "soundcloud": "219920"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Laidback Luke & Marc Benjamin ft. Nuthin' Under A Million",
+      "title": "We're Forever (Dash Berlin Remix)",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "4245225",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 270,
+      "mediaIds": {
+        "spotify": "541809",
+        "soundcloud": "541809",
+        "appleMusic": "541809"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Eminem ft. Kehlani",
+      "title": "Nowhere Fast (Dash Berlin Remix)",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT",
+      "trackId": "4246080",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 436,
+      "mediaIds": {
+        "soundcloud": "4246080"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eminem ft. Kehlani",
+          "title": "Nowhere Fast (Dash Berlin Remix)",
+          "remix": "",
+          "trackId": "4246080"
+        },
+        {
+          "artist": "Eminem ft. Kehlani",
+          "title": "Nowhere Fast",
+          "remix": "",
+          "trackId": "4246281"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eminem ft. Kehlani",
+      "title": "Nowhere Fast",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "4246281",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 436,
+      "mediaIds": {
+        "spotify": "509440",
+        "youtube": "509440",
+        "soundcloud": "509440",
+        "appleMusic": "509440"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eminem ft. Kehlani",
+          "title": "Nowhere Fast",
+          "remix": "",
+          "trackId": "4246281"
+        },
+        {
+          "artist": "Technotronic",
+          "title": "Pump Up The Jam (Acappella)",
+          "remix": "",
+          "trackId": "4246081"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Technotronic",
+      "title": "Pump Up The Jam (Acappella)",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "4246081",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5108",
+        "youtube": "10191",
+        "soundcloud": "5108",
+        "appleMusic": "5108"
+      },
+      "blendGroup": [
+        {
+          "artist": "Technotronic",
+          "title": "Pump Up The Jam (Acappella)",
+          "remix": "",
+          "trackId": "4246081"
+        },
+        {
+          "artist": "Eminem",
+          "title": "Lose Yourself (Acappella)",
+          "remix": "",
+          "trackId": "4246082"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eminem",
+      "title": "Lose Yourself (Acappella)",
+      "remix": "",
+      "label": "SHADY (INTERSCOPE)",
+      "trackId": "4246082",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "145800",
+        "youtube": "145800",
+        "soundcloud": "145800",
+        "appleMusic": "145800"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Flo Rida",
+      "title": "How I Feel (SICK INDIVIDUALS Instrumental Mix)",
+      "remix": "",
+      "label": "POE BOY (ATLANTIC)",
+      "trackId": "4245228",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 600,
+      "mediaIds": {
+        "spotify": "174416",
+        "youtube": "174416",
+        "soundcloud": "174416"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flo Rida",
+          "title": "How I Feel (SICK INDIVIDUALS Instrumental Mix)",
+          "remix": "",
+          "trackId": "4245228"
+        },
+        {
+          "artist": "Fatboy Slim",
+          "title": "Right Here, Right Now (Acappella)",
+          "remix": "",
+          "trackId": "4245229"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fatboy Slim",
+      "title": "Right Here, Right Now (Acappella)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "4245229",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2605",
+        "youtube": "2605",
+        "soundcloud": "2605",
+        "appleMusic": "2605"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Jack & James & Distrion",
+      "title": "Feel Alive",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "4245230",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 712,
+      "mediaIds": {
+        "spotify": "493719",
+        "youtube": "493719",
+        "soundcloud": "493719",
+        "appleMusic": "493719"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Dash Berlin ft. Do",
+      "title": "Heaven (Club Mix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "4245231",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 800,
+      "mediaIds": {
+        "spotify": "362861",
+        "youtube": "362861",
+        "appleMusic": "261431"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Martin Garrix ft. Bonn",
+      "title": "High On Life",
+      "remix": "",
+      "label": "EPIC AMSTERDAM/STMPD",
+      "trackId": "4245232",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 990,
+      "mediaIds": {
+        "spotify": "431535",
+        "youtube": "431535",
+        "soundcloud": "431535",
+        "appleMusic": "431535"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Rave Republic x Jeffrey Sutorius ft. Matluck",
+      "title": "Middle Of The Night",
+      "remix": "",
+      "label": "WARNER MUSIC",
+      "trackId": "4245233",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1227,
+      "mediaIds": {
+        "spotify": "486266",
+        "youtube": "486266",
+        "appleMusic": "486266"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "DubVision & Raiden vs. Avicii & Aloe Blacc",
+      "title": "Yesterday vs. Wake Me Up (Raiden Mashup)",
+      "remix": "",
+      "label": "PRMD/ISLAND/STMPD",
+      "trackId": "4245234",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1387,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Damien N-Drix",
+      "title": "Oshab",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4245235",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1600,
+      "mediaIds": {
+        "spotify": "501746",
+        "youtube": "501746",
+        "soundcloud": "501746",
+        "appleMusic": "501746"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "SICK INDIVIDUALS",
+      "title": "Focus",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "4245236",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1750,
+      "mediaIds": {
+        "spotify": "351640",
+        "youtube": "351640",
+        "soundcloud": "351640",
+        "appleMusic": "351640"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Alan Walker ft. Iselin Solheim",
+      "title": "Faded (Dash Berlin Remix)",
+      "remix": "",
+      "label": "MER",
+      "trackId": "4245237",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1935,
+      "mediaIds": {
+        "spotify": "300674",
+        "youtube": "300674",
+        "soundcloud": "300674",
+        "appleMusic": "300674"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Julian Jordan",
+      "title": "To The Wire (SIKS Remix)",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "4245251",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2082,
+      "mediaIds": {
+        "spotify": "512521",
+        "youtube": "512521",
+        "soundcloud": "512521",
+        "appleMusic": "512521"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Steff Da Campo & Tommy Jayden vs. Jewelz & Sparks",
+      "title": "Gin & Vodka vs. Gucci Moves (Jeff Bounce vs. Hinborq Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "4245238",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2160,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Shapov vs. MEG \\ NERAK",
+      "title": "Everybody",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "4245239",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2248,
+      "mediaIds": {
+        "spotify": "269748",
+        "youtube": "269748",
+        "soundcloud": "269748",
+        "appleMusic": "269748"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "The Him",
+      "title": "Walk Alone (Dash Berlin Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "4245369",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2352,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "DubVision & Feenixpawl ft. Joe Gil",
+      "title": "Destination",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "4245241",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2520,
+      "mediaIds": {
+        "spotify": "216536",
+        "youtube": "216536",
+        "soundcloud": "216536",
+        "appleMusic": "216536"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Sem Vox",
+      "title": "Let's Go (DLDK Amsterdam 2019 Anthem)",
+      "remix": "",
+      "label": "DLDK MUSIC",
+      "trackId": "4245242",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2640,
+      "mediaIds": {
+        "spotify": "478681",
+        "youtube": "478681",
+        "soundcloud": "478681",
+        "appleMusic": "478681"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Steve Angello & Laidback Luke & D.O.D vs. PAX",
+      "title": "Be In The Club (Jeff Bounce Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "4245243",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2780,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Jeffrey Sutorius",
+      "title": "Wild At Heart",
+      "remix": "",
+      "label": "BODYWRMR",
+      "trackId": "4245245",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2986,
+      "mediaIds": {
+        "spotify": "831429",
+        "appleMusic": "831429"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Jeffrey Sutorius ft. HALIENE",
+      "title": "New Dawn (Rave Republic Remix)",
+      "remix": "",
+      "label": "BODYWRMR",
+      "trackId": "4245247",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3185,
+      "mediaIds": {
+        "spotify": "509442",
+        "soundcloud": "509442",
+        "appleMusic": "509442"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Speedy J",
+      "title": "Pullover (Jeffrey Sutorius Rework)",
+      "remix": "",
+      "label": "MUSIC MAN",
+      "trackId": "4245248",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3411,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Paris & Simo",
+      "title": "Zombie (3LAU TomorrowWorld Edit)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "4245249",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3546,
+      "mediaIds": {
+        "youtube": "218581",
+        "soundcloud": "218581"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Jeffrey Sutorius & Jan Vervloet",
+      "title": "Drop It (Jeffrey Sutorius Mix)",
+      "remix": "",
+      "label": "BODYWRMR",
+      "trackId": "4245374",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3660,
+      "mediaIds": {
+        "spotify": "745253",
+        "youtube": "745253",
+        "soundcloud": "745253",
+        "appleMusic": "745253"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Dash Berlin",
+      "title": "Till The Sky Falls Down (DJ Isaac Remix)",
+      "remix": "",
+      "label": "ARVAS (ARMADA)",
+      "trackId": "4245252",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3857,
+      "mediaIds": {
+        "spotify": "107085",
+        "youtube": "107085",
+        "soundcloud": "107085",
+        "appleMusic": "107085"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4774369",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=K8D6cECiwzY"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:55:49.028Z",
+  "scrapeVersion": 2
+}

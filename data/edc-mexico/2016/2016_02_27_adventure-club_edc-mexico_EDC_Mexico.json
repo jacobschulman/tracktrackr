@@ -1,0 +1,192 @@
+{
+  "tlId": "2sl765xt",
+  "dj": "Adventure Club",
+  "stage": "EDC Mexico",
+  "date": "2016-02-27",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/2sl765xt/adventure-club-kineticfield-edc-mexico-2016-02-27.html",
+  "djs": [
+    {
+      "name": "Adventure Club",
+      "slug": "adventureclub"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Valentino Khan",
+      "title": "Deep Down Low (WAVEDASH Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "1925691",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 210,
+      "mediaIds": {
+        "youtube": "317021",
+        "soundcloud": "317021"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "JAUZ & Ephwurd",
+      "title": "Rock The Party (JAUZ & B-Sides VIP Mix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1925692",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "265266",
+        "soundcloud": "265266"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Getter & Adair ft. Georgia Ku",
+      "title": "Blood",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "1925693",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 322,
+      "mediaIds": {
+        "spotify": "299059",
+        "youtube": "299059",
+        "soundcloud": "299059",
+        "appleMusic": "299059"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "DJ Snake",
+      "title": "Propaganda (5 & A Dime Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2527836",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 420,
+      "mediaIds": {
+        "youtube": "310224",
+        "soundcloud": "310224"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Aazar",
+      "title": "Lay It Down",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2527837",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "290975",
+        "soundcloud": "290975"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Migos",
+      "title": "Look At My Dab (Diplo & Bad Royale Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2527838",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "287918",
+        "soundcloud": "287918"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "GTA ft. DJ Funk",
+      "title": "Booty Bounce (GTA HYPRR MIX)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2527839",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "244281",
+        "soundcloud": "244281"
+      },
+      "blendGroup": [
+        {
+          "artist": "GTA ft. DJ Funk",
+          "title": "Booty Bounce (GTA HYPRR MIX)",
+          "remix": "",
+          "trackId": "2527839"
+        },
+        {
+          "artist": "Flosstradamus ft. Casino",
+          "title": "Mosh Pit (Acappella)",
+          "remix": "",
+          "trackId": "1925695"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flosstradamus ft. Casino",
+      "title": "Mosh Pit (Acappella)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "1925695",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "230379",
+        "youtube": "230379",
+        "soundcloud": "230379",
+        "appleMusic": "230379"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Flosstradamus & GTA ft. Lil Jon",
+      "title": "Prison Riot",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "1925696",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "231264",
+        "youtube": "231264",
+        "soundcloud": "231264",
+        "appleMusic": "231264"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "411246",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=-DZs0lvLL0I"
+    }
+  ],
+  "scrapedAt": "2026-04-08T18:57:00.002Z",
+  "scrapeVersion": 2
+}

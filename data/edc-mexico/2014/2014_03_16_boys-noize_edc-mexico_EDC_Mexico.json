@@ -1,0 +1,347 @@
+{
+  "tlId": "20swkr51",
+  "dj": "Boys Noize",
+  "stage": "EDC Mexico",
+  "date": "2014-03-16",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/20swkr51/boys-noize-circuitgrounds-edc-mexico-2014-03-16.html",
+  "djs": [
+    {
+      "name": "Boys Noize",
+      "slug": "boysnoize"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Boys Noize",
+      "title": "XTC (MMM aka Errorsmith & Fiedel Remix)",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "11667842",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "89958",
+        "youtube": "89958",
+        "appleMusic": "89958"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Boys Noize",
+      "title": "Push Em Up (Salva Remix)",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "11667843",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "161289",
+        "youtube": "161289",
+        "appleMusic": "161289"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Green Velvet",
+      "title": "La La Land (Acappella)",
+      "remix": "",
+      "label": "CREDENCE",
+      "trackId": "11667844",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1732",
+        "youtube": "8203",
+        "soundcloud": "1732",
+        "appleMusic": "1732"
+      },
+      "blendGroup": [
+        {
+          "artist": "Green Velvet",
+          "title": "La La Land (Acappella)",
+          "remix": "",
+          "trackId": "11667844"
+        },
+        {
+          "artist": "Madame",
+          "title": "Shuffle",
+          "remix": "",
+          "trackId": "11667845"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Madame",
+      "title": "Shuffle",
+      "remix": "",
+      "label": "BNR TRAX (BOYSNOIZE)",
+      "trackId": "11667845",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "224317",
+        "youtube": "224317",
+        "soundcloud": "224317",
+        "appleMusic": "224317"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Riva Starr & Fatboy Slim ft. Beardyman",
+      "title": "Eat Sleep Rave Repeat (Calvin Harris Remix)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "11667846",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "141683",
+        "youtube": "141683",
+        "soundcloud": "141683",
+        "appleMusic": "141683"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Heads Will Roll (A-Trak Remix)",
+      "remix": "",
+      "label": "DGC",
+      "trackId": "11667847",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "11556",
+        "youtube": "11556",
+        "soundcloud": "11556",
+        "appleMusic": "11556"
+      },
+      "blendGroup": [
+        {
+          "artist": "Yeah Yeah Yeahs",
+          "title": "Heads Will Roll (A-Trak Remix)",
+          "remix": "",
+          "trackId": "11667847"
+        },
+        {
+          "artist": "Tiësto",
+          "title": "Chasing Summers (R3HAB & Quintino Remix)",
+          "remix": "",
+          "trackId": "11667848"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto",
+      "title": "Chasing Summers (R3HAB & Quintino Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "11667848",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "100112",
+        "youtube": "100112",
+        "soundcloud": "100112",
+        "appleMusic": "100112"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Tom Staar",
+      "title": "Rocket",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "11667849",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "166043",
+        "youtube": "166043",
+        "soundcloud": "166043",
+        "appleMusic": "166043"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Aire Atlantica & FIGHT CLVB",
+      "title": "Shout That",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "11667850",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 92,
+      "mediaIds": {
+        "spotify": "149915",
+        "youtube": "149915",
+        "soundcloud": "149915",
+        "appleMusic": "149915"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Knife Party",
+      "title": "LRAD (Boombox Cartel BMBX CRTL WTF Is Festival Trap Remix)",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "11667851",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 180,
+      "mediaIds": {
+        "soundcloud": "136572"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Kid Kamillion",
+      "title": "Pump This Party",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "11667852",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 214,
+      "mediaIds": {
+        "spotify": "190506",
+        "appleMusic": "190506"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Tom Rowlands",
+      "title": "Nothing But Pleasure",
+      "remix": "",
+      "label": "PHANTASY SOUND",
+      "trackId": "11667853",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 258,
+      "mediaIds": {
+        "spotify": "144959",
+        "youtube": "144959",
+        "soundcloud": "144959",
+        "appleMusic": "144959"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Dustin Zahn",
+      "title": "Stranger (To Stability) (Len Faki Podium Mix)",
+      "remix": "",
+      "label": "REKIDS",
+      "trackId": "11667854",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 369,
+      "mediaIds": {
+        "spotify": "10056",
+        "youtube": "10056",
+        "soundcloud": "10056",
+        "appleMusic": "10056"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "I-Robots",
+      "title": "Frau (Acappella)",
+      "remix": "",
+      "label": "OPILEC",
+      "trackId": "11667855",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 417,
+      "mediaIds": {
+        "youtube": "550438",
+        "appleMusic": "550438"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Derick Prez",
+      "title": "Follow Jack",
+      "remix": "",
+      "label": "VORTEK",
+      "trackId": "11667856",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 520,
+      "mediaIds": {
+        "soundcloud": "135781"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Boys Noize",
+      "title": "Yeah",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "11667857",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 541,
+      "mediaIds": {
+        "spotify": "21235",
+        "youtube": "21235",
+        "soundcloud": "21235",
+        "appleMusic": "21235"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "The Chemical Brothers",
+      "title": "Swoon (Boys Noize Summer Mix)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "11667858",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 600,
+      "mediaIds": {
+        "spotify": "19876",
+        "youtube": "19876",
+        "appleMusic": "19876"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4596463",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=IdjGhaC5VWM"
+    }
+  ],
+  "scrapedAt": "2026-04-08T19:06:43.481Z",
+  "scrapeVersion": 2
+}

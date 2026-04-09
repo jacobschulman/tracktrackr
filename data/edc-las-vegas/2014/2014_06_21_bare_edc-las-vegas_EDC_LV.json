@@ -1,0 +1,380 @@
+{
+  "tlId": "6983jv9",
+  "dj": "Bare",
+  "stage": "EDC Las Vegas",
+  "date": "2014-06-21",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/6983jv9/bare-circuitgrounds-edc-las-vegas-united-states-2014-06-21.html",
+  "djs": [
+    {
+      "name": "Bare",
+      "slug": "bare"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Alvaro & Joey Dale",
+      "title": "Ready For Action (Sikdope Trap Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "952031",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "186177",
+        "soundcloud": "186177"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Bassjackers",
+      "title": "Crackin (Martin Garrix Edit)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "952032",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "170526",
+        "youtube": "170526",
+        "soundcloud": "170526",
+        "appleMusic": "170526"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "MAKJ",
+      "title": "Springen",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "952033",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "138519",
+        "youtube": "138519",
+        "soundcloud": "138519",
+        "appleMusic": "138519"
+      },
+      "blendGroup": [
+        {
+          "artist": "MAKJ",
+          "title": "Springen",
+          "remix": "",
+          "trackId": "952033"
+        },
+        {
+          "artist": "2 Chainz ft. Kanye West",
+          "title": "Birthday Song (Acappella)",
+          "remix": "",
+          "trackId": "952034"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "2 Chainz ft. Kanye West",
+      "title": "Birthday Song (Acappella)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "952034",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "91630",
+        "youtube": "91630",
+        "soundcloud": "91630",
+        "appleMusic": "91630"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Tritonal & Paris Blohm vs. R3hab vs. Thomas Newson",
+      "title": "Colors Go Hard Pallaroid (Bare Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "952035",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Bare vs. Yeah Yeah Yeahs & A-Trak",
+      "title": "Heads Will Staxx (Bare Edit)",
+      "remix": "",
+      "label": "FOOL'S GOLD/DGC/BUYGORE",
+      "trackId": "952038",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "157358"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "MERCER & Blur vs. Autoerotique",
+      "title": "Play Song 2 Again (Bassjackers Mashup)",
+      "remix": "",
+      "label": "FOOD REC. (VIRGIN)/DIM MAK",
+      "trackId": "952042",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "MERCER & Blur vs. Autoerotique",
+          "title": "Play Song 2 Again (Bassjackers Mashup)",
+          "remix": "",
+          "trackId": "952042"
+        },
+        {
+          "artist": "Showtek & Justin Prime",
+          "title": "Cannonball (Show Us What You Got When The Motherfucking Beat Drops Acappella)",
+          "remix": "",
+          "trackId": "952041"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Showtek & Justin Prime",
+      "title": "Cannonball (Show Us What You Got When The Motherfucking Beat Drops Acappella)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "952041",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "145563",
+        "youtube": "145563",
+        "soundcloud": "145563",
+        "appleMusic": "145563"
+      },
+      "blendGroup": [
+        {
+          "artist": "Showtek & Justin Prime",
+          "title": "Cannonball (Show Us What You Got When The Motherfucking Beat Drops Acappella)",
+          "remix": "",
+          "trackId": "952041"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6143548"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6143548",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "07",
+      "artist": "Gareth Emery ft. Krewella",
+      "title": "Lights & Thunder (Deorro Remix)",
+      "remix": "",
+      "label": "GARUDA",
+      "trackId": "984243",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "179729",
+        "youtube": "179729",
+        "soundcloud": "179729",
+        "appleMusic": "179729"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gareth Emery ft. Krewella",
+          "title": "Lights & Thunder (Deorro Remix)",
+          "remix": "",
+          "trackId": "984243"
+        },
+        {
+          "artist": "David Guetta & Showtek ft. VASSY",
+          "title": "BAD",
+          "remix": "",
+          "trackId": "6143550"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta & Showtek ft. VASSY",
+      "title": "BAD",
+      "remix": "",
+      "label": "WHAT A MUSIC/PARLOPHONE",
+      "trackId": "6143550",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "184487",
+        "youtube": "184487",
+        "soundcloud": "184487",
+        "appleMusic": "184487"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Chromeo vs. Quintino",
+      "title": "Hard Jealousy (Bare Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "952044",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Bare",
+      "title": "Matador",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "952047",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "202605"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Bastille",
+      "title": "Pompeii (Audien Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "952045",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "172665",
+        "youtube": "172665",
+        "soundcloud": "172665",
+        "appleMusic": "172665"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Bare",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "952048",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1290,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Bare",
+      "title": "Katana",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "952049",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "213126",
+        "youtube": "213126",
+        "appleMusic": "213126"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Bare",
+      "title": "Trooper",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "952050",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "197113",
+        "youtube": "197113",
+        "soundcloud": "197113",
+        "appleMusic": "197113"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Robin S",
+      "title": "Show Me Love (Bass King Bootleg)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "952072",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "170564",
+        "soundcloud": "170564"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Ace Hood & Future vs. JWLS",
+      "title": "Bugatti Is Bored VIII (Crizzly Mashup)",
+      "remix": "",
+      "label": "CASH MONEY/FREE",
+      "trackId": "984244",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "190435",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:04:45.891Z",
+  "scrapeVersion": 2
+}

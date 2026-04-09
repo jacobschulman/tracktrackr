@@ -1,0 +1,1200 @@
+{
+  "tlId": "2bpddhgk",
+  "dj": "Merk & Kremont",
+  "stage": "Jacked Stage",
+  "date": "2018-07-06",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/2bpddhgk/merk-and-kremont-jacked-stage-ultra-europe-croatia-2018-07-06.html",
+  "djs": [
+    {
+      "name": "Merk & Kremont",
+      "slug": "merkandkremont"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Merk & Kremont",
+      "title": "Turn It Around",
+      "remix": "(Intro Edit)",
+      "label": "FUTURE HOUSE MUSIC",
+      "trackId": "3459272",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "392551",
+        "youtube": "392551",
+        "soundcloud": "392551",
+        "appleMusic": "392551"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Toby Green",
+      "title": "Ready",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "3459273",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 99,
+      "mediaIds": {
+        "spotify": "419342",
+        "youtube": "419342",
+        "soundcloud": "419342",
+        "appleMusic": "419342"
+      },
+      "blendGroup": [
+        {
+          "artist": "Toby Green",
+          "title": "Ready",
+          "remix": "",
+          "trackId": "3459273"
+        },
+        {
+          "artist": "ALOK & Sevenn",
+          "title": "BYOB",
+          "remix": "(Acappella)",
+          "trackId": "3459274"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ALOK & Sevenn",
+      "title": "BYOB",
+      "remix": "(Acappella)",
+      "label": "SYMPHONIC",
+      "trackId": "3459274",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 125,
+      "mediaIds": {
+        "spotify": "291591",
+        "youtube": "291591",
+        "soundcloud": "291591",
+        "appleMusic": "291591"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Fatboy Slim",
+      "title": "Rockafeller Skank",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "3459275",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 158,
+      "mediaIds": {
+        "spotify": "4511",
+        "youtube": "4511",
+        "soundcloud": "4511",
+        "appleMusic": "4511"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fatboy Slim",
+          "title": "Rockafeller Skank",
+          "remix": "",
+          "trackId": "3459275"
+        },
+        {
+          "artist": "RetroVision",
+          "title": "Get Down",
+          "remix": "",
+          "trackId": "3459276"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RetroVision",
+      "title": "Get Down",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "3459276",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 187,
+      "mediaIds": {
+        "spotify": "373393",
+        "youtube": "373393",
+        "soundcloud": "373393",
+        "appleMusic": "373393"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Merk & Kremont",
+      "title": "Ciao",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "3459277",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 219,
+      "mediaIds": {
+        "spotify": "321198",
+        "youtube": "321198",
+        "soundcloud": "321198",
+        "appleMusic": "321198"
+      },
+      "blendGroup": [
+        {
+          "artist": "Merk & Kremont",
+          "title": "Ciao",
+          "remix": "",
+          "trackId": "3459277"
+        },
+        {
+          "artist": "Roadman Shaq",
+          "title": "Man's Not Hot",
+          "remix": "",
+          "trackId": "3601929"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Roadman Shaq",
+      "title": "Man's Not Hot",
+      "remix": "",
+      "label": "",
+      "trackId": "3601929",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 294,
+      "mediaIds": null
+    },
+    {
+      "pos": "05",
+      "artist": "Merk & Kremont",
+      "title": "Amen",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "3459278",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 405,
+      "mediaIds": {
+        "spotify": "171135",
+        "youtube": "171135",
+        "soundcloud": "171135",
+        "appleMusic": "171135"
+      },
+      "blendGroup": [
+        {
+          "artist": "Merk & Kremont",
+          "title": "Amen",
+          "remix": "",
+          "trackId": "3459278"
+        },
+        {
+          "artist": "Post Malone ft. 21 Savage",
+          "title": "Rockstar (Acappella)",
+          "remix": "",
+          "trackId": "3459279"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Post Malone ft. 21 Savage",
+      "title": "Rockstar (Acappella)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "3459279",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "382727",
+        "youtube": "382727",
+        "soundcloud": "382727",
+        "appleMusic": "382727"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Dannic vs. Merk & Kremont",
+      "title": "Anubi",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "3459280",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 565,
+      "mediaIds": {
+        "spotify": "189052",
+        "youtube": "189052",
+        "soundcloud": "189052",
+        "appleMusic": "189052"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Panjabi MC",
+      "title": "Mundian To Bach Ke",
+      "remix": "",
+      "label": "URBAN TORQUE",
+      "trackId": "3459281",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 602,
+      "mediaIds": {
+        "spotify": "92556",
+        "youtube": "92556",
+        "soundcloud": "92556",
+        "appleMusic": "92556"
+      },
+      "blendGroup": [
+        {
+          "artist": "Panjabi MC",
+          "title": "Mundian To Bach Ke",
+          "remix": "",
+          "trackId": "3459281"
+        },
+        {
+          "artist": "Major Lazer & DJ Snake ft. MØ vs. Skrillex ft. Sirah",
+          "title": "Lean On vs. Bangarang (Skrillex Mashup)",
+          "remix": "",
+          "trackId": "3459282"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Major Lazer & DJ Snake ft. MØ vs. Skrillex ft. Sirah",
+      "title": "Lean On vs. Bangarang (Skrillex Mashup)",
+      "remix": "",
+      "label": "OWSLA/BIG BEAT/MAD DECENT",
+      "trackId": "3459282",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 611,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Major Lazer & DJ Snake ft. MØ vs. Skrillex ft. Sirah",
+          "title": "Lean On vs. Bangarang (Skrillex Mashup)",
+          "remix": "",
+          "trackId": "3459282"
+        },
+        {
+          "artist": "Wildchild",
+          "title": "Renegade Master (Acappella)",
+          "remix": "",
+          "trackId": "3459283"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wildchild",
+      "title": "Renegade Master (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "3459283",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 655,
+      "mediaIds": {
+        "spotify": "23242",
+        "youtube": "23243",
+        "soundcloud": "23242",
+        "appleMusic": "23242"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Years & Years",
+      "title": "King (Merk & Kremont Remix)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "3459284",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 696,
+      "mediaIds": {
+        "soundcloud": "263734"
+      },
+      "blendGroup": [
+        {
+          "artist": "Years & Years",
+          "title": "King (Merk & Kremont Remix)",
+          "remix": "",
+          "trackId": "3459284"
+        },
+        {
+          "artist": "Merk & Kremont",
+          "title": "Zunami",
+          "remix": "",
+          "trackId": "3703752"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Merk & Kremont",
+      "title": "Zunami",
+      "remix": "",
+      "label": "PROTOCOL",
+      "trackId": "3703752",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 740,
+      "mediaIds": {
+        "spotify": "143377",
+        "youtube": "143377",
+        "soundcloud": "143377",
+        "appleMusic": "143377"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Merk & Kremont",
+      "title": "Get Get Down",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3459285",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 801,
+      "mediaIds": {
+        "spotify": "248877",
+        "youtube": "248877",
+        "soundcloud": "248877",
+        "appleMusic": "248877"
+      },
+      "blendGroup": [
+        {
+          "artist": "Merk & Kremont",
+          "title": "Get Get Down",
+          "remix": "",
+          "trackId": "3459285"
+        },
+        {
+          "artist": "Zedd & Maren Morris & Grey",
+          "title": "The Middle (Acappella)",
+          "remix": "",
+          "trackId": "3459286"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd & Maren Morris & Grey",
+      "title": "The Middle (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "3459286",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 874,
+      "mediaIds": {
+        "spotify": "401501",
+        "youtube": "406517",
+        "soundcloud": "401501",
+        "appleMusic": "401501"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Fedde Le Grand & Merk & Kremont",
+      "title": "Give Me Some",
+      "remix": "",
+      "label": "DARKLIGHT",
+      "trackId": "3459287",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 986,
+      "mediaIds": {
+        "spotify": "270709",
+        "youtube": "270709",
+        "soundcloud": "270709",
+        "appleMusic": "270709"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fedde Le Grand & Merk & Kremont",
+          "title": "Give Me Some",
+          "remix": "",
+          "trackId": "3459287"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Acappella)",
+          "remix": "",
+          "trackId": "3459288"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "3459288",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1033,
+      "mediaIds": {
+        "spotify": "8354",
+        "youtube": "8354",
+        "soundcloud": "8354",
+        "appleMusic": "8354"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Acappella)",
+          "remix": "",
+          "trackId": "3459288"
+        },
+        {
+          "artist": "CAZZTEK",
+          "title": "Came To Get Funky",
+          "remix": "",
+          "trackId": "3459289"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "CAZZTEK",
+      "title": "Came To Get Funky",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "3459289",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1062,
+      "mediaIds": {
+        "spotify": "335863",
+        "youtube": "335863",
+        "appleMusic": "335863"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Aazar & BELLECOUR",
+      "title": "Da Vinci",
+      "remix": "",
+      "label": "PREMIERE CLASSE",
+      "trackId": "3459290",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1091,
+      "mediaIds": {
+        "spotify": "416735",
+        "youtube": "416735",
+        "soundcloud": "416735",
+        "appleMusic": "416735"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Dr. Dre ft. Snoop Dogg & Kurupt & Nate Dogg",
+      "title": "The Next Episode (Liu Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3459291",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1151,
+      "mediaIds": {
+        "youtube": "354896",
+        "soundcloud": "354896"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "J Balvin & Willy William",
+      "title": "Mi Gente (Merk & Kremont Remix)",
+      "remix": "",
+      "label": "SCORPIO",
+      "trackId": "3459292",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1226,
+      "mediaIds": {
+        "youtube": "388623"
+      },
+      "blendGroup": [
+        {
+          "artist": "J Balvin & Willy William",
+          "title": "Mi Gente (Merk & Kremont Remix)",
+          "remix": "",
+          "trackId": "3459292"
+        },
+        {
+          "artist": "Calvin Harris & Disciples ft. Ina Wroldsen",
+          "title": "How Deep Is Your Love (Calvin Harris & R3HAB Remix)",
+          "remix": "",
+          "trackId": "3459293"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris & Disciples ft. Ina Wroldsen",
+      "title": "How Deep Is Your Love (Calvin Harris & R3HAB Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "3459293",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "263930",
+        "youtube": "263930",
+        "soundcloud": "263930",
+        "appleMusic": "263930"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Sunstars",
+      "title": "Hype",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "3459294",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1347,
+      "mediaIds": {
+        "spotify": "521468",
+        "youtube": "521468",
+        "soundcloud": "521468",
+        "appleMusic": "521468"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Sikdope",
+      "title": "Snakes",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "3459295",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1390,
+      "mediaIds": {
+        "spotify": "299439",
+        "youtube": "299439",
+        "soundcloud": "299439",
+        "appleMusic": "299439"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sikdope",
+          "title": "Snakes",
+          "remix": "",
+          "trackId": "3459295"
+        },
+        {
+          "artist": "Travis Scott ft. Kendrick Lamar",
+          "title": "Goosebumps",
+          "remix": "",
+          "trackId": "3459296"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Travis Scott ft. Kendrick Lamar",
+      "title": "Goosebumps",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "3459296",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "332173",
+        "youtube": "332173",
+        "soundcloud": "332173",
+        "appleMusic": "332173"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Kage ft. LexBlaze",
+      "title": "ET",
+      "remix": "",
+      "label": "RIOTVILLE",
+      "trackId": "3459297",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1452,
+      "mediaIds": {
+        "spotify": "424875",
+        "youtube": "424875",
+        "appleMusic": "424875"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "DJ Snake",
+      "title": "Magenta Riddim (Lumberjack Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3459298",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1478,
+      "mediaIds": {
+        "youtube": "403292",
+        "soundcloud": "403292"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake",
+          "title": "Magenta Riddim (Lumberjack Remix)",
+          "remix": "",
+          "trackId": "3459298"
+        },
+        {
+          "artist": "KRS-One",
+          "title": "Sound Of Da Police",
+          "remix": "",
+          "trackId": "3459299"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "KRS-One",
+      "title": "Sound Of Da Police",
+      "remix": "",
+      "label": "JIVE",
+      "trackId": "3459299",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1533,
+      "mediaIds": {
+        "spotify": "19432",
+        "youtube": "19432",
+        "soundcloud": "19432",
+        "appleMusic": "19432"
+      },
+      "blendGroup": [
+        {
+          "artist": "KRS-One",
+          "title": "Sound Of Da Police",
+          "remix": "",
+          "trackId": "3459299"
+        },
+        {
+          "artist": "Missy Elliott",
+          "title": "Work It",
+          "remix": "",
+          "trackId": "3459300"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Missy Elliott",
+      "title": "Work It",
+      "remix": "",
+      "label": "ELEKTRA",
+      "trackId": "3459300",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1536,
+      "mediaIds": {
+        "spotify": "54253",
+        "youtube": "54253",
+        "soundcloud": "54253",
+        "appleMusic": "54253"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Axwell Λ Ingrosso vs. Garmiani",
+      "title": "More Than You Know vs. Fogo (Merk & Kremont Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "3459301",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1594,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Cardi B ft. Bad Bunny & J Balvin",
+      "title": "I Like It (Dillon Francis Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "3459302",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1683,
+      "mediaIds": {
+        "spotify": "425471",
+        "youtube": "425471",
+        "soundcloud": "425471",
+        "appleMusic": "425471"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "BASSTRICK",
+      "title": "Ghost Buster",
+      "remix": "",
+      "label": "GOLD DIGGER",
+      "trackId": "3459303",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1756,
+      "mediaIds": {
+        "spotify": "309545",
+        "youtube": "309545",
+        "soundcloud": "309545",
+        "appleMusic": "309545"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Merk & Kremont ft. Kris Kiss",
+      "title": "Gang (Ricky West Remix)",
+      "remix": "",
+      "label": "SPINNIN' COPYRIGHT FREE",
+      "trackId": "3459304",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1785,
+      "mediaIds": {
+        "youtube": "430525",
+        "soundcloud": "430525"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "JAY-Z & Kanye West",
+      "title": "Niggas In Paris",
+      "remix": "",
+      "label": "ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "3459305",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1852,
+      "mediaIds": {
+        "spotify": "44703",
+        "youtube": "44703",
+        "soundcloud": "44703",
+        "appleMusic": "44703"
+      },
+      "blendGroup": [
+        {
+          "artist": "JAY-Z & Kanye West",
+          "title": "Niggas In Paris",
+          "remix": "",
+          "trackId": "3459305"
+        },
+        {
+          "artist": "Merk & Kremont ft. Kris Kiss",
+          "title": "Gang",
+          "remix": "",
+          "trackId": "3459306"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Merk & Kremont ft. Kris Kiss",
+      "title": "Gang",
+      "remix": "",
+      "label": "SPINNIN' COPYRIGHT FREE",
+      "trackId": "3459306",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "358735",
+        "youtube": "358735",
+        "soundcloud": "358735",
+        "appleMusic": "358735"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Dennis Ferrer",
+      "title": "Hey Hey",
+      "remix": "",
+      "label": "DEFECTED/OBJEKTIVITY",
+      "trackId": "3459307",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1935,
+      "mediaIds": {
+        "spotify": "11997",
+        "youtube": "11997",
+        "appleMusic": "11997"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dennis Ferrer",
+          "title": "Hey Hey",
+          "remix": "",
+          "trackId": "3459307"
+        },
+        {
+          "artist": "Phlegmatic Dogs",
+          "title": "Gotta Move",
+          "remix": "",
+          "trackId": "3459308"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Phlegmatic Dogs",
+      "title": "Gotta Move",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "3459308",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 1995,
+      "mediaIds": {
+        "spotify": "389494",
+        "youtube": "389494",
+        "soundcloud": "389494",
+        "appleMusic": "389494"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Sunnery James & Ryan Marciano & DYNA",
+      "title": "Badman",
+      "remix": "",
+      "label": "SONO (ARMADA)",
+      "trackId": "3459309",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2025,
+      "mediaIds": {
+        "spotify": "423619",
+        "youtube": "423619",
+        "soundcloud": "423619",
+        "appleMusic": "423619"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Merk & Kremont ft. DNCE",
+      "title": "Hands Up (Neero Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "3459310",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2093,
+      "mediaIds": {
+        "spotify": "435328",
+        "youtube": "435328",
+        "appleMusic": "435328"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Gianluca Vacchi",
+      "title": "Viento",
+      "remix": "",
+      "label": "SPRS (SPINNIN')",
+      "trackId": "3459311",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2167,
+      "mediaIds": {
+        "spotify": "370982",
+        "youtube": "370982",
+        "soundcloud": "370982",
+        "appleMusic": "370982"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gianluca Vacchi",
+          "title": "Viento",
+          "remix": "",
+          "trackId": "3459311"
+        },
+        {
+          "artist": "Red Hot Chili Peppers",
+          "title": "Otherside (Acappella)",
+          "remix": "",
+          "trackId": "3459312"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Otherside (Acappella)",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "3459312",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 2250,
+      "mediaIds": {
+        "spotify": "5247",
+        "youtube": "27410",
+        "soundcloud": "5247",
+        "appleMusic": "5247"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "Fatboy Slim",
+      "title": "Ya Mama (Push The Tempo) (MOGUAI Remix)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "3459313",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2318,
+      "mediaIds": {
+        "spotify": "49532",
+        "youtube": "49532",
+        "soundcloud": "49532",
+        "appleMusic": "49532"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fatboy Slim",
+          "title": "Ya Mama (Push The Tempo) (MOGUAI Remix)",
+          "remix": "",
+          "trackId": "3459313"
+        },
+        {
+          "artist": "Merk & Kremont & Paris & Simo",
+          "title": "Tundra",
+          "remix": "",
+          "trackId": "3459314"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Merk & Kremont & Paris & Simo",
+      "title": "Tundra",
+      "remix": "",
+      "label": "FLAMINGO",
+      "trackId": "3459314",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 2379,
+      "mediaIds": {
+        "spotify": "124635",
+        "youtube": "124635",
+        "soundcloud": "124635",
+        "appleMusic": "124635"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Stromae",
+      "title": "Alors On Danse",
+      "remix": "",
+      "label": "VERTIGO (UMG)",
+      "trackId": "3459315",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2503,
+      "mediaIds": {
+        "spotify": "17350",
+        "youtube": "17350",
+        "soundcloud": "17350",
+        "appleMusic": "17350"
+      },
+      "blendGroup": [
+        {
+          "artist": "Stromae",
+          "title": "Alors On Danse",
+          "remix": "",
+          "trackId": "3459315"
+        },
+        {
+          "artist": "Steff Da Campo & SIKS",
+          "title": "Make Me Feel",
+          "remix": "",
+          "trackId": "3459316"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Steff Da Campo & SIKS",
+      "title": "Make Me Feel",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "3459316",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 2556,
+      "mediaIds": {
+        "spotify": "395286",
+        "youtube": "395286",
+        "soundcloud": "395286",
+        "appleMusic": "395286"
+      }
+    },
+    {
+      "pos": "29",
+      "artist": "Merk & Kremont",
+      "title": "Sushi",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3459317",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2587,
+      "mediaIds": {
+        "spotify": "452495",
+        "youtube": "452495",
+        "soundcloud": "452495",
+        "appleMusic": "452495"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Clean Bandit ft. Jess Glynne",
+      "title": "Rather Be (Merk & Kremont Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3459318",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2744,
+      "mediaIds": {
+        "youtube": "195322",
+        "soundcloud": "195322"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Merk & Kremont",
+      "title": "Fire",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "3459319",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2842,
+      "mediaIds": {
+        "spotify": "400327",
+        "youtube": "400327",
+        "appleMusic": "400327"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Merk & Kremont",
+      "title": "Turn It Around",
+      "remix": "",
+      "label": "FUTURE HOUSE MUSIC",
+      "trackId": "3459320",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2887,
+      "mediaIds": {
+        "spotify": "392551",
+        "youtube": "392551",
+        "soundcloud": "392551",
+        "appleMusic": "392551"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Avicii ft. Sandro Cavazza",
+      "title": "Without You (Merk & Kremont Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "3459321",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 3039,
+      "mediaIds": {
+        "spotify": "380014",
+        "youtube": "380014",
+        "soundcloud": "380014",
+        "appleMusic": "380014"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Merk & Kremont & Ady Suleiman",
+      "title": "Sad Story (Out Of Luck) (USAI & Crusy Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "3459322",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3245,
+      "mediaIds": {
+        "spotify": "379903",
+        "youtube": "379903",
+        "soundcloud": "379903",
+        "appleMusic": "379903"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Robbie Williams vs. Dimitri Vangelis & Wyman & Tom Staar",
+      "title": "Feel vs. Empire (Merk & Kremont Mashup)",
+      "remix": "",
+      "label": "CHRYSALIS / BUCE",
+      "trackId": "3459323",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 3366,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "841396",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/475551759"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "2082642",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/UMFradio"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:05:04.775Z",
+  "scrapeVersion": 2
+}

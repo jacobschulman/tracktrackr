@@ -1,0 +1,689 @@
+{
+  "tlId": "1h173d6t",
+  "dj": "Tape B",
+  "stage": "EDC Las Vegas",
+  "date": "2024-05-17",
+  "year": 2024,
+  "url": "https://www.1001tracklists.com/tracklist/1h173d6t/tape-b-basspod-edc-las-vegas-united-states-2024-05-17.html",
+  "djs": [
+    {
+      "name": "Tape B",
+      "slug": "tapeb"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Wooli & Tape B vs. Rae Sremmurd",
+      "title": "Dopamine vs. No Type (Tape B VIP)",
+      "remix": "",
+      "label": "INTERSCOPE/WOOLI MUSIC",
+      "trackId": "10535539",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 960,
+      "mediaIds": {
+        "youtube": "1110992",
+        "soundcloud": "1110992"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Hamdi ft. Princess Superstar",
+      "title": "Counting (Tape B Edit)",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "10535540",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "953670",
+        "soundcloud": "953670"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Levity",
+      "title": "Front To Back",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "10535541",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "981293",
+        "youtube": "981293",
+        "soundcloud": "981293",
+        "appleMusic": "981293"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Flux Pavilion & NGHTMRE ft. Jamie Lewis",
+      "title": "Feel Your Love",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "10535542",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300763",
+        "youtube": "300763",
+        "soundcloud": "300763",
+        "appleMusic": "300763"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flux Pavilion & NGHTMRE ft. Jamie Lewis",
+          "title": "Feel Your Love",
+          "remix": "",
+          "trackId": "10535542"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "10535543"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10535543",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "05",
+      "artist": "ID",
+      "title": "Come Home",
+      "remix": "",
+      "label": "",
+      "trackId": "10535544",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Subtronics ft. Nevve",
+      "title": "Spacetime (VIP)",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "10535545",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "794193",
+        "youtube": "794193",
+        "soundcloud": "794193",
+        "appleMusic": "794193"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Doctor P",
+      "title": "The Champagne Böp",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "10535546",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "142443",
+        "youtube": "142443",
+        "soundcloud": "142443",
+        "appleMusic": "142443"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Flux Pavilion",
+      "title": "Vibrate",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "10535547",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "266215",
+        "youtube": "266215",
+        "soundcloud": "266215",
+        "appleMusic": "266215"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Heads Will Roll",
+      "remix": "",
+      "label": "DGC",
+      "trackId": "10535548",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5244",
+        "youtube": "5244",
+        "soundcloud": "5244",
+        "appleMusic": "5244"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Mersiv ft. Attitude",
+      "title": "Fire Dance",
+      "remix": "",
+      "label": "MERSIV SOUND MUSIC",
+      "trackId": "10535549",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "815912",
+        "youtube": "815912",
+        "soundcloud": "815912"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mersiv ft. Attitude",
+          "title": "Fire Dance",
+          "remix": "",
+          "trackId": "10535549"
+        },
+        {
+          "artist": "A$AP Mob ft. Juicy J",
+          "title": "Yamborghini High",
+          "remix": "",
+          "trackId": "10535550"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "A$AP Mob ft. Juicy J",
+      "title": "Yamborghini High",
+      "remix": "",
+      "label": "A$AP",
+      "trackId": "10535550",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "315125",
+        "youtube": "315125",
+        "soundcloud": "315125",
+        "appleMusic": "315125"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Flux Pavilion",
+      "title": "Bass Cannon (Phrva Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "10535551",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "984269",
+        "soundcloud": "984269"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "John Summit & Subtronics & Tape B ft. Sage The Gemini",
+      "title": "Gas Pedal",
+      "remix": "",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "10535552",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1014574",
+        "youtube": "1014574",
+        "soundcloud": "1014574",
+        "appleMusic": "1014574"
+      },
+      "blendGroup": [
+        {
+          "artist": "John Summit & Subtronics & Tape B ft. Sage The Gemini",
+          "title": "Gas Pedal",
+          "remix": "",
+          "trackId": "10535552"
+        },
+        {
+          "artist": "Sage The Gemini ft. IAMSU!",
+          "title": "Gas Pedal",
+          "remix": "(Acappella)",
+          "trackId": "10535553"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sage The Gemini ft. IAMSU!",
+      "title": "Gas Pedal",
+      "remix": "(Acappella)",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "10535553",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "150879",
+        "youtube": "150879",
+        "soundcloud": "150879",
+        "appleMusic": "150879"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Cloonee",
+      "title": "Sippin' Yak (DENNETT Remix)",
+      "remix": "",
+      "label": "HELLBENT",
+      "trackId": "10535554",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "1001014",
+        "appleMusic": "1001014"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Skrillex & Bare Noize ft. Foreign Beggars",
+      "title": "Scatta (Tape B Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "10535555",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Excision ft. Savvy",
+      "title": "Sleepless (Tape B Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "10535556",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "1063463"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Ganja White Night & Tape B",
+      "title": "Ganja Tape",
+      "remix": "",
+      "label": "SUBCARBON",
+      "trackId": "10535557",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1040109",
+        "youtube": "1040109",
+        "soundcloud": "1040109",
+        "appleMusic": "1040109"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Hedex ft. Eksman",
+      "title": "MHITR (Semi Automatic)",
+      "remix": "",
+      "label": "DNB ALLSTARS",
+      "trackId": "10535558",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "880372",
+        "youtube": "880372",
+        "soundcloud": "880372",
+        "appleMusic": "880372"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hedex ft. Eksman",
+          "title": "MHITR (Semi Automatic)",
+          "remix": "",
+          "trackId": "10535558"
+        },
+        {
+          "artist": "2 Chainz ft. Kanye West",
+          "title": "Birthday Song (Acappella)",
+          "remix": "",
+          "trackId": "10535559"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "2 Chainz ft. Kanye West",
+      "title": "Birthday Song (Acappella)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "10535559",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "91630",
+        "youtube": "91630",
+        "soundcloud": "91630",
+        "appleMusic": "91630"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Levity ft. Dem Jointz",
+      "title": "Flip It (Tape B Remix)",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "10535560",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "982508",
+        "youtube": "982508",
+        "soundcloud": "982508",
+        "appleMusic": "982508"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Virtual Riot",
+      "title": "Touhou Riddim (Subtronics Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "10535561",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "825938",
+        "youtube": "825938",
+        "soundcloud": "825938",
+        "appleMusic": "825938"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "YOGI ft. Pusha T",
+      "title": "Burial (Skrillex & TrollPhace Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "10535562",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "218091",
+        "youtube": "218091",
+        "soundcloud": "218091",
+        "appleMusic": "218091"
+      },
+      "blendGroup": [
+        {
+          "artist": "YOGI ft. Pusha T",
+          "title": "Burial (Skrillex & TrollPhace Remix)",
+          "remix": "",
+          "trackId": "10535562"
+        },
+        {
+          "artist": "Samplifire & YAKZ",
+          "title": "Menticide",
+          "remix": "",
+          "trackId": "10535563"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Samplifire & YAKZ",
+      "title": "Menticide",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "10535563",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "917652",
+        "youtube": "917652",
+        "soundcloud": "917652",
+        "appleMusic": "917652"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Skrillex ft. Alvin Risk",
+      "title": "Try It Out",
+      "remix": "",
+      "label": "OWSLA/BIG BEAT",
+      "trackId": "10535564",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "58332",
+        "youtube": "58332",
+        "soundcloud": "58332",
+        "appleMusic": "58332"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Eptic",
+      "title": "The End",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "10535565",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "220720",
+        "youtube": "220720",
+        "soundcloud": "220720",
+        "appleMusic": "220720"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eptic",
+          "title": "The End",
+          "remix": "",
+          "trackId": "10535565"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "10535566"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10535566",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "23",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10535567",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Kehlani",
+      "title": "Gangsta",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "10535568",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "332765",
+        "youtube": "332765",
+        "soundcloud": "332765",
+        "appleMusic": "332765"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Chase & Status & Bou ft. Trigga & IRAH & Flowdan & Takura",
+      "title": "Baddadan",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "10535569",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "904345",
+        "youtube": "904345",
+        "soundcloud": "904345",
+        "appleMusic": "904345"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Hairitage",
+      "title": "Holotip",
+      "remix": "",
+      "label": "WAKAAN",
+      "trackId": "10535570",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "924942",
+        "youtube": "924942",
+        "soundcloud": "924942",
+        "appleMusic": "924942"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Hardwell",
+      "title": "Spaceman",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "10535571",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "51416",
+        "youtube": "51416",
+        "soundcloud": "51416",
+        "appleMusic": "51416"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hardwell",
+          "title": "Spaceman",
+          "remix": "",
+          "trackId": "10535571"
+        },
+        {
+          "artist": "PEEKABOO",
+          "title": "Bumpin' (LYNY Remix)",
+          "remix": "",
+          "trackId": "10535572"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "PEEKABOO",
+      "title": "Bumpin' (LYNY Remix)",
+      "remix": "",
+      "label": "PEEKABOO",
+      "trackId": "10535572",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "999795",
+        "youtube": "999795",
+        "soundcloud": "999795",
+        "appleMusic": "999795"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4134934",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=BdGzBXwdFDw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:54:37.415Z",
+  "scrapeVersion": 2
+}

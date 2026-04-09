@@ -1,0 +1,966 @@
+{
+  "tlId": "22q5mcct",
+  "dj": "Andromedik",
+  "stage": "EDC Orlando",
+  "date": "2025-11-08",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/22q5mcct/andromedik-circuitgrounds-edc-orlando-united-states-2025-11-08.html",
+  "djs": [
+    {
+      "name": "Andromedik",
+      "slug": "andromedik"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Andromedik",
+      "title": "Oblivion",
+      "remix": "",
+      "label": "",
+      "trackId": "13179990",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1160922",
+        "youtube": "1160922",
+        "soundcloud": "1160922",
+        "appleMusic": "1160922"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "1991",
+      "title": "Get A Good Feeling",
+      "remix": "",
+      "label": "I99I",
+      "trackId": "13065320",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 220,
+      "mediaIds": {
+        "spotify": "1059772",
+        "youtube": "1059772",
+        "soundcloud": "1059772",
+        "appleMusic": "1059772"
+      },
+      "blendGroup": [
+        {
+          "artist": "1991",
+          "title": "Get A Good Feeling",
+          "remix": "",
+          "trackId": "13065320"
+        },
+        {
+          "artist": "Culture Shock",
+          "title": "Empire",
+          "remix": "",
+          "trackId": "13065321"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Culture Shock",
+      "title": "Empire",
+      "remix": "",
+      "label": "CULTURE SHOCK MUSIC",
+      "trackId": "13065321",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 278,
+      "mediaIds": {
+        "spotify": "1082024",
+        "youtube": "1082024",
+        "soundcloud": "1082024",
+        "appleMusic": "1082024"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Andromedik",
+      "title": "Never Enough",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13065322",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 345,
+      "mediaIds": {
+        "spotify": "1131219",
+        "youtube": "1131219",
+        "soundcloud": "1131219",
+        "appleMusic": "1131219"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "John Summit ft. Inéz",
+      "title": "light years (Skiye Remix)",
+      "remix": "",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13179991",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 436,
+      "mediaIds": {
+        "youtube": "1133831",
+        "soundcloud": "1133831"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Becky Hill & Chase & Status",
+      "title": "Disconnect",
+      "remix": "",
+      "label": "POLYDOR/EKO",
+      "trackId": "13065323",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 500,
+      "mediaIds": {
+        "spotify": "907771",
+        "youtube": "907771",
+        "soundcloud": "907771",
+        "appleMusic": "907771"
+      },
+      "blendGroup": [
+        {
+          "artist": "Becky Hill & Chase & Status",
+          "title": "Disconnect",
+          "remix": "",
+          "trackId": "13065323"
+        },
+        {
+          "artist": "WINK",
+          "title": "intheclub",
+          "remix": "",
+          "trackId": "13065324"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "WINK",
+      "title": "intheclub",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "13065324",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 542,
+      "mediaIds": {
+        "spotify": "1123376",
+        "youtube": "1123376",
+        "soundcloud": "1123376",
+        "appleMusic": "1123376"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Felix",
+      "title": "Don't You Want Me (Delta Heavy Remix)",
+      "remix": "",
+      "label": "DECONSTRUCTION",
+      "trackId": "13065325",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 578,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Grafix ft. Madishu",
+      "title": "We're On Fire",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13065326",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 631,
+      "mediaIds": {
+        "spotify": "1079296",
+        "youtube": "1079296",
+        "soundcloud": "1079296",
+        "appleMusic": "1079296"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Kanine & Andromedik",
+      "title": "Ascension",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13065327",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 718,
+      "mediaIds": {
+        "spotify": "1093592",
+        "youtube": "1093592",
+        "soundcloud": "1093592",
+        "appleMusic": "1093592"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kanine & Andromedik",
+          "title": "Ascension",
+          "remix": "",
+          "trackId": "13065327"
+        },
+        {
+          "artist": "Skiye",
+          "title": "Walkman",
+          "remix": "",
+          "trackId": "13180038"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skiye",
+      "title": "Walkman",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13180038",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1128260",
+        "youtube": "1128260",
+        "soundcloud": "1128260",
+        "appleMusic": "1128260"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Grafix & Andromedik",
+      "title": "Comedown",
+      "remix": "",
+      "label": "LIQUICITY",
+      "trackId": "13065328",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 840,
+      "mediaIds": {
+        "spotify": "971525",
+        "youtube": "971525",
+        "soundcloud": "971525",
+        "appleMusic": "971525"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Metrik",
+      "title": "Dawnbreaker",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "13065329",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 936,
+      "mediaIds": {
+        "spotify": "448170",
+        "youtube": "448170",
+        "soundcloud": "448170",
+        "appleMusic": "448170"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Andromedik ft. Ayah Marar",
+      "title": "Tomorrow",
+      "remix": "",
+      "label": "LIQUICITY",
+      "trackId": "12986849",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1006,
+      "mediaIds": {
+        "spotify": "746409",
+        "youtube": "746409",
+        "soundcloud": "746409",
+        "appleMusic": "746409"
+      },
+      "blendGroup": [
+        {
+          "artist": "Andromedik ft. Ayah Marar",
+          "title": "Tomorrow",
+          "remix": "",
+          "trackId": "12986849"
+        },
+        {
+          "artist": "Sub Focus ft. Fireboy DML & IRAH",
+          "title": "Original Don",
+          "remix": "",
+          "trackId": "12986850"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sub Focus ft. Fireboy DML & IRAH",
+      "title": "Original Don",
+      "remix": "",
+      "label": "POSITIVA",
+      "trackId": "12986850",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1114314",
+        "youtube": "1114314",
+        "soundcloud": "1114314",
+        "appleMusic": "1114314"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sub Focus ft. Fireboy DML & IRAH",
+          "title": "Original Don",
+          "remix": "",
+          "trackId": "12986850"
+        },
+        {
+          "artist": "Andromedik ft. MC Stretch",
+          "title": "To The Dark",
+          "remix": "",
+          "trackId": "13180039"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Andromedik ft. MC Stretch",
+      "title": "To The Dark",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "13180039",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "927528",
+        "youtube": "927528",
+        "soundcloud": "927528",
+        "appleMusic": "927528"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Netsky",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12986851",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Andromedik ft. Lauren L'aimant",
+      "title": "Air",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12986852",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1064745",
+        "youtube": "1064745",
+        "soundcloud": "1064745",
+        "appleMusic": "1064745"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Pirapus",
+      "title": "Body Drop (Won't Stop)",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "12986853",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1099861",
+        "youtube": "1099861",
+        "soundcloud": "1099861",
+        "appleMusic": "1099861"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pirapus",
+          "title": "Body Drop (Won't Stop)",
+          "remix": "",
+          "trackId": "12986853"
+        },
+        {
+          "artist": "Grafix & Culture Shock",
+          "title": "Make It Pump",
+          "remix": "",
+          "trackId": "12986854"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Grafix & Culture Shock",
+      "title": "Make It Pump",
+      "remix": "",
+      "label": "CULTURE SHOCK MUSIC",
+      "trackId": "12986854",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1053965",
+        "youtube": "1053965",
+        "soundcloud": "1053965",
+        "appleMusic": "1053965"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Dimension",
+      "title": "Bass Thump",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12986855",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1126700",
+        "youtube": "1126700",
+        "soundcloud": "1126700",
+        "appleMusic": "1126700"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Andromedik & Used",
+      "title": "Take Me",
+      "remix": "",
+      "label": "NCS",
+      "trackId": "12986856",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "789904",
+        "youtube": "789904",
+        "soundcloud": "789904",
+        "appleMusic": "789904"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Sub Focus & Subsonic",
+      "title": "Roll Too Deep",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "12986857",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1106829",
+        "youtube": "1106829",
+        "soundcloud": "1106829",
+        "appleMusic": "1106829"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Armin van Buuren & Martin Garrix ft. Libby Whitehouse",
+      "title": "Sleepless Nights (Andromedik Remix)",
+      "remix": "",
+      "label": "ARMADA/STMPD",
+      "trackId": "12986858",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "appleMusic": "1150013"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Marlon Hoffstadt aka DJ Daddy Trance",
+      "title": "I Got You (Andromedik Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "12986859",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "998984",
+        "soundcloud": "998984"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Andromedik ft. Lauren L'aimant",
+      "title": "Only One",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12986860",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1129604",
+        "youtube": "1129604",
+        "soundcloud": "1129604",
+        "appleMusic": "1129604"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Tantrum Desire",
+      "title": "Pump (Drumsound & Bassline Smith Remix)",
+      "remix": "",
+      "label": "TECHNIQUE",
+      "trackId": "12986861",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "342518",
+        "youtube": "342518",
+        "soundcloud": "342518",
+        "appleMusic": "342518"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Subsonic ft. Shadxwgirl",
+      "title": "Where You Are",
+      "remix": "",
+      "label": "SUBSONIC : FREQUENCIES",
+      "trackId": "12986862",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1112150",
+        "youtube": "1112150",
+        "soundcloud": "1112150",
+        "appleMusic": "1112150"
+      },
+      "blendGroup": [
+        {
+          "artist": "Subsonic ft. Shadxwgirl",
+          "title": "Where You Are",
+          "remix": "",
+          "trackId": "12986862"
+        },
+        {
+          "artist": "Basstripper",
+          "title": "Ready For It",
+          "remix": "",
+          "trackId": "13179993"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Basstripper",
+      "title": "Ready For It",
+      "remix": "",
+      "label": "DNB ALLSTARS",
+      "trackId": "13179993",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1138945",
+        "youtube": "1138945",
+        "soundcloud": "1138945",
+        "appleMusic": "1138945"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Netsky & Andromedik",
+      "title": "Out Of Body",
+      "remix": "",
+      "label": "HELIX (PAYDAY)",
+      "trackId": "12986863",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1077529",
+        "youtube": "1077529",
+        "soundcloud": "1077529",
+        "appleMusic": "1077529"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Porter Robinson",
+      "title": "Something Comforting (Lexurus Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "12986864",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1128575",
+        "soundcloud": "1128575"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Andromedik ft. Nu-La",
+      "title": "Beside Me",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12986865",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1128577",
+        "youtube": "1128577",
+        "soundcloud": "1128577",
+        "appleMusic": "1128577"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Pirapus",
+      "title": "GO BACK (We Can't)",
+      "remix": "",
+      "label": "STNS",
+      "trackId": "12986866",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1019174",
+        "youtube": "1019174",
+        "soundcloud": "1019174",
+        "appleMusic": "1019174"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Andromedik & A Little Sound & Basstripper",
+      "title": "Sunlight",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12986867",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1122791",
+        "youtube": "1122791",
+        "soundcloud": "1122791",
+        "appleMusic": "1122791"
+      },
+      "blendGroup": [
+        {
+          "artist": "Andromedik & A Little Sound & Basstripper",
+          "title": "Sunlight",
+          "remix": "",
+          "trackId": "12986867"
+        },
+        {
+          "artist": "Grafix & ashworld99",
+          "title": "Ready 2 Break",
+          "remix": "",
+          "trackId": "12986868"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Grafix & ashworld99",
+      "title": "Ready 2 Break",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12986868",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1128219",
+        "youtube": "1128219",
+        "soundcloud": "1128219",
+        "appleMusic": "1128219"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Andromedik ft. Sarah de Warren",
+      "title": "Stone",
+      "remix": "",
+      "label": "DEMAX",
+      "trackId": "12986869",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1043580",
+        "youtube": "1043580",
+        "soundcloud": "1043580",
+        "appleMusic": "1043580"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Circadian",
+      "title": "Hold That Sucker Down",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "12986870",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "1132338",
+        "youtube": "1132338",
+        "soundcloud": "1132338",
+        "appleMusic": "1132338"
+      },
+      "blendGroup": [
+        {
+          "artist": "Circadian",
+          "title": "Hold That Sucker Down",
+          "remix": "",
+          "trackId": "12986870"
+        },
+        {
+          "artist": "Culture Shock",
+          "title": "Breathe",
+          "remix": "",
+          "trackId": "12986871"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Culture Shock",
+      "title": "Breathe",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12986871",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "982648",
+        "youtube": "982648",
+        "soundcloud": "982648",
+        "appleMusic": "982648"
+      }
+    },
+    {
+      "pos": "30",
+      "artist": "Anyma ft. Ellie Goulding",
+      "title": "Hypnotized (Andromedik Remix)",
+      "remix": "",
+      "label": "THE END OF GENESYS/INTERSCOPE",
+      "trackId": "12986872",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1092348"
+      },
+      "blendGroup": [
+        {
+          "artist": "Anyma ft. Ellie Goulding",
+          "title": "Hypnotized (Andromedik Remix)",
+          "remix": "",
+          "trackId": "12986872"
+        },
+        {
+          "artist": "Adam F",
+          "title": "Circles (Pola & Bryson Bootleg)",
+          "remix": "",
+          "trackId": "12986873"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Adam F",
+      "title": "Circles (Pola & Bryson Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "12986873",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "491277"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "John Summit & HAYLA",
+      "title": "Shiver (Cassian Remix / Andromedik Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12986874",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1022330",
+        "soundcloud": "1022330",
+        "appleMusic": "1022330"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Kanine & Arcando ft. HEIGHTS",
+      "title": "Lost Tonight",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "12986876",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1068839",
+        "youtube": "1068839",
+        "soundcloud": "1068839",
+        "appleMusic": "1068839"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Lost Frequencies",
+      "title": "The Feeling (Lost Frequencies & Andromedik Deluxe Mix)",
+      "remix": "",
+      "label": "EPIC AMSTERDAM/LOST & CIE",
+      "trackId": "12986877",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "911365",
+        "youtube": "911365",
+        "soundcloud": "911365",
+        "appleMusic": "911365"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Imogen Heap",
+      "title": "Hide & Seek (Fred V & Grafix Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "12986878",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "673832"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Andromedik",
+      "title": "With You",
+      "remix": "",
+      "label": "LIQUICITY",
+      "trackId": "12986879",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "944791",
+        "youtube": "944791",
+        "soundcloud": "944791",
+        "appleMusic": "944791"
+      },
+      "blendGroup": [
+        {
+          "artist": "Andromedik",
+          "title": "With You",
+          "remix": "",
+          "trackId": "12986879"
+        },
+        {
+          "artist": "Porter Robinson ft. Bright Lights",
+          "title": "Language (JAUZ Remix)",
+          "remix": "",
+          "trackId": "12986880"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Porter Robinson ft. Bright Lights",
+      "title": "Language (JAUZ Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12986880",
+      "row": 35,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "336080",
+        "soundcloud": "336080"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_2",
+      "idMedia": "5119871",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/us/album/andromedik-at-edc-orlando-2025-circuit-grounds-stage-dj-mix/1859786016?app=music&at=1000lwkw"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "5067672",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/2213665652"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:32:39.914Z",
+  "scrapeVersion": 2
+}

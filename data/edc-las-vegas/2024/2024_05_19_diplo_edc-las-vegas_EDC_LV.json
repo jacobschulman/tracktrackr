@@ -1,0 +1,779 @@
+{
+  "tlId": "ukltv0k",
+  "dj": "Diplo",
+  "stage": "EDC Las Vegas",
+  "date": "2024-05-19",
+  "year": 2024,
+  "url": "https://www.1001tracklists.com/tracklist/ukltv0k/diplo-cosmicmeadow-edc-las-vegas-united-states-2024-05-19.html",
+  "djs": [
+    {
+      "name": "Diplo",
+      "slug": "diplo"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Gala",
+      "title": "Freed From Desire (Diplo Remix)",
+      "remix": "",
+      "label": "MINISTRY OF SOUND",
+      "trackId": "10550537",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1005218",
+        "youtube": "1005218",
+        "soundcloud": "1005218",
+        "appleMusic": "1005218"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Eelke Kleijn & Armin van Buuren vs. Lana Del Rey",
+      "title": "Transmission vs. Summertime Sadness (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "INTERSCOPE/ARMADA",
+      "trackId": "10550538",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Sean Paul & Odd Mob",
+      "title": "Get Busy (Odd Mob Club Mix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "10711755",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "894628",
+        "youtube": "894628",
+        "soundcloud": "894628",
+        "appleMusic": "894628"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Kanye West & Ty Dolla $ign pres. ¥$ ft. Playboi Carti & Rich The Kid",
+      "title": "CARNIVAL (Diplo Remix)",
+      "remix": "",
+      "label": "YZY",
+      "trackId": "10550548",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "HI-LO & Green Velvet & Dajae",
+      "title": "LIFT ME UP",
+      "remix": "",
+      "label": "HILOMATIK",
+      "trackId": "10711756",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "976750",
+        "youtube": "976750",
+        "soundcloud": "976750",
+        "appleMusic": "976750"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Sharam",
+      "title": "PATT (Party All The Time) (Adam Beyer & Layton Giordani & Green Velvet Remix)",
+      "remix": "",
+      "label": "DRUMCODE/ARMADA",
+      "trackId": "10550539",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "952241",
+        "youtube": "952241",
+        "soundcloud": "952241",
+        "appleMusic": "952241"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Nirvana",
+      "title": "Lithium (MAKJ Remix)",
+      "remix": "",
+      "label": "DGC",
+      "trackId": "10711757",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Space 92 & The YellowHeads vs. DJ Funk",
+      "title": "Planet X vs. Face Down Ass Up",
+      "remix": "",
+      "label": "",
+      "trackId": "10711758",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Gotye ft. Kimbra",
+      "title": "Somebody That I Used To Know (SIDEPIECE Treat)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "10550545",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "959133",
+        "soundcloud": "959133"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Odd Mob & OMNOM",
+      "title": "Losing Control",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "10711760",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "922908",
+        "youtube": "922908",
+        "soundcloud": "922908",
+        "appleMusic": "922908"
+      },
+      "blendGroup": [
+        {
+          "artist": "Odd Mob & OMNOM",
+          "title": "Losing Control",
+          "remix": "",
+          "trackId": "10711760"
+        },
+        {
+          "artist": "Odd Mob & OMNOM",
+          "title": "Losing Control (Phrva Flip)",
+          "remix": "",
+          "trackId": "10711761"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Odd Mob & OMNOM",
+      "title": "Losing Control (Phrva Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "10711761",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "954507",
+        "soundcloud": "954507"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Rob Base & DJ E-Z Rock",
+      "title": "It Takes Two",
+      "remix": "",
+      "label": "PROFILE RECORDS",
+      "trackId": "10711762",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "79753",
+        "youtube": "79753",
+        "soundcloud": "79753",
+        "appleMusic": "79753"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Cloonee",
+      "title": "Sippin' Yak (DENNETT Remix)",
+      "remix": "",
+      "label": "HELLBENT",
+      "trackId": "10562707",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "1001014",
+        "appleMusic": "1001014"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Skrillex & Hamdi & Taichu & OFFAIAH",
+      "title": "Push",
+      "remix": "",
+      "label": "OWSLA/ATLANTIC",
+      "trackId": "10550541",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "892889",
+        "youtube": "892889",
+        "soundcloud": "892889",
+        "appleMusic": "892889"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Diplo & The Outfield",
+      "title": "Your Love (MAKJ Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "10550544",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "DJ Ery & MC GW & DJ GBR ft. PET & Bobii",
+      "title": "Sequência do Toma Toma",
+      "remix": "",
+      "label": "RITMO DOS FLUXOS",
+      "trackId": "10711763",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1043251",
+        "youtube": "1043251"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Pitbull",
+      "title": "Hotel Room Service (Jaydos Remix)",
+      "remix": "",
+      "label": "POLO GROUNDS",
+      "trackId": "10711764",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "996929",
+        "soundcloud": "996929"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "ESSED",
+      "title": "La Gente",
+      "remix": "",
+      "label": "RETAIL",
+      "trackId": "10711765",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "924004",
+        "youtube": "924004",
+        "soundcloud": "924004",
+        "appleMusic": "924004"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Diplo & Miguel vs. M83 vs. Joel Corry & Pickle & Vula",
+      "title": "Don't Forget My Love vs. Midnight City vs. Stay Together (Baby Baby) (Diplo Edit)",
+      "remix": "",
+      "label": "NAIVE/HIGHER GROUND (MAD DECENT)/D4 D4NCE (DEFECTED)",
+      "trackId": "10550552",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Good Times Ahead",
+      "title": "Rhythm Of The Night",
+      "remix": "",
+      "label": "GOOD TIMES BAD TIMES",
+      "trackId": "10556649",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "971065",
+        "youtube": "971065",
+        "soundcloud": "971065",
+        "appleMusic": "971065"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Bingo Players vs. Gunna vs. Eurythmics vs. Yellow Claw & €URO TRA$H",
+      "title": "Rattle vs. Fukumean vs. Sweet Dreams (Are Made of This) vs. DJ Turn It Up (Major Lazer Edit)",
+      "remix": "",
+      "label": "BIG MACHINE/RCA/HYSTERIA/JEFFREE'S (MAD DECENT)/300 ENTERTAINMENT",
+      "trackId": "10711766",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Major Lazer & James Hype vs. Fred Again.. & Skrillex & Four Tet & Lil Baby",
+      "title": "Number 1 vs. Baby Again.. (Major Lazer Edit)",
+      "remix": "",
+      "label": "OWSLA/ATLANTIC/STEREOHYPE",
+      "trackId": "10550543",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Rihanna",
+      "title": "Rude Boy (YuB Techno Remix)",
+      "remix": "",
+      "label": "ISLAND DEF JAM (UMG)",
+      "trackId": "10711770",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "972053"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "OhBoyPrince & MykFresh & GwallaGangSpec",
+      "title": "Bounce When She Walk (JOOLIA Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "10711771",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Rebūke",
+      "title": "Along Came Polly (Konstantin Sibold & ZAC & CARMEE Remix)",
+      "remix": "",
+      "label": "AFTERLIFE",
+      "trackId": "10711772",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "951156",
+        "youtube": "951156",
+        "soundcloud": "951156",
+        "appleMusic": "951156"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rebūke",
+          "title": "Along Came Polly (Konstantin Sibold & ZAC & CARMEE Remix)",
+          "remix": "",
+          "trackId": "10711772"
+        },
+        {
+          "artist": "2 Live Crew",
+          "title": "We Want Some Pussy (Acappella)",
+          "remix": "",
+          "trackId": "10711773"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "2 Live Crew",
+      "title": "We Want Some Pussy (Acappella)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "10711773",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "125193",
+        "youtube": "125194",
+        "soundcloud": "125193",
+        "appleMusic": "125193"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Diplo & AutoErotique",
+      "title": "Waist Time",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "10711774",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "314111",
+        "youtube": "314111",
+        "soundcloud": "314111",
+        "appleMusic": "314111"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "GTA & Diplo",
+      "title": "Boy Oh Boy (Eryk Gee & CAMPS Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "10711775",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "915492"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Diplo & Sleepy Tom ft. Priscilla Renea",
+      "title": "Be Right There",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "10711776",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "268236",
+        "youtube": "268236",
+        "soundcloud": "268236",
+        "appleMusic": "268236"
+      },
+      "blendGroup": [
+        {
+          "artist": "Diplo & Sleepy Tom ft. Priscilla Renea",
+          "title": "Be Right There",
+          "remix": "",
+          "trackId": "10711776"
+        },
+        {
+          "artist": "The White Stripes",
+          "title": "Seven Nation Army",
+          "remix": "",
+          "trackId": "10711777"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army",
+      "remix": "",
+      "label": "XL",
+      "trackId": "10711777",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1491",
+        "youtube": "1491",
+        "soundcloud": "1491",
+        "appleMusic": "1491"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone (Pickle Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "10711778",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "840274",
+        "soundcloud": "840274"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Alle Farben & RELOVA & Maurice Lessing",
+      "title": "Enjoy The Silence",
+      "remix": "",
+      "label": "PEOPLE WANT TO DANCE",
+      "trackId": "10550540",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "895764",
+        "youtube": "895764",
+        "soundcloud": "895764",
+        "appleMusic": "895764"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Pancake",
+      "title": "Don't Turn Your Back",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "10711779",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "200369",
+        "youtube": "200369",
+        "soundcloud": "200369",
+        "appleMusic": "200369"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pancake",
+          "title": "Don't Turn Your Back",
+          "remix": "",
+          "trackId": "10711779"
+        },
+        {
+          "artist": "Audio Bullys",
+          "title": "We Don't Care",
+          "remix": "",
+          "trackId": "10711780"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Audio Bullys",
+      "title": "We Don't Care",
+      "remix": "",
+      "label": "SOURCE (EMI)",
+      "trackId": "10711780",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5264",
+        "youtube": "5264",
+        "soundcloud": "5264",
+        "appleMusic": "5264"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "Walker & Royce & VNSSA",
+      "title": "I Don't Remember",
+      "remix": "",
+      "label": "DIRTYBIRD",
+      "trackId": "10711781",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "954224",
+        "youtube": "954224",
+        "soundcloud": "954224",
+        "appleMusic": "954224"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Daft Punk",
+      "title": "Around The World",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE",
+      "trackId": "10711782",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1537",
+        "youtube": "1537",
+        "soundcloud": "1537",
+        "appleMusic": "1537"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Wuki vs. Diplo & HUGEL & Julia Church",
+      "title": "Edge Of Seventeen vs. Stay High (Wuki Edit)",
+      "remix": "",
+      "label": "THRIVE MUSIC/HIGHER GROUND (MAD DECENT)",
+      "trackId": "10550546",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Diplo & HUGEL ft. Julia Church",
+      "title": "Stay High (MAKJ Remix)",
+      "remix": "",
+      "label": "HIGHER GROUND (MAD DECENT)",
+      "trackId": "10550547",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "973897",
+        "youtube": "973897",
+        "soundcloud": "973897",
+        "appleMusic": "973897"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Levity",
+      "title": "Front To Back",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "10550542",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "981293",
+        "youtube": "981293",
+        "soundcloud": "981293",
+        "appleMusic": "981293"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Chance The Rapper ft. Knox Fortune",
+      "title": "All Night",
+      "remix": "",
+      "label": "CHANCE THE RAPPER",
+      "trackId": "10711783",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "313049",
+        "youtube": "313049",
+        "soundcloud": "313049",
+        "appleMusic": "313049"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Supermode & Maddix vs. Lil Uzi Vert",
+      "title": "Tell Me Why vs. XO TOUR Llif3",
+      "remix": "",
+      "label": "",
+      "trackId": "10711784",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Artemas",
+      "title": "i like the way you kiss me",
+      "remix": "",
+      "label": "10K PROJECTS",
+      "trackId": "10550549",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "985167",
+        "youtube": "985167",
+        "soundcloud": "985167",
+        "appleMusic": "985167"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "M.I.A.",
+      "title": "Paper Planes (Noise Mafia Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "10562708",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "932346",
+        "youtube": "932346",
+        "soundcloud": "932346",
+        "appleMusic": "932346"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_2",
+      "idMedia": "4194903",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/diplo-at-edc-las-vegas-2024-cosmic-meadow-stage-dj-mix/1752581582/us/album/diplo-at-edc-las-vegas-2024-cosmic-meadow-stage-dj-mix/1752581582?app=music&at=1000lwkw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:30:33.257Z",
+  "scrapeVersion": 2
+}

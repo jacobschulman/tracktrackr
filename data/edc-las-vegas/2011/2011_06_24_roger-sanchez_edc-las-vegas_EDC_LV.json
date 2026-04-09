@@ -1,0 +1,768 @@
+{
+  "tlId": "t648h1",
+  "dj": "Roger Sanchez",
+  "stage": "EDC Las Vegas",
+  "date": "2011-06-24",
+  "year": 2011,
+  "url": "https://www.1001tracklists.com/tracklist/t648h1/roger-sanchez-circuitgrounds-edc-las-vegas-united-states-2011-06-24.html",
+  "djs": [
+    {
+      "name": "Roger Sanchez",
+      "slug": "rogersanchez"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Roger Sanchez ft. MC Flipside & Mobin Master",
+      "title": "Worldwide",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "72827",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "34486"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Niels van Gogh & Daniel Strauss",
+      "title": "Emergency (Manuel De La Mare Remix)",
+      "remix": "",
+      "label": "SCREAM & SHOUT",
+      "trackId": "72828",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Niels van Gogh & Daniel Strauss",
+          "title": "Emergency (Manuel De La Mare Remix)",
+          "remix": "",
+          "trackId": "72828"
+        },
+        {
+          "artist": "Benny Benassi pres. The Biz",
+          "title": "Satisfaction (Acappella)",
+          "remix": "",
+          "trackId": "72829"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Benny Benassi pres. The Biz",
+      "title": "Satisfaction (Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "72829",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2029",
+        "youtube": "2029",
+        "soundcloud": "2029",
+        "appleMusic": "2029"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "72830",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "72830"
+        },
+        {
+          "artist": "Empire Of The Sun",
+          "title": "Walking On A Dream (Acappella)",
+          "remix": "",
+          "trackId": "72831"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Empire Of The Sun",
+      "title": "Walking On A Dream (Acappella)",
+      "remix": "",
+      "label": "SOUKSONIC",
+      "trackId": "72831",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3462",
+        "youtube": "3462",
+        "soundcloud": "3462",
+        "appleMusic": "3462"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Cajmere",
+      "title": "Percolator (Mixin Marc & Lex Da Funk Remix)",
+      "remix": "",
+      "label": "CAJUAL",
+      "trackId": "72832",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "27744"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cajmere",
+          "title": "Percolator (Mixin Marc & Lex Da Funk Remix)",
+          "remix": "",
+          "trackId": "72832"
+        },
+        {
+          "artist": "Justice vs. Simian",
+          "title": "We Are Your Friends (Acappella)",
+          "remix": "",
+          "trackId": "72833"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice vs. Simian",
+      "title": "We Are Your Friends (Acappella)",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "72833",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8095",
+        "youtube": "8095",
+        "soundcloud": "3157",
+        "appleMusic": "8095"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice vs. Simian",
+          "title": "We Are Your Friends (Acappella)",
+          "remix": "",
+          "trackId": "72833"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "72835"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "72835",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "05",
+      "artist": "Danny Corten & Maxime Wattel",
+      "title": "Meet Her At The Love Parade",
+      "remix": "",
+      "label": "",
+      "trackId": "72834",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 660,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Danny Corten & Maxime Wattel",
+          "title": "Meet Her At The Love Parade",
+          "remix": "",
+          "trackId": "72834"
+        },
+        {
+          "artist": "Massivedrum & Nick Corline vs. Pendulum",
+          "title": "Fiesta On The Island (Stereo Palma Mashup)",
+          "remix": "",
+          "trackId": "72836"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Massivedrum & Nick Corline vs. Pendulum",
+      "title": "Fiesta On The Island (Stereo Palma Mashup)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "72836",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "06",
+      "artist": "Technotronic vs. Dimitri Vegas & Like Mike",
+      "title": "Pump Up The Jam 2010 (Crowd Is Jumping Mix)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "72837",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "15214",
+        "youtube": "15214",
+        "appleMusic": "15214"
+      },
+      "blendGroup": [
+        {
+          "artist": "Technotronic vs. Dimitri Vegas & Like Mike",
+          "title": "Pump Up The Jam 2010 (Crowd Is Jumping Mix)",
+          "remix": "",
+          "trackId": "72837"
+        },
+        {
+          "artist": "AFROJACK & Bobby Burns",
+          "title": "Bungee",
+          "remix": "",
+          "trackId": "72838"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AFROJACK & Bobby Burns",
+      "title": "Bungee",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "72838",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "17452",
+        "youtube": "17452",
+        "soundcloud": "17452",
+        "appleMusic": "17452"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Federico Scavo",
+      "title": "Otherside",
+      "remix": "",
+      "label": "HOTFINGERS",
+      "trackId": "72839",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1140,
+      "mediaIds": {
+        "youtube": "379746"
+      },
+      "blendGroup": [
+        {
+          "artist": "Federico Scavo",
+          "title": "Otherside",
+          "remix": "",
+          "trackId": "72839"
+        },
+        {
+          "artist": "The White Stripes",
+          "title": "Seven Nation Army",
+          "remix": "",
+          "trackId": "72840"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army",
+      "remix": "",
+      "label": "XL",
+      "trackId": "72840",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1491",
+        "youtube": "1491",
+        "soundcloud": "1491",
+        "appleMusic": "1491"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Tristan Garner & Gregori Klosman",
+      "title": "Fuckin Down (Filip Jenven & JP Serano Sweet Dreams Edit)",
+      "remix": "",
+      "label": "JOIA",
+      "trackId": "72842",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Stefano Noferini",
+      "title": "That's Good",
+      "remix": "",
+      "label": "DEEPERFECT",
+      "trackId": "72844",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Stefano Noferini",
+          "title": "That's Good",
+          "remix": "",
+          "trackId": "72844"
+        },
+        {
+          "artist": "Josh Wink",
+          "title": "Don't Laugh (Acappella)",
+          "remix": "",
+          "trackId": "75537"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Josh Wink",
+      "title": "Don't Laugh (Acappella)",
+      "remix": "",
+      "label": "SORTED RECORDS",
+      "trackId": "75537",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "3094"
+      },
+      "blendGroup": [
+        {
+          "artist": "Josh Wink",
+          "title": "Don't Laugh (Acappella)",
+          "remix": "",
+          "trackId": "75537"
+        },
+        {
+          "artist": "Robin S",
+          "title": "Show Me Love",
+          "remix": "",
+          "trackId": "72845"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Robin S",
+      "title": "Show Me Love",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "72845",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2602",
+        "youtube": "2602",
+        "soundcloud": "2602",
+        "appleMusic": "2602"
+      },
+      "blendGroup": [
+        {
+          "artist": "Robin S",
+          "title": "Show Me Love",
+          "remix": "",
+          "trackId": "72845"
+        },
+        {
+          "artist": "Green Velvet",
+          "title": "Flash",
+          "remix": "",
+          "trackId": "72846"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Green Velvet",
+      "title": "Flash",
+      "remix": "",
+      "label": "YETI",
+      "trackId": "72846",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3876",
+        "youtube": "3876",
+        "soundcloud": "3876",
+        "appleMusic": "3876"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Ghosts 'n' Stuff",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "72847",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1761",
+        "youtube": "1761",
+        "soundcloud": "1761",
+        "appleMusic": "1761"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff",
+          "remix": "",
+          "trackId": "72847"
+        },
+        {
+          "artist": "Powers That Be ft. Roland Clark",
+          "title": "Planet Rock (Acappella)",
+          "remix": "",
+          "trackId": "72848"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Powers That Be ft. Roland Clark",
+      "title": "Planet Rock (Acappella)",
+      "remix": "",
+      "label": "DEFECTED",
+      "trackId": "72848",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "27719",
+        "youtube": "27720",
+        "appleMusic": "27719"
+      },
+      "blendGroup": [
+        {
+          "artist": "Powers That Be ft. Roland Clark",
+          "title": "Planet Rock (Acappella)",
+          "remix": "",
+          "trackId": "72848"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "72849"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "72849",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "11",
+      "artist": "AFROJACK",
+      "title": "Pacha On Acid",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "72850",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "13993",
+        "youtube": "13993",
+        "soundcloud": "13993",
+        "appleMusic": "13993"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "E.M.A.N.",
+      "title": "Kill That Bee",
+      "remix": "",
+      "label": "",
+      "trackId": "72851",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1980,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "E.M.A.N.",
+          "title": "Kill That Bee",
+          "remix": "",
+          "trackId": "72851"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Technologic (Acappella)",
+          "remix": "",
+          "trackId": "72852"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Technologic (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "72852",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2592",
+        "youtube": "8645",
+        "soundcloud": "8645",
+        "appleMusic": "2592"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Soho Spiv ft. Daddy Freddy",
+      "title": "Hands In The Air (Nick Thayer Remix)",
+      "remix": "",
+      "label": "STEALTH",
+      "trackId": "72853",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2100,
+      "mediaIds": {
+        "spotify": "30710",
+        "soundcloud": "30710"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Tomy DeClerque",
+      "title": "Real Game",
+      "remix": "",
+      "label": "",
+      "trackId": "77471",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Martin Solveig ft. Dragonette",
+      "title": "Hello (Roger Sanchez Edit)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "72855",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Les Schmitz & Alex Del Amo",
+      "title": "The Club",
+      "remix": "",
+      "label": "FRESCO",
+      "trackId": "72856",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2520,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Les Schmitz & Alex Del Amo",
+          "title": "The Club",
+          "remix": "",
+          "trackId": "72856"
+        },
+        {
+          "artist": "Duck Sauce",
+          "title": "Barbra Streisand",
+          "remix": "",
+          "trackId": "72857"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Duck Sauce",
+      "title": "Barbra Streisand",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "72857",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "19059",
+        "youtube": "19059",
+        "soundcloud": "19059",
+        "appleMusic": "19059"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Avicii ft. Andreas Moe",
+      "title": "Fade Into Darkness (Instrumental Mix)",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "72859",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "40680",
+        "appleMusic": "40680"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii ft. Andreas Moe",
+          "title": "Fade Into Darkness (Instrumental Mix)",
+          "remix": "",
+          "trackId": "72859"
+        },
+        {
+          "artist": "Shakedown",
+          "title": "At Night (Acappella)",
+          "remix": "",
+          "trackId": "72860"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Shakedown",
+      "title": "At Night (Acappella)",
+      "remix": "",
+      "label": "PANORAMA",
+      "trackId": "72860",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1384",
+        "youtube": "1384",
+        "soundcloud": "1384",
+        "appleMusic": "1384"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Roger Sanchez & Baggi Begovic ft. Mitch Crown",
+      "title": "This Is House (Instrumental)",
+      "remix": "",
+      "label": "",
+      "trackId": "72861",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2880,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Roger Sanchez & Baggi Begovic ft. Mitch Crown",
+          "title": "This Is House (Instrumental)",
+          "remix": "",
+          "trackId": "72861"
+        },
+        {
+          "artist": "Green Velvet",
+          "title": "Flash (Acappella)",
+          "remix": "",
+          "trackId": "72862"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Green Velvet",
+      "title": "Flash (Acappella)",
+      "remix": "",
+      "label": "YETI",
+      "trackId": "72862",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3876",
+        "youtube": "3876",
+        "soundcloud": "3876",
+        "appleMusic": "3876"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "DJ PP",
+      "title": "House Of Love (Koen Groeneveld Remix)",
+      "remix": "",
+      "label": "VENDETTA (BLANCO Y NEGRO)",
+      "trackId": "72863",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "18374",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/18029090"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:50:03.353Z",
+  "scrapeVersion": 2
+}

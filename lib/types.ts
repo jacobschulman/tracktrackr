@@ -20,6 +20,8 @@ export interface SetMeta {
   likes: number;
   url: string;
   hasSetFile: boolean;
+  festival: string;
+  festivalName: string;
 }
 
 export interface FestivalIndex {
@@ -59,6 +61,8 @@ export interface SetData {
   year: number;
   tracks: Track[];
   recordings: Recording[];
+  festival: string;
+  festivalName: string;
 }
 
 export interface TrackAppearance {
@@ -74,6 +78,8 @@ export interface TrackAppearance {
   artist: string;
   title: string;
   matchType?: string;
+  festival: string;
+  festivalName: string;
 }
 
 export interface TopTrack {
@@ -86,6 +92,9 @@ export interface TopTrack {
   djs: string[];
   tlIds: string[];
   label: string;
+  festivals: string[];
+  yearCounts?: Record<number, number>;
+  festivalCounts?: Record<string, number>;
 }
 
 export interface DJData {
@@ -98,6 +107,7 @@ export interface DJData {
   totalSets: number;
   streak: number;
   stages: Set<string>;
+  festivals: string[];
 }
 
 export interface BlendAppearance {
@@ -108,4 +118,6 @@ export interface BlendAppearance {
   stage: string;
   date: string;
   pairedWith: { artist: string; title: string; remix: string }[];
+  festival: string;
+  festivalName: string;
 }

@@ -1,0 +1,794 @@
+{
+  "tlId": "3b3rgh1",
+  "dj": "Mark Knight",
+  "stage": "Ultra Music Festival Japan",
+  "date": "2014-09-28",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/3b3rgh1/mark-knight-ultra-worldwide-arena-ultra-music-festival-japan-2014-09-28.html",
+  "djs": [
+    {
+      "name": "Mark Knight",
+      "slug": "markknight"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Mark Knight",
+      "title": "In And Out",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "1108868",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "204399",
+        "youtube": "204399",
+        "soundcloud": "204399",
+        "appleMusic": "204399"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "DJ PP",
+      "title": "Dynamic (Tim Cullen Remix)",
+      "remix": "",
+      "label": "SUBTERRANEO",
+      "trackId": "1108870",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 360,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "DJ PP",
+          "title": "Dynamic (Tim Cullen Remix)",
+          "remix": "",
+          "trackId": "1108870"
+        },
+        {
+          "artist": "Oliver Dollar & Jimi Jules ft. Quantic Soul Orchestra",
+          "title": "Pushing On (Acappella)",
+          "remix": "",
+          "trackId": "1109311"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Oliver Dollar & Jimi Jules ft. Quantic Soul Orchestra",
+      "title": "Pushing On (Acappella)",
+      "remix": "",
+      "label": "DEFECTED",
+      "trackId": "1109311",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 360,
+      "mediaIds": {
+        "spotify": "178937",
+        "youtube": "213267",
+        "soundcloud": "213267",
+        "appleMusic": "178937"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Ferreck Dawn & Redondo",
+      "title": "Love Too Deep",
+      "remix": "",
+      "label": "SPINNIN' DEEP",
+      "trackId": "1108871",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 630,
+      "mediaIds": {
+        "spotify": "177094",
+        "youtube": "177094",
+        "soundcloud": "177094",
+        "appleMusic": "177094"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ferreck Dawn & Redondo",
+          "title": "Love Too Deep",
+          "remix": "",
+          "trackId": "1108871"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "1131791"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1131791",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 630,
+      "mediaIds": null
+    },
+    {
+      "pos": "04",
+      "artist": "Gary Beck ft. Debra Debs",
+      "title": "Get Together",
+      "remix": "",
+      "label": "BEK",
+      "trackId": "1108872",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 780,
+      "mediaIds": {
+        "spotify": "202114",
+        "youtube": "202114",
+        "soundcloud": "202114",
+        "appleMusic": "202114"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Harry Romero",
+      "title": "Tania (Filterheadz Remix)",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "1108873",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1020,
+      "mediaIds": {
+        "spotify": "200172",
+        "youtube": "200172",
+        "soundcloud": "200172",
+        "appleMusic": "200172"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Joeski & AuDio KoDe",
+      "title": "The Yak (Filterheadz Remix)",
+      "remix": "",
+      "label": "KINETIKA",
+      "trackId": "1108874",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1200,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Joeski & AuDio KoDe",
+          "title": "The Yak (Filterheadz Remix)",
+          "remix": "",
+          "trackId": "1108874"
+        },
+        {
+          "artist": "Wankelmut & Emma Louise",
+          "title": "My Head Is A Jungle (MK Remix)",
+          "remix": "",
+          "trackId": "1109542"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wankelmut & Emma Louise",
+      "title": "My Head Is A Jungle (MK Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "1109542",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 1200,
+      "mediaIds": {
+        "spotify": "144602",
+        "youtube": "144602",
+        "soundcloud": "144602",
+        "appleMusic": "144602"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Taras Van De Voorde",
+      "title": "Chasing Autumns (Dosem Remix)",
+      "remix": "",
+      "label": "SUARA",
+      "trackId": "1108875",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1340,
+      "mediaIds": {
+        "spotify": "175430",
+        "youtube": "175430",
+        "soundcloud": "175430",
+        "appleMusic": "175430"
+      },
+      "blendGroup": [
+        {
+          "artist": "Taras Van De Voorde",
+          "title": "Chasing Autumns (Dosem Remix)",
+          "remix": "",
+          "trackId": "1108875"
+        },
+        {
+          "artist": "SecondCity",
+          "title": "I Wanna Feel",
+          "remix": "",
+          "trackId": "1108876"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SecondCity",
+      "title": "I Wanna Feel",
+      "remix": "",
+      "label": "MINISTRY OF SOUND/SPINNIN'",
+      "trackId": "1108876",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 1350,
+      "mediaIds": {
+        "spotify": "166374",
+        "youtube": "166374",
+        "appleMusic": "166374"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Patrick Topping",
+      "title": "Forget",
+      "remix": "",
+      "label": "HOT CREATIONS",
+      "trackId": "1108877",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1570,
+      "mediaIds": {
+        "spotify": "184051",
+        "youtube": "184051",
+        "appleMusic": "184051"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Adrian Hour",
+      "title": "Make You Feel Good",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "1108878",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1680,
+      "mediaIds": {
+        "spotify": "218837",
+        "soundcloud": "218837",
+        "appleMusic": "218837"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Dansson & Marlon Hoffstadt",
+      "title": "Shake That (Mark Knight Remix)",
+      "remix": "",
+      "label": "FFRR (PARLOPHONE)",
+      "trackId": "1108879",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1890,
+      "mediaIds": {
+        "spotify": "178190",
+        "youtube": "178190",
+        "soundcloud": "178190"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Adrian Hour",
+      "title": "Lost In Groove",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "1108880",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2100,
+      "mediaIds": {
+        "spotify": "214825",
+        "youtube": "214825",
+        "soundcloud": "214825",
+        "appleMusic": "214825"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Filthy Rich",
+      "title": "Rendezvous (Nathan Barato Remix)",
+      "remix": "",
+      "label": "INCORRECT",
+      "trackId": "1363394",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2280,
+      "mediaIds": {
+        "youtube": "215103",
+        "soundcloud": "215103",
+        "appleMusic": "215103"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Ramiro Lopez",
+      "title": "Spirit",
+      "remix": "",
+      "label": "SUARA",
+      "trackId": "1108882",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2430,
+      "mediaIds": {
+        "spotify": "208323",
+        "soundcloud": "208323"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Traumer",
+      "title": "Hoodlum",
+      "remix": "",
+      "label": "DESOLAT",
+      "trackId": "1108883",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2540,
+      "mediaIds": {
+        "spotify": "197149",
+        "youtube": "197149",
+        "soundcloud": "197149",
+        "appleMusic": "197149"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Marc Marzenit",
+      "title": "Perron",
+      "remix": "",
+      "label": "TRONIC",
+      "trackId": "1108884",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2840,
+      "mediaIds": {
+        "spotify": "206583",
+        "youtube": "206583",
+        "soundcloud": "206583",
+        "appleMusic": "206583"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1108885",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3080,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Pig&Dan",
+      "title": "Sandstorm",
+      "remix": "",
+      "label": "ELEVATE",
+      "trackId": "1108886",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3200,
+      "mediaIds": {
+        "spotify": "211831",
+        "youtube": "211831",
+        "soundcloud": "211831",
+        "appleMusic": "211831"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Oscar L",
+      "title": "Grooveland",
+      "remix": "",
+      "label": "1605",
+      "trackId": "1108887",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3300,
+      "mediaIds": {
+        "spotify": "215342",
+        "youtube": "215342",
+        "soundcloud": "215342",
+        "appleMusic": "215342"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Filterheadz",
+      "title": "Alive",
+      "remix": "",
+      "label": "BITTEN",
+      "trackId": "1108888",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3510,
+      "mediaIds": {
+        "spotify": "222273",
+        "youtube": "222273",
+        "soundcloud": "222273",
+        "appleMusic": "222273"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1108889",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3615,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Cleavage",
+      "title": "Need Someone",
+      "remix": "",
+      "label": "SPINNIN' DEEP/UPRISE",
+      "trackId": "1108890",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3720,
+      "mediaIds": {
+        "spotify": "202937",
+        "youtube": "202937",
+        "soundcloud": "202937"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1108891",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3900,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Masters At Work ft. Michael Watford",
+      "title": "My Love",
+      "remix": "",
+      "label": "",
+      "trackId": "1108892",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 4050,
+      "mediaIds": {
+        "spotify": "221596",
+        "youtube": "221596"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1108893",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 4200,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Storm Queen",
+      "title": "Look Right Through (MK Dub III)",
+      "remix": "",
+      "label": "DEFECTED",
+      "trackId": "1108894",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 4332,
+      "mediaIds": {
+        "spotify": "102899",
+        "youtube": "102899",
+        "soundcloud": "102899",
+        "appleMusic": "102899"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Jay Lumen",
+      "title": "No Money No Honey",
+      "remix": "",
+      "label": "OCTOPUS",
+      "trackId": "1108895",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 4560,
+      "mediaIds": {
+        "soundcloud": "158612"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "DJ PP",
+      "title": "Queen Of Disco",
+      "remix": "",
+      "label": "PPMUSIC",
+      "trackId": "1108896",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 4800,
+      "mediaIds": {
+        "soundcloud": "81129"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ PP",
+          "title": "Queen Of Disco",
+          "remix": "",
+          "trackId": "1108896"
+        },
+        {
+          "artist": "Donna Summer",
+          "title": "I Feel Love (Acappella)",
+          "remix": "",
+          "trackId": "1111857"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Donna Summer",
+      "title": "I Feel Love (Acappella)",
+      "remix": "",
+      "label": "ISLAND DEF JAM/UMG",
+      "trackId": "1111857",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 4800,
+      "mediaIds": {
+        "spotify": "2498",
+        "youtube": "2498",
+        "soundcloud": "2498",
+        "appleMusic": "2498"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "M.A.N.D.Y. vs. Booka Shade",
+      "title": "Body Language",
+      "remix": "",
+      "label": "GET PHYSICAL",
+      "trackId": "1110438",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 5010,
+      "mediaIds": {
+        "spotify": "1492",
+        "youtube": "1492",
+        "soundcloud": "1492",
+        "appleMusic": "1492"
+      },
+      "blendGroup": [
+        {
+          "artist": "M.A.N.D.Y. vs. Booka Shade",
+          "title": "Body Language",
+          "remix": "",
+          "trackId": "1110438"
+        },
+        {
+          "artist": "John Acquaviva pres.Roderick Fox",
+          "title": "In Your Face",
+          "remix": "",
+          "trackId": "1131792"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "John Acquaviva pres.Roderick Fox",
+      "title": "In Your Face",
+      "remix": "",
+      "label": "DEFINITIVE",
+      "trackId": "1131792",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 5054,
+      "mediaIds": {
+        "spotify": "71242",
+        "youtube": "71242",
+        "soundcloud": "71242",
+        "appleMusic": "71242"
+      }
+    },
+    {
+      "pos": "29",
+      "artist": "Paul Ritch",
+      "title": "Run Baby Run (Mark Knight Jack Exit Edit)",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "1110439",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 5114,
+      "mediaIds": {
+        "youtube": "154672"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Dosem",
+      "title": "Chase The Link",
+      "remix": "",
+      "label": "SUARA",
+      "trackId": "1131793",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 5480,
+      "mediaIds": {
+        "spotify": "205646",
+        "youtube": "205646",
+        "soundcloud": "205646",
+        "appleMusic": "205646"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1131794",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 5640,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1131795",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 5880,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Olav Basoski",
+      "title": "French Kiss",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "1110440",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 6035,
+      "mediaIds": {
+        "spotify": "196800",
+        "youtube": "196800",
+        "soundcloud": "196800",
+        "appleMusic": "196800"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1110441",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Florence + The Machine",
+      "title": "You've Got The Love (Mark Knight Remix)",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "1108881",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 6600,
+      "mediaIds": {
+        "spotify": "20916",
+        "youtube": "20916",
+        "soundcloud": "20916",
+        "appleMusic": "20916"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Mark Knight",
+      "title": "The Return Of Wolfy",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "1108897",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 6900,
+      "mediaIds": {
+        "spotify": "186002",
+        "youtube": "186002",
+        "appleMusic": "186002"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "222439",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/FreeLivesets"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "222219",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:25:03.625Z",
+  "scrapeVersion": 2
+}

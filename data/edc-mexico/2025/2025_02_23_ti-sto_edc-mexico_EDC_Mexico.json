@@ -1,0 +1,782 @@
+{
+  "tlId": "z85nr6k",
+  "dj": "Tiësto",
+  "stage": "EDC Mexico",
+  "date": "2025-02-23",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/z85nr6k/tiesto-kineticfield-edc-mexico-2025-02-23.html",
+  "djs": [
+    {
+      "name": "Tiësto",
+      "slug": "tiesto"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Tiësto & The Chainsmokers",
+      "title": "Split (Only U)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "11796785",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "214231",
+        "youtube": "214231",
+        "soundcloud": "214231",
+        "appleMusic": "214231"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & The Chainsmokers",
+          "title": "Split (Only U)",
+          "remix": "",
+          "trackId": "11796785"
+        },
+        {
+          "artist": "Tiësto",
+          "title": "Lay Low",
+          "remix": "(Acappella)",
+          "trackId": "11796786"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto",
+      "title": "Lay Low",
+      "remix": "(Acappella)",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "11796786",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "855662",
+        "youtube": "855662",
+        "soundcloud": "855662",
+        "appleMusic": "855662"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto",
+          "title": "Lay Low",
+          "remix": "(Acappella)",
+          "trackId": "11796786"
+        },
+        {
+          "artist": "Lil Jon",
+          "title": "Welcome To The House Tiësto",
+          "remix": "",
+          "trackId": "11796787"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lil Jon",
+      "title": "Welcome To The House Tiësto",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "11796787",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Lil Jon",
+          "title": "Welcome To The House Tiësto",
+          "remix": "",
+          "trackId": "11796787"
+        },
+        {
+          "artist": "Tiësto",
+          "title": "Lay Low (Tiësto VIP Mix)",
+          "remix": "",
+          "trackId": "11796788"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto",
+      "title": "Lay Low (Tiësto VIP Mix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "11796788",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 99,
+      "mediaIds": {
+        "spotify": "862256",
+        "youtube": "862256",
+        "soundcloud": "862256",
+        "appleMusic": "862256"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto",
+          "title": "Lay Low (Tiësto VIP Mix)",
+          "remix": "",
+          "trackId": "11796788"
+        },
+        {
+          "artist": "Sandro Silva & Quintino",
+          "title": "Epic (Tiësto Remix)",
+          "remix": "",
+          "trackId": "11796789"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sandro Silva & Quintino",
+      "title": "Epic (Tiësto Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "11796789",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 154,
+      "mediaIds": null
+    },
+    {
+      "pos": "02",
+      "artist": "Argy & TNY (EG)",
+      "title": "DURO",
+      "remix": "",
+      "label": "NEWORLD",
+      "trackId": "11796790",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 190,
+      "mediaIds": {
+        "spotify": "1072141",
+        "youtube": "1072141",
+        "soundcloud": "1072141",
+        "appleMusic": "1072141"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Tiësto & Rafael Cerato",
+      "title": "Cool 'N Calm",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "11796791",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 379,
+      "mediaIds": {
+        "spotify": "1082418",
+        "youtube": "1082418",
+        "soundcloud": "1082418",
+        "appleMusic": "1082418"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Moonphazes & DAMEN",
+      "title": "Grapevine",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "11796792",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 573,
+      "mediaIds": {
+        "spotify": "1055474",
+        "youtube": "1055474",
+        "soundcloud": "1055474",
+        "appleMusic": "1055474"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Tigerblind",
+      "title": "Battery Operated",
+      "remix": "",
+      "label": "MINISTRY OF SOUND",
+      "trackId": "11796793",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 767,
+      "mediaIds": {
+        "spotify": "1066380",
+        "youtube": "1066380",
+        "soundcloud": "1066380",
+        "appleMusic": "1066380"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "TH;EN",
+      "title": "Prismatica",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "11796794",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 932,
+      "mediaIds": {
+        "spotify": "1121113",
+        "youtube": "1121113",
+        "soundcloud": "1121113",
+        "appleMusic": "1121113"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Notre Dame & Tiësto vs. Kendrick Lamar & SZA",
+      "title": "Yumi vs. All The Stars (Tiësto Mashup)",
+      "remix": "",
+      "label": "TOP DAWG/THREE SIX ZERO",
+      "trackId": "11796795",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1097,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Tiësto ft. Oaks",
+      "title": "I Follow Rivers",
+      "remix": "",
+      "label": "ATLANTIC/MUSICAL FREEDOM",
+      "trackId": "11796798",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1320,
+      "mediaIds": {
+        "spotify": "1025862",
+        "youtube": "1025862",
+        "soundcloud": "1025862",
+        "appleMusic": "1025862"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Tiësto & Swimming Paul",
+      "title": "VHS Rave",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/HEADROOM",
+      "trackId": "11796799",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1429,
+      "mediaIds": {
+        "spotify": "1025863",
+        "youtube": "1025863",
+        "soundcloud": "1025863",
+        "appleMusic": "1025863"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Tiësto",
+      "title": "RVN (Raven)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "11796800",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1598,
+      "mediaIds": {
+        "spotify": "1121799",
+        "youtube": "1121799",
+        "soundcloud": "1121799",
+        "appleMusic": "1121799"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Tiësto & Sexyy Red",
+      "title": "OMG! (From F1® The Movie)",
+      "remix": "",
+      "label": "ATLANTIC/MUSICAL FREEDOM",
+      "trackId": "11796801",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1677,
+      "mediaIds": {
+        "spotify": "1048023",
+        "youtube": "1048023",
+        "soundcloud": "1048023",
+        "appleMusic": "1048023"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Cartel De Santa & La Kelly",
+      "title": "Shorty Party (Tiësto Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "11796802",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1832,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Tiësto",
+      "title": "Baila Conmigo",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "11796803",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2016,
+      "mediaIds": {
+        "spotify": "724843",
+        "youtube": "724843",
+        "soundcloud": "724843",
+        "appleMusic": "724843"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Karol G",
+      "title": "Provenza (Tiësto Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "11796804",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2075,
+      "mediaIds": {
+        "spotify": "845278",
+        "youtube": "845278",
+        "soundcloud": "845278",
+        "appleMusic": "845278"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Gala",
+      "title": "Freed From Desire (Tiësto Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "11796805",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2250,
+      "mediaIds": {
+        "youtube": "1135510"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Tiësto & KSHMR & VASSY vs. Adele",
+      "title": "Secrets vs. Set Fire To The Rain (Tiësto Mashup)",
+      "remix": "",
+      "label": "XL/MUSICAL FREEDOM/PM:AM",
+      "trackId": "11796806",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2466,
+      "mediaIds": {
+        "appleMusic": "974836"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "MOGUAI",
+      "title": "K I X S",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "11796807",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2696,
+      "mediaIds": {
+        "spotify": "221436",
+        "youtube": "221436",
+        "soundcloud": "221436",
+        "appleMusic": "221436"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Tiësto",
+      "title": "Back To The Oldskool",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "11796808",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2822,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Tiësto",
+      "title": "Lethal Industry (Rose Ringed Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/MAGIK MUZIK",
+      "trackId": "11796809",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2940,
+      "mediaIds": {
+        "spotify": "1046279",
+        "youtube": "1046279",
+        "soundcloud": "1046279",
+        "appleMusic": "1046279"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Cygnus X & Ummet Ozcan vs. Rozalla vs. Odd Mob & OMNOM",
+      "title": "Free Control (Tiësto Edit)",
+      "remix": "",
+      "label": "EPIC (SONY BMG)/XTRAVAGANZA/EXPERTS ONLY",
+      "trackId": "11796810",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3103,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Massano",
+      "title": "The Lights",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "11796813",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3212,
+      "mediaIds": {
+        "spotify": "1037181",
+        "youtube": "1037181",
+        "soundcloud": "1037181",
+        "appleMusic": "1037181"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Robert Miles",
+      "title": "Children (Tiësto Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "11796812",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3278,
+      "mediaIds": {
+        "youtube": "926181"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Arkham Knights vs. David Guetta & Benny Benassi & Hardwell & Maddix vs. The Killers",
+      "title": "Satisfaction Nightfall Brightside (Johnny de City Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "11796878",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3499,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "ALOK & Firebeatz vs. D-Jastic & MAKJ",
+      "title": "Higher State Of Consciousness vs. Up To No Good (Tiësto Mashup)",
+      "remix": "",
+      "label": "MADE IN NL (SPINNIN')/CONTROVERSIA",
+      "trackId": "11796814",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3571,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Tiësto",
+      "title": "Flight 643",
+      "remix": "",
+      "label": "MAGIK MUZIK (BLACK HOLE)",
+      "trackId": "11796815",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3666,
+      "mediaIds": {
+        "spotify": "2717",
+        "youtube": "2717",
+        "soundcloud": "2717",
+        "appleMusic": "2717"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Tiësto & Lucas & Steve",
+      "title": "Free Your Mind",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "11796882",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3765,
+      "mediaIds": {
+        "spotify": "1054298",
+        "youtube": "1054298",
+        "soundcloud": "1054298",
+        "appleMusic": "1054298"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Delerium ft. Sarah McLachlan",
+      "title": "Silence (Tiësto 2022 Remix)",
+      "remix": "",
+      "label": "NETTWERK",
+      "trackId": "11796816",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3799,
+      "mediaIds": {
+        "youtube": "814378",
+        "appleMusic": "814378"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Lewis Capaldi",
+      "title": "Someone You Loved (Tiësto Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "11796817",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3944,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Hardwell vs. Space Laces",
+      "title": "Spaceman vs. Dominate (Tiësto Mashup)",
+      "remix": "",
+      "label": "CAPITOL/REVEALED/NEVER SAY DIE",
+      "trackId": "11796926",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 4134,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Tiësto & James Bell vs. RL Grime & Knock2 & Abi Flynn",
+      "title": "The Business vs. come aliv3 (Tiësto Mashup)",
+      "remix": "",
+      "label": "ATLANTIC/MUSICAL FREEDOM/88RISING/SABLE VALLEY",
+      "trackId": "11796927",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 4220,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Gabry Ponte & Justus & Hi-Gate",
+      "title": "Dance To The Beat (Pitchin')",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "11796930",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 4315,
+      "mediaIds": {
+        "spotify": "1002339",
+        "youtube": "1002339",
+        "soundcloud": "1002339",
+        "appleMusic": "1002339"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Jax Jones & Azteck ft. Norma Jean Martine",
+      "title": "Love The Way You Lie",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "11796931",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 4389,
+      "mediaIds": {
+        "spotify": "1025865",
+        "youtube": "1025865",
+        "soundcloud": "1025865",
+        "appleMusic": "1025865"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Porter Robinson",
+      "title": "Cheerleader (SYSTEM KIDS Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "11796932",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 4542,
+      "mediaIds": {
+        "youtube": "1084303",
+        "soundcloud": "1084303"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Hedex & Eksman vs. Tiësto & Basslayerz",
+      "title": "MNITR (Semi Automatic) vs. Click Click Click (Tiësto Mashup)",
+      "remix": "",
+      "label": "DNB ALLSTARS/MUSICAL FREEDOM",
+      "trackId": "11796933",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 4617,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Camo & Krooked & Mefjus",
+      "title": "Sientelo",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "11796934",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 4687,
+      "mediaIds": {
+        "spotify": "716397",
+        "youtube": "716397",
+        "soundcloud": "716397",
+        "appleMusic": "716397"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "1991 & Subsonic ft. IVD",
+      "title": "Castles In The Sky",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "11796935",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 4800,
+      "mediaIds": {
+        "spotify": "976751",
+        "youtube": "976751",
+        "soundcloud": "976751",
+        "appleMusic": "976751"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Dimitri Vegas & Like Mike & Tiësto & W&W ft. Dido",
+      "title": "Thank You (Not So Bad)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "11796936",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 4868,
+      "mediaIds": {
+        "spotify": "910071",
+        "youtube": "910071",
+        "soundcloud": "910071",
+        "appleMusic": "910071"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Tiësto",
+      "title": "Adagio For Strings",
+      "remix": "",
+      "label": "MAGIK MUZIK (BLACK HOLE)",
+      "trackId": "11796937",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 5089,
+      "mediaIds": {
+        "spotify": "5402",
+        "youtube": "5402",
+        "soundcloud": "5402",
+        "appleMusic": "5402"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Issey Cross",
+      "title": "Bittersweet Goodbye (Tiësto Hardcore Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "11796938",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 5249,
+      "mediaIds": {
+        "spotify": "917674",
+        "youtube": "917674",
+        "soundcloud": "917674",
+        "appleMusic": "917674"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4649331",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=_0y6UtAUwm4"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:59:15.075Z",
+  "scrapeVersion": 2
+}

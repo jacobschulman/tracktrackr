@@ -1,0 +1,418 @@
+{
+  "tlId": "2p55cuuk",
+  "dj": "Deeper Purpose",
+  "stage": "EDC Las Vegas",
+  "date": "2023-05-21",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/2p55cuuk/deeper-purpose-stereobloom-edc-las-vegas-united-states-2023-05-21.html",
+  "djs": [
+    {
+      "name": "Deeper Purpose",
+      "slug": "deeperpurpose"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Deeper Purpose",
+      "title": "Demons",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "9157936",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "685510",
+        "youtube": "685510",
+        "soundcloud": "685510",
+        "appleMusic": "685510"
+      },
+      "blendGroup": [
+        {
+          "artist": "Deeper Purpose",
+          "title": "Demons",
+          "remix": "",
+          "trackId": "9157936"
+        },
+        {
+          "artist": "Deeper Purpose",
+          "title": "Party Diva",
+          "remix": "",
+          "trackId": "9157937"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Deeper Purpose",
+      "title": "Party Diva",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "9157937",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "827929",
+        "youtube": "827929",
+        "soundcloud": "827929",
+        "appleMusic": "827929"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Wolfire",
+      "title": "Let It",
+      "remix": "",
+      "label": "",
+      "trackId": "9157938",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Zack Darza & Swavé",
+      "title": "Wipe Me Down",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "9157939",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 302,
+      "mediaIds": {
+        "soundcloud": "894000"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Ship Wrek",
+      "title": "Mamacita",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "9060075",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "888438",
+        "youtube": "888438",
+        "soundcloud": "888438",
+        "appleMusic": "888438"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Rone White & Rowen Clark & Kid Enigma",
+      "title": "Synthenator",
+      "remix": "",
+      "label": "REPOPULATE MARS",
+      "trackId": "9060076",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "636310",
+        "youtube": "636310",
+        "soundcloud": "636310",
+        "appleMusic": "636310"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rone White & Rowen Clark & Kid Enigma",
+          "title": "Synthenator",
+          "remix": "",
+          "trackId": "9060076"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9060077"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9060077",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "06",
+      "artist": "Sage The Gemini ft. IAMSU!",
+      "title": "Gas Pedal (Kyle Watson Remix)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "9060078",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "845090",
+        "youtube": "845090",
+        "soundcloud": "845090",
+        "appleMusic": "845090"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Deeper Purpose",
+      "title": "Miss Me",
+      "remix": "",
+      "label": "PARACHUTE",
+      "trackId": "9237900",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "891544",
+        "youtube": "891544",
+        "soundcloud": "891544",
+        "appleMusic": "891544"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Oravla Ziur",
+      "title": "Todo Cambio",
+      "remix": "",
+      "label": "TECHAWAY REC.",
+      "trackId": "9060079",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "895108",
+        "youtube": "895108",
+        "soundcloud": "895108",
+        "appleMusic": "895108"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Dale Howard",
+      "title": "Kick Back",
+      "remix": "",
+      "label": "STATIC AUDIO",
+      "trackId": "9060080",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "898035",
+        "youtube": "898035",
+        "soundcloud": "898035",
+        "appleMusic": "898035"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Chris Lake ft. Alexis Roberts",
+      "title": "Turn Off The Lights (Deeper Purpose & BRN Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9060081",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "923476",
+        "soundcloud": "923476"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Deeper Purpose",
+      "title": "Party Diva",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "9056453",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "827929",
+        "youtube": "827929",
+        "soundcloud": "827929",
+        "appleMusic": "827929"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Kormak ft. MISS DRE",
+      "title": "Whitney",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "9056454",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "887295",
+        "youtube": "887295",
+        "soundcloud": "887295",
+        "appleMusic": "887295"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Mau P",
+      "title": "Your Mind Is Dirty",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "9056455",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "887827",
+        "youtube": "887827",
+        "soundcloud": "887827",
+        "appleMusic": "887827"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Deeper Purpose",
+      "title": "Activate",
+      "remix": "",
+      "label": "REPOPULATE MARS",
+      "trackId": "9056456",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "877904",
+        "youtube": "877904",
+        "soundcloud": "877904",
+        "appleMusic": "877904"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Deeper Purpose",
+      "title": "Safari VIP",
+      "remix": "",
+      "label": "IN 2 DEEP",
+      "trackId": "9056457",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "909547",
+        "youtube": "909547",
+        "soundcloud": "909547",
+        "appleMusic": "909547"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Deeper Purpose",
+      "title": "The Stutter",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "9056458",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "904844",
+        "youtube": "904844",
+        "soundcloud": "904844",
+        "appleMusic": "904844"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Late Replies",
+      "title": "Let's Misbehave",
+      "remix": "",
+      "label": "",
+      "trackId": "9056459",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Deeper Purpose",
+      "title": "Demons",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "9056460",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "685510",
+        "youtube": "685510",
+        "soundcloud": "685510",
+        "appleMusic": "685510"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Deeper Purpose",
+      "title": "Elevate",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "9056461",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "591900",
+        "youtube": "591900",
+        "soundcloud": "591900",
+        "appleMusic": "591900"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3459228",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=FNhE61tsHJ0"
+    },
+    {
+      "platform": "source_2",
+      "idMedia": "3451772",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/deeper-purpose-at-edc-las-vegas-2023-stereo-bloom-stage/1691197472/us/album/deeper-purpose-at-edc-las-vegas-2023-stereo-bloom-stage/1691197472?app=music&at=1000lwkw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:04:00.503Z",
+  "scrapeVersion": 2
+}

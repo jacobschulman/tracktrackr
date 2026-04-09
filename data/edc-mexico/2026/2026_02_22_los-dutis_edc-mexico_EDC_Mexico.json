@@ -1,0 +1,1145 @@
+{
+  "tlId": "2nf38up1",
+  "dj": "Los Dutis",
+  "stage": "EDC Mexico",
+  "date": "2026-02-22",
+  "year": 2026,
+  "url": "https://www.1001tracklists.com/tracklist/2nf38up1/los-dutis-dosequis-edc-mexico-2026-02-22.html",
+  "djs": [
+    {
+      "name": "Los Dutis",
+      "slug": "losdutis"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Los Dutis",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13545063",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Los Dutis",
+      "title": "SINCONTROL",
+      "remix": "",
+      "label": "MATACHIN MUSIC",
+      "trackId": "13545064",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 142,
+      "mediaIds": {
+        "spotify": "1157598",
+        "youtube": "1157598",
+        "soundcloud": "1157598",
+        "appleMusic": "1157598"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Los Dutis & Freebot",
+      "title": "QUEBRADUTI",
+      "remix": "",
+      "label": "",
+      "trackId": "13545065",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 212,
+      "mediaIds": {
+        "spotify": "1135433",
+        "youtube": "1135433",
+        "appleMusic": "1135433"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13545066",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 325,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Los Dutis",
+      "title": "NU HARD",
+      "remix": "",
+      "label": "MATACHIN MUSIC",
+      "trackId": "13545067",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 378,
+      "mediaIds": {
+        "spotify": "1157599",
+        "youtube": "1157599",
+        "appleMusic": "1157599"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Maná",
+      "title": "Oye Mi Amor",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "13545068",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 453,
+      "mediaIds": {
+        "spotify": "539796",
+        "youtube": "539796",
+        "appleMusic": "539796"
+      },
+      "blendGroup": [
+        {
+          "artist": "Maná",
+          "title": "Oye Mi Amor",
+          "remix": "",
+          "trackId": "13545068"
+        },
+        {
+          "artist": "Los Dutis",
+          "title": "Ponte",
+          "remix": "",
+          "trackId": "13545069"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Los Dutis",
+      "title": "Ponte",
+      "remix": "",
+      "label": "LA CLINICA",
+      "trackId": "13545069",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "325663",
+        "youtube": "325663",
+        "soundcloud": "325663",
+        "appleMusic": "325663"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "ENUR ft. Natasja",
+      "title": "Calabria",
+      "remix": "",
+      "label": "SCORPIO",
+      "trackId": "13545070",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 562,
+      "mediaIds": {
+        "spotify": "2030",
+        "youtube": "2030",
+        "soundcloud": "2030",
+        "appleMusic": "2030"
+      },
+      "blendGroup": [
+        {
+          "artist": "ENUR ft. Natasja",
+          "title": "Calabria",
+          "remix": "",
+          "trackId": "13545070"
+        },
+        {
+          "artist": "Millonario & W. Corona ft. Cartel De Santa",
+          "title": "Éxtasis",
+          "remix": "(Acappella)",
+          "trackId": "13545071"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Millonario & W. Corona ft. Cartel De Santa",
+      "title": "Éxtasis",
+      "remix": "(Acappella)",
+      "label": "",
+      "trackId": "13545071",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "764499",
+        "youtube": "764499",
+        "appleMusic": "764499"
+      },
+      "blendGroup": [
+        {
+          "artist": "Millonario & W. Corona ft. Cartel De Santa",
+          "title": "Éxtasis",
+          "remix": "(Acappella)",
+          "trackId": "13545071"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "LRAD",
+          "remix": "",
+          "trackId": "13545072"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "LRAD",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "13545072",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "117950",
+        "youtube": "117950",
+        "soundcloud": "117950",
+        "appleMusic": "117950"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Kid Cudi ft. MGMT & Ratatat",
+      "title": "Pursuit Of Happiness",
+      "remix": "",
+      "label": "REPUBLIC/GOOD MUSIC",
+      "trackId": "13545073",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 649,
+      "mediaIds": {
+        "spotify": "16825",
+        "youtube": "16825",
+        "appleMusic": "16825"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Los Dutis",
+      "title": "tupompi",
+      "remix": "",
+      "label": "",
+      "trackId": "13545074",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 700,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Bountyhunter",
+      "title": "Woops (Los Dutis Tribal Remix)",
+      "remix": "",
+      "label": "BONZAI",
+      "trackId": "13545075",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 845,
+      "mediaIds": {
+        "youtube": "1150840"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Banda Rodeo",
+      "title": "El Llanero Solitario (Los Dutis Hard Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "13545076",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 927,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Los Horóscopos de Durango",
+      "title": "Antes Muerta Que Sencilla",
+      "remix": "",
+      "label": "",
+      "trackId": "13545077",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1057,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Los Horóscopos de Durango",
+          "title": "Antes Muerta Que Sencilla",
+          "remix": "",
+          "trackId": "13545077"
+        },
+        {
+          "artist": "Black Eyed Peas",
+          "title": "Pump It (Restricted Edit)",
+          "remix": "",
+          "trackId": "13545078"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Black Eyed Peas",
+      "title": "Pump It (Restricted Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13545078",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "956797",
+        "soundcloud": "956797"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Fake Blood",
+      "title": "I Think I Like It",
+      "remix": "",
+      "label": "CHEAP THRILLS",
+      "trackId": "13545079",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1128,
+      "mediaIds": {
+        "spotify": "12771",
+        "youtube": "12771",
+        "soundcloud": "12771",
+        "appleMusic": "12771"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fake Blood",
+          "title": "I Think I Like It",
+          "remix": "",
+          "trackId": "13545079"
+        },
+        {
+          "artist": "Skrillex ft. Sirah",
+          "title": "Kyoto (Skrillex & Virtual Riot VIP)",
+          "remix": "",
+          "trackId": "13545080"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex ft. Sirah",
+      "title": "Kyoto (Skrillex & Virtual Riot VIP)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13545080",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1089308",
+        "soundcloud": "1089308"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "A$AP Ferg ft. A$AP Rocky & French Montana & Schoolboy Q & Trinidad James",
+      "title": "Work (Remix) (Crankdat Remix)",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "13545081",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1213,
+      "mediaIds": {
+        "youtube": "1097797",
+        "soundcloud": "1097797"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Deorro",
+      "title": "Five Hours (CELO (US) & MACHAKI Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "13545082",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1284,
+      "mediaIds": {
+        "spotify": "919833",
+        "youtube": "919833",
+        "soundcloud": "919833",
+        "appleMusic": "919833"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "ISOxo",
+      "title": "FUCK THE SPEAKERZ UP",
+      "remix": "",
+      "label": "H.C.D.",
+      "trackId": "13545083",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1353,
+      "mediaIds": {
+        "spotify": "1134627",
+        "youtube": "1134627",
+        "soundcloud": "1134627",
+        "appleMusic": "1134627"
+      },
+      "blendGroup": [
+        {
+          "artist": "ISOxo",
+          "title": "FUCK THE SPEAKERZ UP",
+          "remix": "",
+          "trackId": "13545083"
+        },
+        {
+          "artist": "Tony Warrior",
+          "title": "Mi Egipcia (Dale Movimiento)",
+          "remix": "(Acappella)",
+          "trackId": "13545084"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tony Warrior",
+      "title": "Mi Egipcia (Dale Movimiento)",
+      "remix": "(Acappella)",
+      "label": "",
+      "trackId": "13545084",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "17",
+      "artist": "Panteón Rococó",
+      "title": "La Carencia (Los Dutis Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "13545085",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1419,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Banda El Recodo",
+      "title": "Que Te Ruegue Quien Te Quiera",
+      "remix": "",
+      "label": "FONOVISA",
+      "trackId": "13545086",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1505,
+      "mediaIds": {
+        "spotify": "1157593",
+        "youtube": "1157593",
+        "soundcloud": "1157593",
+        "appleMusic": "1157593"
+      },
+      "blendGroup": [
+        {
+          "artist": "Banda El Recodo",
+          "title": "Que Te Ruegue Quien Te Quiera",
+          "remix": "",
+          "trackId": "13545086"
+        },
+        {
+          "artist": "Showtek ft. We Are Loud & Sonny Wilson",
+          "title": "Booyah",
+          "remix": "",
+          "trackId": "13545087"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Showtek ft. We Are Loud & Sonny Wilson",
+      "title": "Booyah",
+      "remix": "",
+      "label": "SPINNIN'/2DUTCH",
+      "trackId": "13545087",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "142182",
+        "youtube": "142182",
+        "soundcloud": "142182",
+        "appleMusic": "142182"
+      },
+      "blendGroup": [
+        {
+          "artist": "Showtek ft. We Are Loud & Sonny Wilson",
+          "title": "Booyah",
+          "remix": "",
+          "trackId": "13545087"
+        },
+        {
+          "artist": "Los Dutis",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13545088"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Los Dutis",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13545088",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "19",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Heads Will Roll (A-Trak Remix)",
+      "remix": "",
+      "label": "DGC",
+      "trackId": "13545089",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1564,
+      "mediaIds": {
+        "spotify": "11556",
+        "youtube": "11556",
+        "soundcloud": "11556",
+        "appleMusic": "11556"
+      },
+      "blendGroup": [
+        {
+          "artist": "Yeah Yeah Yeahs",
+          "title": "Heads Will Roll (A-Trak Remix)",
+          "remix": "",
+          "trackId": "13545089"
+        },
+        {
+          "artist": "Los Dutis & ST7V",
+          "title": "Dalepa",
+          "remix": "",
+          "trackId": "13545090"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Los Dutis & ST7V",
+      "title": "Dalepa",
+      "remix": "",
+      "label": "",
+      "trackId": "13545090",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "20",
+      "artist": "Bellini",
+      "title": "Samba De Janeiro",
+      "remix": "",
+      "label": "POLYGRAM/SOUNDNESS",
+      "trackId": "13545091",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1623,
+      "mediaIds": {
+        "spotify": "3098",
+        "youtube": "3098",
+        "soundcloud": "3098",
+        "appleMusic": "3098"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bellini",
+          "title": "Samba De Janeiro",
+          "remix": "",
+          "trackId": "13545091"
+        },
+        {
+          "artist": "Los Dutis",
+          "title": "Up The Bass",
+          "remix": "",
+          "trackId": "13545092"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Los Dutis",
+      "title": "Up The Bass",
+      "remix": "",
+      "label": "",
+      "trackId": "13545092",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "21",
+      "artist": "3BallMTY ft. El Bebeto & América Sierra",
+      "title": "Inténtalo",
+      "remix": "",
+      "label": "YELLOW CAKE",
+      "trackId": "13545093",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1713,
+      "mediaIds": {
+        "spotify": "798158",
+        "youtube": "798158",
+        "appleMusic": "798158"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Los Dutis",
+      "title": "La Rapida",
+      "remix": "",
+      "label": "LA CLINICA",
+      "trackId": "13545094",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1786,
+      "mediaIds": {
+        "spotify": "789379",
+        "youtube": "789379",
+        "soundcloud": "789379",
+        "appleMusic": "789379"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Los Dutis & Freebot",
+      "title": "Fiestota",
+      "remix": "",
+      "label": "WORLDWIDE",
+      "trackId": "13545095",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1876,
+      "mediaIds": {
+        "spotify": "763995",
+        "youtube": "763995",
+        "appleMusic": "763995"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Martin Solveig ft. Dragonette",
+      "title": "Hello",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "13545096",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1954,
+      "mediaIds": {
+        "spotify": "19452",
+        "youtube": "19452",
+        "soundcloud": "19452",
+        "appleMusic": "19452"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Solveig ft. Dragonette",
+          "title": "Hello",
+          "remix": "",
+          "trackId": "13545096"
+        },
+        {
+          "artist": "Davoodi",
+          "title": "King Kong",
+          "remix": "",
+          "trackId": "13545097"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Davoodi",
+      "title": "King Kong",
+      "remix": "",
+      "label": "ZOO (TOFF!)",
+      "trackId": "13545097",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "72333",
+        "youtube": "72333",
+        "soundcloud": "72333",
+        "appleMusic": "72333"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "D-Jastic",
+      "title": "Up To No Good (MAKJ Booty Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13545098",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2032,
+      "mediaIds": {
+        "youtube": "244932",
+        "soundcloud": "244932"
+      },
+      "blendGroup": [
+        {
+          "artist": "D-Jastic",
+          "title": "Up To No Good (MAKJ Booty Remix)",
+          "remix": "",
+          "trackId": "13545098"
+        },
+        {
+          "artist": "The Obsessed & DBF",
+          "title": "Colombia",
+          "remix": "",
+          "trackId": "13545099"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Obsessed & DBF",
+      "title": "Colombia",
+      "remix": "",
+      "label": "FILTH ON ACID",
+      "trackId": "13545099",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1063500",
+        "youtube": "1063500",
+        "soundcloud": "1063500",
+        "appleMusic": "1063500"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "Zombie Nation",
+      "title": "Kernkraft 400",
+      "remix": "",
+      "label": "EPM",
+      "trackId": "13545100",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2103,
+      "mediaIds": {
+        "spotify": "3577",
+        "youtube": "3577",
+        "soundcloud": "3577",
+        "appleMusic": "3577"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zombie Nation",
+          "title": "Kernkraft 400",
+          "remix": "",
+          "trackId": "13545100"
+        },
+        {
+          "artist": "Deorro",
+          "title": "Beso (Los Dutis Remix)",
+          "remix": "",
+          "trackId": "13545101"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Deorro",
+      "title": "Beso (Los Dutis Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "13545101",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "665588",
+        "appleMusic": "665588"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "Deorro & Los Dutis",
+      "title": "Cuando",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "13545102",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2164,
+      "mediaIds": {
+        "spotify": "581283",
+        "youtube": "581283",
+        "soundcloud": "581283",
+        "appleMusic": "581283"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Los Dutis",
+      "title": "Nitrocumbia",
+      "remix": "",
+      "label": "MATACHIN MUSIC",
+      "trackId": "13545103",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2235,
+      "mediaIds": {
+        "spotify": "1000721",
+        "youtube": "1000721",
+        "soundcloud": "1000721",
+        "appleMusic": "1000721"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Los Dutis",
+      "title": "Cumbia Prohibida",
+      "remix": "",
+      "label": "",
+      "trackId": "13545104",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2404,
+      "mediaIds": {
+        "spotify": "13545104",
+        "appleMusic": "13545104"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Los Dutis",
+      "title": "LA PIÑATA",
+      "remix": "",
+      "label": "",
+      "trackId": "13545105",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2455,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Los Dutis & Mad Warriors",
+      "title": "KICKOMANIAKO",
+      "remix": "",
+      "label": "",
+      "trackId": "13545106",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2503,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Los Dutis",
+      "title": "Zapatear",
+      "remix": "",
+      "label": "WORLDWIDE",
+      "trackId": "13545107",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2563,
+      "mediaIds": {
+        "spotify": "531784",
+        "youtube": "531784",
+        "appleMusic": "531784"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "DJ Khaled ft. Ludacris & Rick Ross & T-Pain & Snoop Dogg",
+      "title": "All I Do Is Win",
+      "remix": "",
+      "label": "E1 MUSIC",
+      "trackId": "13545108",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 2615,
+      "mediaIds": {
+        "spotify": "52598",
+        "youtube": "52598",
+        "soundcloud": "52598",
+        "appleMusic": "52598"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "SpongeBob SquarePants",
+      "title": "Jelly Fish Jam (Da Fokin Hard Techno Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "13545109",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 2665,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "SpongeBob SquarePants",
+          "title": "Jelly Fish Jam (Da Fokin Hard Techno Remix)",
+          "remix": "",
+          "trackId": "13545109"
+        },
+        {
+          "artist": "Teriyaki Boyz",
+          "title": "Tokyo Drift (The Fast And The Furious: Tokyo Drift OST)",
+          "remix": "(Acappella)",
+          "trackId": "13545110"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Teriyaki Boyz",
+      "title": "Tokyo Drift (The Fast And The Furious: Tokyo Drift OST)",
+      "remix": "(Acappella)",
+      "label": "UMG",
+      "trackId": "13545110",
+      "row": 34,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "269313",
+        "youtube": "269313",
+        "soundcloud": "269313",
+        "appleMusic": "269313"
+      }
+    },
+    {
+      "pos": "35",
+      "artist": "Los Dutis",
+      "title": "SUBELEKE",
+      "remix": "",
+      "label": "MATACHIN MUSIC",
+      "trackId": "13545111",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 2737,
+      "mediaIds": {
+        "spotify": "1157600",
+        "youtube": "1157600",
+        "appleMusic": "1157600"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Ramirez",
+      "title": "El Gallinero",
+      "remix": "",
+      "label": "DFC",
+      "trackId": "13545112",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 2868,
+      "mediaIds": {
+        "youtube": "435823",
+        "soundcloud": "435823"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ramirez",
+          "title": "El Gallinero",
+          "remix": "",
+          "trackId": "13545112"
+        },
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "13545113"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+      "title": "Put Ya Fuckin Hands Up (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "13545113",
+      "row": 36,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "16909",
+        "soundcloud": "16909"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "13545113"
+        },
+        {
+          "artist": "Los Dutis",
+          "title": "Robotina",
+          "remix": "",
+          "trackId": "13545114"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Los Dutis",
+      "title": "Robotina",
+      "remix": "",
+      "label": "",
+      "trackId": "13545114",
+      "row": 36,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "37",
+      "artist": "Cachirula & LOOJAN",
+      "title": "Uii",
+      "remix": "",
+      "label": "",
+      "trackId": "13545115",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 2935,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Cachirula & LOOJAN",
+          "title": "Uii",
+          "remix": "",
+          "trackId": "13545115"
+        },
+        {
+          "artist": "Cachirula & LOOJAN",
+          "title": "Uii (Los Dutis Remix)",
+          "remix": "",
+          "trackId": "13545116"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cachirula & LOOJAN",
+      "title": "Uii (Los Dutis Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "13545116",
+      "row": 37,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "38",
+      "artist": "Los Dutis",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13545117",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 3195,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Smash Mouth",
+      "title": "All Star",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "13545118",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 3274,
+      "mediaIds": {
+        "spotify": "180844",
+        "youtube": "180844",
+        "soundcloud": "180844",
+        "appleMusic": "180844"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "La Quinta Estación",
+      "title": "Me Muero",
+      "remix": "",
+      "label": "",
+      "trackId": "13545119",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 3375,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "5240353",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=37-kTLZVrSU"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:24:27.218Z",
+  "scrapeVersion": 2
+}

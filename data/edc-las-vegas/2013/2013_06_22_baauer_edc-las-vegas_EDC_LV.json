@@ -1,0 +1,951 @@
+{
+  "tlId": "2xcgzz1",
+  "dj": "Baauer",
+  "stage": "EDC Las Vegas",
+  "date": "2013-06-22",
+  "year": 2013,
+  "url": "https://www.1001tracklists.com/tracklist/2xcgzz1/baauer-basspod-edc-las-vegas-united-states-2013-06-22.html",
+  "djs": [
+    {
+      "name": "Baauer",
+      "slug": "baauer"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Just Blaze & Baauer ft. JAY Z",
+      "title": "Higher",
+      "remix": "",
+      "label": "INSURGENCY",
+      "trackId": "570246",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "114932",
+        "youtube": "114932",
+        "soundcloud": "114932",
+        "appleMusic": "114932"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Yellow Claw & Cesqeaux",
+      "title": "IBETCHU",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "570247",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "125083",
+        "youtube": "125083",
+        "soundcloud": "125083",
+        "appleMusic": "125083"
+      },
+      "blendGroup": [
+        {
+          "artist": "Yellow Claw & Cesqeaux",
+          "title": "IBETCHU",
+          "remix": "",
+          "trackId": "570247"
+        },
+        {
+          "artist": "Killer Mike & Blackowned & C-Bone & Rock D The Legend & Big Boi",
+          "title": "Kryptonite (I'm On It)",
+          "remix": "",
+          "trackId": "570248"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Killer Mike & Blackowned & C-Bone & Rock D The Legend & Big Boi",
+      "title": "Kryptonite (I'm On It)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "570248",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "137636",
+        "youtube": "137636",
+        "soundcloud": "137636",
+        "appleMusic": "137636"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Sidney Samson",
+      "title": "The World Is Yours (Valentino Khan Remix)",
+      "remix": "",
+      "label": "DIRTY DUTCH",
+      "trackId": "570249",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "97733",
+        "soundcloud": "97733"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Benny Benassi pres. The Biz",
+      "title": "Satisfaction (RL Grime Remix)",
+      "remix": "",
+      "label": "D:VISION",
+      "trackId": "570250",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "104427",
+        "youtube": "104427",
+        "soundcloud": "104427",
+        "appleMusic": "104427"
+      },
+      "blendGroup": [
+        {
+          "artist": "Benny Benassi pres. The Biz",
+          "title": "Satisfaction (RL Grime Remix)",
+          "remix": "",
+          "trackId": "570250"
+        },
+        {
+          "artist": "Jamie Lidell",
+          "title": "What A Shame (RL Grime & Salva Remix)",
+          "remix": "",
+          "trackId": "570251"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jamie Lidell",
+      "title": "What A Shame (RL Grime & Salva Remix)",
+      "remix": "",
+      "label": "WARP",
+      "trackId": "570251",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "122746",
+        "youtube": "122746",
+        "soundcloud": "122746",
+        "appleMusic": "122746"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Kanye West ft. Chief Keef & Justin Vernon",
+      "title": "Hold My Liquor",
+      "remix": "",
+      "label": "ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "570252",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "150658",
+        "soundcloud": "150658",
+        "appleMusic": "150658"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kanye West ft. Chief Keef & Justin Vernon",
+          "title": "Hold My Liquor",
+          "remix": "",
+          "trackId": "570252"
+        },
+        {
+          "artist": "Chase & Status ft. Pusha T",
+          "title": "Machine Gun",
+          "remix": "",
+          "trackId": "589881"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chase & Status ft. Pusha T",
+      "title": "Machine Gun",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "589881",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 360,
+      "mediaIds": {
+        "spotify": "150659",
+        "youtube": "150659",
+        "soundcloud": "150659",
+        "appleMusic": "150659"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Baauer",
+      "title": "My Nose",
+      "remix": "",
+      "label": "LUCKYME",
+      "trackId": "570253",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "80222",
+        "soundcloud": "80222"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "J-Lie ft. Waka Flocka Flame",
+      "title": "Throwin' Money",
+      "remix": "",
+      "label": "BAD BOYS (INTERSCOPE)",
+      "trackId": "570254",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "105229"
+      },
+      "blendGroup": [
+        {
+          "artist": "J-Lie ft. Waka Flocka Flame",
+          "title": "Throwin' Money",
+          "remix": "",
+          "trackId": "570254"
+        },
+        {
+          "artist": "Vicetone & Tony Igy",
+          "title": "Astronomia (Dirty Audio Remix)",
+          "remix": "",
+          "trackId": "570255"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Vicetone & Tony Igy",
+      "title": "Astronomia (Dirty Audio Remix)",
+      "remix": "",
+      "label": "B1 (SONY)",
+      "trackId": "570255",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "08",
+      "artist": "Rustie",
+      "title": "Slasherr (Flume Edit)",
+      "remix": "",
+      "label": "NUMBERS",
+      "trackId": "570256",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "162494",
+        "soundcloud": "162494"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Yo Majesty",
+      "title": "Club Action (Smookie Illson Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "570257",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 600,
+      "mediaIds": {
+        "youtube": "150661",
+        "soundcloud": "150661"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Buraka Som Sistema",
+      "title": "Hangover (BaBaBa) (Caspa Remix)",
+      "remix": "",
+      "label": "ENCHUFADA",
+      "trackId": "570258",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "46348",
+        "youtube": "46348",
+        "soundcloud": "46348",
+        "appleMusic": "46348"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "JWLS",
+      "title": "JWLS Is Bored Pt. VI (Lobster Beat)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "570259",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "107868"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Baauer",
+      "title": "Yaow!",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "570260",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "78566",
+        "youtube": "78566",
+        "soundcloud": "78566"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "GTA ft. DJ Funk",
+      "title": "Booty Bounce",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "570261",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "75268",
+        "youtube": "75268",
+        "soundcloud": "75268",
+        "appleMusic": "75268"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "570262",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 816,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "570263",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 886,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "570264",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 940,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Congorock ft. Mr. Lexx",
+      "title": "Babylon",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "570265",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "16822",
+        "youtube": "16822",
+        "soundcloud": "16822",
+        "appleMusic": "16822"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "DECiBEL",
+      "title": "WOT",
+      "remix": "",
+      "label": "SPEAKERBOX",
+      "trackId": "570266",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "108394",
+        "youtube": "108394",
+        "soundcloud": "108394"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Nero",
+      "title": "Won't You (Be There) (Baauer Remix)",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "570267",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "98171",
+        "youtube": "98171",
+        "soundcloud": "98171",
+        "appleMusic": "98171"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Rihanna",
+      "title": "Jump (Club Cheval Rap Remix feat. Theophilus London)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "570268",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "RL Grime",
+      "title": "Pockets",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "570269",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "101962",
+        "youtube": "101962",
+        "soundcloud": "101962",
+        "appleMusic": "101962"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Baauer",
+      "title": "Ant",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "570270",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "94956"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "The Partysquad",
+      "title": "Helemaal Naar De Klote (Abstract Brasserie Mix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "570271",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Baauer",
+      "title": "Harlem Shake",
+      "remix": "",
+      "label": "JEFFREE'S (MAD DECENT)",
+      "trackId": "570272",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "71677",
+        "youtube": "71677",
+        "soundcloud": "71677",
+        "appleMusic": "71677"
+      },
+      "blendGroup": [
+        {
+          "artist": "Baauer",
+          "title": "Harlem Shake",
+          "remix": "",
+          "trackId": "570272"
+        },
+        {
+          "artist": "Baauer",
+          "title": "Harlem Shake (VIP)",
+          "remix": "",
+          "trackId": "570273"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Baauer",
+      "title": "Harlem Shake (VIP)",
+      "remix": "",
+      "label": "JEFFREE'S (MAD DECENT)",
+      "trackId": "570273",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "94957"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Kill The Noise",
+      "title": "Mosh It Up",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "570274",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "93670",
+        "youtube": "93670",
+        "soundcloud": "93670",
+        "appleMusic": "93670"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Savage",
+      "title": "Swing",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "570275",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "65378",
+        "youtube": "65378",
+        "soundcloud": "65378",
+        "appleMusic": "65378"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Aquadrop",
+      "title": "Look (At The Ship)",
+      "remix": "",
+      "label": "ESP",
+      "trackId": "570277",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "153548"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Disclosure ft. Eliza Doolittle",
+      "title": "You & Me (Baauer Remix)",
+      "remix": "",
+      "label": "PMR",
+      "trackId": "570278",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "129589",
+        "youtube": "129589",
+        "soundcloud": "129589",
+        "appleMusic": "129589"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Tyga",
+      "title": "Lap Dance (JWLS Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "570279",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "100060"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Just Blaze & Baauer ft. JAY Z",
+      "title": "Higher",
+      "remix": "",
+      "label": "INSURGENCY",
+      "trackId": "570280",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "114932",
+        "youtube": "114932",
+        "soundcloud": "114932",
+        "appleMusic": "114932"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "RL Grime",
+      "title": "Art Money",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "570281",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "78984",
+        "soundcloud": "78984"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Baauer",
+      "title": "Dum Dum",
+      "remix": "",
+      "label": "LUCKYME",
+      "trackId": "570282",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "92766",
+        "youtube": "92766",
+        "soundcloud": "92766",
+        "appleMusic": "92766"
+      },
+      "blendGroup": [
+        {
+          "artist": "Baauer",
+          "title": "Dum Dum",
+          "remix": "",
+          "trackId": "570282"
+        },
+        {
+          "artist": "Kristina Si",
+          "title": "Nu Nu Da",
+          "remix": "",
+          "trackId": "570283"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kristina Si",
+      "title": "Nu Nu Da",
+      "remix": "",
+      "label": "",
+      "trackId": "570283",
+      "row": 32,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "129590"
+      }
+    },
+    {
+      "pos": "33",
+      "artist": "GTA",
+      "title": "Goons (Funtcantasy)",
+      "remix": "",
+      "label": "THREE SIX ZERO",
+      "trackId": "570284",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "117714",
+        "youtube": "117714",
+        "soundcloud": "117714",
+        "appleMusic": "117714"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "DJ Fresh & Diplo ft. Dominique Young Unique",
+      "title": "Earthquake",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "570285",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "136857",
+        "youtube": "136857",
+        "soundcloud": "136857"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Flosstradamus",
+      "title": "Jehovah",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "570286",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "100061"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Rich Boy",
+      "title": "Throw Some D's (JWLS Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "570287",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "150662"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Flosstradamus",
+      "title": "Roll Up (Baauer Remix)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "570288",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "86632",
+        "youtube": "86632",
+        "soundcloud": "86632",
+        "appleMusic": "86632"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Ol' Dirty Bastard",
+      "title": "Shimmy Shimmy Ya (Mr. Carmack Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "570289",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "150608",
+        "soundcloud": "150608"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Bro Safari",
+      "title": "The Drop",
+      "remix": "",
+      "label": "BRO SAFARI",
+      "trackId": "570290",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "126728",
+        "youtube": "126728",
+        "soundcloud": "126728",
+        "appleMusic": "126728"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "DJ Snake ft. Alesia",
+      "title": "Bird Machine",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "570291",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "122649",
+        "youtube": "122649",
+        "soundcloud": "122649",
+        "appleMusic": "122649"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "RL Grime",
+      "title": "Shells",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "570292",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "122853",
+        "youtube": "122853",
+        "soundcloud": "122853",
+        "appleMusic": "122853"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "Baauer",
+      "title": "Slip",
+      "remix": "",
+      "label": "LUCKYME",
+      "trackId": "570293",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "113726",
+        "soundcloud": "113726"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "43",
+      "artist": "AlunaGeorge",
+      "title": "Attracting Flies (Baauer Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "570294",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "127328",
+        "youtube": "127328",
+        "soundcloud": "127328",
+        "appleMusic": "127328"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "44",
+      "artist": "T.I.",
+      "title": "Bring Em Out",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "570295",
+      "row": 44,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "91183",
+        "youtube": "91183",
+        "soundcloud": "91183",
+        "appleMusic": "91183"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "45",
+      "artist": "Snoop Dogg ft. Pharrell",
+      "title": "Drop It Like It's Hot",
+      "remix": "",
+      "label": "DOGGYSTYLE/GEFFEN",
+      "trackId": "570296",
+      "row": 45,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69016",
+        "youtube": "69016",
+        "soundcloud": "69016",
+        "appleMusic": "69016"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "102203",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=8FzVSuRzdLQ"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "102204",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=w1yyoFNcTRk"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:16:25.508Z",
+  "scrapeVersion": 2
+}

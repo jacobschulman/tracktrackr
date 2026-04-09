@@ -1,0 +1,935 @@
+{
+  "tlId": "73xrj5t",
+  "dj": "Flosstradamus",
+  "stage": "Coachella Festival",
+  "date": "2014-04-13",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/73xrj5t/flosstradamus-mojave-tent-coachella-festival-united-states-2014-04-13.html",
+  "djs": [
+    {
+      "name": "Flosstradamus",
+      "slug": "flosstradamus"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "DJ Funk",
+      "title": "Three Fine Hoes (Sinjin Hawke Remix)",
+      "remix": "",
+      "label": "BOOTY CALL",
+      "trackId": "859982",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "168970",
+        "youtube": "168970",
+        "soundcloud": "168970",
+        "appleMusic": "168970"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Alvaro & DJ MERCER ft. Lil Jon",
+      "title": "Welcome To The Jungle (Hammo Sung Bootleg)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "859983",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 76,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Flosstradamus ft. Travis Porter",
+      "title": "Drop Top",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "859984",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 144,
+      "mediaIds": {
+        "spotify": "179279",
+        "youtube": "179279",
+        "soundcloud": "179279",
+        "appleMusic": "179279"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Bone Crusher ft. Killer Mike & T.I.",
+      "title": "Never Scared",
+      "remix": "",
+      "label": "ARISTA",
+      "trackId": "859985",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 191,
+      "mediaIds": {
+        "spotify": "107064",
+        "youtube": "107064",
+        "soundcloud": "107064",
+        "appleMusic": "107064"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bone Crusher ft. Killer Mike & T.I.",
+          "title": "Never Scared",
+          "remix": "",
+          "trackId": "859985"
+        },
+        {
+          "artist": "Junkie Kid",
+          "title": "Claps Up (Breaux Hands To The Universe Edit)",
+          "remix": "",
+          "trackId": "859986"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Junkie Kid",
+      "title": "Claps Up (Breaux Hands To The Universe Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "859986",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 253,
+      "mediaIds": {
+        "youtube": "161333"
+      },
+      "blendGroup": [
+        {
+          "artist": "Junkie Kid",
+          "title": "Claps Up (Breaux Hands To The Universe Edit)",
+          "remix": "",
+          "trackId": "859986"
+        },
+        {
+          "artist": "Lil Jon & The Eastside Boyz",
+          "title": "Put Yo Hood Up (Acappella)",
+          "remix": "",
+          "trackId": "859987"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lil Jon & The Eastside Boyz",
+      "title": "Put Yo Hood Up (Acappella)",
+      "remix": "",
+      "label": "TVT",
+      "trackId": "859987",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 280,
+      "mediaIds": {
+        "spotify": "107063",
+        "youtube": "119329",
+        "soundcloud": "107063",
+        "appleMusic": "107063"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Ace Hood & Future vs. JWLS",
+      "title": "Bugatti Is Bored VIII (Crizzly Mashup)",
+      "remix": "",
+      "label": "CASH MONEY/FREE",
+      "trackId": "859988",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 297,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Ace Hood & Future vs. JWLS",
+          "title": "Bugatti Is Bored VIII (Crizzly Mashup)",
+          "remix": "",
+          "trackId": "859988"
+        },
+        {
+          "artist": "French Montana",
+          "title": "Ain't Worried Bout Nothin (Acappella)",
+          "remix": "",
+          "trackId": "866777"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "French Montana",
+      "title": "Ain't Worried Bout Nothin (Acappella)",
+      "remix": "",
+      "label": "BAD BOYS (INTERSCOPE)",
+      "trackId": "866777",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 366,
+      "mediaIds": {
+        "spotify": "150526",
+        "youtube": "150526",
+        "soundcloud": "150526",
+        "appleMusic": "150526"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Flosstradamus ft. Waka Flocka Flame",
+      "title": "TTU (Too Turnt Up)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "859989",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 400,
+      "mediaIds": {
+        "spotify": "168822",
+        "youtube": "168822",
+        "soundcloud": "168822",
+        "appleMusic": "168822"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "GTA",
+      "title": "The Crowd",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "859990",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 513,
+      "mediaIds": {
+        "spotify": "117710",
+        "youtube": "117710",
+        "soundcloud": "117710",
+        "appleMusic": "117710"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Missy Elliott",
+      "title": "Work It (R4 Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "859991",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 576,
+      "mediaIds": {
+        "youtube": "122590",
+        "soundcloud": "122590"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "GTA & Diplo",
+      "title": "Boy Oh Boy",
+      "remix": "",
+      "label": "MAD DECENT/FREE",
+      "trackId": "859992",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 624,
+      "mediaIds": {
+        "spotify": "117721",
+        "youtube": "117721",
+        "soundcloud": "117721",
+        "appleMusic": "117721"
+      },
+      "blendGroup": [
+        {
+          "artist": "GTA & Diplo",
+          "title": "Boy Oh Boy",
+          "remix": "",
+          "trackId": "859992"
+        },
+        {
+          "artist": "2 Chainz ft. Kanye West",
+          "title": "Birthday Song (Acappella)",
+          "remix": "",
+          "trackId": "859993"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "2 Chainz ft. Kanye West",
+      "title": "Birthday Song (Acappella)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "859993",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 684,
+      "mediaIds": {
+        "spotify": "91630",
+        "youtube": "91630",
+        "soundcloud": "91630",
+        "appleMusic": "91630"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Blasterjaxx",
+      "title": "Mystica (LOUDPVCK Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "859994",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 717,
+      "mediaIds": {
+        "youtube": "175504",
+        "soundcloud": "175504"
+      },
+      "blendGroup": [
+        {
+          "artist": "Blasterjaxx",
+          "title": "Mystica (LOUDPVCK Remix)",
+          "remix": "",
+          "trackId": "859994"
+        },
+        {
+          "artist": "French Montana ft. Rick Ross & Drake & Lil Wayne",
+          "title": "Pop That (Acappella)",
+          "remix": "",
+          "trackId": "859995"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "French Montana ft. Rick Ross & Drake & Lil Wayne",
+      "title": "Pop That (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "859995",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 780,
+      "mediaIds": {
+        "spotify": "129779",
+        "youtube": "129779",
+        "soundcloud": "129779",
+        "appleMusic": "129779"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Flosstradamus",
+      "title": "Lana's Theme",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "859996",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 797,
+      "mediaIds": {
+        "youtube": "83872",
+        "soundcloud": "83872"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "NYMZ",
+      "title": "BINGBONG",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "859997",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 911,
+      "mediaIds": {
+        "spotify": "158032",
+        "youtube": "158032",
+        "soundcloud": "158032",
+        "appleMusic": "158032"
+      },
+      "blendGroup": [
+        {
+          "artist": "NYMZ",
+          "title": "BINGBONG",
+          "remix": "",
+          "trackId": "859997"
+        },
+        {
+          "artist": "Baauer",
+          "title": "Harlem Shake (Acappella)",
+          "remix": "",
+          "trackId": "861921"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Baauer",
+      "title": "Harlem Shake (Acappella)",
+      "remix": "",
+      "label": "JEFFREE'S (MAD DECENT)",
+      "trackId": "861921",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 935,
+      "mediaIds": {
+        "spotify": "71677",
+        "youtube": "71677",
+        "soundcloud": "71677",
+        "appleMusic": "71677"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Yellow Claw & Flosstradamus ft. Green Velvet",
+      "title": "Pillz",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "859998",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 954,
+      "mediaIds": {
+        "spotify": "119323",
+        "youtube": "119323",
+        "soundcloud": "119323",
+        "appleMusic": "119323"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "RL Grime & What So Not",
+      "title": "Tell Me",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "859999",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1133,
+      "mediaIds": {
+        "spotify": "179065",
+        "youtube": "179065",
+        "soundcloud": "179065",
+        "appleMusic": "179065"
+      },
+      "blendGroup": [
+        {
+          "artist": "RL Grime & What So Not",
+          "title": "Tell Me",
+          "remix": "",
+          "trackId": "859999"
+        },
+        {
+          "artist": "Beyoncé ft. JAY Z",
+          "title": "Drunk In Love (Acappella)",
+          "remix": "",
+          "trackId": "860000"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Beyoncé ft. JAY Z",
+      "title": "Drunk In Love (Acappella)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "860000",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 1157,
+      "mediaIds": {
+        "spotify": "176638",
+        "youtube": "176638",
+        "appleMusic": "176638"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Flosstradamus",
+      "title": "DEAF",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "860001",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1289,
+      "mediaIds": {
+        "youtube": "101571",
+        "soundcloud": "101571"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flosstradamus",
+          "title": "DEAF",
+          "remix": "",
+          "trackId": "860001"
+        },
+        {
+          "artist": "Flosstradamus",
+          "title": "Roll Up (Acappella)",
+          "remix": "",
+          "trackId": "860002"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flosstradamus",
+      "title": "Roll Up (Acappella)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "860002",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1343,
+      "mediaIds": {
+        "youtube": "86631",
+        "soundcloud": "86631"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Daft Punk",
+      "title": "Aerodynamic",
+      "remix": "",
+      "label": "DAFT LIFE",
+      "trackId": "860003",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1370,
+      "mediaIds": {
+        "spotify": "2606",
+        "youtube": "2606",
+        "soundcloud": "2606",
+        "appleMusic": "2606"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Aerodynamic",
+          "remix": "",
+          "trackId": "860003"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+          "title": "Tremor (Sensation 2014 Anthem)",
+          "remix": "",
+          "trackId": "860004"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+      "title": "Tremor (Sensation 2014 Anthem)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "860004",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 1410,
+      "mediaIds": {
+        "spotify": "167281",
+        "youtube": "167281",
+        "soundcloud": "167281",
+        "appleMusic": "167281"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Flosstradamus",
+      "title": "Underground Anthem",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "860005",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1495,
+      "mediaIds": {
+        "youtube": "87757",
+        "soundcloud": "87757"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "D.O.D",
+      "title": "More Cowbell",
+      "remix": "",
+      "label": "ONES TO WATCH (MIXMASH)",
+      "trackId": "860006",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1564,
+      "mediaIds": {
+        "spotify": "109710",
+        "youtube": "109710",
+        "soundcloud": "109710",
+        "appleMusic": "109710"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "D.O.D",
+      "title": "More Cowbell (Ricky Remedy Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "860008",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1650,
+      "mediaIds": {
+        "youtube": "173227",
+        "soundcloud": "173227"
+      },
+      "blendGroup": [
+        {
+          "artist": "D.O.D",
+          "title": "More Cowbell (Ricky Remedy Remix)",
+          "remix": "",
+          "trackId": "860008"
+        },
+        {
+          "artist": "Young Dro",
+          "title": "FDB (Acappella)",
+          "remix": "",
+          "trackId": "860007"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Young Dro",
+      "title": "FDB (Acappella)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "860007",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 1650,
+      "mediaIds": {
+        "spotify": "150641",
+        "youtube": "150641",
+        "soundcloud": "150641",
+        "appleMusic": "150641"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Young Thug",
+      "title": "Stoner (Flosstradamus Remix)",
+      "remix": "",
+      "label": "INDEPENDENT",
+      "trackId": "860009",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1753,
+      "mediaIds": {
+        "spotify": "189540",
+        "youtube": "189540",
+        "soundcloud": "189540",
+        "appleMusic": "189540"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Flosstradamus",
+      "title": "Roll Up (Baauer Remix)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "860010",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1862,
+      "mediaIds": {
+        "spotify": "86632",
+        "youtube": "86632",
+        "soundcloud": "86632",
+        "appleMusic": "86632"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Aryay",
+      "title": "The Lawnmower",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "860011",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1973,
+      "mediaIds": {
+        "spotify": "186381",
+        "youtube": "186381",
+        "soundcloud": "186381",
+        "appleMusic": "186381"
+      },
+      "blendGroup": [
+        {
+          "artist": "Aryay",
+          "title": "The Lawnmower",
+          "remix": "",
+          "trackId": "860011"
+        },
+        {
+          "artist": "YG ft. Rich Homie Quan & Young Jeezy",
+          "title": "My Nigga (Acappella)",
+          "remix": "",
+          "trackId": "860012"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "YG ft. Rich Homie Quan & Young Jeezy",
+      "title": "My Nigga (Acappella)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "860012",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 1973,
+      "mediaIds": {
+        "spotify": "170346",
+        "youtube": "170346",
+        "soundcloud": "170346",
+        "appleMusic": "170346"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "DJ Kool",
+      "title": "Let Me Clear My Throat",
+      "remix": "",
+      "label": "AMERICAN RECORDINGS/WARNER BROS.",
+      "trackId": "860013",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2061,
+      "mediaIds": {
+        "spotify": "37086",
+        "youtube": "37086",
+        "soundcloud": "37086",
+        "appleMusic": "37086"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Kool",
+          "title": "Let Me Clear My Throat",
+          "remix": "",
+          "trackId": "860013"
+        },
+        {
+          "artist": "DJ Snake ft. Lil Jon",
+          "title": "Turn Down For What",
+          "remix": "",
+          "trackId": "860014"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Snake ft. Lil Jon",
+      "title": "Turn Down For What",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "860014",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 2070,
+      "mediaIds": {
+        "spotify": "150606",
+        "youtube": "150606",
+        "soundcloud": "150606",
+        "appleMusic": "150606"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Lil Jon & The Eastside Boyz ft. Ying Yang Twins",
+      "title": "Get Low",
+      "remix": "",
+      "label": "THE ORCHARD",
+      "trackId": "860015",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2132,
+      "mediaIds": {
+        "spotify": "91189",
+        "youtube": "91189",
+        "soundcloud": "91189",
+        "appleMusic": "91189"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Dillon Francis & DJ Snake",
+      "title": "Get Low(Co-Prod. by Tchami)",
+      "remix": "",
+      "label": "MAD DECENT/COLUMBIA",
+      "trackId": "860016",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2164,
+      "mediaIds": {
+        "spotify": "154490",
+        "youtube": "154490",
+        "soundcloud": "154490",
+        "appleMusic": "154490"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "KillaGraham",
+      "title": "Ice Cream Anthem (VIP)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "860017",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2285,
+      "mediaIds": {
+        "youtube": "145019",
+        "soundcloud": "145019"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Sage The Gemini ft. IAMSU!",
+      "title": "Gas Pedal (Caked Up Remix)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "860018",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2333,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Flosstradamus & DJ Sliink",
+      "title": "Crowd Ctrl",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "860019",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2428,
+      "mediaIds": {
+        "spotify": "114561",
+        "youtube": "114561",
+        "soundcloud": "114561",
+        "appleMusic": "114561"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Flosstradamus ft. Casino",
+      "title": "Mosh Pit",
+      "remix": "",
+      "label": "FOOL'S GOLD/ULTRA",
+      "trackId": "860020",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2556,
+      "mediaIds": {
+        "spotify": "168819",
+        "youtube": "168819",
+        "soundcloud": "168819",
+        "appleMusic": "168819"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Major Lazer ft. The Partysquad",
+      "title": "Original Don (Flosstradamus Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "860021",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2744,
+      "mediaIds": {
+        "spotify": "62577",
+        "youtube": "62577",
+        "soundcloud": "62577",
+        "appleMusic": "62577"
+      },
+      "blendGroup": [
+        {
+          "artist": "Major Lazer ft. The Partysquad",
+          "title": "Original Don (Flosstradamus Remix)",
+          "remix": "",
+          "trackId": "860021"
+        },
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "860022"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+      "title": "Put Ya Fuckin Hands Up (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "860022",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 2840,
+      "mediaIds": {
+        "youtube": "16909",
+        "soundcloud": "16909"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "Kendrick Lamar ft. MC Eiht",
+      "title": "m.A.A.d city",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "860023",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2906,
+      "mediaIds": {
+        "spotify": "113728",
+        "youtube": "113728",
+        "soundcloud": "113728",
+        "appleMusic": "113728"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T04:57:29.751Z",
+  "scrapeVersion": 2
+}

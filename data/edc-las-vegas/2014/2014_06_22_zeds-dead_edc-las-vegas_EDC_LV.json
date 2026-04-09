@@ -1,0 +1,1001 @@
+{
+  "tlId": "2s0hh39",
+  "dj": "Zeds Dead",
+  "stage": "EDC Las Vegas",
+  "date": "2014-06-22",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/2s0hh39/zeds-dead-cosmicmeadow-edc-las-vegas-las-vegas-united-states-2014-06-22.html",
+  "djs": [
+    {
+      "name": "Zeds Dead",
+      "slug": "zedsdead"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Zeds Dead & Hunter Siegel",
+      "title": "Loud",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "960116",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 52,
+      "mediaIds": {
+        "spotify": "195782",
+        "youtube": "195782",
+        "soundcloud": "195782",
+        "appleMusic": "195782"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Doctor P",
+      "title": "Sound Of Science",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "960117",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 193,
+      "mediaIds": {
+        "spotify": "197571",
+        "soundcloud": "197571",
+        "appleMusic": "197571"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Zeds Dead",
+      "title": "Adrenaline",
+      "remix": "",
+      "label": "INSPECTED",
+      "trackId": "960118",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 262,
+      "mediaIds": {
+        "spotify": "73166",
+        "youtube": "73166",
+        "soundcloud": "73166",
+        "appleMusic": "73166"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zeds Dead",
+          "title": "Adrenaline",
+          "remix": "",
+          "trackId": "960118"
+        },
+        {
+          "artist": "BAR9 & Datsik",
+          "title": "Droid",
+          "remix": "",
+          "trackId": "1107287"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "BAR9 & Datsik",
+      "title": "Droid",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "1107287",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 284,
+      "mediaIds": {
+        "spotify": "169307",
+        "youtube": "169307",
+        "soundcloud": "169307",
+        "appleMusic": "169307"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Zomboy & MUST DIE!",
+      "title": "Survivors",
+      "remix": "",
+      "label": "NEVER SAY DIE/NEST",
+      "trackId": "960120",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 339,
+      "mediaIds": {
+        "spotify": "193905",
+        "youtube": "193905",
+        "soundcloud": "193905",
+        "appleMusic": "193905"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zomboy & MUST DIE!",
+          "title": "Survivors",
+          "remix": "",
+          "trackId": "960120"
+        },
+        {
+          "artist": "Zeds Dead",
+          "title": "Ratchet (Acappella)",
+          "remix": "",
+          "trackId": "1107288"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zeds Dead",
+      "title": "Ratchet (Acappella)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1107288",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 352,
+      "mediaIds": {
+        "youtube": "118524",
+        "soundcloud": "118524"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "KRUSHA & Sleepy Tom",
+      "title": "Jobless",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "1107289",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 400,
+      "mediaIds": {
+        "youtube": "164158",
+        "soundcloud": "164158"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Marina & The Diamonds",
+      "title": "Lies (Zeds Dead Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "960121",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 466,
+      "mediaIds": {
+        "youtube": "94210",
+        "soundcloud": "94210"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Habstrakt & Megalodon",
+      "title": "40 Cows",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "960122",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 570,
+      "mediaIds": {
+        "spotify": "141005",
+        "youtube": "141005",
+        "soundcloud": "141005",
+        "appleMusic": "141005"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Zeds Dead",
+      "title": "Rave",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "960123",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 629,
+      "mediaIds": {
+        "spotify": "116272",
+        "youtube": "116272",
+        "soundcloud": "116272",
+        "appleMusic": "116272"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Zeds Dead & Dirtyphonics ft. Bright Lights",
+      "title": "Where Are You Now",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "960124",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 705,
+      "mediaIds": {
+        "spotify": "198997",
+        "youtube": "198997",
+        "soundcloud": "198997",
+        "appleMusic": "198997"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Flux Pavilion",
+      "title": "OneTwoThree (Make Your Body Wanna)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "960125",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 811,
+      "mediaIds": {
+        "spotify": "100614",
+        "youtube": "100614",
+        "soundcloud": "100614",
+        "appleMusic": "100614"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Michael Woods",
+      "title": "VMS",
+      "remix": "",
+      "label": "MINISTRY OF SOUND",
+      "trackId": "6534702",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 861,
+      "mediaIds": {
+        "spotify": "32234",
+        "youtube": "32234",
+        "soundcloud": "32234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Zeds Dead & Omar LinX",
+      "title": "Crank",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "1107290",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 915,
+      "mediaIds": {
+        "spotify": "96991",
+        "youtube": "96991",
+        "soundcloud": "96991",
+        "appleMusic": "96991"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Zeds Dead",
+      "title": "Hadouken",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1107291",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 945,
+      "mediaIds": {
+        "spotify": "197021",
+        "youtube": "197021",
+        "soundcloud": "197021",
+        "appleMusic": "197021"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Ookay & Pyramid Juke",
+      "title": "Yen",
+      "remix": "",
+      "label": "SMOG",
+      "trackId": "960126",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1050,
+      "mediaIds": {
+        "spotify": "137635",
+        "youtube": "137635",
+        "soundcloud": "137635",
+        "appleMusic": "137635"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Zeds Dead",
+      "title": "Ratchet",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "960127",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1100,
+      "mediaIds": {
+        "youtube": "118524",
+        "soundcloud": "118524"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Moody Good ft. Knytro",
+      "title": "Hotplate",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "960129",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1200,
+      "mediaIds": {
+        "spotify": "188236",
+        "youtube": "188236",
+        "soundcloud": "188236",
+        "appleMusic": "188236"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Dog Blood",
+      "title": "Middle Finger Pt. 2",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "960130",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1240,
+      "mediaIds": {
+        "spotify": "140397",
+        "youtube": "140397",
+        "soundcloud": "140397",
+        "appleMusic": "140397"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dog Blood",
+          "title": "Middle Finger Pt. 2",
+          "remix": "",
+          "trackId": "960130"
+        },
+        {
+          "artist": "Wiwek & Gregor Salto",
+          "title": "On Your Mark",
+          "remix": "",
+          "trackId": "960131"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wiwek & Gregor Salto",
+      "title": "On Your Mark",
+      "remix": "",
+      "label": "G-REX",
+      "trackId": "960131",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1260,
+      "mediaIds": {
+        "spotify": "181630",
+        "youtube": "181630",
+        "soundcloud": "181630",
+        "appleMusic": "181630"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wiwek & Gregor Salto",
+          "title": "On Your Mark",
+          "remix": "",
+          "trackId": "960131"
+        },
+        {
+          "artist": "Skrillex",
+          "title": "Scary Monsters And Nice Sprites (Acappella)",
+          "remix": "",
+          "trackId": "1176812"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex",
+      "title": "Scary Monsters And Nice Sprites (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1176812",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1276,
+      "mediaIds": {
+        "spotify": "23595",
+        "youtube": "23595",
+        "soundcloud": "23595",
+        "appleMusic": "23595"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Boys Noize",
+      "title": "Yeah (Hunter Siegel Bootleg)",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "1107292",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1320,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Nero",
+      "title": "Satisfy",
+      "remix": "",
+      "label": "MERCURY (UMG)",
+      "trackId": "1107326",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1380,
+      "mediaIds": {
+        "spotify": "195592",
+        "youtube": "195592",
+        "soundcloud": "195592",
+        "appleMusic": "195592"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Skrillex",
+      "title": "Fuck That",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "1107327",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1500,
+      "mediaIds": {
+        "spotify": "184792",
+        "youtube": "184792",
+        "soundcloud": "184792"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Gesaffelstein",
+      "title": "Control Movement",
+      "remix": "",
+      "label": "STIL VOR TALENT",
+      "trackId": "1107293",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1575,
+      "mediaIds": {
+        "spotify": "53342",
+        "youtube": "53342",
+        "soundcloud": "53342",
+        "appleMusic": "53342"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Zeds Dead & Twin Shadow ft. D'Angelo Lacy",
+      "title": "Lost You",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1107294",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1670,
+      "mediaIds": {
+        "spotify": "196450",
+        "youtube": "196450",
+        "soundcloud": "196450",
+        "appleMusic": "196450"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Neoteric & Wax Motif",
+      "title": "Go Deep (Astronomar Remix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "1107328",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "124977",
+        "youtube": "124977",
+        "soundcloud": "124977",
+        "appleMusic": "124977"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "4B",
+      "title": "Bomboclat",
+      "remix": "",
+      "label": "MAIN COURSE",
+      "trackId": "1107329",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1860,
+      "mediaIds": {
+        "spotify": "157651",
+        "youtube": "157651",
+        "soundcloud": "157651"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "I Am Legion",
+      "title": "Choosing For You (Nightwatch Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1107330",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 1920,
+      "mediaIds": {
+        "spotify": "162655",
+        "youtube": "162655",
+        "soundcloud": "162655",
+        "appleMusic": "162655"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "WTF!? & Dead Prez",
+      "title": "It's Bigger Than Hip Hop UK (Dubbed Out Mix)",
+      "remix": "",
+      "label": "LOUDBIT",
+      "trackId": "1107331",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2000,
+      "mediaIds": {
+        "spotify": "29622",
+        "youtube": "29622",
+        "soundcloud": "29622"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Zeds Dead",
+      "title": "Rumble In The Jungle",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1107332",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2100,
+      "mediaIds": {
+        "spotify": "64731",
+        "youtube": "64731",
+        "soundcloud": "64731",
+        "appleMusic": "64731"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Zeds Dead",
+      "title": "Oh No",
+      "remix": "",
+      "label": "INSPECTED",
+      "trackId": "1107333",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2160,
+      "mediaIds": {
+        "spotify": "78487",
+        "youtube": "78487",
+        "soundcloud": "78487",
+        "appleMusic": "78487"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "LAXX",
+      "title": "In The Place",
+      "remix": "",
+      "label": "STRIPES",
+      "trackId": "1107295",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2237,
+      "mediaIds": {
+        "youtube": "103394"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "SNAILS ft. Panther",
+      "title": "Dirty Raxxx",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "1107334",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2296,
+      "mediaIds": {
+        "spotify": "166867",
+        "youtube": "166867",
+        "soundcloud": "166867",
+        "appleMusic": "166867"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Zeds Dead",
+      "title": "White Satin",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1107335",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2361,
+      "mediaIds": {
+        "youtube": "70504",
+        "soundcloud": "70504"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "The Prodigy",
+      "title": "Breathe (Zeds Dead Remix)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "1107336",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2460,
+      "mediaIds": {
+        "spotify": "103348",
+        "youtube": "103348",
+        "soundcloud": "103348",
+        "appleMusic": "103348"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Daft Punk",
+      "title": "Aerodynamic",
+      "remix": "",
+      "label": "DAFT LIFE",
+      "trackId": "1107337",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 2520,
+      "mediaIds": {
+        "spotify": "2606",
+        "youtube": "2606",
+        "soundcloud": "2606",
+        "appleMusic": "2606"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Aerodynamic",
+          "remix": "",
+          "trackId": "1107337"
+        },
+        {
+          "artist": "Henry Fong vs. Mike Hawkins & Pablo Oliveros & Pablo Oliveros",
+          "title": "JUMP!",
+          "remix": "",
+          "trackId": "1107338"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Henry Fong vs. Mike Hawkins & Pablo Oliveros & Pablo Oliveros",
+      "title": "JUMP!",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "1107338",
+      "row": 33,
+      "type": "blend",
+      "cueTime": 2580,
+      "mediaIds": {
+        "spotify": "132158",
+        "youtube": "132158",
+        "soundcloud": "132158",
+        "appleMusic": "132158"
+      }
+    },
+    {
+      "pos": "34",
+      "artist": "The Prototypes",
+      "title": "Lights",
+      "remix": "",
+      "label": "VIPER",
+      "trackId": "1107296",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 2610,
+      "mediaIds": {
+        "spotify": "175653",
+        "youtube": "175653",
+        "soundcloud": "175653",
+        "appleMusic": "175653"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Mat Zo & Kill The Noise pres.Kill The Zo",
+      "title": "Part I",
+      "remix": "",
+      "label": "MAD ZOO",
+      "trackId": "1107339",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 2640,
+      "mediaIds": {
+        "spotify": "380136",
+        "youtube": "380136",
+        "soundcloud": "380136",
+        "appleMusic": "380136"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Sigma",
+      "title": "Nobody To Love",
+      "remix": "",
+      "label": "3BEAT",
+      "trackId": "1107340",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 2700,
+      "mediaIds": {
+        "spotify": "186251",
+        "youtube": "186251",
+        "soundcloud": "186251",
+        "appleMusic": "186251"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Camo & Krooked",
+      "title": "Cryptkeeper",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "1107341",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 2820,
+      "mediaIds": {
+        "spotify": "61658",
+        "youtube": "61658",
+        "soundcloud": "61658"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Zeds Dead ft. Mavado",
+      "title": "Undah Yuh Skirt",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1107342",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 2880,
+      "mediaIds": {
+        "spotify": "52506",
+        "youtube": "52506",
+        "soundcloud": "52506",
+        "appleMusic": "52506"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Nina Simone",
+      "title": "Don't Let Me Be Misunderstood (Zeds Dead Remix)",
+      "remix": "",
+      "label": "VERVE",
+      "trackId": "1107343",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 3060,
+      "mediaIds": {
+        "spotify": "122897",
+        "youtube": "122897",
+        "soundcloud": "122897",
+        "appleMusic": "122897"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Zeds Dead & Omar LinX",
+      "title": "Cowboy",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "1107344",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 3199,
+      "mediaIds": {
+        "spotify": "93633",
+        "youtube": "93633",
+        "soundcloud": "93633",
+        "appleMusic": "93633"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "Zeds Dead & Greta Svabo Bech",
+      "title": "Shut Up & Sing V2.0",
+      "remix": "",
+      "label": "GRETA SVABO BECH",
+      "trackId": "1107345",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 3240,
+      "mediaIds": {
+        "spotify": "162368",
+        "youtube": "162368",
+        "soundcloud": "162368",
+        "appleMusic": "162368"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "Zeds Dead ft. Memorecks",
+      "title": "Jericho",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1107346",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 3360,
+      "mediaIds": {
+        "youtube": "122900",
+        "soundcloud": "122900"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "43",
+      "artist": "Chase & Status ft. Cutty Ranks",
+      "title": "International (Skrillex Remix)",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "1107347",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 3480,
+      "mediaIds": {
+        "spotify": "156002",
+        "youtube": "156002",
+        "soundcloud": "156002",
+        "appleMusic": "156002"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "44",
+      "artist": "Jackal",
+      "title": "Power Move",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1107348",
+      "row": 44,
+      "type": "normal",
+      "cueTime": 3540,
+      "mediaIds": {
+        "spotify": "156034",
+        "youtube": "156034",
+        "soundcloud": "156034"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "45",
+      "artist": "Blue Foundation",
+      "title": "Eyes On Fire (Zeds Dead VIP Mix)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "1107349",
+      "row": 45,
+      "type": "normal",
+      "cueTime": 3600,
+      "mediaIds": {
+        "youtube": "136030"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "46",
+      "artist": "Zeds Dead",
+      "title": "Coffee Break",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1176813",
+      "row": 46,
+      "type": "normal",
+      "cueTime": 3852,
+      "mediaIds": {
+        "youtube": "47295",
+        "soundcloud": "47295"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "47",
+      "artist": "Zeds Dead ft. Perry Farrel",
+      "title": "Blink",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1107297",
+      "row": 47,
+      "type": "normal",
+      "cueTime": 3960,
+      "mediaIds": {
+        "spotify": "201549",
+        "youtube": "201549",
+        "soundcloud": "201549",
+        "appleMusic": "201549"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "191135",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/155858144"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "191147",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T12:51:34.806Z",
+  "scrapeVersion": 2
+}

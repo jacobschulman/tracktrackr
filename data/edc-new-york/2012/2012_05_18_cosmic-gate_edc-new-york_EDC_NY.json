@@ -1,0 +1,261 @@
+{
+  "tlId": "86phrn9",
+  "dj": "Cosmic Gate",
+  "stage": "EDC New York",
+  "date": "2012-05-18",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/86phrn9/cosmic-gate-kineticfield-edc-new-york-united-states-2012-05-18.html",
+  "djs": [
+    {
+      "name": "Cosmic Gate",
+      "slug": "cosmicgate"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Pryda",
+      "title": "Allein",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "225597",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "73464",
+        "youtube": "73464",
+        "soundcloud": "73464",
+        "appleMusic": "73464"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ARTY & Mat Zo",
+      "title": "Mozart",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "225598",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "31405",
+        "youtube": "31405",
+        "soundcloud": "31405",
+        "appleMusic": "31405"
+      },
+      "blendGroup": [
+        {
+          "artist": "ARTY & Mat Zo",
+          "title": "Mozart",
+          "remix": "",
+          "trackId": "225598"
+        },
+        {
+          "artist": "Justice vs. Simian",
+          "title": "We Are Your Friends (Acappella)",
+          "remix": "",
+          "trackId": "225599"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice vs. Simian",
+      "title": "We Are Your Friends (Acappella)",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "225599",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8095",
+        "youtube": "8095",
+        "soundcloud": "3157",
+        "appleMusic": "8095"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Jochen Miller",
+      "title": "Zodiac",
+      "remix": "",
+      "label": "HIGH CONTRAST (BE YOURSELF)",
+      "trackId": "225600",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69335",
+        "soundcloud": "69335",
+        "appleMusic": "69335"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Marcus Schossow vs. Ivan Gough & Feenixpawl & Axwell ft. Georgi Kay",
+      "title": "Lights Out In My Mind (Jonas Stenberg Mashup)",
+      "remix": "",
+      "label": "AXTONE/TONE DIARY (SPINNIN')",
+      "trackId": "225601",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Cosmic Gate ft. J'something",
+      "title": "Over The Rainbow (W&W Remix)",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "225603",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1020,
+      "mediaIds": {
+        "spotify": "76209",
+        "soundcloud": "76209",
+        "appleMusic": "76209"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Cosmic Gate",
+      "title": "Crushed",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "225604",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "64921",
+        "youtube": "64921",
+        "soundcloud": "64921",
+        "appleMusic": "64921"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Cosmic Gate ft. Emma Hewitt",
+      "title": "Be Your Sound",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "225605",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "47685",
+        "youtube": "47685",
+        "soundcloud": "47685",
+        "appleMusic": "47685"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Emma Hewitt",
+      "title": "Colours (Cosmic Gate Remix)",
+      "remix": "",
+      "label": "S107 (ARMADA)",
+      "trackId": "225606",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "64186",
+        "youtube": "64186",
+        "soundcloud": "64186",
+        "appleMusic": "64186"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Cosmic Gate",
+      "title": "The Theme",
+      "remix": "",
+      "label": "DIRECTION",
+      "trackId": "225607",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "40398",
+        "youtube": "40398",
+        "soundcloud": "40398",
+        "appleMusic": "40398"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Ferry Corsten",
+      "title": "Punk (ARTY Rock-n-Rolla Remix)",
+      "remix": "",
+      "label": "FLASHOVER",
+      "trackId": "225608",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "29234",
+        "youtube": "29234",
+        "soundcloud": "29234",
+        "appleMusic": "29234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Cosmic Gate",
+      "title": "Exploration Of Space (Cosmic Gate Back 2 The Future Remix)",
+      "remix": "",
+      "label": "BLACK HOLE",
+      "trackId": "225609",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "27891",
+        "youtube": "27891",
+        "soundcloud": "27891"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Omnia & IRA",
+      "title": "The Fusion",
+      "remix": "",
+      "label": "COLDHARBOUR",
+      "trackId": "225610",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "63938",
+        "youtube": "63938",
+        "soundcloud": "63938",
+        "appleMusic": "63938"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T16:07:50.334Z",
+  "scrapeVersion": 2
+}

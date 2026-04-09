@@ -1,0 +1,635 @@
+{
+  "tlId": "24j88281",
+  "dj": "Cyclops",
+  "stage": "EDC Mexico",
+  "date": "2025-02-21",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/24j88281/cyclops-wasteland-edc-mexico-2025-02-21.html",
+  "djs": [
+    {
+      "name": "Cyclops",
+      "slug": "cyclops"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Blanke & Cyclops",
+      "title": "Cheat Death",
+      "remix": "",
+      "label": "EARTH TO THE STARS",
+      "trackId": "11787627",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1132552",
+        "youtube": "1132552",
+        "soundcloud": "1132552",
+        "appleMusic": "1132552"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "GUERRO & Phys!Xx",
+      "title": "Disco Doom",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "11787628",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1073396",
+        "youtube": "1073396",
+        "soundcloud": "1073396",
+        "appleMusic": "1073396"
+      },
+      "blendGroup": [
+        {
+          "artist": "GUERRO & Phys!Xx",
+          "title": "Disco Doom",
+          "remix": "",
+          "trackId": "11787628"
+        },
+        {
+          "artist": "Excision & Subtronics",
+          "title": "Asteroid (DOIL Flip)",
+          "remix": "",
+          "trackId": "11787629"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Subtronics",
+      "title": "Asteroid (DOIL Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "11787629",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "03",
+      "artist": "MARAUDA",
+      "title": "REALM OF THE DAMNED",
+      "remix": "",
+      "label": "MALIGNANT",
+      "trackId": "11787630",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "899717",
+        "youtube": "899717",
+        "soundcloud": "899717",
+        "appleMusic": "899717"
+      },
+      "blendGroup": [
+        {
+          "artist": "MARAUDA",
+          "title": "REALM OF THE DAMNED",
+          "remix": "",
+          "trackId": "11787630"
+        },
+        {
+          "artist": "Crankdat & Bandlez",
+          "title": "Ground Shake",
+          "remix": "",
+          "trackId": "11787631"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Crankdat & Bandlez",
+      "title": "Ground Shake",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "11787631",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "825547",
+        "youtube": "825547",
+        "soundcloud": "825547",
+        "appleMusic": "825547"
+      },
+      "blendGroup": [
+        {
+          "artist": "Crankdat & Bandlez",
+          "title": "Ground Shake",
+          "remix": "",
+          "trackId": "11787631"
+        },
+        {
+          "artist": "Marshmello & Samplifire",
+          "title": "MELLOFIRE (IVORY Remix)",
+          "remix": "",
+          "trackId": "11787632"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Marshmello & Samplifire",
+      "title": "MELLOFIRE (IVORY Remix)",
+      "remix": "",
+      "label": "JOYTIME COLLECTIVE",
+      "trackId": "11787632",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1158652"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Subtronics",
+      "title": "Amnesia (Cyclops Flip)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "11787633",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1000736",
+        "soundcloud": "1000736"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Wooli & Cyclops",
+      "title": "Floot Loops",
+      "remix": "",
+      "label": "WOOLI MUSIC",
+      "trackId": "11787634",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1009624",
+        "youtube": "1009624",
+        "soundcloud": "1009624",
+        "appleMusic": "1009624"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wooli & Cyclops",
+          "title": "Floot Loops",
+          "remix": "",
+          "trackId": "11787634"
+        },
+        {
+          "artist": "Wooli & Cyclops",
+          "title": "Floot Loops (VIP)",
+          "remix": "",
+          "trackId": "11787635"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wooli & Cyclops",
+      "title": "Floot Loops (VIP)",
+      "remix": "",
+      "label": "WOOLI MUSIC",
+      "trackId": "11787635",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1057216",
+        "soundcloud": "1057216"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Stoned Level & MUERTE",
+      "title": "LOUD PACK",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "11787636",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1069633",
+        "youtube": "1069633",
+        "soundcloud": "1069633",
+        "appleMusic": "1069633"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Cyclops",
+      "title": "Perceiver",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "11787637",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "921339",
+        "youtube": "921339",
+        "soundcloud": "921339",
+        "appleMusic": "921339"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Jessica Audiffred & Samplifire",
+      "title": "Around The World (La La La)",
+      "remix": "",
+      "label": "A RECORDS",
+      "trackId": "11787638",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1069170",
+        "youtube": "1069170",
+        "soundcloud": "1069170",
+        "appleMusic": "1069170"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jessica Audiffred & Samplifire",
+          "title": "Around The World (La La La)",
+          "remix": "",
+          "trackId": "11787638"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "12564069"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12564069",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "09",
+      "artist": "MARAUDA",
+      "title": "Death Pit (Cyclops Flip)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "11787639",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "978766",
+        "soundcloud": "978766"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Tape B",
+      "title": "Hot One",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "11787640",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1059348",
+        "youtube": "1059348",
+        "soundcloud": "1059348",
+        "appleMusic": "1059348"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Cyclops",
+      "title": "WOMP WORLD",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "11787641",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1080450",
+        "youtube": "1080450",
+        "soundcloud": "1080450",
+        "appleMusic": "1080450"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Black Eyed Peas",
+      "title": "My Humps (Cyclops Remix)",
+      "remix": "",
+      "label": "A&M",
+      "trackId": "11787642",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1116828",
+        "soundcloud": "1116828"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Cyclops",
+      "title": "Egg Song (VIP)",
+      "remix": "",
+      "label": "SEEDEATER",
+      "trackId": "11787643",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "955290",
+        "soundcloud": "955290"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Eptic",
+      "title": "Bloodlust",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "11787644",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "410167",
+        "youtube": "410167",
+        "soundcloud": "410167",
+        "appleMusic": "410167"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eptic",
+          "title": "Bloodlust",
+          "remix": "",
+          "trackId": "11787644"
+        },
+        {
+          "artist": "Subtronics",
+          "title": "Tuba Demon (HOL! Remix)",
+          "remix": "",
+          "trackId": "11787645"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Subtronics",
+      "title": "Tuba Demon (HOL! Remix)",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "11787645",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "854802",
+        "youtube": "854802",
+        "soundcloud": "854802",
+        "appleMusic": "854802"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Cyclops",
+      "title": "Legalize Nuclear Bombs",
+      "remix": "",
+      "label": "THE EYE CLUB",
+      "trackId": "11787646",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "937977",
+        "youtube": "937977",
+        "soundcloud": "937977",
+        "appleMusic": "937977"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Marshmello & Space Laces",
+      "title": "Rave Repeater",
+      "remix": "",
+      "label": "JOYTIME COLLECTIVE",
+      "trackId": "11787647",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1058254",
+        "youtube": "1058254",
+        "soundcloud": "1058254",
+        "appleMusic": "1058254"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "BIG FLORIDA & Cyclops",
+      "title": "Shots",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "11787648",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "767320",
+        "youtube": "767320",
+        "soundcloud": "767320",
+        "appleMusic": "767320"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "ISOKNOCK & RL Grime",
+      "title": "SMACK TALK (BAGG Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "11787649",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1062750",
+        "soundcloud": "1062750"
+      },
+      "blendGroup": [
+        {
+          "artist": "ISOKNOCK & RL Grime",
+          "title": "SMACK TALK (BAGG Remix)",
+          "remix": "",
+          "trackId": "11787649"
+        },
+        {
+          "artist": "Flux Pavilion x Cyclops ft. ILLAMAN",
+          "title": "Tick Tock",
+          "remix": "(Acappella)",
+          "trackId": "11787650"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flux Pavilion x Cyclops ft. ILLAMAN",
+      "title": "Tick Tock",
+      "remix": "(Acappella)",
+      "label": "CIRCUS RECORDS",
+      "trackId": "11787650",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1040123",
+        "youtube": "1040123",
+        "soundcloud": "1040123",
+        "appleMusic": "1040123"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Subtronics & HOL!",
+      "title": "MIND PLUCK (Cyclops Remix)",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "11787651",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Cyclops",
+      "title": "CHOKESLAM",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "11787653",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1111928",
+        "youtube": "1111928",
+        "soundcloud": "1111928",
+        "appleMusic": "1111928"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Ray Volpe",
+      "title": "SONG REQUEST",
+      "remix": "",
+      "label": "VOLPEVERSE",
+      "trackId": "11787654",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "984369",
+        "youtube": "984369",
+        "soundcloud": "984369",
+        "appleMusic": "984369"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Ty Dolla $ign ft. Future & Rae Sremmurd",
+      "title": "Blasé",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "11787655",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "266279",
+        "youtube": "266279",
+        "soundcloud": "266279",
+        "appleMusic": "266279"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ty Dolla $ign ft. Future & Rae Sremmurd",
+          "title": "Blasé",
+          "remix": "",
+          "trackId": "11787655"
+        },
+        {
+          "artist": "Cyclops",
+          "title": "Tear Jerker (House VIP)",
+          "remix": "",
+          "trackId": "11787656"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cyclops",
+      "title": "Tear Jerker (House VIP)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "11787656",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1060018",
+        "soundcloud": "1060018"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4642168",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=rLnkxcMt1SM"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:24:56.445Z",
+  "scrapeVersion": 2
+}

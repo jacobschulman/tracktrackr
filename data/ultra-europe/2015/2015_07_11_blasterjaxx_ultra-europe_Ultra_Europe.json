@@ -1,0 +1,557 @@
+{
+  "tlId": "8gn9dn1",
+  "dj": "Blasterjaxx",
+  "stage": "Ultra Europe",
+  "date": "2015-07-11",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/8gn9dn1/blasterjaxx-mainstage-ultra-europe-croatia-2015-07-11.html",
+  "djs": [
+    {
+      "name": "Blasterjaxx",
+      "slug": "blasterjaxx"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Blasterjaxx & Olly James",
+      "title": "Phoenix",
+      "remix": "",
+      "label": "MAXXIMIZE (SPINNIN')",
+      "trackId": "1531071",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "247512",
+        "youtube": "247512",
+        "soundcloud": "247512",
+        "appleMusic": "247512"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Paris & Simo",
+      "title": "Zone",
+      "remix": "",
+      "label": "METANOIA MUSIC",
+      "trackId": "1515936",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 38,
+      "mediaIds": {
+        "spotify": "251914",
+        "youtube": "251914",
+        "appleMusic": "251914"
+      },
+      "blendGroup": [
+        {
+          "artist": "Paris & Simo",
+          "title": "Zone",
+          "remix": "",
+          "trackId": "1515936"
+        },
+        {
+          "artist": "Halfway House",
+          "title": "Peak (Everybody Get Your Hands Up Acappella)",
+          "remix": "",
+          "trackId": "1520457"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Halfway House",
+      "title": "Peak (Everybody Get Your Hands Up Acappella)",
+      "remix": "",
+      "label": "FLASHOVER PROGRESSIVE",
+      "trackId": "1520457",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 39,
+      "mediaIds": {
+        "spotify": "142135",
+        "youtube": "142135",
+        "soundcloud": "186511",
+        "appleMusic": "142135"
+      },
+      "blendGroup": [
+        {
+          "artist": "Halfway House",
+          "title": "Peak (Everybody Get Your Hands Up Acappella)",
+          "remix": "",
+          "trackId": "1520457"
+        },
+        {
+          "artist": "Clean Bandit ft. Jess Glynne",
+          "title": "Rather Be (Merk & Kremont Remix)",
+          "remix": "",
+          "trackId": "1516070"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Clean Bandit ft. Jess Glynne",
+      "title": "Rather Be (Merk & Kremont Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1516070",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 45,
+      "mediaIds": {
+        "youtube": "195322",
+        "soundcloud": "195322"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Blasterjaxx",
+      "title": "IHNI",
+      "remix": "",
+      "label": "MAXXIMIZE (SPINNIN')",
+      "trackId": "1515938",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 180,
+      "mediaIds": {
+        "spotify": "364527",
+        "youtube": "364527",
+        "soundcloud": "364527",
+        "appleMusic": "364527"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Blasterjaxx",
+      "title": "The Wave",
+      "remix": "",
+      "label": "MAXXIMIZE",
+      "trackId": "1515939",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 409,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Steve Angello & Laidback Luke ft. Robin S",
+      "title": "Show Me Love",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "1515940",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1489",
+        "youtube": "1489",
+        "soundcloud": "1489",
+        "appleMusic": "1489"
+      },
+      "blendGroup": [
+        {
+          "artist": "Steve Angello & Laidback Luke ft. Robin S",
+          "title": "Show Me Love",
+          "remix": "",
+          "trackId": "1515940"
+        },
+        {
+          "artist": "Benny Benassi & Gary Go",
+          "title": "Let This Last Forever (MAKJ Remix)",
+          "remix": "",
+          "trackId": "1515941"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Benny Benassi & Gary Go",
+      "title": "Let This Last Forever (MAKJ Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "1515941",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "199807",
+        "youtube": "199807",
+        "soundcloud": "199807",
+        "appleMusic": "199807"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Bobby Rock",
+      "title": "Make Noise",
+      "remix": "",
+      "label": "MAXXIMIZE (SPINNIN')",
+      "trackId": "1515943",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 737,
+      "mediaIds": {
+        "spotify": "300233",
+        "youtube": "300233",
+        "soundcloud": "300233",
+        "appleMusic": "300233"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Elvis Crespo",
+      "title": "Suavemente",
+      "remix": "",
+      "label": "SONY BMG",
+      "trackId": "1515944",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 872,
+      "mediaIds": {
+        "spotify": "113039",
+        "youtube": "113039",
+        "soundcloud": "113039",
+        "appleMusic": "113039"
+      },
+      "blendGroup": [
+        {
+          "artist": "Elvis Crespo",
+          "title": "Suavemente",
+          "remix": "",
+          "trackId": "1515944"
+        },
+        {
+          "artist": "Blasterjaxx",
+          "title": "Do Your Thing",
+          "remix": "",
+          "trackId": "1515945"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Blasterjaxx",
+      "title": "Do Your Thing",
+      "remix": "",
+      "label": "MAXXIMIZE (SPINNIN')",
+      "trackId": "1515945",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 903,
+      "mediaIds": {
+        "youtube": "349129"
+      },
+      "blendGroup": [
+        {
+          "artist": "Blasterjaxx",
+          "title": "Do Your Thing",
+          "remix": "",
+          "trackId": "1515945"
+        },
+        {
+          "artist": "Showtek",
+          "title": "We Like To Party (Acappella)",
+          "remix": "",
+          "trackId": "1515946"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Showtek",
+      "title": "We Like To Party (Acappella)",
+      "remix": "",
+      "label": "SKINK",
+      "trackId": "1515946",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 937,
+      "mediaIds": {
+        "spotify": "151951",
+        "youtube": "151951",
+        "soundcloud": "151951",
+        "appleMusic": "151951"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Blasterjaxx",
+      "title": "Miami (Blasterjaxx 2015 Miami Edit)",
+      "remix": "",
+      "label": "ONES TO WATCH (MIXMASH)",
+      "trackId": "1515947",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 984,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Blasterjaxx",
+      "title": "Fury",
+      "remix": "",
+      "label": "MAXXIMIZE",
+      "trackId": "1516009",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1121,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Faithless vs. Blasterjaxx & W&W ft. Chuckie",
+      "title": "Insomnia vs. Rocket (Blasterjaxx Blastersmash)",
+      "remix": "",
+      "label": "CHEEKY/BIG BEAT (ATLANTIC)/REVEALED",
+      "trackId": "1516010",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1279,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Blasterjaxx & MOTi ft. Jonathan Mendelsohn",
+      "title": "Ghost In The Machine",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1516013",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "234087",
+        "youtube": "234087",
+        "soundcloud": "234087",
+        "appleMusic": "234087"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Blasterjaxx vs. Linkin Park",
+      "title": "Forever vs. What I've Done (Blasterjaxx Blastersmash)",
+      "remix": "",
+      "label": "WARNER BROS./DIM MAK",
+      "trackId": "1516022",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1710605",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2760,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "1710605"
+        },
+        {
+          "artist": "Ian Carey ft. Michelle Shellers",
+          "title": "Keep On Rising (Acappella)",
+          "remix": "",
+          "trackId": "1516024"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ian Carey ft. Michelle Shellers",
+      "title": "Keep On Rising (Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1516024",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "13074",
+        "youtube": "13074",
+        "soundcloud": "13075",
+        "appleMusic": "13074"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ian Carey ft. Michelle Shellers",
+          "title": "Keep On Rising (Acappella)",
+          "remix": "",
+          "trackId": "1516024"
+        },
+        {
+          "artist": "Blasterjaxx",
+          "title": "Gravity",
+          "remix": "",
+          "trackId": "1516025"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Blasterjaxx",
+      "title": "Gravity",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1516025",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "186641",
+        "youtube": "186641",
+        "soundcloud": "186641",
+        "appleMusic": "186641"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Blasterjaxx & DBSTF",
+      "title": "Parnassia",
+      "remix": "",
+      "label": "MAXXIMIZE (SPINNIN')",
+      "trackId": "1516026",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "247509",
+        "youtube": "247509",
+        "soundcloud": "247509",
+        "appleMusic": "247509"
+      },
+      "blendGroup": [
+        {
+          "artist": "Blasterjaxx & DBSTF",
+          "title": "Parnassia",
+          "remix": "",
+          "trackId": "1516026"
+        },
+        {
+          "artist": "R3HAB & Deorro",
+          "title": "Flashlight (Uno Dos Tres Woow Acappella)",
+          "remix": "",
+          "trackId": "1516027"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "R3HAB & Deorro",
+      "title": "Flashlight (Uno Dos Tres Woow Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1516027",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "196737",
+        "youtube": "196737",
+        "soundcloud": "196737",
+        "appleMusic": "196737"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "W&W & Blasterjaxx vs. Yeah Yeah Yeahs & A-Trak vs. MAKJ & Lil Jon ft. Deorro & J-Trick",
+      "title": "Bowser vs. Heads Will Roll vs. Let's Get Fucked Up (Hardwell Mashup)",
+      "remix": "",
+      "label": "DGC/REVEALED/ULTRA",
+      "trackId": "1516028",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "DJ Isaac & Crystal Lake",
+      "title": "Stick Em",
+      "remix": "",
+      "label": "SKINK",
+      "trackId": "1516029",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2820,
+      "mediaIds": {
+        "spotify": "247511",
+        "youtube": "247511",
+        "soundcloud": "247511",
+        "appleMusic": "247511"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "David Guetta ft. Sam Martin",
+      "title": "Lovers On The Sun(Prod. by Avicii) (Blasterjaxx Remix)",
+      "remix": "",
+      "label": "WHAT A MUSIC",
+      "trackId": "1516044",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "205324",
+        "youtube": "205324",
+        "soundcloud": "205324",
+        "appleMusic": "205324"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "BlasterJaxx & Hardwell vs. Linkin Park vs. Chardy & Kronic",
+      "title": "Fifteen vs. In The End (Blasterjaxx Blastersmash)",
+      "remix": "",
+      "label": "WARNER BROS./HUSSLE/REVEALED",
+      "trackId": "1516045",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "322062",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=OzTnWpR69to"
+    },
+    {
+      "platform": "source_27",
+      "idMedia": "384930",
+      "idSource": "27",
+      "url": "https://www.dailymotion.com/embed/video/x2xpnlu_blasterjaxx-live-at-ultra-music-festival-europe-croatia-2015-full-set_music"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:43:46.691Z",
+  "scrapeVersion": 2
+}

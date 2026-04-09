@@ -1,0 +1,222 @@
+{
+  "tlId": "rdd1qnk",
+  "dj": "JAUZ",
+  "stage": "EDC Las Vegas",
+  "date": "2016-06-23",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/rdd1qnk/jauz-edc-las-vegas-SmirnoffHouse-united-states-2016-06-23.html",
+  "djs": [
+    {
+      "name": "JAUZ",
+      "slug": "jauz"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Goshfather ft. Lauren Vyce",
+      "title": "Sleepless Nights",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2142314",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "319631",
+        "soundcloud": "319631"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Billy Kenny & Aaron Jackson",
+      "title": "Right Here",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "2142315",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "291934",
+        "youtube": "291934",
+        "soundcloud": "291934",
+        "appleMusic": "291934"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Prince",
+      "title": "FUNKNROLL (Chris Lake Edit)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "2142316",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "229246",
+        "soundcloud": "229246"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2142317",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Nero",
+      "title": "Two Minds",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "2142318",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "260787",
+        "youtube": "260787",
+        "appleMusic": "260787"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Hardsoul",
+      "title": "Deep Inside",
+      "remix": "",
+      "label": "HARDSOUL",
+      "trackId": "2142319",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "163394",
+        "youtube": "163394",
+        "appleMusic": "163394"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2142320",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2142321",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2142322",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "2142322"
+        },
+        {
+          "artist": "Silento",
+          "title": "Watch Me (Whip/Nae Nae) (Acappella)",
+          "remix": "",
+          "trackId": "2142323"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Silento",
+      "title": "Watch Me (Whip/Nae Nae) (Acappella)",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "2142323",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "259519",
+        "youtube": "259519",
+        "soundcloud": "259519",
+        "appleMusic": "259519"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2142324",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2142325",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "460188",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=esrcoq9i81g"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:51:21.814Z",
+  "scrapeVersion": 2
+}

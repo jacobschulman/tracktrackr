@@ -1,0 +1,564 @@
+{
+  "tlId": "pmnmb49",
+  "dj": "Noizu",
+  "stage": "EDC Las Vegas",
+  "date": "2019-05-18",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/pmnmb49/noizu-stereobloom-edc-las-vegas-united-states-2019-05-18.html",
+  "djs": [
+    {
+      "name": "Noizu",
+      "slug": "noizu"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Noizu",
+      "title": "LFO",
+      "remix": "(Intro Edit)",
+      "label": "SYMPHONIC",
+      "trackId": "4146860",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "398938",
+        "youtube": "398938",
+        "soundcloud": "398938",
+        "appleMusic": "398938"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Biscits",
+      "title": "Do It Like This",
+      "remix": "",
+      "label": "SOLOTOKO",
+      "trackId": "4146861",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 166,
+      "mediaIds": {
+        "spotify": "449075",
+        "youtube": "449075",
+        "soundcloud": "449075",
+        "appleMusic": "449075"
+      },
+      "blendGroup": [
+        {
+          "artist": "Biscits",
+          "title": "Do It Like This",
+          "remix": "",
+          "trackId": "4146861"
+        },
+        {
+          "artist": "Martin Ikin",
+          "title": "No No",
+          "remix": "",
+          "trackId": "4148166"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Ikin",
+      "title": "No No",
+      "remix": "",
+      "label": "REPOPULATE MARS",
+      "trackId": "4148166",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 166,
+      "mediaIds": {
+        "spotify": "460864",
+        "youtube": "460864",
+        "soundcloud": "460864",
+        "appleMusic": "460864"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Noizu & Eli Brown",
+      "title": "Inside My Head",
+      "remix": "",
+      "label": "BLACK BOOK SELECTS",
+      "trackId": "4146862",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 331,
+      "mediaIds": {
+        "spotify": "499105",
+        "youtube": "499105",
+        "soundcloud": "499105",
+        "appleMusic": "499105"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "FISHER",
+      "title": "You Little Beauty",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "4146863",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 565,
+      "mediaIds": {
+        "spotify": "431348",
+        "youtube": "431348",
+        "soundcloud": "431348",
+        "appleMusic": "431348"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Noizu",
+      "title": "Dance",
+      "remix": "",
+      "label": "BLACK BOOK SELECTS",
+      "trackId": "4146864",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 710,
+      "mediaIds": {
+        "spotify": "463469",
+        "youtube": "463469",
+        "soundcloud": "463469",
+        "appleMusic": "463469"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "DONT BLINK",
+      "title": "BREAK IT DOWN",
+      "remix": "",
+      "label": "LOW CEILING",
+      "trackId": "4146865",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 910,
+      "mediaIds": {
+        "spotify": "486503",
+        "youtube": "486503",
+        "soundcloud": "486503",
+        "appleMusic": "486503"
+      },
+      "blendGroup": [
+        {
+          "artist": "DONT BLINK",
+          "title": "BREAK IT DOWN",
+          "remix": "",
+          "trackId": "4146865"
+        },
+        {
+          "artist": "Format:B & DJ PP",
+          "title": "In My House",
+          "remix": "",
+          "trackId": "4150225"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Format:B & DJ PP",
+      "title": "In My House",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "4150225",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 910,
+      "mediaIds": {
+        "spotify": "409899",
+        "youtube": "409899",
+        "soundcloud": "409899",
+        "appleMusic": "409899"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Yolanda Be Cool",
+      "title": "Space Jam (Noizu Remix)",
+      "remix": "",
+      "label": "SOLOTOKO",
+      "trackId": "4146866",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1071,
+      "mediaIds": {
+        "spotify": "507965",
+        "youtube": "507965",
+        "soundcloud": "507965",
+        "appleMusic": "507965"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Malaa & Noizu",
+      "title": "Music Sounds Better With You",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4146867",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1251,
+      "mediaIds": {
+        "youtube": "406248",
+        "soundcloud": "406248"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Eli Brown",
+      "title": "Muscle Car",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "4146868",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1461,
+      "mediaIds": {
+        "spotify": "494670",
+        "youtube": "494670",
+        "soundcloud": "494670",
+        "appleMusic": "494670"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Dombresky",
+      "title": "Soul Sacrifice",
+      "remix": "",
+      "label": "PROCESS RECORDS",
+      "trackId": "4146869",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1611,
+      "mediaIds": {
+        "spotify": "469220",
+        "youtube": "469220",
+        "soundcloud": "469220",
+        "appleMusic": "469220"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dombresky",
+          "title": "Soul Sacrifice",
+          "remix": "",
+          "trackId": "4146869"
+        },
+        {
+          "artist": "Noizu",
+          "title": "Wavey",
+          "remix": "(Acappella)",
+          "trackId": "4146870"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Noizu",
+      "title": "Wavey",
+      "remix": "(Acappella)",
+      "label": "SELF RELEASED",
+      "trackId": "4146870",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1634,
+      "mediaIds": {
+        "spotify": "414508",
+        "youtube": "414508",
+        "soundcloud": "414508",
+        "appleMusic": "414508"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Noizu & Tony Romera",
+      "title": "4 The People",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "4146871",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "494674",
+        "youtube": "494674",
+        "soundcloud": "494674",
+        "appleMusic": "494674"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Valentino Khan",
+      "title": "Lick It (Noizu Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "4146872",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1961,
+      "mediaIds": {
+        "spotify": "415706",
+        "youtube": "415706",
+        "soundcloud": "415706",
+        "appleMusic": "415706"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Melé",
+      "title": "The 95 Vibe",
+      "remix": "",
+      "label": "CLUB BAD",
+      "trackId": "4146873",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2146,
+      "mediaIds": {
+        "spotify": "478184",
+        "youtube": "478184",
+        "soundcloud": "478184",
+        "appleMusic": "478184"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Noizu",
+      "title": "No More",
+      "remix": "",
+      "label": "TECHNE",
+      "trackId": "4146874",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2271,
+      "mediaIds": {
+        "spotify": "483212",
+        "youtube": "483212",
+        "soundcloud": "483212",
+        "appleMusic": "483212"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Noizu",
+      "title": "Baby Baby",
+      "remix": "",
+      "label": "SUSHI",
+      "trackId": "4146875",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2481,
+      "mediaIds": {
+        "spotify": "521967",
+        "youtube": "521967",
+        "soundcloud": "521967",
+        "appleMusic": "521967"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Dombresky & Noizu",
+      "title": "Rave Alarm",
+      "remix": "",
+      "label": "TECHNE",
+      "trackId": "4146876",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2616,
+      "mediaIds": {
+        "spotify": "440519",
+        "youtube": "440519",
+        "soundcloud": "440519",
+        "appleMusic": "440519"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Noizu",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4146877",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2840,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Noizu",
+      "title": "Slow Down",
+      "remix": "",
+      "label": "TECHNE",
+      "trackId": "4146878",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3009,
+      "mediaIds": {
+        "spotify": "444055",
+        "youtube": "444055",
+        "soundcloud": "444055",
+        "appleMusic": "444055"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Illyus Barrientos",
+      "title": "Shout",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "4146879",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3204,
+      "mediaIds": {
+        "spotify": "464631",
+        "youtube": "464631",
+        "soundcloud": "464631",
+        "appleMusic": "464631"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Noizu",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4146880",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3420,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Noizu",
+      "title": "Lasers",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "4146881",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3540,
+      "mediaIds": {
+        "spotify": "358061",
+        "youtube": "358061",
+        "soundcloud": "358061",
+        "appleMusic": "358061"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Tim Baresko",
+      "title": "Lose Control",
+      "remix": "",
+      "label": "TOOLROOM TRAX",
+      "trackId": "4146882",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3685,
+      "mediaIds": {
+        "spotify": "494464",
+        "youtube": "494464",
+        "soundcloud": "494464",
+        "appleMusic": "494464"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Eats Everything & Green Velvet",
+      "title": "Complex",
+      "remix": "",
+      "label": "RELIEF",
+      "trackId": "4146883",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3840,
+      "mediaIds": {
+        "spotify": "487382",
+        "youtube": "487382",
+        "soundcloud": "487382",
+        "appleMusic": "487382"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Tchami",
+      "title": "Adieu (Noizu Remix)",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "4146884",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 4006,
+      "mediaIds": {
+        "spotify": "397792",
+        "youtube": "397792",
+        "soundcloud": "397792",
+        "appleMusic": "397792"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Noizu",
+      "title": "Jungle",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "4146885",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 4172,
+      "mediaIds": {
+        "spotify": "382841",
+        "youtube": "382841",
+        "soundcloud": "382841",
+        "appleMusic": "382841"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1205945",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=1IWLQpEK3RA"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "1205946",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/627437601"
+    }
+  ],
+  "scrapedAt": "2026-04-08T06:11:08.733Z",
+  "scrapeVersion": 2
+}

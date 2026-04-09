@@ -1,0 +1,522 @@
+{
+  "tlId": "2bxgt351",
+  "dj": "Cloverdale",
+  "stage": "EDC Las Vegas",
+  "date": "2023-05-19",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/2bxgt351/cloverdale-stereobloom-edc-las-vegas-united-states-2023-05-19.html",
+  "djs": [
+    {
+      "name": "Cloverdale",
+      "slug": "cloverdale"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Wuki & Cloverdale",
+      "title": "War Pigs",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9141597",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "893845"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Cloverdale",
+      "title": "The Energy",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "9141598",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 173,
+      "mediaIds": {
+        "spotify": "730200",
+        "youtube": "730200",
+        "soundcloud": "730200",
+        "appleMusic": "730200"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Cloverdale",
+      "title": "Threat Level Midnight",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "9141599",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 292,
+      "mediaIds": {
+        "spotify": "730201",
+        "youtube": "730201",
+        "soundcloud": "730201",
+        "appleMusic": "730201"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cloverdale",
+          "title": "Threat Level Midnight",
+          "remix": "",
+          "trackId": "9141599"
+        },
+        {
+          "artist": "JAY-Z & Linkin Park",
+          "title": "Numb Encore",
+          "remix": "",
+          "trackId": "9141600"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAY-Z & Linkin Park",
+      "title": "Numb Encore",
+      "remix": "",
+      "label": "ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "9141600",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "55948",
+        "youtube": "55948",
+        "soundcloud": "55948",
+        "appleMusic": "55948"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Dizzee Rascal & Armand van Helden",
+      "title": "Bonkers (Cloverdale Rework)",
+      "remix": "",
+      "label": "DIRTEE STANK",
+      "trackId": "9141601",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 454,
+      "mediaIds": {
+        "youtube": "536660",
+        "soundcloud": "536660"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "50 Cent",
+      "title": "Just A Lil Bit (Cloverdale Remix)",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT",
+      "trackId": "9141602",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 589,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9141603",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 785,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Darren After",
+      "title": "DWM",
+      "remix": "",
+      "label": "VIBRANCY",
+      "trackId": "9141604",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 915,
+      "mediaIds": {
+        "spotify": "913951",
+        "youtube": "913951",
+        "soundcloud": "913951",
+        "appleMusic": "913951"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9141605",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1050,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Inafekt",
+      "title": "Take The Mic",
+      "remix": "",
+      "label": "TRICK",
+      "trackId": "9141606",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1154,
+      "mediaIds": {
+        "spotify": "894395",
+        "youtube": "894395",
+        "soundcloud": "894395",
+        "appleMusic": "894395"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Hannah Laing",
+      "title": "Get Busy",
+      "remix": "",
+      "label": "TRICK",
+      "trackId": "9141607",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1160,
+      "mediaIds": {
+        "spotify": "873502",
+        "youtube": "873502",
+        "soundcloud": "873502",
+        "appleMusic": "873502"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Fred again.. & Skrillex & Four Tet ft. Lil Baby",
+      "title": "Baby Again.. (Calling Pablo Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9141608",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "t e s t p r e s s",
+      "title": "Heeltoe",
+      "remix": "",
+      "label": "TRICK",
+      "trackId": "9141609",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1395,
+      "mediaIds": {
+        "spotify": "887951",
+        "youtube": "887951",
+        "soundcloud": "887951",
+        "appleMusic": "887951"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Cloverdale",
+      "title": "Up To No Good",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "9141610",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1625,
+      "mediaIds": {
+        "spotify": "933644",
+        "youtube": "933644",
+        "soundcloud": "933644",
+        "appleMusic": "933644"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Cloverdale",
+      "title": "Fade",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "9141611",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1779,
+      "mediaIds": {
+        "spotify": "950571",
+        "youtube": "950571",
+        "appleMusic": "950571"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Cloverdale ft. Baba No Baby",
+      "title": "Up All Night",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "9141612",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1927,
+      "mediaIds": {
+        "spotify": "848192",
+        "youtube": "848192",
+        "soundcloud": "848192",
+        "appleMusic": "848192"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Cloverdale",
+      "title": "Deeper & Deeper",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "9141783",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2127,
+      "mediaIds": {
+        "spotify": "950168",
+        "youtube": "950168",
+        "soundcloud": "950168",
+        "appleMusic": "950168"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Julian Jordan & Eleganto",
+      "title": "One Nation",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "9141784",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2203,
+      "mediaIds": {
+        "spotify": "936342",
+        "youtube": "936342",
+        "soundcloud": "936342",
+        "appleMusic": "936342"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Cloverdale",
+      "title": "Lifted",
+      "remix": "",
+      "label": "TECHNE",
+      "trackId": "9141613",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2377,
+      "mediaIds": {
+        "spotify": "890556",
+        "youtube": "890556",
+        "soundcloud": "890556",
+        "appleMusic": "890556"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cloverdale",
+          "title": "Lifted",
+          "remix": "",
+          "trackId": "9141613"
+        },
+        {
+          "artist": "Route 94",
+          "title": "House & Pressure",
+          "remix": "(Edit)",
+          "trackId": "9141614"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Route 94",
+      "title": "House & Pressure",
+      "remix": "(Edit)",
+      "label": "HOT CREATIONS",
+      "trackId": "9141614",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "344684",
+        "youtube": "344684",
+        "soundcloud": "344684",
+        "appleMusic": "344684"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Cloverdale",
+      "title": "Ice Age",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "9141615",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2556,
+      "mediaIds": {
+        "spotify": "790379",
+        "youtube": "790379",
+        "soundcloud": "790379",
+        "appleMusic": "790379"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cloverdale",
+          "title": "Ice Age",
+          "remix": "",
+          "trackId": "9141615"
+        },
+        {
+          "artist": "Cloverdale",
+          "title": "Hit The Dancefloor",
+          "remix": "",
+          "trackId": "9141616"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cloverdale",
+      "title": "Hit The Dancefloor",
+      "remix": "",
+      "label": "HAU5TRAP (MAU5TRAP)",
+      "trackId": "9141616",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "766729",
+        "youtube": "766729",
+        "soundcloud": "766729",
+        "appleMusic": "766729"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Cloverdale & Hollaphonic",
+      "title": "Get Down",
+      "remix": "",
+      "label": "VIBRANCY",
+      "trackId": "9141617",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2748,
+      "mediaIds": {
+        "spotify": "894184",
+        "youtube": "894184",
+        "soundcloud": "894184",
+        "appleMusic": "894184"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Cloverdale & DJ Susan",
+      "title": "Welcome To The Jungle",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9141618",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2940,
+      "mediaIds": {
+        "youtube": "762136",
+        "soundcloud": "762136"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Bicep",
+      "title": "Glue (Bryan Kearney pres. Karney Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9141619",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3045,
+      "mediaIds": {
+        "soundcloud": "521459"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Jennifer Lopez",
+      "title": "Waiting For Tonight (Famba Remix)",
+      "remix": "",
+      "label": "EPIC",
+      "trackId": "9141620",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3158,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Modjo",
+      "title": "Lady (Hear Me Tonight)",
+      "remix": "",
+      "label": "MODJO MUSIC",
+      "trackId": "9141621",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3306,
+      "mediaIds": {
+        "spotify": "3306",
+        "youtube": "3306",
+        "soundcloud": "3306",
+        "appleMusic": "3306"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "3453779",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1542025957?secret_token=s-fSzkWCJQ8vA"
+    },
+    {
+      "platform": "source_2",
+      "idMedia": "3452419",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/cloverdale-at-edc-las-vegas-2023-stereo-bloom-stage-dj-mix/1692270193/us/album/cloverdale-at-edc-las-vegas-2023-stereo-bloom-stage-dj-mix/1692270193?app=music&at=1000lwkw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:23:49.586Z",
+  "scrapeVersion": 2
+}

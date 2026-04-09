@@ -1,0 +1,610 @@
+{
+  "tlId": "2nv26vq9",
+  "dj": "Heyder",
+  "stage": "EDC Mexico",
+  "date": "2016-02-28",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/2nv26vq9/heyder-circuitgrounds-edc-mexico-2016-02-28.html",
+  "djs": [
+    {
+      "name": "Heyder",
+      "slug": "heyder-az"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Lost Frequencies ft. Easton Corbin",
+      "title": "Are You With Me (Dash Berlin Remix)",
+      "remix": "",
+      "label": "ARMADA TRICE",
+      "trackId": "1962454",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "247248",
+        "youtube": "247248",
+        "soundcloud": "247248",
+        "appleMusic": "247248"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Domeno & Michael Sparks",
+      "title": "Locked & Loaded (Hardwell Edit)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1962455",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "265426",
+        "youtube": "265426",
+        "soundcloud": "265426",
+        "appleMusic": "265426"
+      },
+      "blendGroup": [
+        {
+          "artist": "Domeno & Michael Sparks",
+          "title": "Locked & Loaded (Hardwell Edit)",
+          "remix": "",
+          "trackId": "1962455"
+        },
+        {
+          "artist": "Eva Shaw",
+          "title": "Space Jungle (Showtek Edit)",
+          "remix": "",
+          "trackId": "1966767"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eva Shaw",
+      "title": "Space Jungle (Showtek Edit)",
+      "remix": "",
+      "label": "SKINK",
+      "trackId": "1966767",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "222509",
+        "youtube": "222509",
+        "soundcloud": "222509",
+        "appleMusic": "222509"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eva Shaw",
+          "title": "Space Jungle (Showtek Edit)",
+          "remix": "",
+          "trackId": "1966767"
+        },
+        {
+          "artist": "Icona Pop",
+          "title": "Girlfriend (Acappella)",
+          "remix": "",
+          "trackId": "1966768"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Icona Pop",
+      "title": "Girlfriend (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1966768",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "146974"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "W&W",
+      "title": "Rave After Rave",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "1962456",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "242775",
+        "youtube": "242775",
+        "soundcloud": "242775",
+        "appleMusic": "242775"
+      },
+      "blendGroup": [
+        {
+          "artist": "W&W",
+          "title": "Rave After Rave",
+          "remix": "",
+          "trackId": "1962456"
+        },
+        {
+          "artist": "FTampa & WAO",
+          "title": "Troy",
+          "remix": "",
+          "trackId": "1966769"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "FTampa & WAO",
+      "title": "Troy",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1966769",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "240976",
+        "youtube": "240976",
+        "soundcloud": "240976",
+        "appleMusic": "240976"
+      },
+      "blendGroup": [
+        {
+          "artist": "FTampa & WAO",
+          "title": "Troy",
+          "remix": "",
+          "trackId": "1966769"
+        },
+        {
+          "artist": "Vigel",
+          "title": "SQRT",
+          "remix": "",
+          "trackId": "1966770"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Vigel",
+      "title": "SQRT",
+      "remix": "",
+      "label": "ARMADA TRICE",
+      "trackId": "1966770",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "263307",
+        "youtube": "263307",
+        "soundcloud": "263307",
+        "appleMusic": "263307"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Coldplay vs. OneRepublic & Arty",
+      "title": "Every Teardrop Is A Waterfall vs. I Lived (Heyder Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "1962457",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Porter Robinson ft. Bright Lights",
+      "title": "Language",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1962458",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69003",
+        "youtube": "69003",
+        "soundcloud": "69003",
+        "appleMusic": "69003"
+      },
+      "blendGroup": [
+        {
+          "artist": "Porter Robinson ft. Bright Lights",
+          "title": "Language",
+          "remix": "",
+          "trackId": "1962458"
+        },
+        {
+          "artist": "Avicii & Nicky Romero ft. Noonie Bao",
+          "title": "I Could Be The One (Acappella)",
+          "remix": "",
+          "trackId": "1966771"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii & Nicky Romero ft. Noonie Bao",
+      "title": "I Could Be The One (Acappella)",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "1966771",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "63651",
+        "youtube": "63651",
+        "soundcloud": "63651",
+        "appleMusic": "63651"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Jay Hardway vs. Duke Dumont",
+      "title": "Won't Look Back vs. Wake Up (Heyder Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "1962459",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Ummet Ozcan",
+      "title": "Raise Your Hands",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1962460",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "174019",
+        "youtube": "174019",
+        "soundcloud": "174019",
+        "appleMusic": "174019"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ummet Ozcan",
+          "title": "Raise Your Hands",
+          "remix": "",
+          "trackId": "1962460"
+        },
+        {
+          "artist": "Cash Cash ft. Bebe Rexha",
+          "title": "Take Me Home (Acappella)",
+          "remix": "",
+          "trackId": "1966772"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cash Cash ft. Bebe Rexha",
+      "title": "Take Me Home (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1966772",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "137662",
+        "youtube": "137662",
+        "soundcloud": "147727",
+        "appleMusic": "137662"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Mr. Probz & W&W vs. Wildstylez & Audiotricz",
+      "title": "Waves vs. Turn The Music Up (Heyder Mashup)",
+      "remix": "",
+      "label": "LEFT LANE/MAINSTAGE (ARMADA)",
+      "trackId": "1962461",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Armin van Buuren ft. Trevor Guthrie",
+      "title": "This Is What It Feels Like vs. / W&w - D' Fat (Heyder Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "1962462",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Heyder",
+      "title": "Whirlpool",
+      "remix": "",
+      "label": "",
+      "trackId": "1962463",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "301276",
+        "youtube": "301276",
+        "appleMusic": "301276"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "DubVision",
+      "title": "Sweet Harmony",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "1962464",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "276348",
+        "youtube": "276348",
+        "soundcloud": "276348",
+        "appleMusic": "276348"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Dimitri Vangelis & Wyman & Steve Angello",
+      "title": "Payback",
+      "remix": "",
+      "label": "COLUMBIA/SIZE",
+      "trackId": "1962465",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "148421",
+        "youtube": "148421",
+        "soundcloud": "148421",
+        "appleMusic": "148421"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vangelis & Wyman & Steve Angello",
+          "title": "Payback",
+          "remix": "",
+          "trackId": "1962465"
+        },
+        {
+          "artist": "Ummet Ozcan & R3HAB & NERVO",
+          "title": "Revolution (Acappella)",
+          "remix": "",
+          "trackId": "1966773"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ummet Ozcan & R3HAB & NERVO",
+      "title": "Revolution (Acappella)",
+      "remix": "",
+      "label": "SPRS (SPINNIN')",
+      "trackId": "1966773",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "197059",
+        "youtube": "145541",
+        "soundcloud": "145541",
+        "appleMusic": "197059"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Armin van Buuren ft. Lauren Evans",
+      "title": "Alone",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "1962466",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "132802",
+        "youtube": "132802",
+        "soundcloud": "132802",
+        "appleMusic": "132802"
+      },
+      "blendGroup": [
+        {
+          "artist": "Armin van Buuren ft. Lauren Evans",
+          "title": "Alone",
+          "remix": "",
+          "trackId": "1962466"
+        },
+        {
+          "artist": "Dannic & SICK INDIVIDUALS",
+          "title": "Feel Your Love (DBSTF Remix)",
+          "remix": "",
+          "trackId": "1966774"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dannic & SICK INDIVIDUALS",
+      "title": "Feel Your Love (DBSTF Remix)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1966774",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "282236",
+        "youtube": "282236",
+        "soundcloud": "282236",
+        "appleMusic": "282236"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Sander van Doorn & Martin Garrix & DVBBS vs. Galantis & Matisse & Sadko ft. Aleesia",
+      "title": "Gold Skies vs. In My Head (Heyder Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "1962467",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Deniz Koyu & Amba Shepherd",
+      "title": "The Way Out",
+      "remix": "",
+      "label": "PROTOCOL",
+      "trackId": "1962468",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "247488",
+        "youtube": "247488",
+        "soundcloud": "247488",
+        "appleMusic": "247488"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Heyder",
+      "title": "Adventure",
+      "remix": "",
+      "label": "ARCADIA",
+      "trackId": "1962469",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "301277",
+        "youtube": "301277",
+        "soundcloud": "301277",
+        "appleMusic": "301277"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Audien vs. Mat Zo & Porter Robinson",
+      "title": "Rooms vs. Easy (Heyder Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "1962470",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Heyder",
+      "title": "You And Me",
+      "remix": "",
+      "label": "RED SOHO",
+      "trackId": "1962471",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "245784",
+        "appleMusic": "245784"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Alesso vs. OneRepublic",
+      "title": "If I Lose Myself (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "1966775",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "132131",
+        "youtube": "222589",
+        "soundcloud": "132131",
+        "appleMusic": "132131"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Heyder ft. Alex Staltari",
+      "title": "Won't Give Anything",
+      "remix": "",
+      "label": "RED SOHO",
+      "trackId": "1962472",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "283758",
+        "soundcloud": "283758"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Dash Berlin ft. Roxanne Emery",
+      "title": "Shelter (Heyder Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "1962473",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "234630",
+        "soundcloud": "234630"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "420375",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=1nUkeCm20k0"
+    }
+  ],
+  "scrapedAt": "2026-04-08T18:49:58.117Z",
+  "scrapeVersion": 2
+}

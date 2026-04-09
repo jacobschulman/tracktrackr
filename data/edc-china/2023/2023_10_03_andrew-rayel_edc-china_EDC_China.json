@@ -1,0 +1,176 @@
+{
+  "tlId": "2b078dkk",
+  "dj": "Andrew Rayel",
+  "stage": "EDC China",
+  "date": "2023-10-03",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/2b078dkk/andrew-rayel-stereobloom-edc-china-2023-10-03.html",
+  "djs": [
+    {
+      "name": "Andrew Rayel",
+      "slug": "andrewrayel"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Andrew Rayel & SMR LVE & Eric Lumiere",
+      "title": "Feel Alive",
+      "remix": "",
+      "label": "FIND YOUR HARMONY",
+      "trackId": "9575618",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "910630",
+        "youtube": "910630",
+        "soundcloud": "910630",
+        "appleMusic": "910630"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "David Guetta ft. Bebe Rexha",
+      "title": "I'm Good (Blue) (Andrew Rayel Remix)",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "9575619",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 60,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Andrew Rayel & Graham Bell",
+      "title": "Tambores",
+      "remix": "",
+      "label": "INHARMONY (ARMADA)",
+      "trackId": "9575620",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 168,
+      "mediaIds": {
+        "spotify": "406633",
+        "youtube": "406633",
+        "soundcloud": "406633",
+        "appleMusic": "406633"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "David Guetta ft. Sia",
+      "title": "Titanium(Co-Prod. by AFROJACK) (David Guetta & MORTEN Future Rave Remix / Andrew Rayel Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9575621",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 303,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Bon Jovi",
+      "title": "It's My Life (Acappella)",
+      "remix": "",
+      "label": "ISLAND DEF JAM (UMG)",
+      "trackId": "9575622",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 435,
+      "mediaIds": {
+        "spotify": "26831",
+        "youtube": "26831",
+        "soundcloud": "26831",
+        "appleMusic": "26831"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bon Jovi",
+          "title": "It's My Life (Acappella)",
+          "remix": "",
+          "trackId": "9575622"
+        },
+        {
+          "artist": "AVAO & MatricK",
+          "title": "WTF",
+          "remix": "",
+          "trackId": "9575623"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AVAO & MatricK",
+      "title": "WTF",
+      "remix": "",
+      "label": "REACHING ALTITUDE",
+      "trackId": "9575623",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 475,
+      "mediaIds": {
+        "spotify": "869242",
+        "youtube": "869242",
+        "appleMusic": "869242"
+      },
+      "blendGroup": [
+        {
+          "artist": "AVAO & MatricK",
+          "title": "WTF",
+          "remix": "",
+          "trackId": "9575623"
+        },
+        {
+          "artist": "NWYR & Andrew Rayel",
+          "title": "The Melody",
+          "remix": "",
+          "trackId": "9575624"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "NWYR & Andrew Rayel",
+      "title": "The Melody",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "9575624",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 495,
+      "mediaIds": {
+        "spotify": "470802",
+        "youtube": "470802",
+        "soundcloud": "470802",
+        "appleMusic": "470802"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "John Summit ft. HAYLA",
+      "title": "Where You Are (Andrew Rayel Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "9575625",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 582,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T15:29:18.209Z",
+  "scrapeVersion": 2
+}

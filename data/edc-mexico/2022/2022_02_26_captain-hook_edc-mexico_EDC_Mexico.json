@@ -1,0 +1,96 @@
+{
+  "tlId": "273u0vl1",
+  "dj": "Captain Hook",
+  "stage": "EDC Mexico",
+  "date": "2022-02-26",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/273u0vl1/captain-hook-stereobloom-edc-mexico-2022-02-26.html",
+  "djs": [
+    {
+      "name": "Captain Hook",
+      "slug": "captainhook"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Captain Hook & Lish",
+      "title": "Frankie's Wish",
+      "remix": "",
+      "label": "IBOGA",
+      "trackId": "7388297",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "458213",
+        "youtube": "458213",
+        "soundcloud": "458213",
+        "appleMusic": "458213"
+      },
+      "blendGroup": [
+        {
+          "artist": "Captain Hook & Lish",
+          "title": "Frankie's Wish",
+          "remix": "",
+          "trackId": "7388297"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7388298"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7388298",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "02",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7388299",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Vini Vici",
+      "title": "Veni Vidi Vici (Captain Hook Remix)",
+      "remix": "",
+      "label": "IBOGA",
+      "trackId": "7388300",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "630483",
+        "soundcloud": "630483",
+        "appleMusic": "630483"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T17:24:04.261Z",
+  "scrapeVersion": 2
+}

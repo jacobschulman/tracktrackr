@@ -1,0 +1,166 @@
+{
+  "tlId": "2fh4txv9",
+  "dj": "KAYZO",
+  "stage": "EDC Orlando",
+  "date": "2018-11-10",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/2fh4txv9/kayzo-kineticfield-edc-orlando-united-states-2018-11-10.html",
+  "djs": [
+    {
+      "name": "KAYZO",
+      "slug": "kayzo"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "KAYZO",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3707750",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 89,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Virtual Riot",
+      "title": "One Two",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "3707751",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 130,
+      "mediaIds": {
+        "spotify": "448430",
+        "youtube": "448430",
+        "soundcloud": "448430",
+        "appleMusic": "448430"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "KAYZO",
+      "title": "This Time",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "3707752",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 182,
+      "mediaIds": {
+        "spotify": "351526",
+        "youtube": "351526",
+        "soundcloud": "351526",
+        "appleMusic": "351526"
+      },
+      "blendGroup": [
+        {
+          "artist": "KAYZO",
+          "title": "This Time",
+          "remix": "",
+          "trackId": "3707752"
+        },
+        {
+          "artist": "KAYZO",
+          "title": "This Time (GOMMI & TYEGUYS Remix)",
+          "remix": "",
+          "trackId": "3708117"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "KAYZO",
+      "title": "This Time (GOMMI & TYEGUYS Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3708117",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "371100",
+        "soundcloud": "371100"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+      "title": "Tremor (Sensation 2014 Anthem)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3707753",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 270,
+      "mediaIds": {
+        "spotify": "167281",
+        "youtube": "167281",
+        "soundcloud": "167281",
+        "appleMusic": "167281"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+          "title": "Tremor (Sensation 2014 Anthem)",
+          "remix": "",
+          "trackId": "3707753"
+        },
+        {
+          "artist": "Dougal & Gammer",
+          "title": "Blow This",
+          "remix": "",
+          "trackId": "3708118"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dougal & Gammer",
+      "title": "Blow This",
+      "remix": "",
+      "label": "WELCOME",
+      "trackId": "3708118",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "453108",
+        "youtube": "453108",
+        "soundcloud": "453108",
+        "appleMusic": "453108"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Gammer",
+      "title": "The Drop (Darren Styles Remix)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "3707754",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 318,
+      "mediaIds": {
+        "spotify": "417065",
+        "youtube": "417065",
+        "soundcloud": "417065",
+        "appleMusic": "417065"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T17:15:36.298Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,884 @@
+{
+  "tlId": "281m9jz9",
+  "dj": "Jay Silva & Noizekid",
+  "stage": "EDC Mexico",
+  "date": "2022-02-25",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/281m9jz9/jay-silva-noizekid-dos-equis-stage-edc-mexico-2022-02-25.html",
+  "djs": [
+    {
+      "name": "Jay Silva",
+      "slug": "jaysilva"
+    },
+    {
+      "name": "Noizekid",
+      "slug": "noizekid"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Mike Cervello & GTA",
+      "title": "Bad Gyal",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "7379203",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "393000",
+        "youtube": "393000",
+        "soundcloud": "393000",
+        "appleMusic": "393000"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mike Cervello & GTA",
+          "title": "Bad Gyal",
+          "remix": "",
+          "trackId": "7379203"
+        },
+        {
+          "artist": "Sak Noel & Los Tioz",
+          "title": "Blekete",
+          "remix": "",
+          "trackId": "7379204"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sak Noel & Los Tioz",
+      "title": "Blekete",
+      "remix": "",
+      "label": "BARNATON",
+      "trackId": "7379204",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "366229"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Eminem",
+      "title": "Without Me",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "7379205",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "208260",
+        "youtube": "208260",
+        "soundcloud": "208260",
+        "appleMusic": "208260"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eminem",
+          "title": "Without Me",
+          "remix": "",
+          "trackId": "7379205"
+        },
+        {
+          "artist": "Dirty Audio & Reid Stefan ft. MC Vocab",
+          "title": "Freakem",
+          "remix": "",
+          "trackId": "7379206"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dirty Audio & Reid Stefan ft. MC Vocab",
+      "title": "Freakem",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7379206",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "305387"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Eurythmics vs. Halfway House",
+      "title": "Sweet Peak Dreams (MAKJ Edit)",
+      "remix": "",
+      "label": "BIG MACHINE/RCA/FLASHOVER PROGRESSIVE",
+      "trackId": "7379207",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "146699",
+        "soundcloud": "146699"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eurythmics vs. Halfway House",
+          "title": "Sweet Peak Dreams (MAKJ Edit)",
+          "remix": "",
+          "trackId": "7379207"
+        },
+        {
+          "artist": "Major Lazer ft. Vybz Kartel",
+          "title": "Pon De Floor(Co-Prod. by AFROJACK)",
+          "remix": "",
+          "trackId": "7379208"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Major Lazer ft. Vybz Kartel",
+      "title": "Pon De Floor(Co-Prod. by AFROJACK)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "7379208",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5749",
+        "youtube": "5749",
+        "soundcloud": "5749",
+        "appleMusic": "5749"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Calle 13",
+      "title": "Baile De Los Pobres",
+      "remix": "",
+      "label": "",
+      "trackId": "7379209",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Calle 13",
+          "title": "Baile De Los Pobres",
+          "remix": "",
+          "trackId": "7379209"
+        },
+        {
+          "artist": "Matt Watkins & Bynded",
+          "title": "Blow Up",
+          "remix": "",
+          "trackId": "7379210"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Matt Watkins & Bynded",
+      "title": "Blow Up",
+      "remix": "",
+      "label": "",
+      "trackId": "7379210",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "05",
+      "artist": "Molotov",
+      "title": "Gimme Tha Power",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "7379211",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "539195",
+        "youtube": "539195",
+        "soundcloud": "539195",
+        "appleMusic": "539195"
+      },
+      "blendGroup": [
+        {
+          "artist": "Molotov",
+          "title": "Gimme Tha Power",
+          "remix": "",
+          "trackId": "7379211"
+        },
+        {
+          "artist": "Getter",
+          "title": "Sick Jet Pack Bro",
+          "remix": "",
+          "trackId": "7379212"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Getter",
+      "title": "Sick Jet Pack Bro",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "7379212",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "325459",
+        "youtube": "325459",
+        "soundcloud": "325459",
+        "appleMusic": "325459"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Calvin Harris & Disciples ft. Ina Wroldsen",
+      "title": "How Deep Is Your Love (DJ Snake Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "7379213",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "267480",
+        "youtube": "267480",
+        "soundcloud": "267480",
+        "appleMusic": "267480"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "TroyBoi & Flosstradamus",
+      "title": "Soundclash",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "7379214",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "226289",
+        "youtube": "226289",
+        "soundcloud": "226289",
+        "appleMusic": "226289"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "DJ Snake",
+      "title": "Magenta Riddim (ETC!ETC! & Jay Silva Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7379215",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "408288"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Caos",
+      "title": "La Plata",
+      "remix": "",
+      "label": "",
+      "trackId": "7379216",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Caos",
+          "title": "La Plata",
+          "remix": "",
+          "trackId": "7379216"
+        },
+        {
+          "artist": "Steve Aoki ft. Matthew Koma",
+          "title": "Hysteria (Dirty Audio Remix)",
+          "remix": "",
+          "trackId": "7379217"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Steve Aoki ft. Matthew Koma",
+      "title": "Hysteria (Dirty Audio Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "7379217",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "296671",
+        "youtube": "296671",
+        "soundcloud": "296671",
+        "appleMusic": "296671"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Deorro & ZooFunktion",
+      "title": "Hype (AutoErotique Remix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "7379218",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "174828",
+        "youtube": "174828",
+        "soundcloud": "174828",
+        "appleMusic": "174828"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Chuckie & JunxterJack",
+      "title": "Make Some Noise",
+      "remix": "",
+      "label": "CR2/BIG BEAT",
+      "trackId": "7379219",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "76653",
+        "youtube": "76653",
+        "soundcloud": "76653",
+        "appleMusic": "76653"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Gloria Estefan & Miami Sound Machine",
+      "title": "Conga",
+      "remix": "",
+      "label": "CBS",
+      "trackId": "7379220",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "43979",
+        "youtube": "43979",
+        "soundcloud": "43979",
+        "appleMusic": "43979"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gloria Estefan & Miami Sound Machine",
+          "title": "Conga",
+          "remix": "",
+          "trackId": "7379220"
+        },
+        {
+          "artist": "Steve Aoki ft. Matthew Koma",
+          "title": "Hysteria (Dirty Audio Remix)",
+          "remix": "",
+          "trackId": "7379221"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Steve Aoki ft. Matthew Koma",
+      "title": "Hysteria (Dirty Audio Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "7379221",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "296671",
+        "youtube": "296671",
+        "soundcloud": "296671",
+        "appleMusic": "296671"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Destructo ft. YG",
+      "title": "Party Up (GTA Remix / Wuki Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7379222",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "275267",
+        "youtube": "275267",
+        "soundcloud": "275267",
+        "appleMusic": "275267"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Cesqeaux & Aazar",
+      "title": "Booty Time (Yellow Claw & Stoltenhoff Remix)",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "7379223",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "413740",
+        "youtube": "413740",
+        "soundcloud": "413740",
+        "appleMusic": "413740"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Alemán",
+      "title": "Rucón (Noizekid Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "7379224",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "495358"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "DJ Khaled ft. Ludacris & Rick Ross & T-Pain & Snoop Dogg",
+      "title": "All I Do Is Win",
+      "remix": "",
+      "label": "E1 MUSIC",
+      "trackId": "7379225",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "52598",
+        "youtube": "52598",
+        "soundcloud": "52598",
+        "appleMusic": "52598"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Khaled ft. Ludacris & Rick Ross & T-Pain & Snoop Dogg",
+          "title": "All I Do Is Win",
+          "remix": "",
+          "trackId": "7379225"
+        },
+        {
+          "artist": "SLANDER & NGHTMRE",
+          "title": "You",
+          "remix": "",
+          "trackId": "7379226"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SLANDER & NGHTMRE",
+      "title": "You",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "7379226",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "250812",
+        "youtube": "250812",
+        "soundcloud": "250812",
+        "appleMusic": "250812"
+      },
+      "blendGroup": [
+        {
+          "artist": "SLANDER & NGHTMRE",
+          "title": "You",
+          "remix": "",
+          "trackId": "7379226"
+        },
+        {
+          "artist": "Boombox Cartel ft. Ian Everson",
+          "title": "B2U",
+          "remix": "",
+          "trackId": "7379227"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Boombox Cartel ft. Ian Everson",
+      "title": "B2U",
+      "remix": "",
+      "label": "FRNT",
+      "trackId": "7379227",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "243150",
+        "youtube": "243150",
+        "soundcloud": "243150",
+        "appleMusic": "243150"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Skrillex & Damian Marley",
+      "title": "Make It Bun Dem",
+      "remix": "",
+      "label": "BIG BEAT/OWSLA",
+      "trackId": "7379228",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "71742",
+        "youtube": "71742",
+        "soundcloud": "71742",
+        "appleMusic": "71742"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Post Malone ft. Quavo vs. Marshmello & Ookay ft. Noah Cyrus",
+      "title": "Congratulations vs. Chasing Colors (FAED Bootleg)",
+      "remix": "",
+      "label": "JOYTIME COLLECTIVE/REPUBLIC (UMG)",
+      "trackId": "7379229",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Boombox Cartel",
+      "title": "Jefe (ACRAZE VIP Jersey Flip)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "7379230",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "393764"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "4B & TEEZ",
+      "title": "Whistle",
+      "remix": "",
+      "label": "PREMIERE CLASSE",
+      "trackId": "7379231",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "375113",
+        "youtube": "375113",
+        "soundcloud": "375113",
+        "appleMusic": "375113"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Black Eyed Peas",
+      "title": "The Time (Dirty Bit)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "7379233",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "23044",
+        "youtube": "23044",
+        "appleMusic": "23044"
+      },
+      "blendGroup": [
+        {
+          "artist": "Black Eyed Peas",
+          "title": "The Time (Dirty Bit)",
+          "remix": "",
+          "trackId": "7379233"
+        },
+        {
+          "artist": "Valentino Khan",
+          "title": "Pony",
+          "remix": "",
+          "trackId": "7379234"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Valentino Khan",
+      "title": "Pony",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "7379234",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "494424",
+        "youtube": "494424",
+        "soundcloud": "494424",
+        "appleMusic": "494424"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Daddy Yankee",
+      "title": "Lo Que Paso Paso",
+      "remix": "",
+      "label": "EL CARTEL",
+      "trackId": "7379235",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "81677",
+        "youtube": "81677",
+        "soundcloud": "81677",
+        "appleMusic": "81677"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daddy Yankee",
+          "title": "Lo Que Paso Paso",
+          "remix": "",
+          "trackId": "7379235"
+        },
+        {
+          "artist": "GTA & Diplo",
+          "title": "Boy Oh Boy",
+          "remix": "",
+          "trackId": "7379236"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GTA & Diplo",
+      "title": "Boy Oh Boy",
+      "remix": "",
+      "label": "MAD DECENT/FREE",
+      "trackId": "7379236",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "117721",
+        "youtube": "117721",
+        "soundcloud": "117721",
+        "appleMusic": "117721"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Showtek ft. We Are Loud & Sonny Wilson",
+      "title": "Booyah (Noizekid 2022 Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "7379237",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "910330"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Axel Rulay ft. El Alfa & Farruko",
+      "title": "Si Es Trucho Es Trucho",
+      "remix": "",
+      "label": "LA GRANJA",
+      "trackId": "7379238",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "681090",
+        "youtube": "681090",
+        "appleMusic": "681090"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "El Alfa x CJ x El Cherry Scom",
+      "title": "La Mamá De La Mamá",
+      "remix": "",
+      "label": "EL JEFE",
+      "trackId": "7379239",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "692359",
+        "youtube": "692359",
+        "soundcloud": "692359",
+        "appleMusic": "692359"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Randy & Ape Drums",
+      "title": "23",
+      "remix": "",
+      "label": "ONERPM",
+      "trackId": "7379240",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "773922",
+        "youtube": "773922",
+        "soundcloud": "773922",
+        "appleMusic": "773922"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Cxb",
+      "title": "Tra Tra 420",
+      "remix": "",
+      "label": "",
+      "trackId": "7379241",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Sak Noel & Los Tioz",
+      "title": "Blekete",
+      "remix": "",
+      "label": "BARNATON",
+      "trackId": "7379242",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "366229"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Don Omar",
+      "title": "Virtual Diva",
+      "remix": "",
+      "label": "",
+      "trackId": "7379243",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "602341",
+        "appleMusic": "602341"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Talal Mezher x Noizekid x Vinny ft. Godwonder",
+      "title": "Te La Aplico",
+      "remix": "",
+      "label": "",
+      "trackId": "7379244",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Selena",
+      "title": "Amor Prohibido",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "7379245",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "773923",
+        "youtube": "773923",
+        "appleMusic": "773923"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Nicky Jam",
+      "title": "Me Voy Pal Party",
+      "remix": "",
+      "label": "",
+      "trackId": "7379246",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "C-Kan",
+      "title": "Esta Vida Me Encanta",
+      "remix": "",
+      "label": "",
+      "trackId": "7379247",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T17:32:36.370Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,432 @@
+{
+  "tlId": "2dsqhld1",
+  "dj": "HUGEL",
+  "stage": "EDC Mexico",
+  "date": "2023-02-26",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/2dsqhld1/hugel-stereobloom-edc-mexico-2023-02-26.html",
+  "djs": [
+    {
+      "name": "HUGEL",
+      "slug": "hugel"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Bingil",
+      "title": "Badinga (HUGEL Remix)",
+      "remix": "",
+      "label": "MOTIVE",
+      "trackId": "8874613",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "HUGEL & Nfasis",
+      "title": "Como Shakira",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "8874614",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 300,
+      "mediaIds": {
+        "spotify": "877865",
+        "youtube": "877865",
+        "soundcloud": "877865",
+        "appleMusic": "877865"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8874616",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 480,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "8874616"
+        },
+        {
+          "artist": "Fatboy Slim",
+          "title": "Star 69 (Acappella)",
+          "remix": "",
+          "trackId": "8874615"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fatboy Slim",
+      "title": "Star 69 (Acappella)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "8874615",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1853",
+        "youtube": "1853",
+        "soundcloud": "1853",
+        "appleMusic": "1853"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8874617",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 680,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "HUGEL & BLOND:ISH & Nfasis",
+      "title": "Tra Tra",
+      "remix": "",
+      "label": "WARNER MUSIC GERMANY",
+      "trackId": "8874618",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 840,
+      "mediaIds": {
+        "spotify": "829782",
+        "youtube": "829782",
+        "soundcloud": "829782",
+        "appleMusic": "829782"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "HUGEL ft. Cumbiafrica",
+      "title": "El Sueno",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "8874619",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1070,
+      "mediaIds": {
+        "spotify": "772299",
+        "youtube": "772299",
+        "soundcloud": "772299",
+        "appleMusic": "772299"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Diplo & HUGEL ft. Julia Church",
+      "title": "Stay High",
+      "remix": "",
+      "label": "HIGHER GROUND (MAD DECENT)",
+      "trackId": "8874620",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1310,
+      "mediaIds": {
+        "spotify": "864927",
+        "youtube": "864927",
+        "soundcloud": "864927",
+        "appleMusic": "864927"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "HUGEL & Malóne Morez & PV Aparataje ft. KD One, CVMPANILE, Draxx (ITA)",
+      "title": "Tututu",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "8874621",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1560,
+      "mediaIds": {
+        "spotify": "940516",
+        "youtube": "940516",
+        "soundcloud": "940516",
+        "appleMusic": "940516"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "HUGEL & Westend ft. Cumbiafrica",
+      "title": "Aguila",
+      "remix": "",
+      "label": "REPOPULATE MARS",
+      "trackId": "8874622",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": {
+        "spotify": "814232",
+        "youtube": "814232",
+        "soundcloud": "814232",
+        "appleMusic": "814232"
+      },
+      "blendGroup": [
+        {
+          "artist": "HUGEL & Westend ft. Cumbiafrica",
+          "title": "Aguila",
+          "remix": "",
+          "trackId": "8874622"
+        },
+        {
+          "artist": "Rhythm Controll",
+          "title": "My House (In Beginning, There Was Jack... Acappella)",
+          "remix": "",
+          "trackId": "8874714"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rhythm Controll",
+      "title": "My House (In Beginning, There Was Jack... Acappella)",
+      "remix": "",
+      "label": "CATCH A BEAT",
+      "trackId": "8874714",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "112474",
+        "youtube": "112475",
+        "soundcloud": "112474",
+        "appleMusic": "112474"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Nfasis & Gianluca Vacchi",
+      "title": "Subelo Y Bajalo (Paskman Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "8874623",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1965,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "HUGEL & Crusy & Jenn Morel ft. Joelii",
+      "title": "KLK",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "8874624",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2140,
+      "mediaIds": {
+        "spotify": "859396",
+        "youtube": "859396",
+        "soundcloud": "859396",
+        "appleMusic": "859396"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "HUGEL ft. Cumbiafrica",
+      "title": "Morenita",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "8874625",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2390,
+      "mediaIds": {
+        "spotify": "701588",
+        "youtube": "701588",
+        "soundcloud": "701588",
+        "appleMusic": "701588"
+      },
+      "blendGroup": [
+        {
+          "artist": "HUGEL ft. Cumbiafrica",
+          "title": "Morenita",
+          "remix": "",
+          "trackId": "8874625"
+        },
+        {
+          "artist": "Rihanna",
+          "title": "Sex With Me",
+          "remix": "(Acappella)",
+          "trackId": "8874715"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rihanna",
+      "title": "Sex With Me",
+      "remix": "(Acappella)",
+      "label": "ROC NATION (SONY)",
+      "trackId": "8874715",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "339192",
+        "youtube": "339192",
+        "soundcloud": "339192",
+        "appleMusic": "339192"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8874626",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2640,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "8874626"
+        },
+        {
+          "artist": "The Weeknd",
+          "title": "Can't Feel My Face (Acappella)",
+          "remix": "",
+          "trackId": "8874627"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Weeknd",
+      "title": "Can't Feel My Face (Acappella)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "8874627",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "261757",
+        "youtube": "261757",
+        "soundcloud": "261757",
+        "appleMusic": "261757"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8874628",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2750,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "HUGEL & Merk & Kremont & Lirico En La Casa",
+      "title": "Marianela (Que Pasa)",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "8874629",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2940,
+      "mediaIds": {
+        "spotify": "836939",
+        "youtube": "836939",
+        "soundcloud": "836939",
+        "appleMusic": "836939"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "HUGEL & Ryan Arnold & El Chuape",
+      "title": "Pa Lante",
+      "remix": "",
+      "label": "SPINNIN'/WARNER MUSIC GERMANY",
+      "trackId": "8874630",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3105,
+      "mediaIds": {
+        "spotify": "863809",
+        "youtube": "863809",
+        "soundcloud": "863809",
+        "appleMusic": "863809"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "HUGEL & BLOND:ISH & Dalex ft. Pension & Juanmih",
+      "title": "Es Un Secreto",
+      "remix": "",
+      "label": "WARNER MUSIC GERMANY",
+      "trackId": "8874631",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3240,
+      "mediaIds": {
+        "spotify": "841402",
+        "youtube": "841402",
+        "soundcloud": "841402",
+        "appleMusic": "841402"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3306676",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=v5WlkzFSMXw"
+    },
+    {
+      "platform": "source_2",
+      "idMedia": "3308068",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/hugel-at-edc-mexico-2023-stereo-bloom-stage-dj-mix/1677871145/us/album/hugel-at-edc-mexico-2023-stereo-bloom-stage-dj-mix/1677871145?app=music&at=1000lwkw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:50:55.767Z",
+  "scrapeVersion": 2
+}

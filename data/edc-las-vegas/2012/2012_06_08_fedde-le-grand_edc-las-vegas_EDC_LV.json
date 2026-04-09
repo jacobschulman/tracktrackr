@@ -1,0 +1,292 @@
+{
+  "tlId": "43l0nkk",
+  "dj": "Fedde Le Grand",
+  "stage": "EDC Las Vegas",
+  "date": "2012-06-08",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/43l0nkk/fedde-le-grand-kineticfield-edc-las-vegas-united-states-2012-06-08.html",
+  "djs": [
+    {
+      "name": "Fedde Le Grand",
+      "slug": "feddelegrand"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Madonna",
+      "title": "Music (Fedde Le Grand Bootleg Mix)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "239440",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "25475"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Fedde Le Grand",
+      "title": "So Much Love",
+      "remix": "",
+      "label": "ALTRA MODA",
+      "trackId": "239441",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "42619",
+        "youtube": "42619",
+        "soundcloud": "42619",
+        "appleMusic": "42619"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Nicky Romero & Apster",
+      "title": "Bootcamp",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "239442",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "40991",
+        "youtube": "40991",
+        "soundcloud": "40991",
+        "appleMusic": "40991"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nicky Romero & Apster",
+          "title": "Bootcamp",
+          "remix": "",
+          "trackId": "239442"
+        },
+        {
+          "artist": "Benny Benassi ft. Gary Go",
+          "title": "Cinema (Laidback Luke Remix)",
+          "remix": "",
+          "trackId": "239443"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Benny Benassi ft. Gary Go",
+      "title": "Cinema (Laidback Luke Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "239443",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "26052",
+        "youtube": "26052",
+        "soundcloud": "26052",
+        "appleMusic": "26052"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Benny Benassi",
+      "title": "House Music",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "239444",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "23328",
+        "youtube": "23328",
+        "soundcloud": "23328",
+        "appleMusic": "23328"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Fatboy Slim",
+      "title": "Praise You (Fedde Le Grand 2012 Remix)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "239445",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1080,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Tiesto & Hardwell vs. Cassius",
+      "title": "I Love Zero 76 (Sultan + Shepard Mashup)",
+      "remix": "",
+      "label": "ED BANGER/MUSICAL FREEDOM/REVEALED",
+      "trackId": "239446",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "49501",
+        "soundcloud": "49501"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Fedde Le Grand vs. M.A.N.D.Y. & Booka Shade vs. Justice & Simian",
+      "title": "Body Metrum Friends (Arno Cost Bootleg)",
+      "remix": "",
+      "label": "GET PHYSICAL/ED BANGER/TOOLROOM/ALTRA MODA",
+      "trackId": "239448",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "44881"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Faithless",
+      "title": "Insomnia (Fedde Le Grand Remix)",
+      "remix": "",
+      "label": "SONY BMG",
+      "trackId": "239451",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "267855",
+        "youtube": "267855",
+        "soundcloud": "267855"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Coldplay",
+      "title": "Paradise (Fedde Le Grand Remix)",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "239452",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "48059",
+        "youtube": "48059",
+        "soundcloud": "48059",
+        "appleMusic": "48059"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "ANSOL & Dyro",
+      "title": "Top Of The World",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "239453",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69148",
+        "youtube": "69148",
+        "soundcloud": "69148",
+        "appleMusic": "69148"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Funkagenda vs. Peter Gelderblom",
+      "title": "Waiting 4 Astana (Sultan + Shepard Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/FUNK FARM",
+      "trackId": "239454",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Alter Ego",
+      "title": "Rocker (Patric La Funk & Dohr & Mangold 2012 Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "239456",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "66346",
+        "soundcloud": "66346"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Jordy Dazz",
+      "title": "OMG",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "239457",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69369",
+        "youtube": "69369",
+        "soundcloud": "69369",
+        "appleMusic": "69369"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Timbaland ft. OneRepublic",
+      "title": "Apologize (Fedde Le Grand Bootleg)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "239525",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2520,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "37158",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/DubShakerz"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "37652",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:41:36.189Z",
+  "scrapeVersion": 2
+}

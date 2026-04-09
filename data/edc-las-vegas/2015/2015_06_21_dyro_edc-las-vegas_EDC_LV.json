@@ -1,0 +1,762 @@
+{
+  "tlId": "7tr4mnk",
+  "dj": "Dyro",
+  "stage": "EDC Las Vegas",
+  "date": "2015-06-21",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/7tr4mnk/dyro-kineticfield-edc-las-vegas-united-states-2015-06-21.html",
+  "djs": [
+    {
+      "name": "Dyro",
+      "slug": "dyro"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Dyro vs. A$AP Rocky ft. Skrillex",
+      "title": "Wolv vs. Wild For The Night (Dyro Mashup)",
+      "remix": "",
+      "label": "OWSLA/WOLV",
+      "trackId": "1480403",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Nom De Strip vs. Torro Torro",
+      "title": "The Game vs. Make A Move (Dyro Mashup)",
+      "remix": "",
+      "label": "RISING/OWSLA",
+      "trackId": "1480404",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 115,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "MUST DIE!",
+      "title": "Hellcat",
+      "remix": "",
+      "label": "NEVER SAY DIE/OWSLA",
+      "trackId": "1480405",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 145,
+      "mediaIds": {
+        "spotify": "197661",
+        "youtube": "197661",
+        "soundcloud": "197661",
+        "appleMusic": "197661"
+      },
+      "blendGroup": [
+        {
+          "artist": "MUST DIE!",
+          "title": "Hellcat",
+          "remix": "",
+          "trackId": "1480405"
+        },
+        {
+          "artist": "Skrillex & Damian Marley",
+          "title": "Make It Bun Dem (Acappella)",
+          "remix": "",
+          "trackId": "1481390"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Damian Marley",
+      "title": "Make It Bun Dem (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT/OWSLA",
+      "trackId": "1481390",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "71742",
+        "youtube": "131656",
+        "soundcloud": "131656",
+        "appleMusic": "71742"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "The Chainsmokers & Botnek vs. Duck Sauce & Skrillex & Kill The Noise & Milo & Otis",
+      "title": "#Selfie vs. NRG (Dyro Mashup)",
+      "remix": "",
+      "label": "FOOL'S GOLD/DIM MAK",
+      "trackId": "1480406",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 248,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Row Rocka vs. What So Not",
+      "title": "Backtrack vs. Jaguar (Dyro Mashup)",
+      "remix": "",
+      "label": "OWSLA/WOLV",
+      "trackId": "1480407",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 395,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Row Rocka vs. What So Not",
+          "title": "Backtrack vs. Jaguar (Dyro Mashup)",
+          "remix": "",
+          "trackId": "1480407"
+        },
+        {
+          "artist": "Jean Elan",
+          "title": "Where's Your Head At (Acappella)",
+          "remix": "",
+          "trackId": "1480975"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jean Elan",
+      "title": "Where's Your Head At (Acappella)",
+      "remix": "",
+      "label": "SHAKE ME PLEASE",
+      "trackId": "1480975",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "4625"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "JAUZ & Ephwurd",
+      "title": "Rock The Party",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1480409",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 617,
+      "mediaIds": {
+        "spotify": "253586",
+        "youtube": "253586",
+        "soundcloud": "253586",
+        "appleMusic": "253586"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Dyro & LOOPERS",
+      "title": "Jack It Up",
+      "remix": "",
+      "label": "WOLV",
+      "trackId": "1480410",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 690,
+      "mediaIds": {
+        "spotify": "233118",
+        "youtube": "233118",
+        "soundcloud": "233118",
+        "appleMusic": "233118"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Big Sean ft. E40",
+      "title": "IDFWU (I Don't Fuck With You) (Michael Berry Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1497993",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 720,
+      "mediaIds": {
+        "soundcloud": "256424"
+      },
+      "blendGroup": [
+        {
+          "artist": "Big Sean ft. E40",
+          "title": "IDFWU (I Don't Fuck With You) (Michael Berry Remix)",
+          "remix": "",
+          "trackId": "1497993"
+        },
+        {
+          "artist": "PRISM & Funkz",
+          "title": "Spacetunnel (Dyro Edit)",
+          "remix": "",
+          "trackId": "1480411"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "PRISM & Funkz",
+      "title": "Spacetunnel (Dyro Edit)",
+      "remix": "",
+      "label": "WOLV",
+      "trackId": "1480411",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 785,
+      "mediaIds": {
+        "spotify": "289574",
+        "youtube": "289574",
+        "soundcloud": "289574",
+        "appleMusic": "289574"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Dyro & Dannic vs. Skrillex & Diplo ft. Bunji Garlin",
+      "title": "Radical vs. Jungle Bae (Dyro Mashup)",
+      "remix": "",
+      "label": "REVEALED/ATLANTIC/MAD DECENT",
+      "trackId": "1480412",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 820,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Dyro vs. Alesso vs. Bingo Players ft. Dynamite MC",
+      "title": "Against All Odds vs. Raise Your Head vs. Buzzcut (Dyro Mashup)",
+      "remix": "",
+      "label": "REFUNE/HYSTERIA/WOLV",
+      "trackId": "1480977",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 972,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Dyro",
+      "title": "Sounds Like",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1480413",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1110,
+      "mediaIds": {
+        "spotify": "190966",
+        "youtube": "190966",
+        "soundcloud": "190966",
+        "appleMusic": "190966"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dyro",
+          "title": "Sounds Like",
+          "remix": "",
+          "trackId": "1480413"
+        },
+        {
+          "artist": "Style Of Eye ft. Sirena",
+          "title": "Louder (Botnek Weirder Mix)",
+          "remix": "",
+          "trackId": "1496252"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Style Of Eye ft. Sirena",
+      "title": "Louder (Botnek Weirder Mix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "1496252",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1179,
+      "mediaIds": {
+        "spotify": "218526",
+        "youtube": "218526",
+        "soundcloud": "218526",
+        "appleMusic": "218526"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Dyro & Conro ft. Envy Monroe",
+      "title": "Bittersweet",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1480414",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1266,
+      "mediaIds": {
+        "spotify": "259900",
+        "youtube": "259900",
+        "soundcloud": "259900",
+        "appleMusic": "259900"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Bali Bandits vs. Jordy Dazz ft. TJR & VINAI",
+      "title": "Hoy Snoof Zha vs. Disco Nights (Dyro Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/REVEALED/WOLV",
+      "trackId": "1480415",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1462,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Skrillex ft. KillaGraham & Sam Dew",
+      "title": "Stranger",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1484909",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1595,
+      "mediaIds": {
+        "spotify": "185485",
+        "youtube": "185485",
+        "soundcloud": "185485",
+        "appleMusic": "185485"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex ft. KillaGraham & Sam Dew",
+          "title": "Stranger",
+          "remix": "",
+          "trackId": "1484909"
+        },
+        {
+          "artist": "D.O.D",
+          "title": "Enter",
+          "remix": "",
+          "trackId": "1480416"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "D.O.D",
+      "title": "Enter",
+      "remix": "",
+      "label": "WOLV",
+      "trackId": "1480416",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 1639,
+      "mediaIds": {
+        "spotify": "257003",
+        "youtube": "257003",
+        "soundcloud": "257003",
+        "appleMusic": "257003"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "N.E.R.D.",
+      "title": "Lapdance (Dyro Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1480417",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1690,
+      "mediaIds": {
+        "soundcloud": "260567"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Zomboy ft. Armanni Reign",
+      "title": "Outbreak (DISKORD Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "1480418",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1786,
+      "mediaIds": {
+        "spotify": "257021",
+        "soundcloud": "257021"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Jack Ü ft. Fly Boi Keno",
+      "title": "Beats Knockin",
+      "remix": "",
+      "label": "ATLANTIC/MAD DECENT",
+      "trackId": "1481274",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1841,
+      "mediaIds": {
+        "spotify": "214358",
+        "youtube": "214358",
+        "soundcloud": "214358",
+        "appleMusic": "214358"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1480419",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1890,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "1480419"
+        },
+        {
+          "artist": "Rihanna",
+          "title": "Bitch Better Have My Money (Acappella)",
+          "remix": "",
+          "trackId": "1480981"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rihanna",
+      "title": "Bitch Better Have My Money (Acappella)",
+      "remix": "",
+      "label": "ROC NATION (SONY)",
+      "trackId": "1480981",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "248876",
+        "youtube": "257213",
+        "soundcloud": "248876",
+        "appleMusic": "248876"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Dyro",
+      "title": "Go Down",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1480420",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2070,
+      "mediaIds": {
+        "spotify": "156646",
+        "youtube": "156646",
+        "soundcloud": "156646",
+        "appleMusic": "156646"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Ghosts 'n' Stuff (Chuckie Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "1480982",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2261,
+      "mediaIds": {
+        "spotify": "222197",
+        "youtube": "222197",
+        "soundcloud": "222197",
+        "appleMusic": "222197"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Dyro & Bassjackers",
+      "title": "X",
+      "remix": "",
+      "label": "WOLV",
+      "trackId": "1480422",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2350,
+      "mediaIds": {
+        "spotify": "225191",
+        "youtube": "225191",
+        "soundcloud": "225191",
+        "appleMusic": "225191"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Dyro",
+      "title": "Pure Noise",
+      "remix": "",
+      "label": "WOLV",
+      "trackId": "1480423",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2505,
+      "mediaIds": {
+        "spotify": "247082",
+        "youtube": "247082",
+        "soundcloud": "247082",
+        "appleMusic": "247082"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dyro",
+          "title": "Pure Noise",
+          "remix": "",
+          "trackId": "1480423"
+        },
+        {
+          "artist": "David Guetta & GLOWINTHEDARK ft. Harrison",
+          "title": "Ain't A Party (Acappella)",
+          "remix": "",
+          "trackId": "1483949"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta & GLOWINTHEDARK ft. Harrison",
+      "title": "Ain't A Party (Acappella)",
+      "remix": "",
+      "label": "JACK BACK",
+      "trackId": "1483949",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 2550,
+      "mediaIds": {
+        "spotify": "125192",
+        "youtube": "125192",
+        "soundcloud": "196247",
+        "appleMusic": "125192"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Guetta & GLOWINTHEDARK ft. Harrison",
+          "title": "Ain't A Party (Acappella)",
+          "remix": "",
+          "trackId": "1483949"
+        },
+        {
+          "artist": "Alesso",
+          "title": "Raise Your Head (Acappella)",
+          "remix": "",
+          "trackId": "1481275"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alesso",
+      "title": "Raise Your Head (Acappella)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "1481275",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "47971",
+        "youtube": "81528",
+        "soundcloud": "81528",
+        "appleMusic": "47971"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Lazer Lazer Lazer",
+      "title": "Concussion",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1480424",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2626,
+      "mediaIds": {
+        "youtube": "263801",
+        "soundcloud": "263801"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lazer Lazer Lazer",
+          "title": "Concussion",
+          "remix": "",
+          "trackId": "1480424"
+        },
+        {
+          "artist": "Aero Chord",
+          "title": "Saiko",
+          "remix": "",
+          "trackId": "1481391"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Aero Chord",
+      "title": "Saiko",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "1481391",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "254010",
+        "youtube": "254010",
+        "soundcloud": "254010",
+        "appleMusic": "254010"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Dyro vs. Flosstradamus ft. Casino",
+      "title": "Black Smoke vs. Mosh Pit (Dyro Mashup)",
+      "remix": "",
+      "label": "FOOL'S GOLD/ULTRA/REVEALED",
+      "trackId": "1480425",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2730,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "YOGI & Pusha T vs. Jay Cosmic & Havok Roth",
+      "title": "Super Burial (Dyro Mashup)",
+      "remix": "",
+      "label": "OWSLA/FREE",
+      "trackId": "1480426",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2820,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Lil Boosie",
+      "title": "Crazy (Brillz & SNAILS Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1484910",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2955,
+      "mediaIds": {
+        "youtube": "231918",
+        "soundcloud": "231918"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Skrillex ft. Ragga Twins",
+      "title": "Ragga Bomb (Skrillex & Zomboy Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "1480427",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3004,
+      "mediaIds": {
+        "spotify": "222598",
+        "youtube": "222598",
+        "soundcloud": "222598",
+        "appleMusic": "222598"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Rae Sremmurd",
+      "title": "No Type(Prod. by Mike WiLL Made It) (Party Favor Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "1480428",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3060,
+      "mediaIds": {
+        "youtube": "225478",
+        "soundcloud": "225478"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Diplo & Alvaro ft. Kstylis",
+      "title": "6th Gear (GTA Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1480429",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3087,
+      "mediaIds": {
+        "spotify": "216486",
+        "youtube": "216486",
+        "soundcloud": "216486",
+        "appleMusic": "216486"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Rogue vs. Knife Party",
+      "title": "Rattlesnake vs. Boss Mode (Dyro Mashup)",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT/MONSTERCAT",
+      "trackId": "1480984",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T08:22:36.810Z",
+  "scrapeVersion": 2
+}

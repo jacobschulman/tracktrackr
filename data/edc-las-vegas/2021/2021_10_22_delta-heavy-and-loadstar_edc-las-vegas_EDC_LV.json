@@ -1,0 +1,848 @@
+{
+  "tlId": "tgruskk",
+  "dj": "Delta Heavy & Loadstar",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-22",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/tgruskk/delta-heavy-loadstar-basspod-edc-las-vegas-united-states-2021-10-22.html",
+  "djs": [
+    {
+      "name": "Delta Heavy",
+      "slug": "deltaheavy"
+    },
+    {
+      "name": "Loadstar",
+      "slug": "loadstar"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Dimension",
+      "title": "Organ",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6865581",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "666395",
+        "youtube": "666395",
+        "soundcloud": "666395",
+        "appleMusic": "666395"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Delta Heavy",
+      "title": "Space Time (VIP)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6885951",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "629572",
+        "youtube": "629572",
+        "soundcloud": "629572",
+        "appleMusic": "629572"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Sub Focus",
+      "title": "Solar System",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "6865582",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "511201",
+        "youtube": "511201",
+        "soundcloud": "511201",
+        "appleMusic": "511201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Delta Heavy",
+      "title": "I Need You",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "6865583",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "400826",
+        "youtube": "400826",
+        "soundcloud": "400826",
+        "appleMusic": "400826"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Pendulum",
+      "title": "Driver",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "6865584",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "616382",
+        "youtube": "616382",
+        "soundcloud": "616382",
+        "appleMusic": "616382"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Metrik",
+      "title": "Hackers",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "6865585",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "486026",
+        "youtube": "486026",
+        "soundcloud": "486026",
+        "appleMusic": "486026"
+      },
+      "blendGroup": [
+        {
+          "artist": "Metrik",
+          "title": "Hackers",
+          "remix": "",
+          "trackId": "6865585"
+        },
+        {
+          "artist": "Culture Shock",
+          "title": "Low Frequency",
+          "remix": "",
+          "trackId": "6865586"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Culture Shock",
+      "title": "Low Frequency",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6865586",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "347824",
+        "soundcloud": "347824"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Dimension",
+      "title": "Offender",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6865587",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "639015",
+        "youtube": "639015",
+        "soundcloud": "639015",
+        "appleMusic": "639015"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Camo & Krooked & Mefjus",
+      "title": "Sientelo",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "6865588",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "716397",
+        "youtube": "716397",
+        "soundcloud": "716397",
+        "appleMusic": "716397"
+      },
+      "blendGroup": [
+        {
+          "artist": "Camo & Krooked & Mefjus",
+          "title": "Sientelo",
+          "remix": "",
+          "trackId": "6865588"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6885952"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6885952",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 559,
+      "mediaIds": null
+    },
+    {
+      "pos": "09",
+      "artist": "Sub Focus",
+      "title": "Timewarp (Dimension Remix)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6865589",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "704722",
+        "youtube": "704722",
+        "soundcloud": "704722",
+        "appleMusic": "704722"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Delta Heavy",
+      "title": "Work It",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "6865590",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "722985",
+        "youtube": "722985",
+        "soundcloud": "722985",
+        "appleMusic": "722985"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Metrik",
+      "title": "Fatso (VIP)",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "6885953",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 772,
+      "mediaIds": {
+        "spotify": "369685",
+        "youtube": "369685",
+        "appleMusic": "369685"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Sub Focus",
+      "title": "Airplane (Culture Shock Remix)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6865591",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "622740",
+        "youtube": "622740",
+        "soundcloud": "622740",
+        "appleMusic": "622740"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "The Prototypes",
+      "title": "Pale Blue Dot",
+      "remix": "",
+      "label": "VIPER",
+      "trackId": "6885954",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 945,
+      "mediaIds": {
+        "spotify": "174388",
+        "youtube": "174388",
+        "soundcloud": "174388",
+        "appleMusic": "174388"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Delta Heavy",
+      "title": "White Flag (VIP)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6865592",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "295633",
+        "youtube": "295633",
+        "soundcloud": "295633",
+        "appleMusic": "295633"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Zeds Dead & MKLA",
+      "title": "Alive (Bensley Remix)",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "6865593",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "739716",
+        "youtube": "739716",
+        "soundcloud": "739716",
+        "appleMusic": "739716"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Krakota",
+      "title": "Take Me There",
+      "remix": "",
+      "label": "SLEEPLESS MUSIC",
+      "trackId": "6865594",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "666045",
+        "youtube": "666045",
+        "soundcloud": "666045",
+        "appleMusic": "666045"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "JAUZ & Netsky",
+      "title": "Higher (The Prototypes Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "6865595",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "310543",
+        "youtube": "310543",
+        "soundcloud": "310543",
+        "appleMusic": "310543"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Wilkinson & Solardo & Eli Brown",
+      "title": "XTC (Remix)",
+      "remix": "",
+      "label": "SLEEPLESS MUSIC",
+      "trackId": "6865596",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "671298",
+        "youtube": "671298",
+        "soundcloud": "671298",
+        "appleMusic": "671298"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Culture Shock",
+      "title": "Rise",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6865597",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "732416",
+        "youtube": "732416",
+        "soundcloud": "732416",
+        "appleMusic": "732416"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Delta Heavy",
+      "title": "Kaleidoscope",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6865598",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "356068",
+        "youtube": "356068",
+        "soundcloud": "356068",
+        "appleMusic": "356068"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Disclosure ft. Eliza Doolittle",
+      "title": "You & Me (Flume Remix / Used Bootleg)",
+      "remix": "",
+      "label": "PMR",
+      "trackId": "6865599",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1652,
+      "mediaIds": {
+        "youtube": "736382",
+        "soundcloud": "736382"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Eric Prydz ft. Jan Burton",
+      "title": "Niton (The Reason) (Sigma Remix)",
+      "remix": "",
+      "label": "PRYDA",
+      "trackId": "6865600",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "25700",
+        "soundcloud": "25700"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Delta Heavy ft. Jem Cooke",
+      "title": "Take Me Home (Protostar Remix)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6865601",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "734632",
+        "youtube": "734632",
+        "soundcloud": "734632"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Fred V & Grafix",
+      "title": "Cinematic Party Music",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "6885955",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1845,
+      "mediaIds": {
+        "spotify": "558349",
+        "youtube": "558349",
+        "soundcloud": "558349",
+        "appleMusic": "558349"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fred V & Grafix",
+          "title": "Cinematic Party Music",
+          "remix": "",
+          "trackId": "6885955"
+        },
+        {
+          "artist": "Wilkinson ft. Becky Hill",
+          "title": "Afterglow (Acappella)",
+          "remix": "",
+          "trackId": "6885956"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wilkinson ft. Becky Hill",
+      "title": "Afterglow (Acappella)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6885956",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "149193",
+        "youtube": "149193",
+        "soundcloud": "149193",
+        "appleMusic": "149193"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Loadstar",
+      "title": "Link To The Past",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6885957",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 1932,
+      "mediaIds": {
+        "spotify": "77952",
+        "youtube": "77952",
+        "soundcloud": "77952",
+        "appleMusic": "77952"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Noisia & Prolix",
+      "title": "Asteroids",
+      "remix": "",
+      "label": "VISION",
+      "trackId": "6865602",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "186867",
+        "youtube": "186867",
+        "soundcloud": "186867",
+        "appleMusic": "186867"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "DJ Hazard",
+      "title": "Bricks Don't Roll",
+      "remix": "",
+      "label": "PLAYAZ",
+      "trackId": "6865603",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2056,
+      "mediaIds": {
+        "spotify": "203160",
+        "youtube": "203160",
+        "soundcloud": "203160",
+        "appleMusic": "203160"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Netsky & Darren Styles",
+      "title": "Look At Me Go",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "6865604",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "531255",
+        "youtube": "531255",
+        "soundcloud": "531255",
+        "appleMusic": "531255"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Sub Focus",
+      "title": "Siren",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "6865605",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "512171",
+        "youtube": "512171",
+        "soundcloud": "512171",
+        "appleMusic": "512171"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Kanine",
+      "title": "Higher",
+      "remix": "",
+      "label": "UNLEASHED",
+      "trackId": "6865606",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "709555",
+        "youtube": "709555",
+        "appleMusic": "709555"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Opposition",
+      "title": "Opposition",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "6885958",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2310,
+      "mediaIds": {
+        "spotify": "735882",
+        "youtube": "735882",
+        "soundcloud": "735882",
+        "appleMusic": "735882"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Sub Focus",
+      "title": "Stomp (Bastion Remix)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6865607",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "719372",
+        "youtube": "719372",
+        "soundcloud": "719372",
+        "appleMusic": "719372"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Prolix ft. DC Breaks",
+      "title": "Beat Down",
+      "remix": "",
+      "label": "BLACKOUT MUSIC",
+      "trackId": "6865608",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "439975",
+        "youtube": "439975",
+        "soundcloud": "439975",
+        "appleMusic": "439975"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Sub Focus & Dimension",
+      "title": "Desire",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "6865609",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "442447",
+        "youtube": "442447",
+        "soundcloud": "442447",
+        "appleMusic": "442447"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sub Focus & Dimension",
+          "title": "Desire",
+          "remix": "",
+          "trackId": "6865609"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6885959"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6885959",
+      "row": 34,
+      "type": "blend",
+      "cueTime": 2617,
+      "mediaIds": null
+    },
+    {
+      "pos": "35",
+      "artist": "Prospa",
+      "title": "WANT NEED LOVE (Dimension Remix)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "6865610",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "723760",
+        "youtube": "723760",
+        "soundcloud": "723760",
+        "appleMusic": "723760"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6885960",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 2831,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "The Prodigy",
+      "title": "Voodoo People (Pendulum Remix)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "6865611",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "48461",
+        "youtube": "48461",
+        "soundcloud": "48461",
+        "appleMusic": "48461"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "deadmau5",
+      "title": "Strobe (Dimension Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "6865612",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "326335",
+        "youtube": "326335",
+        "soundcloud": "326335",
+        "appleMusic": "326335"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "CamelPhat ft. LOWES",
+      "title": "Easier (Sub Focus Remix)",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "6865613",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "646937",
+        "youtube": "646937",
+        "soundcloud": "646937",
+        "appleMusic": "646937"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "RL Grime ft. Daya",
+      "title": "I Wanna Know(Co-Prod. by MYRNE) (Netsky Remix)",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "6865614",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "573411",
+        "soundcloud": "573411"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "2519144",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/BassHeadUp"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:42:58.188Z",
+  "scrapeVersion": 2
+}

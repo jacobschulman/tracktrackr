@@ -1,0 +1,1818 @@
+{
+  "tlId": "h30589t",
+  "dj": "Elephante",
+  "stage": "EDC Las Vegas",
+  "date": "2019-05-17",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/h30589t/elephante-circuitgrounds-edc-las-vegas-united-states-2019-05-17.html",
+  "djs": [
+    {
+      "name": "Elephante",
+      "slug": "elephante"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Elephante ft. Brandyn Burnette",
+      "title": "Plans (VIP Mix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4131858",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Gammer",
+      "title": "The Drop",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "4131857",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 69,
+      "mediaIds": {
+        "spotify": "382735",
+        "youtube": "382735",
+        "soundcloud": "382735",
+        "appleMusic": "382735"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Icona Pop ft. Charli xcx",
+      "title": "I Love It (SICK INDIVIDUALS Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "4131859",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 100,
+      "mediaIds": {
+        "spotify": "100768",
+        "youtube": "100768",
+        "soundcloud": "100768",
+        "appleMusic": "100768"
+      },
+      "blendGroup": [
+        {
+          "artist": "Icona Pop ft. Charli xcx",
+          "title": "I Love It (SICK INDIVIDUALS Remix)",
+          "remix": "",
+          "trackId": "4131859"
+        },
+        {
+          "artist": "Tiësto & Sevenn",
+          "title": "BOOM",
+          "remix": "",
+          "trackId": "4131861"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & Sevenn",
+      "title": "BOOM",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/UMG",
+      "trackId": "4131861",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 141,
+      "mediaIds": {
+        "spotify": "351739",
+        "youtube": "351739",
+        "soundcloud": "351739",
+        "appleMusic": "351739"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & Sevenn",
+          "title": "BOOM",
+          "remix": "",
+          "trackId": "4131861"
+        },
+        {
+          "artist": "Jaguar Skills",
+          "title": "Lick Off",
+          "remix": "",
+          "trackId": "4131860"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jaguar Skills",
+      "title": "Lick Off",
+      "remix": "",
+      "label": "FOUR40",
+      "trackId": "4131860",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 145,
+      "mediaIds": {
+        "spotify": "455994",
+        "youtube": "455994",
+        "soundcloud": "455994",
+        "appleMusic": "455994"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "DJ Snake",
+      "title": "Propaganda",
+      "remix": "",
+      "label": "DJ SNAKE/INTERSCOPE",
+      "trackId": "5155251",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 175,
+      "mediaIds": {
+        "spotify": "288201",
+        "youtube": "288201",
+        "soundcloud": "288201",
+        "appleMusic": "288201"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake",
+          "title": "Propaganda",
+          "remix": "",
+          "trackId": "5155251"
+        },
+        {
+          "artist": "Dr. Dre ft. Eminem",
+          "title": "Forgot About Dre",
+          "remix": "(Acappella)",
+          "trackId": "4141624"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dr. Dre ft. Eminem",
+      "title": "Forgot About Dre",
+      "remix": "(Acappella)",
+      "label": "INTERSCOPE",
+      "trackId": "4141624",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 182,
+      "mediaIds": {
+        "spotify": "19433",
+        "youtube": "19433",
+        "soundcloud": "19433",
+        "appleMusic": "19433"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dr. Dre ft. Eminem",
+          "title": "Forgot About Dre",
+          "remix": "(Acappella)",
+          "trackId": "4141624"
+        },
+        {
+          "artist": "Dirtyphonics",
+          "title": "Boombox",
+          "remix": "",
+          "trackId": "4141625"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dirtyphonics",
+      "title": "Boombox",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "4141625",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 209,
+      "mediaIds": {
+        "spotify": "357437",
+        "youtube": "357437",
+        "soundcloud": "357437",
+        "appleMusic": "357437"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dirtyphonics",
+          "title": "Boombox",
+          "remix": "",
+          "trackId": "4141625"
+        },
+        {
+          "artist": "Gammer",
+          "title": "The Drop (Stonebank Remix)",
+          "remix": "",
+          "trackId": "4131863"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gammer",
+      "title": "The Drop (Stonebank Remix)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "4131863",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 211,
+      "mediaIds": {
+        "spotify": "420031",
+        "youtube": "420031",
+        "soundcloud": "420031",
+        "appleMusic": "420031"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Heads Will Roll (A-Trak Remix)",
+      "remix": "",
+      "label": "DGC",
+      "trackId": "4131864",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": {
+        "spotify": "11556",
+        "youtube": "11556",
+        "soundcloud": "11556",
+        "appleMusic": "11556"
+      },
+      "blendGroup": [
+        {
+          "artist": "Yeah Yeah Yeahs",
+          "title": "Heads Will Roll (A-Trak Remix)",
+          "remix": "",
+          "trackId": "4131864"
+        },
+        {
+          "artist": "dialedIN",
+          "title": "My Fire",
+          "remix": "",
+          "trackId": "4131865"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "dialedIN",
+      "title": "My Fire",
+      "remix": "",
+      "label": "SUPER 7",
+      "trackId": "4131865",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 277,
+      "mediaIds": {
+        "spotify": "441210",
+        "youtube": "441210",
+        "soundcloud": "441210",
+        "appleMusic": "441210"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "2 Unlimited vs. Gammer",
+      "title": "Ready vs. The Drop (Codeko Edit)",
+      "remix": "",
+      "label": "BYTE/MONSTERCAT",
+      "trackId": "4131866",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 310,
+      "mediaIds": {
+        "soundcloud": "456812"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "RL Grime",
+      "title": "Core",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "4131867",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 363,
+      "mediaIds": {
+        "spotify": "205232",
+        "youtube": "205232",
+        "soundcloud": "205232",
+        "appleMusic": "205232"
+      },
+      "blendGroup": [
+        {
+          "artist": "RL Grime",
+          "title": "Core",
+          "remix": "",
+          "trackId": "4131867"
+        },
+        {
+          "artist": "Sheck Wes",
+          "title": "Mo Bamba",
+          "remix": "",
+          "trackId": "4131868"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sheck Wes",
+      "title": "Mo Bamba",
+      "remix": "",
+      "label": "CACTUS JACK",
+      "trackId": "4131868",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "414142",
+        "youtube": "414142",
+        "soundcloud": "414142",
+        "appleMusic": "414142"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sheck Wes",
+          "title": "Mo Bamba",
+          "remix": "",
+          "trackId": "4131868"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4141626"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4141626",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 425,
+      "mediaIds": null
+    },
+    {
+      "pos": "08",
+      "artist": "Duckwrth",
+      "title": "Start A Riot",
+      "remix": "",
+      "label": "",
+      "trackId": "4131869",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 458,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Duckwrth",
+          "title": "Start A Riot",
+          "remix": "",
+          "trackId": "4131869"
+        },
+        {
+          "artist": "Elephante",
+          "title": "Red Smoke",
+          "remix": "",
+          "trackId": "4131870"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Elephante",
+      "title": "Red Smoke",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4131870",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 485,
+      "mediaIds": {
+        "spotify": "421597",
+        "youtube": "421597",
+        "soundcloud": "421597",
+        "appleMusic": "421597"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Elephante ft. Matluck",
+      "title": "Come Back For You",
+      "remix": "",
+      "label": "ELEPHANTE",
+      "trackId": "4131871",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 552,
+      "mediaIds": {
+        "spotify": "390251",
+        "youtube": "390251",
+        "soundcloud": "390251",
+        "appleMusic": "390251"
+      },
+      "blendGroup": [
+        {
+          "artist": "Elephante ft. Matluck",
+          "title": "Come Back For You",
+          "remix": "",
+          "trackId": "4131871"
+        },
+        {
+          "artist": "RL Grime",
+          "title": "Feel Free (BLVK SHEEP Remix)",
+          "remix": "",
+          "trackId": "4131872"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RL Grime",
+      "title": "Feel Free (BLVK SHEEP Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4131872",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 653,
+      "mediaIds": {
+        "youtube": "465150",
+        "soundcloud": "465150"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Porter Robinson ft. Amy Millan",
+      "title": "Divinity",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "4132087",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 690,
+      "mediaIds": {
+        "spotify": "211957",
+        "youtube": "211957",
+        "soundcloud": "211957",
+        "appleMusic": "211957"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Major Lazer ft. Justin Bieber & MØ",
+      "title": "Cold Water",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "4131873",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 751,
+      "mediaIds": {
+        "spotify": "317804",
+        "youtube": "317804",
+        "soundcloud": "317804",
+        "appleMusic": "317804"
+      },
+      "blendGroup": [
+        {
+          "artist": "Major Lazer ft. Justin Bieber & MØ",
+          "title": "Cold Water",
+          "remix": "",
+          "trackId": "4131873"
+        },
+        {
+          "artist": "Ephwurd & SWAGE",
+          "title": "Hectic",
+          "remix": "",
+          "trackId": "4131874"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ephwurd & SWAGE",
+      "title": "Hectic",
+      "remix": "",
+      "label": "EPH'D UP",
+      "trackId": "4131874",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 811,
+      "mediaIds": {
+        "spotify": "472296",
+        "youtube": "472296",
+        "soundcloud": "472296",
+        "appleMusic": "472296"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Wolfgang Gartner",
+      "title": "Redline",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "4131875",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 842,
+      "mediaIds": {
+        "spotify": "71526",
+        "youtube": "71526",
+        "soundcloud": "71526",
+        "appleMusic": "71526"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wolfgang Gartner",
+          "title": "Redline",
+          "remix": "",
+          "trackId": "4131875"
+        },
+        {
+          "artist": "The Killers",
+          "title": "Mr. Brightside (Acappella)",
+          "remix": "",
+          "trackId": "4131876"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Killers",
+      "title": "Mr. Brightside (Acappella)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "4131876",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "13886",
+        "youtube": "13886",
+        "soundcloud": "13886",
+        "appleMusic": "13886"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Killers",
+          "title": "Mr. Brightside (Acappella)",
+          "remix": "",
+          "trackId": "4131876"
+        },
+        {
+          "artist": "WAVEDASH & QUEST! ft. fknsyd",
+          "title": "Devil Music",
+          "remix": "",
+          "trackId": "4141627"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "WAVEDASH & QUEST! ft. fknsyd",
+      "title": "Devil Music",
+      "remix": "",
+      "label": "MAD ZOO",
+      "trackId": "4141627",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 902,
+      "mediaIds": {
+        "spotify": "415843",
+        "youtube": "415843",
+        "soundcloud": "415843",
+        "appleMusic": "415843"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4131877",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 933,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4131877"
+        },
+        {
+          "artist": "Calvin Harris & Dua Lipa",
+          "title": "One Kiss",
+          "remix": "(Acappella)",
+          "trackId": "4131878"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris & Dua Lipa",
+      "title": "One Kiss",
+      "remix": "(Acappella)",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "4131878",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "409548",
+        "youtube": "409548",
+        "soundcloud": "409548",
+        "appleMusic": "409548"
+      },
+      "blendGroup": [
+        {
+          "artist": "Calvin Harris & Dua Lipa",
+          "title": "One Kiss",
+          "remix": "(Acappella)",
+          "trackId": "4131878"
+        },
+        {
+          "artist": "Elephante ft. Lyon Hart",
+          "title": "Shake The Earth",
+          "remix": "",
+          "trackId": "4141628"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Elephante ft. Lyon Hart",
+      "title": "Shake The Earth",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4141628",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 1002,
+      "mediaIds": {
+        "spotify": "228305",
+        "youtube": "228305",
+        "soundcloud": "228305",
+        "appleMusic": "228305"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Sander van Doorn & Martin Garrix & DVBBS ft. Aleesia",
+      "title": "Gold Skies (Elephante Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4131879",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1027,
+      "mediaIds": {
+        "youtube": "207383",
+        "soundcloud": "207383"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Can't Stop",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "4131880",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1140,
+      "mediaIds": {
+        "spotify": "17736",
+        "youtube": "17736",
+        "soundcloud": "17736",
+        "appleMusic": "17736"
+      },
+      "blendGroup": [
+        {
+          "artist": "Red Hot Chili Peppers",
+          "title": "Can't Stop",
+          "remix": "",
+          "trackId": "4131880"
+        },
+        {
+          "artist": "Flux Pavilion",
+          "title": "I Can't Stop (Acappella)",
+          "remix": "",
+          "trackId": "4131881"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flux Pavilion",
+      "title": "I Can't Stop (Acappella)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "4131881",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1180,
+      "mediaIds": {
+        "spotify": "43243",
+        "youtube": "43243",
+        "soundcloud": "180475",
+        "appleMusic": "43243"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flux Pavilion",
+          "title": "I Can't Stop (Acappella)",
+          "remix": "",
+          "trackId": "4131881"
+        },
+        {
+          "artist": "Ape Drums ft. Denzel Curry & Frizzo",
+          "title": "Shellz",
+          "remix": "",
+          "trackId": "4141629"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ape Drums ft. Denzel Curry & Frizzo",
+      "title": "Shellz",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4141629",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1182,
+      "mediaIds": {
+        "spotify": "421508",
+        "youtube": "421508",
+        "soundcloud": "421508",
+        "appleMusic": "421508"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Cardi B",
+      "title": "Bodak Yellow (Xztho Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "4141630",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1207,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Cardi B",
+          "title": "Bodak Yellow (Xztho Remix)",
+          "remix": "",
+          "trackId": "4141630"
+        },
+        {
+          "artist": "Damian Marley",
+          "title": "Welcome To Jamrock (Acappella)",
+          "remix": "",
+          "trackId": "4141631"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Damian Marley",
+      "title": "Welcome To Jamrock (Acappella)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "4141631",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 1244,
+      "mediaIds": {
+        "spotify": "16466",
+        "youtube": "30000",
+        "soundcloud": "16466",
+        "appleMusic": "16466"
+      },
+      "blendGroup": [
+        {
+          "artist": "Damian Marley",
+          "title": "Welcome To Jamrock (Acappella)",
+          "remix": "",
+          "trackId": "4141631"
+        },
+        {
+          "artist": "YOGI & Skrillex ft. Pusha T & Moody Good & TrollPhace",
+          "title": "Burial",
+          "remix": "",
+          "trackId": "4141632"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "YOGI & Skrillex ft. Pusha T & Moody Good & TrollPhace",
+      "title": "Burial",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "4141632",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 1246,
+      "mediaIds": {
+        "spotify": "262746",
+        "youtube": "262746",
+        "soundcloud": "262746",
+        "appleMusic": "262746"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Elephante",
+      "title": "Black Ivory",
+      "remix": "",
+      "label": "ELEPHANTE",
+      "trackId": "4131882",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1272,
+      "mediaIds": {
+        "spotify": "292442",
+        "youtube": "292442",
+        "soundcloud": "292442",
+        "appleMusic": "292442"
+      },
+      "blendGroup": [
+        {
+          "artist": "Elephante",
+          "title": "Black Ivory",
+          "remix": "",
+          "trackId": "4131882"
+        },
+        {
+          "artist": "A$AP Ferg",
+          "title": "Plain Jane",
+          "remix": "(Acappella)",
+          "trackId": "4141633"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "A$AP Ferg",
+      "title": "Plain Jane",
+      "remix": "(Acappella)",
+      "label": "RCA (SONY)",
+      "trackId": "4141633",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1284,
+      "mediaIds": {
+        "spotify": "386579",
+        "youtube": "386579",
+        "soundcloud": "386579",
+        "appleMusic": "386579"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Elephante ft. Anjulie",
+      "title": "The In Between (Elephante ZOO Mix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4131883",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1350,
+      "mediaIds": {
+        "spotify": "498480",
+        "youtube": "498480",
+        "soundcloud": "498480",
+        "appleMusic": "498480"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Elephante ft. Jessica Jarrell",
+      "title": "Hold",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4131884",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1460,
+      "mediaIds": {
+        "spotify": "325351",
+        "youtube": "325351",
+        "soundcloud": "325351",
+        "appleMusic": "325351"
+      },
+      "blendGroup": [
+        {
+          "artist": "Elephante ft. Jessica Jarrell",
+          "title": "Hold",
+          "remix": "",
+          "trackId": "4131884"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "Bonfire",
+          "remix": "",
+          "trackId": "4141634"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "Bonfire",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "4141634",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 1492,
+      "mediaIds": {
+        "spotify": "72025",
+        "youtube": "72025",
+        "soundcloud": "72025",
+        "appleMusic": "72025"
+      },
+      "blendGroup": [
+        {
+          "artist": "Knife Party",
+          "title": "Bonfire",
+          "remix": "",
+          "trackId": "4141634"
+        },
+        {
+          "artist": "graves & TYNVN",
+          "title": "The Holy Mountain",
+          "remix": "",
+          "trackId": "4141635"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "graves & TYNVN",
+      "title": "The Holy Mountain",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4141635",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 1513,
+      "mediaIds": {
+        "spotify": "301643",
+        "youtube": "301643",
+        "soundcloud": "301643"
+      },
+      "blendGroup": [
+        {
+          "artist": "graves & TYNVN",
+          "title": "The Holy Mountain",
+          "remix": "",
+          "trackId": "4141635"
+        },
+        {
+          "artist": "TYNAN & 1788-L",
+          "title": "A B Y S S",
+          "remix": "",
+          "trackId": "4141636"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TYNAN & 1788-L",
+      "title": "A B Y S S",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "4141636",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 1555,
+      "mediaIds": {
+        "spotify": "455759",
+        "youtube": "455759",
+        "soundcloud": "455759",
+        "appleMusic": "455759"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Elephante ft. Nevve",
+      "title": "Catching On",
+      "remix": "",
+      "label": "ELEPHANTE",
+      "trackId": "4131885",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1575,
+      "mediaIds": {
+        "spotify": "317492",
+        "youtube": "317492",
+        "soundcloud": "317492",
+        "appleMusic": "317492"
+      },
+      "blendGroup": [
+        {
+          "artist": "Elephante ft. Nevve",
+          "title": "Catching On",
+          "remix": "",
+          "trackId": "4131885"
+        },
+        {
+          "artist": "ODESZA",
+          "title": "Loyal (Deathpact Reprise)",
+          "remix": "",
+          "trackId": "4141637"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ODESZA",
+      "title": "Loyal (Deathpact Reprise)",
+      "remix": "",
+      "label": "NINJA",
+      "trackId": "4141637",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 1723,
+      "mediaIds": {
+        "youtube": "455439",
+        "soundcloud": "455439"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "RL Grime",
+      "title": "Pressure(Co-Prod. by Boys Noize)",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "4141638",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1763,
+      "mediaIds": {
+        "spotify": "427086",
+        "youtube": "427086",
+        "soundcloud": "427086",
+        "appleMusic": "427086"
+      },
+      "blendGroup": [
+        {
+          "artist": "RL Grime",
+          "title": "Pressure(Co-Prod. by Boys Noize)",
+          "remix": "",
+          "trackId": "4141638"
+        },
+        {
+          "artist": "Elephante ft. Deb's Daughter",
+          "title": "Troubled",
+          "remix": "",
+          "trackId": "4131887"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Elephante ft. Deb's Daughter",
+      "title": "Troubled",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4131887",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 1771,
+      "mediaIds": {
+        "spotify": "361406",
+        "youtube": "361406",
+        "soundcloud": "361406",
+        "appleMusic": "361406"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Elephante",
+      "title": "Shooting Stars (Bag Raiders Cover)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4131888",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1868,
+      "mediaIds": {
+        "youtube": "233182",
+        "soundcloud": "233182"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Galantis",
+      "title": "Help (Elephante Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "4131889",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2040,
+      "mediaIds": {
+        "spotify": "210458",
+        "youtube": "210458",
+        "soundcloud": "210458",
+        "appleMusic": "210458"
+      },
+      "blendGroup": [
+        {
+          "artist": "Galantis",
+          "title": "Help (Elephante Remix)",
+          "remix": "",
+          "trackId": "4131889"
+        },
+        {
+          "artist": "Halsey",
+          "title": "Bad At Love",
+          "remix": "(Acappella)",
+          "trackId": "4131890"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Halsey",
+      "title": "Bad At Love",
+      "remix": "(Acappella)",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "4131890",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 2041,
+      "mediaIds": {
+        "spotify": "382244",
+        "youtube": "382244",
+        "appleMusic": "382244"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Red Hot Chili Peppers",
+      "title": "By The Way (Waiting For)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "4131891",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2148,
+      "mediaIds": {
+        "spotify": "5699",
+        "youtube": "5699",
+        "appleMusic": "5699"
+      },
+      "blendGroup": [
+        {
+          "artist": "Red Hot Chili Peppers",
+          "title": "By The Way (Waiting For)",
+          "remix": "",
+          "trackId": "4131891"
+        },
+        {
+          "artist": "Skrillex & Wolfgang Gartner",
+          "title": "The Devil's Den",
+          "remix": "",
+          "trackId": "4141639"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Wolfgang Gartner",
+      "title": "The Devil's Den",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "4141639",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 2190,
+      "mediaIds": {
+        "spotify": "58336",
+        "youtube": "58336",
+        "soundcloud": "58336",
+        "appleMusic": "58336"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Wolfgang Gartner",
+          "title": "The Devil's Den",
+          "remix": "",
+          "trackId": "4141639"
+        },
+        {
+          "artist": "NOTD & Felix Jaehn ft. Georgia Ku & Captain Cuts",
+          "title": "So Close (Curbi Remix)",
+          "remix": "",
+          "trackId": "4141640"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "NOTD & Felix Jaehn ft. Georgia Ku & Captain Cuts",
+      "title": "So Close (Curbi Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "4141640",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 2216,
+      "mediaIds": {
+        "spotify": "466022",
+        "youtube": "466022",
+        "soundcloud": "466022",
+        "appleMusic": "466022"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Elephante ft. Trouze & Damon Sharpe",
+      "title": "Age Of Innocence",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "4131892",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2249,
+      "mediaIds": {
+        "spotify": "275531",
+        "youtube": "275531",
+        "soundcloud": "275531",
+        "appleMusic": "275531"
+      },
+      "blendGroup": [
+        {
+          "artist": "Elephante ft. Trouze & Damon Sharpe",
+          "title": "Age Of Innocence",
+          "remix": "",
+          "trackId": "4131892"
+        },
+        {
+          "artist": "Ephwurd & Shapes",
+          "title": "Desires",
+          "remix": "",
+          "trackId": "4131893"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ephwurd & Shapes",
+      "title": "Desires",
+      "remix": "",
+      "label": "EPH'D UP",
+      "trackId": "4131893",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 2425,
+      "mediaIds": {
+        "spotify": "495028",
+        "youtube": "495028",
+        "soundcloud": "495028",
+        "appleMusic": "495028"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "Kanye West",
+      "title": "Power",
+      "remix": "",
+      "label": "ROC-A-FELLA/CIRCUS RECORDS",
+      "trackId": "4131894",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2456,
+      "mediaIds": {
+        "spotify": "91977",
+        "youtube": "91977",
+        "soundcloud": "91977",
+        "appleMusic": "91977"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kanye West",
+          "title": "Power",
+          "remix": "",
+          "trackId": "4131894"
+        },
+        {
+          "artist": "4B & Aazar",
+          "title": "Pop Dat",
+          "remix": "",
+          "trackId": "4141641"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "4B & Aazar",
+      "title": "Pop Dat",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4141641",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 2502,
+      "mediaIds": {
+        "spotify": "274002",
+        "youtube": "274002",
+        "soundcloud": "274002",
+        "appleMusic": "274002"
+      },
+      "blendGroup": [
+        {
+          "artist": "4B & Aazar",
+          "title": "Pop Dat",
+          "remix": "",
+          "trackId": "4141641"
+        },
+        {
+          "artist": "Aazar & Sihk",
+          "title": "Fever Dream",
+          "remix": "",
+          "trackId": "4141642"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Aazar & Sihk",
+      "title": "Fever Dream",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "4141642",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 2504,
+      "mediaIds": {
+        "spotify": "428344",
+        "youtube": "428344",
+        "soundcloud": "428344",
+        "appleMusic": "428344"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "Travis Scott",
+      "title": "Stargazing",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "4131895",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2534,
+      "mediaIds": {
+        "spotify": "435173",
+        "youtube": "435173",
+        "soundcloud": "435173",
+        "appleMusic": "435173"
+      },
+      "blendGroup": [
+        {
+          "artist": "Travis Scott",
+          "title": "Stargazing",
+          "remix": "",
+          "trackId": "4131895"
+        },
+        {
+          "artist": "Benny Benassi ft. Gary Go",
+          "title": "Cinema (Skrillex Remix)",
+          "remix": "",
+          "trackId": "4141643"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Benny Benassi ft. Gary Go",
+      "title": "Cinema (Skrillex Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "4141643",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 2566,
+      "mediaIds": {
+        "spotify": "30681",
+        "youtube": "30681",
+        "soundcloud": "30681",
+        "appleMusic": "30681"
+      },
+      "blendGroup": [
+        {
+          "artist": "Benny Benassi ft. Gary Go",
+          "title": "Cinema (Skrillex Remix)",
+          "remix": "",
+          "trackId": "4141643"
+        },
+        {
+          "artist": "Crankdat & Gammer",
+          "title": "Riot",
+          "remix": "",
+          "trackId": "4141644"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Crankdat & Gammer",
+      "title": "Riot",
+      "remix": "",
+      "label": "WELCOME",
+      "trackId": "4141644",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 2568,
+      "mediaIds": {
+        "spotify": "486432",
+        "youtube": "486432",
+        "soundcloud": "486432",
+        "appleMusic": "486432"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Elephante ft. Anjulie",
+      "title": "The In Between",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4131896",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2595,
+      "mediaIds": {
+        "spotify": "414343",
+        "youtube": "414343",
+        "soundcloud": "414343",
+        "appleMusic": "414343"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Major Lazer & DJ Snake ft. MØ",
+      "title": "Lean On (Tiësto & MOTi Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "4131897",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2734,
+      "mediaIds": {
+        "spotify": "246309",
+        "youtube": "246309",
+        "soundcloud": "246309",
+        "appleMusic": "246309"
+      },
+      "blendGroup": [
+        {
+          "artist": "Major Lazer & DJ Snake ft. MØ",
+          "title": "Lean On (Tiësto & MOTi Remix)",
+          "remix": "",
+          "trackId": "4131897"
+        },
+        {
+          "artist": "FISHER",
+          "title": "Losing It",
+          "remix": "",
+          "trackId": "4141645"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "FISHER",
+      "title": "Losing It",
+      "remix": "",
+      "label": "CATCH & RELEASE/ASTRALWERKS",
+      "trackId": "4141645",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 2803,
+      "mediaIds": {
+        "spotify": "417888",
+        "youtube": "417888",
+        "soundcloud": "417888",
+        "appleMusic": "417888"
+      },
+      "blendGroup": [
+        {
+          "artist": "FISHER",
+          "title": "Losing It",
+          "remix": "",
+          "trackId": "4141645"
+        },
+        {
+          "artist": "BIJOU",
+          "title": "Do Not Disturb",
+          "remix": "",
+          "trackId": "4141646"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "BIJOU",
+      "title": "Do Not Disturb",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "4141646",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 2806,
+      "mediaIds": {
+        "spotify": "438314",
+        "soundcloud": "438314",
+        "appleMusic": "438314"
+      }
+    },
+    {
+      "pos": "30",
+      "artist": "Elephante ft. Nevve",
+      "title": "Otherside (MOTi Remix)",
+      "remix": "",
+      "label": "ELEPHANTE",
+      "trackId": "4131898",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2850,
+      "mediaIds": {
+        "spotify": "456936",
+        "youtube": "456936",
+        "soundcloud": "456936",
+        "appleMusic": "456936"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Elephante ft. BISHØP",
+      "title": "Closer",
+      "remix": "",
+      "label": "ELEPHANTE",
+      "trackId": "4131900",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2957,
+      "mediaIds": {
+        "spotify": "300665",
+        "soundcloud": "300665",
+        "appleMusic": "300665"
+      },
+      "blendGroup": [
+        {
+          "artist": "Elephante ft. BISHØP",
+          "title": "Closer",
+          "remix": "",
+          "trackId": "4131900"
+        },
+        {
+          "artist": "Elephante ft. BISHØP",
+          "title": "Closer (Virtu Remix)",
+          "remix": "",
+          "trackId": "4131901"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Elephante ft. BISHØP",
+      "title": "Closer (Virtu Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4131901",
+      "row": 31,
+      "type": "blend",
+      "cueTime": 3060,
+      "mediaIds": {
+        "youtube": "308816"
+      }
+    },
+    {
+      "pos": "32",
+      "artist": "Elephante",
+      "title": "Glass Mansion",
+      "remix": "",
+      "label": "ELEPHANTE",
+      "trackId": "4132088",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 3149,
+      "mediaIds": {
+        "spotify": "421596",
+        "youtube": "421596",
+        "soundcloud": "421596",
+        "appleMusic": "421596"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Elephante ft. Nevve",
+      "title": "Sirens",
+      "remix": "",
+      "label": "ELEPHANTE",
+      "trackId": "4131899",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 3317,
+      "mediaIds": {
+        "spotify": "343929",
+        "youtube": "343929",
+        "soundcloud": "343929",
+        "appleMusic": "343929"
+      },
+      "blendGroup": [
+        {
+          "artist": "Elephante ft. Nevve",
+          "title": "Sirens",
+          "remix": "",
+          "trackId": "4131899"
+        },
+        {
+          "artist": "Avicii ft. Aloe Blacc",
+          "title": "SOS",
+          "remix": "(Acappella)",
+          "trackId": "4132089"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii ft. Aloe Blacc",
+      "title": "SOS",
+      "remix": "(Acappella)",
+      "label": "UMG",
+      "trackId": "4132089",
+      "row": 33,
+      "type": "blend",
+      "cueTime": 3335,
+      "mediaIds": {
+        "spotify": "488011",
+        "youtube": "488011",
+        "soundcloud": "488011",
+        "appleMusic": "488011"
+      }
+    },
+    {
+      "pos": "34",
+      "artist": "Audien & ARTY",
+      "title": "Never Letting Go",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "4132091",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3447,
+      "mediaIds": {
+        "spotify": "452656",
+        "youtube": "452656",
+        "soundcloud": "452656",
+        "appleMusic": "452656"
+      },
+      "blendGroup": [
+        {
+          "artist": "Audien & ARTY",
+          "title": "Never Letting Go",
+          "remix": "",
+          "trackId": "4132091"
+        },
+        {
+          "artist": "Elephante ft. Nevve",
+          "title": "Have It All",
+          "remix": "",
+          "trackId": "4141649"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Elephante ft. Nevve",
+      "title": "Have It All",
+      "remix": "",
+      "label": "ELEPHANTE",
+      "trackId": "4141649",
+      "row": 34,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "423260",
+        "youtube": "423260",
+        "soundcloud": "423260",
+        "appleMusic": "423260"
+      }
+    },
+    {
+      "pos": "35",
+      "artist": "Mako",
+      "title": "Smoke Filled Room (Elephante Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "4132092",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 3545,
+      "mediaIds": {
+        "spotify": "283975",
+        "youtube": "283975",
+        "soundcloud": "283975",
+        "appleMusic": "283975"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Elephante & MIIA",
+      "title": "Dynasty",
+      "remix": "",
+      "label": "RECURRENT",
+      "trackId": "4132093",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 3670,
+      "mediaIds": {
+        "spotify": "282448",
+        "youtube": "282448",
+        "soundcloud": "282448",
+        "appleMusic": "282448"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Elephante ft. Nevve",
+      "title": "Otherside",
+      "remix": "",
+      "label": "ELEPHANTE",
+      "trackId": "4132094",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 3850,
+      "mediaIds": {
+        "spotify": "426422",
+        "youtube": "426422",
+        "soundcloud": "426422",
+        "appleMusic": "426422"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1238631",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=DZqybXODLXE"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "4670791",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=FlvaBBk8fN0"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "1788594",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/CreateRadio"
+    }
+  ],
+  "scrapedAt": "2026-04-08T06:24:19.034Z",
+  "scrapeVersion": 2
+}

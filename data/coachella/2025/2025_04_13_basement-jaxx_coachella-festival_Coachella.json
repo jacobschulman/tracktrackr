@@ -1,0 +1,498 @@
+{
+  "tlId": "2r4m2rk9",
+  "dj": "Basement Jaxx",
+  "stage": "Coachella Festival",
+  "date": "2025-04-13",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/2r4m2rk9/basement-jaxx-mojave-coachella-festival-weekend-1-united-states-2025-04-13.html",
+  "djs": [
+    {
+      "name": "Basement Jaxx",
+      "slug": "basementjaxx"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Basement Jaxx ft. Lisa Kekaula",
+      "title": "Good Luck",
+      "remix": "",
+      "label": "REKIDS",
+      "trackId": "12008479",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "50630",
+        "youtube": "50630",
+        "appleMusic": "50630"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Basement Jaxx",
+      "title": "Bingo Bango",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12008480",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "63448",
+        "youtube": "63448",
+        "soundcloud": "63448",
+        "appleMusic": "63448"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Basement Jaxx",
+      "title": "Jump N Shout",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12008481",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "18845",
+        "youtube": "18845",
+        "soundcloud": "18845",
+        "appleMusic": "18845"
+      },
+      "blendGroup": [
+        {
+          "artist": "Basement Jaxx",
+          "title": "Jump N Shout",
+          "remix": "",
+          "trackId": "12008481"
+        },
+        {
+          "artist": "Suzanne Vega",
+          "title": "Tom's Diner (Acappella)",
+          "remix": "",
+          "trackId": "12009828"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Suzanne Vega",
+      "title": "Tom's Diner (Acappella)",
+      "remix": "",
+      "label": "A&M",
+      "trackId": "12009828",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "25360",
+        "youtube": "25360",
+        "soundcloud": "25360",
+        "appleMusic": "25360"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Basement Jaxx",
+      "title": "Raindrops",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12008482",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5440",
+        "youtube": "5440",
+        "appleMusic": "5440"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Basement Jaxx",
+      "title": "Do Your Thing",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12008483",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "18719",
+        "youtube": "18719",
+        "appleMusic": "18719"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Basement Jaxx",
+      "title": "Red Alert",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12008484",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "18716",
+        "youtube": "18716",
+        "soundcloud": "18716",
+        "appleMusic": "18716"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Rhapsody of Fire",
+      "title": "IRA Tenax",
+      "remix": "",
+      "label": "",
+      "trackId": "12009829",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Basement Jaxx",
+      "title": "Escape",
+      "remix": "",
+      "label": "",
+      "trackId": "12008647",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Basement Jaxx ft. Kele Le Roc",
+      "title": "Romeo",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12008485",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "145161",
+        "youtube": "145161",
+        "soundcloud": "145161",
+        "appleMusic": "145161"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Queen",
+      "title": "Bohemian Rhapsody (Acappella)",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "12009830",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "18718",
+        "youtube": "18718",
+        "soundcloud": "18718",
+        "appleMusic": "18718"
+      },
+      "blendGroup": [
+        {
+          "artist": "Queen",
+          "title": "Bohemian Rhapsody (Acappella)",
+          "remix": "",
+          "trackId": "12009830"
+        },
+        {
+          "artist": "Frankie Knuckles pres.Marshall Jefferson",
+          "title": "Move Your Body",
+          "remix": "",
+          "trackId": "12009831"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Frankie Knuckles pres.Marshall Jefferson",
+      "title": "Move Your Body",
+      "remix": "",
+      "label": "TRAX (PHUTURE TRAX)",
+      "trackId": "12009831",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5072",
+        "youtube": "5072",
+        "appleMusic": "5072"
+      },
+      "blendGroup": [
+        {
+          "artist": "Frankie Knuckles pres.Marshall Jefferson",
+          "title": "Move Your Body",
+          "remix": "",
+          "trackId": "12009831"
+        },
+        {
+          "artist": "CADZOW",
+          "title": "Fkn Nasty",
+          "remix": "",
+          "trackId": "12009832"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "CADZOW",
+      "title": "Fkn Nasty",
+      "remix": "",
+      "label": "PRTY TRAX",
+      "trackId": "12009832",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1026638",
+        "youtube": "1026638",
+        "soundcloud": "1026638",
+        "appleMusic": "1026638"
+      },
+      "blendGroup": [
+        {
+          "artist": "CADZOW",
+          "title": "Fkn Nasty",
+          "remix": "",
+          "trackId": "12009832"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "12009833"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12009833",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "12009833"
+        },
+        {
+          "artist": "Handel",
+          "title": "Zadok the Priest (Coronation Anthem No. 1, HWV 258)",
+          "remix": "",
+          "trackId": "12009834"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Handel",
+      "title": "Zadok the Priest (Coronation Anthem No. 1, HWV 258)",
+      "remix": "",
+      "label": "",
+      "trackId": "12009834",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "11",
+      "artist": "Basement Jaxx",
+      "title": "Rendez-Vu",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12008486",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "34726",
+        "youtube": "34726",
+        "appleMusic": "34726"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Basement Jaxx ft. ETML",
+      "title": "Never Say Never",
+      "remix": "",
+      "label": "ATLANTIC JAXX",
+      "trackId": "12008579",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "196473",
+        "youtube": "196473",
+        "soundcloud": "196473",
+        "appleMusic": "196473"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Basement Jaxx",
+      "title": "Oh My Gosh",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12008609",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "153366",
+        "youtube": "153366",
+        "soundcloud": "153366",
+        "appleMusic": "153366"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Basement Jaxx",
+      "title": "Jus 1 Kiss",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12008610",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "21292",
+        "youtube": "21292",
+        "soundcloud": "21292",
+        "appleMusic": "21292"
+      },
+      "blendGroup": [
+        {
+          "artist": "Basement Jaxx",
+          "title": "Jus 1 Kiss",
+          "remix": "",
+          "trackId": "12008610"
+        },
+        {
+          "artist": "Marky Mark & The Funky Bunch ft. Loleatta Holloway",
+          "title": "Good Vibrations",
+          "remix": "",
+          "trackId": "12008611"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Marky Mark & The Funky Bunch ft. Loleatta Holloway",
+      "title": "Good Vibrations",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "12008611",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "152920",
+        "youtube": "152920",
+        "soundcloud": "152920",
+        "appleMusic": "152920"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Basement Jaxx ft. Siouxsie",
+      "title": "Cish Cash",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12008612",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "757545",
+        "youtube": "757545",
+        "appleMusic": "757545"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Basement Jaxx",
+      "title": "Where's Your Head At?",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12008648",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5190",
+        "youtube": "5190",
+        "soundcloud": "5190",
+        "appleMusic": "5190"
+      },
+      "blendGroup": [
+        {
+          "artist": "Basement Jaxx",
+          "title": "Where's Your Head At?",
+          "remix": "",
+          "trackId": "12008648"
+        },
+        {
+          "artist": "Basement Jaxx",
+          "title": "Where's Your Head At? (1991 Remix)",
+          "remix": "",
+          "trackId": "12009876"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Basement Jaxx",
+      "title": "Where's Your Head At? (1991 Remix)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12009876",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "700114",
+        "youtube": "700114",
+        "soundcloud": "700114",
+        "appleMusic": "700114"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T02:54:07.194Z",
+  "scrapeVersion": 2
+}

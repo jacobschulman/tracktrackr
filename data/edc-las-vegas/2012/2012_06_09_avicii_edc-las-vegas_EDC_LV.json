@@ -1,0 +1,348 @@
+{
+  "tlId": "8dp1c31",
+  "dj": "Avicii",
+  "stage": "EDC Las Vegas",
+  "date": "2012-06-09",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/8dp1c31/avicii-kineticfield-edc-las-vegas-united-states-2012-06-09.html",
+  "djs": [
+    {
+      "name": "Avicii",
+      "slug": "avicii"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Deniz Koyu",
+      "title": "Bong",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "241798",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "72819",
+        "youtube": "72819",
+        "soundcloud": "72819",
+        "appleMusic": "72819"
+      },
+      "blendGroup": [
+        {
+          "artist": "Deniz Koyu",
+          "title": "Bong",
+          "remix": "",
+          "trackId": "241798"
+        },
+        {
+          "artist": "The Who",
+          "title": "Baba O'Riley",
+          "remix": "",
+          "trackId": "241799"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Who",
+      "title": "Baba O'Riley",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "241799",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "43262",
+        "youtube": "43262",
+        "soundcloud": "43262",
+        "appleMusic": "43262"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Avicii vs. Lenny Kravitz",
+      "title": "Superlove",
+      "remix": "",
+      "label": "BIG BEAT/LE7ELS",
+      "trackId": "241800",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69613",
+        "youtube": "69613",
+        "soundcloud": "69613",
+        "appleMusic": "69613"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Tim Berg",
+      "title": "Bromance (Avicii Arena Mix)",
+      "remix": "",
+      "label": "PINKSTAR",
+      "trackId": "241801",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "16116",
+        "youtube": "16116",
+        "soundcloud": "16116",
+        "appleMusic": "16116"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tim Berg",
+          "title": "Bromance (Avicii Arena Mix)",
+          "remix": "",
+          "trackId": "241801"
+        },
+        {
+          "artist": "Tim Berg ft. Amanda Wilson",
+          "title": "Seek Bromance (CAZZETTE & Ash (SE) Vocal Mix)",
+          "remix": "",
+          "trackId": "241802"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tim Berg ft. Amanda Wilson",
+      "title": "Seek Bromance (CAZZETTE & Ash (SE) Vocal Mix)",
+      "remix": "",
+      "label": "PINKSTAR",
+      "trackId": "241802",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "44140",
+        "youtube": "44140",
+        "appleMusic": "44140"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tim Berg ft. Amanda Wilson",
+          "title": "Seek Bromance (CAZZETTE & Ash (SE) Vocal Mix)",
+          "remix": "",
+          "trackId": "241802"
+        },
+        {
+          "artist": "Dave Armstrong",
+          "title": "Make Your Move (Avicii Edit)",
+          "remix": "",
+          "trackId": "241804"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dave Armstrong",
+      "title": "Make Your Move (Avicii Edit)",
+      "remix": "",
+      "label": "EYEZCREAM",
+      "trackId": "241804",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "150094"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Avicii",
+      "title": "Heart Upon My Sleeve",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "241805",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "145407",
+        "youtube": "145407",
+        "soundcloud": "145407",
+        "appleMusic": "145407"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii",
+          "title": "Heart Upon My Sleeve",
+          "remix": "",
+          "trackId": "241805"
+        },
+        {
+          "artist": "Coco Star",
+          "title": "I Need A Miracle",
+          "remix": "",
+          "trackId": "241806"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Coco Star",
+      "title": "I Need A Miracle",
+      "remix": "",
+      "label": "GREENLIGHT",
+      "trackId": "241806",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "78559",
+        "youtube": "78559",
+        "soundcloud": "78559",
+        "appleMusic": "78559"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Avicii",
+      "title": "UMF (Ultra Music Festival Anthem)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "241812",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "61157",
+        "youtube": "61157",
+        "appleMusic": "61157"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii",
+          "title": "UMF (Ultra Music Festival Anthem)",
+          "remix": "",
+          "trackId": "241812"
+        },
+        {
+          "artist": "Avicii ft. Amy Pearson",
+          "title": "Let Me Show You Love (Don't Give Up On Us) (Ash (SE) & Avicii Hype Machine Mix)",
+          "remix": "",
+          "trackId": "241807"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii ft. Amy Pearson",
+      "title": "Let Me Show You Love (Don't Give Up On Us) (Ash (SE) & Avicii Hype Machine Mix)",
+      "remix": "",
+      "label": "PRMD",
+      "trackId": "241807",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "40177",
+        "soundcloud": "40178"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Avicii vs. Mark Knight & Florence + The Machine",
+      "title": "Fade Into Darkness vs. You've Got The Love (Alesso Bootleg)",
+      "remix": "",
+      "label": "TOOLROOM/LE7ELS",
+      "trackId": "241808",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "47467"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii vs. Mark Knight & Florence + The Machine",
+          "title": "Fade Into Darkness vs. You've Got The Love (Alesso Bootleg)",
+          "remix": "",
+          "trackId": "241808"
+        },
+        {
+          "artist": "Avicii ft. Andreas Moe",
+          "title": "Fade Into Darkness (Albin Myers Remix)",
+          "remix": "",
+          "trackId": "241809"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii ft. Andreas Moe",
+      "title": "Fade Into Darkness (Albin Myers Remix)",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "241809",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "47753",
+        "youtube": "47753",
+        "soundcloud": "47753",
+        "appleMusic": "47753"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Avicii ft. Ruth Anne",
+      "title": "All You Need Is Love (Instrumental Mix)",
+      "remix": "",
+      "label": "PRMD",
+      "trackId": "241810",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "151925"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Avicii",
+      "title": "Levels",
+      "remix": "",
+      "label": "LE7ELS/UMG",
+      "trackId": "241811",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "33255",
+        "youtube": "33255",
+        "soundcloud": "33255",
+        "appleMusic": "33255"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "886919",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/53103551"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "4420551",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=6Z-Wu-vbwAc"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:33:29.276Z",
+  "scrapeVersion": 2
+}

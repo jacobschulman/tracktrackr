@@ -1,0 +1,786 @@
+{
+  "tlId": "24c4v241",
+  "dj": "Alesso",
+  "stage": "Ultra Europe",
+  "date": "2022-07-09",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/24c4v241/alesso-mainstage-ultra-europe-croatia-2022-07-09.html",
+  "djs": [
+    {
+      "name": "Alesso",
+      "slug": "alesso"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Alesso & Katy Perry",
+      "title": "When I'm Gone (VIP Mix)",
+      "remix": "(Intro Edit)",
+      "label": "10:22PM",
+      "trackId": "7903319",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 22,
+      "mediaIds": {
+        "spotify": "772754",
+        "youtube": "772754",
+        "soundcloud": "772754",
+        "appleMusic": "772754"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Alesso & SICK INDIVIDUALS",
+      "title": "We Go Out",
+      "remix": "",
+      "label": "10:22PM",
+      "trackId": "7903320",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": {
+        "spotify": "798266",
+        "youtube": "798266",
+        "soundcloud": "798266",
+        "appleMusic": "798266"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Alesso",
+      "title": "TIME (Deniz Koyu & Alesso Remix)",
+      "remix": "",
+      "label": "10:22PM",
+      "trackId": "7903322",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 420,
+      "mediaIds": {
+        "spotify": "487516",
+        "youtube": "487516",
+        "soundcloud": "487516",
+        "appleMusic": "487516"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "MARTEN HØRGER & BRANDON",
+      "title": "Let's Try It",
+      "remix": "",
+      "label": "CONFESSION/NIGHT BASS",
+      "trackId": "7903323",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 488,
+      "mediaIds": {
+        "spotify": "761564",
+        "youtube": "761564",
+        "soundcloud": "761564",
+        "appleMusic": "761564"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "R3WIRE vs. Alesso & Armin van Buuren & Max Wolfgang",
+      "title": "Mi Amor vs. Leave A Little Love (Alesso Mashup)",
+      "remix": "",
+      "label": "STEREOHYPE/ARMADA",
+      "trackId": "7903324",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 535,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Alesso vs. Roy English",
+      "title": "TOGETHER vs. Cool (Alesso Mashup)",
+      "remix": "",
+      "label": "DEF JAM/10:22PM",
+      "trackId": "7903325",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 622,
+      "mediaIds": {
+        "soundcloud": "769978"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Swedish House Mafia vs. Alesso",
+      "title": "Can U Feel It vs. Nillionaire (Alesso Mashup)",
+      "remix": "",
+      "label": "REFUNE/SSA (REPUBLIC)",
+      "trackId": "7903327",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 820,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Alesso",
+      "title": "PROGRESSO",
+      "remix": "",
+      "label": "10:22PM",
+      "trackId": "7903328",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1035,
+      "mediaIds": {
+        "spotify": "480921",
+        "youtube": "480921",
+        "soundcloud": "480921",
+        "appleMusic": "480921"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso",
+          "title": "PROGRESSO",
+          "remix": "",
+          "trackId": "7903328"
+        },
+        {
+          "artist": "Dirty South & Alesso ft. Ruben Haze",
+          "title": "City Of Dreams (Acappella)",
+          "remix": "",
+          "trackId": "7903330"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dirty South & Alesso ft. Ruben Haze",
+      "title": "City Of Dreams (Acappella)",
+      "remix": "",
+      "label": "PHAZING",
+      "trackId": "7903330",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "75525",
+        "youtube": "75525",
+        "soundcloud": "75525",
+        "appleMusic": "75525"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dirty South & Alesso ft. Ruben Haze",
+          "title": "City Of Dreams (Acappella)",
+          "remix": "",
+          "trackId": "7903330"
+        },
+        {
+          "artist": "Curbi",
+          "title": "Too Much",
+          "remix": "(Acappella)",
+          "trackId": "7903338"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Curbi",
+      "title": "Too Much",
+      "remix": "(Acappella)",
+      "label": "HELDEEP",
+      "trackId": "7903338",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "522525",
+        "youtube": "522525",
+        "soundcloud": "522525",
+        "appleMusic": "522525"
+      },
+      "blendGroup": [
+        {
+          "artist": "Curbi",
+          "title": "Too Much",
+          "remix": "(Acappella)",
+          "trackId": "7903338"
+        },
+        {
+          "artist": "Alesso",
+          "title": "AGAIN",
+          "remix": "",
+          "trackId": "7903329"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alesso",
+      "title": "AGAIN",
+      "remix": "",
+      "label": "10:22PM",
+      "trackId": "7903329",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "694166",
+        "youtube": "694166",
+        "soundcloud": "694166",
+        "appleMusic": "694166"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso",
+          "title": "AGAIN",
+          "remix": "",
+          "trackId": "7903329"
+        },
+        {
+          "artist": "Jay Robinson ft. LIINKS",
+          "title": "The Drip",
+          "remix": "",
+          "trackId": "7904918"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jay Robinson ft. LIINKS",
+      "title": "The Drip",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "7904918",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "743780",
+        "youtube": "743780",
+        "soundcloud": "743780",
+        "appleMusic": "743780"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "RÜFÜS DU SOL",
+      "title": "On My Knees",
+      "remix": "",
+      "label": "ROSE AVENUE/REPRISE",
+      "trackId": "7904919",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1270,
+      "mediaIds": {
+        "spotify": "726611",
+        "youtube": "726611",
+        "soundcloud": "726611",
+        "appleMusic": "726611"
+      },
+      "blendGroup": [
+        {
+          "artist": "RÜFÜS DU SOL",
+          "title": "On My Knees",
+          "remix": "",
+          "trackId": "7904919"
+        },
+        {
+          "artist": "Calvin Harris & Alesso ft. Hurts",
+          "title": "Under Control",
+          "remix": "",
+          "trackId": "7903331"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris & Alesso ft. Hurts",
+      "title": "Under Control",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "7903331",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "146189",
+        "youtube": "146189",
+        "soundcloud": "146189",
+        "appleMusic": "146189"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "AC Slater & Curbi",
+      "title": "Crave The Bassline",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "7903332",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1480,
+      "mediaIds": {
+        "spotify": "712706",
+        "youtube": "712706",
+        "soundcloud": "712706",
+        "appleMusic": "712706"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Sebastian Ingrosso & Alesso ft. Ryan Tedder",
+      "title": "Calling (Lose My Mind)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "7903333",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1638,
+      "mediaIds": {
+        "spotify": "63652",
+        "youtube": "63652",
+        "soundcloud": "63652",
+        "appleMusic": "63652"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Alesso & CORSAK ft. Stray Kids",
+      "title": "Going Dumb (Mike Williams Remix)",
+      "remix": "",
+      "label": "LIQUID STATE",
+      "trackId": "7903919",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1833,
+      "mediaIds": {
+        "spotify": "693318",
+        "youtube": "693318",
+        "soundcloud": "693318",
+        "appleMusic": "693318"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Alesso",
+      "title": "Somebody To Use (Toxic Mix)",
+      "remix": "",
+      "label": "10:22PM",
+      "trackId": "7997999",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1983,
+      "mediaIds": {
+        "spotify": "741788",
+        "youtube": "741788",
+        "soundcloud": "741788",
+        "appleMusic": "741788"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso",
+          "title": "Somebody To Use (Toxic Mix)",
+          "remix": "",
+          "trackId": "7997999"
+        },
+        {
+          "artist": "Adam Beyer & Bart Skils",
+          "title": "Your Mind",
+          "remix": "(Acappella)",
+          "trackId": "7998000"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Adam Beyer & Bart Skils",
+      "title": "Your Mind",
+      "remix": "(Acappella)",
+      "label": "DRUMCODE",
+      "trackId": "7998000",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "420891",
+        "youtube": "420891",
+        "soundcloud": "420891",
+        "appleMusic": "420891"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Steve Angello",
+      "title": "Teasing Mr. Charlie",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "7998001",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2237,
+      "mediaIds": {
+        "spotify": "1087",
+        "youtube": "1087",
+        "soundcloud": "1087",
+        "appleMusic": "1087"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Alesso & Liam Payne",
+      "title": "Midnight (Alesso & ESH Remix)",
+      "remix": "",
+      "label": "10:22PM",
+      "trackId": "7903933",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2340,
+      "mediaIds": {
+        "spotify": "611792",
+        "youtube": "611792",
+        "soundcloud": "611792",
+        "appleMusic": "611792"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "JAUZ & Habstrakt",
+      "title": "Like Before",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7998002",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2445,
+      "mediaIds": {
+        "spotify": "802686",
+        "youtube": "802686",
+        "soundcloud": "802686",
+        "appleMusic": "802686"
+      },
+      "blendGroup": [
+        {
+          "artist": "JAUZ & Habstrakt",
+          "title": "Like Before",
+          "remix": "",
+          "trackId": "7998002"
+        },
+        {
+          "artist": "Alesso",
+          "title": "Move Like That (Acappella)",
+          "remix": "",
+          "trackId": "7998003"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alesso",
+      "title": "Move Like That (Acappella)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7998003",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "351743",
+        "soundcloud": "351743"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Alesso vs. FISHER & Shermanology",
+      "title": "Tear The Roof Up vs. It's A Killa (Alesso Mashup)",
+      "remix": "",
+      "label": "REFUNE/CATCH & RELEASE",
+      "trackId": "7903920",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2580,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Alesso & Zara Larsson",
+      "title": "Words (VIP Mix)",
+      "remix": "",
+      "label": "10:22PM",
+      "trackId": "7903921",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2750,
+      "mediaIds": {
+        "spotify": "799644",
+        "youtube": "799644",
+        "soundcloud": "799644",
+        "appleMusic": "799644"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Deniz Koyu & MAKJ",
+      "title": "Feel Your Love",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7998004",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2970,
+      "mediaIds": {
+        "spotify": "860408",
+        "youtube": "860408",
+        "soundcloud": "860408",
+        "appleMusic": "860408"
+      },
+      "blendGroup": [
+        {
+          "artist": "Deniz Koyu & MAKJ",
+          "title": "Feel Your Love",
+          "remix": "",
+          "trackId": "7998004"
+        },
+        {
+          "artist": "Nadia Ali & Starkillers & Alex Kenji",
+          "title": "Pressure (Acappella)",
+          "remix": "",
+          "trackId": "7998005"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nadia Ali & Starkillers & Alex Kenji",
+      "title": "Pressure (Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "7998005",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "26069",
+        "youtube": "55612",
+        "soundcloud": "26069",
+        "appleMusic": "26069"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Alesso",
+      "title": "Hypnotize",
+      "remix": "",
+      "label": "BODY HI/CAPITOL",
+      "trackId": "7998006",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3240,
+      "mediaIds": {
+        "spotify": "887029",
+        "youtube": "887029",
+        "soundcloud": "887029",
+        "appleMusic": "887029"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Alesso & Sentinel vs. Tove Lo",
+      "title": "Only You vs. Heroes (Alesso Mashup)",
+      "remix": "",
+      "label": "REFUNE/10:22PM",
+      "trackId": "7903923",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3475,
+      "mediaIds": {
+        "youtube": "790745"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Alesso",
+      "title": "Without You",
+      "remix": "",
+      "label": "10:22PM",
+      "trackId": "7903922",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3720,
+      "mediaIds": {
+        "spotify": "893808",
+        "youtube": "893808",
+        "soundcloud": "893808",
+        "appleMusic": "893808"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso",
+          "title": "Without You",
+          "remix": "",
+          "trackId": "7903922"
+        },
+        {
+          "artist": "Alesso ft. Nico & Vinz",
+          "title": "I Wanna Know (Acappella)",
+          "remix": "",
+          "trackId": "7998007"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alesso ft. Nico & Vinz",
+      "title": "I Wanna Know (Acappella)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "7998007",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "303300",
+        "youtube": "303300",
+        "soundcloud": "303300",
+        "appleMusic": "303300"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Deniz Koyu & Alesso",
+      "title": "In My Feelings",
+      "remix": "",
+      "label": "10:22PM",
+      "trackId": "7903930",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3970,
+      "mediaIds": {
+        "spotify": "806567",
+        "youtube": "806567",
+        "soundcloud": "806567",
+        "appleMusic": "806567"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Marc Benjamin x Marcus Santoro & David Pietras",
+      "title": "Losing Focus (Marcus Santoro & David Pietras Mix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "7903925",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 4187,
+      "mediaIds": {
+        "spotify": "628397",
+        "youtube": "628397",
+        "soundcloud": "628397",
+        "appleMusic": "628397"
+      },
+      "blendGroup": [
+        {
+          "artist": "Marc Benjamin x Marcus Santoro & David Pietras",
+          "title": "Losing Focus (Marcus Santoro & David Pietras Mix)",
+          "remix": "",
+          "trackId": "7903925"
+        },
+        {
+          "artist": "Alesso & Hailee Steinfeld ft. Florida Georgia Line & Watt",
+          "title": "Let Me Go",
+          "remix": "(Acappella)",
+          "trackId": "7903926"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alesso & Hailee Steinfeld ft. Florida Georgia Line & Watt",
+      "title": "Let Me Go",
+      "remix": "(Acappella)",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "7903926",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "379741",
+        "youtube": "379741",
+        "soundcloud": "379741",
+        "appleMusic": "379741"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Armin van Buuren & Sam Gray vs. Alesso & Conor Maynard",
+      "title": "Human Touch vs. Remedy (Alesso Mashup)",
+      "remix": "",
+      "label": "10:22PM/ARMIND (ARMADA)",
+      "trackId": "7998008",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 4388,
+      "mediaIds": {
+        "youtube": "790741"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Alesso & Sentinel",
+      "title": "Interstellar",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7998009",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 4587,
+      "mediaIds": {
+        "youtube": "814487",
+        "soundcloud": "814487"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Alesso & OneRepublic vs. Sebastian Ingrosso & Tommy Trash vs. Jaymes Young",
+      "title": "If I Lose Myself vs. Reload vs. Infinity (Alesso Mashup)",
+      "remix": "",
+      "label": "MOSLEY/INTERSCOPE/REFUNE/ATLANTIC (WARNER MUSIC)",
+      "trackId": "8013343",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 4900,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2905063",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=L-MC1LqiXxs"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:50:16.880Z",
+  "scrapeVersion": 2
+}

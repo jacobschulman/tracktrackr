@@ -1,0 +1,1428 @@
+{
+  "tlId": "dqbj8ck",
+  "dj": "Bagha",
+  "stage": "EDC Mexico",
+  "date": "2026-02-20",
+  "year": 2026,
+  "url": "https://www.1001tracklists.com/tracklist/dqbj8ck/bagha-wasteland-edc-mexico-2026-02-20.html",
+  "djs": [
+    {
+      "name": "Bagha",
+      "slug": "bagha"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "The Resistance",
+      "title": "T-70 (Chibs Remix)",
+      "remix": "",
+      "label": "CONTINUA MGMT",
+      "trackId": "13548826",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "1158851",
+        "youtube": "1158851",
+        "soundcloud": "1158851",
+        "appleMusic": "1158851"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "MARAUDA",
+      "title": "Swathe",
+      "remix": "",
+      "label": "MALIGNANT",
+      "trackId": "13548827",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 108,
+      "mediaIds": {
+        "spotify": "721009",
+        "youtube": "721009",
+        "soundcloud": "721009",
+        "appleMusic": "721009"
+      },
+      "blendGroup": [
+        {
+          "artist": "MARAUDA",
+          "title": "Swathe",
+          "remix": "",
+          "trackId": "13548827"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13549419"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13549419",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "03",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548828",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 177,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13548828"
+        },
+        {
+          "artist": "Wooli & MAD DUBZ",
+          "title": "Train Tune",
+          "remix": "",
+          "trackId": "13549420"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wooli & MAD DUBZ",
+      "title": "Train Tune",
+      "remix": "",
+      "label": "WOOLI MUSIC",
+      "trackId": "13549420",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1149488",
+        "youtube": "1149488",
+        "soundcloud": "1149488",
+        "appleMusic": "1149488"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548829",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 242,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13548829"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13549421"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13549421",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "05",
+      "artist": "Samplifire & YAKZ",
+      "title": "Menticide (Bizo Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "13548830",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 307,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Samplifire & YAKZ",
+          "title": "Menticide (Bizo Flip)",
+          "remix": "",
+          "trackId": "13548830"
+        },
+        {
+          "artist": "Jura",
+          "title": "Simon The Digger",
+          "remix": "",
+          "trackId": "13549422"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jura",
+      "title": "Simon The Digger",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13549422",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "343046"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jura",
+          "title": "Simon The Digger",
+          "remix": "",
+          "trackId": "13549422"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13548953"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548953",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 358,
+      "mediaIds": null
+    },
+    {
+      "pos": "06",
+      "artist": "HOL!",
+      "title": "SLIM SHADY",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13548831",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 386,
+      "mediaIds": {
+        "youtube": "1142273",
+        "soundcloud": "1142273"
+      },
+      "blendGroup": [
+        {
+          "artist": "HOL!",
+          "title": "SLIM SHADY",
+          "remix": "",
+          "trackId": "13548831"
+        },
+        {
+          "artist": "IVORY",
+          "title": "HIGH KNEES",
+          "remix": "",
+          "trackId": "13549423"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "IVORY",
+      "title": "HIGH KNEES",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "13549423",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1090909",
+        "youtube": "1090909",
+        "soundcloud": "1090909",
+        "appleMusic": "1090909"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "NIMDA",
+      "title": "DIV KILLER",
+      "remix": "",
+      "label": "MENTIS AUDIO",
+      "trackId": "13548832",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 483,
+      "mediaIds": {
+        "spotify": "1105209",
+        "youtube": "1105209",
+        "soundcloud": "1105209",
+        "appleMusic": "1105209"
+      },
+      "blendGroup": [
+        {
+          "artist": "NIMDA",
+          "title": "DIV KILLER",
+          "remix": "",
+          "trackId": "13548832"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13549424"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13549424",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "08",
+      "artist": "Flosstradamus ft. Casino",
+      "title": "Mosh Pit (Acappella)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "13548833",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 575,
+      "mediaIds": {
+        "spotify": "230379",
+        "youtube": "230379",
+        "soundcloud": "230379",
+        "appleMusic": "230379"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flosstradamus ft. Casino",
+          "title": "Mosh Pit (Acappella)",
+          "remix": "",
+          "trackId": "13548833"
+        },
+        {
+          "artist": "SVDDEN DEATH",
+          "title": "SHALLOW LAND BURIAL",
+          "remix": "",
+          "trackId": "13548834"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SVDDEN DEATH",
+      "title": "SHALLOW LAND BURIAL",
+      "remix": "",
+      "label": "VOYD",
+      "trackId": "13548834",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 596,
+      "mediaIds": {
+        "spotify": "782086",
+        "youtube": "782086",
+        "soundcloud": "782086",
+        "appleMusic": "782086"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Calcium ft. Kamiyada+",
+      "title": "Bullet Rain (MAD DUBZ Remix)",
+      "remix": "",
+      "label": "BASSWEIGHT",
+      "trackId": "13548835",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 663,
+      "mediaIds": {
+        "spotify": "951628",
+        "youtube": "951628",
+        "soundcloud": "951628",
+        "appleMusic": "951628"
+      },
+      "blendGroup": [
+        {
+          "artist": "Calcium ft. Kamiyada+",
+          "title": "Bullet Rain (MAD DUBZ Remix)",
+          "remix": "",
+          "trackId": "13548835"
+        },
+        {
+          "artist": "Subfiltronik ft. Skullion Shadez",
+          "title": "Passout",
+          "remix": "",
+          "trackId": "13549425"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Subfiltronik ft. Skullion Shadez",
+      "title": "Passout",
+      "remix": "",
+      "label": "DUPLOC",
+      "trackId": "13549425",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "394575",
+        "youtube": "394575",
+        "soundcloud": "394575"
+      },
+      "blendGroup": [
+        {
+          "artist": "Subfiltronik ft. Skullion Shadez",
+          "title": "Passout",
+          "remix": "",
+          "trackId": "13549425"
+        },
+        {
+          "artist": "MARAUDA & SVDDEN DEATH",
+          "title": "PEANUT BUTTER",
+          "remix": "",
+          "trackId": "13548836"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MARAUDA & SVDDEN DEATH",
+      "title": "PEANUT BUTTER",
+      "remix": "",
+      "label": "MALIGNANT",
+      "trackId": "13548836",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 687,
+      "mediaIds": {
+        "spotify": "942633",
+        "youtube": "942633",
+        "soundcloud": "942633",
+        "appleMusic": "942633"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Space Laces",
+      "title": "Dominate (Finnuh Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13548837",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 735,
+      "mediaIds": {
+        "soundcloud": "1095931"
+      },
+      "blendGroup": [
+        {
+          "artist": "Space Laces",
+          "title": "Dominate (Finnuh Bootleg)",
+          "remix": "",
+          "trackId": "13548837"
+        },
+        {
+          "artist": "The Resistance",
+          "title": "EVIL EMPIRE",
+          "remix": "",
+          "trackId": "13549426"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Resistance",
+      "title": "EVIL EMPIRE",
+      "remix": "",
+      "label": "CONTINUA MGMT",
+      "trackId": "13549426",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1049980",
+        "youtube": "1049980",
+        "soundcloud": "1049980",
+        "appleMusic": "1049980"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Resistance",
+          "title": "EVIL EMPIRE",
+          "remix": "",
+          "trackId": "13549426"
+        },
+        {
+          "artist": "ONARA",
+          "title": "Vagrant",
+          "remix": "",
+          "trackId": "13549427"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ONARA",
+      "title": "Vagrant",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13549427",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1089092",
+        "youtube": "1089092",
+        "soundcloud": "1089092",
+        "appleMusic": "1089092"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Subtronics",
+      "title": "Scream Saver (SISTO Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "13548838",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 823,
+      "mediaIds": {
+        "youtube": "936804",
+        "soundcloud": "936804"
+      },
+      "blendGroup": [
+        {
+          "artist": "Subtronics",
+          "title": "Scream Saver (SISTO Remix)",
+          "remix": "",
+          "trackId": "13548838"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13549428"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13549428",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "12",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548839",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 904,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "MVRDA",
+      "title": "Cessation",
+      "remix": "",
+      "label": "DPMO",
+      "trackId": "13548840",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 991,
+      "mediaIds": {
+        "spotify": "1087878",
+        "youtube": "1087878",
+        "soundcloud": "1087878",
+        "appleMusic": "1087878"
+      },
+      "blendGroup": [
+        {
+          "artist": "MVRDA",
+          "title": "Cessation",
+          "remix": "",
+          "trackId": "13548840"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13549429"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13549429",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "14",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548841",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1049,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13548841"
+        },
+        {
+          "artist": "Subfiltronik",
+          "title": "Demon Master",
+          "remix": "",
+          "trackId": "13549430"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Subfiltronik",
+      "title": "Demon Master",
+      "remix": "",
+      "label": "HENCH",
+      "trackId": "13549430",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "263476",
+        "youtube": "263476",
+        "soundcloud": "263476",
+        "appleMusic": "263476"
+      },
+      "blendGroup": [
+        {
+          "artist": "Subfiltronik",
+          "title": "Demon Master",
+          "remix": "",
+          "trackId": "13549430"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13549431"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13549431",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "15",
+      "artist": "Riot Ten ft. Rico Act",
+      "title": "Rail Breaker",
+      "remix": "(Acappella)",
+      "label": "DIM MAK",
+      "trackId": "13548842",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1170,
+      "mediaIds": {
+        "spotify": "369232",
+        "youtube": "369232",
+        "soundcloud": "369232",
+        "appleMusic": "369232"
+      },
+      "blendGroup": [
+        {
+          "artist": "Riot Ten ft. Rico Act",
+          "title": "Rail Breaker",
+          "remix": "(Acappella)",
+          "trackId": "13548842"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13548843"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548843",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1179,
+      "mediaIds": null
+    },
+    {
+      "pos": "16",
+      "artist": "Infekt & HAMRO ft. Xae",
+      "title": "DA PIT (Automhate & MAD DUBZ Remix)",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "13548844",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1257,
+      "mediaIds": {
+        "spotify": "1083196",
+        "youtube": "1083196",
+        "soundcloud": "1083196",
+        "appleMusic": "1083196"
+      },
+      "blendGroup": [
+        {
+          "artist": "Infekt & HAMRO ft. Xae",
+          "title": "DA PIT (Automhate & MAD DUBZ Remix)",
+          "remix": "",
+          "trackId": "13548844"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13549432"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13549432",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "17",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548845",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1336,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Excision & Space Laces",
+      "title": "Rumble (Toog & Goot Edit)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "13548846",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1416,
+      "mediaIds": {
+        "youtube": "599107",
+        "soundcloud": "599107"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Space Laces",
+          "title": "Rumble (Toog & Goot Edit)",
+          "remix": "",
+          "trackId": "13548846"
+        },
+        {
+          "artist": "Cimm & Youngsta ft. Riko Dan",
+          "title": "Hear That (Trends & Boylan Remix / MAD DUBZ & VKTM Bootleg)",
+          "remix": "",
+          "trackId": "13548847"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cimm & Youngsta ft. Riko Dan",
+      "title": "Hear That (Trends & Boylan Remix / MAD DUBZ & VKTM Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "13548847",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 1455,
+      "mediaIds": {
+        "youtube": "1124015",
+        "soundcloud": "1124015"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cimm & Youngsta ft. Riko Dan",
+          "title": "Hear That (Trends & Boylan Remix / MAD DUBZ & VKTM Bootleg)",
+          "remix": "",
+          "trackId": "13548847"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13549433"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13549433",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "19",
+      "artist": "NIMDA & Scarlxrd",
+      "title": "DEED XF DESCENT",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "13548848",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1507,
+      "mediaIds": {
+        "spotify": "1139177",
+        "youtube": "1139177",
+        "soundcloud": "1139177",
+        "appleMusic": "1139177"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548849",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1575,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "SVDDEN DEATH",
+      "title": "DREAM SEQUENCE",
+      "remix": "",
+      "label": "VOYD",
+      "trackId": "13548850",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1646,
+      "mediaIds": {
+        "spotify": "782210",
+        "youtube": "782210",
+        "soundcloud": "782210",
+        "appleMusic": "782210"
+      },
+      "blendGroup": [
+        {
+          "artist": "SVDDEN DEATH",
+          "title": "DREAM SEQUENCE",
+          "remix": "",
+          "trackId": "13548850"
+        },
+        {
+          "artist": "MVRDA",
+          "title": "Cessation",
+          "remix": "",
+          "trackId": "13549434"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MVRDA",
+      "title": "Cessation",
+      "remix": "",
+      "label": "DPMO",
+      "trackId": "13549434",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1087878",
+        "youtube": "1087878",
+        "soundcloud": "1087878",
+        "appleMusic": "1087878"
+      },
+      "blendGroup": [
+        {
+          "artist": "MVRDA",
+          "title": "Cessation",
+          "remix": "",
+          "trackId": "13549434"
+        },
+        {
+          "artist": "AD & Shiverz",
+          "title": "Semtex",
+          "remix": "",
+          "trackId": "13549435"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AD & Shiverz",
+      "title": "Semtex",
+      "remix": "",
+      "label": "MONSTERS",
+      "trackId": "13549435",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "394572",
+        "youtube": "394572",
+        "soundcloud": "394572",
+        "appleMusic": "394572"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Machine Gun Kelly ft. Waka Flocka Flame",
+      "title": "Wild Boy",
+      "remix": "",
+      "label": "BAD BOY",
+      "trackId": "13548851",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1712,
+      "mediaIds": {
+        "spotify": "87238",
+        "youtube": "87238",
+        "soundcloud": "87238",
+        "appleMusic": "87238"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548852",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1776,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548853",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1848,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548854",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 1932,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Drowning Pool",
+      "title": "Bodies",
+      "remix": "",
+      "label": "CONCORD",
+      "trackId": "13548855",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 1980,
+      "mediaIds": {
+        "spotify": "177072",
+        "youtube": "177072",
+        "soundcloud": "177072",
+        "appleMusic": "177072"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Excision & Space Laces",
+      "title": "Throwin' Elbows",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "13548856",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2025,
+      "mediaIds": {
+        "spotify": "320314",
+        "youtube": "320314",
+        "soundcloud": "320314",
+        "appleMusic": "320314"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Space Laces",
+          "title": "Throwin' Elbows",
+          "remix": "",
+          "trackId": "13548856"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13548857"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548857",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 2050,
+      "mediaIds": null
+    },
+    {
+      "pos": "28",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548858",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2109,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Benny Benassi ft. Gary Go",
+      "title": "Cinema (Skrillex Remix / Madcore Edit)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "13548859",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2195,
+      "mediaIds": {
+        "youtube": "1140943",
+        "soundcloud": "1140943"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548860",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2306,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548861",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2346,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548862",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2413,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Avicii",
+      "title": "Levels (Skrillex Remix)",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "13548863",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 2489,
+      "mediaIds": {
+        "spotify": "57858",
+        "youtube": "57858",
+        "soundcloud": "57858",
+        "appleMusic": "57858"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii",
+          "title": "Levels (Skrillex Remix)",
+          "remix": "",
+          "trackId": "13548863"
+        },
+        {
+          "artist": "Infekt",
+          "title": "Rewind",
+          "remix": "",
+          "trackId": "13548864"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Infekt",
+      "title": "Rewind",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "13548864",
+      "row": 33,
+      "type": "blend",
+      "cueTime": 2511,
+      "mediaIds": {
+        "spotify": "487856",
+        "youtube": "487856",
+        "soundcloud": "487856",
+        "appleMusic": "487856"
+      }
+    },
+    {
+      "pos": "34",
+      "artist": "Space Laces",
+      "title": "Survive",
+      "remix": "",
+      "label": "HIGH VAULTAGE",
+      "trackId": "13548865",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 2555,
+      "mediaIds": {
+        "spotify": "860030",
+        "youtube": "860030",
+        "soundcloud": "860030",
+        "appleMusic": "860030"
+      },
+      "blendGroup": [
+        {
+          "artist": "Space Laces",
+          "title": "Survive",
+          "remix": "",
+          "trackId": "13548865"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13548866"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548866",
+      "row": 34,
+      "type": "blend",
+      "cueTime": 2601,
+      "mediaIds": null
+    },
+    {
+      "pos": "35",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548867",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 2645,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13548867"
+        },
+        {
+          "artist": "SVDDEN DEATH",
+          "title": "SHALLOW LAND BURIAL",
+          "remix": "",
+          "trackId": "13548868"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SVDDEN DEATH",
+      "title": "SHALLOW LAND BURIAL",
+      "remix": "",
+      "label": "VOYD",
+      "trackId": "13548868",
+      "row": 35,
+      "type": "blend",
+      "cueTime": 2682,
+      "mediaIds": {
+        "spotify": "782086",
+        "youtube": "782086",
+        "soundcloud": "782086",
+        "appleMusic": "782086"
+      }
+    },
+    {
+      "pos": "36",
+      "artist": "Bagha",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548869",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 2722,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548870",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 2829,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Versa",
+      "title": "Another Yoi Song (Bagha & Versa Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "13548871",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 2892,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "SOLO (US)",
+      "title": "Locus",
+      "remix": "",
+      "label": "",
+      "trackId": "13548872",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 2984,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Skrillex & Damian Marley",
+      "title": "Make It Bun Dem",
+      "remix": "",
+      "label": "BIG BEAT/OWSLA",
+      "trackId": "13548873",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 3075,
+      "mediaIds": {
+        "spotify": "71742",
+        "youtube": "71742",
+        "soundcloud": "71742",
+        "appleMusic": "71742"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Damian Marley",
+          "title": "Make It Bun Dem",
+          "remix": "",
+          "trackId": "13548873"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13548874"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13548874",
+      "row": 40,
+      "type": "blend",
+      "cueTime": 3102,
+      "mediaIds": null
+    },
+    {
+      "pos": "41",
+      "artist": "DVCTA",
+      "title": "BREAK YOUR NECK (VIP)",
+      "remix": "",
+      "label": "",
+      "trackId": "13548875",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 3145,
+      "mediaIds": {
+        "soundcloud": "13548875"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "Skrillex ft. Niki & The Dove",
+      "title": "Ease My Mind",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "13548876",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 3300,
+      "mediaIds": {
+        "spotify": "183830",
+        "youtube": "183830",
+        "soundcloud": "183830",
+        "appleMusic": "183830"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "5271888",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=oyC3eL2DXo0"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "5241498",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=w8zjW_CZ9Vk"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:43:59.784Z",
+  "scrapeVersion": 2
+}

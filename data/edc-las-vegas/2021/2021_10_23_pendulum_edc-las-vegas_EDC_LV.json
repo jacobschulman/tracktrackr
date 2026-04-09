@@ -1,0 +1,823 @@
+{
+  "tlId": "1d2thnh1",
+  "dj": "Pendulum",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-23",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/1d2thnh1/pendulum-basspod-edc-las-vegas-united-states-2021-10-23.html",
+  "djs": [
+    {
+      "name": "Pendulum",
+      "slug": "pendulum"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Pendulum",
+      "title": "Driver (VIP)",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "6869955",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "782493"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Camo & Krooked & Mefjus",
+      "title": "Sientelo",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "6869956",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "716397",
+        "youtube": "716397",
+        "soundcloud": "716397",
+        "appleMusic": "716397"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Sub Focus",
+      "title": "Rock It (Wilkinson Remix)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6869957",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "708442",
+        "youtube": "708442",
+        "soundcloud": "708442",
+        "appleMusic": "708442"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sub Focus",
+          "title": "Rock It (Wilkinson Remix)",
+          "remix": "",
+          "trackId": "6869957"
+        },
+        {
+          "artist": "Zombie Cats",
+          "title": "No God (The Clamps Remix)",
+          "remix": "",
+          "trackId": "6885929"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zombie Cats",
+      "title": "No God (The Clamps Remix)",
+      "remix": "",
+      "label": "MAJOR LEAGUE DNB",
+      "trackId": "6885929",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "627983",
+        "youtube": "627983",
+        "soundcloud": "627983",
+        "appleMusic": "627983"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zombie Cats",
+          "title": "No God (The Clamps Remix)",
+          "remix": "",
+          "trackId": "6885929"
+        },
+        {
+          "artist": "DJ Hazard",
+          "title": "Machete",
+          "remix": "",
+          "trackId": "6885930"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Hazard",
+      "title": "Machete",
+      "remix": "",
+      "label": "PLAYAZ",
+      "trackId": "6885930",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "78162"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Pendulum",
+      "title": "Witchcraft",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "6869958",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20970",
+        "youtube": "20970",
+        "soundcloud": "20970",
+        "appleMusic": "20970"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "BMotion ft. flowanastasia",
+      "title": "Give You Up",
+      "remix": "",
+      "label": "PILOT",
+      "trackId": "6869959",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "719584",
+        "youtube": "719584",
+        "soundcloud": "719584",
+        "appleMusic": "719584"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Sam Foxx",
+      "title": "Money",
+      "remix": "",
+      "label": "PLAY ME",
+      "trackId": "6869960",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "868254",
+        "youtube": "868254",
+        "soundcloud": "868254",
+        "appleMusic": "868254"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Former & Sleepnet",
+      "title": "Void Song",
+      "remix": "",
+      "label": "VISION",
+      "trackId": "6869961",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "689081",
+        "youtube": "689081",
+        "soundcloud": "689081",
+        "appleMusic": "689081"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "MUZZ",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6869962",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Eric Prydz ft. Rob Swire",
+      "title": "Breathe (Sub Focus Remix)",
+      "remix": "",
+      "label": "PRYDA",
+      "trackId": "6869963",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "336231",
+        "soundcloud": "336231"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "What So Not ft. DMA'S",
+      "title": "The Change (Ekko & Sidetrack Remix)",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "6876972",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "721077",
+        "youtube": "721077",
+        "soundcloud": "721077",
+        "appleMusic": "721077"
+      },
+      "blendGroup": [
+        {
+          "artist": "What So Not ft. DMA'S",
+          "title": "The Change (Ekko & Sidetrack Remix)",
+          "remix": "",
+          "trackId": "6876972"
+        },
+        {
+          "artist": "BLVCK CROWZ & ESKEi83",
+          "title": "Taking It Higher",
+          "remix": "",
+          "trackId": "6869965"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "BLVCK CROWZ & ESKEi83",
+      "title": "Taking It Higher",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6869965",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "660349",
+        "youtube": "660349",
+        "soundcloud": "660349",
+        "appleMusic": "660349"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Pendulum ft. Fresh & $Pyda & Tenor Fly",
+      "title": "Tarantula (ShockOne & Ekko & Sidetrack Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "6869966",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "601694",
+        "soundcloud": "601694"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "North Base & TREi & Dima Pulsar ft. Dynamite MC",
+      "title": "Raw",
+      "remix": "",
+      "label": "DEVICE",
+      "trackId": "6869967",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "715115",
+        "youtube": "715115",
+        "soundcloud": "715115",
+        "appleMusic": "715115"
+      },
+      "blendGroup": [
+        {
+          "artist": "North Base & TREi & Dima Pulsar ft. Dynamite MC",
+          "title": "Raw",
+          "remix": "",
+          "trackId": "6869967"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "Bonfire (Acappella)",
+          "remix": "",
+          "trackId": "9280073"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "Bonfire (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "9280073",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1498,
+      "mediaIds": {
+        "spotify": "72025",
+        "youtube": "72025",
+        "soundcloud": "72025",
+        "appleMusic": "72025"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Pendulum",
+      "title": "Propane Nightmares",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "6869968",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "163996",
+        "youtube": "163996",
+        "soundcloud": "163996",
+        "appleMusic": "163996"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Camo & Krooked & Mefjus",
+      "title": "Sidewinder",
+      "remix": "",
+      "label": "VISION",
+      "trackId": "6869969",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "527686",
+        "youtube": "527686",
+        "soundcloud": "527686",
+        "appleMusic": "527686"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Nero",
+      "title": "Me & You (Freaks & Geeks Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6885931",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "appleMusic": "661860"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Sub Focus",
+      "title": "Last Jungle (Camo & Krooked & Mefjus Remix)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6869970",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "709992",
+        "youtube": "709992",
+        "soundcloud": "709992",
+        "appleMusic": "709992"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Ed Rush & Optical",
+      "title": "Bacteria (Pendulum Remix)",
+      "remix": "",
+      "label": "VIRUS",
+      "trackId": "6869971",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "160750",
+        "youtube": "160750",
+        "soundcloud": "160750",
+        "appleMusic": "160750"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ed Rush & Optical",
+          "title": "Bacteria (Pendulum Remix)",
+          "remix": "",
+          "trackId": "6869971"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6885932"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6885932",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "18",
+      "artist": "Amplify",
+      "title": "Break It",
+      "remix": "",
+      "label": "NEMESIS",
+      "trackId": "6869972",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "733358",
+        "youtube": "733358",
+        "soundcloud": "733358",
+        "appleMusic": "733358"
+      },
+      "blendGroup": [
+        {
+          "artist": "Amplify",
+          "title": "Break It",
+          "remix": "",
+          "trackId": "6869972"
+        },
+        {
+          "artist": "Bad Company UK",
+          "title": "Planet Dust",
+          "remix": "",
+          "trackId": "6885925"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bad Company UK",
+      "title": "Planet Dust",
+      "remix": "",
+      "label": "BC RECORDINGS",
+      "trackId": "6885925",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "97693",
+        "youtube": "97693",
+        "soundcloud": "97693",
+        "appleMusic": "97693"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "HVMP",
+      "title": "Pipes",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "6869973",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "499731",
+        "youtube": "499731",
+        "soundcloud": "499731",
+        "appleMusic": "499731"
+      },
+      "blendGroup": [
+        {
+          "artist": "HVMP",
+          "title": "Pipes",
+          "remix": "",
+          "trackId": "6869973"
+        },
+        {
+          "artist": "Pendulum",
+          "title": "The Island, Pt. I (Dawn)",
+          "remix": "",
+          "trackId": "6869974"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pendulum",
+      "title": "The Island, Pt. I (Dawn)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "6869974",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "19473",
+        "youtube": "19473",
+        "soundcloud": "19473",
+        "appleMusic": "19473"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Wiwek",
+      "title": "Periphery",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "6869975",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "708924",
+        "youtube": "708924",
+        "soundcloud": "708924",
+        "appleMusic": "708924"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Will Sparks",
+      "title": "Nevermind",
+      "remix": "",
+      "label": "ALTEZA (SMASH THE HOUSE)",
+      "trackId": "6869976",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "628575",
+        "youtube": "628575",
+        "soundcloud": "628575",
+        "appleMusic": "628575"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Pendulum",
+      "title": "Nothing For Free",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "6869977",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "615716",
+        "youtube": "615716",
+        "soundcloud": "615716",
+        "appleMusic": "615716"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Pendulum",
+      "title": "Nothing For Free (Kove Remix)",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "6885926",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "745936",
+        "youtube": "745936",
+        "soundcloud": "745936",
+        "appleMusic": "745936"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Phace & Was A Be",
+      "title": "Rave Changing",
+      "remix": "",
+      "label": "NEOSIGNAL",
+      "trackId": "6869978",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "605405",
+        "youtube": "605405",
+        "soundcloud": "605405",
+        "appleMusic": "605405"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Sub Focus",
+      "title": "Timewarp (VIP)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6869979",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "81985",
+        "youtube": "81985",
+        "soundcloud": "81985",
+        "appleMusic": "81985"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sub Focus",
+          "title": "Timewarp (VIP)",
+          "remix": "",
+          "trackId": "6869979"
+        },
+        {
+          "artist": "Mob Tactics",
+          "title": "Insomniak",
+          "remix": "",
+          "trackId": "6885927"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mob Tactics",
+      "title": "Insomniak",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "6885927",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "661715",
+        "youtube": "661715",
+        "soundcloud": "661715"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "Subsonic",
+      "title": "Need Me",
+      "remix": "",
+      "label": "ELEVATE RECORDS (SHOGUN)",
+      "trackId": "6869980",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "640888",
+        "youtube": "640888",
+        "soundcloud": "640888",
+        "appleMusic": "640888"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "The Prodigy",
+      "title": "Voodoo People (Pendulum Remix)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "6869981",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "48461",
+        "youtube": "48461",
+        "soundcloud": "48461",
+        "appleMusic": "48461"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Prodigy",
+          "title": "Voodoo People (Pendulum Remix)",
+          "remix": "",
+          "trackId": "6869981"
+        },
+        {
+          "artist": "Futurebound & BMotion",
+          "title": "Slap Suey",
+          "remix": "",
+          "trackId": "6885928"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Futurebound & BMotion",
+      "title": "Slap Suey",
+      "remix": "",
+      "label": "VIPER",
+      "trackId": "6885928",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "709554",
+        "youtube": "709554",
+        "soundcloud": "709554",
+        "appleMusic": "709554"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Deadline",
+      "title": "Dreamer",
+      "remix": "",
+      "label": "SHOGUN",
+      "trackId": "6869982",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "627580",
+        "youtube": "627580",
+        "soundcloud": "627580",
+        "appleMusic": "627580"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Pendulum & Hybrid Minds",
+      "title": "Louder Than Words",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "6869983",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "699981",
+        "youtube": "699981",
+        "soundcloud": "699981",
+        "appleMusic": "699981"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Pendulum",
+      "title": "Watercolour",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "6869984",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "35607",
+        "youtube": "35607",
+        "soundcloud": "35607",
+        "appleMusic": "35607"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_2",
+      "idMedia": "2553731",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/pendulum-at-edc-las-vegas-2021-bass-pod-stage-dj-mix/1594480671/us/album/pendulum-at-edc-las-vegas-2021-bass-pod-stage-dj-mix/1594480671?app=music&at=1000lwkw"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "2622764",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=ZHPEBJI1ru4"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:32:16.862Z",
+  "scrapeVersion": 2
+}

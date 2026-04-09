@@ -1,0 +1,306 @@
+{
+  "tlId": "2rqfu38t",
+  "dj": "Vini Vici",
+  "stage": "EDC Las Vegas",
+  "date": "2018-05-19",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/2rqfu38t/vini-vici-kineticfield-edc-las-vegas-united-states-2018-05-19.html",
+  "djs": [
+    {
+      "name": "Vini Vici",
+      "slug": "vinivici"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Armin van Buuren & Vini Vici & ALOK ft. Zafrir",
+      "title": "United",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "3450541",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 50,
+      "mediaIds": {
+        "spotify": "427306",
+        "youtube": "427306",
+        "soundcloud": "427306",
+        "appleMusic": "427306"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "W&W x Vini Vici",
+      "title": "Chakra",
+      "remix": "(Intro Edit)",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "3322092",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 370,
+      "mediaIds": {
+        "spotify": "371486",
+        "youtube": "371486",
+        "soundcloud": "371486",
+        "appleMusic": "371486"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Vini Vici & WHITENO1SE",
+      "title": "Push The Button",
+      "remix": "",
+      "label": "ALTEZA (SMASH THE HOUSE)",
+      "trackId": "3322093",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 520,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Vini Vici & WHITENO1SE",
+          "title": "Push The Button",
+          "remix": "",
+          "trackId": "3322093"
+        },
+        {
+          "artist": "The Cranberries",
+          "title": "Zombie",
+          "remix": "",
+          "trackId": "3322094"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Cranberries",
+      "title": "Zombie",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "3322094",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 580,
+      "mediaIds": {
+        "spotify": "397829",
+        "youtube": "397829",
+        "soundcloud": "397829",
+        "appleMusic": "397829"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Cranberries",
+          "title": "Zombie",
+          "remix": "",
+          "trackId": "3322094"
+        },
+        {
+          "artist": "The Chemical Brothers",
+          "title": "Galvanize",
+          "remix": "",
+          "trackId": "3450542"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chemical Brothers",
+      "title": "Galvanize",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "3450542",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 679,
+      "mediaIds": {
+        "spotify": "7615",
+        "youtube": "7615",
+        "soundcloud": "7615",
+        "appleMusic": "7615"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3322095",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 710,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "ATB vs. WHITENO1SE & No Comment & Richie Loop",
+      "title": "FAYA vs. 9PM",
+      "remix": "",
+      "label": "KONTOR/BLUE TUNES",
+      "trackId": "3322097",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 890,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ATB vs. WHITENO1SE & No Comment & Richie Loop",
+          "title": "FAYA vs. 9PM",
+          "remix": "",
+          "trackId": "3322097"
+        },
+        {
+          "artist": "ALOK & Sevenn",
+          "title": "BYOB",
+          "remix": "",
+          "trackId": "3450543"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ALOK & Sevenn",
+      "title": "BYOB",
+      "remix": "",
+      "label": "SYMPHONIC",
+      "trackId": "3450543",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 918,
+      "mediaIds": {
+        "spotify": "291591",
+        "youtube": "291591",
+        "soundcloud": "291591",
+        "appleMusic": "291591"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Hilight Tribe",
+      "title": "Free Tibet (Vini Vici Remix)",
+      "remix": "",
+      "label": "IBOGA",
+      "trackId": "3322098",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1089,
+      "mediaIds": {
+        "spotify": "285748",
+        "youtube": "285748",
+        "soundcloud": "285748",
+        "appleMusic": "285748"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Blastoyz",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3450544",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1295,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Queen",
+      "title": "We Will Rock You",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "3322101",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1425,
+      "mediaIds": {
+        "spotify": "13206",
+        "youtube": "13206",
+        "soundcloud": "13206",
+        "appleMusic": "13206"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Vini Vici & Timmy Trumpet ft. Symphonic",
+      "title": "100",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3322103",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1570,
+      "mediaIds": {
+        "spotify": "401391",
+        "youtube": "401391",
+        "soundcloud": "401391",
+        "appleMusic": "401391"
+      },
+      "blendGroup": [
+        {
+          "artist": "Vini Vici & Timmy Trumpet ft. Symphonic",
+          "title": "100",
+          "remix": "",
+          "trackId": "3322103"
+        },
+        {
+          "artist": "Public Domain",
+          "title": "Operation Blade (Bass In The Place) (Vini Vici Remix)",
+          "remix": "",
+          "trackId": "3450545"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Public Domain",
+      "title": "Operation Blade (Bass In The Place) (Vini Vici Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "3450545",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 1605,
+      "mediaIds": null
+    },
+    {
+      "pos": "10",
+      "artist": "Vini Vici",
+      "title": "Where The Heart Is",
+      "remix": "",
+      "label": "ALTEZA (SMASH THE HOUSE)",
+      "trackId": "3450546",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1835,
+      "mediaIds": {
+        "spotify": "419763",
+        "youtube": "419763",
+        "soundcloud": "419763",
+        "appleMusic": "419763"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "797303",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:05:37.668Z",
+  "scrapeVersion": 2
+}

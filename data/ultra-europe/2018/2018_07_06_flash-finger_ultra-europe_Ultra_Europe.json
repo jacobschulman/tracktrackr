@@ -1,0 +1,926 @@
+{
+  "tlId": "1b288bjt",
+  "dj": "Flash Finger",
+  "stage": "Ultra Europe",
+  "date": "2018-07-06",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/1b288bjt/flash-finger-ultra-europe-croatia-2018-07-06.html",
+  "djs": [
+    {
+      "name": "Flash Finger",
+      "slug": "flashfinger"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Flash Finger",
+      "title": "Let's Rock This Place (Flash Finger Intro)",
+      "remix": "",
+      "label": "",
+      "trackId": "3424193",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Zatox & Villain",
+      "title": "Warning (Flash Finger Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "3424194",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Reverse Finger",
+      "title": "Destroy The Club",
+      "remix": "",
+      "label": "DISCOVERY MUSIC",
+      "trackId": "3424195",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "266716",
+        "soundcloud": "266716"
+      },
+      "blendGroup": [
+        {
+          "artist": "Reverse Finger",
+          "title": "Destroy The Club",
+          "remix": "",
+          "trackId": "3424195"
+        },
+        {
+          "artist": "Reverse Finger",
+          "title": "Destroy The Club (PrOject PressONe Remix)",
+          "remix": "",
+          "trackId": "3424196"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Reverse Finger",
+      "title": "Destroy The Club (PrOject PressONe Remix)",
+      "remix": "",
+      "label": "DISCOVERY MUSIC",
+      "trackId": "3424196",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Reverse Finger",
+          "title": "Destroy The Club (PrOject PressONe Remix)",
+          "remix": "",
+          "trackId": "3424196"
+        },
+        {
+          "artist": "D-Block & S-te-Fan",
+          "title": "Everything Changed (Official WiSH Outdoor 2016 Dedicated Anthem)",
+          "remix": "",
+          "trackId": "3424197"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "D-Block & S-te-Fan",
+      "title": "Everything Changed (Official WiSH Outdoor 2016 Dedicated Anthem)",
+      "remix": "",
+      "label": "SCANTRAXX EVOLUTIONZ",
+      "trackId": "3424197",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "320290",
+        "youtube": "320290",
+        "soundcloud": "320290",
+        "appleMusic": "320290"
+      },
+      "blendGroup": [
+        {
+          "artist": "D-Block & S-te-Fan",
+          "title": "Everything Changed (Official WiSH Outdoor 2016 Dedicated Anthem)",
+          "remix": "",
+          "trackId": "3424197"
+        },
+        {
+          "artist": "Raxtor",
+          "title": "Revelation",
+          "remix": "",
+          "trackId": "3424198"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Raxtor",
+      "title": "Revelation",
+      "remix": "",
+      "label": "SCANTRAXX SILVER",
+      "trackId": "3424198",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "290395",
+        "youtube": "290395",
+        "soundcloud": "290395",
+        "appleMusic": "290395"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "JAUZ",
+      "title": "Feel The Volume (Ben Nicky Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "3424199",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "374328",
+        "youtube": "374328",
+        "soundcloud": "374328",
+        "appleMusic": "374328"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "W&W x Vini Vici",
+      "title": "Chakra",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "3424200",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "371486",
+        "youtube": "371486",
+        "soundcloud": "371486",
+        "appleMusic": "371486"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "AvAlanche & Flash Finger",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3424201",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "AvAlanche & Flash Finger & David Pham",
+      "title": "Say Yeah!",
+      "remix": "",
+      "label": "DISCOVERY MUSIC",
+      "trackId": "3424202",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "382125",
+        "soundcloud": "382125",
+        "appleMusic": "382125"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "MARNIK & Miami Blue ft. Marano",
+      "title": "Matador",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "3424203",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "358871",
+        "youtube": "358871",
+        "soundcloud": "358871",
+        "appleMusic": "358871"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Justin Levai",
+      "title": "Last Fight (AvAlanche & Flash Finger Remix)",
+      "remix": "",
+      "label": "MUSICAL MADNESS (2DUTCH)",
+      "trackId": "3424204",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "427671",
+        "youtube": "427671",
+        "soundcloud": "427671",
+        "appleMusic": "427671"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Laidback Luke & Steve Aoki ft. Bruce Buffer",
+      "title": "It's Time",
+      "remix": "(Extended Mix)",
+      "label": "DIM MAK/MIXMASH",
+      "trackId": "3424205",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "407685",
+        "youtube": "407685",
+        "soundcloud": "407685",
+        "appleMusic": "407685"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Maddix & KEVU ft. LePrince",
+      "title": "Soldier",
+      "remix": "(Extended Mix)",
+      "label": "REVEALED",
+      "trackId": "3424206",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "420667",
+        "youtube": "420667",
+        "soundcloud": "420667",
+        "appleMusic": "420667"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "VINAI ft. Harrison",
+      "title": "The Wave (H4RE Bootleg)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3424207",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "VINAI ft. Harrison",
+          "title": "The Wave (H4RE Bootleg)",
+          "remix": "",
+          "trackId": "3424207"
+        },
+        {
+          "artist": "Flash Finger & Y.U.P ft. Crazy-T",
+          "title": "Rice Cake (Acappella)",
+          "remix": "",
+          "trackId": "3424208"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flash Finger & Y.U.P ft. Crazy-T",
+      "title": "Rice Cake (Acappella)",
+      "remix": "",
+      "label": "DISCOVERY MUSIC",
+      "trackId": "3424208",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "316722",
+        "youtube": "316722",
+        "soundcloud": "316722",
+        "appleMusic": "316722"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flash Finger & Y.U.P ft. Crazy-T",
+          "title": "Rice Cake (Acappella)",
+          "remix": "",
+          "trackId": "3424208"
+        },
+        {
+          "artist": "AvAlanche",
+          "title": "Carva",
+          "remix": "",
+          "trackId": "3424209"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AvAlanche",
+      "title": "Carva",
+      "remix": "",
+      "label": "ENSIS",
+      "trackId": "3424209",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "339812",
+        "soundcloud": "339812",
+        "appleMusic": "339812"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Hardwell & Steve Aoki ft. Kris Kiss",
+      "title": "Anthem",
+      "remix": "",
+      "label": "DIM MAK/REVEALED",
+      "trackId": "3424210",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "409957",
+        "youtube": "409957",
+        "soundcloud": "409957",
+        "appleMusic": "409957"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hardwell & Steve Aoki ft. Kris Kiss",
+          "title": "Anthem",
+          "remix": "",
+          "trackId": "3424210"
+        },
+        {
+          "artist": "Garmiani ft. Julimar Santos",
+          "title": "Fogo",
+          "remix": "",
+          "trackId": "3424211"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Garmiani ft. Julimar Santos",
+      "title": "Fogo",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3424211",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "370707",
+        "youtube": "370707",
+        "soundcloud": "370707",
+        "appleMusic": "370707"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Sansixto & Max Adrian & Aftermarket",
+      "title": "Stellar",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "3424212",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "405247",
+        "youtube": "405247",
+        "soundcloud": "405247",
+        "appleMusic": "405247"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sansixto & Max Adrian & Aftermarket",
+          "title": "Stellar",
+          "remix": "",
+          "trackId": "3424212"
+        },
+        {
+          "artist": "TJR & Reece Low ft. Fatman Scoop",
+          "title": "Check This",
+          "remix": "",
+          "trackId": "3424213"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TJR & Reece Low ft. Fatman Scoop",
+      "title": "Check This",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3424213",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "391041",
+        "youtube": "391041",
+        "soundcloud": "391041",
+        "appleMusic": "391041"
+      },
+      "blendGroup": [
+        {
+          "artist": "TJR & Reece Low ft. Fatman Scoop",
+          "title": "Check This",
+          "remix": "",
+          "trackId": "3424213"
+        },
+        {
+          "artist": "Olly James",
+          "title": "Bad",
+          "remix": "",
+          "trackId": "3424214"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Olly James",
+      "title": "Bad",
+      "remix": "",
+      "label": "MAXXIMIZE (SPINNIN')",
+      "trackId": "3424214",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "382402",
+        "youtube": "382402",
+        "soundcloud": "382402",
+        "appleMusic": "382402"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Kash Simic & I.O.A. ft. Walshy Fire",
+      "title": "Throw It Back",
+      "remix": "",
+      "label": "ONES TO WATCH (MIXMASH)",
+      "trackId": "3424215",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "377969",
+        "soundcloud": "377969",
+        "appleMusic": "377969"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kash Simic & I.O.A. ft. Walshy Fire",
+          "title": "Throw It Back",
+          "remix": "",
+          "trackId": "3424215"
+        },
+        {
+          "artist": "AvAlanche & Flash Finger",
+          "title": "ID",
+          "remix": "",
+          "trackId": "3424216"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AvAlanche & Flash Finger",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3424216",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "16",
+      "artist": "TJR ft. Savage",
+      "title": "We Wanna Party",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3424217",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "293191",
+        "youtube": "293191",
+        "soundcloud": "293191",
+        "appleMusic": "293191"
+      },
+      "blendGroup": [
+        {
+          "artist": "TJR ft. Savage",
+          "title": "We Wanna Party",
+          "remix": "",
+          "trackId": "3424217"
+        },
+        {
+          "artist": "TV Noise",
+          "title": "808",
+          "remix": "",
+          "trackId": "3424218"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TV Noise",
+      "title": "808",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "3424218",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "410652",
+        "youtube": "410652",
+        "soundcloud": "410652",
+        "appleMusic": "410652"
+      },
+      "blendGroup": [
+        {
+          "artist": "TV Noise",
+          "title": "808",
+          "remix": "",
+          "trackId": "3424218"
+        },
+        {
+          "artist": "John Christian",
+          "title": "Where Is The Party",
+          "remix": "",
+          "trackId": "3424219"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "John Christian",
+      "title": "Where Is The Party",
+      "remix": "",
+      "label": "FREEWAY",
+      "trackId": "3424219",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "310895",
+        "youtube": "310895",
+        "soundcloud": "310895",
+        "appleMusic": "310895"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "ID vs. Flash Finger & AvAlanche",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3424220",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Flash Finger & AvAlanche & Max4U",
+      "title": "Night Wolf",
+      "remix": "",
+      "label": "ENSIS",
+      "trackId": "3424221",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "420645"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flash Finger & AvAlanche & Max4U",
+          "title": "Night Wolf",
+          "remix": "",
+          "trackId": "3424221"
+        },
+        {
+          "artist": "Kronic & Senor Roar ft. Lil Jon",
+          "title": "Beast",
+          "remix": "",
+          "trackId": "3424222"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kronic & Senor Roar ft. Lil Jon",
+      "title": "Beast",
+      "remix": "",
+      "label": "SUP GIRL",
+      "trackId": "3424222",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "247621",
+        "youtube": "247621",
+        "appleMusic": "247621"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kronic & Senor Roar ft. Lil Jon",
+          "title": "Beast",
+          "remix": "",
+          "trackId": "3424222"
+        },
+        {
+          "artist": "AvAlanche & Flash Finger",
+          "title": "Safari",
+          "remix": "",
+          "trackId": "3424223"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AvAlanche & Flash Finger",
+      "title": "Safari",
+      "remix": "",
+      "label": "DISCOVERY MUSIC",
+      "trackId": "3424223",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "310999",
+        "youtube": "310999",
+        "soundcloud": "310999",
+        "appleMusic": "310999"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "J Balvin & Willy William",
+      "title": "Mi Gente (Hardwell & Quintino Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "3424224",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "371886",
+        "youtube": "371886",
+        "soundcloud": "371886",
+        "appleMusic": "371886"
+      },
+      "blendGroup": [
+        {
+          "artist": "J Balvin & Willy William",
+          "title": "Mi Gente (Hardwell & Quintino Remix)",
+          "remix": "",
+          "trackId": "3424224"
+        },
+        {
+          "artist": "J Balvin & Willy William",
+          "title": "Mi Gente (Steve Aoki Remix)",
+          "remix": "",
+          "trackId": "3424225"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "J Balvin & Willy William",
+      "title": "Mi Gente (Steve Aoki Remix)",
+      "remix": "",
+      "label": "SCORPIO",
+      "trackId": "3424225",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "385328",
+        "youtube": "385328",
+        "soundcloud": "385328",
+        "appleMusic": "385328"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Audien & Matthew Koma",
+      "title": "Serotonin",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3424226",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "195294",
+        "youtube": "195294",
+        "soundcloud": "195294",
+        "appleMusic": "195294"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Flash Finger",
+      "title": "Flashback",
+      "remix": "",
+      "label": "DISCOVERY MUSIC",
+      "trackId": "3424227",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "382892"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Audiotricz",
+      "title": "F#cking Wild",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "3424228",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "341573",
+        "youtube": "341573",
+        "soundcloud": "341573",
+        "appleMusic": "341573"
+      },
+      "blendGroup": [
+        {
+          "artist": "Audiotricz",
+          "title": "F#cking Wild",
+          "remix": "",
+          "trackId": "3424228"
+        },
+        {
+          "artist": "Yellow Claw ft. Ayden",
+          "title": "Till It Hurts (LNY TNZ Remix)",
+          "remix": "",
+          "trackId": "3424229"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Yellow Claw ft. Ayden",
+      "title": "Till It Hurts (LNY TNZ Remix)",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "3424229",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "244775",
+        "youtube": "244775",
+        "soundcloud": "244775",
+        "appleMusic": "244775"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Sephyx ft. Mr. Shammi",
+      "title": "You Got The Rhythm",
+      "remix": "",
+      "label": "DIRTY WORKZ",
+      "trackId": "3424230",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "337355",
+        "soundcloud": "337355",
+        "appleMusic": "337355"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Tiësto & Sevenn",
+      "title": "BOOM (Brennan Heart Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "3424231",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "408087"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Ran-D",
+      "title": "Zombie",
+      "remix": "",
+      "label": "ROUGHSTATE/ARMADA",
+      "trackId": "3424232",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "338170",
+        "youtube": "338170",
+        "soundcloud": "338170",
+        "appleMusic": "338170"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Krewella x DISKORD",
+      "title": "Beggars (Zatox Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "3424233",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "314599",
+        "youtube": "314599",
+        "appleMusic": "314599"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Dirtyphonics & Sullivan King",
+      "title": "Sight Of Your Soul",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "3424234",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "387354",
+        "youtube": "387354",
+        "soundcloud": "387354",
+        "appleMusic": "387354"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "830682",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/469674843"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "830683",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/DiscoveryMusicAgency"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:06:35.741Z",
+  "scrapeVersion": 2
+}

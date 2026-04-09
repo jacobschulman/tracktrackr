@@ -1,0 +1,657 @@
+{
+  "tlId": "bc532s9",
+  "dj": "Hardwell",
+  "stage": "Ultra Europe",
+  "date": "2016-07-17",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/bc532s9/hardwell-mainstage-ultra-europe-croatia-2016-07-17.html",
+  "djs": [
+    {
+      "name": "Hardwell",
+      "slug": "hardwell"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Hardwell",
+      "title": "H-A-R-D-W-E-L-L 2016 Intro",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2153135",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 12,
+      "mediaIds": {
+        "spotify": "310549",
+        "youtube": "310549",
+        "soundcloud": "310549",
+        "appleMusic": "310549"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Hardwell & W&W vs. Mightyfools vs. Zedd & Lucky Date",
+      "title": "Live The Night vs. Footrocker vs. Fall Into The Sky (Hardwell Mashup)",
+      "remix": "",
+      "label": "INTERSCOPE/REVEALED/MAINSTAGE (ARMADA)",
+      "trackId": "2153136",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 143,
+      "mediaIds": {
+        "youtube": "319356"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "RIVERO & REGGIO vs. Ian Carey & Michelle Shellers",
+      "title": "Mental vs. Keep On Rising (Hardwell Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "10876693",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 340,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Hardwell & KAAZE & Jonathan Mendelsohn",
+      "title": "We Are Legends",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2153141",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 506,
+      "mediaIds": {
+        "spotify": "348068",
+        "youtube": "348068",
+        "soundcloud": "348068",
+        "appleMusic": "348068"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hardwell & KAAZE & Jonathan Mendelsohn",
+          "title": "We Are Legends",
+          "remix": "",
+          "trackId": "2153141"
+        },
+        {
+          "artist": "Martin Garrix",
+          "title": "Proxy (Put Your Hands Up Acappella)",
+          "remix": "",
+          "trackId": "2164924"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Garrix",
+      "title": "Proxy (Put Your Hands Up Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2164924",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 560,
+      "mediaIds": {
+        "spotify": "180710",
+        "youtube": "205447",
+        "soundcloud": "205447",
+        "appleMusic": "180710"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Garrix",
+          "title": "Proxy (Put Your Hands Up Acappella)",
+          "remix": "",
+          "trackId": "2164924"
+        },
+        {
+          "artist": "Hardwell & Dyro ft. Bright Lights",
+          "title": "Never Say Goodbye (Acappella)",
+          "remix": "",
+          "trackId": "2153143"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hardwell & Dyro ft. Bright Lights",
+      "title": "Never Say Goodbye (Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2153143",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 607,
+      "mediaIds": {
+        "spotify": "124789",
+        "youtube": "155879",
+        "soundcloud": "155879",
+        "appleMusic": "124789"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Hardwell ft. Craig David",
+      "title": "No Holding Back (Henry Fong Remix)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2153144",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 695,
+      "mediaIds": {
+        "spotify": "322059",
+        "youtube": "322059",
+        "soundcloud": "322059",
+        "appleMusic": "322059"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Hardwell & Blasterjaxx vs. Galantis",
+      "title": "Going Crazy vs. No Money (Hardwell Mashup)",
+      "remix": "",
+      "label": "XCVI/REVEALED/BIG BEAT (ATLANTIC)",
+      "trackId": "2153145",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 785,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Swedish House Mafia & Garmiani vs. Hardwell & KURA vs. Mike Cervello",
+      "title": "One vs. Calavera vs. Fuego (Hardwell Mashup)",
+      "remix": "",
+      "label": "POLYDOR/REVEALED/BARONG FAMILY",
+      "trackId": "2153146",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1013,
+      "mediaIds": {
+        "youtube": "324014"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Steve Angello & Laidback Luke ft. Robin S & Rowetta",
+      "title": "Show Be Love (Hardwell 2016 Rework)",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "2153148",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1247,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Steve Angello & Laidback Luke ft. Robin S & Rowetta",
+          "title": "Show Be Love (Hardwell 2016 Rework)",
+          "remix": "",
+          "trackId": "2153148"
+        },
+        {
+          "artist": "Karim Mika vs. Hardwell & Headhunterz ft. Haris",
+          "title": "Titan vs. Nothing Can Hold Us Down (Hardwell Mashup)",
+          "remix": "",
+          "trackId": "2153149"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Karim Mika vs. Hardwell & Headhunterz ft. Haris",
+      "title": "Titan vs. Nothing Can Hold Us Down (Hardwell Mashup)",
+      "remix": "",
+      "label": "REVEALED/WALL",
+      "trackId": "2153149",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1296,
+      "mediaIds": {
+        "youtube": "322511"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Hardwell ft. Jake Reese & Quintino vs. Garmiani vs. TJR ft. Savage ft. MAKJ & Lil Jon",
+      "title": "Mad World vs. Bomb A Drop vs. We Wanna Party (Hardwell UMF 2016 Mashup)",
+      "remix": "",
+      "label": "ULTRA/REVEALED/DIM MAK/SPINNIN'",
+      "trackId": "2153151",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1424,
+      "mediaIds": {
+        "youtube": "308391",
+        "soundcloud": "308391"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "TIGHTTRAXX & ETC!ETC! vs. Drake ft. Wizkid & Kyla",
+      "title": "One Jungla Dance (Hardwell Mashup)",
+      "remix": "",
+      "label": "BANZAI RECS/OVO",
+      "trackId": "2153153",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1617,
+      "mediaIds": {
+        "youtube": "311232",
+        "soundcloud": "311232"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Hardwell & Quintino",
+      "title": "Baldadig",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2153154",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1783,
+      "mediaIds": {
+        "spotify": "316155",
+        "youtube": "316155",
+        "soundcloud": "316155",
+        "appleMusic": "316155"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Tiesto & D3FAI vs. Rune RK & Firebeatz",
+      "title": "Lethal Calabria (D3FAI VIP Edit)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/MAGIK MUZIK (BLACK HOLE)",
+      "trackId": "2153156",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1952,
+      "mediaIds": {
+        "youtube": "323901"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Calvin Harris ft. Rihanna",
+      "title": "This Is What You Came For (R3HAB & Henry Fong Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "2153158",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2145,
+      "mediaIds": {
+        "spotify": "311547",
+        "youtube": "311547",
+        "soundcloud": "311547",
+        "appleMusic": "311547"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "IBRA & Syzz",
+      "title": "Muscular",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2153159",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2365,
+      "mediaIds": {
+        "spotify": "333166",
+        "youtube": "333166",
+        "soundcloud": "333166",
+        "appleMusic": "333166"
+      },
+      "blendGroup": [
+        {
+          "artist": "IBRA & Syzz",
+          "title": "Muscular",
+          "remix": "",
+          "trackId": "2153159"
+        },
+        {
+          "artist": "Zedd",
+          "title": "The Legend Of Zelda",
+          "remix": "",
+          "trackId": "2153588"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd",
+      "title": "The Legend Of Zelda",
+      "remix": "",
+      "label": "BAZOOKA",
+      "trackId": "2153588",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 2440,
+      "mediaIds": {
+        "spotify": "30936",
+        "youtube": "30936",
+        "soundcloud": "30936",
+        "appleMusic": "30936"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd",
+          "title": "The Legend Of Zelda",
+          "remix": "",
+          "trackId": "2153588"
+        },
+        {
+          "artist": "Chardy & Kronic",
+          "title": "S.W.A.T. Team (Everybody Fucking *Beep* Jump Acappella)",
+          "remix": "",
+          "trackId": "2153160"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chardy & Kronic",
+      "title": "S.W.A.T. Team (Everybody Fucking *Beep* Jump Acappella)",
+      "remix": "",
+      "label": "HUSSLE",
+      "trackId": "2153160",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 2507,
+      "mediaIds": {
+        "spotify": "130824",
+        "youtube": "145648",
+        "soundcloud": "145648",
+        "appleMusic": "130824"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "MR.BLACK & WAO vs. Avicii",
+      "title": "Hu Ha Levels (Hardwell Mashup)",
+      "remix": "",
+      "label": "LE7ELS/UMG/REVEALED",
+      "trackId": "2153161",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2555,
+      "mediaIds": {
+        "youtube": "323858"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Hardwell & W&W feat. Fatman Scoop vs. Zombie Nation",
+      "title": "Don't Stop The Madness vs. Kernkraft 400 (Hardwell Mashup)",
+      "remix": "",
+      "label": "EPM/REVEALED",
+      "trackId": "2153163",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2740,
+      "mediaIds": {
+        "youtube": "287541"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Hardwell ft. Jake Reese",
+      "title": "Run Wild",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2153164",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2965,
+      "mediaIds": {
+        "spotify": "263806",
+        "youtube": "263806",
+        "soundcloud": "263806",
+        "appleMusic": "263806"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "VINAI ft. Harrison vs. David Guetta & GLOWINTHEDARK vs. DJ Snake & W&W",
+      "title": "The Wave vs. Ain't A Party vs. Propaganda (Hardwell Mashup)",
+      "remix": "",
+      "label": "JACK BACK/SPINNIN'/DJ SNAKE/INTERSCOPE",
+      "trackId": "2153165",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3245,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "VINAI ft. Harrison vs. David Guetta & GLOWINTHEDARK vs. DJ Snake & W&W",
+          "title": "The Wave vs. Ain't A Party vs. Propaganda (Hardwell Mashup)",
+          "remix": "",
+          "trackId": "2153165"
+        },
+        {
+          "artist": "Quintino",
+          "title": "Scorpion (Hardwell Edit)",
+          "remix": "",
+          "trackId": "2320702"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Quintino",
+      "title": "Scorpion (Hardwell Edit)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2320702",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 3245,
+      "mediaIds": {
+        "spotify": "276281",
+        "youtube": "276281",
+        "soundcloud": "276281",
+        "appleMusic": "276281"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Hardwell & W&W vs. MNEK & Zara Larsson & Dr Phunk",
+      "title": "Never Forget You vs. Get Down (Hardwell Mashup)",
+      "remix": "",
+      "label": "REVEALED/TEN",
+      "trackId": "2153168",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3355,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Major Lazer & Nyla & Quintino vs. Sebastian Ingrosso & Tommy Trash & John Martin vs. Afrojack & Hardwell",
+      "title": "Light It Up vs. Reload vs. Hollywood (Hardwell Mashup)",
+      "remix": "",
+      "label": "REFUNE/REVEALED/MAD DECENT",
+      "trackId": "2153170",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3540,
+      "mediaIds": {
+        "youtube": "319366"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "W&W & Blasterjaxx vs. Yeah Yeah Yeahs & A-Trak vs. MAKJ & Lil Jon ft. Deorro & J-Trick",
+      "title": "Bowser vs. Heads Will Roll vs. Let's Get Fucked Up (Hardwell Mashup)",
+      "remix": "",
+      "label": "DGC/REVEALED/ULTRA",
+      "trackId": "2153171",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3750,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Jewelz & Sparks vs. Hardwell vs. Seth Hills vs. Alan Walker & Iselin Solheim vs. W&W & Blasterjaxx",
+      "title": "Crank vs. Spaceman vs. Raise Your Hands vs. Faded vs. Rocket (Hardwell Mashup)",
+      "remix": "",
+      "label": "REVEALED/MER/FREE",
+      "trackId": "2153172",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3893,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Kid Cudi & Steve Aoki vs. VINAI vs. Alvaro & Mercer & Lil Jon",
+      "title": "Pursuit Of Happiness vs. Techno vs. Welcome To The Jungle (Hardwell Mashup)",
+      "remix": "",
+      "label": "REPUBLIC/GOOD MUSIC/REVEALED/SPINNIN'",
+      "trackId": "2153173",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 4156,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Hardwell & Armin van Buuren vs. Fedde Le Grand vs. Kygo ft. Conrad Sewell ft. Chuckie",
+      "title": "Off The Hook vs. Put Your Hands Up For Detroit vs. Firestone (Hardwell Mashup)",
+      "remix": "(UMF Edit)",
+      "label": "DATA REC. (MINISTRY OF SOUND)/SONY/ULTRA/BIG BEAT (ATLANTIC)/ARMADA/REVEALED",
+      "trackId": "2153174",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 4335,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Hardwell",
+      "title": "Wake Up Call",
+      "remix": "",
+      "label": "REVEALED/FREE",
+      "trackId": "2153177",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 4650,
+      "mediaIds": {
+        "spotify": "291292",
+        "youtube": "291292",
+        "soundcloud": "291292",
+        "appleMusic": "291292"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "The Chainsmokers ft. Daya",
+      "title": "Don't Let Me Down (Hardwell & Sephyx Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "2153178",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 4928,
+      "mediaIds": {
+        "spotify": "307316",
+        "youtube": "307316",
+        "soundcloud": "307316",
+        "appleMusic": "307316"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Jason Paige",
+      "title": "Pokémon Theme",
+      "remix": "",
+      "label": "KOCH",
+      "trackId": "2153179",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 5105,
+      "mediaIds": {
+        "spotify": "276820",
+        "youtube": "276820",
+        "appleMusic": "276820"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Hardwell ft. Amba Shepherd",
+      "title": "Apollo (Dr Phunk Remix)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2153180",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 5221,
+      "mediaIds": {
+        "spotify": "317308",
+        "youtube": "317308",
+        "soundcloud": "317308",
+        "appleMusic": "317308"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "463004",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=xX59JmrQHv4"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "462069",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/274169110"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "463328",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:32:50.315Z",
+  "scrapeVersion": 2
+}

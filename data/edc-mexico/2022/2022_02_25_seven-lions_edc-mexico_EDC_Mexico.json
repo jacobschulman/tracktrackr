@@ -1,0 +1,664 @@
+{
+  "tlId": "2wk97831",
+  "dj": "Seven Lions",
+  "stage": "EDC Mexico",
+  "date": "2022-02-25",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/2wk97831/seven-lions-circuitgrounds-edc-mexico-2022-02-25.html",
+  "djs": [
+    {
+      "name": "Seven Lions",
+      "slug": "sevenlions"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Seven Lions",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7402483",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Seven Lions & Wooli & AMIDY",
+      "title": "Shadows (Maor Levi Remix)",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402484",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 207,
+      "mediaIds": {
+        "spotify": "720286",
+        "youtube": "720286",
+        "soundcloud": "720286",
+        "appleMusic": "720286"
+      },
+      "blendGroup": [
+        {
+          "artist": "Seven Lions & Wooli & AMIDY",
+          "title": "Shadows (Maor Levi Remix)",
+          "remix": "",
+          "trackId": "7402484"
+        },
+        {
+          "artist": "Seven Lions & Wooli & AMIDY",
+          "title": "Shadows",
+          "remix": "",
+          "trackId": "7402485"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions & Wooli & AMIDY",
+      "title": "Shadows",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402485",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 348,
+      "mediaIds": {
+        "spotify": "681614",
+        "youtube": "681614",
+        "soundcloud": "681614",
+        "appleMusic": "681614"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Tebra",
+      "title": "Rod (Electric Universe Remix)",
+      "remix": "",
+      "label": "SACRED TECHNOLOGY",
+      "trackId": "7402486",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 442,
+      "mediaIds": {
+        "spotify": "703364",
+        "youtube": "703364",
+        "soundcloud": "703364",
+        "appleMusic": "703364"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Jason Ross & Blanke ft. Chandler Leighton",
+      "title": "One More Day",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402487",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 509,
+      "mediaIds": {
+        "spotify": "649530",
+        "youtube": "649530",
+        "soundcloud": "649530",
+        "appleMusic": "649530"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jason Ross & Blanke ft. Chandler Leighton",
+          "title": "One More Day",
+          "remix": "",
+          "trackId": "7402487"
+        },
+        {
+          "artist": "Seven Lions ft. Kerli",
+          "title": "Worlds Apart",
+          "remix": "(Acappella)",
+          "trackId": "7402488"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions ft. Kerli",
+      "title": "Worlds Apart",
+      "remix": "(Acappella)",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "7402488",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "192315",
+        "youtube": "192315",
+        "soundcloud": "192315",
+        "appleMusic": "192315"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Kill The Noise",
+      "title": "Crank",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402489",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 624,
+      "mediaIds": {
+        "spotify": "783715",
+        "youtube": "783715",
+        "soundcloud": "783715",
+        "appleMusic": "783715"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Seven Lions & Blastoyz ft. ERV ELLO",
+      "title": "Reason For Fighting",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402490",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 666,
+      "mediaIds": {
+        "spotify": "616589",
+        "youtube": "616589",
+        "soundcloud": "616589",
+        "appleMusic": "616589"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Seven Lions & Tyler Graves",
+      "title": "Only Now",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402491",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 895,
+      "mediaIds": {
+        "spotify": "524589",
+        "youtube": "524589",
+        "soundcloud": "524589",
+        "appleMusic": "524589"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Blanke",
+      "title": "Boom",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402492",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1102,
+      "mediaIds": {
+        "spotify": "720684",
+        "youtube": "720684",
+        "soundcloud": "720684",
+        "appleMusic": "720684"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Gryffin & Seven Lions ft. Noah Kahan",
+      "title": "Need Your Love (NURKO Remix)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "7402493",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1183,
+      "mediaIds": {
+        "spotify": "576744",
+        "youtube": "576744",
+        "soundcloud": "576744",
+        "appleMusic": "576744"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Tokyo Machine",
+      "title": "FLAMES",
+      "remix": "",
+      "label": "PROXIMITY",
+      "trackId": "7402494",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1314,
+      "mediaIds": {
+        "spotify": "565580",
+        "youtube": "565580",
+        "soundcloud": "565580",
+        "appleMusic": "565580"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Above & Beyond & Seven Lions ft. Opposite The Other",
+      "title": "See The End",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "7402495",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1364,
+      "mediaIds": {
+        "spotify": "511615",
+        "youtube": "511615",
+        "soundcloud": "511615",
+        "appleMusic": "511615"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Space Laces",
+      "title": "Dominate",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "7402496",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1531,
+      "mediaIds": {
+        "spotify": "673857",
+        "youtube": "673857",
+        "soundcloud": "673857",
+        "appleMusic": "673857"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Seven Lions & Myon & Shane 54 ft. Tove Lo",
+      "title": "Strangers",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "7402497",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1592,
+      "mediaIds": {
+        "spotify": "147905",
+        "youtube": "147905",
+        "soundcloud": "147905",
+        "appleMusic": "147905"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Seven Lions ft. Skyler Stonestreet",
+      "title": "Freesol (Blastoyz & Ranji Remix)",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402499",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1827,
+      "mediaIds": {
+        "spotify": "524590",
+        "youtube": "524590",
+        "soundcloud": "524590",
+        "appleMusic": "524590"
+      },
+      "blendGroup": [
+        {
+          "artist": "Seven Lions ft. Skyler Stonestreet",
+          "title": "Freesol (Blastoyz & Ranji Remix)",
+          "remix": "",
+          "trackId": "7402499"
+        },
+        {
+          "artist": "Ian Van Dahl ft. Marsha",
+          "title": "Castles In The Sky",
+          "remix": "(Acappella)",
+          "trackId": "7402500"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ian Van Dahl ft. Marsha",
+      "title": "Castles In The Sky",
+      "remix": "(Acappella)",
+      "label": "A&S",
+      "trackId": "7402500",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 2007,
+      "mediaIds": {
+        "spotify": "90043",
+        "youtube": "90043",
+        "appleMusic": "90043"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ian Van Dahl ft. Marsha",
+          "title": "Castles In The Sky",
+          "remix": "(Acappella)",
+          "trackId": "7402500"
+        },
+        {
+          "artist": "Seven Lions ft. Skyler Stonestreet",
+          "title": "Freesol",
+          "remix": "",
+          "trackId": "7402501"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions ft. Skyler Stonestreet",
+      "title": "Freesol",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "7402501",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 2080,
+      "mediaIds": {
+        "spotify": "354063",
+        "youtube": "354063",
+        "soundcloud": "354063",
+        "appleMusic": "354063"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Seven Lions & Jason Ross",
+      "title": "Orpheus",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402502",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2130,
+      "mediaIds": {
+        "spotify": "758888",
+        "youtube": "758888",
+        "soundcloud": "758888",
+        "appleMusic": "758888"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Seven Lions & Wooli & Trivecta ft. Nevve",
+      "title": "Island",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402503",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2182,
+      "mediaIds": {
+        "spotify": "459012",
+        "youtube": "459012",
+        "soundcloud": "459012",
+        "appleMusic": "459012"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Seven Lions ft. RUNN",
+      "title": "Calling You Home",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402504",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2374,
+      "mediaIds": {
+        "spotify": "401097",
+        "youtube": "401097",
+        "soundcloud": "401097",
+        "appleMusic": "401097"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Kompany & Wooli",
+      "title": "Fight Milk",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402505",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2429,
+      "mediaIds": {
+        "spotify": "746214",
+        "youtube": "746214",
+        "soundcloud": "746214",
+        "appleMusic": "746214"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Blastoyz & Dimibo & Jason Ross & Kill The Noise & Seven Lions & Trivecta & Wooli",
+      "title": "Pantheon",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402506",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2465,
+      "mediaIds": {
+        "spotify": "613319",
+        "youtube": "613319",
+        "soundcloud": "613319",
+        "appleMusic": "613319"
+      },
+      "blendGroup": [
+        {
+          "artist": "Blastoyz & Dimibo & Jason Ross & Kill The Noise & Seven Lions & Trivecta & Wooli",
+          "title": "Pantheon",
+          "remix": "",
+          "trackId": "7402506"
+        },
+        {
+          "artist": "Seven Lions ft. Lights",
+          "title": "Falling Away",
+          "remix": "(Acappella)",
+          "trackId": "7402507"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions ft. Lights",
+      "title": "Falling Away",
+      "remix": "(Acappella)",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "7402507",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "266112",
+        "youtube": "266112",
+        "soundcloud": "266112",
+        "appleMusic": "266112"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Seven Lions & Jason Ross ft. Fiora",
+      "title": "See You Again",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402508",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2745,
+      "mediaIds": {
+        "spotify": "734852",
+        "youtube": "734852",
+        "soundcloud": "734852",
+        "appleMusic": "734852"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "RL Grime",
+      "title": "Core (Ray Volpe Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "7402509",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2881,
+      "mediaIds": {
+        "youtube": "725482",
+        "soundcloud": "725482"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Eliminate",
+      "title": "Mula",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "7402510",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "532552",
+        "youtube": "532552",
+        "soundcloud": "532552",
+        "appleMusic": "532552"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Seven Lions & SLANDER & Dabin ft. Dylan Matthew",
+      "title": "First Time",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402511",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3004,
+      "mediaIds": {
+        "spotify": "446977",
+        "youtube": "446977",
+        "soundcloud": "446977",
+        "appleMusic": "446977"
+      },
+      "blendGroup": [
+        {
+          "artist": "Seven Lions & SLANDER & Dabin ft. Dylan Matthew",
+          "title": "First Time",
+          "remix": "",
+          "trackId": "7402511"
+        },
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Save The World (Acappella)",
+          "remix": "",
+          "trackId": "7402513"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Save The World (Acappella)",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "7402513",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 3138,
+      "mediaIds": {
+        "spotify": "31007",
+        "youtube": "61666",
+        "soundcloud": "61666",
+        "appleMusic": "31007"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Save The World (Acappella)",
+          "remix": "",
+          "trackId": "7402513"
+        },
+        {
+          "artist": "Seven Lions & SLANDER & Dabin ft. Dylan Matthew",
+          "title": "First Time",
+          "remix": "(Instrumental)",
+          "trackId": "7402512"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Seven Lions & SLANDER & Dabin ft. Dylan Matthew",
+      "title": "First Time",
+      "remix": "(Instrumental)",
+      "label": "OPHELIA",
+      "trackId": "7402512",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 3190,
+      "mediaIds": {
+        "spotify": "446977",
+        "youtube": "446977",
+        "soundcloud": "446977",
+        "appleMusic": "446977"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Darude",
+      "title": "Sandstorm (Seven Lions & Dimibo Remix)",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "7402514",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3241,
+      "mediaIds": {
+        "youtube": "509294",
+        "soundcloud": "509294"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2708201",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=GTLYlDARRhA"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:31:32.367Z",
+  "scrapeVersion": 2
+}

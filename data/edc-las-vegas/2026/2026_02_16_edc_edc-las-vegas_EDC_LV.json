@@ -1,0 +1,172 @@
+{
+  "tlId": "zb93wyk",
+  "dj": "edc",
+  "stage": "EDC Las Vegas",
+  "date": "2026-02-16",
+  "year": 2026,
+  "url": "https://www.1001tracklists.com/tracklist/zb93wyk/edc-las-vegas-official-trailer-2026-2026-02-16.html",
+  "djs": [
+    {
+      "name": "edc",
+      "slug": "edc"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Antonio Vivaldi",
+      "title": "Four Seasons Concerto No. 2 in G minor, Op. 8, RV 315, \"Summer\" (L'estate)",
+      "remix": "",
+      "label": "NAXOS",
+      "trackId": "13477439",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "726963",
+        "youtube": "726963"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Martin Garrix & Citadelle",
+      "title": "Peace Of Mind",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "13477440",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 42,
+      "mediaIds": {
+        "spotify": "1101245",
+        "youtube": "1101245",
+        "soundcloud": "1101245",
+        "appleMusic": "1101245"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "NOTXERIUS & GIO & Arkins",
+      "title": "Jimmy Neutron",
+      "remix": "",
+      "label": "",
+      "trackId": "13477441",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 57,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Riordan",
+      "title": "TWOSTEP",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "13477442",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 109,
+      "mediaIds": {
+        "spotify": "1087217",
+        "youtube": "1087217",
+        "soundcloud": "1087217",
+        "appleMusic": "1087217"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Plump DJs & Krafty Kuts & Freestylers & King Of The Beats",
+      "title": "Nighthawk",
+      "remix": "",
+      "label": "SPEAKER FREAKER",
+      "trackId": "13477443",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 158,
+      "mediaIds": {
+        "spotify": "1144604",
+        "youtube": "1144604",
+        "appleMusic": "1144604"
+      },
+      "blendGroup": [
+        {
+          "artist": "Plump DJs & Krafty Kuts & Freestylers & King Of The Beats",
+          "title": "Nighthawk",
+          "remix": "",
+          "trackId": "13477443"
+        },
+        {
+          "artist": "OnDaMike",
+          "title": "Rinse Rave Repeat",
+          "remix": "",
+          "trackId": "13477444"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "OnDaMike",
+      "title": "Rinse Rave Repeat",
+      "remix": "",
+      "label": "",
+      "trackId": "13477444",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 158,
+      "mediaIds": null
+    },
+    {
+      "pos": "06",
+      "artist": "[IVY]",
+      "title": "Flow",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "13477445",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 205,
+      "mediaIds": {
+        "spotify": "1121079",
+        "youtube": "1121079",
+        "soundcloud": "1121079"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "SIDEPIECE",
+      "title": "Cry For You",
+      "remix": "",
+      "label": "LIP SERVICE",
+      "trackId": "13477446",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 250,
+      "mediaIds": {
+        "spotify": "1073379",
+        "youtube": "1073379",
+        "soundcloud": "1073379",
+        "appleMusic": "1073379"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "5217138",
+      "idSource": "13",
+      "url": ""
+    }
+  ],
+  "scrapedAt": "2026-04-08T02:38:47.848Z",
+  "scrapeVersion": 2
+}

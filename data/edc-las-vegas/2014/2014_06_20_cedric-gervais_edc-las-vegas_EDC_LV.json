@@ -1,0 +1,390 @@
+{
+  "tlId": "4tl7149",
+  "dj": "Cedric Gervais",
+  "stage": "EDC Las Vegas",
+  "date": "2014-06-20",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/4tl7149/cedric-gervais-kineticfield-edc-las-vegas-united-states-2014-06-20.html",
+  "djs": [
+    {
+      "name": "Cedric Gervais",
+      "slug": "cedricgervais"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "TJR & VINAI",
+      "title": "Bounce Generation",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "951655",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "184772",
+        "youtube": "184772",
+        "soundcloud": "184772",
+        "appleMusic": "184772"
+      },
+      "blendGroup": [
+        {
+          "artist": "TJR & VINAI",
+          "title": "Bounce Generation",
+          "remix": "",
+          "trackId": "951655"
+        },
+        {
+          "artist": "Lana Del Rey",
+          "title": "Summertime Sadness (Acappella)",
+          "remix": "",
+          "trackId": "2585926"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lana Del Rey",
+      "title": "Summertime Sadness (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2585926",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "68698",
+        "youtube": "68698",
+        "soundcloud": "68698",
+        "appleMusic": "68698"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "CID & Mednas",
+      "title": "iLL Behavior",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "951656",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "184780",
+        "youtube": "184780",
+        "soundcloud": "184780",
+        "appleMusic": "184780"
+      },
+      "blendGroup": [
+        {
+          "artist": "CID & Mednas",
+          "title": "iLL Behavior",
+          "remix": "",
+          "trackId": "951656"
+        },
+        {
+          "artist": "Maurizio Gubellini & Nari & Milani",
+          "title": "UP (Acappella)",
+          "remix": "",
+          "trackId": "951657"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Maurizio Gubellini & Nari & Milani",
+      "title": "UP (Acappella)",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "951657",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "57141",
+        "youtube": "57141",
+        "appleMusic": "57141"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Walden",
+      "title": "Airodime",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "951658",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "190084",
+        "youtube": "190084",
+        "soundcloud": "190084",
+        "appleMusic": "190084"
+      },
+      "blendGroup": [
+        {
+          "artist": "Walden",
+          "title": "Airodime",
+          "remix": "",
+          "trackId": "951658"
+        },
+        {
+          "artist": "Superchumbo",
+          "title": "The Revolution (Acappella)",
+          "remix": "",
+          "trackId": "951659"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Superchumbo",
+      "title": "The Revolution (Acappella)",
+      "remix": "",
+      "label": "TWISTED",
+      "trackId": "951659",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "2594"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Cedric Gervais ft. Coco",
+      "title": "Through The Night",
+      "remix": "",
+      "label": "ROBBINS (SONY)",
+      "trackId": "951660",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 1044,
+      "mediaIds": {
+        "spotify": "204977",
+        "youtube": "204977",
+        "soundcloud": "204977",
+        "appleMusic": "204977"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Lana Del Rey",
+      "title": "Summertime Sadness (Cedric Gervais Remix)",
+      "remix": "",
+      "label": "SPINNIN'/INTERSCOPE",
+      "trackId": "951661",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1235,
+      "mediaIds": {
+        "spotify": "112037",
+        "youtube": "112037",
+        "soundcloud": "112037",
+        "appleMusic": "112037"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Jewelz & Sparks",
+      "title": "Dope",
+      "remix": "",
+      "label": "FLAMINGO",
+      "trackId": "951662",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "181259",
+        "youtube": "181259",
+        "soundcloud": "181259",
+        "appleMusic": "181259"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Merk & Kremont",
+      "title": "Amen",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "951663",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "171135",
+        "youtube": "171135",
+        "soundcloud": "171135",
+        "appleMusic": "171135"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Ummet Ozcan & R3HAB & NERVO",
+      "title": "Revolution (Instrumental Mix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "951664",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "156685",
+        "youtube": "156685",
+        "soundcloud": "156685",
+        "appleMusic": "156685"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Cedric Gervais ft. Ali Tamposi",
+      "title": "Love Again",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "951665",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1825,
+      "mediaIds": {
+        "spotify": "222131",
+        "youtube": "222131",
+        "soundcloud": "222131",
+        "appleMusic": "222131"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Marc Benjamin",
+      "title": "Rocket Science",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "951666",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "182722",
+        "youtube": "182722",
+        "soundcloud": "182722",
+        "appleMusic": "182722"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Riva Starr & Fatboy Slim ft. Beardyman",
+      "title": "Eat Sleep Rave Repeat (Calvin Harris Remix)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "951667",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "141683",
+        "youtube": "141683",
+        "soundcloud": "141683",
+        "appleMusic": "141683"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Showtek ft. We Are Loud & Sonny Wilson",
+      "title": "Booyah",
+      "remix": "",
+      "label": "SPINNIN'/2DUTCH",
+      "trackId": "951668",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "142182",
+        "youtube": "142182",
+        "soundcloud": "142182",
+        "appleMusic": "142182"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Lana Del Rey",
+      "title": "Young & Beautiful (Cedric Gervais Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "951669",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "141121",
+        "youtube": "141121",
+        "soundcloud": "141121",
+        "appleMusic": "141121"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "951670",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 3300,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Lana Del Rey",
+      "title": "Summertime Sadness (Cedric Gervais Remix / Acoustic Version)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "951671",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "170675"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "189347",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/LiveDjSets"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "189082",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/thebesthouse"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "190479",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:11:52.038Z",
+  "scrapeVersion": 2
+}

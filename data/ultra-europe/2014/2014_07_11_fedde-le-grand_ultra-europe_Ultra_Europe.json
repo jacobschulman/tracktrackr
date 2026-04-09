@@ -1,0 +1,624 @@
+{
+  "tlId": "2p24rht",
+  "dj": "Fedde Le Grand",
+  "stage": "Ultra Europe",
+  "date": "2014-07-11",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/2p24rht/fedde-le-grand-ultra-europe-croatia-2014-07-11.html",
+  "djs": [
+    {
+      "name": "Fedde Le Grand",
+      "slug": "feddelegrand"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Fedde Le Grand & Jewelz & Sparks",
+      "title": "Robotic",
+      "remix": "",
+      "label": "DARKLIGHT",
+      "trackId": "980099",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "187581",
+        "youtube": "187581",
+        "soundcloud": "187581",
+        "appleMusic": "187581"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Yeah Yeah Yeahs ft. A-Trak",
+      "title": "Heads Will Roll (Jewelz & Sparks Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "980259",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 36,
+      "mediaIds": {
+        "youtube": "169489",
+        "soundcloud": "169489"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Jewelz & Sparks",
+      "title": "Dope",
+      "remix": "",
+      "label": "FLAMINGO",
+      "trackId": "980100",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 252,
+      "mediaIds": {
+        "spotify": "181259",
+        "youtube": "181259",
+        "soundcloud": "181259",
+        "appleMusic": "181259"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Bassjackers",
+      "title": "Zing",
+      "remix": "",
+      "label": "PROTOCOL",
+      "trackId": "980102",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 437,
+      "mediaIds": {
+        "spotify": "137126",
+        "youtube": "137126",
+        "soundcloud": "137126",
+        "appleMusic": "137126"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bassjackers",
+          "title": "Zing",
+          "remix": "",
+          "trackId": "980102"
+        },
+        {
+          "artist": "Fatboy Slim",
+          "title": "Ya Mama (Push The Tempo) (Acappella)",
+          "remix": "",
+          "trackId": "1255525"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fatboy Slim",
+      "title": "Ya Mama (Push The Tempo) (Acappella)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "1255525",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 588,
+      "mediaIds": {
+        "spotify": "46813",
+        "youtube": "46813",
+        "soundcloud": "36495",
+        "appleMusic": "46813"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fatboy Slim",
+          "title": "Ya Mama (Push The Tempo) (Acappella)",
+          "remix": "",
+          "trackId": "1255525"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Aerodynamic",
+          "remix": "",
+          "trackId": "980267"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Aerodynamic",
+      "remix": "",
+      "label": "DAFT LIFE",
+      "trackId": "980267",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 485,
+      "mediaIds": {
+        "spotify": "2606",
+        "youtube": "2606",
+        "soundcloud": "2606",
+        "appleMusic": "2606"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Cassius",
+      "title": "I <3 U SO",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "980316",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 597,
+      "mediaIds": {
+        "spotify": "24813",
+        "youtube": "24813",
+        "soundcloud": "24813",
+        "appleMusic": "24813"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cassius",
+          "title": "I <3 U SO",
+          "remix": "",
+          "trackId": "980316"
+        },
+        {
+          "artist": "Jillionaire & Salvatore Ganacci ft. Sanjin",
+          "title": "Fresh",
+          "remix": "",
+          "trackId": "980103"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jillionaire & Salvatore Ganacci ft. Sanjin",
+      "title": "Fresh",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "980103",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 625,
+      "mediaIds": {
+        "spotify": "167508",
+        "youtube": "167508",
+        "soundcloud": "167508",
+        "appleMusic": "167508"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "dBerrie & Zen Freeman",
+      "title": "Switch",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "980104",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 789,
+      "mediaIds": {
+        "spotify": "142365",
+        "youtube": "142365",
+        "soundcloud": "142365",
+        "appleMusic": "142365"
+      },
+      "blendGroup": [
+        {
+          "artist": "dBerrie & Zen Freeman",
+          "title": "Switch",
+          "remix": "",
+          "trackId": "980104"
+        },
+        {
+          "artist": "Loken",
+          "title": "Tarantula",
+          "remix": "",
+          "trackId": "984240"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Loken",
+      "title": "Tarantula",
+      "remix": "",
+      "label": "TIGER RECORDS",
+      "trackId": "984240",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 118,
+      "mediaIds": {
+        "spotify": "162064",
+        "youtube": "162064",
+        "soundcloud": "162064",
+        "appleMusic": "162064"
+      },
+      "blendGroup": [
+        {
+          "artist": "Loken",
+          "title": "Tarantula",
+          "remix": "",
+          "trackId": "984240"
+        },
+        {
+          "artist": "Syndicate Of L.A.W.",
+          "title": "Right On Time (2000 Countdown The Holly Digit Acappella)",
+          "remix": "",
+          "trackId": "980105"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Syndicate Of L.A.W.",
+      "title": "Right On Time (2000 Countdown The Holly Digit Acappella)",
+      "remix": "",
+      "label": "GUN RECORDS",
+      "trackId": "980105",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 866,
+      "mediaIds": {
+        "spotify": "16904",
+        "youtube": "16904",
+        "soundcloud": "16904",
+        "appleMusic": "16904"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "TJR & VINAI",
+      "title": "Bounce Generation",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "980106",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 949,
+      "mediaIds": {
+        "spotify": "184772",
+        "youtube": "184772",
+        "soundcloud": "184772",
+        "appleMusic": "184772"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Riva Starr & Fatboy Slim & Calvin Harris vs. Reepublic",
+      "title": "Eat Sleep Pantheon Repeat (Ughetti Edit)",
+      "remix": "",
+      "label": "SKINT/SPINNIN'",
+      "trackId": "980107",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1129,
+      "mediaIds": {
+        "soundcloud": "187578"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "dBerrie",
+      "title": "Zenith",
+      "remix": "",
+      "label": "FLAMINGO",
+      "trackId": "980109",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1323,
+      "mediaIds": {
+        "spotify": "109504",
+        "youtube": "109504",
+        "soundcloud": "109504",
+        "appleMusic": "109504"
+      },
+      "blendGroup": [
+        {
+          "artist": "dBerrie",
+          "title": "Zenith",
+          "remix": "",
+          "trackId": "980109"
+        },
+        {
+          "artist": "Calvin Harris",
+          "title": "Summer (Acappella)",
+          "remix": "",
+          "trackId": "980296"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris",
+      "title": "Summer (Acappella)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "980296",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 1425,
+      "mediaIds": {
+        "spotify": "184047",
+        "youtube": "195939",
+        "soundcloud": "184047",
+        "appleMusic": "184047"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "dBerrie vs. Bruno Mars & Sultan & Ned Shepard",
+      "title": "Locked Out Of Malfunction (Sprea Mashup)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)/FLAMINGO",
+      "trackId": "980110",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1545,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Coldplay",
+      "title": "Paradise (Fedde Le Grand Remix)",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "980269",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1636,
+      "mediaIds": {
+        "spotify": "48059",
+        "youtube": "48059",
+        "soundcloud": "48059",
+        "appleMusic": "48059"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Fedde Le Grand & Patric La Funk",
+      "title": "Take Me Home",
+      "remix": "",
+      "label": "DARKLIGHT",
+      "trackId": "980331",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1898,
+      "mediaIds": {
+        "spotify": "77362",
+        "youtube": "77362",
+        "soundcloud": "77362",
+        "appleMusic": "77362"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Alesso & OneRepublic vs. X-Vertigo & Sandro Silva",
+      "title": "Losing Myself To Bombs (Fedde Le Grand Mashup)",
+      "remix": "",
+      "label": "MOSLEY/INTERSCOPE/X-VERTIGO ATTACK!",
+      "trackId": "980112",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2114,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Warp Brothers vs. Aquagen",
+      "title": "Phatt Bass (JoeySuki Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "980113",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2389,
+      "mediaIds": {
+        "soundcloud": "132391"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "MAKJ & M35",
+      "title": "GO (Showtek Edit)",
+      "remix": "",
+      "label": "SKINK",
+      "trackId": "980114",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2581,
+      "mediaIds": {
+        "spotify": "201056",
+        "youtube": "201056",
+        "soundcloud": "201056",
+        "appleMusic": "201056"
+      },
+      "blendGroup": [
+        {
+          "artist": "MAKJ & M35",
+          "title": "GO (Showtek Edit)",
+          "remix": "",
+          "trackId": "980114"
+        },
+        {
+          "artist": "Eric Prydz",
+          "title": "Every Day",
+          "remix": "",
+          "trackId": "980115"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eric Prydz",
+      "title": "Every Day",
+      "remix": "",
+      "label": "PRYDA",
+      "trackId": "980115",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 2641,
+      "mediaIds": {
+        "spotify": "76435",
+        "youtube": "76435",
+        "soundcloud": "76435",
+        "appleMusic": "76435"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Fedde Le Grand",
+      "title": "Twisted",
+      "remix": "",
+      "label": "FLAMINGO",
+      "trackId": "980116",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2750,
+      "mediaIds": {
+        "spotify": "187580",
+        "youtube": "187580",
+        "soundcloud": "187580",
+        "appleMusic": "187580"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Calvin Harris & Alesso ft. Hurts",
+      "title": "Under Control (Oliver Heldens Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "980117",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2968,
+      "mediaIds": {
+        "youtube": "158119"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Deorro",
+      "title": "Yee",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "980118",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3174,
+      "mediaIds": {
+        "spotify": "126719",
+        "youtube": "126719",
+        "soundcloud": "126719",
+        "appleMusic": "126719"
+      },
+      "blendGroup": [
+        {
+          "artist": "Deorro",
+          "title": "Yee",
+          "remix": "",
+          "trackId": "980118"
+        },
+        {
+          "artist": "Zedd ft. Hayley Williams",
+          "title": "Stay The Night (Zedd & KDrew Extended Remix)",
+          "remix": "",
+          "trackId": "980374"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd ft. Hayley Williams",
+      "title": "Stay The Night (Zedd & KDrew Extended Remix)",
+      "remix": "",
+      "label": "OWSLA/INTERSCOPE",
+      "trackId": "980374",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "169465",
+        "youtube": "169465",
+        "soundcloud": "169465",
+        "appleMusic": "169465"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Fedde Le Grand ft. Denny White",
+      "title": "Cinematic",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "980119",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3361,
+      "mediaIds": {
+        "spotify": "186308",
+        "youtube": "186308",
+        "soundcloud": "186308",
+        "appleMusic": "186308"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Route 94 ft. Jess Glynne",
+      "title": "My Love (Santoz & Jonas Parker Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "1255526",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3525,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "197069",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=vOM8oLBs_nk"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "195713",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/thebesthouse"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "195819",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "196700",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:52:17.290Z",
+  "scrapeVersion": 2
+}

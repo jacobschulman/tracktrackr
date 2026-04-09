@@ -1,0 +1,828 @@
+{
+  "tlId": "1mbd8m4k",
+  "dj": "A-Trak",
+  "stage": "EDC Las Vegas",
+  "date": "2016-06-18",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/1mbd8m4k/a-trak-cosmicmeadow-edc-las-vegas-united-states-2016-06-18.html",
+  "djs": [
+    {
+      "name": "A-Trak",
+      "slug": "atrak"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Dirty Audio & Rickyxsan",
+      "title": "Gettin' That",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2103844",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "292619",
+        "youtube": "292619",
+        "soundcloud": "292619",
+        "appleMusic": "292619"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Kanye West ft. Desiigner",
+      "title": "Father Stretch My Hands Pt. 2 (Ronaissance Remix)",
+      "remix": "",
+      "label": "GOOD MUSIC (ISLAND DEF JAM)",
+      "trackId": "2104335",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Moksi",
+      "title": "The Dopest (Cesqeaux Remix)",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "2103845",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "262497",
+        "youtube": "262497",
+        "soundcloud": "262497",
+        "appleMusic": "262497"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "UZ",
+      "title": "Magellan",
+      "remix": "",
+      "label": "QUALITY GOODS",
+      "trackId": "2103846",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "329420",
+        "youtube": "329420",
+        "soundcloud": "329420",
+        "appleMusic": "329420"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Lil Uzi Vert",
+      "title": "All My Chains",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "2103847",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "330855",
+        "youtube": "330855",
+        "appleMusic": "330855"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lil Uzi Vert",
+          "title": "All My Chains",
+          "remix": "",
+          "trackId": "2103847"
+        },
+        {
+          "artist": "A-Trak & Ookay",
+          "title": "Only One",
+          "remix": "",
+          "trackId": "2103848"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "A-Trak & Ookay",
+      "title": "Only One",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "2103848",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "302292",
+        "youtube": "302292",
+        "soundcloud": "302292",
+        "appleMusic": "302292"
+      },
+      "blendGroup": [
+        {
+          "artist": "A-Trak & Ookay",
+          "title": "Only One",
+          "remix": "",
+          "trackId": "2103848"
+        },
+        {
+          "artist": "Flosstradamus ft. Casino",
+          "title": "Mosh Pit (Acappella)",
+          "remix": "",
+          "trackId": "2115820"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flosstradamus ft. Casino",
+      "title": "Mosh Pit (Acappella)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "2115820",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "230379",
+        "youtube": "230379",
+        "soundcloud": "230379",
+        "appleMusic": "230379"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "What So Not",
+      "title": "Divide & Conquer",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "2103849",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "323842",
+        "youtube": "323842",
+        "soundcloud": "323842",
+        "appleMusic": "323842"
+      },
+      "blendGroup": [
+        {
+          "artist": "What So Not",
+          "title": "Divide & Conquer",
+          "remix": "",
+          "trackId": "2103849"
+        },
+        {
+          "artist": "Future",
+          "title": "Ain't No Time",
+          "remix": "",
+          "trackId": "2437420"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Future",
+      "title": "Ain't No Time",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "2437420",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "07",
+      "artist": "DJ Snake",
+      "title": "Propaganda",
+      "remix": "",
+      "label": "DJ SNAKE/INTERSCOPE",
+      "trackId": "2103850",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "288201",
+        "youtube": "288201",
+        "soundcloud": "288201",
+        "appleMusic": "288201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Carnage ft. Lil Uzi Vert & A$AP Ferg & Rich The Kid",
+      "title": "WDYW",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "2103907",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "238145",
+        "youtube": "238145",
+        "soundcloud": "238145",
+        "appleMusic": "238145"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "DMX",
+      "title": "Ruff Ryder's Anthem",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "2103908",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "133123",
+        "youtube": "133123",
+        "soundcloud": "133123",
+        "appleMusic": "133123"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Major Lazer & Grandtheft",
+      "title": "Number One",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2104337",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "301183",
+        "soundcloud": "301183"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Major Lazer ft. Nyla & Fuse ODG",
+      "title": "Light It Up (Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2103909",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "280082",
+        "youtube": "280082",
+        "soundcloud": "280082",
+        "appleMusic": "280082"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Ape Drums",
+      "title": "Bring It Back",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2104339",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "310323"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Party Favor",
+      "title": "Bap U (VIP)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2103910",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "253587"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "DJ Snake & Yellow Claw & Spanker",
+      "title": "Slow Down",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2104340",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "150546",
+        "youtube": "150546",
+        "soundcloud": "150546",
+        "appleMusic": "150546"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Major Lazer & DJ Snake ft. MØ",
+      "title": "Lean On",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2104341",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "241988",
+        "youtube": "241988",
+        "soundcloud": "241988",
+        "appleMusic": "241988"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "A-Trak & Milo & Otis ft. Rich Kidz",
+      "title": "Out The Speakers",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "2103911",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "197450",
+        "youtube": "197450",
+        "appleMusic": "197450"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Dillon Francis & NGHTMRE",
+      "title": "Need You",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2103912",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "301795",
+        "youtube": "301795",
+        "soundcloud": "301795",
+        "appleMusic": "301795"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dillon Francis & NGHTMRE",
+          "title": "Need You",
+          "remix": "",
+          "trackId": "2103912"
+        },
+        {
+          "artist": "Fat Joe & Remy Ma ft. French Montana",
+          "title": "All The Way Up (Acappella)",
+          "remix": "",
+          "trackId": "2104342"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fat Joe & Remy Ma ft. French Montana",
+      "title": "All The Way Up (Acappella)",
+      "remix": "",
+      "label": "TERROR SQUAD",
+      "trackId": "2104342",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "305083",
+        "youtube": "305083",
+        "soundcloud": "305083",
+        "appleMusic": "305083"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2103913",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Callie Reiff & Dapp",
+      "title": "Wobble",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "2103914",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "311538",
+        "youtube": "311538",
+        "soundcloud": "311538",
+        "appleMusic": "311538"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Low Pros",
+      "title": "Ohmygosh",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "2103916",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "202559",
+        "youtube": "202559",
+        "appleMusic": "202559"
+      },
+      "blendGroup": [
+        {
+          "artist": "Low Pros",
+          "title": "Ohmygosh",
+          "remix": "",
+          "trackId": "2103916"
+        },
+        {
+          "artist": "Roscoe Dash & Soulja Boy",
+          "title": "All The Way Turnt Up (Acappella)",
+          "remix": "",
+          "trackId": "2103915"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Roscoe Dash & Soulja Boy",
+      "title": "All The Way Turnt Up (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2103915",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "71029",
+        "youtube": "141450",
+        "soundcloud": "71029",
+        "appleMusic": "71029"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2104343",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "2104343"
+        },
+        {
+          "artist": "Kanye West",
+          "title": "I Love Kanye (Acappella)",
+          "remix": "",
+          "trackId": "2103917"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kanye West",
+      "title": "I Love Kanye (Acappella)",
+      "remix": "",
+      "label": "GOOD MUSIC (ISLAND DEF JAM)",
+      "trackId": "2103917",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "307344",
+        "youtube": "307344",
+        "soundcloud": "307344",
+        "appleMusic": "307344"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2115821",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Ookay",
+      "title": "Thief",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "2103918",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "302288",
+        "youtube": "302288",
+        "soundcloud": "302288",
+        "appleMusic": "302288"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Bingo Players",
+      "title": "Devotion",
+      "remix": "",
+      "label": "SNEAKERZ (SPINNIN')",
+      "trackId": "2104344",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "7335",
+        "youtube": "7335",
+        "soundcloud": "7335",
+        "appleMusic": "7335"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "A-Trak & ZooFunktion",
+      "title": "Place On Earth",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2103919",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "280375",
+        "youtube": "280375",
+        "soundcloud": "280375",
+        "appleMusic": "280375"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Heads Will Roll (DiscoTech Remix)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "2103920",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "264478",
+        "soundcloud": "264478"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "A-Trak ft. Jamie Lidell",
+      "title": "We All Fall Down",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "2103921",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "271709",
+        "youtube": "271709",
+        "soundcloud": "271709",
+        "appleMusic": "271709"
+      },
+      "blendGroup": [
+        {
+          "artist": "A-Trak ft. Jamie Lidell",
+          "title": "We All Fall Down",
+          "remix": "",
+          "trackId": "2103921"
+        },
+        {
+          "artist": "Estelle ft. Kardinal Offishall",
+          "title": "Freak(Prod. by David Guetta) (Acappella)",
+          "remix": "",
+          "trackId": "2103922"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Estelle ft. Kardinal Offishall",
+      "title": "Freak(Prod. by David Guetta) (Acappella)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "2103922",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "17164",
+        "youtube": "17164",
+        "appleMusic": "17164"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Vicetone",
+      "title": "Hawt Stuff",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2098211",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "302366",
+        "youtube": "302366",
+        "soundcloud": "302366",
+        "appleMusic": "302366"
+      },
+      "blendGroup": [
+        {
+          "artist": "Vicetone",
+          "title": "Hawt Stuff",
+          "remix": "",
+          "trackId": "2098211"
+        },
+        {
+          "artist": "Kelis ft. Too $hort",
+          "title": "Bossy (Acappella)",
+          "remix": "",
+          "trackId": "2098212"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kelis ft. Too $hort",
+      "title": "Bossy (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "2098212",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "24598",
+        "youtube": "24598",
+        "soundcloud": "24598",
+        "appleMusic": "24598"
+      }
+    },
+    {
+      "pos": "29",
+      "artist": "NGHTMRE",
+      "title": "Get Back",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2098213",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "291048",
+        "soundcloud": "291048"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "A-Trak ft. Phantogram",
+      "title": "Parallel Lines (Chris Lorenzo Remix)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "2098214",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "309777",
+        "youtube": "309777",
+        "soundcloud": "309777",
+        "appleMusic": "309777"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Tommy Trash & A-Trak ft. Jesse Boykins III",
+      "title": "Lover",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "2098215",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "334956",
+        "youtube": "334956",
+        "soundcloud": "334956",
+        "appleMusic": "334956"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Kanye West ft. Post Malone & Ty Dolla $ign",
+      "title": "Fade (GotSome Edit)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "2098216",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "323903",
+        "soundcloud": "323903"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "DJ Snake ft. George Maple",
+      "title": "Talk",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "2098218",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "311244",
+        "youtube": "311244",
+        "soundcloud": "311244",
+        "appleMusic": "311244"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "453918",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/270191945"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "450460",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T08:06:47.722Z",
+  "scrapeVersion": 2
+}

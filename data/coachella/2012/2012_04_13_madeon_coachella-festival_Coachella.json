@@ -1,0 +1,926 @@
+{
+  "tlId": "5w4mgk9",
+  "dj": "Madeon",
+  "stage": "Coachella Festival",
+  "date": "2012-04-13",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/5w4mgk9/madeon-sahara-tent-coachella-festival-united-states-2012-04-13.html",
+  "djs": [
+    {
+      "name": "Madeon",
+      "slug": "madeon"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Madeon ft. Zak Waters",
+      "title": "The City (VIP Mix)",
+      "remix": "",
+      "label": "POPCULTUR",
+      "trackId": "211313",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "91517"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Oliver",
+      "title": "Dirty Talk",
+      "remix": "",
+      "label": "DIRTY TALK",
+      "trackId": "211314",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 120,
+      "mediaIds": {
+        "spotify": "62538",
+        "youtube": "62538",
+        "soundcloud": "62538",
+        "appleMusic": "62538"
+      },
+      "blendGroup": [
+        {
+          "artist": "Oliver",
+          "title": "Dirty Talk",
+          "remix": "",
+          "trackId": "211314"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Prime Time Of Your Life",
+          "remix": "",
+          "trackId": "211315"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Prime Time Of Your Life",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "211315",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "62539",
+        "youtube": "62539",
+        "soundcloud": "62539",
+        "appleMusic": "62539"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Madeon",
+      "title": "Shuriken (VIP Mix)",
+      "remix": "",
+      "label": "",
+      "trackId": "211316",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Lady GaGa",
+      "title": "Mary Jane Holland",
+      "remix": "(Prod. by Madeon)",
+      "label": "INTERSCOPE",
+      "trackId": "1088291",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 420,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Birdy Nam Nam",
+      "title": "The Parachute Ending",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "211317",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 420,
+      "mediaIds": {
+        "spotify": "166610",
+        "youtube": "166610",
+        "soundcloud": "166610"
+      },
+      "blendGroup": [
+        {
+          "artist": "Birdy Nam Nam",
+          "title": "The Parachute Ending",
+          "remix": "",
+          "trackId": "211317"
+        },
+        {
+          "artist": "JAY-Z",
+          "title": "99 Problems (Acappella)",
+          "remix": "",
+          "trackId": "233266"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAY-Z",
+      "title": "99 Problems (Acappella)",
+      "remix": "",
+      "label": "ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "233266",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "47896",
+        "youtube": "47896",
+        "soundcloud": "47896",
+        "appleMusic": "47896"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Drivepilot",
+      "title": "Retaliation",
+      "remix": "",
+      "label": "TRACTION",
+      "trackId": "233267",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "youtube": "75554",
+        "soundcloud": "75554"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "deadmau5",
+      "title": "Maths",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "211318",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 600,
+      "mediaIds": {
+        "spotify": "25848",
+        "youtube": "25848",
+        "soundcloud": "25848",
+        "appleMusic": "25848"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5",
+          "title": "Maths",
+          "remix": "",
+          "trackId": "211318"
+        },
+        {
+          "artist": "Justice",
+          "title": "Audio, Video, Disco",
+          "remix": "",
+          "trackId": "211783"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice",
+      "title": "Audio, Video, Disco",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "211783",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "45698",
+        "youtube": "45698",
+        "soundcloud": "45698",
+        "appleMusic": "45698"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice",
+          "title": "Audio, Video, Disco",
+          "remix": "",
+          "trackId": "211783"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "Internet Friends",
+          "remix": "",
+          "trackId": "213935"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "Internet Friends",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "213935",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "42147",
+        "youtube": "42147",
+        "soundcloud": "42147",
+        "appleMusic": "42147"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "The Whip",
+      "title": "Secret Weapon (Alex Metric Remix)",
+      "remix": "",
+      "label": "SOUTHERN FRIED",
+      "trackId": "211319",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 720,
+      "mediaIds": {
+        "spotify": "48742",
+        "youtube": "48742",
+        "soundcloud": "48742",
+        "appleMusic": "48742"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Bingo Players",
+      "title": "L'Amour",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "211320",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 900,
+      "mediaIds": {
+        "spotify": "64040",
+        "youtube": "64040",
+        "soundcloud": "64040",
+        "appleMusic": "64040"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Calvin Harris",
+      "title": "Feel So Close",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "211321",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 900,
+      "mediaIds": {
+        "spotify": "38741",
+        "youtube": "38741",
+        "soundcloud": "38741",
+        "appleMusic": "38741"
+      },
+      "blendGroup": [
+        {
+          "artist": "Calvin Harris",
+          "title": "Feel So Close",
+          "remix": "",
+          "trackId": "211321"
+        },
+        {
+          "artist": "Katy Perry",
+          "title": "The One Who Got Away (R3HAB Remix)",
+          "remix": "",
+          "trackId": "212768"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Katy Perry",
+      "title": "The One Who Got Away (R3HAB Remix)",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "212768",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "58107",
+        "soundcloud": "58107"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Madeon",
+      "title": "Monarch",
+      "remix": "",
+      "label": "",
+      "trackId": "211323",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1020,
+      "mediaIds": {
+        "youtube": "82509"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "M83",
+      "title": "Midnight City (Eric Prydz Private Remix)",
+      "remix": "",
+      "label": "MUTE",
+      "trackId": "211325",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1080,
+      "mediaIds": {
+        "spotify": "59431",
+        "youtube": "59431",
+        "soundcloud": "59431",
+        "appleMusic": "59431"
+      },
+      "blendGroup": [
+        {
+          "artist": "M83",
+          "title": "Midnight City (Eric Prydz Private Remix)",
+          "remix": "",
+          "trackId": "211325"
+        },
+        {
+          "artist": "Digitalism",
+          "title": "Blitz",
+          "remix": "",
+          "trackId": "211326"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Digitalism",
+      "title": "Blitz",
+      "remix": "",
+      "label": "KITSUNÉ",
+      "trackId": "211326",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "22332",
+        "youtube": "22332",
+        "appleMusic": "22332"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Yelle",
+      "title": "Que Veux Tu (Madeon Remix)",
+      "remix": "",
+      "label": "V2",
+      "trackId": "211327",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1200,
+      "mediaIds": {
+        "spotify": "49843",
+        "youtube": "49843",
+        "soundcloud": "49843",
+        "appleMusic": "49843"
+      },
+      "blendGroup": [
+        {
+          "artist": "Yelle",
+          "title": "Que Veux Tu (Madeon Remix)",
+          "remix": "",
+          "trackId": "211327"
+        },
+        {
+          "artist": "The Killers",
+          "title": "Mr. Brightside (Acappella)",
+          "remix": "",
+          "trackId": "211328"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Killers",
+      "title": "Mr. Brightside (Acappella)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "211328",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "13886",
+        "youtube": "13886",
+        "soundcloud": "13886",
+        "appleMusic": "13886"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Skream ft. Sam Frank",
+      "title": "Anticipate (Netsky Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "211329",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1260,
+      "mediaIds": {
+        "spotify": "56870",
+        "youtube": "56870",
+        "soundcloud": "56870",
+        "appleMusic": "56870"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Kaskade & Skrillex",
+      "title": "Lick It",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "211330",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1380,
+      "mediaIds": {
+        "spotify": "51422",
+        "youtube": "51422",
+        "soundcloud": "51422",
+        "appleMusic": "51422"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kaskade & Skrillex",
+          "title": "Lick It",
+          "remix": "",
+          "trackId": "211330"
+        },
+        {
+          "artist": "Jacques Lu Cont",
+          "title": "Reload",
+          "remix": "",
+          "trackId": "211331"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jacques Lu Cont",
+      "title": "Reload",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "211331",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "58996"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jacques Lu Cont",
+          "title": "Reload",
+          "remix": "",
+          "trackId": "211331"
+        },
+        {
+          "artist": "Phoenix",
+          "title": "If I Ever Feel Better (Acappella)",
+          "remix": "",
+          "trackId": "211332"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Phoenix",
+      "title": "If I Ever Feel Better (Acappella)",
+      "remix": "",
+      "label": "SOURCE (EMI)",
+      "trackId": "211332",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "7835",
+        "youtube": "7835",
+        "soundcloud": "7835",
+        "appleMusic": "7835"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Madeon",
+      "title": "Icarus (VIP Mix)",
+      "remix": "",
+      "label": "POPCULTUR",
+      "trackId": "211333",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1500,
+      "mediaIds": {
+        "youtube": "70471"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "deadmau5 ft. Greta Svabo Bech",
+      "title": "Raise Your Weapon (Madeon VIP Remix)",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "211334",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": {
+        "spotify": "70472",
+        "youtube": "70472"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Martin Solveig",
+      "title": "The Night Out (Madeon Remix)",
+      "remix": "",
+      "label": "MIXTURE",
+      "trackId": "211335",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1980,
+      "mediaIds": {
+        "spotify": "68581",
+        "youtube": "68581",
+        "soundcloud": "68581",
+        "appleMusic": "68581"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Martin Solveig",
+      "title": "The Night Out (A-Trak Remix)",
+      "remix": "",
+      "label": "MIXTURE",
+      "trackId": "211336",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2100,
+      "mediaIds": {
+        "spotify": "64736",
+        "youtube": "64736",
+        "soundcloud": "64736",
+        "appleMusic": "64736"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Knife Party",
+      "title": "Tourniquet",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "211337",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2160,
+      "mediaIds": {
+        "spotify": "42141",
+        "youtube": "42141",
+        "soundcloud": "42141",
+        "appleMusic": "42141"
+      },
+      "blendGroup": [
+        {
+          "artist": "Knife Party",
+          "title": "Tourniquet",
+          "remix": "",
+          "trackId": "211337"
+        },
+        {
+          "artist": "Martin Solveig & Dragonette ft. Dragonette",
+          "title": "Big In Japan (Les Bros Remix)",
+          "remix": "",
+          "trackId": "211338"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Solveig & Dragonette ft. Dragonette",
+      "title": "Big In Japan (Les Bros Remix)",
+      "remix": "",
+      "label": "MIXTURE",
+      "trackId": "211338",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "48697",
+        "youtube": "48697",
+        "soundcloud": "48697",
+        "appleMusic": "48697"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Alex Metric ft. Charli xcx",
+      "title": "End Of The World (Russ Chimes Remix)",
+      "remix": "",
+      "label": "POSITIVA",
+      "trackId": "211339",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2280,
+      "mediaIds": {
+        "spotify": "62542",
+        "youtube": "62542",
+        "soundcloud": "62542",
+        "appleMusic": "62542"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Qulinez",
+      "title": "Troll",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "211340",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2400,
+      "mediaIds": {
+        "spotify": "55650",
+        "youtube": "55650",
+        "soundcloud": "55650",
+        "appleMusic": "55650"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Zedd",
+      "title": "Shave It",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "211341",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2460,
+      "mediaIds": {
+        "spotify": "48581",
+        "youtube": "48581",
+        "soundcloud": "48581",
+        "appleMusic": "48581"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd",
+          "title": "Shave It",
+          "remix": "",
+          "trackId": "211341"
+        },
+        {
+          "artist": "The Ting Tings",
+          "title": "Hang It Up (Acappella)",
+          "remix": "",
+          "trackId": "211342"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Ting Tings",
+      "title": "Hang It Up (Acappella)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "211342",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "62543",
+        "youtube": "62543",
+        "soundcloud": "62543",
+        "appleMusic": "62543"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "The Jackson 5",
+      "title": "Can You Feel It",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "211343",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2580,
+      "mediaIds": {
+        "spotify": "142206",
+        "youtube": "142206",
+        "appleMusic": "142206"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Jackson 5",
+          "title": "Can You Feel It",
+          "remix": "",
+          "trackId": "211343"
+        },
+        {
+          "artist": "Madeon",
+          "title": "Komon",
+          "remix": "",
+          "trackId": "211344"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Madeon",
+      "title": "Komon",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "211344",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "208476",
+        "soundcloud": "208476"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Blur",
+      "title": "Song 2 (Madeon Bootleg)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "211345",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2640,
+      "mediaIds": {
+        "youtube": "62545",
+        "soundcloud": "62545"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Ellie Goulding",
+      "title": "Starry Eyed (Russ Chimes Remix)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "211784",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2820,
+      "mediaIds": {
+        "spotify": "73467",
+        "youtube": "73467",
+        "soundcloud": "73467",
+        "appleMusic": "73467"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Wolfgang Gartner",
+      "title": "Cognitive Dissonance ('96 Bulls Edit)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "211347",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2940,
+      "mediaIds": {
+        "youtube": "62546",
+        "soundcloud": "62546"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wolfgang Gartner",
+          "title": "Cognitive Dissonance ('96 Bulls Edit)",
+          "remix": "",
+          "trackId": "211347"
+        },
+        {
+          "artist": "Madeon",
+          "title": "For You",
+          "remix": "",
+          "trackId": "211348"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Madeon",
+      "title": "For You",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "211348",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "62817",
+        "youtube": "62817",
+        "soundcloud": "62817"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Madeon",
+      "title": "Pop Culture",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "211349",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3120,
+      "mediaIds": {
+        "youtube": "47157",
+        "soundcloud": "47157"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Madeon ft. Nicholas Petricca",
+      "title": "Finale",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "234299",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3240,
+      "mediaIds": {
+        "spotify": "77332",
+        "youtube": "77332",
+        "soundcloud": "77332",
+        "appleMusic": "77332"
+      },
+      "blendGroup": [
+        {
+          "artist": "Madeon ft. Nicholas Petricca",
+          "title": "Finale",
+          "remix": "",
+          "trackId": "234299"
+        },
+        {
+          "artist": "Franz Ferdinand ft. Manno",
+          "title": "Take Me Out (Acappella)",
+          "remix": "",
+          "trackId": "211351"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Franz Ferdinand ft. Manno",
+      "title": "Take Me Out (Acappella)",
+      "remix": "",
+      "label": "DOMINO",
+      "trackId": "211351",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "34083",
+        "youtube": "34083",
+        "appleMusic": "34083"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T05:07:13.490Z",
+  "scrapeVersion": 2
+}

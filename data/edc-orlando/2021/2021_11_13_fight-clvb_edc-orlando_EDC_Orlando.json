@@ -1,0 +1,794 @@
+{
+  "tlId": "1c55vhfk",
+  "dj": "FIGHT CLVB",
+  "stage": "EDC Orlando",
+  "date": "2021-11-13",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/1c55vhfk/fight-clvb-corona-electric-beach-stage-edc-orlando-united-states-2021-11-13.html",
+  "djs": [
+    {
+      "name": "FIGHT CLVB",
+      "slug": "fightclvb"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "FIGHT CLVB",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7002670",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7002671",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Double Bass Burgers",
+      "title": "FTS",
+      "remix": "",
+      "label": "FIGHT FREE",
+      "trackId": "7002672",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "678680",
+        "youtube": "678680",
+        "soundcloud": "678680",
+        "appleMusic": "678680"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Oro Solido",
+      "title": "Ta' Encendio",
+      "remix": "",
+      "label": "",
+      "trackId": "7002673",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "785248"
+      },
+      "blendGroup": [
+        {
+          "artist": "Oro Solido",
+          "title": "Ta' Encendio",
+          "remix": "",
+          "trackId": "7002673"
+        },
+        {
+          "artist": "Shelco Garcia & TeenWolf",
+          "title": "Booty Bounce",
+          "remix": "",
+          "trackId": "7002674"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Shelco Garcia & TeenWolf",
+      "title": "Booty Bounce",
+      "remix": "",
+      "label": "FIGHT FREE",
+      "trackId": "7002674",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "05",
+      "artist": "Los Karkis",
+      "title": "Se Menea (Ivan Dola Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "7002675",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Los Karkis",
+          "title": "Se Menea (Ivan Dola Bootleg)",
+          "remix": "",
+          "trackId": "7002675"
+        },
+        {
+          "artist": "ETC!ETC!",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7002676"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ETC!ETC!",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7002676",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "06",
+      "artist": "Silvio Ecomo & Chuckie",
+      "title": "Moombah (J. Slai Reslai)",
+      "remix": "",
+      "label": "DIRTY DUTCH",
+      "trackId": "7002677",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 367,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Mach & Daddy",
+      "title": "La Botella",
+      "remix": "",
+      "label": "",
+      "trackId": "7002678",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Mach & Daddy",
+          "title": "La Botella",
+          "remix": "",
+          "trackId": "7002678"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7002679"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7002679",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "08",
+      "artist": "Risk-E",
+      "title": "Tastemaker",
+      "remix": "",
+      "label": "FIGHT FREE",
+      "trackId": "7002680",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Risk-E",
+          "title": "Tastemaker",
+          "remix": "",
+          "trackId": "7002680"
+        },
+        {
+          "artist": "GTA ft. DJ Funk",
+          "title": "Booty Bounce (GTA HYPRR MIX)",
+          "remix": "",
+          "trackId": "7002681"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GTA ft. DJ Funk",
+      "title": "Booty Bounce (GTA HYPRR MIX)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7002681",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "244281",
+        "soundcloud": "244281"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Sklusive",
+      "title": "Here We Go",
+      "remix": "",
+      "label": "",
+      "trackId": "7002682",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Alejandro Fernandez",
+      "title": "Como Quien Pierde Una Estrella (FIGHT CLVB Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "7002683",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Alejandro Fernandez",
+          "title": "Como Quien Pierde Una Estrella (FIGHT CLVB Bootleg)",
+          "remix": "",
+          "trackId": "7002683"
+        },
+        {
+          "artist": "FISHER",
+          "title": "Losing It (Fito Silva & Le Twins Remix)",
+          "remix": "",
+          "trackId": "7002684"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "FISHER",
+      "title": "Losing It (Fito Silva & Le Twins Remix)",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "7002684",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "489472"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "El Alfa x CJ x El Cherry Scom",
+      "title": "La Mamá De La Mamá (J. Slai Reslai)",
+      "remix": "",
+      "label": "EL JEFE",
+      "trackId": "7002685",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 901,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "El Alfa x CJ x El Cherry Scom",
+          "title": "La Mamá De La Mamá (J. Slai Reslai)",
+          "remix": "",
+          "trackId": "7002685"
+        },
+        {
+          "artist": "Ivan Dola",
+          "title": "La Watcha",
+          "remix": "",
+          "trackId": "7002686"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ivan Dola",
+      "title": "La Watcha",
+      "remix": "",
+      "label": "GROUP CHAT",
+      "trackId": "7002686",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "581292",
+        "youtube": "581292",
+        "soundcloud": "581292",
+        "appleMusic": "581292"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7002687",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7002687"
+        },
+        {
+          "artist": "FIGHT CLVB & Makla & KillKid",
+          "title": "Meet Me At Bootshaus",
+          "remix": "",
+          "trackId": "7002688"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "FIGHT CLVB & Makla & KillKid",
+      "title": "Meet Me At Bootshaus",
+      "remix": "",
+      "label": "FIGHT FREE",
+      "trackId": "7002688",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "468910",
+        "soundcloud": "468910",
+        "appleMusic": "468910"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Motorcycle",
+      "title": "As The Rush Comes",
+      "remix": "",
+      "label": "ARMADA/POSITIVA",
+      "trackId": "7002689",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1776",
+        "youtube": "1776",
+        "soundcloud": "1776",
+        "appleMusic": "1776"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7002690",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7002691",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Haddaway",
+      "title": "What Is Love (Jay-J & Good Trouble Remix)",
+      "remix": "",
+      "label": "RAZOR & TIE",
+      "trackId": "7002692",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "7002692"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "FIGHT CLVB & WhySoSerious",
+      "title": "Porn",
+      "remix": "",
+      "label": "GROUP CHAT",
+      "trackId": "7002693",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "722658",
+        "soundcloud": "722658",
+        "appleMusic": "722658"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Trveso & AyoGabs",
+      "title": "Feel Dat",
+      "remix": "",
+      "label": "",
+      "trackId": "7002694",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": {
+        "soundcloud": "7002694"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "FIGHT CLVB",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7002695",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7002696",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Farruko ft. Victor Cardenas",
+      "title": "Pepas (FIGHT CLVB & DJ Yonny Afrobass Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "7002697",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Victor Cardenas x Meluchi x FIGHT CLVB",
+      "title": "Boom Pa Ra",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7002698",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "603077",
+        "youtube": "603077",
+        "soundcloud": "603077",
+        "appleMusic": "603077"
+      },
+      "blendGroup": [
+        {
+          "artist": "Victor Cardenas x Meluchi x FIGHT CLVB",
+          "title": "Boom Pa Ra",
+          "remix": "",
+          "trackId": "7002698"
+        },
+        {
+          "artist": "Good Times Ahead & FIGHT CLVB",
+          "title": "BMB",
+          "remix": "",
+          "trackId": "7002699"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Good Times Ahead & FIGHT CLVB",
+      "title": "BMB",
+      "remix": "",
+      "label": "GOOD TIMES BAD TIMES",
+      "trackId": "7002699",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "543648",
+        "youtube": "543648",
+        "soundcloud": "543648",
+        "appleMusic": "543648"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Tim Berg ft. Amanda Wilson",
+      "title": "Seek Bromance (FIGHT CLVB Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "7002700",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Tim Berg ft. Amanda Wilson",
+          "title": "Seek Bromance (FIGHT CLVB Remix)",
+          "remix": "",
+          "trackId": "7002700"
+        },
+        {
+          "artist": "Sak Noel",
+          "title": "Loca People",
+          "remix": "",
+          "trackId": "7002701"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sak Noel",
+      "title": "Loca People",
+      "remix": "",
+      "label": "BLANCO Y NEGRO",
+      "trackId": "7002701",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "56819",
+        "youtube": "56819",
+        "soundcloud": "56819",
+        "appleMusic": "56819"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Pitbull",
+      "title": "Hotel Room Service",
+      "remix": "",
+      "label": "POLO GROUNDS",
+      "trackId": "7002702",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "26840",
+        "youtube": "26840",
+        "soundcloud": "26840",
+        "appleMusic": "26840"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pitbull",
+          "title": "Hotel Room Service",
+          "remix": "",
+          "trackId": "7002702"
+        },
+        {
+          "artist": "FIGHT CLVB ft. Stush",
+          "title": "Ape Drumz",
+          "remix": "",
+          "trackId": "7002703"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "FIGHT CLVB ft. Stush",
+      "title": "Ape Drumz",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "7002703",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "351872",
+        "youtube": "351872",
+        "soundcloud": "351872",
+        "appleMusic": "351872"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Puri & FIGHT CLVB ft. ADJE & Chiki El De La Vaina & Andre Da Tippa",
+      "title": "Pongo",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "7002704",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "729936",
+        "youtube": "729936",
+        "soundcloud": "729936",
+        "appleMusic": "729936"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "James Hype",
+      "title": "Dancing",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7002705",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "667206",
+        "youtube": "667206",
+        "soundcloud": "667206",
+        "appleMusic": "667206"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "GORDO",
+      "title": "Taraka",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "7002706",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "722213",
+        "youtube": "722213",
+        "soundcloud": "722213",
+        "appleMusic": "722213"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Daft Punk",
+      "title": "One More Time (Matroda Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7002707",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2910,
+      "mediaIds": {
+        "youtube": "657989",
+        "soundcloud": "657989",
+        "appleMusic": "657989"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "FIGHT CLVB",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7002708",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Gabi Landin & KARAN! & Shavozo",
+      "title": "Bic Beck (FIGHT CLVB Remix)",
+      "remix": "",
+      "label": "FUNK NA CAIXA",
+      "trackId": "7002709",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3180,
+      "mediaIds": {
+        "spotify": "927005",
+        "youtube": "927005",
+        "soundcloud": "927005",
+        "appleMusic": "927005"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Rauw Alejandro",
+      "title": "Todo De Ti",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "7002710",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "703121",
+        "soundcloud": "703121",
+        "appleMusic": "703121"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Shouse",
+      "title": "Love Tonight",
+      "remix": "",
+      "label": "HELL BEACH",
+      "trackId": "7002711",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "446899",
+        "youtube": "446899",
+        "soundcloud": "446899",
+        "appleMusic": "446899"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "ACRAZE ft. Cherish",
+      "title": "Do It To It (FIGHT CLVB Remix)",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "7002712",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T16:44:28.353Z",
+  "scrapeVersion": 2
+}

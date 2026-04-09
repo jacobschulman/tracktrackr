@@ -1,0 +1,125 @@
+{
+  "tlId": "1r513dc1",
+  "dj": "deadmau5",
+  "stage": "EDC China",
+  "date": "2019-11-24",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/1r513dc1/deadmau5-circuitgrounds-edc-china-guangdong-2019-11-24.html",
+  "djs": [
+    {
+      "name": "deadmau5",
+      "slug": "deadmau5"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "deadmau5 & Wolfgang Gartner",
+      "title": "Channel 42",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "4510236",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "78533",
+        "youtube": "78533",
+        "soundcloud": "78533",
+        "appleMusic": "78533"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Monophobia",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "4510237",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "428863",
+        "youtube": "428863",
+        "soundcloud": "428863",
+        "appleMusic": "428863"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "deadmau5 ft. Greta Svabo Bech",
+      "title": "Raise Your Weapon",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "4510238",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "21178",
+        "youtube": "21178",
+        "soundcloud": "21178",
+        "appleMusic": "21178"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5 ft. Greta Svabo Bech",
+          "title": "Raise Your Weapon",
+          "remix": "",
+          "trackId": "4510238"
+        },
+        {
+          "artist": "deadmau5 ft. Greta Svabo Bech",
+          "title": "Raise Your Weapon (Noisia Remix)",
+          "remix": "",
+          "trackId": "4510239"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Greta Svabo Bech",
+      "title": "Raise Your Weapon (Noisia Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "4510239",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "38999",
+        "youtube": "38999",
+        "soundcloud": "38999",
+        "appleMusic": "38999"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "deadmau5",
+      "title": "SATRN",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "4510240",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "483653",
+        "youtube": "483653",
+        "soundcloud": "483653",
+        "appleMusic": "483653"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T15:37:27.010Z",
+  "scrapeVersion": 2
+}

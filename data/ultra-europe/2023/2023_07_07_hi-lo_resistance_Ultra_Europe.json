@@ -1,0 +1,601 @@
+{
+  "tlId": "z4vnw4k",
+  "dj": "HI-LO",
+  "stage": "Resistance",
+  "date": "2023-07-07",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/z4vnw4k/hi-lo-resistance-stage-ultra-europe-croatia-2023-07-07.html",
+  "djs": [
+    {
+      "name": "HI-LO",
+      "slug": "hilo"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "HI-LO vs. The Prodigy",
+      "title": "Kronos vs. Smack My Bitch Up (HI-LO Mashup)",
+      "remix": "",
+      "label": "XL/OCTOPUS",
+      "trackId": "9285238",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 7,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "HI-LO",
+      "title": "Crescendo",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "9226939",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 290,
+      "mediaIds": {
+        "spotify": "903747",
+        "youtube": "903747",
+        "soundcloud": "903747",
+        "appleMusic": "903747"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "HI-LO & ZHU",
+      "title": "Afraid To Live (BLACKLIZT Version)",
+      "remix": "",
+      "label": "HILOMATIK/ASTRALWERKS",
+      "trackId": "9226940",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 555,
+      "mediaIds": {
+        "spotify": "1038955",
+        "youtube": "1038955",
+        "soundcloud": "1038955",
+        "appleMusic": "1038955"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "HI-LO & Reinier Zonneveld",
+      "title": "Flying Octopus",
+      "remix": "",
+      "label": "FILTH ON ACID",
+      "trackId": "9226874",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 770,
+      "mediaIds": {
+        "spotify": "805000",
+        "youtube": "805000",
+        "soundcloud": "805000",
+        "appleMusic": "805000"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "HI-LO",
+      "title": "Hypnos",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "9226875",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 975,
+      "mediaIds": {
+        "spotify": "732393",
+        "youtube": "732393",
+        "soundcloud": "732393",
+        "appleMusic": "732393"
+      },
+      "blendGroup": [
+        {
+          "artist": "HI-LO",
+          "title": "Hypnos",
+          "remix": "",
+          "trackId": "9226875"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Technologic (Acappella)",
+          "remix": "",
+          "trackId": "9231387"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Technologic (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "9231387",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 980,
+      "mediaIds": {
+        "spotify": "2592",
+        "youtube": "8645",
+        "soundcloud": "8645",
+        "appleMusic": "2592"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Technologic (Acappella)",
+          "remix": "",
+          "trackId": "9231387"
+        },
+        {
+          "artist": "Fatboy Slim",
+          "title": "Star 69 (Acappella)",
+          "remix": "",
+          "trackId": "9231388"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fatboy Slim",
+      "title": "Star 69 (Acappella)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "9231388",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 1092,
+      "mediaIds": {
+        "spotify": "1853",
+        "youtube": "1853",
+        "soundcloud": "1853",
+        "appleMusic": "1853"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "HI-LO & DJ Deeon",
+      "title": "Wanna Go Bang",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "9226897",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1225,
+      "mediaIds": {
+        "spotify": "824988",
+        "youtube": "824988",
+        "soundcloud": "824988",
+        "appleMusic": "824988"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "T78 ft. Angelala",
+      "title": "No Guestlist",
+      "remix": "",
+      "label": "HILOMATIK",
+      "trackId": "9245862",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1466,
+      "mediaIds": {
+        "spotify": "907520",
+        "youtube": "907520",
+        "soundcloud": "907520",
+        "appleMusic": "907520"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "HI-LO & Eli Brown",
+      "title": "Feel The Energy",
+      "remix": "",
+      "label": "ARCANE",
+      "trackId": "9226877",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1745,
+      "mediaIds": {
+        "spotify": "976749",
+        "youtube": "976749",
+        "soundcloud": "976749",
+        "appleMusic": "976749"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Rebūke",
+      "title": "Along Came Polly (HI-LO Edit)",
+      "remix": "",
+      "label": "HOT CREATIONS",
+      "trackId": "9226886",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 2005,
+      "mediaIds": {
+        "youtube": "816201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "HI-LO",
+      "title": "PURA VIDA",
+      "remix": "",
+      "label": "HILOMATIK",
+      "trackId": "9226878",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2125,
+      "mediaIds": {
+        "spotify": "859802",
+        "youtube": "859802",
+        "soundcloud": "859802",
+        "appleMusic": "859802"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Anyma & Chris Avantgarde",
+      "title": "Consciousness",
+      "remix": "",
+      "label": "AFTERLIFE",
+      "trackId": "9226879",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2380,
+      "mediaIds": {
+        "spotify": "774154",
+        "youtube": "774154",
+        "soundcloud": "774154",
+        "appleMusic": "774154"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Rebūke",
+      "title": "Glow",
+      "remix": "",
+      "label": "ERA",
+      "trackId": "9226880",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2625,
+      "mediaIds": {
+        "spotify": "874147",
+        "youtube": "874147",
+        "soundcloud": "874147",
+        "appleMusic": "874147"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Zonderling",
+      "title": "Variant (HI-LO Variant)",
+      "remix": "",
+      "label": "HILOMATIK",
+      "trackId": "9226876",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2855,
+      "mediaIds": {
+        "spotify": "991885",
+        "youtube": "991885",
+        "soundcloud": "991885",
+        "appleMusic": "991885"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Danny Avila",
+      "title": "Melodia",
+      "remix": "",
+      "label": "HILOMATIK",
+      "trackId": "9226942",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 3075,
+      "mediaIds": {
+        "spotify": "939106",
+        "youtube": "939106",
+        "soundcloud": "939106",
+        "appleMusic": "939106"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "CamelPhat & Anyma",
+      "title": "The Sign (Danny Avila Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9226894",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 3345,
+      "mediaIds": {
+        "youtube": "854940",
+        "soundcloud": "854940"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "HI-LO & Space 92 vs. Creeds",
+      "title": "Mercury vs. Push Up (Layton Giordani Edit)",
+      "remix": "",
+      "label": "FILTH ON ACID/RAVE ALERT",
+      "trackId": "9231389",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3585,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Space 92",
+      "title": "Cooper",
+      "remix": "",
+      "label": "FILTH ON ACID",
+      "trackId": "9226883",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3825,
+      "mediaIds": {
+        "spotify": "863343",
+        "youtube": "863343",
+        "soundcloud": "863343",
+        "appleMusic": "863343"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Joyhauser",
+      "title": "Wasted",
+      "remix": "",
+      "label": "TERMINAL M",
+      "trackId": "9226885",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 4065,
+      "mediaIds": {
+        "spotify": "872244",
+        "youtube": "872244",
+        "soundcloud": "872244",
+        "appleMusic": "872244"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "UMEK",
+      "title": "Once Again",
+      "remix": "",
+      "label": "1605",
+      "trackId": "9226943",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 4305,
+      "mediaIds": {
+        "spotify": "859397",
+        "youtube": "859397",
+        "soundcloud": "859397",
+        "appleMusic": "859397"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "HI-LO & Reinier Zonneveld",
+      "title": "String Theory",
+      "remix": "",
+      "label": "FILTH ON ACID",
+      "trackId": "9226891",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 4575,
+      "mediaIds": {
+        "spotify": "750922",
+        "youtube": "750922",
+        "soundcloud": "750922",
+        "appleMusic": "750922"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "HI-LO",
+      "title": "BONZAI",
+      "remix": "",
+      "label": "HILOMATIK",
+      "trackId": "9226887",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 4815,
+      "mediaIds": {
+        "spotify": "896389",
+        "youtube": "896389",
+        "soundcloud": "896389",
+        "appleMusic": "896389"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "HI-LO & Reinier Zonneveld",
+      "title": "Saw Of Olympus",
+      "remix": "",
+      "label": "FILTH ON ACID",
+      "trackId": "9226889",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 5075,
+      "mediaIds": {
+        "spotify": "671971",
+        "youtube": "671971",
+        "soundcloud": "671971",
+        "appleMusic": "671971"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Kai Tracid & Genlog",
+      "title": "Mockmoon (Peace, Love, XTC)",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "9226890",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 5275,
+      "mediaIds": {
+        "spotify": "811690",
+        "youtube": "811690",
+        "soundcloud": "811690",
+        "appleMusic": "811690"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Kai Tracid",
+      "title": "Tracid",
+      "remix": "",
+      "label": "HILOMATIK",
+      "trackId": "9226944",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 5490,
+      "mediaIds": {
+        "spotify": "811691",
+        "youtube": "811691",
+        "soundcloud": "811691",
+        "appleMusic": "811691"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Joy Kitikonti",
+      "title": "Joyenergizer (Ramiro Lopez Remix)",
+      "remix": "",
+      "label": "ACALWAN (ZYX)",
+      "trackId": "9226892",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 5745,
+      "mediaIds": {
+        "spotify": "894269",
+        "youtube": "894269",
+        "soundcloud": "894269",
+        "appleMusic": "894269"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "HI-LO & Eli Brown",
+      "title": "Ride Or Die",
+      "remix": "",
+      "label": "HILOMATIK",
+      "trackId": "9226941",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 5985,
+      "mediaIds": {
+        "spotify": "910464",
+        "youtube": "910464",
+        "soundcloud": "910464",
+        "appleMusic": "910464"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "RÜFÜS DU SOL & Cassian vs. A.D.H.S.",
+      "title": "On My Knees vs. Razor (Layton Giordani Edit)",
+      "remix": "",
+      "label": "ROSE AVENUE/DRUMCODE",
+      "trackId": "9226893",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 6180,
+      "mediaIds": {
+        "soundcloud": "900985"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "HI-LO & Danny Avila",
+      "title": "PARADISE",
+      "remix": "",
+      "label": "HILOMATIK",
+      "trackId": "9240116",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 6505,
+      "mediaIds": {
+        "spotify": "906665",
+        "youtube": "906665",
+        "soundcloud": "906665",
+        "appleMusic": "906665"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "HI-LO & Layton Giordani",
+      "title": "Rabbit Hole",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "9226896",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 6735,
+      "mediaIds": {
+        "spotify": "834845",
+        "youtube": "834845",
+        "soundcloud": "834845",
+        "appleMusic": "834845"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3501264",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=E1LmPz_-MpQ"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "5192461",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/UMFradio"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:45:05.490Z",
+  "scrapeVersion": 2
+}

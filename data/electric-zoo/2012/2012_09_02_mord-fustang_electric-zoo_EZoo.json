@@ -1,0 +1,654 @@
+{
+  "tlId": "7rw7cjk",
+  "dj": "Mord Fustang",
+  "stage": "Electric Zoo",
+  "date": "2012-09-02",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/7rw7cjk/mord-fustang-electric-zoo-united-states-2012-09-02.html",
+  "djs": [
+    {
+      "name": "Mord Fustang",
+      "slug": "mordfustang"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Mord Fustang",
+      "title": "Taito",
+      "remix": "",
+      "label": "PLASMAPOOL",
+      "trackId": "296207",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "115309",
+        "youtube": "115309",
+        "soundcloud": "115309",
+        "appleMusic": "115309"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "deadmau5",
+      "title": "Sometimes Things Get, Whatever (2nd Edit)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "296208",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 250,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Mr. Frog",
+      "title": "Let's Bounce And Roar",
+      "remix": "",
+      "label": "",
+      "trackId": "296209",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 300,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Mord Fustang",
+      "title": "The Cat Above",
+      "remix": "",
+      "label": "MAGIC TROOPER",
+      "trackId": "3250891",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 360,
+      "mediaIds": {
+        "spotify": "132118",
+        "youtube": "132118"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Mord Fustang",
+      "title": "We Are Now Connected",
+      "remix": "",
+      "label": "PLASMAPOOL",
+      "trackId": "296210",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "59333",
+        "youtube": "59333"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mord Fustang",
+          "title": "We Are Now Connected",
+          "remix": "",
+          "trackId": "296210"
+        },
+        {
+          "artist": "Martin Solveig",
+          "title": "The Night Out (Acappella)",
+          "remix": "",
+          "trackId": "296211"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Solveig",
+      "title": "The Night Out (Acappella)",
+      "remix": "",
+      "label": "MIXTURE",
+      "trackId": "296211",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "33659",
+        "youtube": "33659",
+        "soundcloud": "79162",
+        "appleMusic": "33659"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "deadmau5",
+      "title": "Superliminal",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "296212",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 660,
+      "mediaIds": {
+        "spotify": "82425",
+        "youtube": "82425",
+        "soundcloud": "82425",
+        "appleMusic": "82425"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "KillSonik",
+      "title": "Girly",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "296213",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "78159",
+        "soundcloud": "78159"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Mord Fustang",
+      "title": "A New World",
+      "remix": "",
+      "label": "NOIZE RECORDS",
+      "trackId": "296214",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "41417"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Mord Fustang",
+      "title": "The Electric Dream",
+      "remix": "",
+      "label": "PLASMAPOOL",
+      "trackId": "296215",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "27157",
+        "youtube": "27157",
+        "soundcloud": "27157",
+        "appleMusic": "27157"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Wolfgang Gartner",
+      "title": "Girl On Boy",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "296216",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "87202",
+        "youtube": "87202",
+        "soundcloud": "87202",
+        "appleMusic": "87202"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Porter Robinson ft. Amba Shepherd",
+      "title": "Vandalism (Lazy Rich Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "296217",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "81506",
+        "youtube": "81506",
+        "soundcloud": "81506",
+        "appleMusic": "81506"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Fussy Boy",
+      "title": "Gold (Mord Fustang Remix)",
+      "remix": "",
+      "label": "PLASMAPOOL",
+      "trackId": "296218",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "34257",
+        "youtube": "34257",
+        "soundcloud": "34257",
+        "appleMusic": "34257"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fussy Boy",
+          "title": "Gold (Mord Fustang Remix)",
+          "remix": "",
+          "trackId": "296218"
+        },
+        {
+          "artist": "Dragonette",
+          "title": "Let It Go",
+          "remix": "",
+          "trackId": "296219"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dragonette",
+      "title": "Let It Go",
+      "remix": "",
+      "label": "",
+      "trackId": "296219",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "70730",
+        "appleMusic": "70730"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "The M Machine",
+      "title": "Deep Search",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "298638",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1680,
+      "mediaIds": {
+        "spotify": "92805",
+        "youtube": "92805",
+        "soundcloud": "92805",
+        "appleMusic": "92805"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Mord Fustang",
+      "title": "Milky Way",
+      "remix": "",
+      "label": "PLASMAPOOL",
+      "trackId": "296220",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30569",
+        "youtube": "30569",
+        "soundcloud": "30569",
+        "appleMusic": "30569"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Mord Fustang",
+      "title": "Magic Trooper",
+      "remix": "",
+      "label": "PLASMAPOOL",
+      "trackId": "296221",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "38536",
+        "youtube": "38536"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Mord Fustang",
+      "title": "Super Meat Freeze",
+      "remix": "",
+      "label": "PLASMAPOOL",
+      "trackId": "296222",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2040,
+      "mediaIds": {
+        "spotify": "29264",
+        "youtube": "29264",
+        "soundcloud": "29264",
+        "appleMusic": "29264"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Madeon ft. Nicholas Petricca",
+      "title": "Finale (Dillon Francis Remix)",
+      "remix": "",
+      "label": "POPCULTUR",
+      "trackId": "296223",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "89113",
+        "youtube": "89113",
+        "soundcloud": "89113"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Choobz",
+      "title": "Drink On, Smoke On",
+      "remix": "",
+      "label": "",
+      "trackId": "296224",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2400,
+      "mediaIds": {
+        "soundcloud": "85017"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Boys Noize",
+      "title": "XTC",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "296225",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "46779",
+        "youtube": "46779",
+        "soundcloud": "46779",
+        "appleMusic": "46779"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Neoteric & Wax Motif",
+      "title": "Go Deep (Torro Torro Remix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "296226",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "74432",
+        "youtube": "74432",
+        "soundcloud": "74432"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Mord Fustang",
+      "title": "Super Fever",
+      "remix": "",
+      "label": "PLASMAPOOL",
+      "trackId": "296227",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69524",
+        "youtube": "69524",
+        "soundcloud": "69524"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mord Fustang",
+          "title": "Super Fever",
+          "remix": "",
+          "trackId": "296227"
+        },
+        {
+          "artist": "The White Stripes",
+          "title": "Seven Nation Army (The Glitch Mob Remix)",
+          "remix": "",
+          "trackId": "296228"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army (The Glitch Mob Remix)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "296228",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 2820,
+      "mediaIds": {
+        "spotify": "37866",
+        "youtube": "37866",
+        "soundcloud": "37866",
+        "appleMusic": "37866"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Mord Fustang",
+      "title": "Lick The Rainbow",
+      "remix": "",
+      "label": "PLASMAPOOL",
+      "trackId": "296229",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "31953",
+        "youtube": "31953",
+        "soundcloud": "31953",
+        "appleMusic": "31953"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Morgan Page & Sultan + Shepard + BT ft. Angela McCluskey",
+      "title": "In The Air (Mord Fustang Remix)",
+      "remix": "",
+      "label": "NETTWERK",
+      "trackId": "296230",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "51756",
+        "youtube": "51756",
+        "soundcloud": "51756",
+        "appleMusic": "51756"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Mord Fustang",
+      "title": "Champloo",
+      "remix": "",
+      "label": "PLASMAPOOL",
+      "trackId": "296231",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3300,
+      "mediaIds": {
+        "spotify": "106564",
+        "youtube": "106564",
+        "soundcloud": "106564",
+        "appleMusic": "106564"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Matroda",
+      "title": "Some Strange Voices",
+      "remix": "",
+      "label": "NOIZE (PLASMAPOOL)",
+      "trackId": "296232",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3420,
+      "mediaIds": {
+        "spotify": "92806"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Mord Fustang",
+      "title": "Windwaker",
+      "remix": "",
+      "label": "PLASMAPOOL",
+      "trackId": "296233",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69024",
+        "youtube": "69024",
+        "soundcloud": "69024",
+        "appleMusic": "69024"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "LMFAO",
+      "title": "Sexy And I Know It (Mord Fustang Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "296234",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "50704",
+        "youtube": "50704",
+        "soundcloud": "50704"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Mord Fustang",
+      "title": "Elite Beat Agent",
+      "remix": "",
+      "label": "MAGIC TROOPER",
+      "trackId": "296235",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3780,
+      "mediaIds": {
+        "youtube": "228553",
+        "soundcloud": "228553"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Knife Party ft. MistaJam",
+      "title": "Sleaze",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "296236",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "42143",
+        "youtube": "42143",
+        "soundcloud": "42143",
+        "appleMusic": "42143"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "The Bloody Beetroots",
+      "title": "Rocksteady (Gigi Barocco Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "296237",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "85500",
+        "youtube": "85500",
+        "soundcloud": "85500",
+        "appleMusic": "85500"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "deadmau5 ft. Gerard Way",
+      "title": "Professional Griefers (Instrumental)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "296238",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "38447",
+        "youtube": "53314",
+        "soundcloud": "38447",
+        "appleMusic": "38447"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Feed Me",
+      "title": "Little Cat Steps",
+      "remix": "",
+      "label": "SOTTO VOCE",
+      "trackId": "296239",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "76391",
+        "youtube": "76391",
+        "soundcloud": "76391",
+        "appleMusic": "76391"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T04:24:35.062Z",
+  "scrapeVersion": 2
+}

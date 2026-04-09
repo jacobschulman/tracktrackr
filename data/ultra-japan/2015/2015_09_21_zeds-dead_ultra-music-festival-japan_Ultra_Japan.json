@@ -1,0 +1,883 @@
+{
+  "tlId": "2yz95ht",
+  "dj": "Zeds Dead",
+  "stage": "Ultra Music Festival Japan",
+  "date": "2015-09-21",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/2yz95ht/zeds-dead-mainstage-ultra-music-festival-japan-2015-09-21.html",
+  "djs": [
+    {
+      "name": "Zeds Dead",
+      "slug": "zedsdead"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Zeds Dead & Hunter Siegel",
+      "title": "Loud",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1638103",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "195782",
+        "youtube": "195782",
+        "soundcloud": "195782",
+        "appleMusic": "195782"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Zeds Dead & LOUDPVCK",
+      "title": "Flies",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1638104",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "260095",
+        "youtube": "260095",
+        "soundcloud": "260095",
+        "appleMusic": "260095"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Zeds Dead ft. Murs",
+      "title": "One Time",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1639957",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "271676",
+        "youtube": "271676",
+        "soundcloud": "271676",
+        "appleMusic": "271676"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Zeds Dead",
+      "title": "Hadouken (VIP)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1638106",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "235942",
+        "youtube": "235942",
+        "soundcloud": "235942",
+        "appleMusic": "235942"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zeds Dead",
+          "title": "Hadouken (VIP)",
+          "remix": "",
+          "trackId": "1638106"
+        },
+        {
+          "artist": "Kendrick Lamar ft. MC Eiht",
+          "title": "m.A.A.d city (Acappella)",
+          "remix": "",
+          "trackId": "1639958"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kendrick Lamar ft. MC Eiht",
+      "title": "m.A.A.d city (Acappella)",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "1639958",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "113728",
+        "youtube": "217926",
+        "soundcloud": "113728",
+        "appleMusic": "113728"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "SNAILS & Herobust",
+      "title": "Pump This (VIP)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "1638107",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "242906",
+        "soundcloud": "242906"
+      },
+      "blendGroup": [
+        {
+          "artist": "SNAILS & Herobust",
+          "title": "Pump This (VIP)",
+          "remix": "",
+          "trackId": "1638107"
+        },
+        {
+          "artist": "Zeds Dead",
+          "title": "Ratchet",
+          "remix": "",
+          "trackId": "1639959"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zeds Dead",
+      "title": "Ratchet",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1639959",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "118524",
+        "soundcloud": "118524"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zeds Dead",
+          "title": "Ratchet",
+          "remix": "",
+          "trackId": "1639959"
+        },
+        {
+          "artist": "Zeds Dead",
+          "title": "Ratchet (JAUZ Remix)",
+          "remix": "",
+          "trackId": "1639960"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zeds Dead",
+      "title": "Ratchet (JAUZ Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1639960",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "185802",
+        "soundcloud": "185802"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Major Lazer & DJ Snake ft. MØ",
+      "title": "Lean On (Dillon Francis & JAUZ Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1638108",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 552,
+      "mediaIds": {
+        "spotify": "258558",
+        "youtube": "258558",
+        "soundcloud": "258558",
+        "appleMusic": "258558"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Fetty Wap",
+      "title": "Trap Queen",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "1638109",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "241829",
+        "youtube": "241829",
+        "soundcloud": "241829",
+        "appleMusic": "241829"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fetty Wap",
+          "title": "Trap Queen",
+          "remix": "",
+          "trackId": "1638109"
+        },
+        {
+          "artist": "Ragga Twins ft. A.R.D",
+          "title": "Bad Man (Skrillex Remix)",
+          "remix": "",
+          "trackId": "1639961"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ragga Twins ft. A.R.D",
+      "title": "Bad Man (Skrillex Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "1639961",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "244936",
+        "youtube": "244936",
+        "soundcloud": "244936",
+        "appleMusic": "244936"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "TroyBoi & Flosstradamus",
+      "title": "Soundclash",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "1638110",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "226289",
+        "youtube": "226289",
+        "soundcloud": "226289",
+        "appleMusic": "226289"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "SLANDER & NGHTMRE",
+      "title": "Gud Vibrations",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1638111",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "251368",
+        "youtube": "251368",
+        "soundcloud": "251368",
+        "appleMusic": "251368"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army",
+      "remix": "",
+      "label": "XL",
+      "trackId": "1638112",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1491",
+        "youtube": "1491",
+        "soundcloud": "1491",
+        "appleMusic": "1491"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Valentino Khan",
+      "title": "Deep Down Low (VIP)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1638113",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "263409",
+        "youtube": "263409",
+        "soundcloud": "263409",
+        "appleMusic": "263409"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Doctor P",
+      "title": "Bubblehead",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "1638114",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "266240",
+        "youtube": "266240",
+        "soundcloud": "266240",
+        "appleMusic": "266240"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "JAUZ & Ephwurd",
+      "title": "Rock The Party",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1638116",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "253586",
+        "youtube": "253586",
+        "soundcloud": "253586",
+        "appleMusic": "253586"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Californication",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "1638117",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "63744",
+        "youtube": "63744",
+        "soundcloud": "63744",
+        "appleMusic": "63744"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "MUST DIE!",
+      "title": "Hellcat",
+      "remix": "",
+      "label": "NEVER SAY DIE/OWSLA",
+      "trackId": "1638118",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "197661",
+        "youtube": "197661",
+        "soundcloud": "197661",
+        "appleMusic": "197661"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Oliver Heldens & Zeds Dead",
+      "title": "You Know",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1638119",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "206980",
+        "youtube": "206980",
+        "soundcloud": "206980",
+        "appleMusic": "206980"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Zeds Dead & Twin Shadow ft. D'Angelo Lacy",
+      "title": "Lost You",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1638120",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "196450",
+        "youtube": "196450",
+        "soundcloud": "196450",
+        "appleMusic": "196450"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Eric Prydz vs. Pink Floyd",
+      "title": "Proper Education",
+      "remix": "",
+      "label": "DATA REC./PRYDA",
+      "trackId": "1638121",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "6459",
+        "youtube": "6459",
+        "soundcloud": "6459",
+        "appleMusic": "6459"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "GTA & Valentino Khan",
+      "title": "Break Your Neck",
+      "remix": "",
+      "label": "THREE SIX ZERO",
+      "trackId": "1638122",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "245561",
+        "youtube": "245561",
+        "soundcloud": "245561",
+        "appleMusic": "245561"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Zeds Dead ft. Memorecks",
+      "title": "Collapse",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1638123",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "201548",
+        "youtube": "201548",
+        "soundcloud": "201548",
+        "appleMusic": "201548"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Dodge & Fuski & 12th Planet",
+      "title": "Big Riddim Monsta",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "1801733",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "256178",
+        "youtube": "256178",
+        "soundcloud": "256178",
+        "appleMusic": "256178"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Michael Woods",
+      "title": "VMS (Kill The Noise Edit)",
+      "remix": "",
+      "label": "MINISTRY OF SOUND",
+      "trackId": "1639962",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Michael Woods",
+          "title": "VMS (Kill The Noise Edit)",
+          "remix": "",
+          "trackId": "1639962"
+        },
+        {
+          "artist": "O.T. Genasis",
+          "title": "CoCo (Acappella)",
+          "remix": "",
+          "trackId": "1638124"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "O.T. Genasis",
+      "title": "CoCo (Acappella)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "1638124",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "226429",
+        "youtube": "226429",
+        "soundcloud": "226429",
+        "appleMusic": "226429"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Megalodon & Zeds Dead",
+      "title": "Wit Me Dub",
+      "remix": "",
+      "label": "ZEDS DEAD",
+      "trackId": "1801734",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "260064",
+        "youtube": "260064",
+        "soundcloud": "260064",
+        "appleMusic": "260064"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Eptic",
+      "title": "The End (Carnage & Breaux Festival Trap Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1638126",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "247809",
+        "youtube": "247809",
+        "soundcloud": "247809",
+        "appleMusic": "247809"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "WTF!? & Dead Prez",
+      "title": "It's Bigger Than Hip Hop UK",
+      "remix": "",
+      "label": "LOUDBIT",
+      "trackId": "1638128",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20213",
+        "youtube": "20213",
+        "soundcloud": "20213",
+        "appleMusic": "20213"
+      },
+      "blendGroup": [
+        {
+          "artist": "WTF!? & Dead Prez",
+          "title": "It's Bigger Than Hip Hop UK",
+          "remix": "",
+          "trackId": "1638128"
+        },
+        {
+          "artist": "Avicii ft. Simon Aldred",
+          "title": "Waiting For Love(Co-Prod. by Martin Garrix) (Marshmello Remix)",
+          "remix": "",
+          "trackId": "1638129"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii ft. Simon Aldred",
+      "title": "Waiting For Love(Co-Prod. by Martin Garrix) (Marshmello Remix)",
+      "remix": "",
+      "label": "PRMD",
+      "trackId": "1638129",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "261213",
+        "youtube": "261213",
+        "soundcloud": "261213",
+        "appleMusic": "261213"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "DJ S.K.T ft. RAE",
+      "title": "Take Me Away (Andy C Remix)",
+      "remix": "",
+      "label": "AZULI",
+      "trackId": "1638130",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "254578",
+        "youtube": "254578",
+        "soundcloud": "254578",
+        "appleMusic": "254578"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Modestep & The Partysquad",
+      "title": "Rainbow",
+      "remix": "",
+      "label": "MAX RECORDS",
+      "trackId": "1638131",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "255322",
+        "youtube": "255322",
+        "soundcloud": "255322",
+        "appleMusic": "255322"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "DJ Snake",
+      "title": "Birthday Song (Parisian Vision) (Kovalenco Gennadi Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "1638132",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "234655",
+        "soundcloud": "234655"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "MssingNo",
+      "title": "XE3 (Wheathin Turn)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1638133",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "260111",
+        "soundcloud": "260111"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "SNAILS",
+      "title": "VMPR",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1801735",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "253833",
+        "soundcloud": "253833"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Oliver Heldens & Da Hool",
+      "title": "MHATLP (HI-LO Edit)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1638134",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "258090",
+        "youtube": "258090",
+        "soundcloud": "258090",
+        "appleMusic": "258090"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "DJ Fresh ft. Ella Eyre",
+      "title": "Gravity (Zeds Dead Remix)",
+      "remix": "",
+      "label": "MINISTRY OF SOUND",
+      "trackId": "1638136",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "230492",
+        "youtube": "230492",
+        "soundcloud": "230492"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "LOUDPVCK ft. Travis Barker",
+      "title": "Buena",
+      "remix": "",
+      "label": "LOUDPVCK",
+      "trackId": "1638137",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "264140",
+        "youtube": "264140",
+        "soundcloud": "264140",
+        "appleMusic": "264140"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Skrillex & Dillon Francis",
+      "title": "Bun Up The Dance",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "1638138",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "224014",
+        "youtube": "224014",
+        "soundcloud": "224014",
+        "appleMusic": "224014"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Martin Solveig & GTA",
+      "title": "Intoxicated (Zeds Dead Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "1638139",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "255349",
+        "youtube": "255349",
+        "soundcloud": "255349",
+        "appleMusic": "255349"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Flux Pavilion ft. Doctor",
+      "title": "International Anthem",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "1638140",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "253557",
+        "youtube": "253557",
+        "soundcloud": "253557",
+        "appleMusic": "253557"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Bill Withers",
+      "title": "Ain't No Sunshine (Lido Remix)",
+      "remix": "",
+      "label": "SUSSEX",
+      "trackId": "1638141",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "218894",
+        "youtube": "218894",
+        "soundcloud": "218894",
+        "appleMusic": "218894"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Jack Ü ft. Kiesza",
+      "title": "Take Ü There (Zeds Dead Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "1638142",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "228556",
+        "youtube": "228556",
+        "soundcloud": "228556",
+        "appleMusic": "228556"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "5081673",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/225092276"
+    },
+    {
+      "platform": "source_27",
+      "idMedia": "5081653",
+      "idSource": "27",
+      "url": "https://www.dailymotion.com/embed/video/x3894gz"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:09:18.628Z",
+  "scrapeVersion": 2
+}

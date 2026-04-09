@@ -1,0 +1,291 @@
+{
+  "tlId": "2c32g8t9",
+  "dj": "Audien",
+  "stage": "EDC Mexico",
+  "date": "2026-02-22",
+  "year": 2026,
+  "url": "https://www.1001tracklists.com/tracklist/2c32g8t9/audien-dos-equis-stage-edc-mexico-2026-02-22.html",
+  "djs": [
+    {
+      "name": "Audien",
+      "slug": "audien"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Bastille",
+      "title": "Pompeii (Audien Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "13543009",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "172665",
+        "youtube": "172665",
+        "soundcloud": "172665",
+        "appleMusic": "172665"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "MAKJ",
+      "title": "Up",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13543010",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1146884",
+        "youtube": "1146884",
+        "soundcloud": "1146884",
+        "appleMusic": "1146884"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Mesto",
+      "title": "Caramelle",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "13543011",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1134236",
+        "youtube": "1134236",
+        "soundcloud": "1134236",
+        "appleMusic": "1134236"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone (Pickle Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "13543012",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "840274",
+        "soundcloud": "840274"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alice Deejay",
+          "title": "Better Off Alone (Pickle Remix)",
+          "remix": "",
+          "trackId": "13543012"
+        },
+        {
+          "artist": "Disco Lines & Tinashe",
+          "title": "No Broke Boys",
+          "remix": "",
+          "trackId": "13543013"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Disco Lines & Tinashe",
+      "title": "No Broke Boys",
+      "remix": "",
+      "label": "NICE LIFE/GOOD GOOD",
+      "trackId": "13543013",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1098037",
+        "youtube": "1098037",
+        "soundcloud": "1098037",
+        "appleMusic": "1098037"
+      },
+      "blendGroup": [
+        {
+          "artist": "Disco Lines & Tinashe",
+          "title": "No Broke Boys",
+          "remix": "",
+          "trackId": "13543013"
+        },
+        {
+          "artist": "San Holo vs. Kanye West",
+          "title": "Lights (Curbi Edit)",
+          "remix": "",
+          "trackId": "13543014"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "San Holo vs. Kanye West",
+      "title": "Lights (Curbi Edit)",
+      "remix": "",
+      "label": "ROC-A-FELLA (ISLAND DEF JAM)/BITBIRD",
+      "trackId": "13543014",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "530198",
+        "soundcloud": "530198"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Cirez D & Kapuchon vs. Jack Ü & Justin Bieber",
+      "title": "On Off vs. Where Are Ü Now (Fuerte Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "13543015",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Martin Garrix & Sem Vox ft. Jaimes",
+      "title": "Gravity",
+      "remix": "(Instrumental)",
+      "label": "STMPD",
+      "trackId": "13543018",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "984683",
+        "youtube": "984683",
+        "soundcloud": "984683",
+        "appleMusic": "984683"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Garrix & Sem Vox ft. Jaimes",
+          "title": "Gravity",
+          "remix": "(Instrumental)",
+          "trackId": "13543018"
+        },
+        {
+          "artist": "Zedd ft. Foxes",
+          "title": "Clarity (Acappella)",
+          "remix": "",
+          "trackId": "13543019"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd ft. Foxes",
+      "title": "Clarity (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "13543019",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "99468",
+        "youtube": "106505",
+        "soundcloud": "99468",
+        "appleMusic": "99468"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Afrojack & Martin Garrix & David Guetta & Amél vs. Rihanna & Calvin Harris",
+      "title": "Our Time vs. We Found Love (Fuerte Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "13543020",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Audien vs. Mesto & Martin Garrix",
+      "title": "Wish It Was You vs. Limitless (Audien Edit)",
+      "remix": "",
+      "label": "ARMADA/STMPD",
+      "trackId": "13543022",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Audien vs. deadmau5 & Kaskade & Haley Gibby",
+      "title": "Rooms vs. I Remember (Audien Mashup)",
+      "remix": "",
+      "label": "MAU5TRAP/ULTRA/CAPITOL (EMI)",
+      "trackId": "13543023",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Alesso vs. OneRepublic vs. Supermode vs. Nico & Vinz",
+      "title": "If I Lose Myself vs. Tell Me Why vs. Am I Wrong (Fuerte Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "13543024",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "DubVision & Nicky Romero & Oaks vs. Robert Miles vs. Calvin Harris & Disciples",
+      "title": "Live My Life vs. Children vs. How Deep Is Your Love (Fuerte & Josué Rodriguez Mashup)",
+      "remix": "",
+      "label": "ARISTA/COLUMBIA (SONY)/STMPD",
+      "trackId": "13543027",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "The Killers",
+      "title": "Mr. Brightside (MAKJ Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "13543028",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T15:25:00.578Z",
+  "scrapeVersion": 2
+}

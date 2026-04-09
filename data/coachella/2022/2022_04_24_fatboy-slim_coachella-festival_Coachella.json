@@ -1,0 +1,203 @@
+{
+  "tlId": "2qytkr59",
+  "dj": "Fatboy Slim",
+  "stage": "Coachella Festival",
+  "date": "2022-04-24",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/2qytkr59/fatboy-slim-yuma-tent-coachella-festival-weekend-2-united-states-2022-04-24.html",
+  "djs": [
+    {
+      "name": "Fatboy Slim",
+      "slug": "fatboyslim"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Fatboy Slim",
+      "title": "Rockafeller Skank (Acappella)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "7626300",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "4511",
+        "youtube": "4511",
+        "soundcloud": "27742",
+        "appleMusic": "4511"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fatboy Slim",
+          "title": "Rockafeller Skank (Acappella)",
+          "remix": "",
+          "trackId": "7626300"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7626301"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7626301",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "02",
+      "artist": "FISHER",
+      "title": "Palm Beach Banga",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "7626302",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 251,
+      "mediaIds": {
+        "spotify": "765633",
+        "youtube": "765633",
+        "soundcloud": "765633",
+        "appleMusic": "765633"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Ben Hemsley",
+      "title": "Tu Amor",
+      "remix": "",
+      "label": "BEBÉ",
+      "trackId": "7626303",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 551,
+      "mediaIds": {
+        "spotify": "788134",
+        "youtube": "788134",
+        "soundcloud": "788134",
+        "appleMusic": "788134"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Lexa Hill & The Young Punx",
+      "title": "Ride It",
+      "remix": "",
+      "label": "D:VISION",
+      "trackId": "7626304",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "761534",
+        "youtube": "761534",
+        "appleMusic": "761534"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "MOSKA",
+      "title": "This Is House",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7626305",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 155,
+      "mediaIds": {
+        "spotify": "387686",
+        "youtube": "387686",
+        "soundcloud": "387686",
+        "appleMusic": "387686"
+      },
+      "blendGroup": [
+        {
+          "artist": "MOSKA",
+          "title": "This Is House",
+          "remix": "",
+          "trackId": "7626305"
+        },
+        {
+          "artist": "Basement Jaxx",
+          "title": "Where's Your Head At?",
+          "remix": "",
+          "trackId": "7626306"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Basement Jaxx",
+      "title": "Where's Your Head At?",
+      "remix": "",
+      "label": "XL",
+      "trackId": "7626306",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5190",
+        "youtube": "5190",
+        "soundcloud": "5190",
+        "appleMusic": "5190"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Dombresky",
+      "title": "Bubblin",
+      "remix": "",
+      "label": "PROCESS RECORDS",
+      "trackId": "7626307",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 466,
+      "mediaIds": {
+        "spotify": "768221",
+        "youtube": "768221",
+        "soundcloud": "768221",
+        "appleMusic": "768221"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Solardo",
+      "title": "Riser",
+      "remix": "",
+      "label": "SOLA (ARMADA)",
+      "trackId": "7626308",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 735,
+      "mediaIds": {
+        "spotify": "769755",
+        "youtube": "769755",
+        "soundcloud": "769755",
+        "appleMusic": "769755"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T03:56:12.576Z",
+  "scrapeVersion": 2
+}

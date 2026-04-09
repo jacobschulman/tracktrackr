@@ -1,0 +1,805 @@
+{
+  "tlId": "8yz0l51",
+  "dj": "Chuckie",
+  "stage": "EDC New York",
+  "date": "2013-05-17",
+  "year": 2013,
+  "url": "https://www.1001tracklists.com/tracklist/8yz0l51/chuckie-kineticfield-edc-new-york-united-states-2013-05-17.html",
+  "djs": [
+    {
+      "name": "Chuckie",
+      "slug": "chuckie"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Jewelz & Sparks",
+      "title": "NYMSN",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "505940",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "100590",
+        "youtube": "100590",
+        "soundcloud": "100590",
+        "appleMusic": "100590"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jewelz & Sparks",
+          "title": "NYMSN",
+          "remix": "",
+          "trackId": "505940"
+        },
+        {
+          "artist": "Ummet Ozcan & DJ Ghost",
+          "title": "Airport",
+          "remix": "",
+          "trackId": "505987"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ummet Ozcan & DJ Ghost",
+      "title": "Airport",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "505987",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 101,
+      "mediaIds": {
+        "spotify": "134120",
+        "youtube": "134120",
+        "soundcloud": "134120",
+        "appleMusic": "134120"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Promise Land",
+      "title": "Gangsta",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "505941",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 280,
+      "mediaIds": {
+        "spotify": "131074",
+        "youtube": "131074",
+        "soundcloud": "131074",
+        "appleMusic": "131074"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Artistic Raw",
+      "title": "Bring Me Drums",
+      "remix": "",
+      "label": "DRUGHOUSE",
+      "trackId": "505942",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 525,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Sidney Samson vs. Mighty Dub Katz & Lookback",
+      "title": "Mutate Together (GLOWINTHEDARK Smash-up)",
+      "remix": "",
+      "label": "",
+      "trackId": "505943",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 600,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Knife Party",
+      "title": "Internet Friends (VIP Mix)",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "505945",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 780,
+      "mediaIds": {
+        "spotify": "53743",
+        "youtube": "53743",
+        "soundcloud": "53743",
+        "appleMusic": "53743"
+      },
+      "blendGroup": [
+        {
+          "artist": "Knife Party",
+          "title": "Internet Friends (VIP Mix)",
+          "remix": "",
+          "trackId": "505945"
+        },
+        {
+          "artist": "Fedde Le Grand ft. Mr. V",
+          "title": "Back & Forth (Acappella)",
+          "remix": "",
+          "trackId": "505946"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fedde Le Grand ft. Mr. V",
+      "title": "Back & Forth (Acappella)",
+      "remix": "",
+      "label": "FLAMINGO",
+      "trackId": "505946",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 795,
+      "mediaIds": {
+        "spotify": "5176",
+        "youtube": "5176",
+        "soundcloud": "5176"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Zedd ft. Foxes",
+      "title": "Clarity",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "505947",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 973,
+      "mediaIds": {
+        "spotify": "99468",
+        "youtube": "99468",
+        "soundcloud": "99468",
+        "appleMusic": "99468"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd ft. Foxes",
+          "title": "Clarity",
+          "remix": "",
+          "trackId": "505947"
+        },
+        {
+          "artist": "Chris Lake",
+          "title": "Ohh Shhh",
+          "remix": "",
+          "trackId": "505948"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chris Lake",
+      "title": "Ohh Shhh",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "505948",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 1047,
+      "mediaIds": {
+        "spotify": "125812",
+        "youtube": "125812",
+        "soundcloud": "125812",
+        "appleMusic": "125812"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Oliver Heldens",
+      "title": "Stinger",
+      "remix": "",
+      "label": "OXYGEN (SPINNIN')",
+      "trackId": "505949",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1245,
+      "mediaIds": {
+        "spotify": "124780",
+        "youtube": "124780",
+        "appleMusic": "124780"
+      },
+      "blendGroup": [
+        {
+          "artist": "Oliver Heldens",
+          "title": "Stinger",
+          "remix": "",
+          "trackId": "505949"
+        },
+        {
+          "artist": "Chuckie & GLOWINTHEDARK",
+          "title": "Electro Dude",
+          "remix": "",
+          "trackId": "507466"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chuckie & GLOWINTHEDARK",
+      "title": "Electro Dude",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "507466",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 1300,
+      "mediaIds": {
+        "spotify": "72959",
+        "youtube": "72959",
+        "soundcloud": "72959",
+        "appleMusic": "72959"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "David Guetta vs. Zedd vs. Otto Knows vs. Bingo Players",
+      "title": "Titanium Spectrum Million Voices Out Of My Mind (Chuckie Mashup)",
+      "remix": "",
+      "label": "REFUNE/PARLOPHONE (WARNER MUSIC)/INTERSCOPE/HYSTERIA",
+      "trackId": "505950",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1505,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Chuckie vs. Dzeko & Torres",
+      "title": "Down To This (Chuckie Hype Mix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "505951",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1820,
+      "mediaIds": {
+        "youtube": "130174"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Savoy & Bright Lights",
+      "title": "I Dare You",
+      "remix": "",
+      "label": "KINDERGARTEN RECORDINGS",
+      "trackId": "505952",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2070,
+      "mediaIds": {
+        "spotify": "124699",
+        "youtube": "124699",
+        "soundcloud": "124699"
+      },
+      "blendGroup": [
+        {
+          "artist": "Savoy & Bright Lights",
+          "title": "I Dare You",
+          "remix": "",
+          "trackId": "505952"
+        },
+        {
+          "artist": "Promise Land & Chuckie ft. Amanda Wilson",
+          "title": "Breaking Up (Tony Romera & Bartosz Brenes Remix)",
+          "remix": "",
+          "trackId": "505953"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Promise Land & Chuckie ft. Amanda Wilson",
+      "title": "Breaking Up (Tony Romera & Bartosz Brenes Remix)",
+      "remix": "",
+      "label": "CR2/BIG BEAT",
+      "trackId": "505953",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 2146,
+      "mediaIds": {
+        "youtube": "86004",
+        "appleMusic": "86004"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Jordy Dazz",
+      "title": "Jumpfold (7th Sunday 2013 Anthem)",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "505954",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2390,
+      "mediaIds": {
+        "spotify": "132713",
+        "youtube": "132713",
+        "soundcloud": "132713",
+        "appleMusic": "132713"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "JunxterJack",
+      "title": "Let's Get This Party Started",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "506361",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2633,
+      "mediaIds": {
+        "spotify": "76261",
+        "youtube": "76261"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Benny Benassi pres. The Biz",
+      "title": "Satisfaction (Dada Life Remix)",
+      "remix": "",
+      "label": "D:VISION",
+      "trackId": "505957",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2858,
+      "mediaIds": {
+        "spotify": "113335"
+      },
+      "blendGroup": [
+        {
+          "artist": "Benny Benassi pres. The Biz",
+          "title": "Satisfaction (Dada Life Remix)",
+          "remix": "",
+          "trackId": "505957"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "LRAD",
+          "remix": "",
+          "trackId": "505958"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "LRAD",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "505958",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 2938,
+      "mediaIds": {
+        "spotify": "117950",
+        "youtube": "117950",
+        "soundcloud": "117950",
+        "appleMusic": "117950"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Chris Kaeser",
+      "title": "Who's In The House (Chuckie Remix)",
+      "remix": "",
+      "label": "BARCLAY",
+      "trackId": "505959",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 3060,
+      "mediaIds": {
+        "youtube": "18658"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chris Kaeser",
+          "title": "Who's In The House (Chuckie Remix)",
+          "remix": "",
+          "trackId": "505959"
+        },
+        {
+          "artist": "Martin Solveig & The Cataracs ft. Kyle",
+          "title": "Hey Now (Laidback Luke Remix)",
+          "remix": "",
+          "trackId": "505960"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Solveig & The Cataracs ft. Kyle",
+      "title": "Hey Now (Laidback Luke Remix)",
+      "remix": "",
+      "label": "MIXTURE",
+      "trackId": "505960",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 3107,
+      "mediaIds": {
+        "spotify": "135871",
+        "youtube": "135871",
+        "soundcloud": "135871",
+        "appleMusic": "135871"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Solveig & The Cataracs ft. Kyle",
+          "title": "Hey Now (Laidback Luke Remix)",
+          "remix": "",
+          "trackId": "505960"
+        },
+        {
+          "artist": "Blasterjaxx",
+          "title": "Miami",
+          "remix": "",
+          "trackId": "507555"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Blasterjaxx",
+      "title": "Miami",
+      "remix": "",
+      "label": "ONES TO WATCH (MIXMASH)",
+      "trackId": "507555",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 3150,
+      "mediaIds": {
+        "spotify": "125807",
+        "youtube": "125807",
+        "soundcloud": "125807",
+        "appleMusic": "125807"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Soup",
+      "title": "New York - London - Paris - Chicago (Chocolate Puma Bootleg)",
+      "remix": "",
+      "label": "TORONTO UNDERGROUND",
+      "trackId": "505961",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 3300,
+      "mediaIds": {
+        "soundcloud": "65143"
+      },
+      "blendGroup": [
+        {
+          "artist": "Soup",
+          "title": "New York - London - Paris - Chicago (Chocolate Puma Bootleg)",
+          "remix": "",
+          "trackId": "505961"
+        },
+        {
+          "artist": "Jewelz & Sparks",
+          "title": "Flashbang (Asino Di Medico Bruce Buffer Edit)",
+          "remix": "",
+          "trackId": "3251173"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jewelz & Sparks",
+      "title": "Flashbang (Asino Di Medico Bruce Buffer Edit)",
+      "remix": "",
+      "label": "FLAMINGO",
+      "trackId": "3251173",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 3359,
+      "mediaIds": null
+    },
+    {
+      "pos": "16",
+      "artist": "Steve Aoki ft. Wynter Gordon",
+      "title": "Ladi Dadi (Tommy Trash Instrumental Mix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "505962",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3553,
+      "mediaIds": {
+        "spotify": "63038",
+        "youtube": "63038",
+        "soundcloud": "63038",
+        "appleMusic": "63038"
+      },
+      "blendGroup": [
+        {
+          "artist": "Steve Aoki ft. Wynter Gordon",
+          "title": "Ladi Dadi (Tommy Trash Instrumental Mix)",
+          "remix": "",
+          "trackId": "505962"
+        },
+        {
+          "artist": "Justice vs. Simian",
+          "title": "We Are Your Friends (Acappella)",
+          "remix": "",
+          "trackId": "505963"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice vs. Simian",
+      "title": "We Are Your Friends (Acappella)",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "505963",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 3553,
+      "mediaIds": {
+        "spotify": "8095",
+        "youtube": "8095",
+        "soundcloud": "3157",
+        "appleMusic": "8095"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Nom De Strip",
+      "title": "Techno Saturday",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "505965",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3793,
+      "mediaIds": {
+        "spotify": "124606",
+        "youtube": "124606",
+        "soundcloud": "124606",
+        "appleMusic": "124606"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nom De Strip",
+          "title": "Techno Saturday",
+          "remix": "",
+          "trackId": "505965"
+        },
+        {
+          "artist": "Avicii vs. Lenny Kravitz",
+          "title": "Superlove (Instrumental Mix)",
+          "remix": "",
+          "trackId": "505964"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii vs. Lenny Kravitz",
+      "title": "Superlove (Instrumental Mix)",
+      "remix": "",
+      "label": "BIG BEAT/LE7ELS",
+      "trackId": "505964",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 3810,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Avicii vs. Lenny Kravitz",
+          "title": "Superlove (Instrumental Mix)",
+          "remix": "",
+          "trackId": "505964"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "505966"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "505966",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 3823,
+      "mediaIds": null
+    },
+    {
+      "pos": "18",
+      "artist": "Laidback Luke & Steve Aoki ft. Lil Jon",
+      "title": "Turbulence",
+      "remix": "",
+      "label": "ULTRA/DIM MAK",
+      "trackId": "505967",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 4016,
+      "mediaIds": {
+        "spotify": "18698",
+        "youtube": "18698",
+        "soundcloud": "18698",
+        "appleMusic": "18698"
+      },
+      "blendGroup": [
+        {
+          "artist": "Laidback Luke & Steve Aoki ft. Lil Jon",
+          "title": "Turbulence",
+          "remix": "",
+          "trackId": "505967"
+        },
+        {
+          "artist": "Walden",
+          "title": "Intropial (Pierce Fulton Remix)",
+          "remix": "",
+          "trackId": "506360"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Walden",
+      "title": "Intropial (Pierce Fulton Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "506360",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 4050,
+      "mediaIds": {
+        "spotify": "124249",
+        "soundcloud": "124249",
+        "appleMusic": "124249"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Chuckie & JunxterJack vs. Showtek",
+      "title": "Make Some Noise vs. Slow Down (Chuckie Edit)",
+      "remix": "",
+      "label": "CR2/BIG BEAT/DIM MAK/SPINNIN'",
+      "trackId": "505969",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 4240,
+      "mediaIds": {
+        "youtube": "126876"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Chuckie & Harrys & Fly",
+      "title": "Who's Rocking",
+      "remix": "",
+      "label": "DIRTY DUTCH",
+      "trackId": "505970",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 4449,
+      "mediaIds": {
+        "youtube": "144289"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chuckie & Harrys & Fly",
+          "title": "Who's Rocking",
+          "remix": "",
+          "trackId": "505970"
+        },
+        {
+          "artist": "Daft Punk ft. Pharrell Williams & Nile Rodgers",
+          "title": "Get Lucky",
+          "remix": "",
+          "trackId": "505971"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk ft. Pharrell Williams & Nile Rodgers",
+      "title": "Get Lucky",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "505971",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 4560,
+      "mediaIds": {
+        "spotify": "130501",
+        "youtube": "130501",
+        "soundcloud": "130501",
+        "appleMusic": "130501"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "GLOWINTHEDARK ft. Chuckie",
+      "title": "NRG",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "505973",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 4650,
+      "mediaIds": {
+        "spotify": "124911",
+        "youtube": "124911",
+        "soundcloud": "124911",
+        "appleMusic": "124911"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Chuckie & Gregor Salto vs. Blasterjaxx",
+      "title": "What Happens In Koala (Gregor Salto Brasil Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "505975",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 4860,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "88050",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/92717237"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "956748",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=29Lqn7WoZaE"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "956747",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/livesetsdjmixes"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "88140",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/EFMrage"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:58:30.005Z",
+  "scrapeVersion": 2
+}

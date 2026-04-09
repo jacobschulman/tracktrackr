@@ -1,0 +1,529 @@
+{
+  "tlId": "7sw8uy9",
+  "dj": "New World Punx",
+  "stage": "EDC New York",
+  "date": "2014-05-25",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/7sw8uy9/new-world-punx-ferry-corsten-markus-schulz-kineticfield-edc-new-york-united-states-2014-05-25.html",
+  "djs": [
+    {
+      "name": "New World Punx",
+      "slug": "newworldpunx"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "New World Punx",
+      "title": "Romper",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "916496",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "127081",
+        "youtube": "127081",
+        "soundcloud": "127081",
+        "appleMusic": "127081"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "M.I.K.E. Push",
+      "title": "Intrusion",
+      "remix": "",
+      "label": "COLDHARBOUR",
+      "trackId": "916497",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 210,
+      "mediaIds": {
+        "spotify": "200866",
+        "youtube": "200866",
+        "appleMusic": "200866"
+      },
+      "blendGroup": [
+        {
+          "artist": "M.I.K.E. Push",
+          "title": "Intrusion",
+          "remix": "",
+          "trackId": "916497"
+        },
+        {
+          "artist": "Ferry Corsten ft. Aruna",
+          "title": "Live Forever (Acappella)",
+          "remix": "",
+          "trackId": "916498"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ferry Corsten ft. Aruna",
+      "title": "Live Forever (Acappella)",
+      "remix": "",
+      "label": "FLASHOVER",
+      "trackId": "916498",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "46889",
+        "youtube": "46889",
+        "soundcloud": "46889",
+        "appleMusic": "46889"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Dimitri Vegas & Like Mike & Wolfpack",
+      "title": "Ocarina (TomorrowWorld Anthem) (Bodybangers Remix)",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "916499",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 343,
+      "mediaIds": {
+        "spotify": "128324",
+        "youtube": "128324",
+        "soundcloud": "128324",
+        "appleMusic": "128324"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Jacob van Hage",
+      "title": "Raid",
+      "remix": "",
+      "label": "FLASHOVER",
+      "trackId": "916500",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "190079",
+        "youtube": "190079",
+        "soundcloud": "190079",
+        "appleMusic": "190079"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "KhoMha vs. Fatboy Slim & Riva Starr & Dimitri Vegas & Like Mike & Ummet Ozcan",
+      "title": "Eat Sleep Dusk Riddles (KhoMha Mashup)",
+      "remix": "",
+      "label": "COLDHARBOUR/SKINT",
+      "trackId": "916501",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Sultan + Shepard + John Dish",
+      "title": "Renegade Master (Back Once Again)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "916503",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 760,
+      "mediaIds": {
+        "spotify": "184773",
+        "youtube": "184773",
+        "soundcloud": "184773",
+        "appleMusic": "184773"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sultan + Shepard + John Dish",
+          "title": "Renegade Master (Back Once Again)",
+          "remix": "",
+          "trackId": "916503"
+        },
+        {
+          "artist": "Yves V",
+          "title": "Manga",
+          "remix": "",
+          "trackId": "916504"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Yves V",
+      "title": "Manga",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "916504",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "147816",
+        "youtube": "147816",
+        "soundcloud": "147816",
+        "appleMusic": "147816"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "New World Punx",
+      "title": "Torque",
+      "remix": "",
+      "label": "NEW WORLD PUNX (BLACK HOLE)",
+      "trackId": "916505",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 960,
+      "mediaIds": {
+        "spotify": "213782",
+        "appleMusic": "213782"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Ferry Corsten",
+      "title": "Beautiful (Acappella)",
+      "remix": "",
+      "label": "FLASHOVER",
+      "trackId": "916506",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1883",
+        "youtube": "1883",
+        "soundcloud": "1883",
+        "appleMusic": "1883"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ferry Corsten",
+          "title": "Beautiful (Acappella)",
+          "remix": "",
+          "trackId": "916506"
+        },
+        {
+          "artist": "Koen Groeneveld",
+          "title": "Jetblast (KhoMha Edit)",
+          "remix": "",
+          "trackId": "916507"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Koen Groeneveld",
+      "title": "Jetblast (KhoMha Edit)",
+      "remix": "",
+      "label": "_ABZOLUT (SPINNIN')",
+      "trackId": "916507",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1040,
+      "mediaIds": null
+    },
+    {
+      "pos": "09",
+      "artist": "New World Punx ft. Cara Salimando",
+      "title": "Memories (Dub Mix)",
+      "remix": "",
+      "label": "NEW WORLD PUNX",
+      "trackId": "916508",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1350,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Quintino & Alvaro",
+      "title": "World In Our Hands (Blasterjaxx Remix)",
+      "remix": "",
+      "label": "SPRS (SPINNIN')",
+      "trackId": "916509",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1438,
+      "mediaIds": {
+        "spotify": "145557",
+        "youtube": "145557",
+        "soundcloud": "145557",
+        "appleMusic": "145557"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Capital Cities",
+      "title": "Safe And Sound (Markus Schulz vs. Grube & Hovsepian Remix)",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "916510",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "183528",
+        "soundcloud": "183528"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Cosmic Gate & KhoMha",
+      "title": "Tormenta",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "916511",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1695,
+      "mediaIds": {
+        "spotify": "194676",
+        "youtube": "194676",
+        "soundcloud": "194676",
+        "appleMusic": "194676"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Beat Service",
+      "title": "Arcade",
+      "remix": "",
+      "label": "BEAT SERVICE (RAZ NITZAN)",
+      "trackId": "916512",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1900,
+      "mediaIds": {
+        "spotify": "153825",
+        "youtube": "153825",
+        "appleMusic": "153825"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Beat Service vs. Markus Schulz & Ana Diaz",
+      "title": "Nothing Without Fortuna (New World Punx Mashup)",
+      "remix": "",
+      "label": "COLDHARBOUR",
+      "trackId": "916513",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2400,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Fisherman & Hawkins",
+      "title": "Apache",
+      "remix": "",
+      "label": "COLDHARBOUR",
+      "trackId": "916514",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "104521",
+        "youtube": "104521",
+        "soundcloud": "104521",
+        "appleMusic": "104521"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Fisherman & Hawkins vs. Hardwell & Amba Shepherd",
+      "title": "Apollo Virus (Markus Schulz Mashup)",
+      "remix": "",
+      "label": "REVEALED/COLDHARBOUR",
+      "trackId": "916515",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Fisherman & Hawkins vs. Hardwell & Amba Shepherd",
+          "title": "Apollo Virus (Markus Schulz Mashup)",
+          "remix": "",
+          "trackId": "916515"
+        },
+        {
+          "artist": "Michael Woods",
+          "title": "Clanga",
+          "remix": "",
+          "trackId": "916516"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Michael Woods",
+      "title": "Clanga",
+      "remix": "",
+      "label": "DIFFUSED",
+      "trackId": "916516",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "139632",
+        "youtube": "139632",
+        "soundcloud": "139632",
+        "appleMusic": "139632"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Omair Mirza",
+      "title": "High Roller",
+      "remix": "",
+      "label": "COLDHARBOUR",
+      "trackId": "916517",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2640,
+      "mediaIds": {
+        "spotify": "203866",
+        "youtube": "203866",
+        "soundcloud": "203866",
+        "appleMusic": "203866"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Markus Schulz & Ferry Corsten",
+      "title": "Loops and Tings",
+      "remix": "",
+      "label": "COLDHARBOUR",
+      "trackId": "916518",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "71025",
+        "youtube": "71025",
+        "soundcloud": "71025",
+        "appleMusic": "71025"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Basement Jaxx",
+      "title": "Where's Your Head At?",
+      "remix": "",
+      "label": "XL",
+      "trackId": "916519",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5190",
+        "youtube": "5190",
+        "soundcloud": "5190",
+        "appleMusic": "5190"
+      },
+      "blendGroup": [
+        {
+          "artist": "Basement Jaxx",
+          "title": "Where's Your Head At?",
+          "remix": "",
+          "trackId": "916519"
+        },
+        {
+          "artist": "Firebeatz",
+          "title": "Where's Your Head At",
+          "remix": "",
+          "trackId": "916520"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Firebeatz",
+      "title": "Where's Your Head At",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "916520",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 3077,
+      "mediaIds": {
+        "spotify": "59241",
+        "youtube": "59241",
+        "soundcloud": "59241",
+        "appleMusic": "59241"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Fatboy Slim",
+      "title": "Praise You (Ferry Corsten Bootleg)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "916521",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "157690",
+        "soundcloud": "157690"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "New World Punx",
+      "title": "Digital Dreaming Punk",
+      "remix": "",
+      "label": "",
+      "trackId": "916522",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "136416",
+        "soundcloud": "136416"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "182493",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/LiveDjSets"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "181773",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:45:14.529Z",
+  "scrapeVersion": 2
+}

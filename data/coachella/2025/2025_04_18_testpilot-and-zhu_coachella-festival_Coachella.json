@@ -1,0 +1,992 @@
+{
+  "tlId": "2b3dphb9",
+  "dj": "testpilot & ZHU",
+  "stage": "Coachella Festival",
+  "date": "2025-04-18",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/2b3dphb9/testpilot-deadmau5-zhu-quasar-coachella-festival-weekend-2-united-states-2025-04-18.html",
+  "djs": [
+    {
+      "name": "testpilot",
+      "slug": "testpilot"
+    },
+    {
+      "name": "ZHU",
+      "slug": "zhu"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ARTBAT",
+      "title": "Wall",
+      "remix": "",
+      "label": "SUARA",
+      "trackId": "12032430",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "357747",
+        "youtube": "357747",
+        "soundcloud": "357747",
+        "appleMusic": "357747"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Raxon",
+      "title": "Sin Control",
+      "remix": "",
+      "label": "ELLUM",
+      "trackId": "12032431",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "344542",
+        "youtube": "344542",
+        "soundcloud": "344542",
+        "appleMusic": "344542"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "CamelPhat & Will Easton",
+      "title": "Witching Hour",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "12032432",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "616671",
+        "youtube": "616671",
+        "soundcloud": "616671",
+        "appleMusic": "616671"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "ARTBAT",
+      "title": "Planeta",
+      "remix": "",
+      "label": "DIYNAMIC",
+      "trackId": "12032433",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "397748",
+        "youtube": "397748",
+        "soundcloud": "397748",
+        "appleMusic": "397748"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Sian",
+      "title": "Shame Cube",
+      "remix": "",
+      "label": "OCTOPUS",
+      "trackId": "12032434",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "88575",
+        "youtube": "88575",
+        "soundcloud": "88575",
+        "appleMusic": "88575"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Freudenthal & Nowhere People",
+      "title": "Cipher",
+      "remix": "",
+      "label": "",
+      "trackId": "12032435",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "12032435"
+      },
+      "blendGroup": [
+        {
+          "artist": "Freudenthal & Nowhere People",
+          "title": "Cipher",
+          "remix": "",
+          "trackId": "12032435"
+        },
+        {
+          "artist": "ZHU",
+          "title": "Faded (Acappella)",
+          "remix": "",
+          "trackId": "12032459"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ZHU",
+      "title": "Faded (Acappella)",
+      "remix": "",
+      "label": "MIND OF A GENIUS",
+      "trackId": "12032459",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "184050",
+        "youtube": "184050",
+        "soundcloud": "211664",
+        "appleMusic": "184050"
+      },
+      "blendGroup": [
+        {
+          "artist": "ZHU",
+          "title": "Faded (Acappella)",
+          "remix": "",
+          "trackId": "12032459"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Sometimes Things Get, Whatever",
+          "remix": "(Acapella)",
+          "trackId": "12032436"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Sometimes Things Get, Whatever",
+      "remix": "(Acapella)",
+      "label": "MAU5TRAP",
+      "trackId": "12032436",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1767",
+        "youtube": "1767",
+        "soundcloud": "1767",
+        "appleMusic": "1767"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Undercatt",
+      "title": "Camargo",
+      "remix": "",
+      "label": "DIYNAMIC",
+      "trackId": "12032437",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "255898",
+        "youtube": "255898",
+        "soundcloud": "255898",
+        "appleMusic": "255898"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "O/V/R",
+      "title": "Metal Slipper",
+      "remix": "",
+      "label": "BLUEPRINT",
+      "trackId": "12032439",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "499478",
+        "youtube": "499478"
+      },
+      "blendGroup": [
+        {
+          "artist": "O/V/R",
+          "title": "Metal Slipper",
+          "remix": "",
+          "trackId": "12032439"
+        },
+        {
+          "artist": "ZHU",
+          "title": "Faded (Acappella)",
+          "remix": "",
+          "trackId": "12032485"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ZHU",
+      "title": "Faded (Acappella)",
+      "remix": "",
+      "label": "MIND OF A GENIUS",
+      "trackId": "12032485",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "184050",
+        "youtube": "184050",
+        "soundcloud": "211664",
+        "appleMusic": "184050"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Jesus Riaño & Sed",
+      "title": "P25",
+      "remix": "",
+      "label": "ILLEGAL ALIEN",
+      "trackId": "12032440",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "613087",
+        "youtube": "613087",
+        "appleMusic": "613087"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Patrice Bäumel",
+      "title": "Receiver",
+      "remix": "",
+      "label": "AFTERLIFE",
+      "trackId": "12032441",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "549359",
+        "youtube": "549359",
+        "soundcloud": "549359",
+        "appleMusic": "549359"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Hertz",
+      "title": "Box Head",
+      "remix": "",
+      "label": "SWAY",
+      "trackId": "12032442",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "927892",
+        "youtube": "927892",
+        "appleMusic": "927892"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Chlär",
+      "title": "Exoskeleton",
+      "remix": "",
+      "label": "VAULT IMPRINT",
+      "trackId": "12032443",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1048551",
+        "youtube": "1048551",
+        "soundcloud": "1048551",
+        "appleMusic": "1048551"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "deadmau5",
+      "title": "ID",
+      "remix": "(Atari/Lettuce)",
+      "label": "MAU5TRAP",
+      "trackId": "12032444",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "ZHU",
+      "title": "3 AM IN ???????",
+      "remix": "",
+      "label": "BROKE/BLACKLIZT SOUND SYNDICATE",
+      "trackId": "12032445",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1116111",
+        "youtube": "1116111",
+        "soundcloud": "1116111",
+        "appleMusic": "1116111"
+      },
+      "blendGroup": [
+        {
+          "artist": "ZHU",
+          "title": "3 AM IN ???????",
+          "remix": "",
+          "trackId": "12032445"
+        },
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff (Acappella)",
+          "remix": "",
+          "trackId": "12032446"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Ghosts 'n' Stuff (Acappella)",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "12032446",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1761",
+        "youtube": "21176",
+        "soundcloud": "1761",
+        "appleMusic": "1761"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Lewis Fautzi",
+      "title": "Ancient Way",
+      "remix": "",
+      "label": "FIGURE",
+      "trackId": "12032447",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "389855",
+        "youtube": "389855",
+        "soundcloud": "389855"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12032448",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "12032448"
+        },
+        {
+          "artist": "deadmau5 & Kaskade ft. Haley Gibby",
+          "title": "I Remember (Acappella)",
+          "remix": "",
+          "trackId": "12032449"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 & Kaskade ft. Haley Gibby",
+      "title": "I Remember (Acappella)",
+      "remix": "",
+      "label": "MAU5TRAP/ULTRA",
+      "trackId": "12032449",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1519",
+        "youtube": "73205",
+        "soundcloud": "1519",
+        "appleMusic": "1519"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12032562",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "12032562"
+        },
+        {
+          "artist": "ZHU",
+          "title": "I Need That",
+          "remix": "(Acappella)",
+          "trackId": "12032543"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ZHU",
+      "title": "I Need That",
+      "remix": "(Acappella)",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "12032543",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "688069",
+        "youtube": "688069",
+        "appleMusic": "688069"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Patrik Berg ft. Matt Sassari",
+      "title": "Discovery",
+      "remix": "",
+      "label": "TERMINAL M",
+      "trackId": "12032544",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "414526",
+        "youtube": "414526",
+        "soundcloud": "414526",
+        "appleMusic": "414526"
+      },
+      "blendGroup": [
+        {
+          "artist": "Patrik Berg ft. Matt Sassari",
+          "title": "Discovery",
+          "remix": "",
+          "trackId": "12032544"
+        },
+        {
+          "artist": "ZHU",
+          "title": "In The Morning",
+          "remix": "(Acappella)",
+          "trackId": "12032545"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ZHU",
+      "title": "In The Morning",
+      "remix": "(Acappella)",
+      "label": "MIND OF A GENIUS",
+      "trackId": "12032545",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "309358",
+        "youtube": "309358",
+        "soundcloud": "309358",
+        "appleMusic": "309358"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Zimmz",
+      "title": "Ancient Dream",
+      "remix": "",
+      "label": "SILHOUETTES",
+      "trackId": "12032563",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "733425",
+        "youtube": "733425",
+        "soundcloud": "733425",
+        "appleMusic": "733425"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Enrico Sangiuliano",
+      "title": "Symbiosis",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "12032605",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "416798",
+        "youtube": "416798",
+        "soundcloud": "416798",
+        "appleMusic": "416798"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Vomee vs. ZHU",
+      "title": "Paradigma vs. Stay Closer (ZHU Live Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12032610",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "NoNameLeft",
+      "title": "Dyson Sphere",
+      "remix": "",
+      "label": "SUBVISION",
+      "trackId": "12032613",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "694975",
+        "youtube": "694975",
+        "appleMusic": "694975"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Layton Giordani",
+      "title": "Chrome",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "12032646",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "489746",
+        "youtube": "489746",
+        "soundcloud": "489746",
+        "appleMusic": "489746"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Loco & Jam",
+      "title": "Basement Jack",
+      "remix": "",
+      "label": "OCTOPUS",
+      "trackId": "12032647",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "809629",
+        "youtube": "809629",
+        "soundcloud": "809629",
+        "appleMusic": "809629"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Egbert",
+      "title": "Dub Dub",
+      "remix": "",
+      "label": "KNEADED PAINS",
+      "trackId": "12032650",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "527854",
+        "youtube": "527854",
+        "soundcloud": "527854",
+        "appleMusic": "527854"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Tom Hutt",
+      "title": "Cloverfield",
+      "remix": "",
+      "label": "VERFLIXT",
+      "trackId": "12032651",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Victor Ruiz",
+      "title": "Energy",
+      "remix": "",
+      "label": "VOLTA",
+      "trackId": "12032652",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1023212",
+        "youtube": "1023212",
+        "soundcloud": "1023212",
+        "appleMusic": "1023212"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "deadmau5",
+      "title": "Strobe (Victor Ruiz Remix)",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "12032653",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1009340",
+        "youtube": "1009340",
+        "soundcloud": "1009340",
+        "appleMusic": "1009340"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "HI-LO & ZHU",
+      "title": "Afraid To Live (BLACKLIZT Version)",
+      "remix": "",
+      "label": "HILOMATIK/ASTRALWERKS",
+      "trackId": "12032654",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1038955",
+        "youtube": "1038955",
+        "soundcloud": "1038955",
+        "appleMusic": "1038955"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Secret Cinema & Egbert",
+      "title": "Elementen",
+      "remix": "",
+      "label": "GEM",
+      "trackId": "12032656",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "334234",
+        "youtube": "334234",
+        "soundcloud": "334234",
+        "appleMusic": "334234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Kenji Kawai",
+      "title": "Ghost City (Ghost In The Shell OST)",
+      "remix": "",
+      "label": "PARAMOUNT PICTURES",
+      "trackId": "12032657",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "463589",
+        "youtube": "463589",
+        "appleMusic": "463589"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kenji Kawai",
+          "title": "Ghost City (Ghost In The Shell OST)",
+          "remix": "",
+          "trackId": "12032657"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Cthulhu Sleeps",
+          "remix": "",
+          "trackId": "12032658"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Cthulhu Sleeps",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "12032658",
+      "row": 31,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "21177",
+        "youtube": "21177",
+        "soundcloud": "21177",
+        "appleMusic": "21177"
+      }
+    },
+    {
+      "pos": "32",
+      "artist": "Belocca",
+      "title": "Mental Cinema",
+      "remix": "",
+      "label": "MAINGROUND",
+      "trackId": "12032659",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "553781",
+        "youtube": "553781",
+        "soundcloud": "553781",
+        "appleMusic": "553781"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "deadmau5",
+      "title": "gula",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "12032660",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "949787",
+        "youtube": "949787",
+        "soundcloud": "949787",
+        "appleMusic": "949787"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5",
+          "title": "gula",
+          "remix": "",
+          "trackId": "12032660"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Avaritia",
+          "remix": "",
+          "trackId": "12032661"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Avaritia",
+      "remix": "",
+      "label": "MAU5TRAP/VIRGIN",
+      "trackId": "12032661",
+      "row": 33,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "157882",
+        "youtube": "157882",
+        "soundcloud": "157882",
+        "appleMusic": "157882"
+      }
+    },
+    {
+      "pos": "34",
+      "artist": "deadmau5",
+      "title": "luxuria (ov) (Tinlicker Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "12032664",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "521664",
+        "youtube": "521664",
+        "soundcloud": "521664",
+        "appleMusic": "521664"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "ZHU ft. Banks",
+      "title": "Praise (SOHMI Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "12032665",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12032667",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Amelie Lens vs. Yeat",
+      "title": "In Silence vs. If We Being Real (ZHU Live Edit)",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "12032745",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "ZHU",
+      "title": "Faded (Blacklizt Version / HNTR Remix)",
+      "remix": "",
+      "label": "BROKE/BLACKLIZT SOUND SYNDICATE",
+      "trackId": "12032746",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1045167",
+        "youtube": "1045167",
+        "soundcloud": "1045167",
+        "appleMusic": "1045167"
+      },
+      "blendGroup": [
+        {
+          "artist": "ZHU",
+          "title": "Faded (Blacklizt Version / HNTR Remix)",
+          "remix": "",
+          "trackId": "12032746"
+        },
+        {
+          "artist": "Kx5 ft. HAYLA",
+          "title": "Escape",
+          "remix": "(Acappella)",
+          "trackId": "12032840"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kx5 ft. HAYLA",
+      "title": "Escape",
+      "remix": "(Acappella)",
+      "label": "MAU5TRAP/ARKADE",
+      "trackId": "12032840",
+      "row": 38,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "778208",
+        "youtube": "778208",
+        "soundcloud": "778208",
+        "appleMusic": "778208"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kx5 ft. HAYLA",
+          "title": "Escape",
+          "remix": "(Acappella)",
+          "trackId": "12032840"
+        },
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff (Acappella)",
+          "remix": "",
+          "trackId": "12032841"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Ghosts 'n' Stuff (Acappella)",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "12032841",
+      "row": 38,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1761",
+        "youtube": "21176",
+        "soundcloud": "1761",
+        "appleMusic": "1761"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T02:49:45.633Z",
+  "scrapeVersion": 2
+}

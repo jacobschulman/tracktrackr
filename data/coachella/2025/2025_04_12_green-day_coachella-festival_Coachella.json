@@ -1,0 +1,521 @@
+{
+  "tlId": "2kkstv7k",
+  "dj": "Green Day",
+  "stage": "Coachella Festival",
+  "date": "2025-04-12",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/2kkstv7k/green-day-coachella-stage-coachella-festival-weekend-1-united-states-2025-04-12.html",
+  "djs": [
+    {
+      "name": "Green Day",
+      "slug": "greenday"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Queen",
+      "title": "Bohemian Rhapsody",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "12003406",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "18718",
+        "youtube": "18718",
+        "soundcloud": "18718",
+        "appleMusic": "18718"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "The Ramones",
+      "title": "Blitzkrieg Bop",
+      "remix": "",
+      "label": "SIRE",
+      "trackId": "12003407",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "123828",
+        "youtube": "123828",
+        "soundcloud": "123828",
+        "appleMusic": "123828"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "John Williams",
+      "title": "The Imperial March (Darth Vader's Theme) (Star Wars OST)",
+      "remix": "",
+      "label": "RSO",
+      "trackId": "12003408",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "31842",
+        "youtube": "31842",
+        "appleMusic": "31842"
+      },
+      "blendGroup": [
+        {
+          "artist": "John Williams",
+          "title": "The Imperial March (Darth Vader's Theme) (Star Wars OST)",
+          "remix": "",
+          "trackId": "12003408"
+        },
+        {
+          "artist": "Queen",
+          "title": "We Will Rock You",
+          "remix": "",
+          "trackId": "12003409"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Queen",
+      "title": "We Will Rock You",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "12003409",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "13206",
+        "youtube": "13206",
+        "soundcloud": "13206",
+        "appleMusic": "13206"
+      },
+      "blendGroup": [
+        {
+          "artist": "Queen",
+          "title": "We Will Rock You",
+          "remix": "",
+          "trackId": "12003409"
+        },
+        {
+          "artist": "Joan Jett & The Blackhearts",
+          "title": "I Love Rock N' Roll",
+          "remix": "",
+          "trackId": "12003410"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Joan Jett & The Blackhearts",
+      "title": "I Love Rock N' Roll",
+      "remix": "",
+      "label": "RAK",
+      "trackId": "12003410",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "222156",
+        "youtube": "222156",
+        "soundcloud": "222156",
+        "appleMusic": "222156"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Green Day",
+      "title": "American Idiot",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003411",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "528206",
+        "youtube": "528206",
+        "soundcloud": "528206",
+        "appleMusic": "528206"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Green Day",
+      "title": "Holiday",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003412",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "559708",
+        "youtube": "559708",
+        "soundcloud": "559708",
+        "appleMusic": "559708"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Green Day",
+      "title": "Know Your Enemy",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003413",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "972931",
+        "youtube": "972931",
+        "appleMusic": "972931"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Green Day",
+      "title": "Boulevard Of Broken Dreams",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003414",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "338541",
+        "youtube": "338541",
+        "soundcloud": "338541",
+        "appleMusic": "338541"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Green Day",
+      "title": "One Eyed Bastard",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003415",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1086421",
+        "youtube": "1086421",
+        "soundcloud": "1086421",
+        "appleMusic": "1086421"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Green Day",
+      "title": "Longview",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003461",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "194758",
+        "soundcloud": "194758",
+        "appleMusic": "194758"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Green Day",
+      "title": "Welcome To Paradise",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003465",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "897073",
+        "soundcloud": "897073",
+        "appleMusic": "897073"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Black Sabbath",
+      "title": "Iron Man",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "12003466",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "438103",
+        "appleMusic": "438103"
+      },
+      "blendGroup": [
+        {
+          "artist": "Black Sabbath",
+          "title": "Iron Man",
+          "remix": "",
+          "trackId": "12003466"
+        },
+        {
+          "artist": "Green Day",
+          "title": "Hitchin' A Ride",
+          "remix": "",
+          "trackId": "12003467"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Green Day",
+      "title": "Hitchin' A Ride",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003467",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1021150",
+        "youtube": "1021150",
+        "soundcloud": "1021150",
+        "appleMusic": "1021150"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Green Day",
+      "title": "Brain Stew",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003468",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "38090",
+        "youtube": "38090",
+        "soundcloud": "38090",
+        "appleMusic": "38090"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Green Day",
+      "title": "St. Jimmy",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003469",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "1007287",
+        "appleMusic": "1007287"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Green Day",
+      "title": "21 Guns",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003471",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "456661",
+        "youtube": "456661",
+        "soundcloud": "456661",
+        "appleMusic": "456661"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Green Day",
+      "title": "Minority",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003472",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "863246",
+        "soundcloud": "863246",
+        "appleMusic": "863246"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Green Day",
+      "title": "Basket Case",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003473",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "446769",
+        "youtube": "446769",
+        "soundcloud": "446769",
+        "appleMusic": "446769"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Green Day",
+      "title": "When I Come Around",
+      "remix": "",
+      "label": "",
+      "trackId": "12003474",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "910799",
+        "soundcloud": "910799",
+        "appleMusic": "910799"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Tom Petty",
+      "title": "Free Fallin'",
+      "remix": "(Intro)",
+      "label": "",
+      "trackId": "12003476",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "380392",
+        "youtube": "380392",
+        "appleMusic": "380392"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tom Petty",
+          "title": "Free Fallin'",
+          "remix": "(Intro)",
+          "trackId": "12003476"
+        },
+        {
+          "artist": "Green Day",
+          "title": "Wake Me Up When September Ends",
+          "remix": "",
+          "trackId": "12003475"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Green Day",
+      "title": "Wake Me Up When September Ends",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003475",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "39575",
+        "youtube": "39575",
+        "soundcloud": "39575",
+        "appleMusic": "39575"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Green Day",
+      "title": "Jesus Of Suburbia",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003477",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1007286",
+        "appleMusic": "1007286"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Green Day",
+      "title": "Bobby Sox",
+      "remix": "",
+      "label": "REPRISE",
+      "trackId": "12003479",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1084392",
+        "soundcloud": "1084392",
+        "appleMusic": "1084392"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Green Day",
+      "title": "Good Riddance (Time Of Your Life)",
+      "remix": "",
+      "label": "DESSOUS",
+      "trackId": "12003478",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "287081",
+        "youtube": "287081",
+        "soundcloud": "287081",
+        "appleMusic": "287081"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Frank Sinatra",
+      "title": "Summer Wind",
+      "remix": "",
+      "label": "",
+      "trackId": "12003522",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T02:58:26.928Z",
+  "scrapeVersion": 2
+}

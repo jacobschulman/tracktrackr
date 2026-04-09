@@ -1,0 +1,828 @@
+{
+  "tlId": "293qbgv1",
+  "dj": "Four Tet",
+  "stage": "EDC Las Vegas",
+  "date": "2024-05-18",
+  "year": 2024,
+  "url": "https://www.1001tracklists.com/tracklist/293qbgv1/four-tet-circuitgrounds-edc-las-vegas-united-states-2024-05-18.html",
+  "djs": [
+    {
+      "name": "Four Tet",
+      "slug": "fourtet"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Four Tet",
+      "title": "Gliding Through Everything",
+      "remix": "",
+      "label": "TEXT REC.",
+      "trackId": "10545108",
+      "row": 1,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1001203",
+        "youtube": "1001203",
+        "appleMusic": "1001203"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Gustavo Bravetti & David Amo & Julio Navas",
+      "title": "Raw (Tony Romera Remix)",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "10545109",
+      "row": 2,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "816647",
+        "youtube": "816647",
+        "soundcloud": "816647",
+        "appleMusic": "816647"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Fred again.. & Skrillex & Four Tet ft. Lil Baby",
+      "title": "Baby Again..",
+      "remix": "",
+      "label": "OWSLA/ATLANTIC",
+      "trackId": "10545110",
+      "row": 3,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "819603",
+        "youtube": "819603",
+        "soundcloud": "819603",
+        "appleMusic": "819603"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fred again.. & Skrillex & Four Tet ft. Lil Baby",
+          "title": "Baby Again..",
+          "remix": "",
+          "trackId": "10545110"
+        },
+        {
+          "artist": "Skrillex & JAUZ ft. Fatman Scoop",
+          "title": "Squad Out (Acappella)",
+          "remix": "",
+          "trackId": "10545111"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & JAUZ ft. Fatman Scoop",
+      "title": "Squad Out (Acappella)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "10545111",
+      "row": 3,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "268533",
+        "youtube": "376613",
+        "soundcloud": "268533",
+        "appleMusic": "268533"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "NuBass & Deppz",
+      "title": "Knock Knock",
+      "remix": "",
+      "label": "BARCODES",
+      "trackId": "10545112",
+      "row": 4,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "698771",
+        "youtube": "698771",
+        "soundcloud": "698771",
+        "appleMusic": "698771"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "FISHER",
+      "title": "Losing It",
+      "remix": "",
+      "label": "CATCH & RELEASE/ASTRALWERKS",
+      "trackId": "10545113",
+      "row": 5,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "417888",
+        "youtube": "417888",
+        "soundcloud": "417888",
+        "appleMusic": "417888"
+      },
+      "blendGroup": [
+        {
+          "artist": "FISHER",
+          "title": "Losing It",
+          "remix": "",
+          "trackId": "10545113"
+        },
+        {
+          "artist": "System Of A Down",
+          "title": "Chop Suey!",
+          "remix": "",
+          "trackId": "10545114"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "System Of A Down",
+      "title": "Chop Suey!",
+      "remix": "",
+      "label": "SONY BMG",
+      "trackId": "10545114",
+      "row": 5,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "35022",
+        "youtube": "35022",
+        "soundcloud": "35022",
+        "appleMusic": "35022"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "NGHTMRE ft. IDK",
+      "title": "Trials (Jon Casey Remix / Skrillex Edit)",
+      "remix": "",
+      "label": "UNSOUND",
+      "trackId": "10545115",
+      "row": 6,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "youtube": "1001204"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "The Loops Of Fury",
+      "title": "I Need (Horsepower Mix)",
+      "remix": "",
+      "label": "U&A",
+      "trackId": "10545116",
+      "row": 7,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "88724",
+        "youtube": "88724",
+        "soundcloud": "88724",
+        "appleMusic": "88724"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "KH",
+      "title": "Looking At Your Pager (Chris Lake Remix)",
+      "remix": "",
+      "label": "MINISTRY OF SOUND",
+      "trackId": "10545117",
+      "row": 8,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "837917",
+        "youtube": "837917",
+        "soundcloud": "837917",
+        "appleMusic": "837917"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "John Summit & VLTRA (IT)",
+      "title": "Legacy",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "10545118",
+      "row": 9,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "922965",
+        "youtube": "922965",
+        "soundcloud": "922965",
+        "appleMusic": "922965"
+      },
+      "blendGroup": [
+        {
+          "artist": "John Summit & VLTRA (IT)",
+          "title": "Legacy",
+          "remix": "",
+          "trackId": "10545118"
+        },
+        {
+          "artist": "Headie One",
+          "title": "Both",
+          "remix": "",
+          "trackId": "10567870"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Headie One",
+      "title": "Both",
+      "remix": "",
+      "label": "RELENTLESS",
+      "trackId": "10567870",
+      "row": 9,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "804190",
+        "youtube": "804190",
+        "soundcloud": "804190",
+        "appleMusic": "804190"
+      },
+      "blendGroup": [
+        {
+          "artist": "Headie One",
+          "title": "Both",
+          "remix": "",
+          "trackId": "10567870"
+        },
+        {
+          "artist": "JOYRYDE & Skrillex & Flowdan",
+          "title": "Listen Music Culture",
+          "remix": "",
+          "trackId": "10545119"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JOYRYDE & Skrillex & Flowdan",
+      "title": "Listen Music Culture",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "10545119",
+      "row": 9,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "youtube": "1067297",
+        "soundcloud": "1067297"
+      },
+      "blendGroup": [
+        {
+          "artist": "JOYRYDE & Skrillex & Flowdan",
+          "title": "Listen Music Culture",
+          "remix": "",
+          "trackId": "10545119"
+        },
+        {
+          "artist": "Megan Thee Stallion",
+          "title": "Body",
+          "remix": "(Acappella)",
+          "trackId": "10545120"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Megan Thee Stallion",
+      "title": "Body",
+      "remix": "(Acappella)",
+      "label": "300 ENTERTAINMENT",
+      "trackId": "10545120",
+      "row": 9,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "634317",
+        "youtube": "634317",
+        "soundcloud": "634317",
+        "appleMusic": "634317"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "deadmau5",
+      "title": "Strobe",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "10545121",
+      "row": 10,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "5663",
+        "youtube": "5663",
+        "soundcloud": "5663",
+        "appleMusic": "5663"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Sammy Virji",
+      "title": "If U Need It",
+      "remix": "",
+      "label": "POSITIVA",
+      "trackId": "10545122",
+      "row": 11,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "940922",
+        "youtube": "940922",
+        "soundcloud": "940922",
+        "appleMusic": "940922"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Caribou",
+      "title": "Broke My Heart (Champion Remix)",
+      "remix": "",
+      "label": "MERGE",
+      "trackId": "10545123",
+      "row": 12,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1016335",
+        "youtube": "1016335",
+        "soundcloud": "1016335",
+        "appleMusic": "1016335"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Toxinate",
+      "title": "Nope (Bawler & Pyrate Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "10545124",
+      "row": 13,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "youtube": "974073",
+        "soundcloud": "974073"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Chris Lake & Disclosure",
+      "title": "in2minds",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "10545125",
+      "row": 14,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1032756",
+        "youtube": "1032756",
+        "soundcloud": "1032756",
+        "appleMusic": "1032756"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Joy Orbison",
+      "title": "Flight FM",
+      "remix": "",
+      "label": "XL",
+      "trackId": "10545126",
+      "row": 15,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "963958",
+        "youtube": "963958",
+        "soundcloud": "963958",
+        "appleMusic": "963958"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Caribou",
+      "title": "Honey",
+      "remix": "",
+      "label": "MERGE",
+      "trackId": "10545127",
+      "row": 16,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "990450",
+        "youtube": "990450",
+        "soundcloud": "990450",
+        "appleMusic": "990450"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Skrillex & Boys Noize ft. Opus III",
+      "title": "Fine Day Anthem",
+      "remix": "",
+      "label": "OWSLA/ATLANTIC",
+      "trackId": "10545128",
+      "row": 17,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "873567",
+        "youtube": "873567",
+        "soundcloud": "873567",
+        "appleMusic": "873567"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "ISOxo",
+      "title": "how2fly",
+      "remix": "",
+      "label": "88RISING",
+      "trackId": "10545129",
+      "row": 18,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "938587",
+        "youtube": "938587",
+        "soundcloud": "938587",
+        "appleMusic": "938587"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "MPH",
+      "title": "Run It",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "10545130",
+      "row": 19,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "916994",
+        "youtube": "916994",
+        "soundcloud": "916994",
+        "appleMusic": "916994"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Plus One",
+      "title": "Bonk",
+      "remix": "",
+      "label": "AR AIS ARÍS",
+      "trackId": "10545131",
+      "row": 20,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1001205",
+        "youtube": "1001205",
+        "soundcloud": "1001205",
+        "appleMusic": "1001205"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "The Bug ft. Killa P & Flowdan",
+      "title": "Skeng",
+      "remix": "",
+      "label": "NINJA",
+      "trackId": "10545132",
+      "row": 21,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "94147",
+        "youtube": "94147",
+        "soundcloud": "94147",
+        "appleMusic": "94147"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "G Jones",
+      "title": "In Your Head (RL Grime Edit)",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "10545133",
+      "row": 22,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "502730",
+        "youtube": "502730",
+        "soundcloud": "502730",
+        "appleMusic": "502730"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "AHEE",
+      "title": "Bug Eater",
+      "remix": "",
+      "label": "SLEEVELESS",
+      "trackId": "10545134",
+      "row": 23,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "924061",
+        "youtube": "924061",
+        "soundcloud": "924061",
+        "appleMusic": "924061"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "NuBass",
+      "title": "Automatic",
+      "remix": "",
+      "label": "MONTA",
+      "trackId": "10545135",
+      "row": 24,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1000583",
+        "youtube": "1000583",
+        "soundcloud": "1000583",
+        "appleMusic": "1000583"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Infekt",
+      "title": "Rumble",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "10545136",
+      "row": 25,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "529831",
+        "youtube": "529831",
+        "soundcloud": "529831",
+        "appleMusic": "529831"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Wooli & Samplifire",
+      "title": "ACID",
+      "remix": "",
+      "label": "WOOLI MUSIC",
+      "trackId": "10545147",
+      "row": 26,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "926974",
+        "youtube": "926974",
+        "soundcloud": "926974",
+        "appleMusic": "926974"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Adam F",
+      "title": "Circles (Pola & Bryson Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "10545148",
+      "row": 27,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "youtube": "491277"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Skrillex & Blawan",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10545149",
+      "row": 28,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Fred again.. & Baby Keem",
+      "title": "leavemealone",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "10545150",
+      "row": 29,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "939780",
+        "youtube": "939780",
+        "soundcloud": "939780",
+        "appleMusic": "939780"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fred again.. & Baby Keem",
+          "title": "leavemealone",
+          "remix": "",
+          "trackId": "10545150"
+        },
+        {
+          "artist": "Adam F",
+          "title": "Circles (Pola & Bryson Bootleg)",
+          "remix": "",
+          "trackId": "10545151"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Adam F",
+      "title": "Circles (Pola & Bryson Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "10545151",
+      "row": 29,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "youtube": "491277"
+      },
+      "blendGroup": [
+        {
+          "artist": "Adam F",
+          "title": "Circles (Pola & Bryson Bootleg)",
+          "remix": "",
+          "trackId": "10545151"
+        },
+        {
+          "artist": "Chase & Status & Bou ft. Trigga & IRAH & Flowdan & Takura",
+          "title": "Baddadan",
+          "remix": "(Acappella)",
+          "trackId": "10545275"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chase & Status & Bou ft. Trigga & IRAH & Flowdan & Takura",
+      "title": "Baddadan",
+      "remix": "(Acappella)",
+      "label": "EMI",
+      "trackId": "10545275",
+      "row": 29,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "904345",
+        "youtube": "904345",
+        "soundcloud": "904345",
+        "appleMusic": "904345"
+      }
+    },
+    {
+      "pos": "30",
+      "artist": "skantia",
+      "title": "2Drill (VIP)",
+      "remix": "",
+      "label": "OVERVIEW MUSIC",
+      "trackId": "10545152",
+      "row": 30,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "978413",
+        "youtube": "978413",
+        "soundcloud": "978413",
+        "appleMusic": "978413"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "UK Apache & Shy FX",
+      "title": "Original Nuttah 25",
+      "remix": "",
+      "label": "CULT.URE",
+      "trackId": "10545153",
+      "row": 31,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "519120",
+        "youtube": "519120",
+        "soundcloud": "519120",
+        "appleMusic": "519120"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Avicii",
+      "title": "Levels",
+      "remix": "",
+      "label": "LE7ELS/UMG",
+      "trackId": "10545156",
+      "row": 32,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "33255",
+        "youtube": "33255",
+        "soundcloud": "33255",
+        "appleMusic": "33255"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Skrillex & Four Tet",
+      "title": "Heartbeat",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "10545154",
+      "row": 33,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "youtube": "994497",
+        "soundcloud": "994497"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4134799",
+      "idSource": "13",
+      "url": ""
+    },
+    {
+      "platform": "source_2",
+      "idMedia": "4244287",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/four-tet-at-edc-las-vegas-2024-circuit-grounds-stage-dj-mix/1757917323/us/album/four-tet-at-edc-las-vegas-2024-circuit-grounds-stage-dj-mix/1757917323?app=music&at=1000lwkw"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "4130792",
+      "idSource": "40",
+      "url": "https://hearthis.at/11116769/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T02:31:36.377Z",
+  "scrapeVersion": 2
+}

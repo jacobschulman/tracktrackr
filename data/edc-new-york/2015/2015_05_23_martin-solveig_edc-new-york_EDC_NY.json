@@ -1,0 +1,692 @@
+{
+  "tlId": "161xcgt",
+  "dj": "Martin Solveig",
+  "stage": "EDC New York",
+  "date": "2015-05-23",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/161xcgt/martin-solveig-circuitgrounds-edc-new-york-united-states-2015-05-23.html",
+  "djs": [
+    {
+      "name": "Martin Solveig",
+      "slug": "martinsolveig"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Martin Solveig & GTA",
+      "title": "Intoxicated",
+      "remix": "(Intro Edit)",
+      "label": "SPINNIN' DEEP",
+      "trackId": "1434399",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "215977",
+        "youtube": "215977",
+        "soundcloud": "215977",
+        "appleMusic": "215977"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Martin Solveig & GTA",
+      "title": "Intoxicated (Wiwek Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "1434400",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "248573",
+        "soundcloud": "248573",
+        "appleMusic": "248573"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Martin Solveig ft. ALMA",
+      "title": "All Stars",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "1433247",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "215976",
+        "youtube": "215976",
+        "soundcloud": "215976",
+        "appleMusic": "215976"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Oliver Heldens",
+      "title": "Bunnydance",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1433250",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "248123",
+        "youtube": "248123",
+        "soundcloud": "248123",
+        "appleMusic": "248123"
+      },
+      "blendGroup": [
+        {
+          "artist": "Oliver Heldens",
+          "title": "Bunnydance",
+          "remix": "",
+          "trackId": "1433250"
+        },
+        {
+          "artist": "Martin Solveig ft. Dragonette",
+          "title": "Boys & Girls (Acappella)",
+          "remix": "",
+          "trackId": "1433249"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Solveig ft. Dragonette",
+      "title": "Boys & Girls (Acappella)",
+      "remix": "",
+      "label": "D:VISION",
+      "trackId": "1433249",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5764",
+        "youtube": "5764"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Solveig ft. Dragonette",
+          "title": "Boys & Girls (Acappella)",
+          "remix": "",
+          "trackId": "1433249"
+        },
+        {
+          "artist": "JAUZ",
+          "title": "Feel The Volume",
+          "remix": "",
+          "trackId": "1433251"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAUZ",
+      "title": "Feel The Volume",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1433251",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "208238",
+        "youtube": "208238",
+        "soundcloud": "208238",
+        "appleMusic": "208238"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "DJ MERCER & DJ Snake",
+      "title": "Lunatic",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1433252",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "171632",
+        "youtube": "171632",
+        "soundcloud": "171632",
+        "appleMusic": "171632"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ MERCER & DJ Snake",
+          "title": "Lunatic",
+          "remix": "",
+          "trackId": "1433252"
+        },
+        {
+          "artist": "Boys Noize",
+          "title": "Yeah",
+          "remix": "",
+          "trackId": "1433925"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Boys Noize",
+      "title": "Yeah",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "1433925",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "21235",
+        "youtube": "21235",
+        "soundcloud": "21235",
+        "appleMusic": "21235"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Nightriders",
+      "title": "Hey",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "1433926",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "25185",
+        "appleMusic": "25185"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Chris Lake",
+      "title": "Chest",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "1433255",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "236983",
+        "youtube": "236983",
+        "soundcloud": "236983",
+        "appleMusic": "236983"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chris Lake",
+          "title": "Chest",
+          "remix": "",
+          "trackId": "1433255"
+        },
+        {
+          "artist": "Denney",
+          "title": "Low Frequency (Vocal Version)",
+          "remix": "",
+          "trackId": "1456496"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Denney",
+      "title": "Low Frequency (Vocal Version)",
+      "remix": "",
+      "label": "HOT CREATIONS",
+      "trackId": "1456496",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "252312"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Curbi",
+      "title": "Discharge",
+      "remix": "",
+      "label": "SPINNIN' DEEP",
+      "trackId": "1433254",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "228552",
+        "youtube": "228552",
+        "soundcloud": "228552",
+        "appleMusic": "228552"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "SNBRN ft. Kaleena Zanders",
+      "title": "California (Chris Lake & Matroda Remix)",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "1433927",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "247151",
+        "youtube": "247151",
+        "soundcloud": "247151",
+        "appleMusic": "247151"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Galantis",
+      "title": "Runaway (U & I) (Dillon Francis Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1433256",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "223813",
+        "youtube": "223813",
+        "soundcloud": "223813",
+        "appleMusic": "223813"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Kanye West",
+      "title": "Power",
+      "remix": "",
+      "label": "ROC-A-FELLA/CIRCUS RECORDS",
+      "trackId": "1433257",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "91977",
+        "youtube": "91977",
+        "soundcloud": "91977",
+        "appleMusic": "91977"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kanye West",
+          "title": "Power",
+          "remix": "",
+          "trackId": "1433257"
+        },
+        {
+          "artist": "RL Grime",
+          "title": "Pockets",
+          "remix": "",
+          "trackId": "1433928"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RL Grime",
+      "title": "Pockets",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "1433928",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "101962",
+        "youtube": "101962",
+        "soundcloud": "101962",
+        "appleMusic": "101962"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Martin Solveig ft. Dragonette",
+      "title": "Hello (Dada Life Remix)",
+      "remix": "",
+      "label": "MERCURY (UMG)",
+      "trackId": "1433258",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "22132",
+        "youtube": "22132",
+        "soundcloud": "22132",
+        "appleMusic": "22132"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Wiwek & Gregor Salto",
+      "title": "Miami",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "1433259",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "254600",
+        "youtube": "254600",
+        "soundcloud": "254600",
+        "appleMusic": "254600"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Martin Solveig ft. Sam White",
+      "title": "+1",
+      "remix": "",
+      "label": "SPINNIN' DEEP",
+      "trackId": "1433260",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "252079",
+        "youtube": "252079",
+        "soundcloud": "252079",
+        "appleMusic": "252079"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Sleepy Tom & Gladiator",
+      "title": "Cruise Control",
+      "remix": "",
+      "label": "RIVALMG",
+      "trackId": "1433261",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "237636",
+        "youtube": "237636",
+        "soundcloud": "237636",
+        "appleMusic": "237636"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Tchami & Marshall Jefferson",
+      "title": "Move Your Body (Future House)",
+      "remix": "",
+      "label": "ARISTA",
+      "trackId": "1433262",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "242569",
+        "youtube": "242569",
+        "soundcloud": "242569",
+        "appleMusic": "242569"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Swick",
+      "title": "Total 90",
+      "remix": "",
+      "label": "MAIN COURSE",
+      "trackId": "1433264",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "249695",
+        "youtube": "249695",
+        "soundcloud": "249695",
+        "appleMusic": "249695"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swick",
+          "title": "Total 90",
+          "remix": "",
+          "trackId": "1433264"
+        },
+        {
+          "artist": "Zedd ft. Selena Gomez",
+          "title": "I Want You To Know (Acappella)",
+          "remix": "",
+          "trackId": "1433263"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd ft. Selena Gomez",
+      "title": "I Want You To Know (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "1433263",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "241465",
+        "youtube": "241465",
+        "soundcloud": "246357",
+        "appleMusic": "241465"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Tove Lo",
+      "title": "Habits (Stay High)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "1433265",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "164192",
+        "youtube": "164192",
+        "soundcloud": "164192",
+        "appleMusic": "164192"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tove Lo",
+          "title": "Habits (Stay High)",
+          "remix": "",
+          "trackId": "1433265"
+        },
+        {
+          "artist": "Gesaffelstein",
+          "title": "A Lost Era",
+          "remix": "",
+          "trackId": "1433266"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gesaffelstein",
+      "title": "A Lost Era",
+      "remix": "",
+      "label": "TURBO",
+      "trackId": "1433266",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "144584",
+        "youtube": "144584",
+        "soundcloud": "144584",
+        "appleMusic": "144584"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Lilly Wood & The Prick & Robin Schulz",
+      "title": "Prayer In C (Robin Schulz Remix)",
+      "remix": "",
+      "label": "WARNER MUSIC GERMANY",
+      "trackId": "1433267",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "201701",
+        "youtube": "201701",
+        "soundcloud": "201701",
+        "appleMusic": "201701"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Gregor Salto & Mitchell Niemeyer",
+      "title": "Just Yeah",
+      "remix": "",
+      "label": "SPINNIN' DEEP",
+      "trackId": "1433268",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "267647",
+        "youtube": "267647",
+        "soundcloud": "267647",
+        "appleMusic": "267647"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Valentino Khan",
+      "title": "Deep Down Low",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "1433269",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "243733",
+        "youtube": "243733",
+        "soundcloud": "243733",
+        "appleMusic": "243733"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Martin Solveig",
+      "title": "Jealousy (Wiwek Remix)",
+      "remix": "",
+      "label": "D:VISION",
+      "trackId": "1433270",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "268473",
+        "soundcloud": "268473"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Jack Ü ft. Bunji Garlin & MX Prime",
+      "title": "Jungle Bae",
+      "remix": "",
+      "label": "ATLANTIC/MAD DECENT",
+      "trackId": "1433271",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "220647",
+        "youtube": "220647",
+        "soundcloud": "220647",
+        "appleMusic": "220647"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Laidback Luke & TUJAMO",
+      "title": "S.A.X.",
+      "remix": "",
+      "label": "MIXMASH",
+      "trackId": "1433272",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "219519",
+        "youtube": "219519",
+        "soundcloud": "219519",
+        "appleMusic": "219519"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Martin Solveig",
+      "title": "The Night Out (Madeon Remix)",
+      "remix": "",
+      "label": "MIXTURE",
+      "trackId": "1433273",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "68581",
+        "youtube": "68581",
+        "soundcloud": "68581",
+        "appleMusic": "68581"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Martin Solveig & GTA",
+      "title": "Intoxicated",
+      "remix": "",
+      "label": "SPINNIN' DEEP",
+      "trackId": "1433274",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "215977",
+        "youtube": "215977",
+        "soundcloud": "215977",
+        "appleMusic": "215977"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T15:42:15.469Z",
+  "scrapeVersion": 2
+}

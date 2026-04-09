@@ -1,0 +1,378 @@
+{
+  "tlId": "1uxrs2xt",
+  "dj": "Goldfish",
+  "stage": "EDC Orlando",
+  "date": "2020-11-21",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/1uxrs2xt/goldfish-edc-orlando-virtual-rave-a-thon-the-exchange-los-angeles-united-states-2020-11-21.html",
+  "djs": [
+    {
+      "name": "Goldfish",
+      "slug": "goldfish"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "GoldFish & Cat Dealers",
+      "title": "Colours & Lights",
+      "remix": "",
+      "label": "ARMADA/HUB",
+      "trackId": "5584646",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 30,
+      "mediaIds": {
+        "spotify": "511601",
+        "youtube": "511601",
+        "soundcloud": "511601",
+        "appleMusic": "511601"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "GoldFish ft. John Mani",
+      "title": "One Million Views",
+      "remix": "",
+      "label": "GOLDFISH MUSIC",
+      "trackId": "5584647",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 300,
+      "mediaIds": {
+        "youtube": "156508",
+        "soundcloud": "156508"
+      },
+      "blendGroup": [
+        {
+          "artist": "GoldFish ft. John Mani",
+          "title": "One Million Views",
+          "remix": "",
+          "trackId": "5584647"
+        },
+        {
+          "artist": "Oliver Heldens & Mesto",
+          "title": "The G.O.A.T.",
+          "remix": "",
+          "trackId": "5584648"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Oliver Heldens & Mesto",
+      "title": "The G.O.A.T.",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "5584648",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "543652",
+        "youtube": "543652",
+        "soundcloud": "543652",
+        "appleMusic": "543652"
+      },
+      "blendGroup": [
+        {
+          "artist": "Oliver Heldens & Mesto",
+          "title": "The G.O.A.T.",
+          "remix": "",
+          "trackId": "5584648"
+        },
+        {
+          "artist": "Shiba San",
+          "title": "OKAY",
+          "remix": "",
+          "trackId": "5584649"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Shiba San",
+      "title": "OKAY",
+      "remix": "",
+      "label": "DIRTYBIRD",
+      "trackId": "5584649",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "163910",
+        "youtube": "163910",
+        "soundcloud": "163910",
+        "appleMusic": "163910"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "GoldFish",
+      "title": "Late Night People (Ibiza Sunrise Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5584650",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "GoldFish",
+      "title": "Fort Knox",
+      "remix": "",
+      "label": "PACHA",
+      "trackId": "5584651",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 780,
+      "mediaIds": {
+        "spotify": "391867",
+        "youtube": "391867",
+        "appleMusic": "391867"
+      },
+      "blendGroup": [
+        {
+          "artist": "GoldFish",
+          "title": "Fort Knox",
+          "remix": "",
+          "trackId": "5584651"
+        },
+        {
+          "artist": "J Balvin & Willy William",
+          "title": "Mi Gente",
+          "remix": "(Instrumental)",
+          "trackId": "5584652"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "J Balvin & Willy William",
+      "title": "Mi Gente",
+      "remix": "(Instrumental)",
+      "label": "UMG",
+      "trackId": "5584652",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "369802",
+        "youtube": "369802",
+        "soundcloud": "369802",
+        "appleMusic": "369802"
+      },
+      "blendGroup": [
+        {
+          "artist": "J Balvin & Willy William",
+          "title": "Mi Gente",
+          "remix": "(Instrumental)",
+          "trackId": "5584652"
+        },
+        {
+          "artist": "Chris Lake & Walker & Royce",
+          "title": "Dance With Me",
+          "remix": "",
+          "trackId": "5584653"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chris Lake & Walker & Royce",
+      "title": "Dance With Me",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "5584653",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "420766",
+        "youtube": "420766",
+        "soundcloud": "420766",
+        "appleMusic": "420766"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chris Lake & Walker & Royce",
+          "title": "Dance With Me",
+          "remix": "",
+          "trackId": "5584653"
+        },
+        {
+          "artist": "Cirez D",
+          "title": "On Off",
+          "remix": "",
+          "trackId": "5584654"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cirez D",
+      "title": "On Off",
+      "remix": "",
+      "label": "MOUSEVILLE",
+      "trackId": "5584654",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5113",
+        "youtube": "5113",
+        "soundcloud": "5113",
+        "appleMusic": "5113"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "GoldFish",
+      "title": "Talk To Me",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5584655",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1180,
+      "mediaIds": {
+        "spotify": "383589",
+        "youtube": "383589",
+        "appleMusic": "383589"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "SNBRN",
+      "title": "Tits On A Tricycle",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "5584656",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1425,
+      "mediaIds": {
+        "spotify": "493082",
+        "youtube": "493082",
+        "soundcloud": "493082",
+        "appleMusic": "493082"
+      },
+      "blendGroup": [
+        {
+          "artist": "SNBRN",
+          "title": "Tits On A Tricycle",
+          "remix": "",
+          "trackId": "5584656"
+        },
+        {
+          "artist": "GoldFish",
+          "title": "Bad Luck And Trouble",
+          "remix": "",
+          "trackId": "5584657"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GoldFish",
+      "title": "Bad Luck And Trouble",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5584657",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "383588",
+        "youtube": "383588",
+        "soundcloud": "383588",
+        "appleMusic": "383588"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Pryda",
+      "title": "Sol",
+      "remix": "",
+      "label": "PRYDA",
+      "trackId": "5584658",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1680,
+      "mediaIds": {
+        "spotify": "2506",
+        "youtube": "2506",
+        "soundcloud": "2506",
+        "appleMusic": "2506"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pryda",
+          "title": "Sol",
+          "remix": "",
+          "trackId": "5584658"
+        },
+        {
+          "artist": "Queen",
+          "title": "Somebody To Love",
+          "remix": "(Acappella)",
+          "trackId": "5584659"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Queen",
+      "title": "Somebody To Love",
+      "remix": "(Acappella)",
+      "label": "EMI",
+      "trackId": "5584659",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "474640",
+        "youtube": "474640",
+        "soundcloud": "474640",
+        "appleMusic": "474640"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Bakermat & GoldFish ft. Marie Plassard",
+      "title": "Games Continued",
+      "remix": "",
+      "label": "DIRTY SOUL (BE YOURSELF)",
+      "trackId": "5584660",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 2065,
+      "mediaIds": {
+        "spotify": "287876",
+        "youtube": "287876",
+        "soundcloud": "287876",
+        "appleMusic": "287876"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1974943",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=RvlEObdzen8"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:54:34.492Z",
+  "scrapeVersion": 2
+}

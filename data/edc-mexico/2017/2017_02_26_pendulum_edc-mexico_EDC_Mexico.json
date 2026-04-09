@@ -1,0 +1,227 @@
+{
+  "tlId": "1ykl3rbt",
+  "dj": "Pendulum",
+  "stage": "EDC Mexico",
+  "date": "2017-02-26",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/1ykl3rbt/pendulum-wasteland-edc-mexico-2017-02-26.html",
+  "djs": [
+    {
+      "name": "Pendulum",
+      "slug": "pendulum"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Pendulum",
+      "title": "Salt In The Wounds",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "3180885",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "52809",
+        "youtube": "52809",
+        "soundcloud": "52809",
+        "appleMusic": "52809"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Pendulum",
+      "title": "Witchcraft",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "3180886",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 95,
+      "mediaIds": {
+        "spotify": "20970",
+        "youtube": "20970",
+        "soundcloud": "20970",
+        "appleMusic": "20970"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Pendulum",
+      "title": "Blood Sugar",
+      "remix": "",
+      "label": "BREAKBEAT KAOS",
+      "trackId": "3180887",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 270,
+      "mediaIds": {
+        "spotify": "163994",
+        "youtube": "163994",
+        "soundcloud": "163994",
+        "appleMusic": "163994"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pendulum",
+          "title": "Blood Sugar",
+          "remix": "",
+          "trackId": "3180887"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "3180888"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3180888",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "3180888"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "Give It Up",
+          "remix": "",
+          "trackId": "3180889"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "Give It Up",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "3180889",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "224539",
+        "youtube": "224539",
+        "soundcloud": "224539",
+        "appleMusic": "224539"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Excision & Dion Timmer",
+      "title": "Final Boss",
+      "remix": "",
+      "label": "ROTTUN/FREE",
+      "trackId": "3180890",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 449,
+      "mediaIds": {
+        "spotify": "311043",
+        "youtube": "311043",
+        "soundcloud": "311043",
+        "appleMusic": "311043"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Knife Party",
+      "title": "LRAD (The Prototypes Bootleg VIP Remix)",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "3180891",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 514,
+      "mediaIds": {
+        "youtube": "141679",
+        "soundcloud": "141679"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "DC Breaks",
+      "title": "Everybody",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "3180892",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 775,
+      "mediaIds": {
+        "spotify": "407573",
+        "youtube": "407573",
+        "soundcloud": "407573"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Dimension",
+      "title": "UK",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "12736869",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 928,
+      "mediaIds": {
+        "spotify": "334210",
+        "youtube": "334210",
+        "soundcloud": "334210",
+        "appleMusic": "334210"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Pendulum",
+      "title": "Watercolour",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "3180893",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1020,
+      "mediaIds": {
+        "spotify": "35607",
+        "youtube": "35607",
+        "soundcloud": "35607",
+        "appleMusic": "35607"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "736390",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=vhcLUw4QA3w"
+    }
+  ],
+  "scrapedAt": "2026-04-08T18:40:51.504Z",
+  "scrapeVersion": 2
+}

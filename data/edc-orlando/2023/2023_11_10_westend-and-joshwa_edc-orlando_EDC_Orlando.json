@@ -1,0 +1,264 @@
+{
+  "tlId": "11z08641",
+  "dj": "Westend & JOSHWA",
+  "stage": "EDC Orlando",
+  "date": "2023-11-10",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/11z08641/westend-joshwa-stereobloom-edc-orlando-united-states-2023-11-10.html",
+  "djs": [
+    {
+      "name": "Westend",
+      "slug": "westend"
+    },
+    {
+      "name": "JOSHWA",
+      "slug": "joshwa"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Westend & JOSHWA",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9786284",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9786285",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 140,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Chase & Status & Bou ft. Trigga & IRAH & Flowdan & Takura",
+      "title": "Baddadan (Westend Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9786286",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 285,
+      "mediaIds": {
+        "soundcloud": "924911"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "TEKO ft. MC Kitinho",
+      "title": "Vai Vai Vai",
+      "remix": "",
+      "label": "TECHNE",
+      "trackId": "9786287",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 455,
+      "mediaIds": {
+        "spotify": "980899",
+        "soundcloud": "980899",
+        "appleMusic": "980899"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Fly With Us",
+      "title": "Seismic",
+      "remix": "",
+      "label": "FLY WITH US",
+      "trackId": "9786288",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 600,
+      "mediaIds": {
+        "spotify": "928587",
+        "youtube": "928587",
+        "soundcloud": "928587",
+        "appleMusic": "928587"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fly With Us",
+          "title": "Seismic",
+          "remix": "",
+          "trackId": "9786288"
+        },
+        {
+          "artist": "CID & Westend",
+          "title": "Let Me Take You",
+          "remix": "(Acappella)",
+          "trackId": "9786289"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "CID & Westend",
+      "title": "Let Me Take You",
+      "remix": "(Acappella)",
+      "label": "ARMADA SUBJEKT",
+      "trackId": "9786289",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "758361",
+        "youtube": "758361",
+        "soundcloud": "758361",
+        "appleMusic": "758361"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "JOSHWA",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9786290",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 710,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Ellis Moss",
+      "title": "Calling",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "9786291",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 905,
+      "mediaIds": {
+        "spotify": "932001",
+        "youtube": "932001",
+        "soundcloud": "932001",
+        "appleMusic": "932001"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9786292",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1130,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Westend & Max Styler",
+      "title": "Rhythm Machine",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "9786293",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "946283",
+        "youtube": "946283",
+        "soundcloud": "946283",
+        "appleMusic": "946283"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Disclosure ft. Eliza Doolittle",
+      "title": "You & Me (Flume Remix / Westend & Local Singles Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9786294",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "817395",
+        "soundcloud": "817395"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Westend",
+      "title": "Dirty Blonde",
+      "remix": "",
+      "label": "TRACE AMOUNTS",
+      "trackId": "9786295",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "939549",
+        "youtube": "939549",
+        "soundcloud": "939549",
+        "appleMusic": "939549"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "JOSHWA",
+      "title": "Rudeboy",
+      "remix": "",
+      "label": "NO BAD FRIDAYS",
+      "trackId": "9786303",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "964862"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Death Grips",
+      "title": "Culture Shock",
+      "remix": "",
+      "label": "",
+      "trackId": "9786306",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3807135",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=9w8kKDT0K8o"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:06:40.096Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,213 @@
+{
+  "tlId": "bnlp5ht",
+  "dj": "Kölsch",
+  "stage": "EDC Mexico",
+  "date": "2023-02-25",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/bnlp5ht/kolsch-neongarden-edc-mexico-2023-02-25.html",
+  "djs": [
+    {
+      "name": "Kölsch",
+      "slug": "kolsch"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Kölsch",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8763784",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8763785",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "St Germain",
+      "title": "Rose Rouge",
+      "remix": "",
+      "label": "BLUE NOTE (UMG)",
+      "trackId": "8763786",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3611",
+        "youtube": "3611",
+        "soundcloud": "3611",
+        "appleMusic": "3611"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Butch",
+      "title": "Countach (Kölsch Remix)",
+      "remix": "",
+      "label": "COCOON",
+      "trackId": "8763787",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "398451",
+        "youtube": "398451",
+        "soundcloud": "398451",
+        "appleMusic": "398451"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8763788",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8763789",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Kevin de Vries",
+      "title": "Dance With Me",
+      "remix": "",
+      "label": "AFTERLIFE",
+      "trackId": "8763790",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "805225",
+        "youtube": "805225",
+        "soundcloud": "805225",
+        "appleMusic": "805225"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Kevin de Vries",
+      "title": "Dance With Me (Kölsch Remix)",
+      "remix": "",
+      "label": "AFTERLIFE",
+      "trackId": "8764266",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "815968",
+        "youtube": "815968",
+        "appleMusic": "815968"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kevin de Vries",
+          "title": "Dance With Me (Kölsch Remix)",
+          "remix": "",
+          "trackId": "8764266"
+        },
+        {
+          "artist": "Age Of Love",
+          "title": "The Age Of Love (Acappella)",
+          "remix": "",
+          "trackId": "8763791"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Age Of Love",
+      "title": "The Age Of Love (Acappella)",
+      "remix": "",
+      "label": "DIKI",
+      "trackId": "8763791",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "47180",
+        "youtube": "47180",
+        "appleMusic": "47180"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8763792",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Kölsch & Kevin de Vries",
+      "title": "Gate",
+      "remix": "",
+      "label": "IPSO",
+      "trackId": "8763793",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "893913",
+        "youtube": "893913",
+        "soundcloud": "893913",
+        "appleMusic": "893913"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3237248",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=LHKuR5bkwgU"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:59:42.177Z",
+  "scrapeVersion": 2
+}

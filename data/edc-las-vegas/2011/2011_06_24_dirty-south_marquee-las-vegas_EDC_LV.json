@@ -1,0 +1,649 @@
+{
+  "tlId": "ths5zk",
+  "dj": "Dirty South",
+  "stage": "Marquee Las Vegas",
+  "date": "2011-06-24",
+  "year": 2011,
+  "url": "https://www.1001tracklists.com/tracklist/ths5zk/dirty-south-marquee-las-vegas-edc-las-vegas-afterparty-2011-06-24.html",
+  "djs": [
+    {
+      "name": "Dirty South",
+      "slug": "dirtysouth"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Green Velvet",
+      "title": "Flash (Nicky Romero Remix)",
+      "remix": "",
+      "label": "RELIEF",
+      "trackId": "74357",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "24812",
+        "youtube": "24812",
+        "soundcloud": "24812",
+        "appleMusic": "24812"
+      },
+      "blendGroup": [
+        {
+          "artist": "Green Velvet",
+          "title": "Flash (Nicky Romero Remix)",
+          "remix": "",
+          "trackId": "74357"
+        },
+        {
+          "artist": "Red Hot Chili Peppers",
+          "title": "Otherside (Acappella)",
+          "remix": "",
+          "trackId": "74358"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Otherside (Acappella)",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "74358",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5247",
+        "youtube": "27410",
+        "soundcloud": "5247",
+        "appleMusic": "5247"
+      },
+      "blendGroup": [
+        {
+          "artist": "Red Hot Chili Peppers",
+          "title": "Otherside (Acappella)",
+          "remix": "",
+          "trackId": "74358"
+        },
+        {
+          "artist": "Sander van Doorn",
+          "title": "Intro (The xx Booty Mix)",
+          "remix": "",
+          "trackId": "74470"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sander van Doorn",
+      "title": "Intro (The xx Booty Mix)",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "74470",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20592",
+        "youtube": "20592",
+        "appleMusic": "20592"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "John Dahlbäck",
+      "title": "Pyramid (Dirty South Remix)",
+      "remix": "",
+      "label": "PICKADOLL",
+      "trackId": "74359",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8053",
+        "youtube": "8053",
+        "soundcloud": "8053"
+      },
+      "blendGroup": [
+        {
+          "artist": "John Dahlbäck",
+          "title": "Pyramid (Dirty South Remix)",
+          "remix": "",
+          "trackId": "74359"
+        },
+        {
+          "artist": "Matt Caseli & Danny Freakazoid",
+          "title": "Raise Your Hands",
+          "remix": "",
+          "trackId": "74403"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Matt Caseli & Danny Freakazoid",
+      "title": "Raise Your Hands",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "74403",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30420",
+        "youtube": "30420",
+        "soundcloud": "30420",
+        "appleMusic": "30420"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "74471",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Third ≡ Party",
+      "title": "Duel",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "74467",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "31334",
+        "youtube": "31334",
+        "soundcloud": "31334",
+        "appleMusic": "31334"
+      },
+      "blendGroup": [
+        {
+          "artist": "Third ≡ Party",
+          "title": "Duel",
+          "remix": "",
+          "trackId": "74467"
+        },
+        {
+          "artist": "Calvin Harris ft. Ayah Marar",
+          "title": "Flashback (Acappella)",
+          "remix": "",
+          "trackId": "74468"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris ft. Ayah Marar",
+      "title": "Flashback (Acappella)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "74468",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "7470",
+        "youtube": "7470",
+        "soundcloud": "11558",
+        "appleMusic": "7470"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "David Guetta ft. Taio Cruz & Ludacris",
+      "title": "Little Bad Girl (Norman Doray Instrumental Mix)",
+      "remix": "",
+      "label": "FMIF",
+      "trackId": "74361",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Avicii & Sebastien Drums",
+      "title": "Snus",
+      "remix": "",
+      "label": "VICIOUS",
+      "trackId": "74362",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "16117",
+        "youtube": "16117",
+        "soundcloud": "16117",
+        "appleMusic": "16117"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii & Sebastien Drums",
+          "title": "Snus",
+          "remix": "",
+          "trackId": "74362"
+        },
+        {
+          "artist": "Evermore",
+          "title": "It's Too Late (Acappella)",
+          "remix": "",
+          "trackId": "74404"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Evermore",
+      "title": "It's Too Late (Acappella)",
+      "remix": "",
+      "label": "VICIOUS",
+      "trackId": "74404",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1210",
+        "appleMusic": "1210"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Dirty South & Thomas Gold ft. Kate Elsworth",
+      "title": "Alive",
+      "remix": "",
+      "label": "PHAZING",
+      "trackId": "74363",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "37888",
+        "youtube": "37888",
+        "soundcloud": "37888",
+        "appleMusic": "37888"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Henrik B & David Tort vs. Calvin Harris",
+      "title": "Acid Rocker vs. Awooga (David Tort Private Edit)",
+      "remix": "",
+      "label": "FLY EYE/THE MANSION",
+      "trackId": "74472",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Tommy Trash",
+      "title": "The End",
+      "remix": "",
+      "label": "DOWNRIGHT (MINISTRY OF SOUND AU)",
+      "trackId": "74365",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30223",
+        "youtube": "30223",
+        "soundcloud": "30223",
+        "appleMusic": "30223"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tommy Trash",
+          "title": "The End",
+          "remix": "",
+          "trackId": "74365"
+        },
+        {
+          "artist": "Kaskade",
+          "title": "Sorry (Dirty South Remix)",
+          "remix": "",
+          "trackId": "74469"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kaskade",
+      "title": "Sorry (Dirty South Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "74469",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "9145",
+        "appleMusic": "9145"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Tiësto & Marcel Woods",
+      "title": "Don't Ditch",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "74360",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30751",
+        "youtube": "30751",
+        "soundcloud": "30751",
+        "appleMusic": "30751"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Dirty South ft. Rudy",
+      "title": "Let It Go (Axwell Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "74366",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8655",
+        "youtube": "8655",
+        "soundcloud": "8655",
+        "appleMusic": "8655"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dirty South ft. Rudy",
+          "title": "Let It Go (Axwell Remix)",
+          "remix": "",
+          "trackId": "74366"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Aerodynamic",
+          "remix": "",
+          "trackId": "74367"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Aerodynamic",
+      "remix": "",
+      "label": "DAFT LIFE",
+      "trackId": "74367",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2606",
+        "youtube": "2606",
+        "soundcloud": "2606",
+        "appleMusic": "2606"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Aerodynamic",
+          "remix": "",
+          "trackId": "74367"
+        },
+        {
+          "artist": "Adrian Lux",
+          "title": "Teenage Crime (Axwell Remix)",
+          "remix": "",
+          "trackId": "74368"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Adrian Lux",
+      "title": "Teenage Crime (Axwell Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "74368",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "11587",
+        "youtube": "11587",
+        "soundcloud": "11587",
+        "appleMusic": "11587"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Nadia Ali & Starkillers & Alex Kenji",
+      "title": "Pressure (Alesso Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "74369",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "32288",
+        "youtube": "32288",
+        "soundcloud": "32288",
+        "appleMusic": "32288"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Sander Van Doorn vs. Laidback Luke & Swedish House Mafia",
+      "title": "Reach Out To The World Behind (Axwell Bootleg)",
+      "remix": "",
+      "label": "AXTONE/DOORN (SPINNIN')",
+      "trackId": "74370",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Diddy Dirty Money ft. Skylar Grey",
+      "title": "Coming Home (Dirty South Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "74371",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "28395",
+        "youtube": "28395",
+        "soundcloud": "28395",
+        "appleMusic": "28395"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Pendulum",
+      "title": "The Island, Pt. I (Dawn) (Steve Angello & AN21 & Max Vangeli Remix)",
+      "remix": "",
+      "label": "OMT (WARNER MUSIC)",
+      "trackId": "74372",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20678",
+        "youtube": "20678",
+        "soundcloud": "20678",
+        "appleMusic": "20678"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "UMEK & Beltek",
+      "title": "Let The Bass Kick",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "74373",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "34380"
+      },
+      "blendGroup": [
+        {
+          "artist": "UMEK & Beltek",
+          "title": "Let The Bass Kick",
+          "remix": "",
+          "trackId": "74373"
+        },
+        {
+          "artist": "Ferry Corsten",
+          "title": "Punk",
+          "remix": "",
+          "trackId": "74374"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ferry Corsten",
+      "title": "Punk",
+      "remix": "",
+      "label": "FLASHOVER",
+      "trackId": "74374",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "27887",
+        "youtube": "27887",
+        "soundcloud": "27887",
+        "appleMusic": "27887"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Kryder",
+      "title": "K2",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "74375",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "31198",
+        "youtube": "31198",
+        "soundcloud": "31198",
+        "appleMusic": "31198"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Hard Rock Sofa & St. Brothers & Thomas Gold & Axwell vs. Empire Of The Sun",
+      "title": "Blow Up vs. Walking On A Dream (Mashup)",
+      "remix": "",
+      "label": "SOUKSONIC/AXTONE",
+      "trackId": "74376",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Alex Metric & Steve Angello ft. Ian Brown",
+      "title": "Open Your Eyes (Tim Mason Festival Dub)",
+      "remix": "",
+      "label": "POSITIVA",
+      "trackId": "74377",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "32815",
+        "youtube": "32815"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alex Metric & Steve Angello ft. Ian Brown",
+          "title": "Open Your Eyes (Tim Mason Festival Dub)",
+          "remix": "",
+          "trackId": "74377"
+        },
+        {
+          "artist": "The Temper Trap",
+          "title": "Sweet Disposition (Acappella)",
+          "remix": "",
+          "trackId": "74378"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Temper Trap",
+      "title": "Sweet Disposition (Acappella)",
+      "remix": "",
+      "label": "SONY BMG",
+      "trackId": "74378",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5111",
+        "youtube": "5111",
+        "soundcloud": "5111",
+        "appleMusic": "5111"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "The Temper Trap",
+      "title": "Sweet Disposition (Axwell & Dirty South Remix)",
+      "remix": "",
+      "label": "INFECTIOUS/LIBERATION",
+      "trackId": "74379",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "10071",
+        "youtube": "10071",
+        "soundcloud": "10071",
+        "appleMusic": "10071"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T13:49:13.101Z",
+  "scrapeVersion": 2
+}

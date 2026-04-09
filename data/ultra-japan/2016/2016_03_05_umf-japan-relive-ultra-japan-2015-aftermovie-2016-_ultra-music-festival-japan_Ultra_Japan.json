@@ -1,0 +1,144 @@
+{
+  "tlId": "2psuf0mt",
+  "dj": "umf-japan-relive-ultra-japan-2015-aftermovie-2016-03-05",
+  "stage": "Ultra Music Festival Japan",
+  "date": "2016-03-05",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/2psuf0mt/umf-japan-relive-ultra-japan-2015-aftermovie-2016-03-05.html",
+  "djs": [
+    {
+      "name": "umf-japan-relive-ultra-japan-2015-aftermovie-2016-03-05",
+      "slug": "umfjapanreliveultrajapan2015aftermovie20160305"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Nicky Romero & Stadiumx ft. Georgia Ku",
+      "title": "Harmony",
+      "remix": "(Jorik v/d Pol's Cinematic Intro)",
+      "label": "PROTOCOL",
+      "trackId": "1930526",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "260123",
+        "youtube": "260123",
+        "soundcloud": "260123",
+        "appleMusic": "260123"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nicky Romero & Stadiumx ft. Georgia Ku",
+          "title": "Harmony",
+          "remix": "(Jorik v/d Pol's Cinematic Intro)",
+          "trackId": "1930526"
+        },
+        {
+          "artist": "Nicky Romero & Stadiumx ft. Georgia Ku",
+          "title": "Harmony",
+          "remix": "",
+          "trackId": "1930527"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nicky Romero & Stadiumx ft. Georgia Ku",
+      "title": "Harmony",
+      "remix": "",
+      "label": "PROTOCOL",
+      "trackId": "1930527",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "260123",
+        "youtube": "260123",
+        "soundcloud": "260123",
+        "appleMusic": "260123"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Curbi & Bougenvilla",
+      "title": "Butterfly Effect",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1930528",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "269184",
+        "youtube": "269184",
+        "soundcloud": "269184",
+        "appleMusic": "269184"
+      },
+      "blendGroup": [
+        {
+          "artist": "Curbi & Bougenvilla",
+          "title": "Butterfly Effect",
+          "remix": "",
+          "trackId": "1930528"
+        },
+        {
+          "artist": "Tiësto & Tony Junior",
+          "title": "Get Down",
+          "remix": "",
+          "trackId": "1930529"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & Tony Junior",
+      "title": "Get Down",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "1930529",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "271908",
+        "youtube": "271908",
+        "soundcloud": "271908",
+        "appleMusic": "271908"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Fedde Le Grand ft. MoZella",
+      "title": "Beauty From The Ashes",
+      "remix": "",
+      "label": "DARKLIGHT",
+      "trackId": "1930530",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "311037",
+        "youtube": "311037",
+        "soundcloud": "311037",
+        "appleMusic": "311037"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "412653",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=ktws5wrSAIo"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:07:47.795Z",
+  "scrapeVersion": 2
+}

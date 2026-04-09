@@ -1,0 +1,551 @@
+{
+  "tlId": "pklmqv1",
+  "dj": "Alesso",
+  "stage": "EDC Las Vegas",
+  "date": "2017-06-17",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/pklmqv1/alesso-circuitgrounds-edc-las-vegas-united-states-2017-06-17.html",
+  "djs": [
+    {
+      "name": "Alesso",
+      "slug": "alesso"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Alesso ft. Diana Gordon",
+      "title": "Take My Breath Away(Co-Prod. by Dillon Francis)",
+      "remix": "(Intro Edit)",
+      "label": "VIRGIN EMI/ALEFUNE",
+      "trackId": "2697543",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 8,
+      "mediaIds": {
+        "spotify": "317807",
+        "youtube": "317807",
+        "soundcloud": "317807",
+        "appleMusic": "317807"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "D.O.D vs. Flume & Kai",
+      "title": "Sixes vs. Never Be Like You (Alesso Mashup)",
+      "remix": "",
+      "label": "MOM+POP/AXTONE",
+      "trackId": "2697544",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 198,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Tom Swoon & Teamworx vs. Albin Myers",
+      "title": "Atom vs. What's The Time (Alesso Mashup)",
+      "remix": "",
+      "label": "AXTONE/SPINNIN'",
+      "trackId": "2697546",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 428,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Diplo & AutoErotique",
+      "title": "Waist Time",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2697548",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 475,
+      "mediaIds": {
+        "spotify": "314111",
+        "youtube": "314111",
+        "soundcloud": "314111",
+        "appleMusic": "314111"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Stephan Amount",
+      "title": "They Can’t Stop Us (Mr Thomas Remix)",
+      "remix": "",
+      "label": "FLAMINGO",
+      "trackId": "2697549",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 620,
+      "mediaIds": {
+        "spotify": "338115",
+        "youtube": "338115",
+        "soundcloud": "338115",
+        "appleMusic": "338115"
+      },
+      "blendGroup": [
+        {
+          "artist": "Stephan Amount",
+          "title": "They Can’t Stop Us (Mr Thomas Remix)",
+          "remix": "",
+          "trackId": "2697549"
+        },
+        {
+          "artist": "Axwell",
+          "title": "Barricade (Acappella)",
+          "remix": "",
+          "trackId": "2697550"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Axwell",
+      "title": "Barricade (Acappella)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "2697550",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 631,
+      "mediaIds": {
+        "spotify": "246580",
+        "youtube": "246580",
+        "soundcloud": "246580",
+        "appleMusic": "246580"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Alesso vs. Jauz vs. Wiwek",
+      "title": "Anthem vs. The Game vs. Riot (Alesso Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "2697551",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 783,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Calvin Harris & Alesso ft. Hurts",
+      "title": "Under Control",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "2697153",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 974,
+      "mediaIds": {
+        "spotify": "146189",
+        "youtube": "146189",
+        "soundcloud": "146189",
+        "appleMusic": "146189"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Axwell Λ Ingrosso ft. Sanjin",
+      "title": "How Do You Feel Right Now",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "2697154",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1187,
+      "mediaIds": {
+        "spotify": "331623",
+        "youtube": "331623",
+        "soundcloud": "331623",
+        "appleMusic": "331623"
+      },
+      "blendGroup": [
+        {
+          "artist": "Axwell Λ Ingrosso ft. Sanjin",
+          "title": "How Do You Feel Right Now",
+          "remix": "",
+          "trackId": "2697154"
+        },
+        {
+          "artist": "Future",
+          "title": "Mask Off (Acappella)",
+          "remix": "",
+          "trackId": "2697155"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Future",
+      "title": "Mask Off (Acappella)",
+      "remix": "",
+      "label": "FREEBANDZ",
+      "trackId": "2697155",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 1234,
+      "mediaIds": {
+        "spotify": "348685",
+        "youtube": "348685",
+        "soundcloud": "348685",
+        "appleMusic": "348685"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Sebastian Ingrosso & Axwell vs. Alesso & Sirena",
+      "title": "Dark River vs. Sweet Escape (Alesso Mashup)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "2697156",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1348,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Eptic",
+      "title": "The End (Carnage & Breaux Festival Trap Remix / Nom De Strip Bootleg)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "2697203",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1531,
+      "mediaIds": {
+        "youtube": "249395",
+        "soundcloud": "249395"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eptic",
+          "title": "The End (Carnage & Breaux Festival Trap Remix / Nom De Strip Bootleg)",
+          "remix": "",
+          "trackId": "2697203"
+        },
+        {
+          "artist": "Eptic",
+          "title": "The End (Carnage & Breaux Festival Trap Remix / Crankdat VIP)",
+          "remix": "",
+          "trackId": "2697157"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eptic",
+      "title": "The End (Carnage & Breaux Festival Trap Remix / Crankdat VIP)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "2697157",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1547,
+      "mediaIds": {
+        "youtube": "315090",
+        "soundcloud": "315090"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eptic",
+          "title": "The End (Carnage & Breaux Festival Trap Remix / Crankdat VIP)",
+          "remix": "",
+          "trackId": "2697157"
+        },
+        {
+          "artist": "Travis Scott ft. Kendrick Lamar",
+          "title": "Goosebumps",
+          "remix": "",
+          "trackId": "2697158"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Travis Scott ft. Kendrick Lamar",
+      "title": "Goosebumps",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "2697158",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1581,
+      "mediaIds": {
+        "spotify": "332173",
+        "youtube": "332173",
+        "soundcloud": "332173",
+        "appleMusic": "332173"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "BROHUG vs. Gucci Mane & Drake",
+      "title": "Both vs. If I'm Wrong (Alesso Mashup)",
+      "remix": "",
+      "label": "CONFESSION/ATLANTIC (WARNER MUSIC)",
+      "trackId": "2697552",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1680,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Alesso ft. Kinnda",
+      "title": "Falling (BROHUG Remix)",
+      "remix": "",
+      "label": "VIRGIN EMI/ALEFUNE",
+      "trackId": "2697161",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1850,
+      "mediaIds": {
+        "spotify": "349466",
+        "youtube": "349466",
+        "soundcloud": "349466",
+        "appleMusic": "349466"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Alesso ft. Matthew Koma",
+      "title": "Years (Vocal Mix)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "2697162",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2039,
+      "mediaIds": {
+        "spotify": "69179",
+        "youtube": "69179",
+        "soundcloud": "69179",
+        "appleMusic": "69179"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Maroon 5 vs. Alesso",
+      "title": "This Summer",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2697169",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2218,
+      "mediaIds": {
+        "spotify": "263434",
+        "youtube": "263434",
+        "soundcloud": "263434",
+        "appleMusic": "263434"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Alesso",
+      "title": "Move Like That",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2697182",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2445,
+      "mediaIds": {
+        "youtube": "351743",
+        "soundcloud": "351743"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Sebastian Ingrosso & Salvatore Ganacci & Bunji Garlin vs. 2 Chainz & Cap 1 vs. Kendrick Lamar",
+      "title": "Ride It vs. Where U Been vs. Humble (Alesso Mashup)",
+      "remix": "",
+      "label": "DEF JAM/AFTERMATH ENTERTAINMENT (INTERSCOPE)/REFUNE",
+      "trackId": "2697553",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2604,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Eptic & Habstrakt vs. Valentino Khan",
+      "title": "Lazor 3000 vs. Deep Down Low (Adrian Escobar Mashup)",
+      "remix": "",
+      "label": "OWSLA / NEVER SAY DIE",
+      "trackId": "2697554",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2704,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Axwell Λ Ingrosso vs. Alesso & Tove Lo",
+      "title": "Dream Bigger vs. Heroes (Alesso Mashup)",
+      "remix": "",
+      "label": "REFUNE/DEF JAM/AXTONE",
+      "trackId": "2697555",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2822,
+      "mediaIds": {
+        "youtube": "370847"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Axwell Λ Ingrosso ft. Kristoffer Fogelmark",
+      "title": "More Than You Know",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "2697556",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3070,
+      "mediaIds": {
+        "spotify": "255105",
+        "youtube": "255105",
+        "soundcloud": "255105",
+        "appleMusic": "255105"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Martin Garrix & Third Party vs. Alesso & Roy English",
+      "title": "Lions In The Wild vs. Cool (Alesso Mashup)",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)/STMPD/RELEASE",
+      "trackId": "2697557",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3236,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Axwell Λ Ingrosso vs. Zedd & Alessia Cara",
+      "title": "Stay vs. Dawn (Axwell Λ Ingrosso Mashup)",
+      "remix": "",
+      "label": "INTERSCOPE/VIRGIN EMI (UMG)",
+      "trackId": "2915623",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Alesso vs. David Guetta & Sia",
+      "title": "All This Love vs. Titanium (Alesso Mashup)",
+      "remix": "",
+      "label": "FMIF/REFUNE",
+      "trackId": "2697559",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3704,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Sebastian Ingrosso vs. Alesso & Ryan Tedder vs. Candi Staton vs. Whitney Houston",
+      "title": "Laktos is Calling vs. You Got The Love vs. I Wanna Dance With Somebody (Sebastian Ingrosso Re-Edit)",
+      "remix": "",
+      "label": "REFUNE/ARISTA/ZYX",
+      "trackId": "2697560",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3958,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "The Chainsmokers & Coldplay",
+      "title": "Something Just Like This (Alesso Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "2697561",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 4215,
+      "mediaIds": {
+        "spotify": "351744",
+        "youtube": "351744",
+        "soundcloud": "351744",
+        "appleMusic": "351744"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Alesso & Deniz Koyu & Nico & Vinz vs. DJ Snake & Justin Bieber",
+      "title": "I Wanna Know vs. Let Me Love You (Alesso Mashup)",
+      "remix": "",
+      "label": "ALEFUNE/DEF JAM/DJ SNAKE",
+      "trackId": "2697562",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 4447,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Alesso & OneRepublic vs. Coldplay",
+      "title": "If I Lose Myself vs. Fix You (Alesso Mashup)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)/MOSLEY/INTERSCOPE",
+      "trackId": "2697621",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 4752,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_27",
+      "idMedia": "609226",
+      "idSource": "27",
+      "url": "https://www.dailymotion.com/embed/video/x5r2id6_edc-las-vegas-2017-alesso-live-part-1-2_music"
+    },
+    {
+      "platform": "source_27",
+      "idMedia": "609227",
+      "idSource": "27",
+      "url": "https://www.dailymotion.com/embed/video/x5r2jfh_edc-las-vegas-2017-alesso-live-part-2-2_music"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:40:18.863Z",
+  "scrapeVersion": 2
+}

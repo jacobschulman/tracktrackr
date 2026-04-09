@@ -1,0 +1,209 @@
+{
+  "tlId": "26z4dwr1",
+  "dj": "Nero",
+  "stage": "EDC Las Vegas",
+  "date": "2019-05-18",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/26z4dwr1/nero-basspod-edc-las-vegas-united-states-2019-05-18.html",
+  "djs": [
+    {
+      "name": "Nero",
+      "slug": "nero"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "RL Grime",
+      "title": "Pressure(Co-Prod. by Boys Noize)",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "4127088",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 6,
+      "mediaIds": {
+        "spotify": "427086",
+        "youtube": "427086",
+        "soundcloud": "427086",
+        "appleMusic": "427086"
+      },
+      "blendGroup": [
+        {
+          "artist": "RL Grime",
+          "title": "Pressure(Co-Prod. by Boys Noize)",
+          "remix": "",
+          "trackId": "4127088"
+        },
+        {
+          "artist": "Nero",
+          "title": "Innocence (Reopened)",
+          "remix": "",
+          "trackId": "4127089"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nero",
+      "title": "Innocence (Reopened)",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "4127089",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "334222",
+        "soundcloud": "334222"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Nero",
+      "title": "Dark Skies",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "4127090",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 201,
+      "mediaIds": {
+        "spotify": "248514",
+        "youtube": "248514",
+        "soundcloud": "248514",
+        "appleMusic": "248514"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Nero",
+      "title": "Guilt (VIP)",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "4127091",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 389,
+      "mediaIds": {
+        "spotify": "76162",
+        "youtube": "76162",
+        "soundcloud": "76162",
+        "appleMusic": "76162"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Nero",
+      "title": "Doomsday",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "4127092",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 495,
+      "mediaIds": {
+        "spotify": "42669",
+        "youtube": "42669",
+        "soundcloud": "42669",
+        "appleMusic": "42669"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Nero",
+      "title": "Etude",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "4127093",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 593,
+      "mediaIds": {
+        "spotify": "100530",
+        "youtube": "100530",
+        "soundcloud": "100530",
+        "appleMusic": "100530"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nero",
+          "title": "Etude",
+          "remix": "",
+          "trackId": "4127093"
+        },
+        {
+          "artist": "Nero",
+          "title": "Etude (VIP)",
+          "remix": "",
+          "trackId": "4127094"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nero",
+      "title": "Etude (VIP)",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "4127094",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 765,
+      "mediaIds": null
+    },
+    {
+      "pos": "06",
+      "artist": "ZHU & Nero",
+      "title": "Dreams",
+      "remix": "",
+      "label": "MIND OF A GENIUS",
+      "trackId": "4127096",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 900,
+      "mediaIds": {
+        "spotify": "376692",
+        "youtube": "376692",
+        "soundcloud": "376692",
+        "appleMusic": "376692"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "MONSTA",
+      "title": "Holdin' On (Skrillex & Nero Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "4127097",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1105,
+      "mediaIds": {
+        "spotify": "98077",
+        "youtube": "98077",
+        "soundcloud": "98077",
+        "appleMusic": "98077"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1194632",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=z4reIXHOy-8"
+    }
+  ],
+  "scrapedAt": "2026-04-08T06:15:20.613Z",
+  "scrapeVersion": 2
+}

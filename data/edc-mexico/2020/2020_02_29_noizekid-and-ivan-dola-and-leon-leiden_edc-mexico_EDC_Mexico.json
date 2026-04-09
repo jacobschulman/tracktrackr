@@ -1,0 +1,911 @@
+{
+  "tlId": "2hd68qlk",
+  "dj": "Noizekid & Ivan Dola & Leon Leiden",
+  "stage": "EDC Mexico",
+  "date": "2020-02-29",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/2hd68qlk/noizekid-ivan-dola-leon-leiden-dos-equis-stage-edc-mexico-2020-02-29.html",
+  "djs": [
+    {
+      "name": "Noizekid",
+      "slug": "noizekid"
+    },
+    {
+      "name": "Ivan Dola",
+      "slug": "ivandola"
+    },
+    {
+      "name": "Leon Leiden",
+      "slug": "leonleiden"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Bad Bunny",
+      "title": "Chambea",
+      "remix": "",
+      "label": "RIMAS",
+      "trackId": "6218767",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 75,
+      "mediaIds": {
+        "spotify": "405443",
+        "youtube": "405443",
+        "soundcloud": "405443",
+        "appleMusic": "405443"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bad Bunny",
+          "title": "Chambea",
+          "remix": "",
+          "trackId": "6218767"
+        },
+        {
+          "artist": "Mr. Vegas",
+          "title": "Pull Up",
+          "remix": "",
+          "trackId": "6218768"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mr. Vegas",
+      "title": "Pull Up",
+      "remix": "",
+      "label": "DELICIOUS VINYL",
+      "trackId": "6218768",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 93,
+      "mediaIds": {
+        "spotify": "338811",
+        "youtube": "338811",
+        "appleMusic": "338811"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "DJ Pedro Fuentes ft. Mad Fuentes",
+      "title": "Rompelo",
+      "remix": "",
+      "label": "",
+      "trackId": "6218769",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 150,
+      "mediaIds": {
+        "spotify": "559325",
+        "appleMusic": "559325"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Uzielito Mix ft. Chino El Gorila, George Michael, DJ Esli, DJ Peli",
+      "title": "Nunca Dejare De Perrear",
+      "remix": "",
+      "label": "",
+      "trackId": "6218770",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 200,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Guaynaa",
+      "title": "Rebota",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "6218771",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 238,
+      "mediaIds": {
+        "spotify": "505078",
+        "youtube": "505078",
+        "soundcloud": "505078",
+        "appleMusic": "505078"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "OTC",
+      "title": "Heritage",
+      "remix": "",
+      "label": "",
+      "trackId": "6218772",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 289,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "OTC",
+          "title": "Heritage",
+          "remix": "",
+          "trackId": "6218772"
+        },
+        {
+          "artist": "Guaynaa",
+          "title": "Rebota",
+          "remix": "",
+          "trackId": "6218773"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Guaynaa",
+      "title": "Rebota",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "6218773",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 353,
+      "mediaIds": {
+        "spotify": "505078",
+        "youtube": "505078",
+        "soundcloud": "505078",
+        "appleMusic": "505078"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "A$AP Rocky",
+      "title": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "6218774",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 385,
+      "mediaIds": {
+        "spotify": "236488",
+        "youtube": "236488",
+        "soundcloud": "236488",
+        "appleMusic": "236488"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "El Chapo De Sinaloa",
+      "title": "Para Que Regreses (MORVN Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "6218776",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 424,
+      "mediaIds": {
+        "youtube": "6218776"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "KC Wray",
+      "title": "Nushit",
+      "remix": "",
+      "label": "BROBOT",
+      "trackId": "6218777",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 550,
+      "mediaIds": {
+        "spotify": "630694",
+        "soundcloud": "630694",
+        "appleMusic": "630694"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "SBM & Bruses",
+      "title": "Karma",
+      "remix": "",
+      "label": "",
+      "trackId": "6218778",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 608,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Chel Maya",
+      "title": "Mexican Rockstar",
+      "remix": "",
+      "label": "",
+      "trackId": "6218779",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 726,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Yultron",
+      "title": "Imma Be A Raver",
+      "remix": "",
+      "label": "HOT LAUNDRY",
+      "trackId": "6218780",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 800,
+      "mediaIds": {
+        "spotify": "408211",
+        "youtube": "408211",
+        "soundcloud": "408211",
+        "appleMusic": "408211"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Mau Moctezuma & Leon Leiden ft. Taylor Diaz",
+      "title": "Azucar",
+      "remix": "(Club Mix)",
+      "label": "",
+      "trackId": "6218781",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 904,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Mau Moctezuma & Leon Leiden ft. Taylor Diaz",
+          "title": "Azucar",
+          "remix": "(Club Mix)",
+          "trackId": "6218781"
+        },
+        {
+          "artist": "Mau Moctezuma & Leon Leiden ft. Taylor Diaz",
+          "title": "Azucar (Bassboys Remix)",
+          "remix": "",
+          "trackId": "6218782"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mau Moctezuma & Leon Leiden ft. Taylor Diaz",
+      "title": "Azucar (Bassboys Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "6218782",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1036,
+      "mediaIds": null
+    },
+    {
+      "pos": "13",
+      "artist": "Laura Leon",
+      "title": "Suavecito Suavecito",
+      "remix": "",
+      "label": "",
+      "trackId": "6218783",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1095,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Karol G ft. Nicki Minaj",
+      "title": "Tusa (Laura Leon Cover)",
+      "remix": "",
+      "label": "",
+      "trackId": "6218784",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1180,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Karol G ft. Nicki Minaj",
+          "title": "Tusa (Laura Leon Cover)",
+          "remix": "",
+          "trackId": "6218784"
+        },
+        {
+          "artist": "Fabian Mazur",
+          "title": "Get Low",
+          "remix": "",
+          "trackId": "6218785"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fabian Mazur",
+      "title": "Get Low",
+      "remix": "",
+      "label": "FABIAN MAZUR MUSIC",
+      "trackId": "6218785",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 1251,
+      "mediaIds": {
+        "spotify": "478321",
+        "youtube": "478321",
+        "soundcloud": "478321",
+        "appleMusic": "478321"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Le Twins",
+      "title": "Dime La Verdad",
+      "remix": "",
+      "label": "",
+      "trackId": "6218786",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1329,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Le Twins ft. Danielz",
+      "title": "Crazy",
+      "remix": "",
+      "label": "",
+      "trackId": "6218787",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1543,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Dr. Dre ft. Snoop Dogg",
+      "title": "Still D.R.E. (W&W Festival Mix)",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "6218788",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1721,
+      "mediaIds": {
+        "youtube": "287547",
+        "soundcloud": "287547",
+        "appleMusic": "287547"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dr. Dre ft. Snoop Dogg",
+          "title": "Still D.R.E. (W&W Festival Mix)",
+          "remix": "",
+          "trackId": "6218788"
+        },
+        {
+          "artist": "Queen",
+          "title": "We Will Rock You",
+          "remix": "",
+          "trackId": "13644140"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Queen",
+      "title": "We Will Rock You",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "13644140",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1731,
+      "mediaIds": {
+        "spotify": "13206",
+        "youtube": "13206",
+        "soundcloud": "13206",
+        "appleMusic": "13206"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Los Dutis & Freebot",
+      "title": "Fiestota",
+      "remix": "",
+      "label": "WORLDWIDE",
+      "trackId": "6218789",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1855,
+      "mediaIds": {
+        "spotify": "763995",
+        "youtube": "763995",
+        "appleMusic": "763995"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "DJ Otto x Fito Silva ft. Jlog",
+      "title": "Senxual",
+      "remix": "",
+      "label": "LA CLINICA",
+      "trackId": "6218790",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1943,
+      "mediaIds": {
+        "soundcloud": "540039"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Banda El Recodo",
+      "title": "Que Te Ruegue Quien Te Quiera (Los Dutis Remix)",
+      "remix": "",
+      "label": "FONOVISA",
+      "trackId": "6218791",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1979,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Los Dutis",
+      "title": "Zapatear",
+      "remix": "",
+      "label": "WORLDWIDE",
+      "trackId": "6218792",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2044,
+      "mediaIds": {
+        "spotify": "531784",
+        "youtube": "531784",
+        "appleMusic": "531784"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "FRUTi",
+      "title": "Cotorreo",
+      "remix": "",
+      "label": "WORLDWIDE",
+      "trackId": "6218793",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2128,
+      "mediaIds": {
+        "spotify": "581527",
+        "youtube": "581527",
+        "appleMusic": "581527"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Black Eyed Peas & J Balvin",
+      "title": "RITMO (Bad Boys For Life)",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "6218794",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2203,
+      "mediaIds": {
+        "spotify": "718110",
+        "youtube": "718110",
+        "soundcloud": "718110",
+        "appleMusic": "718110"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Plan B",
+      "title": "¿Por Que Te Demoras?",
+      "remix": "",
+      "label": "",
+      "trackId": "6218795",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2299,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Rvssian & Farruko & J Balvin",
+      "title": "Ponle",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "6218796",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2385,
+      "mediaIds": {
+        "spotify": "716333",
+        "appleMusic": "716333"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "DJ Snake ft. Lil Jon",
+      "title": "Turn Down For What",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "6218797",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2433,
+      "mediaIds": {
+        "spotify": "150606",
+        "youtube": "150606",
+        "soundcloud": "150606",
+        "appleMusic": "150606"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake ft. Lil Jon",
+          "title": "Turn Down For What",
+          "remix": "",
+          "trackId": "6218797"
+        },
+        {
+          "artist": "Guaynaa",
+          "title": "Rebota",
+          "remix": "",
+          "trackId": "6218798"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Guaynaa",
+      "title": "Rebota",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "6218798",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 2444,
+      "mediaIds": {
+        "spotify": "505078",
+        "youtube": "505078",
+        "soundcloud": "505078",
+        "appleMusic": "505078"
+      },
+      "blendGroup": [
+        {
+          "artist": "Guaynaa",
+          "title": "Rebota",
+          "remix": "",
+          "trackId": "6218798"
+        },
+        {
+          "artist": "Daddy Yankee",
+          "title": "Ella Me Levantó",
+          "remix": "",
+          "trackId": "13644141"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daddy Yankee",
+      "title": "Ella Me Levantó",
+      "remix": "",
+      "label": "EL CARTEL",
+      "trackId": "13644141",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 2448,
+      "mediaIds": {
+        "spotify": "559618",
+        "appleMusic": "559618"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daddy Yankee",
+          "title": "Ella Me Levantó",
+          "remix": "",
+          "trackId": "13644141"
+        },
+        {
+          "artist": "Dayvi & Victor Cardenas ft. Kelly Ruiz",
+          "title": "Baila Conmigo",
+          "remix": "",
+          "trackId": "6218799"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dayvi & Victor Cardenas ft. Kelly Ruiz",
+      "title": "Baila Conmigo",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "6218799",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 2450,
+      "mediaIds": {
+        "spotify": "511130",
+        "youtube": "511130",
+        "appleMusic": "511130"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "Ghetto Kids & RD Maravilla",
+      "title": "CULO",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "6218800",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2533,
+      "mediaIds": {
+        "spotify": "640493",
+        "youtube": "640493",
+        "appleMusic": "640493"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Ghetto Kids ft. Mad Fuentes & Guaynaa",
+      "title": "Tra Tra Tra (Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "6218801",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2586,
+      "mediaIds": {
+        "spotify": "640494"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Noizekid & Alcia Jose & GAR",
+      "title": "Mumbaya",
+      "remix": "",
+      "label": "",
+      "trackId": "4725330",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2746,
+      "mediaIds": {
+        "spotify": "1078128",
+        "youtube": "1078128",
+        "soundcloud": "1078128",
+        "appleMusic": "1078128"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Noizekid",
+      "title": "Oye Mami",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "4725331",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2825,
+      "mediaIds": {
+        "spotify": "423610",
+        "youtube": "423610",
+        "soundcloud": "423610",
+        "appleMusic": "423610"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Ivan Dola",
+      "title": "Baile",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "4725332",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2898,
+      "mediaIds": {
+        "spotify": "491016",
+        "youtube": "491016",
+        "soundcloud": "491016",
+        "appleMusic": "491016"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Skrillex & Dillon Francis",
+      "title": "Bun Up The Dance (Davo Guns & NGL VIP Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "4725333",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2937,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Noizekid & Alu Mix & Audio Kartel",
+      "title": "Culoh",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4725334",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 3003,
+      "mediaIds": {
+        "spotify": "956636",
+        "youtube": "956636",
+        "appleMusic": "956636"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Ivan Dola",
+      "title": "Duro",
+      "remix": "",
+      "label": "LATIN FAMILY (BARONG FAMILY)",
+      "trackId": "4725335",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3095,
+      "mediaIds": {
+        "spotify": "490998",
+        "soundcloud": "490998",
+        "appleMusic": "490998"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Noizekid & Rickber Serrano & Elton Gonzalez",
+      "title": "Baila",
+      "remix": "",
+      "label": "",
+      "trackId": "4725336",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 3169,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "N-FASIS",
+      "title": "Lento",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4725337",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 3222,
+      "mediaIds": {
+        "spotify": "423612",
+        "youtube": "423612",
+        "appleMusic": "423612"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Cepillo Cuevas",
+      "title": "La Revolución",
+      "remix": "",
+      "label": "",
+      "trackId": "4725338",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 3270,
+      "mediaIds": {
+        "soundcloud": "348257"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Noizekid & Alu Mix",
+      "title": "Mamacita",
+      "remix": "",
+      "label": "LA CLINICA",
+      "trackId": "4725339",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 3335,
+      "mediaIds": {
+        "spotify": "602509",
+        "soundcloud": "602509",
+        "appleMusic": "602509"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Skrillex & Dillon Francis",
+      "title": "Bun Up The Dance",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "4725340",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 3446,
+      "mediaIds": {
+        "spotify": "224014",
+        "youtube": "224014",
+        "soundcloud": "224014",
+        "appleMusic": "224014"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Dillon Francis",
+          "title": "Bun Up The Dance",
+          "remix": "",
+          "trackId": "4725340"
+        },
+        {
+          "artist": "DJ Kass",
+          "title": "Scooby Doo Pa Pa",
+          "remix": "",
+          "trackId": "4725341"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Kass",
+      "title": "Scooby Doo Pa Pa",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "4725341",
+      "row": 39,
+      "type": "blend",
+      "cueTime": 3520,
+      "mediaIds": {
+        "spotify": "410498",
+        "youtube": "410498",
+        "appleMusic": "410498"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2233233",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=oW4m7CKI2Lk"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:53:07.609Z",
+  "scrapeVersion": 2
+}

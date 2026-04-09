@@ -1,0 +1,451 @@
+{
+  "tlId": "2m7dqp8k",
+  "dj": "testpilot",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-22",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/2m7dqp8k/testpilot-deadmau5-neongarden-edc-las-vegas-united-states-2021-10-22.html",
+  "djs": [
+    {
+      "name": "testpilot",
+      "slug": "testpilot"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Temudo",
+      "title": "Torres Vedras 8AM",
+      "remix": "",
+      "label": "SOMA",
+      "trackId": "7493851",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "699456",
+        "youtube": "699456",
+        "soundcloud": "699456",
+        "appleMusic": "699456"
+      },
+      "blendGroup": [
+        {
+          "artist": "Temudo",
+          "title": "Torres Vedras 8AM",
+          "remix": "",
+          "trackId": "7493851"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Sometimes Things Get, Whatever (Acappella)",
+          "remix": "",
+          "trackId": "7493852"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Sometimes Things Get, Whatever (Acappella)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "7493852",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1767",
+        "youtube": "1767",
+        "soundcloud": "20017",
+        "appleMusic": "1767"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Blenk",
+      "title": "Forward",
+      "remix": "",
+      "label": "ENEMY",
+      "trackId": "7493853",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "547565",
+        "youtube": "547565",
+        "appleMusic": "547565"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Ackermann ft. Raphael Dincsoy",
+      "title": "Jack Dat",
+      "remix": "",
+      "label": "UNCAGE",
+      "trackId": "7493854",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "711967",
+        "youtube": "711967",
+        "appleMusic": "711967"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ackermann ft. Raphael Dincsoy",
+          "title": "Jack Dat",
+          "remix": "",
+          "trackId": "7493854"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Acappella)",
+          "remix": "",
+          "trackId": "7493855"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "7493855",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8354",
+        "youtube": "8354",
+        "soundcloud": "8354",
+        "appleMusic": "8354"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "deadmau5",
+      "title": "Sometimes Things Get, Whatever",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "7493856",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1767",
+        "youtube": "1767",
+        "soundcloud": "1767",
+        "appleMusic": "1767"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "TWR72",
+      "title": "Mouth",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7493857",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "605965",
+        "youtube": "605965",
+        "soundcloud": "605965",
+        "appleMusic": "605965"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Coyu",
+      "title": "Newoldgen (Marcal Remix)",
+      "remix": "",
+      "label": "SUARA",
+      "trackId": "7493858",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "728363",
+        "youtube": "728363",
+        "soundcloud": "728363",
+        "appleMusic": "728363"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Wehbba",
+      "title": "Mind Awake",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "7493859",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "411000",
+        "youtube": "411000",
+        "soundcloud": "411000",
+        "appleMusic": "411000"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Egbert",
+      "title": "Dub Dub",
+      "remix": "",
+      "label": "KNEADED PAINS",
+      "trackId": "7493860",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "527854",
+        "youtube": "527854",
+        "soundcloud": "527854",
+        "appleMusic": "527854"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Layton Giordani",
+      "title": "Chrome",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "7493861",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "489746",
+        "youtube": "489746",
+        "soundcloud": "489746",
+        "appleMusic": "489746"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "NoNameLeft",
+      "title": "Dyson Sphere",
+      "remix": "",
+      "label": "SUBVISION",
+      "trackId": "7493862",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "694975",
+        "youtube": "694975",
+        "appleMusic": "694975"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Layton Giordani",
+      "title": "Astro",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "7493863",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "685541",
+        "youtube": "685541",
+        "soundcloud": "685541",
+        "appleMusic": "685541"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Enrico Sangiuliano",
+      "title": "Symbiosis",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "7493864",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "416798",
+        "youtube": "416798",
+        "soundcloud": "416798",
+        "appleMusic": "416798"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "deadmau5",
+      "title": "FALL",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "7493865",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "483652",
+        "youtube": "483652",
+        "soundcloud": "483652",
+        "appleMusic": "483652"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Raxon",
+      "title": "Sin Control",
+      "remix": "",
+      "label": "ELLUM",
+      "trackId": "7493866",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "344542",
+        "youtube": "344542",
+        "soundcloud": "344542",
+        "appleMusic": "344542"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Architectural",
+      "title": "Cubismo 8.3",
+      "remix": "",
+      "label": "ARCHITECTURAL",
+      "trackId": "7493867",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "352046",
+        "youtube": "352046"
+      },
+      "blendGroup": [
+        {
+          "artist": "Architectural",
+          "title": "Cubismo 8.3",
+          "remix": "",
+          "trackId": "7493867"
+        },
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Monophobia",
+          "remix": "",
+          "trackId": "7493868"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Monophobia",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "7493868",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "428863",
+        "youtube": "428863",
+        "soundcloud": "428863",
+        "appleMusic": "428863"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Amotik",
+      "title": "Ikyavan",
+      "remix": "",
+      "label": "AMOTIK",
+      "trackId": "7493869",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "624288",
+        "youtube": "624288",
+        "soundcloud": "624288",
+        "appleMusic": "624288"
+      },
+      "blendGroup": [
+        {
+          "artist": "Amotik",
+          "title": "Ikyavan",
+          "remix": "",
+          "trackId": "7493869"
+        },
+        {
+          "artist": "deadmau5 & Kaskade ft. Haley Gibby",
+          "title": "I Remember (Acappella)",
+          "remix": "",
+          "trackId": "7493870"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 & Kaskade ft. Haley Gibby",
+      "title": "I Remember (Acappella)",
+      "remix": "",
+      "label": "MAU5TRAP/ULTRA",
+      "trackId": "7493870",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1519",
+        "youtube": "73205",
+        "soundcloud": "1519",
+        "appleMusic": "1519"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Zimmz",
+      "title": "Ancient Dream",
+      "remix": "",
+      "label": "SILHOUETTES",
+      "trackId": "7493871",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "733425",
+        "youtube": "733425",
+        "soundcloud": "733425",
+        "appleMusic": "733425"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_2",
+      "idMedia": "2736747",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/testpilot-at-edc-las-vegas-2021-neon-garden-stage-dj-mix/1613573449/us/album/testpilot-at-edc-las-vegas-2021-neon-garden-stage-dj-mix/1613573449?app=music&at=1000lwkw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:37:45.271Z",
+  "scrapeVersion": 2
+}

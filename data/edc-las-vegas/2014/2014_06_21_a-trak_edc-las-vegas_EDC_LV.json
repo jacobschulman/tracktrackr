@@ -1,0 +1,923 @@
+{
+  "tlId": "1n7vcht",
+  "dj": "A-Trak",
+  "stage": "EDC Las Vegas",
+  "date": "2014-06-21",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/1n7vcht/a-trak-cosmicmeadow-edc-las-vegas-united-states-2014-06-21.html",
+  "djs": [
+    {
+      "name": "A-Trak",
+      "slug": "atrak"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6151241",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6151241"
+        },
+        {
+          "artist": "TJR",
+          "title": "What's Up Suckaz (Everybody Put Your Hands In The Air Acappella)",
+          "remix": "",
+          "trackId": "955246"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TJR",
+      "title": "What's Up Suckaz (Everybody Put Your Hands In The Air Acappella)",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "955246",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 76,
+      "mediaIds": {
+        "spotify": "125210",
+        "youtube": "154460",
+        "soundcloud": "125210",
+        "appleMusic": "125210"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Audien",
+      "title": "Hindsight",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "966232",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 114,
+      "mediaIds": {
+        "spotify": "186208",
+        "youtube": "186208",
+        "soundcloud": "186208",
+        "appleMusic": "186208"
+      },
+      "blendGroup": [
+        {
+          "artist": "Audien",
+          "title": "Hindsight",
+          "remix": "",
+          "trackId": "966232"
+        },
+        {
+          "artist": "Martin Solveig",
+          "title": "The Night Out (Acappella)",
+          "remix": "",
+          "trackId": "955248"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Solveig",
+      "title": "The Night Out (Acappella)",
+      "remix": "",
+      "label": "MIXTURE",
+      "trackId": "955248",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 114,
+      "mediaIds": {
+        "spotify": "33659",
+        "youtube": "33659",
+        "soundcloud": "79162",
+        "appleMusic": "33659"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Jordy Dazz",
+      "title": "Claymore",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "955249",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 250,
+      "mediaIds": {
+        "spotify": "105232",
+        "youtube": "105232",
+        "soundcloud": "105232",
+        "appleMusic": "105232"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Duck Sauce",
+      "title": "NRG (Skrillex & Kill The Noise & Milo & Otis Remix)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "955250",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 301,
+      "mediaIds": {
+        "spotify": "186128",
+        "youtube": "186128",
+        "soundcloud": "186128",
+        "appleMusic": "186128"
+      },
+      "blendGroup": [
+        {
+          "artist": "Duck Sauce",
+          "title": "NRG (Skrillex & Kill The Noise & Milo & Otis Remix)",
+          "remix": "",
+          "trackId": "955250"
+        },
+        {
+          "artist": "Danny Brown",
+          "title": "Dip (Acappella)",
+          "remix": "",
+          "trackId": "955251"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Danny Brown",
+      "title": "Dip (Acappella)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "955251",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 353,
+      "mediaIds": {
+        "spotify": "161263",
+        "youtube": "161263",
+        "soundcloud": "205043",
+        "appleMusic": "161263"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "A-Trak ft. Oliver",
+      "title": "Disco Nap",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "955252",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 495,
+      "mediaIds": {
+        "spotify": "108024",
+        "youtube": "108024",
+        "appleMusic": "108024"
+      },
+      "blendGroup": [
+        {
+          "artist": "A-Trak ft. Oliver",
+          "title": "Disco Nap",
+          "remix": "",
+          "trackId": "955252"
+        },
+        {
+          "artist": "Chromeo",
+          "title": "Jealous (I Ain't With It) (Dillon Francis Remix)",
+          "remix": "",
+          "trackId": "955253"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chromeo",
+      "title": "Jealous (I Ain't With It) (Dillon Francis Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "955253",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 570,
+      "mediaIds": {
+        "spotify": "188233",
+        "youtube": "188233",
+        "soundcloud": "188233",
+        "appleMusic": "188233"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Live City",
+      "title": "Slingshot",
+      "remix": "",
+      "label": "BROOKLYN FIRE",
+      "trackId": "955254",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 690,
+      "mediaIds": {
+        "spotify": "177741",
+        "soundcloud": "177741",
+        "appleMusic": "177741"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Tommy Trash & A-Trak",
+      "title": "Tuna Melt",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "955255",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 735,
+      "mediaIds": {
+        "spotify": "95805",
+        "youtube": "95805",
+        "soundcloud": "95805",
+        "appleMusic": "95805"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tommy Trash & A-Trak",
+          "title": "Tuna Melt",
+          "remix": "",
+          "trackId": "955255"
+        },
+        {
+          "artist": "Tag Team",
+          "title": "Whoomp! (There It Is) (Acappella)",
+          "remix": "",
+          "trackId": "955256"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tag Team",
+      "title": "Whoomp! (There It Is) (Acappella)",
+      "remix": "",
+      "label": "LIFE",
+      "trackId": "955256",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 875,
+      "mediaIds": {
+        "spotify": "138671",
+        "youtube": "138671",
+        "soundcloud": "138671",
+        "appleMusic": "138671"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Maurizio Gubellini & Nari & Milani ft. Nicci",
+      "title": "Vago",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "955257",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 975,
+      "mediaIds": {
+        "spotify": "60805",
+        "youtube": "60805",
+        "soundcloud": "60805",
+        "appleMusic": "60805"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Duck Sauce",
+      "title": "It's You (DJ Snake Remix)",
+      "remix": "",
+      "label": "3BEAT",
+      "trackId": "955258",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1050,
+      "mediaIds": {
+        "spotify": "145521",
+        "youtube": "145521",
+        "soundcloud": "145521",
+        "appleMusic": "145521"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Duck Sauce",
+      "title": "Big Bad Wolf (Dada Life Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "955259",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1230,
+      "mediaIds": {
+        "spotify": "52957",
+        "youtube": "52957",
+        "soundcloud": "52957",
+        "appleMusic": "52957"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Heads Will Roll (A-Trak Remix / Kid Kamillion Trap Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "955260",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1335,
+      "mediaIds": {
+        "youtube": "89675",
+        "soundcloud": "89675"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "RL Grime & What So Not",
+      "title": "Tell Me",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "955261",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1410,
+      "mediaIds": {
+        "spotify": "179065",
+        "youtube": "179065",
+        "soundcloud": "179065",
+        "appleMusic": "179065"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Ookay",
+      "title": "Booty Clap",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6151242",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1515,
+      "mediaIds": {
+        "soundcloud": "433445"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Low Pros ft. Travi$ Scott",
+      "title": "100 Bottles(Prod. by A-Trak & Lex Luger)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "955262",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1560,
+      "mediaIds": {
+        "spotify": "190918",
+        "youtube": "190918",
+        "soundcloud": "190918",
+        "appleMusic": "190918"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Skrillex ft. Niki & The Dove",
+      "title": "Ease My Mind (GTA Bootleg)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "955263",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1635,
+      "mediaIds": {
+        "spotify": "186191",
+        "youtube": "186191",
+        "soundcloud": "186191",
+        "appleMusic": "186191"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Roscoe Dash & Soulja Boy",
+      "title": "All The Way Turnt Up",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "6151243",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "71029",
+        "youtube": "71029",
+        "soundcloud": "71029",
+        "appleMusic": "71029"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Low Pros",
+      "title": "Ohmygosh",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "955264",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1917,
+      "mediaIds": {
+        "spotify": "202559",
+        "youtube": "202559",
+        "appleMusic": "202559"
+      },
+      "blendGroup": [
+        {
+          "artist": "Low Pros",
+          "title": "Ohmygosh",
+          "remix": "",
+          "trackId": "955264"
+        },
+        {
+          "artist": "A-Trak & Dillon Francis",
+          "title": "Money Makin'",
+          "remix": "",
+          "trackId": "6151244"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "A-Trak & Dillon Francis",
+      "title": "Money Makin'",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "6151244",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1940,
+      "mediaIds": {
+        "spotify": "77748",
+        "youtube": "77748",
+        "soundcloud": "77748",
+        "appleMusic": "77748"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Carnage ft. Migos",
+      "title": "Bricks",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "955265",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2025,
+      "mediaIds": {
+        "spotify": "196610",
+        "youtube": "196610",
+        "soundcloud": "196610",
+        "appleMusic": "196610"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "W&W",
+      "title": "Bigfoot (Dillon Francis Remix)",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "955266",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2100,
+      "mediaIds": {
+        "spotify": "196960",
+        "youtube": "196960",
+        "soundcloud": "196960",
+        "appleMusic": "196960"
+      },
+      "blendGroup": [
+        {
+          "artist": "W&W",
+          "title": "Bigfoot (Dillon Francis Remix)",
+          "remix": "",
+          "trackId": "955266"
+        },
+        {
+          "artist": "Flosstradamus ft. Casino",
+          "title": "Mosh Pit (Acappella)",
+          "remix": "",
+          "trackId": "966234"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flosstradamus ft. Casino",
+      "title": "Mosh Pit (Acappella)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "966234",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 2159,
+      "mediaIds": {
+        "spotify": "230379",
+        "youtube": "230379",
+        "soundcloud": "230379",
+        "appleMusic": "230379"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Herobust ft. Lis",
+      "title": "Rain On Em",
+      "remix": "",
+      "label": "BUSTED",
+      "trackId": "955267",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2190,
+      "mediaIds": {
+        "spotify": "200389",
+        "youtube": "200389",
+        "soundcloud": "200389",
+        "appleMusic": "200389"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Tropkillaz",
+      "title": "Baby Baby",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "955268",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2220,
+      "mediaIds": {
+        "youtube": "201034",
+        "soundcloud": "201034"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "A-Trak & Milo & Otis ft. Rich Kidz",
+      "title": "Out The Speakers",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "955269",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2295,
+      "mediaIds": {
+        "spotify": "197450",
+        "youtube": "197450",
+        "appleMusic": "197450"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "DJ Kool",
+      "title": "Let Me Clear My Throat",
+      "remix": "",
+      "label": "AMERICAN RECORDINGS/WARNER BROS.",
+      "trackId": "955270",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2430,
+      "mediaIds": {
+        "spotify": "37086",
+        "youtube": "37086",
+        "soundcloud": "37086",
+        "appleMusic": "37086"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "YG ft. Rich Homie Quan & Young Jeezy",
+      "title": "My Nigga (Fabian Mazur Re-Twerk)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "955271",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2475,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Que",
+      "title": "OG Bobby Johnson (Boombox Cartel Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "955272",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2520,
+      "mediaIds": {
+        "youtube": "293254"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "GTA & Diplo",
+      "title": "Boy Oh Boy",
+      "remix": "",
+      "label": "MAD DECENT/FREE",
+      "trackId": "955273",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2610,
+      "mediaIds": {
+        "spotify": "117721",
+        "youtube": "117721",
+        "soundcloud": "117721",
+        "appleMusic": "117721"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Vengaboys",
+      "title": "We Like To Party! (The Vengabus)",
+      "remix": "",
+      "label": "VIOLENT",
+      "trackId": "955274",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2745,
+      "mediaIds": {
+        "spotify": "92224",
+        "youtube": "92224",
+        "soundcloud": "92224",
+        "appleMusic": "92224"
+      },
+      "blendGroup": [
+        {
+          "artist": "Vengaboys",
+          "title": "We Like To Party! (The Vengabus)",
+          "remix": "",
+          "trackId": "955274"
+        },
+        {
+          "artist": "Diplo & Phat Deuce",
+          "title": "Bumpin",
+          "remix": "",
+          "trackId": "990272"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Diplo & Phat Deuce",
+      "title": "Bumpin",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "990272",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 2760,
+      "mediaIds": {
+        "youtube": "195613",
+        "soundcloud": "195613"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "TC",
+      "title": "Get Down Low (ShockOne Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "955275",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2820,
+      "mediaIds": {
+        "spotify": "164313",
+        "youtube": "164313",
+        "soundcloud": "164313",
+        "appleMusic": "164313"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Nom De Strip & Nezzo",
+      "title": "Sushi Of God",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "955276",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2880,
+      "mediaIds": {
+        "spotify": "177942",
+        "youtube": "177942",
+        "soundcloud": "177942",
+        "appleMusic": "177942"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Dada Life",
+      "title": "Born To Rage",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "955277",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2910,
+      "mediaIds": {
+        "youtube": "141255",
+        "soundcloud": "141255"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "A-Trak ft. Cory Enemy & Nico Stadi",
+      "title": "Ibanez",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "955278",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3090,
+      "mediaIds": {
+        "youtube": "246282",
+        "soundcloud": "246282"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "TV Noise",
+      "title": "The Hold",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "955279",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 3330,
+      "mediaIds": {
+        "spotify": "182256",
+        "youtube": "182256",
+        "soundcloud": "182256",
+        "appleMusic": "182256"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "DJ MERCER vs. The Prodigy",
+      "title": "Breathe (Late Night Edition)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "955280",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 3405,
+      "mediaIds": {
+        "youtube": "130222",
+        "soundcloud": "130222"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "955281",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3495,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Martin Solveig",
+      "title": "The Night Out (A-Trak Remix)",
+      "remix": "",
+      "label": "MIXTURE",
+      "trackId": "955282",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 3630,
+      "mediaIds": {
+        "spotify": "64736",
+        "youtube": "64736",
+        "soundcloud": "64736",
+        "appleMusic": "64736"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Solveig",
+          "title": "The Night Out (A-Trak Remix)",
+          "remix": "",
+          "trackId": "955282"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Aerodynamic",
+          "remix": "",
+          "trackId": "1085193"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Aerodynamic",
+      "remix": "",
+      "label": "DAFT LIFE",
+      "trackId": "1085193",
+      "row": 35,
+      "type": "blend",
+      "cueTime": 3655,
+      "mediaIds": {
+        "spotify": "2606",
+        "youtube": "2606",
+        "soundcloud": "2606",
+        "appleMusic": "2606"
+      }
+    },
+    {
+      "pos": "36",
+      "artist": "Duck Sauce",
+      "title": "Barbra Streisand",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "955284",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 3960,
+      "mediaIds": {
+        "spotify": "19059",
+        "youtube": "19059",
+        "soundcloud": "19059",
+        "appleMusic": "19059"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "189973",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/thebesthouse"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "190566",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "190564",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:00:33.911Z",
+  "scrapeVersion": 2
+}

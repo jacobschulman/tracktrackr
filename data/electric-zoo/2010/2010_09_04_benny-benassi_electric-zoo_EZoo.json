@@ -1,0 +1,80 @@
+{
+  "tlId": "hw1vyk",
+  "dj": "Benny Benassi",
+  "stage": "Electric Zoo",
+  "date": "2010-09-04",
+  "year": 2010,
+  "url": "https://www.1001tracklists.com/tracklist/hw1vyk/benny-benassi-electric-zoo-united-states-2010-09-04.html",
+  "djs": [
+    {
+      "name": "Benny Benassi",
+      "slug": "bennybenassi"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "MayBB",
+      "title": "Touring in NY",
+      "remix": "",
+      "label": "",
+      "trackId": "33041",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "N.O.I.P.",
+      "title": "Be Good",
+      "remix": "",
+      "label": "",
+      "trackId": "33042",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 300,
+      "mediaIds": {
+        "spotify": "19344"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Otherside (Benny Benassi Remix)",
+      "remix": "",
+      "label": "WARNER UK",
+      "trackId": "33043",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 600,
+      "mediaIds": {
+        "youtube": "18783",
+        "soundcloud": "18783"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "33044",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 1200,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T04:41:57.221Z",
+  "scrapeVersion": 2
+}

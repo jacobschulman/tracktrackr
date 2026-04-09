@@ -1,0 +1,533 @@
+{
+  "tlId": "vcl6pj9",
+  "dj": "Westend & LUCATI",
+  "stage": "EDC Las Vegas",
+  "date": "2022-05-20",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/vcl6pj9/westend-lucati-cosmicmeadow-edc-las-vegas-united-states-2022-05-20.html",
+  "djs": [
+    {
+      "name": "Westend",
+      "slug": "westend"
+    },
+    {
+      "name": "LUCATI",
+      "slug": "lucati"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Tomi & Kesh & Jay de Lys",
+      "title": "W2DO",
+      "remix": "",
+      "label": "NOZZO MUSIC",
+      "trackId": "7707809",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "703940",
+        "youtube": "703940",
+        "soundcloud": "703940",
+        "appleMusic": "703940"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Neverdogs",
+      "title": "Easy",
+      "remix": "",
+      "label": "TAMANGO",
+      "trackId": "7707810",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "797922",
+        "soundcloud": "797922",
+        "appleMusic": "797922"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Late Replies",
+      "title": "No Mixer",
+      "remix": "",
+      "label": "WYLD",
+      "trackId": "7707811",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "762817",
+        "youtube": "762817",
+        "soundcloud": "762817",
+        "appleMusic": "762817"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "SY",
+      "title": "Solutions",
+      "remix": "",
+      "label": "MOSS CO.",
+      "trackId": "7707812",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "786794",
+        "soundcloud": "786794",
+        "appleMusic": "786794"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Detlef",
+      "title": "Music Please",
+      "remix": "",
+      "label": "REPOPULATE MARS",
+      "trackId": "7708094",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "513631",
+        "youtube": "513631",
+        "soundcloud": "513631",
+        "appleMusic": "513631"
+      },
+      "blendGroup": [
+        {
+          "artist": "Detlef",
+          "title": "Music Please",
+          "remix": "",
+          "trackId": "7708094"
+        },
+        {
+          "artist": "PAWSA",
+          "title": "On Yer Feet",
+          "remix": "",
+          "trackId": "7707813"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "PAWSA",
+      "title": "On Yer Feet",
+      "remix": "",
+      "label": "PAWZ",
+      "trackId": "7707813",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "467727",
+        "youtube": "467727",
+        "appleMusic": "467727"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "The Deepshakerz ft. Black Savana",
+      "title": "Rise",
+      "remix": "",
+      "label": "REALM",
+      "trackId": "7707814",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "799812",
+        "youtube": "799812",
+        "soundcloud": "799812",
+        "appleMusic": "799812"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Ellis Moss",
+      "title": "Critical",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "7707815",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "793521",
+        "youtube": "793521",
+        "soundcloud": "793521",
+        "appleMusic": "793521"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Siwell",
+      "title": "La Fiesta",
+      "remix": "",
+      "label": "TOOLROOM TRAX",
+      "trackId": "7707816",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "784895",
+        "youtube": "784895",
+        "soundcloud": "784895",
+        "appleMusic": "784895"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "CID & Westend",
+      "title": "Let Me Take You",
+      "remix": "",
+      "label": "ARMADA SUBJEKT",
+      "trackId": "7707817",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "758361",
+        "youtube": "758361",
+        "soundcloud": "758361",
+        "appleMusic": "758361"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Andre Zimmer",
+      "title": "The Funk",
+      "remix": "",
+      "label": "HELLBENT",
+      "trackId": "7707818",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "794574",
+        "youtube": "794574",
+        "soundcloud": "794574",
+        "appleMusic": "794574"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7707819",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Paul Najera & Jr. Quijada",
+      "title": "House Beat",
+      "remix": "",
+      "label": "PURVEYOR UNDERGROUND",
+      "trackId": "7707820",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "appleMusic": "768330"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Luca Morris & Mozzy Rekorder",
+      "title": "Gypsy Woman (La-Da-Dee)",
+      "remix": "",
+      "label": "TERMINAL M",
+      "trackId": "7707821",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "533179",
+        "youtube": "533179",
+        "soundcloud": "533179",
+        "appleMusic": "533179"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Westend & John Summit",
+      "title": "Detonate",
+      "remix": "",
+      "label": "DIRTYBIRD",
+      "trackId": "7707822",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "493059",
+        "youtube": "493059",
+        "soundcloud": "493059",
+        "appleMusic": "493059"
+      },
+      "blendGroup": [
+        {
+          "artist": "Westend & John Summit",
+          "title": "Detonate",
+          "remix": "",
+          "trackId": "7707822"
+        },
+        {
+          "artist": "BrEaCh",
+          "title": "Jack (Acappella)",
+          "remix": "",
+          "trackId": "7707823"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "BrEaCh",
+      "title": "Jack (Acappella)",
+      "remix": "",
+      "label": "DIRTYBIRD",
+      "trackId": "7707823",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "124762",
+        "youtube": "132400",
+        "soundcloud": "132400",
+        "appleMusic": "124762"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Hector Couto",
+      "title": "Fimplex",
+      "remix": "",
+      "label": "MOAN",
+      "trackId": "7707824",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "732953",
+        "appleMusic": "732953"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Chris Lake & Chris Lorenzo pres. Anti Up",
+      "title": "Chromatic",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "7707825",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "784155",
+        "youtube": "784155",
+        "soundcloud": "784155",
+        "appleMusic": "784155"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Greck B & Anko A",
+      "title": "Tra Tra",
+      "remix": "",
+      "label": "",
+      "trackId": "7707826",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "798043",
+        "youtube": "798043",
+        "soundcloud": "798043",
+        "appleMusic": "798043"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Westend",
+      "title": "Get This Party Started",
+      "remix": "",
+      "label": "GLASGOW UNDERGROUND",
+      "trackId": "7707827",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "701750",
+        "youtube": "701750",
+        "soundcloud": "701750",
+        "appleMusic": "701750"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Hot Since 82",
+      "title": "Veins",
+      "remix": "",
+      "label": "TRUESOUL",
+      "trackId": "7707850",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "265680",
+        "soundcloud": "265680",
+        "appleMusic": "265680"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Tiga",
+      "title": "Mind Dimension (Ben Sterling Remix)",
+      "remix": "",
+      "label": "DIFFERENT (PIAS)",
+      "trackId": "7707851",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "791241",
+        "youtube": "791241",
+        "soundcloud": "791241",
+        "appleMusic": "791241"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiga",
+          "title": "Mind Dimension (Ben Sterling Remix)",
+          "remix": "",
+          "trackId": "7707851"
+        },
+        {
+          "artist": "Westend ft. Ranger Trucco",
+          "title": "Life Of Sin",
+          "remix": "(Acappella)",
+          "trackId": "7707852"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Westend ft. Ranger Trucco",
+      "title": "Life Of Sin",
+      "remix": "(Acappella)",
+      "label": "INSOMNIAC",
+      "trackId": "7707852",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "724074",
+        "youtube": "724074",
+        "soundcloud": "724074",
+        "appleMusic": "724074"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Angel Heredia",
+      "title": "Want U Quilombo",
+      "remix": "",
+      "label": "DEEP TECH LOS ANGELES",
+      "trackId": "7707853",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "769469",
+        "soundcloud": "769469",
+        "appleMusic": "769469"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "HUGEL & Westend ft. Cumbiafrica",
+      "title": "Aguila",
+      "remix": "",
+      "label": "REPOPULATE MARS",
+      "trackId": "7707854",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "814232",
+        "youtube": "814232",
+        "soundcloud": "814232",
+        "appleMusic": "814232"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Jowell & Randy & Kiko El Crazy",
+      "title": "Se Acabó La Cuarentena (REDTAPE Edit)",
+      "remix": "",
+      "label": "RIMAS",
+      "trackId": "7707855",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "704462"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7707886",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "hearthis",
+      "idMedia": "2814527",
+      "idSource": "40",
+      "url": "https://hearthis.at/6770211/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:13:03.888Z",
+  "scrapeVersion": 2
+}

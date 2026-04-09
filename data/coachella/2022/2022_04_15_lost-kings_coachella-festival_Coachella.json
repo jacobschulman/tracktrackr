@@ -1,0 +1,142 @@
+{
+  "tlId": "2dqwqw5k",
+  "dj": "Lost Kings",
+  "stage": "Coachella Festival",
+  "date": "2022-04-15",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/2dqwqw5k/lost-kings-sahara-coachella-festival-weekend-1-united-states-2022-04-15.html",
+  "djs": [
+    {
+      "name": "Lost Kings",
+      "slug": "lostkings"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Jack Harlow & Fergie",
+      "title": "First Class (SATØS Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "7575460",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "788487"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Lost Kings ft. Finn Askew",
+      "title": "Feather (Mo Falk Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "7575461",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "541350",
+        "youtube": "541350",
+        "soundcloud": "541350",
+        "appleMusic": "541350"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Lost Kings ft. Goody Grace",
+      "title": "Me Myself & Adderall",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "7575462",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "712587",
+        "appleMusic": "712587"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Avicii vs. Elton John & Dua Lipa",
+      "title": "Levels vs. Cold Heart (Lost Kings Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "7575463",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "The Kid Laroi & Justin Bieber & Dirty Palm vs. Don Diablo",
+      "title": "Stay (Kastra \"Mr. Brightside\" Edit)",
+      "remix": "",
+      "label": "HEXAGON/COLUMBIA (SONY)",
+      "trackId": "7575466",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Lost Kings ft. Norma Jean Martine",
+      "title": "When We Were Young",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "7575468",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "421464",
+        "youtube": "421464",
+        "appleMusic": "421464"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lost Kings ft. Norma Jean Martine",
+          "title": "When We Were Young",
+          "remix": "",
+          "trackId": "7575468"
+        },
+        {
+          "artist": "Lost Kings ft. Norma Jean Martine",
+          "title": "When We Were Young (Adam Kahati Remix)",
+          "remix": "",
+          "trackId": "7575469"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lost Kings ft. Norma Jean Martine",
+      "title": "When We Were Young (Adam Kahati Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "7575469",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "486094"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T04:05:35.467Z",
+  "scrapeVersion": 2
+}

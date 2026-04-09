@@ -1,0 +1,1296 @@
+{
+  "tlId": "2rvk7vu1",
+  "dj": "Blossom",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-23",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/2rvk7vu1/blossom-stereobloom-edc-las-vegas-united-states-2021-10-23.html",
+  "djs": [
+    {
+      "name": "Blossom",
+      "slug": "blossom"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Blossom",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7383738",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6893401",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Redlight ft. Asabe",
+      "title": "Charge Up",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "7383739",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "500036",
+        "youtube": "500036",
+        "appleMusic": "500036"
+      },
+      "blendGroup": [
+        {
+          "artist": "Redlight ft. Asabe",
+          "title": "Charge Up",
+          "remix": "",
+          "trackId": "7383739"
+        },
+        {
+          "artist": "Curbi",
+          "title": "What You Like",
+          "remix": "",
+          "trackId": "6893402"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Curbi",
+      "title": "What You Like",
+      "remix": "",
+      "label": "NCS",
+      "trackId": "6893402",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "654333",
+        "youtube": "654333",
+        "soundcloud": "654333",
+        "appleMusic": "654333"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Lil Nas X ft. Jack Harlow",
+      "title": "INDUSTRY BABY (FÄT TONY Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "6893403",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "719851",
+        "soundcloud": "719851",
+        "appleMusic": "719851"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Ty Dolla $ign ft. Kanye West & FKA twigs & Skrillex",
+      "title": "Ego Death",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "6893404",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "596578",
+        "youtube": "596578",
+        "soundcloud": "596578",
+        "appleMusic": "596578"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ty Dolla $ign ft. Kanye West & FKA twigs & Skrillex",
+          "title": "Ego Death",
+          "remix": "",
+          "trackId": "6893404"
+        },
+        {
+          "artist": "NØ SIGNE",
+          "title": "Lyra",
+          "remix": "",
+          "trackId": "6893405"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "NØ SIGNE",
+      "title": "Lyra",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "6893405",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "599597",
+        "youtube": "599597",
+        "soundcloud": "599597",
+        "appleMusic": "599597"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Axel Boy & Blossom ft. DJ Shah & Fast Distance pres. Samara",
+      "title": "What They Say",
+      "remix": "",
+      "label": "DO NOT DUPLICATE",
+      "trackId": "6893406",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "623909",
+        "youtube": "623909",
+        "soundcloud": "623909",
+        "appleMusic": "623909"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Madonna",
+      "title": "Hung Up",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "6893407",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "13115",
+        "youtube": "13115",
+        "soundcloud": "13115",
+        "appleMusic": "13115"
+      },
+      "blendGroup": [
+        {
+          "artist": "Madonna",
+          "title": "Hung Up",
+          "remix": "",
+          "trackId": "6893407"
+        },
+        {
+          "artist": "Wax Motif & ALRT & Nessly",
+          "title": "Hard Street",
+          "remix": "",
+          "trackId": "6893408"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wax Motif & ALRT & Nessly",
+      "title": "Hard Street",
+      "remix": "",
+      "label": "DIVIDED SOULS",
+      "trackId": "6893408",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "574970",
+        "youtube": "574970",
+        "soundcloud": "574970",
+        "appleMusic": "574970"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Destructo ft. YG",
+      "title": "Party Up (GTA Remix)",
+      "remix": "",
+      "label": "ALL MY FRIENDS/HITS HARD",
+      "trackId": "6893409",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "205566",
+        "youtube": "205566",
+        "soundcloud": "205566",
+        "appleMusic": "205566"
+      },
+      "blendGroup": [
+        {
+          "artist": "Destructo ft. YG",
+          "title": "Party Up (GTA Remix)",
+          "remix": "",
+          "trackId": "6893409"
+        },
+        {
+          "artist": "NuBass",
+          "title": "Supreme (VIP)",
+          "remix": "",
+          "trackId": "6893410"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "NuBass",
+      "title": "Supreme (VIP)",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "6893410",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "650373",
+        "youtube": "650373",
+        "soundcloud": "650373",
+        "appleMusic": "650373"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Michael Sparks",
+      "title": "One Night",
+      "remix": "",
+      "label": "HOUSE CALL",
+      "trackId": "6893411",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "689664",
+        "youtube": "689664",
+        "soundcloud": "689664",
+        "appleMusic": "689664"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Benny Benassi pres. The Biz",
+      "title": "Satisfaction (Jewelz & Sparks Bootleg)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "6893412",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "137833",
+        "youtube": "137833",
+        "soundcloud": "137833",
+        "appleMusic": "137833"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "ACRAZE ft. Cherish",
+      "title": "Do It To It",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "6893413",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "702547",
+        "youtube": "702547",
+        "soundcloud": "702547",
+        "appleMusic": "702547"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Tim Berg ft. Amanda Wilson",
+      "title": "Seek Bromance (Zero Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "6893414",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "724749",
+        "soundcloud": "724749"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Global Deejays & Danny Marquez ft. Puppah Nas-T & Denise",
+      "title": "Work (Nari & Milani Remix)",
+      "remix": "",
+      "label": "SCORPIO",
+      "trackId": "6893415",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "308698",
+        "soundcloud": "308698"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Good Times Ahead",
+      "title": "So Good",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "6893416",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "484004",
+        "youtube": "484004",
+        "soundcloud": "484004",
+        "appleMusic": "484004"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Blossom & SHDOWS",
+      "title": "Lotta Money",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "6893417",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "575957",
+        "youtube": "575957",
+        "soundcloud": "575957",
+        "appleMusic": "575957"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Shaun Dean",
+      "title": "Poison",
+      "remix": "",
+      "label": "SHAUN DEAN AUDIO",
+      "trackId": "6893418",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "632771",
+        "youtube": "632771",
+        "soundcloud": "632771",
+        "appleMusic": "632771"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Eauki",
+      "title": "Narcotica",
+      "remix": "",
+      "label": "TERMINAL UNDERGROUND",
+      "trackId": "7383740",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "732122",
+        "youtube": "732122",
+        "soundcloud": "732122",
+        "appleMusic": "732122"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eauki",
+          "title": "Narcotica",
+          "remix": "",
+          "trackId": "7383740"
+        },
+        {
+          "artist": "BrEaCh",
+          "title": "Jack",
+          "remix": "",
+          "trackId": "6893419"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "BrEaCh",
+      "title": "Jack",
+      "remix": "",
+      "label": "DIRTYBIRD",
+      "trackId": "6893419",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "124762",
+        "youtube": "124762",
+        "soundcloud": "124762",
+        "appleMusic": "124762"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Blossom ft. Bella Renee",
+      "title": "Complicated",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "6893420",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "623908",
+        "youtube": "623908",
+        "soundcloud": "623908",
+        "appleMusic": "623908"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "DJ Snake ft. Sheck Wes & Offset & 21 Savage & Gucci Mane",
+      "title": "Enzo",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "6893421",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "493041",
+        "youtube": "493041",
+        "soundcloud": "493041",
+        "appleMusic": "493041"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Boombox Cartel",
+      "title": "NBD (Phlegmatic Dogs Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6893422",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "425874",
+        "youtube": "425874",
+        "soundcloud": "425874",
+        "appleMusic": "425874"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "NuBass & Deppz",
+      "title": "Knock Knock",
+      "remix": "",
+      "label": "BARCODES",
+      "trackId": "6893423",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "698771",
+        "youtube": "698771",
+        "soundcloud": "698771",
+        "appleMusic": "698771"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Leotrix",
+      "title": "Tokyo Bounce (JACKNIFE Recut)",
+      "remix": "",
+      "label": "PATREON/UMG/NSD: BLACK LABEL",
+      "trackId": "6893424",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "718901",
+        "soundcloud": "718901"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Dead Prez",
+      "title": "Hip Hop",
+      "remix": "",
+      "label": "LOUDBIT",
+      "trackId": "6893425",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "22490",
+        "youtube": "22490",
+        "soundcloud": "22490",
+        "appleMusic": "22490"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Oliver Heldens",
+      "title": "Gecko",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "6893426",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "160669",
+        "youtube": "160669",
+        "soundcloud": "160669",
+        "appleMusic": "160669"
+      },
+      "blendGroup": [
+        {
+          "artist": "Oliver Heldens",
+          "title": "Gecko",
+          "remix": "",
+          "trackId": "6893426"
+        },
+        {
+          "artist": "Chris Lorenzo & DJ Zinc",
+          "title": "Full Of Love",
+          "remix": "",
+          "trackId": "6893427"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chris Lorenzo & DJ Zinc",
+      "title": "Full Of Love",
+      "remix": "",
+      "label": "BINGO BASS",
+      "trackId": "6893427",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "649259",
+        "youtube": "649259",
+        "soundcloud": "649259",
+        "appleMusic": "649259"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "RL Grime",
+      "title": "Pressure(Co-Prod. by Boys Noize)",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "6893428",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "427086",
+        "youtube": "427086",
+        "soundcloud": "427086",
+        "appleMusic": "427086"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Junior Senior",
+      "title": "Move Your Feet (dlln Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "6893429",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2070,
+      "mediaIds": {
+        "youtube": "752218",
+        "soundcloud": "752218"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Skrillex & Noisia & Josh Pan & Dylan Brady",
+      "title": "Supersonic (My Existence) (Siik Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "6893431",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2113,
+      "mediaIds": {
+        "youtube": "726512",
+        "soundcloud": "726512"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Francois & Louis Benton & Riddim Commission ft. Asha",
+      "title": "Only Us",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "6893432",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "442058",
+        "youtube": "442058",
+        "soundcloud": "442058",
+        "appleMusic": "442058"
+      },
+      "blendGroup": [
+        {
+          "artist": "Francois & Louis Benton & Riddim Commission ft. Asha",
+          "title": "Only Us",
+          "remix": "",
+          "trackId": "6893432"
+        },
+        {
+          "artist": "NuBass & Deppz",
+          "title": "Gangsters",
+          "remix": "",
+          "trackId": "6893433"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "NuBass & Deppz",
+      "title": "Gangsters",
+      "remix": "",
+      "label": "THE ARCHIVES",
+      "trackId": "6893433",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "628269",
+        "youtube": "628269",
+        "soundcloud": "628269",
+        "appleMusic": "628269"
+      }
+    },
+    {
+      "pos": "29",
+      "artist": "Blossom",
+      "title": "Super Bad",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "6893434",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "686517",
+        "youtube": "686517",
+        "soundcloud": "686517",
+        "appleMusic": "686517"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Frankie Knuckles pres.Marshall Jefferson",
+      "title": "Move Your Body",
+      "remix": "",
+      "label": "TRAX (PHUTURE TRAX)",
+      "trackId": "7383741",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5072",
+        "youtube": "5072",
+        "appleMusic": "5072"
+      },
+      "blendGroup": [
+        {
+          "artist": "Frankie Knuckles pres.Marshall Jefferson",
+          "title": "Move Your Body",
+          "remix": "",
+          "trackId": "7383741"
+        },
+        {
+          "artist": "Tony Romera",
+          "title": "MS69",
+          "remix": "",
+          "trackId": "7383742"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tony Romera",
+      "title": "MS69",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "7383742",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "706671",
+        "youtube": "706671",
+        "soundcloud": "706671",
+        "appleMusic": "706671"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tony Romera",
+          "title": "MS69",
+          "remix": "",
+          "trackId": "7383742"
+        },
+        {
+          "artist": "Henry Fong & Knock2 ft. General Degree",
+          "title": "What's The Move",
+          "remix": "",
+          "trackId": "7383743"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Henry Fong & Knock2 ft. General Degree",
+      "title": "What's The Move",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "7383743",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "598132",
+        "youtube": "598132",
+        "soundcloud": "598132",
+        "appleMusic": "598132"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "Blossom",
+      "title": "You Won't",
+      "remix": "",
+      "label": "",
+      "trackId": "7383744",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7383745",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Sage The Gemini ft. IAMSU!",
+      "title": "Gas Pedal",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "7383746",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "150879",
+        "youtube": "150879",
+        "soundcloud": "150879",
+        "appleMusic": "150879"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sage The Gemini ft. IAMSU!",
+          "title": "Gas Pedal",
+          "remix": "",
+          "trackId": "7383746"
+        },
+        {
+          "artist": "Michael Sparks",
+          "title": "Bruk Up",
+          "remix": "",
+          "trackId": "7383747"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Michael Sparks",
+      "title": "Bruk Up",
+      "remix": "",
+      "label": "BITE THIS!",
+      "trackId": "7383747",
+      "row": 33,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "625671",
+        "youtube": "625671",
+        "soundcloud": "625671",
+        "appleMusic": "625671"
+      }
+    },
+    {
+      "pos": "34",
+      "artist": "Swedish House Mafia",
+      "title": "It Gets Better",
+      "remix": "",
+      "label": "SSA/REPUBLIC",
+      "trackId": "7383748",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "513628",
+        "youtube": "513628",
+        "soundcloud": "513628",
+        "appleMusic": "513628"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia",
+          "title": "It Gets Better",
+          "remix": "",
+          "trackId": "7383748"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7383749"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7383749",
+      "row": 34,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "35",
+      "artist": "Skrillex & Alvin Risk",
+      "title": "Fuji Opener",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "7383750",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "162725",
+        "youtube": "162725",
+        "soundcloud": "162725",
+        "appleMusic": "162725"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Who Da Funk ft. Jessica Eve",
+      "title": "Shiny Disco Balls",
+      "remix": "(Acappella)",
+      "label": "SUBUSA",
+      "trackId": "7383751",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "25187",
+        "youtube": "25187",
+        "soundcloud": "25187",
+        "appleMusic": "25187"
+      },
+      "blendGroup": [
+        {
+          "artist": "Who Da Funk ft. Jessica Eve",
+          "title": "Shiny Disco Balls",
+          "remix": "(Acappella)",
+          "trackId": "7383751"
+        },
+        {
+          "artist": "Aazar & GODAMN",
+          "title": "Big Beat",
+          "remix": "",
+          "trackId": "7383752"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Aazar & GODAMN",
+      "title": "Big Beat",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7383752",
+      "row": 36,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "545309",
+        "youtube": "545309",
+        "soundcloud": "545309",
+        "appleMusic": "545309"
+      }
+    },
+    {
+      "pos": "37",
+      "artist": "AC Slater & Chris Lorenzo",
+      "title": "Fly With Us",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "7383753",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "721566",
+        "youtube": "721566",
+        "soundcloud": "721566",
+        "appleMusic": "721566"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "MALARKEY",
+      "title": "Money",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "7383754",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "625708",
+        "youtube": "625708",
+        "soundcloud": "625708",
+        "appleMusic": "625708"
+      },
+      "blendGroup": [
+        {
+          "artist": "MALARKEY",
+          "title": "Money",
+          "remix": "",
+          "trackId": "7383754"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7383755"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7383755",
+      "row": 38,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "39",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7383756",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "deadmau5 & Kaskade ft. Haley Gibby",
+      "title": "Move For Me (Leemz & ZUES Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "7383757",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "628271"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7383758",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "JOYRYDE",
+      "title": "YARDIE",
+      "remix": "",
+      "label": "HARD RECS (INSOMNIAC)",
+      "trackId": "7383759",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "575723",
+        "youtube": "575723",
+        "soundcloud": "575723",
+        "appleMusic": "575723"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "43",
+      "artist": "Dabow & Good Times Ahead",
+      "title": "Rapido",
+      "remix": "",
+      "label": "DOME OF DOOM",
+      "trackId": "7383760",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "548705",
+        "youtube": "548705",
+        "soundcloud": "548705",
+        "appleMusic": "548705"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dabow & Good Times Ahead",
+          "title": "Rapido",
+          "remix": "",
+          "trackId": "7383760"
+        },
+        {
+          "artist": "MUST DIE!",
+          "title": "SORROW TECH (Good Times Ahead Remix)",
+          "remix": "",
+          "trackId": "7383761"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MUST DIE!",
+      "title": "SORROW TECH (Good Times Ahead Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "7383761",
+      "row": 43,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "708017",
+        "youtube": "708017",
+        "soundcloud": "708017",
+        "appleMusic": "708017"
+      }
+    },
+    {
+      "pos": "44",
+      "artist": "QUIX",
+      "title": "Huhhh (VIP)",
+      "remix": "",
+      "label": "DIM MAK/FREE",
+      "trackId": "7383762",
+      "row": 44,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "653318",
+        "youtube": "653318",
+        "soundcloud": "653318",
+        "appleMusic": "653318"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "45",
+      "artist": "RL Grime",
+      "title": "Core (Flite Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "7383763",
+      "row": 45,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "522159",
+        "soundcloud": "522159"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "46",
+      "artist": "Disclosure ft. Eliza Doolittle",
+      "title": "You & Me (Flume Remix)",
+      "remix": "",
+      "label": "PMR",
+      "trackId": "7383764",
+      "row": 46,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "142071",
+        "youtube": "142071",
+        "soundcloud": "142071",
+        "appleMusic": "142071"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "47",
+      "artist": "Deathpact",
+      "title": "CATALYST (REAPER Remix)",
+      "remix": "",
+      "label": "WORLD RECORD",
+      "trackId": "7383765",
+      "row": 47,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "721952",
+        "youtube": "721952",
+        "soundcloud": "721952",
+        "appleMusic": "721952"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "48",
+      "artist": "Zeds Dead & PEEKABOO",
+      "title": "POWA (Segan DNB Remix)",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "7383766",
+      "row": 48,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "49",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Heads Will Roll (A-Trak Remix / Protostar D&B Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7383767",
+      "row": 49,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "577329",
+        "soundcloud": "577329"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "50",
+      "artist": "Kanine",
+      "title": "Stronger",
+      "remix": "",
+      "label": "UNLEASHED",
+      "trackId": "7383768",
+      "row": 50,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "722984",
+        "youtube": "722984",
+        "appleMusic": "722984"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "51",
+      "artist": "Netsky ft. Daddy Waku & Chantal Kashala",
+      "title": "Everybody Loves The Sunshine",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "7383769",
+      "row": 51,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "626785",
+        "youtube": "626785",
+        "soundcloud": "626785",
+        "appleMusic": "626785"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T05:28:30.095Z",
+  "scrapeVersion": 2
+}

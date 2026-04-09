@@ -1,0 +1,763 @@
+{
+  "tlId": "srkr2sk",
+  "dj": "deadmau5",
+  "stage": "EDC Mexico",
+  "date": "2025-02-22",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/srkr2sk/deadmau5-circuitgrounds-edc-mexico-2025-02-22.html",
+  "djs": [
+    {
+      "name": "deadmau5",
+      "slug": "deadmau5"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "deadmau5",
+      "title": "Untrust",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "11791777",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "124995",
+        "soundcloud": "124995"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "No Mana",
+      "title": "Array of Sirens",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "11791778",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 180,
+      "mediaIds": {
+        "spotify": "716760",
+        "youtube": "716760",
+        "soundcloud": "716760",
+        "appleMusic": "716760"
+      },
+      "blendGroup": [
+        {
+          "artist": "No Mana",
+          "title": "Array of Sirens",
+          "remix": "",
+          "trackId": "11791778"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Acappella)",
+          "remix": "",
+          "trackId": "11791779"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "11791779",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8354",
+        "youtube": "8354",
+        "soundcloud": "8354",
+        "appleMusic": "8354"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Harder, Better, Faster, Stronger (Acappella)",
+          "remix": "",
+          "trackId": "11791779"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Maths",
+          "remix": "",
+          "trackId": "11791780"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Maths",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "11791780",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "25848",
+        "youtube": "25848",
+        "soundcloud": "25848",
+        "appleMusic": "25848"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5",
+          "title": "Maths",
+          "remix": "",
+          "trackId": "11791780"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Maths (Cobra Effect Remix)",
+          "remix": "",
+          "trackId": "11791781"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Maths (Cobra Effect Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "11791781",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "222384",
+        "youtube": "222384",
+        "soundcloud": "222384",
+        "appleMusic": "222384"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "deadmau5",
+      "title": "Moar Ghosts 'n' Stuff",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "11791782",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 480,
+      "mediaIds": {
+        "spotify": "6422",
+        "youtube": "6422",
+        "soundcloud": "6422",
+        "appleMusic": "6422"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5",
+          "title": "Moar Ghosts 'n' Stuff",
+          "remix": "",
+          "trackId": "11791782"
+        },
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff (Acappella)",
+          "remix": "",
+          "trackId": "11791783"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Ghosts 'n' Stuff (Acappella)",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "11791783",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1761",
+        "youtube": "21176",
+        "soundcloud": "1761",
+        "appleMusic": "1761"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff (Acappella)",
+          "remix": "",
+          "trackId": "11791783"
+        },
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff (JAUZ Remix)",
+          "remix": "",
+          "trackId": "11791784"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Ghosts 'n' Stuff (JAUZ Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "11791784",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "938767",
+        "youtube": "938767",
+        "soundcloud": "938767",
+        "appleMusic": "938767"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff (JAUZ Remix)",
+          "remix": "",
+          "trackId": "11791784"
+        },
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff (Chuckie Remix)",
+          "remix": "",
+          "trackId": "11791785"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Ghosts 'n' Stuff (Chuckie Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "11791785",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "222197",
+        "youtube": "222197",
+        "soundcloud": "222197",
+        "appleMusic": "222197"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff (Chuckie Remix)",
+          "remix": "",
+          "trackId": "11791785"
+        },
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff",
+          "remix": "",
+          "trackId": "11791786"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Ghosts 'n' Stuff",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "11791786",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1761",
+        "youtube": "1761",
+        "soundcloud": "1761",
+        "appleMusic": "1761"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "deadmau5 ft. Lights",
+      "title": "When The Summer Dies",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "11791787",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 880,
+      "mediaIds": {
+        "spotify": "705968",
+        "youtube": "705968",
+        "soundcloud": "705968",
+        "appleMusic": "705968"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "deadmau5",
+      "title": "Some Chords (Dillon Francis Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "11791788",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1170,
+      "mediaIds": {
+        "spotify": "217147",
+        "youtube": "217147",
+        "soundcloud": "217147",
+        "appleMusic": "217147"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "deadmau5 ft. Chris James",
+      "title": "The Veldt (Tommy Trash Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "11791789",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1440,
+      "mediaIds": {
+        "spotify": "74406",
+        "youtube": "74406",
+        "soundcloud": "74406",
+        "appleMusic": "74406"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "deadmau5 & Chris Lake",
+      "title": "I Said (Michael Woods I Said It Again Re-Edit)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "11791790",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1780,
+      "mediaIds": {
+        "spotify": "223603",
+        "youtube": "223603",
+        "soundcloud": "223603",
+        "appleMusic": "223603"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5 & Chris Lake",
+          "title": "I Said (Michael Woods I Said It Again Re-Edit)",
+          "remix": "",
+          "trackId": "11791790"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Sometimes Things Get, Whatever (Acappella)",
+          "remix": "",
+          "trackId": "11791791"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Sometimes Things Get, Whatever (Acappella)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "11791791",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1767",
+        "youtube": "1767",
+        "soundcloud": "20017",
+        "appleMusic": "1767"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5",
+          "title": "Sometimes Things Get, Whatever (Acappella)",
+          "remix": "",
+          "trackId": "11791791"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Cthulhu Sleeps",
+          "remix": "(Live Version)",
+          "trackId": "11791792"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Cthulhu Sleeps",
+      "remix": "(Live Version)",
+      "label": "MAU5TRAP",
+      "trackId": "11791792",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "21177",
+        "youtube": "21177",
+        "soundcloud": "21177",
+        "appleMusic": "21177"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Secret Cinema & Egbert",
+      "title": "Maximaal",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "11791793",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 2070,
+      "mediaIds": {
+        "spotify": "313946",
+        "youtube": "313946",
+        "soundcloud": "313946",
+        "appleMusic": "313946"
+      },
+      "blendGroup": [
+        {
+          "artist": "Secret Cinema & Egbert",
+          "title": "Maximaal",
+          "remix": "",
+          "trackId": "11791793"
+        },
+        {
+          "artist": "deadmau5",
+          "title": "Sometimes Things Get Complicated (Alt Mix)",
+          "remix": "",
+          "trackId": "11791794"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5",
+      "title": "Sometimes Things Get Complicated (Alt Mix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "11791794",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1055648"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Secret Cinema & Egbert",
+      "title": "Elementen",
+      "remix": "",
+      "label": "GEM",
+      "trackId": "11791795",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 2340,
+      "mediaIds": {
+        "spotify": "334234",
+        "youtube": "334234",
+        "soundcloud": "334234",
+        "appleMusic": "334234"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Kx5 ft. HAYLA",
+      "title": "Escape (Spencer Brown Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "11791796",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2520,
+      "mediaIds": {
+        "spotify": "798280",
+        "youtube": "798280",
+        "soundcloud": "798280",
+        "appleMusic": "798280"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Rebūke & deadmau5 ft. Ed Graves",
+      "title": "Endless",
+      "remix": "",
+      "label": "ERA",
+      "trackId": "11791797",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2790,
+      "mediaIds": {
+        "spotify": "1067277",
+        "youtube": "1067277",
+        "soundcloud": "1067277",
+        "appleMusic": "1067277"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "deadmau5",
+      "title": "Strobe (Victor Ruiz Remix)",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "11791798",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 3000,
+      "mediaIds": {
+        "spotify": "1009340",
+        "youtube": "1009340",
+        "soundcloud": "1009340",
+        "appleMusic": "1009340"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Noisia",
+      "title": "Shaking Hands",
+      "remix": "",
+      "label": "VISION",
+      "trackId": "11791799",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 3360,
+      "mediaIds": {
+        "spotify": "202078",
+        "youtube": "202078",
+        "soundcloud": "202078",
+        "appleMusic": "202078"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Gydra",
+      "title": "Heist",
+      "remix": "",
+      "label": "NEUROPUNK",
+      "trackId": "11791800",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 3490,
+      "mediaIds": {
+        "spotify": "1019168",
+        "youtube": "1019168",
+        "soundcloud": "1019168",
+        "appleMusic": "1019168"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Gydra",
+      "title": "Tribe",
+      "remix": "",
+      "label": "NEUROPUNK",
+      "trackId": "11791801",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 3570,
+      "mediaIds": {
+        "spotify": "1045895",
+        "youtube": "1045895",
+        "soundcloud": "1045895",
+        "appleMusic": "1045895"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Basstripper",
+      "title": "In The City",
+      "remix": "",
+      "label": "DNB ALLSTARS",
+      "trackId": "11791802",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3680,
+      "mediaIds": {
+        "spotify": "908197",
+        "youtube": "908197",
+        "soundcloud": "908197",
+        "appleMusic": "908197"
+      },
+      "blendGroup": [
+        {
+          "artist": "Basstripper",
+          "title": "In The City",
+          "remix": "",
+          "trackId": "11791802"
+        },
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff (Acappella)",
+          "remix": "",
+          "trackId": "11791803"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Ghosts 'n' Stuff (Acappella)",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "11791803",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1761",
+        "youtube": "21176",
+        "soundcloud": "1761",
+        "appleMusic": "1761"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Drumsound & Bassline Smith",
+      "title": "Jungle Tekno",
+      "remix": "",
+      "label": "TECHNIQUE",
+      "trackId": "11791804",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3800,
+      "mediaIds": {
+        "spotify": "933411",
+        "youtube": "933411",
+        "soundcloud": "933411",
+        "appleMusic": "933411"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Calyx",
+      "title": "House Breaker",
+      "remix": "",
+      "label": "CRITICAL",
+      "trackId": "11791805",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3900,
+      "mediaIds": {
+        "spotify": "974822",
+        "youtube": "974822",
+        "soundcloud": "974822",
+        "appleMusic": "974822"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "SOTA & Circadian ft. Mila Falls",
+      "title": "Mesmer",
+      "remix": "",
+      "label": "ELEVATE RECORDS (SHOGUN)",
+      "trackId": "11791806",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3970,
+      "mediaIds": {
+        "spotify": "909394",
+        "youtube": "909394",
+        "soundcloud": "909394",
+        "appleMusic": "909394"
+      },
+      "blendGroup": [
+        {
+          "artist": "SOTA & Circadian ft. Mila Falls",
+          "title": "Mesmer",
+          "remix": "",
+          "trackId": "11791806"
+        },
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff (Acappella)",
+          "remix": "",
+          "trackId": "11791807"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Ghosts 'n' Stuff (Acappella)",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "11791807",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1761",
+        "youtube": "21176",
+        "soundcloud": "1761",
+        "appleMusic": "1761"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "deadmau5 & Kaskade ft. Haley Gibby",
+      "title": "I Remember (John Summit Remix)",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "11791808",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 4240,
+      "mediaIds": {
+        "spotify": "880811",
+        "youtube": "880811",
+        "soundcloud": "880811",
+        "appleMusic": "880811"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_2",
+      "idMedia": "4708091",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/deadmau5-at-edc-mexico-2025-circuit-grounds-stage-dj-mix/1803684940/us/album/deadmau5-at-edc-mexico-2025-circuit-grounds-stage-dj-mix/1803684940?app=music&at=1000lwkw"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "4643157",
+      "idSource": "13",
+      "url": ""
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "4643638",
+      "idSource": "13",
+      "url": ""
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:08:08.708Z",
+  "scrapeVersion": 2
+}

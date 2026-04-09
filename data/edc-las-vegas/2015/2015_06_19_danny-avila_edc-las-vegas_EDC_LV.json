@@ -1,0 +1,242 @@
+{
+  "tlId": "1mb78k29",
+  "dj": "Danny Avila",
+  "stage": "EDC Las Vegas",
+  "date": "2015-06-19",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/1mb78k29/danny-avila-kineticfield-edc-las-vegas-united-states-2015-06-19.html",
+  "djs": [
+    {
+      "name": "Danny Avila",
+      "slug": "dannyavila"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Stefano Noferini & Hollen",
+      "title": "Rediscovered",
+      "remix": "",
+      "label": "DEEPERFECT",
+      "trackId": "1990804",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "242930",
+        "youtube": "242930",
+        "soundcloud": "242930"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1990805",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 469,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "DJ PP",
+      "title": "Queen Of Disco (Hazzaro & Jerome Robins Remix)",
+      "remix": "",
+      "label": "PPMUSIC",
+      "trackId": "1990807",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 700,
+      "mediaIds": {
+        "youtube": "173297"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "The Cube Guys & Etienne Ozborne & SP1DER",
+      "title": "Jumping",
+      "remix": "",
+      "label": "CUBE",
+      "trackId": "1990808",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 870,
+      "mediaIds": {
+        "spotify": "236368",
+        "soundcloud": "236368",
+        "appleMusic": "236368"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1990811",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1020,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Abel Ramos",
+      "title": "Latex",
+      "remix": "",
+      "label": "DEEPERFECT",
+      "trackId": "1990810",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1292,
+      "mediaIds": {
+        "spotify": "57465",
+        "youtube": "57465",
+        "soundcloud": "57465",
+        "appleMusic": "57465"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Michael Calfan",
+      "title": "Treasured Soul (Kryder & Genairo Nvilla Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "1990812",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1470,
+      "mediaIds": {
+        "spotify": "245338",
+        "youtube": "245338",
+        "soundcloud": "245338",
+        "appleMusic": "245338"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Muzzaik",
+      "title": "Better Days",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1990813",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1678,
+      "mediaIds": {
+        "spotify": "242072",
+        "youtube": "242072",
+        "soundcloud": "242072",
+        "appleMusic": "242072"
+      },
+      "blendGroup": [
+        {
+          "artist": "Muzzaik",
+          "title": "Better Days",
+          "remix": "",
+          "trackId": "1990813"
+        },
+        {
+          "artist": "Route 94 ft. Jess Glynne",
+          "title": "My Love (Acappella)",
+          "remix": "",
+          "trackId": "1990814"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Route 94 ft. Jess Glynne",
+      "title": "My Love (Acappella)",
+      "remix": "",
+      "label": "RINSE",
+      "trackId": "1990814",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "154258",
+        "youtube": "154258",
+        "soundcloud": "154258",
+        "appleMusic": "154258"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Tom Staar",
+      "title": "Higher",
+      "remix": "",
+      "label": "SPRS (SPINNIN')",
+      "trackId": "1990815",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1843,
+      "mediaIds": {
+        "spotify": "232978",
+        "youtube": "232978",
+        "soundcloud": "232978",
+        "appleMusic": "232978"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Sander van Doorn",
+      "title": "Oh, Amazing Bass",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "1990816",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2037,
+      "mediaIds": {
+        "spotify": "255095",
+        "youtube": "255095",
+        "soundcloud": "255095",
+        "appleMusic": "255095"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Thomas Gold & Alex Kenji",
+      "title": "What's Up",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1990817",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2308,
+      "mediaIds": {
+        "spotify": "20712",
+        "youtube": "20712",
+        "appleMusic": "20712"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "427503",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/211256416"
+    }
+  ],
+  "scrapedAt": "2026-04-08T08:32:26.753Z",
+  "scrapeVersion": 2
+}

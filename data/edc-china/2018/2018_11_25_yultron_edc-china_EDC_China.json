@@ -1,0 +1,154 @@
+{
+  "tlId": "jy1m3m9",
+  "dj": "Yultron",
+  "stage": "EDC China",
+  "date": "2018-11-25",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/jy1m3m9/yultron-circuitgrounds-edc-china-guangdong-2018-11-25.html",
+  "djs": [
+    {
+      "name": "Yultron",
+      "slug": "yultron"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Flume ft. Tove Lo",
+      "title": "Say It",
+      "remix": "",
+      "label": "MOM+POP",
+      "trackId": "3741737",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "305187",
+        "youtube": "305187",
+        "soundcloud": "305187",
+        "appleMusic": "305187"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flume ft. Tove Lo",
+          "title": "Say It",
+          "remix": "",
+          "trackId": "3741737"
+        },
+        {
+          "artist": "Hopsteady",
+          "title": "Hear Some",
+          "remix": "",
+          "trackId": "3741738"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hopsteady",
+      "title": "Hear Some",
+      "remix": "",
+      "label": "SKINK",
+      "trackId": "3741738",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "390989",
+        "youtube": "390989",
+        "soundcloud": "390989",
+        "appleMusic": "390989"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "DJ Snake ft. Lauv",
+      "title": "A Different Way (KAYZO Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "3741739",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "393780",
+        "youtube": "393780",
+        "soundcloud": "393780",
+        "appleMusic": "393780"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "SLANDER & Sullivan King",
+      "title": "Welcome To The Fire (YDG Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "3741740",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "429384",
+        "soundcloud": "429384"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "21 Savage",
+      "title": "Red Opps (Brillz & 2SCOOPS Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "3741741",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "367801"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Dr. Ozi ft. MagMag",
+      "title": "HartyHar",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "3741742",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "351673",
+        "youtube": "351673",
+        "soundcloud": "351673",
+        "appleMusic": "351673"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "KAYZO ft. Micah Martin",
+      "title": "Feel The Power (Tisoki Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3741743",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "407309",
+        "soundcloud": "407309"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T15:45:27.469Z",
+  "scrapeVersion": 2
+}

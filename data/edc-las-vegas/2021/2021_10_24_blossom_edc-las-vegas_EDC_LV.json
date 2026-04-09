@@ -1,0 +1,638 @@
+{
+  "tlId": "2jf3tq09",
+  "dj": "Blossom",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-24",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/2jf3tq09/blossom-cosmicmeadow-edc-las-vegas-united-states-2021-10-24.html",
+  "djs": [
+    {
+      "name": "Blossom",
+      "slug": "blossom"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Destructo ft. YG",
+      "title": "Party Up (GTA Remix)",
+      "remix": "",
+      "label": "ALL MY FRIENDS/HITS HARD",
+      "trackId": "6892233",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "205566",
+        "youtube": "205566",
+        "soundcloud": "205566",
+        "appleMusic": "205566"
+      },
+      "blendGroup": [
+        {
+          "artist": "Destructo ft. YG",
+          "title": "Party Up (GTA Remix)",
+          "remix": "",
+          "trackId": "6892233"
+        },
+        {
+          "artist": "NuBass",
+          "title": "Supreme (VIP)",
+          "remix": "",
+          "trackId": "6892268"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "NuBass",
+      "title": "Supreme (VIP)",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "6892268",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 55,
+      "mediaIds": {
+        "spotify": "650373",
+        "youtube": "650373",
+        "soundcloud": "650373",
+        "appleMusic": "650373"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Wax Motif",
+      "title": "Keep Raving (Qlank Remix)",
+      "remix": "",
+      "label": "DIVIDED SOULS",
+      "trackId": "6892234",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 98,
+      "mediaIds": {
+        "spotify": "619962",
+        "youtube": "619962",
+        "appleMusic": "619962"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "MPH & NuBass ft. PVC",
+      "title": "The Night",
+      "remix": "",
+      "label": "SPRS (SPINNIN')",
+      "trackId": "6892235",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 187,
+      "mediaIds": {
+        "spotify": "714927",
+        "youtube": "714927",
+        "soundcloud": "714927",
+        "appleMusic": "714927"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "AC Slater & Bleu Clair ft. Kate Wild",
+      "title": "Green Light (Moksi Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "6892236",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 274,
+      "mediaIds": {
+        "spotify": "724401",
+        "youtube": "724401",
+        "soundcloud": "724401",
+        "appleMusic": "724401"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "WHIPPED CREAM ft. Lil Keed",
+      "title": "I Do The Most (longstoryshort Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "6914425",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 364,
+      "mediaIds": {
+        "spotify": "707398",
+        "soundcloud": "707398",
+        "appleMusic": "707398"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Curbi & Hasse de Moor",
+      "title": "Alcoholic",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "6892237",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 414,
+      "mediaIds": {
+        "spotify": "563813",
+        "youtube": "563813",
+        "soundcloud": "563813",
+        "appleMusic": "563813"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Kanye West ft. Vory",
+      "title": "God Breathed (Ship Wrek Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "6914426",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 472,
+      "mediaIds": {
+        "youtube": "728877",
+        "soundcloud": "728877"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6914427",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Phlegmatic Dogs",
+      "title": "Sandman",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "6892238",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 553,
+      "mediaIds": {
+        "spotify": "714201",
+        "youtube": "714201",
+        "soundcloud": "714201",
+        "appleMusic": "714201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Petey Clicks & Blossom",
+      "title": "Overdrive",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "6892239",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 626,
+      "mediaIds": {
+        "youtube": "594310",
+        "soundcloud": "594310",
+        "appleMusic": "594310"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Matroda & Bleu Clair",
+      "title": "Disco Tool (Taiki Nulight Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6914428",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 729,
+      "mediaIds": {
+        "spotify": "733950",
+        "youtube": "733950",
+        "soundcloud": "733950",
+        "appleMusic": "733950"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Redlight ft. Asabe",
+      "title": "Charge Up",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6914429",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 805,
+      "mediaIds": {
+        "spotify": "500036",
+        "youtube": "500036",
+        "appleMusic": "500036"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Swedish House Mafia",
+      "title": "It Gets Better",
+      "remix": "",
+      "label": "SSA/REPUBLIC",
+      "trackId": "6892240",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 865,
+      "mediaIds": {
+        "spotify": "513628",
+        "youtube": "513628",
+        "soundcloud": "513628",
+        "appleMusic": "513628"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia",
+          "title": "It Gets Better",
+          "remix": "",
+          "trackId": "6892240"
+        },
+        {
+          "artist": "HODA & Eloquin ft. Dread MC",
+          "title": "Kicks",
+          "remix": "",
+          "trackId": "7143073"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "HODA & Eloquin ft. Dread MC",
+      "title": "Kicks",
+      "remix": "",
+      "label": "CRUCAST",
+      "trackId": "7143073",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 877,
+      "mediaIds": {
+        "spotify": "522459",
+        "youtube": "522459",
+        "soundcloud": "522459",
+        "appleMusic": "522459"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Knife Party",
+      "title": "Internet Friends (Ricky West Flip)",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "6914430",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 928,
+      "mediaIds": {
+        "youtube": "372032"
+      },
+      "blendGroup": [
+        {
+          "artist": "Knife Party",
+          "title": "Internet Friends (Ricky West Flip)",
+          "remix": "",
+          "trackId": "6914430"
+        },
+        {
+          "artist": "Zero",
+          "title": "Look At Me Now",
+          "remix": "",
+          "trackId": "6892241"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zero",
+      "title": "Look At Me Now",
+      "remix": "",
+      "label": "BARCODES",
+      "trackId": "6892241",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 958,
+      "mediaIds": {
+        "spotify": "529050",
+        "youtube": "529050",
+        "soundcloud": "529050",
+        "appleMusic": "529050"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6914431",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1018,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6914431"
+        },
+        {
+          "artist": "Kumarion",
+          "title": "Want It (CITYWLKR Remix)",
+          "remix": "",
+          "trackId": "6914432"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kumarion",
+      "title": "Want It (CITYWLKR Remix)",
+      "remix": "",
+      "label": "JADŪ DALA",
+      "trackId": "6914432",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1053,
+      "mediaIds": {
+        "spotify": "631776",
+        "youtube": "631776",
+        "soundcloud": "631776",
+        "appleMusic": "631776"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Philip George",
+      "title": "Wish You Were Mine",
+      "remix": "",
+      "label": "3BEAT/ALL AROUND THE WORLD",
+      "trackId": "6914433",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1093,
+      "mediaIds": {
+        "spotify": "222945",
+        "youtube": "222945",
+        "soundcloud": "222945",
+        "appleMusic": "222945"
+      },
+      "blendGroup": [
+        {
+          "artist": "Philip George",
+          "title": "Wish You Were Mine",
+          "remix": "",
+          "trackId": "6914433"
+        },
+        {
+          "artist": "JOYRYDE",
+          "title": "MADDEN",
+          "remix": "",
+          "trackId": "6914434"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JOYRYDE",
+      "title": "MADDEN",
+      "remix": "",
+      "label": "HARD RECS (INSOMNIAC)",
+      "trackId": "6914434",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 1129,
+      "mediaIds": {
+        "spotify": "516845",
+        "youtube": "516845",
+        "soundcloud": "516845",
+        "appleMusic": "516845"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6914435",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6914436",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1266,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Blossom",
+      "title": "Far Away",
+      "remix": "",
+      "label": "BITE THIS!",
+      "trackId": "6914437",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1335,
+      "mediaIds": {
+        "spotify": "577868",
+        "youtube": "577868",
+        "soundcloud": "577868",
+        "appleMusic": "577868"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Soulja Boy ft. Sammie",
+      "title": "Kiss Me Thru The Phone (NITTI & San Holo On Guitar Remix)",
+      "remix": "",
+      "label": "STACKS ON DECK",
+      "trackId": "6914438",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1443,
+      "mediaIds": {
+        "youtube": "693294"
+      },
+      "blendGroup": [
+        {
+          "artist": "Soulja Boy ft. Sammie",
+          "title": "Kiss Me Thru The Phone (NITTI & San Holo On Guitar Remix)",
+          "remix": "",
+          "trackId": "6914438"
+        },
+        {
+          "artist": "Zero",
+          "title": "Reeces Pieces",
+          "remix": "",
+          "trackId": "6914439"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zero",
+      "title": "Reeces Pieces",
+      "remix": "",
+      "label": "CRUCAST",
+      "trackId": "6914439",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 1472,
+      "mediaIds": {
+        "spotify": "683885",
+        "youtube": "683885",
+        "soundcloud": "683885",
+        "appleMusic": "683885"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Junior Senior",
+      "title": "Move Your Feet (dlln Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "6914440",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1534,
+      "mediaIds": {
+        "youtube": "752218",
+        "soundcloud": "752218"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Gangbang",
+      "title": "Supersonic",
+      "remix": "",
+      "label": "",
+      "trackId": "6914441",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1596,
+      "mediaIds": {
+        "spotify": "736487",
+        "youtube": "736487",
+        "appleMusic": "736487"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Blossom ft. Bella Renee",
+      "title": "Complicated",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "6914442",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1710,
+      "mediaIds": {
+        "spotify": "623908",
+        "youtube": "623908",
+        "soundcloud": "623908",
+        "appleMusic": "623908"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6914443",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1771,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "NuBass & Deppz",
+      "title": "Knock Knock",
+      "remix": "",
+      "label": "BARCODES",
+      "trackId": "6914444",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 1844,
+      "mediaIds": {
+        "spotify": "698771",
+        "youtube": "698771",
+        "soundcloud": "698771",
+        "appleMusic": "698771"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "ACRAZE ft. Cherish",
+      "title": "Do It To It",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "6892242",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2750,
+      "mediaIds": {
+        "spotify": "702547",
+        "youtube": "702547",
+        "soundcloud": "702547",
+        "appleMusic": "702547"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2549525",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=OLuIUWGf378"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:17:20.064Z",
+  "scrapeVersion": 2
+}

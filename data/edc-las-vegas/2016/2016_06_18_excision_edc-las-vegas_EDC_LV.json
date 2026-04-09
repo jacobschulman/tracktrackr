@@ -1,0 +1,683 @@
+{
+  "tlId": "d6qzvd9",
+  "dj": "Excision",
+  "stage": "EDC Las Vegas",
+  "date": "2016-06-18",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/d6qzvd9/excision-basspod-edc-las-vegas-united-states-2016-06-18.html",
+  "djs": [
+    {
+      "name": "Excision",
+      "slug": "excision"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "WAVEDASH",
+      "title": "Bang",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2120684",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "292925",
+        "youtube": "292925",
+        "soundcloud": "292925",
+        "appleMusic": "292925"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "BARELY ALIVE",
+      "title": "Poison Dart",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "2120685",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "274154",
+        "youtube": "274154",
+        "soundcloud": "274154",
+        "appleMusic": "274154"
+      },
+      "blendGroup": [
+        {
+          "artist": "BARELY ALIVE",
+          "title": "Poison Dart",
+          "remix": "",
+          "trackId": "2120685"
+        },
+        {
+          "artist": "MAKJ & Lil Jon",
+          "title": "Let's Get F*cked Up (Acappella)",
+          "remix": "",
+          "trackId": "2120890"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MAKJ & Lil Jon",
+      "title": "Let's Get F*cked Up (Acappella)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "2120890",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "181650",
+        "youtube": "178981",
+        "soundcloud": "178981",
+        "appleMusic": "181650"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Doctor Dubplate",
+      "title": "Pupper",
+      "remix": "",
+      "label": "",
+      "trackId": "2853829",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 112,
+      "mediaIds": {
+        "youtube": "2853829"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Zomboy",
+      "title": "Invaders",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "2120687",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "323367",
+        "youtube": "323367",
+        "soundcloud": "323367",
+        "appleMusic": "323367"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Lookas & Crankdat",
+      "title": "Game Over",
+      "remix": "",
+      "label": "LOKO",
+      "trackId": "2120688",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "292916",
+        "youtube": "292916",
+        "soundcloud": "292916",
+        "appleMusic": "292916"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Torro Torro",
+      "title": "Make A Move (Wild Boyz! Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2120689",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "315070",
+        "soundcloud": "315070"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "JAUZ x Ghastly",
+      "title": "Ghosts N' Sharks",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2120690",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "276815",
+        "soundcloud": "276815"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Mantis",
+      "title": "BATman",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2120691",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "328185",
+        "youtube": "328185",
+        "soundcloud": "328185",
+        "appleMusic": "328185"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Wiwek & Skrillex ft. Eliphant",
+      "title": "Killa",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2120692",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "273380",
+        "youtube": "273380",
+        "soundcloud": "273380",
+        "appleMusic": "273380"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wiwek & Skrillex ft. Eliphant",
+          "title": "Killa",
+          "remix": "",
+          "trackId": "2120692"
+        },
+        {
+          "artist": "Oliverse",
+          "title": "Wormholes",
+          "remix": "",
+          "trackId": "2120693"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Oliverse",
+      "title": "Wormholes",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2120693",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "314294",
+        "youtube": "314294",
+        "soundcloud": "314294"
+      },
+      "blendGroup": [
+        {
+          "artist": "Oliverse",
+          "title": "Wormholes",
+          "remix": "",
+          "trackId": "2120693"
+        },
+        {
+          "artist": "Excision & Datsik",
+          "title": "Swagga",
+          "remix": "",
+          "trackId": "2120927"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Datsik",
+      "title": "Swagga",
+      "remix": "",
+      "label": "EX7",
+      "trackId": "2120927",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20955",
+        "youtube": "20955",
+        "soundcloud": "20955",
+        "appleMusic": "20955"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "YOGI ft. Pusha T",
+      "title": "Burial (Skrillex & TrollPhace VIP Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2120694",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Excision & Dion Timmer",
+      "title": "Mirror",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2120695",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "331903",
+        "youtube": "331903",
+        "soundcloud": "331903",
+        "appleMusic": "331903"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Excision",
+      "title": "Codename X (Virtual Riot Remix)",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2120697",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "293776",
+        "youtube": "293776",
+        "soundcloud": "293776",
+        "appleMusic": "293776"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Excision & Dion Timmer",
+      "title": "Final Boss",
+      "remix": "",
+      "label": "ROTTUN/FREE",
+      "trackId": "2120698",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "311043",
+        "youtube": "311043",
+        "soundcloud": "311043",
+        "appleMusic": "311043"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Zomboy",
+      "title": "Lights Out",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "2120699",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "298545",
+        "youtube": "298545",
+        "soundcloud": "298545",
+        "appleMusic": "298545"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Flux Pavilion & Doctor P ft. Jarren Benton",
+      "title": "Party Drink Smoke",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "2120700",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "306288",
+        "youtube": "306288",
+        "soundcloud": "306288",
+        "appleMusic": "306288"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "BARELY ALIVE",
+      "title": "Scoop (Mayhem & Antiserum Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "2120701",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "303103",
+        "youtube": "303103",
+        "soundcloud": "303103",
+        "appleMusic": "303103"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Rusko",
+      "title": "Woo Boost",
+      "remix": "",
+      "label": "DIGITAL SOUNDBOY",
+      "trackId": "2120702",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20827",
+        "youtube": "20827",
+        "soundcloud": "20827",
+        "appleMusic": "20827"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rusko",
+          "title": "Woo Boost",
+          "remix": "",
+          "trackId": "2120702"
+        },
+        {
+          "artist": "Carbin",
+          "title": "Rukkus",
+          "remix": "",
+          "trackId": "2120928"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Carbin",
+      "title": "Rukkus",
+      "remix": "",
+      "label": "ELECTROSTEP",
+      "trackId": "2120928",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "322284",
+        "soundcloud": "322284"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Band Of Horses",
+      "title": "The Funeral (Excision Remix)",
+      "remix": "",
+      "label": "SUB POP",
+      "trackId": "2120703",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "252076",
+        "youtube": "252076",
+        "soundcloud": "252076",
+        "appleMusic": "252076"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Slippy x Mihka!",
+      "title": "WiFi Tears",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "2120704",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "308708",
+        "youtube": "308708",
+        "soundcloud": "308708",
+        "appleMusic": "308708"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Dirty Zblu & Tambour Battant ft. Deejay Skillz",
+      "title": "Fresh (BASSTRICK Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "2120705",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "314383",
+        "youtube": "314383",
+        "appleMusic": "314383"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Phiso",
+      "title": "Jotaro",
+      "remix": "",
+      "label": "SMOG",
+      "trackId": "2120706",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "259838",
+        "youtube": "259838",
+        "soundcloud": "259838",
+        "appleMusic": "259838"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Excision & Downlink",
+      "title": "Robo Kitty",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2120707",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "212975",
+        "youtube": "212975",
+        "soundcloud": "212975",
+        "appleMusic": "212975"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Bear Grillz",
+      "title": "Fuck Bitches Get Honey",
+      "remix": "",
+      "label": "FIREPOWER",
+      "trackId": "2120709",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "309396",
+        "youtube": "309396",
+        "appleMusic": "309396"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Excision & Space Laces",
+      "title": "Throwin' Elbows",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2127800",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "320314",
+        "youtube": "320314",
+        "soundcloud": "320314",
+        "appleMusic": "320314"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Pegboard Nerds ft. Tia Simone",
+      "title": "Heartbit (Sikdope Remix)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "2120713",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "306032",
+        "youtube": "306032",
+        "soundcloud": "306032",
+        "appleMusic": "306032"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "DJ Fresh & Diplo ft. Dominique Young Unique",
+      "title": "Earthquake (Excision & The Frim Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2120714",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "305153",
+        "soundcloud": "305153"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Excision & Pegboard Nerds ft. Mayor Apeshit",
+      "title": "Bring The Madness",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "2120715",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "212969",
+        "youtube": "212969",
+        "soundcloud": "212969",
+        "appleMusic": "212969"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Downlink",
+      "title": "Bass War",
+      "remix": "",
+      "label": "UPLINK AUDIO",
+      "trackId": "2120716",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "321506",
+        "youtube": "321506",
+        "soundcloud": "321506",
+        "appleMusic": "321506"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Excision",
+      "title": "Rave Thing",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2120717",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "282895",
+        "youtube": "282895",
+        "soundcloud": "282895",
+        "appleMusic": "282895"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Excision",
+      "title": "Codename X",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2120718",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "238571",
+        "youtube": "238571",
+        "soundcloud": "238571",
+        "appleMusic": "238571"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Excision & The Frim ft. Luciana",
+      "title": "Night Shine (Bear Grillz Remix)",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2120719",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "262928",
+        "youtube": "262928",
+        "soundcloud": "262928",
+        "appleMusic": "262928"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T08:03:16.057Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,743 @@
+{
+  "tlId": "28vltb69",
+  "dj": "Bizarrap",
+  "stage": "EDC Mexico",
+  "date": "2020-02-29",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/28vltb69/bizarrap-dos-equis-stage-edc-mexico-2020-02-29.html",
+  "djs": [
+    {
+      "name": "Bizarrap",
+      "slug": "bizarrap"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Queen",
+      "title": "We Will Rock You (Bizarrap Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "4730801",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 33,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Luis Miguel",
+      "title": "Ahora Te Puedes Marchar",
+      "remix": "",
+      "label": "",
+      "trackId": "4730802",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 88,
+      "mediaIds": {
+        "spotify": "560397",
+        "youtube": "560397",
+        "appleMusic": "560397"
+      },
+      "blendGroup": [
+        {
+          "artist": "Luis Miguel",
+          "title": "Ahora Te Puedes Marchar",
+          "remix": "",
+          "trackId": "4730802"
+        },
+        {
+          "artist": "Ape Drums ft. Denzel Curry & Frizzo",
+          "title": "Shellz",
+          "remix": "",
+          "trackId": "4730803"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ape Drums ft. Denzel Curry & Frizzo",
+      "title": "Shellz",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "4730803",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 127,
+      "mediaIds": {
+        "spotify": "421508",
+        "youtube": "421508",
+        "soundcloud": "421508",
+        "appleMusic": "421508"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Bizarrap & John C",
+      "title": "John C: BZRP Music Sessions #18",
+      "remix": "",
+      "label": "DALE PLAY",
+      "trackId": "13644164",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 162,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Bizarrap & John C",
+          "title": "John C: BZRP Music Sessions #18",
+          "remix": "",
+          "trackId": "13644164"
+        },
+        {
+          "artist": "Swaidy",
+          "title": "Run It",
+          "remix": "",
+          "trackId": "4730804"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swaidy",
+      "title": "Run It",
+      "remix": "",
+      "label": "",
+      "trackId": "4730804",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 202,
+      "mediaIds": null
+    },
+    {
+      "pos": "04",
+      "artist": "John C",
+      "title": "C90",
+      "remix": "",
+      "label": "",
+      "trackId": "4730805",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 210,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "John C",
+          "title": "C90",
+          "remix": "",
+          "trackId": "4730805"
+        },
+        {
+          "artist": "Loge21",
+          "title": "Drop That",
+          "remix": "",
+          "trackId": "4730806"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Loge21",
+      "title": "Drop That",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "4730806",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 308,
+      "mediaIds": {
+        "spotify": "306208",
+        "youtube": "306208",
+        "soundcloud": "306208",
+        "appleMusic": "306208"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Bizarrap & Pekeño 77",
+      "title": "Pekeño 77: Bzrp Music Sessions, Vol. 5",
+      "remix": "",
+      "label": "",
+      "trackId": "4730807",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 371,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Bizarrap & Pekeño 77",
+          "title": "Pekeño 77: Bzrp Music Sessions, Vol. 5",
+          "remix": "",
+          "trackId": "4730807"
+        },
+        {
+          "artist": "Flosstradamus & 4B",
+          "title": "Blackout",
+          "remix": "",
+          "trackId": "4730808"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flosstradamus & 4B",
+      "title": "Blackout",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "4730808",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 463,
+      "mediaIds": {
+        "spotify": "501849",
+        "youtube": "501849",
+        "soundcloud": "501849",
+        "appleMusic": "501849"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Trueno & Nicki Nicole & Bizarrap",
+      "title": "Trueno: Bzrp Music Sessions, Vol. 16",
+      "remix": "",
+      "label": "",
+      "trackId": "4730809",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 505,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Bizarrap & Alemán",
+      "title": "Alemán: Bzrp Music Sessions, Vol. 15",
+      "remix": "",
+      "label": "",
+      "trackId": "4730810",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 583,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Bizarrap & Alemán",
+          "title": "Alemán: Bzrp Music Sessions, Vol. 15",
+          "remix": "",
+          "trackId": "4730810"
+        },
+        {
+          "artist": "Timmy Trumpet ft. Savage",
+          "title": "Freaks",
+          "remix": "",
+          "trackId": "4730811"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Timmy Trumpet ft. Savage",
+      "title": "Freaks",
+      "remix": "",
+      "label": "HUSSLE",
+      "trackId": "4730811",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 708,
+      "mediaIds": {
+        "spotify": "184086",
+        "youtube": "184086",
+        "soundcloud": "184086",
+        "appleMusic": "184086"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "DJ KBZ@ & AxelCaram",
+      "title": "Veneno De Serpiente (Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "4730812",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 760,
+      "mediaIds": {
+        "spotify": "575009",
+        "soundcloud": "575009"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Karol G ft. Nicki Minaj",
+      "title": "Tusa",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "4730813",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 852,
+      "mediaIds": {
+        "spotify": "557213",
+        "youtube": "557213",
+        "soundcloud": "557213",
+        "appleMusic": "557213"
+      },
+      "blendGroup": [
+        {
+          "artist": "Karol G ft. Nicki Minaj",
+          "title": "Tusa",
+          "remix": "",
+          "trackId": "4730813"
+        },
+        {
+          "artist": "El Dipy & El Nikko DJ & Emus DJ",
+          "title": "Par-Tusa (Remix)",
+          "remix": "",
+          "trackId": "4730814"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "El Dipy & El Nikko DJ & Emus DJ",
+      "title": "Par-Tusa (Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "4730814",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 858,
+      "mediaIds": null
+    },
+    {
+      "pos": "10",
+      "artist": "City Lights & GKS",
+      "title": "Chiquitita",
+      "remix": "",
+      "label": "",
+      "trackId": "4730815",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1015,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "ROSALÍA & J Balvin ft. El Guincho",
+      "title": "Con Altura (Maxvll Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "4730816",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1063,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "DJ Snake ft. Cardi B & Selena Gomez & Ozuna",
+      "title": "Taki Taki (ETC!ETC! Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "4730818",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1210,
+      "mediaIds": {
+        "youtube": "479519",
+        "soundcloud": "479519",
+        "appleMusic": "479519"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Bizarrap & Dillom",
+      "title": "BZRP Music Sessions #9",
+      "remix": "",
+      "label": "DALE PLAY",
+      "trackId": "4730819",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1369,
+      "mediaIds": {
+        "spotify": "781316",
+        "youtube": "781316",
+        "soundcloud": "781316",
+        "appleMusic": "781316"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Bizarrap & Frijo",
+      "title": "BZRP Music Sessions #10",
+      "remix": "",
+      "label": "DALE PLAY",
+      "trackId": "4730820",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1456,
+      "mediaIds": {
+        "spotify": "781317",
+        "soundcloud": "781317",
+        "appleMusic": "781317"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bizarrap & Frijo",
+          "title": "BZRP Music Sessions #10",
+          "remix": "",
+          "trackId": "4730820"
+        },
+        {
+          "artist": "Skrillex & Kill The Noise ft. Fatman Scoop & Michael Angelakos",
+          "title": "Recess",
+          "remix": "",
+          "trackId": "4730821"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Kill The Noise ft. Fatman Scoop & Michael Angelakos",
+      "title": "Recess",
+      "remix": "",
+      "label": "OWSLA/BIG BEAT",
+      "trackId": "4730821",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 1514,
+      "mediaIds": {
+        "spotify": "183004",
+        "youtube": "183004",
+        "soundcloud": "183004",
+        "appleMusic": "183004"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Daddy Yankee ft. Snow",
+      "title": "Con Calma",
+      "remix": "",
+      "label": "EL CARTEL",
+      "trackId": "4730822",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1628,
+      "mediaIds": {
+        "spotify": "473715",
+        "youtube": "473715",
+        "soundcloud": "473715",
+        "appleMusic": "473715"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "J Balvin vs. Angel & Khriz",
+      "title": "Mi Gente vs. Ven Bailalo (Sergio Cid Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "4730823",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1682,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "J Balvin vs. Angel & Khriz",
+          "title": "Mi Gente vs. Ven Bailalo (Sergio Cid Mashup)",
+          "remix": "",
+          "trackId": "4730823"
+        },
+        {
+          "artist": "Kanye West & Lil Pump ft. Adele Givens",
+          "title": "I Love It",
+          "remix": "(Acappella)",
+          "trackId": "4730824"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kanye West & Lil Pump ft. Adele Givens",
+      "title": "I Love It",
+      "remix": "(Acappella)",
+      "label": "GETTING OUT OUR DREAMS",
+      "trackId": "4730824",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 1688,
+      "mediaIds": {
+        "spotify": "443369",
+        "youtube": "443369",
+        "soundcloud": "443369",
+        "appleMusic": "443369"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Daddy Yankee",
+      "title": "Gasolina",
+      "remix": "",
+      "label": "EL CARTEL",
+      "trackId": "4730825",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1759,
+      "mediaIds": {
+        "spotify": "153585",
+        "youtube": "153585",
+        "soundcloud": "153585",
+        "appleMusic": "153585"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daddy Yankee",
+          "title": "Gasolina",
+          "remix": "",
+          "trackId": "4730825"
+        },
+        {
+          "artist": "Daddy Yankee",
+          "title": "Gasolina (Blasterjaxx Remix)",
+          "remix": "",
+          "trackId": "4778244"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daddy Yankee",
+      "title": "Gasolina (Blasterjaxx Remix)",
+      "remix": "",
+      "label": "MAXXIMIZE (SPINNIN')",
+      "trackId": "4778244",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1778,
+      "mediaIds": {
+        "youtube": "316746",
+        "soundcloud": "316746"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daddy Yankee",
+          "title": "Gasolina (Blasterjaxx Remix)",
+          "remix": "",
+          "trackId": "4778244"
+        },
+        {
+          "artist": "DJ Snake ft. Lil Jon",
+          "title": "Turn Down For What",
+          "remix": "",
+          "trackId": "4730826"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Snake ft. Lil Jon",
+      "title": "Turn Down For What",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "4730826",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1802,
+      "mediaIds": {
+        "spotify": "150606",
+        "youtube": "150606",
+        "soundcloud": "150606",
+        "appleMusic": "150606"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Bad Bunny ft. Drake",
+      "title": "MIA",
+      "remix": "",
+      "label": "RIMAS/OVO",
+      "trackId": "4730827",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1819,
+      "mediaIds": {
+        "spotify": "448701",
+        "youtube": "448701",
+        "soundcloud": "448701",
+        "appleMusic": "448701"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Alemán",
+      "title": "Rucón",
+      "remix": "(Edit)",
+      "label": "",
+      "trackId": "4730828",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1934,
+      "mediaIds": {
+        "spotify": "495357",
+        "youtube": "495357",
+        "soundcloud": "495357"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Kiddo Toto & Cieloazul",
+      "title": "Two 1 Two (VIP)",
+      "remix": "",
+      "label": "",
+      "trackId": "4730829",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2386,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Supermerk2",
+      "title": "La Resaka (Control Freak Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4730830",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2638,
+      "mediaIds": {
+        "youtube": "547607",
+        "soundcloud": "547607"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Bizarrap & Nicki Nicole",
+      "title": "BZRP Music Sessions #13",
+      "remix": "",
+      "label": "DALE PLAY",
+      "trackId": "4730831",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2823,
+      "mediaIds": {
+        "spotify": "781320",
+        "youtube": "781320",
+        "soundcloud": "781320",
+        "appleMusic": "781320"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bizarrap & Nicki Nicole",
+          "title": "BZRP Music Sessions #13",
+          "remix": "",
+          "trackId": "4730831"
+        },
+        {
+          "artist": "HEKLER ft. Sam King",
+          "title": "Get Loose",
+          "remix": "",
+          "trackId": "4730832"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "HEKLER ft. Sam King",
+      "title": "Get Loose",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "4730832",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 2920,
+      "mediaIds": {
+        "spotify": "492977",
+        "youtube": "492977",
+        "soundcloud": "492977",
+        "appleMusic": "492977"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Duki ft. Khea",
+      "title": "She Don't Give A FO (Afterfab & Bizarrap Remix)",
+      "remix": "",
+      "label": "DALE PLAY",
+      "trackId": "4730833",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2970,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "The Chainsmokers ft. Daya",
+      "title": "Don't Let Me Down (ILLENIUM Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4730834",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3240,
+      "mediaIds": {
+        "spotify": "301678",
+        "youtube": "301678",
+        "soundcloud": "301678",
+        "appleMusic": "301678"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers ft. Daya",
+          "title": "Don't Let Me Down (ILLENIUM Remix)",
+          "remix": "",
+          "trackId": "4730834"
+        },
+        {
+          "artist": "Paulo Londa",
+          "title": "Adán & Eva",
+          "remix": "(Acappella)",
+          "trackId": "4730835"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Paulo Londa",
+      "title": "Adán & Eva",
+      "remix": "(Acappella)",
+      "label": "",
+      "trackId": "4730835",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 3246,
+      "mediaIds": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "4740245",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/luis-"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:51:39.405Z",
+  "scrapeVersion": 2
+}

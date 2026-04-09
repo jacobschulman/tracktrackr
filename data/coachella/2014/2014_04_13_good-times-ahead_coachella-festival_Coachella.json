@@ -1,0 +1,694 @@
+{
+  "tlId": "126tdck",
+  "dj": "Good Times Ahead",
+  "stage": "Coachella Festival",
+  "date": "2014-04-13",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/126tdck/good-times-ahead-sahara-tent-coachella-festival-united-states-2014-04-13.html",
+  "djs": [
+    {
+      "name": "Good Times Ahead",
+      "slug": "goodtimesahead"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Robbie Robertson feat. Matthew McConaughey",
+      "title": "The Money Chant (Wolf Of Wall Street OST)",
+      "remix": "",
+      "label": "",
+      "trackId": "4983033",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "210519"
+      },
+      "blendGroup": [
+        {
+          "artist": "Robbie Robertson feat. Matthew McConaughey",
+          "title": "The Money Chant (Wolf Of Wall Street OST)",
+          "remix": "",
+          "trackId": "4983033"
+        },
+        {
+          "artist": "GTA",
+          "title": "Up In The Club Intro",
+          "remix": "",
+          "trackId": "858662"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GTA",
+      "title": "Up In The Club Intro",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "858662",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 70,
+      "mediaIds": {
+        "youtube": "117702"
+      },
+      "blendGroup": [
+        {
+          "artist": "GTA",
+          "title": "Up In The Club Intro",
+          "remix": "",
+          "trackId": "858662"
+        },
+        {
+          "artist": "GTA",
+          "title": "The Crowd",
+          "remix": "",
+          "trackId": "858663"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GTA",
+      "title": "The Crowd",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "858663",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 93,
+      "mediaIds": {
+        "spotify": "117710",
+        "youtube": "117710",
+        "soundcloud": "117710",
+        "appleMusic": "117710"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "DJ MERCER & DJ Snake",
+      "title": "Lunatic",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "858664",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 184,
+      "mediaIds": {
+        "spotify": "171632",
+        "youtube": "171632",
+        "soundcloud": "171632",
+        "appleMusic": "171632"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Sidney Samson",
+      "title": "Trojan(Co-Prod. by Martin Garrix)",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "858665",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 334,
+      "mediaIds": {
+        "spotify": "126391",
+        "youtube": "126391",
+        "soundcloud": "126391",
+        "appleMusic": "126391"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "4B",
+      "title": "Bomboclat",
+      "remix": "",
+      "label": "MAIN COURSE",
+      "trackId": "858666",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 366,
+      "mediaIds": {
+        "spotify": "157651",
+        "youtube": "157651",
+        "soundcloud": "157651"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Diplo & Phat Deuce",
+      "title": "Bumpin",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "858667",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 450,
+      "mediaIds": {
+        "youtube": "195613",
+        "soundcloud": "195613"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "DJ Snake vs. Junior Senior & GTA",
+      "title": "Move Your Bolas (GTA Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "858668",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 524,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "AutoErotique",
+      "title": "LZR Bass (Ape Drums Remix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "858670",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 644,
+      "mediaIds": {
+        "spotify": "176584",
+        "youtube": "176584",
+        "soundcloud": "176584",
+        "appleMusic": "176584"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "BajoFondo & GTA vs. Green Velvet & Nicky Romero",
+      "title": "Pide Piso Flash (Shreysaab Partystarter Edit)",
+      "remix": "",
+      "label": "RELIEF/MASTERWORKS",
+      "trackId": "858671",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 711,
+      "mediaIds": {
+        "soundcloud": "188240"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "GTA & Astronomar",
+      "title": "Heavy Thunder",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "858672",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 785,
+      "mediaIds": {
+        "soundcloud": "261230"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Icona Pop",
+      "title": "All Night (Crookers Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "858673",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 889,
+      "mediaIds": {
+        "youtube": "188243"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Steve Aoki & Diplo & Deorro ft. Steve Bays",
+      "title": "Freak",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "858674",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 990,
+      "mediaIds": {
+        "spotify": "148985",
+        "youtube": "148985",
+        "soundcloud": "148985",
+        "appleMusic": "148985"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Ace Hood & Future vs. JWLS",
+      "title": "Bugatti Is Bored VIII (Crizzly Mashup)",
+      "remix": "",
+      "label": "CASH MONEY/FREE",
+      "trackId": "858675",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1095,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Juyen Sebulba",
+      "title": "Superjam",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "859058",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1243,
+      "mediaIds": {
+        "spotify": "133312",
+        "youtube": "133312",
+        "soundcloud": "133312",
+        "appleMusic": "133312"
+      },
+      "blendGroup": [
+        {
+          "artist": "Juyen Sebulba",
+          "title": "Superjam",
+          "remix": "",
+          "trackId": "859058"
+        },
+        {
+          "artist": "GTA",
+          "title": "Moruga",
+          "remix": "",
+          "trackId": "858676"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GTA",
+      "title": "Moruga",
+      "remix": "",
+      "label": "THREE SIX ZERO",
+      "trackId": "858676",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 1245,
+      "mediaIds": {
+        "spotify": "179365",
+        "youtube": "179365",
+        "soundcloud": "179365",
+        "appleMusic": "179365"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Major Lazer ft. Busy Signal & The Flexican & FS Green",
+      "title": "Watch Out For This (Bumaye) (Julian Calor Ambushin Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "858677",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1314,
+      "mediaIds": {
+        "youtube": "145423",
+        "soundcloud": "145423"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "GTA",
+      "title": "Shake Dem",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "858678",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1462,
+      "mediaIds": {
+        "spotify": "96889",
+        "youtube": "96889",
+        "soundcloud": "96889",
+        "appleMusic": "96889"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Steve Aoki & Chris Lake & Tujamo vs. Fatboy Slim",
+      "title": "Boneless 69 (GTA Mashup)",
+      "remix": "",
+      "label": "SKINT/DIM MAK/ULTRA",
+      "trackId": "858679",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1544,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "System Of A Down vs. Gregor Salto & Wiwek",
+      "title": "On Your Mark Chop Suey! (Rodrigo Cheeseball Edit)",
+      "remix": "",
+      "label": "SONY BMG/G-REX",
+      "trackId": "893639",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1617,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "As Tequileiras Do Funk & DJ Gasparzinho",
+      "title": "Surra De Bunda (Gregor Salto & Sidney Samson Remix)",
+      "remix": "",
+      "label": "G-REX",
+      "trackId": "858682",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1794,
+      "mediaIds": {
+        "spotify": "187333",
+        "soundcloud": "187333",
+        "appleMusic": "187333"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Empire Of The Sun & Zedd vs. Kylie Minogue & GTA",
+      "title": "Skirt Came Alive (Clockwork Smashup)",
+      "remix": "",
+      "label": "CAPITOL (EMI)/RISING",
+      "trackId": "858684",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1860,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "GTA & Juyen Sebulba",
+      "title": "Hard House",
+      "remix": "",
+      "label": "THREE SIX ZERO/WARNER BROS.",
+      "trackId": "858685",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1979,
+      "mediaIds": {
+        "spotify": "157657",
+        "youtube": "157657",
+        "soundcloud": "157657",
+        "appleMusic": "157657"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "2 Chainz ft. Cap 1",
+      "title": "Where U Been?",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "858686",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2066,
+      "mediaIds": {
+        "spotify": "156325",
+        "youtube": "156325",
+        "soundcloud": "156325",
+        "appleMusic": "156325"
+      },
+      "blendGroup": [
+        {
+          "artist": "2 Chainz ft. Cap 1",
+          "title": "Where U Been?",
+          "remix": "",
+          "trackId": "858686"
+        },
+        {
+          "artist": "Dream",
+          "title": "Go Hard (Crizzly Remix)",
+          "remix": "",
+          "trackId": "858687"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dream",
+      "title": "Go Hard (Crizzly Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "858687",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 2133,
+      "mediaIds": {
+        "youtube": "102955",
+        "soundcloud": "102955"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Rich Boy",
+      "title": "Throw Some D's (Miles Medina Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "858688",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2217,
+      "mediaIds": {
+        "youtube": "179368"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Flosstradamus ft. Casino",
+      "title": "Mosh Pit",
+      "remix": "",
+      "label": "FOOL'S GOLD/ULTRA",
+      "trackId": "858689",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2260,
+      "mediaIds": {
+        "spotify": "168819",
+        "youtube": "168819",
+        "soundcloud": "168819",
+        "appleMusic": "168819"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Beyoncé ft. JAY Z",
+      "title": "Drunk In Love",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "858690",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2355,
+      "mediaIds": {
+        "spotify": "176638",
+        "youtube": "176638",
+        "appleMusic": "176638"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "RL Grime & What So Not",
+      "title": "Tell Me",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "858691",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2484,
+      "mediaIds": {
+        "spotify": "179065",
+        "youtube": "179065",
+        "soundcloud": "179065",
+        "appleMusic": "179065"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "M.I.A.",
+      "title": "Y.A.L.A.(Prod. by The Partysquad) (Bro Safari & Valentino Khan Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "858692",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2533,
+      "mediaIds": {
+        "youtube": "180867",
+        "soundcloud": "180867"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Skrillex ft. Niki & The Dove",
+      "title": "Ease My Mind (GTA Bootleg)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "858693",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2618,
+      "mediaIds": {
+        "spotify": "186191",
+        "youtube": "186191",
+        "soundcloud": "186191",
+        "appleMusic": "186191"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "GTA & Diplo",
+      "title": "Boy Oh Boy",
+      "remix": "",
+      "label": "MAD DECENT/FREE",
+      "trackId": "858694",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2793,
+      "mediaIds": {
+        "spotify": "117721",
+        "youtube": "117721",
+        "soundcloud": "117721",
+        "appleMusic": "117721"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "GTA & Diplo",
+      "title": "Boy Oh Boy (TWRK Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "858695",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2940,
+      "mediaIds": {
+        "youtube": "174801",
+        "soundcloud": "174801"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Eazy-E",
+      "title": "Boyz-n-the-Hood",
+      "remix": "",
+      "label": "RUTHLESS",
+      "trackId": "858696",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2984,
+      "mediaIds": {
+        "spotify": "209254",
+        "youtube": "209254",
+        "soundcloud": "209254",
+        "appleMusic": "209254"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Bro Safari & ETC!ETC!",
+      "title": "Suspects",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "858701",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3051,
+      "mediaIds": {
+        "youtube": "90639",
+        "soundcloud": "90639"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Yellow Claw",
+      "title": "DJ Turn It Up",
+      "remix": "",
+      "label": "JEFFREE'S (MAD DECENT)",
+      "trackId": "858702",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 3078,
+      "mediaIds": {
+        "spotify": "150544",
+        "youtube": "150544",
+        "soundcloud": "150544",
+        "appleMusic": "150544"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Iggy Azalea ft. Charli xcx",
+      "title": "Fancy (GTA Remix)",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "858703",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 3145,
+      "mediaIds": {
+        "spotify": "188245",
+        "youtube": "188245",
+        "soundcloud": "188245"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Proxy",
+      "title": "Raven (Crookers Remix / GTA UMF Bootleg)",
+      "remix": "",
+      "label": "TURBO",
+      "trackId": "858704",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3233,
+      "mediaIds": {
+        "soundcloud": "188246"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T04:58:19.157Z",
+  "scrapeVersion": 2
+}

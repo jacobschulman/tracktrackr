@@ -1,0 +1,308 @@
+{
+  "tlId": "tbl0s49",
+  "dj": "W&W",
+  "stage": "EDC Mexico",
+  "date": "2019-02-24",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/tbl0s49/wandw-kineticfield-edc-mexico-2019-02-24.html",
+  "djs": [
+    {
+      "name": "W&W",
+      "slug": "wandw"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "NWYR vs. Linkin Park",
+      "title": "Voltage vs. Numb (JETFIRE Mashup)",
+      "remix": "",
+      "label": "WARNER BROS./NWYR",
+      "trackId": "3944821",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "NWYR vs. Tiësto & Dzeko & Preme & Post Malone",
+      "title": "Dragon vs. Jackie Chan (W&W Mashup)",
+      "remix": "",
+      "label": "NWYR/UMG/MUSICAL FREEDOM",
+      "trackId": "3944822",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 120,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "NWYR",
+      "title": "Artificial Intelligence",
+      "remix": "",
+      "label": "NWYR",
+      "trackId": "3944823",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": {
+        "spotify": "491544",
+        "youtube": "491544",
+        "soundcloud": "491544",
+        "appleMusic": "491544"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Planet Perfecto Knights",
+      "title": "ResuRection (Maurice West Remix)",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "3944824",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 405,
+      "mediaIds": {
+        "spotify": "475603",
+        "youtube": "475603",
+        "soundcloud": "475603",
+        "appleMusic": "475603"
+      },
+      "blendGroup": [
+        {
+          "artist": "Planet Perfecto Knights",
+          "title": "ResuRection (Maurice West Remix)",
+          "remix": "",
+          "trackId": "3944824"
+        },
+        {
+          "artist": "Bingo Players",
+          "title": "Buzzcut (1, 2, 3, Go Acappella)",
+          "remix": "",
+          "trackId": "3944825"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bingo Players",
+      "title": "Buzzcut (1, 2, 3, Go Acappella)",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "3944825",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "133153",
+        "youtube": "141910",
+        "soundcloud": "133153",
+        "appleMusic": "133153"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Avicii",
+      "title": "Levels (W&W Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "3944826",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 632,
+      "mediaIds": {
+        "youtube": "419360",
+        "soundcloud": "419360",
+        "appleMusic": "419360"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Safri Duo",
+      "title": "Played-A-Live (The Bongo Song) (NWYR & Willem De Roo Bootleg)",
+      "remix": "",
+      "label": "NWYR",
+      "trackId": "3944827",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 728,
+      "mediaIds": {
+        "youtube": "370596",
+        "soundcloud": "370596",
+        "appleMusic": "370596"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Dimitri Vegas & Like Mike & W&W vs. The White Stripes",
+      "title": "Arcade vs. Seven Nation Army (W&W Edit)",
+      "remix": "",
+      "label": "XL/SMASH THE HOUSE",
+      "trackId": "3944828",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 905,
+      "mediaIds": {
+        "youtube": "308379"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike & W&W vs. The White Stripes",
+          "title": "Arcade vs. Seven Nation Army (W&W Edit)",
+          "remix": "",
+          "trackId": "3944828"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike vs. W&W & MOGUAI",
+          "title": "Arcade Mammoth (Dimitri Vegas & Like Mike Mashup)",
+          "remix": "",
+          "trackId": "3944852"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike vs. W&W & MOGUAI",
+      "title": "Arcade Mammoth (Dimitri Vegas & Like Mike Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/SMASH THE HOUSE",
+      "trackId": "3944852",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "562195",
+        "youtube": "562195",
+        "soundcloud": "562195",
+        "appleMusic": "562195"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "NWYR & Andrew Rayel",
+      "title": "The Melody",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "3944853",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1134,
+      "mediaIds": {
+        "spotify": "470802",
+        "youtube": "470802",
+        "soundcloud": "470802",
+        "appleMusic": "470802"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "3 Are Legend & Justin Prime & Sandro Silva",
+      "title": "Raver Dome",
+      "remix": "",
+      "label": "SMASH THE HOUSE/ULTRA",
+      "trackId": "3944854",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1282,
+      "mediaIds": {
+        "spotify": "507488",
+        "youtube": "507488",
+        "soundcloud": "507488",
+        "appleMusic": "507488"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Maurice West",
+      "title": "The Kick",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "3944855",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1370,
+      "mediaIds": {
+        "spotify": "452908",
+        "youtube": "452908",
+        "soundcloud": "452908",
+        "appleMusic": "452908"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Alvaro & MERCER & Lil Jon vs. Sandro Silva & Quintino",
+      "title": "Welcome To The Jungle vs. Epic (W&W Mashup)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/REVEALED",
+      "trackId": "3944856",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1460,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Bon Jovi & Maurice West vs. VINAI vs. Hardwell & MAKJ vs. DJ Snake & W&W",
+      "title": "Livin' On A Prayer vs. The Wave vs. Countdown vs. Propaganda (W&W Mashup)",
+      "remix": "",
+      "label": "REVEALED/SPINNIN'/DJ SNAKE/INTERSCOPE/MERCURY (UMG)",
+      "trackId": "3944857",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1505,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "W&W & Maurice West",
+      "title": "Matrix",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "3944861",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1640,
+      "mediaIds": {
+        "spotify": "482730",
+        "youtube": "482730",
+        "soundcloud": "482730",
+        "appleMusic": "482730"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Marshmello ft. Bastille",
+      "title": "Happier (Maurice West Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "4978765",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "497001",
+        "soundcloud": "497001"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T18:16:48.932Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,900 @@
+{
+  "tlId": "1s08lwrk",
+  "dj": "Martin Solveig",
+  "stage": "EDC Las Vegas",
+  "date": "2017-06-17",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/1s08lwrk/martin-solveig-kineticfield-edc-las-vegas-united-states-2017-06-17.html",
+  "djs": [
+    {
+      "name": "Martin Solveig",
+      "slug": "martinsolveig"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Martin Solveig ft. Tkay Maidza",
+      "title": "Do It Right",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "2700102",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 170,
+      "mediaIds": {
+        "spotify": "309562",
+        "youtube": "309562",
+        "soundcloud": "309562",
+        "appleMusic": "309562"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Solveig ft. Tkay Maidza",
+          "title": "Do It Right",
+          "remix": "",
+          "trackId": "2700102"
+        },
+        {
+          "artist": "Armand van Helden x ANOTR",
+          "title": "The Funk Phenomena",
+          "remix": "",
+          "trackId": "2749470"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Armand van Helden x ANOTR",
+      "title": "The Funk Phenomena",
+      "remix": "",
+      "label": "NO ART",
+      "trackId": "2749470",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 269,
+      "mediaIds": {
+        "spotify": "305145",
+        "youtube": "305145",
+        "soundcloud": "305145",
+        "appleMusic": "305145"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Malaa",
+      "title": "Diamonds",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "7185816",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 315,
+      "mediaIds": {
+        "spotify": "312311",
+        "youtube": "312311",
+        "soundcloud": "312311",
+        "appleMusic": "312311"
+      },
+      "blendGroup": [
+        {
+          "artist": "Malaa",
+          "title": "Diamonds",
+          "remix": "",
+          "trackId": "7185816"
+        },
+        {
+          "artist": "Kanye West",
+          "title": "Power (Acappella)",
+          "remix": "",
+          "trackId": "7185817"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kanye West",
+      "title": "Power (Acappella)",
+      "remix": "",
+      "label": "ROC-A-FELLA/CIRCUS RECORDS",
+      "trackId": "7185817",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 326,
+      "mediaIds": {
+        "spotify": "91977",
+        "youtube": "91977",
+        "soundcloud": "91977",
+        "appleMusic": "91977"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kanye West",
+          "title": "Power (Acappella)",
+          "remix": "",
+          "trackId": "7185817"
+        },
+        {
+          "artist": "Martin Solveig",
+          "title": "Jealousy (Martin Solveig 2015 Rework)",
+          "remix": "",
+          "trackId": "2697816"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Solveig",
+      "title": "Jealousy (Martin Solveig 2015 Rework)",
+      "remix": "",
+      "label": "D:VISION",
+      "trackId": "2697816",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 354,
+      "mediaIds": {
+        "youtube": "259051"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Lil Silva",
+      "title": "Seasons",
+      "remix": "",
+      "label": "NIGHT SLUGS",
+      "trackId": "2697817",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 435,
+      "mediaIds": {
+        "spotify": "47333",
+        "youtube": "47333",
+        "soundcloud": "47333",
+        "appleMusic": "47333"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lil Silva",
+          "title": "Seasons",
+          "remix": "",
+          "trackId": "2697817"
+        },
+        {
+          "artist": "Major Lazer ft. Vybz Kartel",
+          "title": "Pon De Floor(Co-Prod. by AFROJACK) (AFROJACK Version)",
+          "remix": "",
+          "trackId": "2697932"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Major Lazer ft. Vybz Kartel",
+      "title": "Pon De Floor(Co-Prod. by AFROJACK) (AFROJACK Version)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2697932",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 467,
+      "mediaIds": {
+        "youtube": "19063",
+        "soundcloud": "19063"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "JAY-Z & Kanye West",
+      "title": "Niggas In Paris",
+      "remix": "",
+      "label": "ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "2697818",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 505,
+      "mediaIds": {
+        "spotify": "44703",
+        "youtube": "44703",
+        "soundcloud": "44703",
+        "appleMusic": "44703"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Nirvana",
+      "title": "Smells Like Teen Spirit",
+      "remix": "",
+      "label": "GEFFEN (UMG)",
+      "trackId": "2697819",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 638,
+      "mediaIds": {
+        "spotify": "2022",
+        "youtube": "2022",
+        "soundcloud": "2022",
+        "appleMusic": "2022"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nirvana",
+          "title": "Smells Like Teen Spirit",
+          "remix": "",
+          "trackId": "2697819"
+        },
+        {
+          "artist": "DJ MERCER & DJ Snake",
+          "title": "Lunatic",
+          "remix": "",
+          "trackId": "2697820"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ MERCER & DJ Snake",
+      "title": "Lunatic",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2697820",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 644,
+      "mediaIds": {
+        "spotify": "171632",
+        "youtube": "171632",
+        "soundcloud": "171632",
+        "appleMusic": "171632"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Bassjackers",
+      "title": "Mush Mush",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2699275",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 684,
+      "mediaIds": {
+        "spotify": "30663",
+        "youtube": "30663",
+        "soundcloud": "30663",
+        "appleMusic": "30663"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bassjackers",
+          "title": "Mush Mush",
+          "remix": "",
+          "trackId": "2699275"
+        },
+        {
+          "artist": "Zedd & Alessia Cara",
+          "title": "Stay (Acappella)",
+          "remix": "",
+          "trackId": "2703564"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd & Alessia Cara",
+      "title": "Stay (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2703564",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 685,
+      "mediaIds": {
+        "spotify": "347913",
+        "youtube": "347913",
+        "soundcloud": "347913",
+        "appleMusic": "347913"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Martin Solveig ft. Dragonette",
+      "title": "Hello",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "2697822",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 778,
+      "mediaIds": {
+        "spotify": "19452",
+        "youtube": "19452",
+        "soundcloud": "19452",
+        "appleMusic": "19452"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Solveig ft. Dragonette",
+          "title": "Hello",
+          "remix": "",
+          "trackId": "2697822"
+        },
+        {
+          "artist": "Gesaffelstein",
+          "title": "Control Movement",
+          "remix": "",
+          "trackId": "2697931"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gesaffelstein",
+      "title": "Control Movement",
+      "remix": "",
+      "label": "STIL VOR TALENT",
+      "trackId": "2697931",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 833,
+      "mediaIds": {
+        "spotify": "53342",
+        "youtube": "53342",
+        "soundcloud": "53342",
+        "appleMusic": "53342"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Migos",
+      "title": "T-Shirt",
+      "remix": "",
+      "label": "QUALITY CONTROL",
+      "trackId": "2697823",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 895,
+      "mediaIds": {
+        "spotify": "347577",
+        "youtube": "347577",
+        "soundcloud": "347577",
+        "appleMusic": "347577"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Benny Benassi pres. The Biz",
+      "title": "Satisfaction",
+      "remix": "",
+      "label": "D:VISION",
+      "trackId": "2697824",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 995,
+      "mediaIds": {
+        "spotify": "2029",
+        "youtube": "2029",
+        "soundcloud": "2029",
+        "appleMusic": "2029"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Benny Benassi pres. The Biz",
+      "title": "Satisfaction (RL Grime Remix)",
+      "remix": "",
+      "label": "D:VISION",
+      "trackId": "2697825",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1060,
+      "mediaIds": {
+        "spotify": "104427",
+        "youtube": "104427",
+        "soundcloud": "104427",
+        "appleMusic": "104427"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "deadmau5 ft. Rob Swire",
+      "title": "Ghosts 'n' Stuff (Original Instrumental Mix)",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "2700103",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1180,
+      "mediaIds": {
+        "spotify": "21345",
+        "soundcloud": "21345",
+        "appleMusic": "21345"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5 ft. Rob Swire",
+          "title": "Ghosts 'n' Stuff (Original Instrumental Mix)",
+          "remix": "",
+          "trackId": "2700103"
+        },
+        {
+          "artist": "Sia ft. The Weeknd & Diplo",
+          "title": "Elastic Heart (The Hunger Games: Catching Fire OST) (Acappella)",
+          "remix": "",
+          "trackId": "2700104"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sia ft. The Weeknd & Diplo",
+      "title": "Elastic Heart (The Hunger Games: Catching Fire OST) (Acappella)",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "2700104",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1184,
+      "mediaIds": {
+        "youtube": "165221",
+        "appleMusic": "165221"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Florence + The Machine",
+      "title": "You've Got The Love (Mark Knight Remix)",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "2700105",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1340,
+      "mediaIds": {
+        "spotify": "20916",
+        "youtube": "20916",
+        "soundcloud": "20916",
+        "appleMusic": "20916"
+      },
+      "blendGroup": [
+        {
+          "artist": "Florence + The Machine",
+          "title": "You've Got The Love (Mark Knight Remix)",
+          "remix": "",
+          "trackId": "2700105"
+        },
+        {
+          "artist": "Pete Tong & Jules Buckley & The Heritage Orchestra ft. Jamie Principle",
+          "title": "Your Love (Kölsch Remix)",
+          "remix": "",
+          "trackId": "7185818"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pete Tong & Jules Buckley & The Heritage Orchestra ft. Jamie Principle",
+      "title": "Your Love (Kölsch Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "7185818",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1425,
+      "mediaIds": {
+        "appleMusic": "337048"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Wolfgang Gartner & Francis Preve vs. La Roux",
+      "title": "Yin For The Kill (Dave Spoon Bootleg)",
+      "remix": "",
+      "label": "POLYDOR/TOOLROOM TRAX",
+      "trackId": "2700106",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1618,
+      "mediaIds": {
+        "youtube": "11129"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Brodinski",
+      "title": "Hypnotise",
+      "remix": "",
+      "label": "BROMANCE",
+      "trackId": "2700107",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": {
+        "youtube": "109076",
+        "soundcloud": "109076"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2700108",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1828,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "2700108"
+        },
+        {
+          "artist": "Calvin Harris ft. Rihanna",
+          "title": "This Is What You Came For (Acappella)",
+          "remix": "",
+          "trackId": "7185819"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris ft. Rihanna",
+      "title": "This Is What You Came For (Acappella)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "7185819",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1876,
+      "mediaIds": {
+        "spotify": "307041",
+        "youtube": "307041",
+        "soundcloud": "307041",
+        "appleMusic": "307041"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Martin Solveig ft. ALMA",
+      "title": "All Stars",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "2700109",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1996,
+      "mediaIds": {
+        "spotify": "215976",
+        "youtube": "215976",
+        "soundcloud": "215976",
+        "appleMusic": "215976"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "John Dish",
+      "title": "Karmma",
+      "remix": "",
+      "label": "FLAMINGO",
+      "trackId": "2700110",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2259,
+      "mediaIds": {
+        "spotify": "108983",
+        "youtube": "108983",
+        "appleMusic": "108983"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Calvin Harris ft. Florence Welch",
+      "title": "Sweet Nothing",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "2700111",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2320,
+      "mediaIds": {
+        "spotify": "92181",
+        "youtube": "92181",
+        "soundcloud": "92181",
+        "appleMusic": "92181"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Flume ft. Little Dragon",
+      "title": "Take A Chance (Kölsch Remix)",
+      "remix": "",
+      "label": "FUTURE CLASSIC",
+      "trackId": "2700112",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2570,
+      "mediaIds": {
+        "spotify": "350270",
+        "youtube": "350270",
+        "soundcloud": "350270",
+        "appleMusic": "350270"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Flume ft. Kai",
+      "title": "Never Be Like You (Martin Solveig Remix)",
+      "remix": "",
+      "label": "FUTURE CLASSIC",
+      "trackId": "2700114",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2916,
+      "mediaIds": {
+        "spotify": "315985",
+        "youtube": "315985",
+        "soundcloud": "315985",
+        "appleMusic": "315985"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Tove Lo",
+      "title": "Habits (Stay High)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "2700115",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3018,
+      "mediaIds": {
+        "spotify": "164192",
+        "youtube": "164192",
+        "soundcloud": "164192",
+        "appleMusic": "164192"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tove Lo",
+          "title": "Habits (Stay High)",
+          "remix": "",
+          "trackId": "2700115"
+        },
+        {
+          "artist": "ZHU",
+          "title": "Stay Closer",
+          "remix": "",
+          "trackId": "7185820"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ZHU",
+      "title": "Stay Closer",
+      "remix": "",
+      "label": "MIND OF A GENIUS",
+      "trackId": "7185820",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 3050,
+      "mediaIds": {
+        "soundcloud": "217426"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Kanye West ft. Post Malone & Ty Dolla $ign",
+      "title": "Fade (GotSome Edit)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "2700116",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3065,
+      "mediaIds": {
+        "youtube": "323903",
+        "soundcloud": "323903"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Cassius",
+      "title": "I <3 U SO",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2700117",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3170,
+      "mediaIds": {
+        "spotify": "24813",
+        "youtube": "24813",
+        "soundcloud": "24813",
+        "appleMusic": "24813"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Swedish House Mafia",
+      "title": "Greyhound",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "2700118",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3230,
+      "mediaIds": {
+        "spotify": "64824",
+        "youtube": "64824",
+        "soundcloud": "64824",
+        "appleMusic": "64824"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "M83",
+      "title": "Midnight City",
+      "remix": "",
+      "label": "NAIVE",
+      "trackId": "2700119",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3360,
+      "mediaIds": {
+        "spotify": "47318",
+        "youtube": "47318",
+        "soundcloud": "47318",
+        "appleMusic": "47318"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2700120",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3480,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Avicii",
+      "title": "Levels",
+      "remix": "",
+      "label": "LE7ELS/UMG",
+      "trackId": "2700121",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3515,
+      "mediaIds": {
+        "spotify": "33255",
+        "youtube": "33255",
+        "soundcloud": "33255",
+        "appleMusic": "33255"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "ANOTR",
+      "title": "Plenty MS20",
+      "remix": "",
+      "label": "NO ART",
+      "trackId": "2700122",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3690,
+      "mediaIds": {
+        "spotify": "364470",
+        "youtube": "364470",
+        "soundcloud": "364470",
+        "appleMusic": "364470"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Kid Cudi & MGMT vs. Martin Solveig & GTA",
+      "title": "Pursuit Of Happiness vs. Intoxicated (Martin Solveig Mashup)",
+      "remix": "",
+      "label": "REPUBLIC/GOOD MUSIC/SPINNIN' DEEP",
+      "trackId": "2700123",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3712,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Martin Solveig ft. Ina Wroldsen",
+      "title": "Places",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "2700124",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3825,
+      "mediaIds": {
+        "spotify": "336652",
+        "youtube": "336652",
+        "soundcloud": "336652",
+        "appleMusic": "336652"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Martin Solveig ft. Ina Wroldsen",
+      "title": "Places (Billy Kenny Remix)",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "2749471",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 4028,
+      "mediaIds": {
+        "spotify": "351102",
+        "youtube": "351102",
+        "soundcloud": "351102",
+        "appleMusic": "351102"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Jamie xx ft. Romy",
+      "title": "Loud Places",
+      "remix": "",
+      "label": "YOUNG",
+      "trackId": "2700125",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 4100,
+      "mediaIds": {
+        "spotify": "249704",
+        "youtube": "249704",
+        "soundcloud": "249704",
+        "appleMusic": "249704"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "621846",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=y0bXoFdZ90Q"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:37:34.102Z",
+  "scrapeVersion": 2
+}

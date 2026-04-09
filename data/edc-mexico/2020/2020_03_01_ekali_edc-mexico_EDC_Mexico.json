@@ -1,0 +1,908 @@
+{
+  "tlId": "dbfbs1k",
+  "dj": "Ekali",
+  "stage": "EDC Mexico",
+  "date": "2020-03-01",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/dbfbs1k/ekali-kineticfield-edc-mexico-2020-03-01.html",
+  "djs": [
+    {
+      "name": "Ekali",
+      "slug": "ekali"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Ekali & NITTI",
+      "title": "Power",
+      "remix": "(Intro Edit)",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "5213713",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "526002",
+        "youtube": "526002",
+        "soundcloud": "526002",
+        "appleMusic": "526002"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "RL Grime & Juelz vs. Marshmello",
+      "title": "Formula vs. Silence (Ekali Live Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "4716365",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 163,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "graves ft. 93FEETOFSMOKE",
+      "title": "Deadsong",
+      "remix": "",
+      "label": "WELCOME",
+      "trackId": "4716368",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 294,
+      "mediaIds": {
+        "spotify": "511200",
+        "soundcloud": "511200",
+        "appleMusic": "511200"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Mura Masa",
+      "title": "Lotus Eater",
+      "remix": "",
+      "label": "JAKARTA",
+      "trackId": "4716369",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 345,
+      "mediaIds": {
+        "spotify": "238668",
+        "youtube": "238668",
+        "soundcloud": "238668",
+        "appleMusic": "238668"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Baauer vs. Skrillex",
+      "title": "Boog vs. Xena (Ekali Edit)",
+      "remix": "",
+      "label": "LUCKYME/OWSLA/ATLANTIC",
+      "trackId": "4716370",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 395,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Flume vs. ODESZA ft. Zyra",
+      "title": "Say It vs. Loyal (Ekali Edit)",
+      "remix": "",
+      "label": "FUTURE CLASSIC/FOREIGN FAMILY COLLECTIVE (COUNTER)",
+      "trackId": "4716371",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 440,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Martin Garrix & Dua Lipa vs. Boombox Cartel",
+      "title": "Scared To Be Lonely vs. Phoenix (Ekali Edit)",
+      "remix": "",
+      "label": "MAD DECENT/STMPD",
+      "trackId": "4716372",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 548,
+      "mediaIds": {
+        "youtube": "410879",
+        "soundcloud": "410879"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Garrix & Dua Lipa vs. Boombox Cartel",
+          "title": "Scared To Be Lonely vs. Phoenix (Ekali Edit)",
+          "remix": "",
+          "trackId": "4716372"
+        },
+        {
+          "artist": "Ekali & SLUMBERJACK",
+          "title": "Helios (FOMO Remix)",
+          "remix": "",
+          "trackId": "4716373"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ekali & SLUMBERJACK",
+      "title": "Helios (FOMO Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "4716373",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 605,
+      "mediaIds": {
+        "youtube": "443249",
+        "soundcloud": "443249"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "DJ Snake & Eptic",
+      "title": "SouthSide",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "4716374",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 667,
+      "mediaIds": {
+        "spotify": "480201",
+        "youtube": "480201",
+        "soundcloud": "480201",
+        "appleMusic": "480201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Benny Benassi ft. Gary Go",
+      "title": "Cinema (Skrillex Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "4716375",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 722,
+      "mediaIds": {
+        "spotify": "30681",
+        "youtube": "30681",
+        "soundcloud": "30681",
+        "appleMusic": "30681"
+      },
+      "blendGroup": [
+        {
+          "artist": "Benny Benassi ft. Gary Go",
+          "title": "Cinema (Skrillex Remix)",
+          "remix": "",
+          "trackId": "4716375"
+        },
+        {
+          "artist": "SLUMBERJACK",
+          "title": "Athena",
+          "remix": "",
+          "trackId": "4716376"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SLUMBERJACK",
+      "title": "Athena",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "4716376",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 760,
+      "mediaIds": {
+        "spotify": "472375",
+        "youtube": "472375",
+        "soundcloud": "472375",
+        "appleMusic": "472375"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "KRANE & SLUMBERJACK",
+      "title": "Hollow",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "4716377",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 835,
+      "mediaIds": {
+        "spotify": "386773",
+        "youtube": "386773",
+        "soundcloud": "386773",
+        "appleMusic": "386773"
+      },
+      "blendGroup": [
+        {
+          "artist": "KRANE & SLUMBERJACK",
+          "title": "Hollow",
+          "remix": "",
+          "trackId": "4716377"
+        },
+        {
+          "artist": "Khalid & Normani",
+          "title": "Love Lies",
+          "remix": "(Acappella)",
+          "trackId": "4716378"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Khalid & Normani",
+      "title": "Love Lies",
+      "remix": "(Acappella)",
+      "label": "RCA (SONY)",
+      "trackId": "4716378",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "405127",
+        "youtube": "405127",
+        "soundcloud": "405127",
+        "appleMusic": "405127"
+      },
+      "blendGroup": [
+        {
+          "artist": "Khalid & Normani",
+          "title": "Love Lies",
+          "remix": "(Acappella)",
+          "trackId": "4716378"
+        },
+        {
+          "artist": "SLUMBERJACK ft. GRRL PAL",
+          "title": "Enigma",
+          "remix": "",
+          "trackId": "4716379"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SLUMBERJACK ft. GRRL PAL",
+      "title": "Enigma",
+      "remix": "",
+      "label": "ONELOVE",
+      "trackId": "4716379",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 960,
+      "mediaIds": {
+        "spotify": "288902",
+        "youtube": "288902",
+        "soundcloud": "288902",
+        "appleMusic": "288902"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Skrillex & Alvin Risk",
+      "title": "Fuji Opener",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "4716380",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1009,
+      "mediaIds": {
+        "spotify": "162725",
+        "youtube": "162725",
+        "soundcloud": "162725",
+        "appleMusic": "162725"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "G Jones",
+      "title": "In Your Head (RL Grime Edit)",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "4716381",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1070,
+      "mediaIds": {
+        "spotify": "502730",
+        "youtube": "502730",
+        "soundcloud": "502730",
+        "appleMusic": "502730"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "graves vs. Gammer vs. MUST DIE!",
+      "title": "Meta vs. The Drop vs. CHAOS (graves Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "5213714",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1149,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Ekali & YOOKiE",
+      "title": "Jundo",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "4716384",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1236,
+      "mediaIds": {
+        "spotify": "485241",
+        "youtube": "485241",
+        "soundcloud": "485241",
+        "appleMusic": "485241"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "SVDDEN DEATH",
+      "title": "Behemoth (YOOKiE Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4716385",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1274,
+      "mediaIds": {
+        "youtube": "486784",
+        "soundcloud": "486784"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "SLUMBERJACK & FOMO",
+      "title": "Hades",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "4716392",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1308,
+      "mediaIds": {
+        "spotify": "543038",
+        "youtube": "543038",
+        "soundcloud": "543038",
+        "appleMusic": "543038"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Eliminate",
+      "title": "Mula",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "4716393",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1381,
+      "mediaIds": {
+        "spotify": "532552",
+        "youtube": "532552",
+        "soundcloud": "532552",
+        "appleMusic": "532552"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Travis Scott ft. Drake",
+      "title": "Sicko Mode (Skrillex Remix)",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "4716394",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1448,
+      "mediaIds": {
+        "spotify": "456620",
+        "youtube": "456620",
+        "soundcloud": "456620",
+        "appleMusic": "456620"
+      },
+      "blendGroup": [
+        {
+          "artist": "Travis Scott ft. Drake",
+          "title": "Sicko Mode (Skrillex Remix)",
+          "remix": "",
+          "trackId": "4716394"
+        },
+        {
+          "artist": "RL Grime",
+          "title": "Era(Co-Prod. by Nonsens) (1788-L Remix)",
+          "remix": "",
+          "trackId": "4716395"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RL Grime",
+      "title": "Era(Co-Prod. by Nonsens) (1788-L Remix)",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "4716395",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 1480,
+      "mediaIds": {
+        "spotify": "463742",
+        "youtube": "463742",
+        "soundcloud": "463742",
+        "appleMusic": "463742"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "RÜFÜS DU SOL vs. RL Grime & graves",
+      "title": "Innerbloom vs. Arcus (graves Edit / Ekali Re-Edit)",
+      "remix": "",
+      "label": "SWEAT IT OUT!/SABLE VALLEY",
+      "trackId": "4716396",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1589,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "RL Grime vs. San Holo",
+      "title": "Feel Free vs. Lift Me From The Ground (Ekali Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "5213715",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1691,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Rustie",
+      "title": "Big Catzz (Porter Robinson Edit / MYRNE 'Really Big Catzz' Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4716399",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1802,
+      "mediaIds": {
+        "youtube": "486278"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rustie",
+          "title": "Big Catzz (Porter Robinson Edit / MYRNE 'Really Big Catzz' Edit)",
+          "remix": "",
+          "trackId": "4716399"
+        },
+        {
+          "artist": "Rustie",
+          "title": "Big Catzz (Porter Robinson Edit)",
+          "remix": "",
+          "trackId": "4720026"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rustie",
+      "title": "Big Catzz (Porter Robinson Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4720026",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 1864,
+      "mediaIds": {
+        "spotify": "264886",
+        "youtube": "281575",
+        "soundcloud": "264886",
+        "appleMusic": "264886"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Porter Robinson & Ekali & QUIX vs. Post Malone",
+      "title": "Language vs. I Fall Apart (Benzi Edit / Ekali Remake)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)/REPUBLIC (UMG)",
+      "trackId": "4716400",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1895,
+      "mediaIds": {
+        "soundcloud": "419471"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Cardi B ft. Bad Bunny & J Balvin",
+      "title": "I Like It (Dillon Francis Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "4716401",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2007,
+      "mediaIds": {
+        "spotify": "425471",
+        "youtube": "425471",
+        "soundcloud": "425471",
+        "appleMusic": "425471"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cardi B ft. Bad Bunny & J Balvin",
+          "title": "I Like It (Dillon Francis Remix)",
+          "remix": "",
+          "trackId": "4716401"
+        },
+        {
+          "artist": "ISOxo",
+          "title": "Ground",
+          "remix": "",
+          "trackId": "4716402"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ISOxo",
+      "title": "Ground",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4716402",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 2051,
+      "mediaIds": {
+        "youtube": "511012",
+        "soundcloud": "511012"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4716403",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2093,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Ellie Goulding",
+      "title": "Lights (NITTI Remix)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "4716404",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2166,
+      "mediaIds": {
+        "youtube": "407532",
+        "soundcloud": "407532"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "San Holo vs. Kanye West",
+      "title": "Lights (NITTI Remix / Ekali Edit)",
+      "remix": "",
+      "label": "ROC-A-FELLA (ISLAND DEF JAM)/BITBIRD",
+      "trackId": "4716405",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2255,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Flux Pavilion",
+      "title": "I Can't Stop (Ekali Tribute)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4716406",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2366,
+      "mediaIds": {
+        "spotify": "307068",
+        "youtube": "307068",
+        "soundcloud": "307068",
+        "appleMusic": "307068"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flux Pavilion",
+          "title": "I Can't Stop (Ekali Tribute)",
+          "remix": "",
+          "trackId": "4716406"
+        },
+        {
+          "artist": "Kanye West",
+          "title": "Power (Acappella)",
+          "remix": "",
+          "trackId": "4716407"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kanye West",
+      "title": "Power (Acappella)",
+      "remix": "",
+      "label": "ROC-A-FELLA/CIRCUS RECORDS",
+      "trackId": "4716407",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "91977",
+        "youtube": "91977",
+        "soundcloud": "91977",
+        "appleMusic": "91977"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Party Favor & Baauer vs. Lil Wayne",
+      "title": "MDR vs. A Milli (Ribs Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "4716408",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2438,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "TYNAN & 1788-L",
+      "title": "A B Y S S",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "4716409",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2547,
+      "mediaIds": {
+        "spotify": "455759",
+        "youtube": "455759",
+        "soundcloud": "455759",
+        "appleMusic": "455759"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "RL Grime vs. A$AP Ferg",
+      "title": "Plain Pressure (Ekali Edit)",
+      "remix": "",
+      "label": "RCA (SONY)/WEDIDIT",
+      "trackId": "4716410",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2601,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Ekali & ZHU",
+      "title": "Blame (NGHTMRE Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "4716411",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2671,
+      "mediaIds": {
+        "spotify": "403855",
+        "youtube": "403855",
+        "soundcloud": "403855",
+        "appleMusic": "403855"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Skrillex ft. Youlden Chris",
+      "title": "Real Drag",
+      "remix": "",
+      "label": "OWSLA/ATLANTIC",
+      "trackId": "4716412",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2845,
+      "mediaIds": {
+        "youtube": "511205",
+        "soundcloud": "511205"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Habstrakt",
+      "title": "The One",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "4716413",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 2880,
+      "mediaIds": {
+        "spotify": "517133",
+        "youtube": "517133",
+        "soundcloud": "517133",
+        "appleMusic": "517133"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Michael Sparks vs. Skrillex & Habstrakt",
+      "title": "Ja Rasta vs. Chicken Soup (Ekali Edit)",
+      "remix": "",
+      "label": "FREE/PANDA FUNK/OWSLA",
+      "trackId": "4716414",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 2930,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Cardi B & Nitti Gritti vs. NXSTY & Badrapper",
+      "title": "Bodak Yellow vs. Catch My Vibe (Ekali Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "5213716",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 3012,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Habstrakt",
+      "title": "Control",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "4716417",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 3092,
+      "mediaIds": {
+        "spotify": "496729",
+        "youtube": "496729",
+        "soundcloud": "496729",
+        "appleMusic": "496729"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Zomboy & Habstrakt vs. ZHU",
+      "title": "Faded Saints (Ekali Edit)",
+      "remix": "",
+      "label": "MIND OF A GENIUS/SPINNIN'/NEVER SAY DIE",
+      "trackId": "4716418",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 3133,
+      "mediaIds": {
+        "soundcloud": "431923"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Ekali & ILLENIUM ft. Chloe Angelides",
+      "title": "Hard To Say Goodbye",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "4746888",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 3273,
+      "mediaIds": {
+        "spotify": "525352",
+        "youtube": "525352",
+        "soundcloud": "525352",
+        "appleMusic": "525352"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ekali & ILLENIUM ft. Chloe Angelides",
+          "title": "Hard To Say Goodbye",
+          "remix": "",
+          "trackId": "4746888"
+        },
+        {
+          "artist": "Ekali & ILLENIUM ft. Chloe Angelides",
+          "title": "Hard To Say Goodbye (NITTI Remix)",
+          "remix": "",
+          "trackId": "4716419"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ekali & ILLENIUM ft. Chloe Angelides",
+      "title": "Hard To Say Goodbye (NITTI Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "4716419",
+      "row": 38,
+      "type": "blend",
+      "cueTime": 3445,
+      "mediaIds": {
+        "spotify": "565924",
+        "youtube": "565924",
+        "appleMusic": "565924"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1601341",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=x6g_KjsD7Nk"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "1585196",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:48:44.002Z",
+  "scrapeVersion": 2
+}

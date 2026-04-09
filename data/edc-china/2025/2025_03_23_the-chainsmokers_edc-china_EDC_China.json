@@ -1,0 +1,748 @@
+{
+  "tlId": "1rh64h9t",
+  "dj": "The Chainsmokers",
+  "stage": "EDC China",
+  "date": "2025-03-23",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/1rh64h9t/the-chainsmokers-kineticfield-edc-china-2025-03-23.html",
+  "djs": [
+    {
+      "name": "The Chainsmokers",
+      "slug": "thechainsmokers"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "The Chainsmokers ft. ROZES",
+      "title": "Roses (2025 VIP)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "11913031",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers ft. ROZES",
+          "title": "Roses (2025 VIP)",
+          "remix": "",
+          "trackId": "11913031"
+        },
+        {
+          "artist": "Red Hot Chili Peppers",
+          "title": "Under The Bridge (The Chainsmokers Remix)",
+          "remix": "",
+          "trackId": "11913032"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Under The Bridge (The Chainsmokers Remix)",
+      "remix": "",
+      "label": "WARNER MUSIC",
+      "trackId": "11913032",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 284,
+      "mediaIds": null
+    },
+    {
+      "pos": "02",
+      "artist": "Bad Bunny vs. Will Sparks",
+      "title": "DtMF vs. Not Awake (The Chainsmokers Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "11913033",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 315,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Lola Young",
+      "title": "Messy (The Chainsmokers Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "11913036",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 379,
+      "mediaIds": {
+        "youtube": "1063881",
+        "soundcloud": "1063881"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Faustix & Thomas Gold",
+      "title": "Champs Élysées",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "11913037",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 512,
+      "mediaIds": {
+        "spotify": "1066692",
+        "youtube": "1066692",
+        "soundcloud": "1066692",
+        "appleMusic": "1066692"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Viperactive",
+      "title": "Dead To Me",
+      "remix": "",
+      "label": "JOYTIME COLLECTIVE",
+      "trackId": "11913038",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 568,
+      "mediaIds": {
+        "spotify": "1052760",
+        "youtube": "1052760",
+        "soundcloud": "1052760",
+        "appleMusic": "1052760"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "The Chainsmokers & Daya & W&W & ILLENIUM",
+      "title": "Don't Let Me Down (The Chainsmokers 2025 Intro)",
+      "remix": "",
+      "label": "",
+      "trackId": "11913039",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 622,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "The Chainsmokers ft. Emily Warren",
+      "title": "Paris",
+      "remix": "",
+      "label": "DISRUPTOR/COLUMBIA",
+      "trackId": "11913043",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 869,
+      "mediaIds": {
+        "spotify": "342922",
+        "youtube": "342922",
+        "soundcloud": "342922",
+        "appleMusic": "342922"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers ft. Emily Warren",
+          "title": "Paris",
+          "remix": "",
+          "trackId": "11913043"
+        },
+        {
+          "artist": "The Chainsmokers ft. Emily Warren",
+          "title": "Paris (VIP)",
+          "remix": "",
+          "trackId": "11913044"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chainsmokers ft. Emily Warren",
+      "title": "Paris (VIP)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "11913044",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "08",
+      "artist": "The Chainsmokers ft. Phoebe Ryan",
+      "title": "All We Know",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "11913045",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1090,
+      "mediaIds": {
+        "spotify": "328284",
+        "youtube": "328284",
+        "soundcloud": "328284",
+        "appleMusic": "328284"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "The Chainsmokers ft. Absolutely",
+      "title": "Air",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "11913046",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1208,
+      "mediaIds": {
+        "spotify": "1103730",
+        "youtube": "1103730",
+        "soundcloud": "1103730",
+        "appleMusic": "1103730"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Benson Boone",
+      "title": "Beautiful Things (The Chainsmokers Remix)",
+      "remix": "",
+      "label": "NIGHT STREET",
+      "trackId": "11913047",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1329,
+      "mediaIds": {
+        "youtube": "1016210",
+        "soundcloud": "1016210"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "The Chainsmokers & Kim Petras",
+      "title": "Don't Lie",
+      "remix": "(VIP Intro)",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "11913048",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1386,
+      "mediaIds": {
+        "spotify": "1032944",
+        "youtube": "1032944",
+        "soundcloud": "1032944",
+        "appleMusic": "1032944"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers & Kim Petras",
+          "title": "Don't Lie",
+          "remix": "(VIP Intro)",
+          "trackId": "11913048"
+        },
+        {
+          "artist": "The Chainsmokers & Kim Petras",
+          "title": "Don't Lie (VIP)",
+          "remix": "",
+          "trackId": "11913049"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chainsmokers & Kim Petras",
+      "title": "Don't Lie (VIP)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "11913049",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1535,
+      "mediaIds": null
+    },
+    {
+      "pos": "12",
+      "artist": "Cloonee & InntRaw & Young M.A",
+      "title": "Stephanie (HNTR Remix)",
+      "remix": "",
+      "label": "HELLBENT",
+      "trackId": "11913050",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1576,
+      "mediaIds": {
+        "spotify": "1062918",
+        "youtube": "1062918",
+        "soundcloud": "1062918",
+        "appleMusic": "1062918"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Zerb & The Chainsmokers & Ink vs. Steve Angello & Laidback Luke & Robin S vs. Tiësto & R3HAB",
+      "title": "Addicted vs. Show Me Love vs. Run Free (Countdown) (The Chainsmokers Edit)",
+      "remix": "",
+      "label": "MIXMASH/MUSICAL FREEDOM/TH3RD BRAIN",
+      "trackId": "11913051",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1668,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Congorock ft. Mr. Lexx",
+      "title": "Babylon (Dom Dolla Edit / The Chainsmokers Mix)",
+      "remix": "",
+      "label": "",
+      "trackId": "11913052",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1785,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Firebeatz vs. The Chainsmokers & Charlee",
+      "title": "Chip Tune vs. Inside Out (The Chainsmokers Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "11913053",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Slushii & sapientdream",
+      "title": "Past Lives (The Chainsmokers Remix)",
+      "remix": "",
+      "label": "LABEL EATER",
+      "trackId": "11913056",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1910,
+      "mediaIds": {
+        "spotify": "11913056",
+        "youtube": "11913056",
+        "soundcloud": "11913056",
+        "appleMusic": "11913056"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Gigi Perez",
+      "title": "Sailor Song (The Chainsmokers & TWINSICK Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "11913057",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1995,
+      "mediaIds": {
+        "youtube": "1057605",
+        "soundcloud": "1057605"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "The Chainsmokers & ILLENIUM ft. Lennon Stella",
+      "title": "Takeaway (VIP)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "11913058",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2135,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers & ILLENIUM ft. Lennon Stella",
+          "title": "Takeaway (VIP)",
+          "remix": "",
+          "trackId": "11913058"
+        },
+        {
+          "artist": "The Chainsmokers & ILLENIUM ft. Lennon Stella",
+          "title": "Takeaway",
+          "remix": "",
+          "trackId": "11913059"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chainsmokers & ILLENIUM ft. Lennon Stella",
+      "title": "Takeaway",
+      "remix": "",
+      "label": "DISRUPTOR/ASTRALWERKS",
+      "trackId": "11913059",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "495685",
+        "youtube": "495685",
+        "soundcloud": "495685",
+        "appleMusic": "495685"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "The Chainsmokers ft. Halsey",
+      "title": "Closer",
+      "remix": "",
+      "label": "DISRUPTOR/COLUMBIA",
+      "trackId": "11913060",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2326,
+      "mediaIds": {
+        "spotify": "317319",
+        "youtube": "317319",
+        "soundcloud": "317319",
+        "appleMusic": "317319"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers ft. Halsey",
+          "title": "Closer",
+          "remix": "",
+          "trackId": "11913060"
+        },
+        {
+          "artist": "The Chainsmokers ft. Halsey",
+          "title": "Closer (VIP)",
+          "remix": "",
+          "trackId": "11913061"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chainsmokers ft. Halsey",
+      "title": "Closer (VIP)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "11913061",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 2476,
+      "mediaIds": null
+    },
+    {
+      "pos": "20",
+      "artist": "Florence + The Machine",
+      "title": "Dog Days Are Over (TWINSICK Remix)",
+      "remix": "",
+      "label": "MOSHI MOSHI",
+      "trackId": "11913062",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2592,
+      "mediaIds": {
+        "youtube": "1052395",
+        "soundcloud": "1052395"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Calvin Harris vs. John Summit & HAYLA",
+      "title": "Feel So Close vs. Shiver (DJ NOVA Edit)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)/EXPERTS ONLY",
+      "trackId": "11913063",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2775,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "The Chainsmokers & ROZES vs. G.E.M.",
+      "title": "Roses vs. 光年之外 (Light Years Away) (The Chainsmokers Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "11913064",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2883,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Tiësto & The Chainsmokers",
+      "title": "Split (Only U)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "11913066",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2944,
+      "mediaIds": {
+        "spotify": "214231",
+        "youtube": "214231",
+        "soundcloud": "214231",
+        "appleMusic": "214231"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & The Chainsmokers",
+          "title": "Split (Only U)",
+          "remix": "",
+          "trackId": "11913066"
+        },
+        {
+          "artist": "50 Cent",
+          "title": "In Da Club",
+          "remix": "",
+          "trackId": "11913067"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "50 Cent",
+      "title": "In Da Club",
+      "remix": "",
+      "label": "SHADY (INTERSCOPE)",
+      "trackId": "11913067",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "60471",
+        "youtube": "60471",
+        "soundcloud": "60471",
+        "appleMusic": "60471"
+      },
+      "blendGroup": [
+        {
+          "artist": "50 Cent",
+          "title": "In Da Club",
+          "remix": "",
+          "trackId": "11913067"
+        },
+        {
+          "artist": "Tiësto & The Chainsmokers",
+          "title": "Split (Only U) (The Chainsmokers VIP)",
+          "remix": "",
+          "trackId": "11913068"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & The Chainsmokers",
+      "title": "Split (Only U) (The Chainsmokers VIP)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "11913068",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 3013,
+      "mediaIds": null
+    },
+    {
+      "pos": "24",
+      "artist": "MORTEN & David Guetta ft. Fedde Le Grand",
+      "title": "Night In Detroit",
+      "remix": "",
+      "label": "FUTURE RAVE",
+      "trackId": "11913069",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3068,
+      "mediaIds": {
+        "spotify": "1065201",
+        "youtube": "1065201",
+        "soundcloud": "1065201",
+        "appleMusic": "1065201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Jungle",
+      "title": "Back On 74 (The Chainsmokers Remix)",
+      "remix": "",
+      "label": "CAIOLA",
+      "trackId": "11913070",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3128,
+      "mediaIds": {
+        "soundcloud": "1143145"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "The White Stripes vs. Ray Volpe",
+      "title": "Seven Nation Song Request (Benzi & RAFAEL (USA) Edat)",
+      "remix": "",
+      "label": "XL/VOLPEVERSE",
+      "trackId": "11913071",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3160,
+      "mediaIds": {
+        "soundcloud": "1066802"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "The Chainsmokers & Botnek vs. David Guetta vs. Benny Benassi vs. Dr. Fresch & WA-FU & Scrufizzer",
+      "title": "#SELFIE vs. Satisfaction vs. Champion Sound (The Chainsmokers Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "11913072",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3303,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "The Chainsmokers ft. Elley Duhé",
+      "title": "Best Time Of My Life",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "11913075",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3390,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "The Chainsmokers",
+      "title": "Young",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "11913076",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3584,
+      "mediaIds": {
+        "spotify": "355877",
+        "youtube": "355877",
+        "soundcloud": "355877",
+        "appleMusic": "355877"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers",
+          "title": "Young",
+          "remix": "",
+          "trackId": "11913076"
+        },
+        {
+          "artist": "The Chainsmokers",
+          "title": "Young (Midnight Kids Remix)",
+          "remix": "",
+          "trackId": "11913077"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chainsmokers",
+      "title": "Young (Midnight Kids Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "11913077",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 3693,
+      "mediaIds": {
+        "spotify": "385158",
+        "youtube": "385158",
+        "soundcloud": "385158",
+        "appleMusic": "385158"
+      }
+    },
+    {
+      "pos": "30",
+      "artist": "The Chainsmokers ft. Emily Warren",
+      "title": "My Type",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "11913078",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3727,
+      "mediaIds": {
+        "spotify": "358713",
+        "youtube": "358713",
+        "soundcloud": "358713",
+        "appleMusic": "358713"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "The Chainsmokers",
+      "title": "Smooth",
+      "remix": "",
+      "label": "DISRUPTOR/COLUMBIA",
+      "trackId": "11913079",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3868,
+      "mediaIds": {
+        "spotify": "1102243",
+        "youtube": "1102243",
+        "soundcloud": "1102243",
+        "appleMusic": "1102243"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "The Chainsmokers & Coldplay vs. Adrian Lux vs. Rag 'N' Bone Man & Sub Focus",
+      "title": "Something Just Like This vs. Teenage Crime vs. All You Ever Wanted (The Chainsmokers Edit)",
+      "remix": "",
+      "label": "AXTONE/COLUMBIA (SONY)",
+      "trackId": "11913080",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 4109,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4700188",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=ndgqIZkcMuE"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:25:16.376Z",
+  "scrapeVersion": 2
+}

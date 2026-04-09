@@ -1,0 +1,107 @@
+{
+  "tlId": "rgynmw9",
+  "dj": "ETC!ETC! & Jay Silva",
+  "stage": "EDC Mexico",
+  "date": "2019-02-23",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/rgynmw9/etcetc-jay-silva-wasteland-edc-mexico-2019-02-23.html",
+  "djs": [
+    {
+      "name": "ETC!ETC!",
+      "slug": "etcetc"
+    },
+    {
+      "name": "Jay Silva",
+      "slug": "jaysilva"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Don Omar ft. Tego Calderon",
+      "title": "Bandoleros",
+      "remix": "",
+      "label": "",
+      "trackId": "3943963",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "477384",
+        "youtube": "477384",
+        "soundcloud": "477384",
+        "appleMusic": "477384"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Kanye West ft. Teyana Taylor",
+      "title": "Dark Fantasy",
+      "remix": "",
+      "label": "ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "3943964",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "137634",
+        "youtube": "137634",
+        "soundcloud": "137634",
+        "appleMusic": "137634"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kanye West ft. Teyana Taylor",
+          "title": "Dark Fantasy",
+          "remix": "",
+          "trackId": "3943964"
+        },
+        {
+          "artist": "FIGHT CLVB & Makla & KillKid",
+          "title": "Meet Me At Bootshaus",
+          "remix": "",
+          "trackId": "3943965"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "FIGHT CLVB & Makla & KillKid",
+      "title": "Meet Me At Bootshaus",
+      "remix": "",
+      "label": "FIGHT FREE",
+      "trackId": "3943965",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "468910",
+        "soundcloud": "468910",
+        "appleMusic": "468910"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "DJ Snake",
+      "title": "Magenta Riddim (ETC!ETC! & Jay Silva Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3943966",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "408288"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T18:21:11.385Z",
+  "scrapeVersion": 2
+}

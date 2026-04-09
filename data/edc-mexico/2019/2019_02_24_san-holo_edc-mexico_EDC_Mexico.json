@@ -1,0 +1,360 @@
+{
+  "tlId": "npknqs1",
+  "dj": "San Holo",
+  "stage": "EDC Mexico",
+  "date": "2019-02-24",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/npknqs1/san-holo-kineticfield-edc-mexico-2019-02-24.html",
+  "djs": [
+    {
+      "name": "San Holo",
+      "slug": "sanholo"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "San Holo",
+      "title": "Light (San Holo Live Version)",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "3944677",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 127,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Deon Custom",
+      "title": "Swift",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "3944678",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 215,
+      "mediaIds": {
+        "spotify": "389440",
+        "soundcloud": "389440",
+        "appleMusic": "389440"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Post Malone ft. Quavo",
+      "title": "Congratulations (Acappella)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "3944679",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "370447",
+        "youtube": "370447",
+        "soundcloud": "370447",
+        "appleMusic": "370447"
+      },
+      "blendGroup": [
+        {
+          "artist": "Post Malone ft. Quavo",
+          "title": "Congratulations (Acappella)",
+          "remix": "",
+          "trackId": "3944679"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "3944680"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "3944680",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 300,
+      "mediaIds": null
+    },
+    {
+      "pos": "04",
+      "artist": "DROELOE",
+      "title": "Kintsugi",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "3944681",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 390,
+      "mediaIds": {
+        "spotify": "382761",
+        "youtube": "382761",
+        "soundcloud": "382761",
+        "appleMusic": "382761"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "San Holo ft. Sofie Winterson",
+      "title": "Lift Me From The Ground (San Holo Live Version)",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "3944682",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 430,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "San Holo",
+      "title": "Fly (San Holo Live Version)",
+      "remix": "",
+      "label": "HEROIC",
+      "trackId": "3944683",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 630,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "San Holo",
+          "title": "Fly (San Holo Live Version)",
+          "remix": "",
+          "trackId": "3944683"
+        },
+        {
+          "artist": "San Holo",
+          "title": "Fly",
+          "remix": "",
+          "trackId": "3944684"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "San Holo",
+      "title": "Fly",
+      "remix": "",
+      "label": "HEROIC",
+      "trackId": "3944684",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "224717",
+        "youtube": "224717",
+        "soundcloud": "224717",
+        "appleMusic": "224717"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "San Holo ft. EASTGHOST & Analogue Dear & Taska Black & DROELOE & Losi & ILIVEHERE. & Goslo",
+      "title": "If Only (Mega Collab)",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "3944685",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 805,
+      "mediaIds": {
+        "spotify": "389443",
+        "youtube": "389443",
+        "soundcloud": "389443"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Duumu",
+      "title": "Shifted",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "3944686",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 885,
+      "mediaIds": {
+        "spotify": "447014",
+        "youtube": "447014",
+        "soundcloud": "447014",
+        "appleMusic": "447014"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Kozah",
+      "title": "Dream State",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3944687",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 920,
+      "mediaIds": {
+        "spotify": "323110",
+        "youtube": "323110",
+        "soundcloud": "323110",
+        "appleMusic": "323110"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "ILIVEHERE.",
+      "title": "Coming Home",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "3944688",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1020,
+      "mediaIds": {
+        "spotify": "349334",
+        "youtube": "349334",
+        "soundcloud": "349334",
+        "appleMusic": "349334"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Doja Cat",
+      "title": "So High (San Holo Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3944689",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1092,
+      "mediaIds": {
+        "youtube": "238992",
+        "soundcloud": "238992"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "San Holo ft. Cassini",
+      "title": "Love (wip) (San Holo Live Version)",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "3944690",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1165,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "San Holo ft. Bipolar Sunshine",
+      "title": "Brighter Days",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "3944691",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1290,
+      "mediaIds": {
+        "spotify": "440044",
+        "youtube": "440044",
+        "soundcloud": "440044",
+        "appleMusic": "440044"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "San Holo",
+      "title": "I Still See Your Face",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "3944692",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1440,
+      "mediaIds": {
+        "spotify": "380011",
+        "youtube": "380011",
+        "soundcloud": "380011",
+        "appleMusic": "380011"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Duskus & San Holo",
+      "title": "Forever Free",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "3944693",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1525,
+      "mediaIds": {
+        "spotify": "442638",
+        "youtube": "442638",
+        "soundcloud": "442638",
+        "appleMusic": "442638"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "San Holo ft. The Nicholas",
+      "title": "They Just Haven't Seen It",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "3944694",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1610,
+      "mediaIds": {
+        "spotify": "300816",
+        "youtube": "300816",
+        "soundcloud": "300816",
+        "appleMusic": "300816"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Losi",
+      "title": "SUNDAY SUNDAY",
+      "remix": "",
+      "label": "BITBIRD",
+      "trackId": "3944695",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1720,
+      "mediaIds": {
+        "spotify": "472685",
+        "youtube": "472685",
+        "soundcloud": "472685",
+        "appleMusic": "472685"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T18:17:26.204Z",
+  "scrapeVersion": 2
+}

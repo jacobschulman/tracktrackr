@@ -1,0 +1,92 @@
+{
+  "tlId": "2rpkms8t",
+  "dj": "Vini Vici",
+  "stage": "EDC Las Vegas",
+  "date": "2017-06-18",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/2rpkms8t/vini-vici-circuitgrounds-edc-las-vegas-united-states-2017-06-18.html",
+  "djs": [
+    {
+      "name": "Vini Vici",
+      "slug": "vinivici"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Armin van Buuren vs. Vini Vici ft. Hilight Tribe",
+      "title": "Great Spirit",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "2700023",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "336552",
+        "youtube": "336552",
+        "soundcloud": "336552",
+        "appleMusic": "336552"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2700024",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 197,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "W&W x Vini Vici",
+      "title": "Chakra",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "2700025",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 372,
+      "mediaIds": {
+        "spotify": "371486",
+        "youtube": "371486",
+        "soundcloud": "371486",
+        "appleMusic": "371486"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "KSHMR & Vini Vici",
+      "title": "Indian Rave",
+      "remix": "",
+      "label": "DHARMA",
+      "trackId": "2700026",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 477,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "609871",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/328814687"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:28:21.076Z",
+  "scrapeVersion": 2
+}

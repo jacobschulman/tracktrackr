@@ -1,0 +1,770 @@
+{
+  "tlId": "1lnn28wk",
+  "dj": "Nitepunk",
+  "stage": "EDC Las Vegas",
+  "date": "2022-05-20",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/1lnn28wk/nitepunk-cosmicmeadow-edc-las-vegas-united-states-2022-05-20.html",
+  "djs": [
+    {
+      "name": "Nitepunk",
+      "slug": "nitepunk"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Nitepunk",
+      "title": "Slices",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "7707922",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "903128",
+        "youtube": "903128",
+        "soundcloud": "903128",
+        "appleMusic": "903128"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Emalkay",
+      "title": "Fabrication (Nitepunk Remix)",
+      "remix": "",
+      "label": "DUB POLICE",
+      "trackId": "7707923",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "500034",
+        "youtube": "500034",
+        "soundcloud": "500034",
+        "appleMusic": "500034"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Nitepunk",
+      "title": "Hyperdust",
+      "remix": "",
+      "label": "HARD RECS (INSOMNIAC)",
+      "trackId": "7707924",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 245,
+      "mediaIds": {
+        "spotify": "877335",
+        "youtube": "877335",
+        "soundcloud": "877335",
+        "appleMusic": "877335"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "ISOxo & WAVEDASH",
+      "title": "OK!OK!OK!",
+      "remix": "",
+      "label": "88RISING",
+      "trackId": "7707925",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "789045",
+        "youtube": "789045",
+        "soundcloud": "789045",
+        "appleMusic": "789045"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Eptic",
+      "title": "Shadow People",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "7707926",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "658123",
+        "youtube": "658123",
+        "soundcloud": "658123",
+        "appleMusic": "658123"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eptic",
+          "title": "Shadow People",
+          "remix": "",
+          "trackId": "7707926"
+        },
+        {
+          "artist": "Cardi B ft. Megan Thee Stallion",
+          "title": "WAP",
+          "remix": "(Acappella)",
+          "trackId": "7707927"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cardi B ft. Megan Thee Stallion",
+      "title": "WAP",
+      "remix": "(Acappella)",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "7707927",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "606550",
+        "youtube": "606550",
+        "soundcloud": "606550",
+        "appleMusic": "606550"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7707928",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 410,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "16bit",
+      "title": "FRZR9000",
+      "remix": "",
+      "label": "MTA",
+      "trackId": "7707929",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "80752",
+        "youtube": "80752",
+        "soundcloud": "80752",
+        "appleMusic": "80752"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Tyler, The Creator",
+      "title": "OKRA",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "7707930",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "411255",
+        "youtube": "411255",
+        "soundcloud": "411255",
+        "appleMusic": "411255"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Control Freak",
+      "title": "FEVERDREAM",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "7707931",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 520,
+      "mediaIds": {
+        "spotify": "884968",
+        "youtube": "884968",
+        "soundcloud": "884968",
+        "appleMusic": "884968"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Nitepunk",
+      "title": "Bound 80",
+      "remix": "",
+      "label": "UPLINK AUDIO",
+      "trackId": "7707932",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "500056",
+        "youtube": "500056",
+        "soundcloud": "500056",
+        "appleMusic": "500056"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Nitepunk",
+      "title": "Absolute Zero",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "7707933",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "597586",
+        "youtube": "597586",
+        "soundcloud": "597586",
+        "appleMusic": "597586"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Eptic",
+      "title": "Lost In Space",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "7707934",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "830566",
+        "youtube": "830566",
+        "soundcloud": "830566",
+        "appleMusic": "830566"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Effin & Oddprophet",
+      "title": "Take Away",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "7707935",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "752675",
+        "youtube": "752675",
+        "soundcloud": "752675",
+        "appleMusic": "752675"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "IMANU ft. KUČKA",
+      "title": "It's Our Destiny (Nitepunk Remix)",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "7707936",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "882357",
+        "youtube": "882357",
+        "soundcloud": "882357",
+        "appleMusic": "882357"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Vince Staples",
+      "title": "Party People",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "7707937",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "370758",
+        "youtube": "370758",
+        "appleMusic": "370758"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Mr. Carmack",
+      "title": "CROYDON",
+      "remix": "",
+      "label": "FORWARD THINKERS GROUP",
+      "trackId": "7707938",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "518897",
+        "youtube": "518897",
+        "soundcloud": "518897",
+        "appleMusic": "518897"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Trampa ft. Nolay",
+      "title": "All Night",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "7707939",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "693470",
+        "youtube": "693470",
+        "soundcloud": "693470",
+        "appleMusic": "693470"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Body Ocean",
+      "title": "Pop Your Hip",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "7707940",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "676185",
+        "youtube": "676185",
+        "soundcloud": "676185",
+        "appleMusic": "676185"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Effin ft. JT Roach",
+      "title": "Drugs (Nitepunk Remix)",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "7707941",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "790320",
+        "youtube": "790320",
+        "soundcloud": "790320",
+        "appleMusic": "790320"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Habstrakt & Nitepunk",
+      "title": "Point",
+      "remix": "",
+      "label": "HARD RECS (INSOMNIAC)",
+      "trackId": "7707942",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "785874",
+        "youtube": "785874",
+        "soundcloud": "785874",
+        "appleMusic": "785874"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "A$AP Rocky",
+      "title": "Distorted Records",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "7707943",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "449703",
+        "youtube": "449703",
+        "soundcloud": "449703",
+        "appleMusic": "449703"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Nitepunk",
+      "title": "MTV",
+      "remix": "",
+      "label": "HARD RECS (INSOMNIAC)",
+      "trackId": "7707944",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "746155",
+        "youtube": "746155",
+        "soundcloud": "746155",
+        "appleMusic": "746155"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "OMNIPONY",
+      "title": "Brainhack",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7707945",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Nitepunk",
+      "title": "Connected",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "7707946",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "597583",
+        "youtube": "597583",
+        "soundcloud": "597583",
+        "appleMusic": "597583"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Apashe ft. Alina Pash",
+      "title": "Witch (Nitepunk 'Broken' Remix)",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "7707969",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "814845",
+        "youtube": "814845",
+        "soundcloud": "814845",
+        "appleMusic": "814845"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Gentlemens Club ft. Dread MC",
+      "title": "1999 (Nitepunk Remix)",
+      "remix": "",
+      "label": "CLUBFRIENDLY",
+      "trackId": "7707947",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "728949",
+        "youtube": "728949",
+        "soundcloud": "728949",
+        "appleMusic": "728949"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Nitepunk",
+      "title": "Miracle",
+      "remix": "",
+      "label": "HARD RECS (INSOMNIAC)",
+      "trackId": "7707948",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "658734",
+        "youtube": "658734",
+        "soundcloud": "658734",
+        "appleMusic": "658734"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Bhad Bhabie",
+      "title": "Bi Polar",
+      "remix": "",
+      "label": "22 ENTERTAINMENT",
+      "trackId": "7707949",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "850602",
+        "youtube": "850602",
+        "soundcloud": "850602",
+        "appleMusic": "850602"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "DJ Ride",
+      "title": "DARKSKYY",
+      "remix": "",
+      "label": "VISION",
+      "trackId": "7707950",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "622611",
+        "youtube": "622611",
+        "soundcloud": "622611",
+        "appleMusic": "622611"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Harley D",
+      "title": "Vibrations",
+      "remix": "",
+      "label": "GRID",
+      "trackId": "7707951",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "718417",
+        "youtube": "718417",
+        "soundcloud": "718417",
+        "appleMusic": "718417"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Noisia",
+      "title": "Incessant (IMANU Remix)",
+      "remix": "",
+      "label": "VISION",
+      "trackId": "7707970",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "751943",
+        "youtube": "751943",
+        "soundcloud": "751943",
+        "appleMusic": "751943"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Kamandi",
+      "title": "Scene Kid Destroya",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7707971",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "615523",
+        "soundcloud": "615523",
+        "appleMusic": "615523"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Busta Rhymes",
+      "title": "Put Your Hands Where My Eyes Could See (Nitepunk Remix)",
+      "remix": "",
+      "label": "ELEKTRA",
+      "trackId": "12304714",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "509447",
+        "soundcloud": "509447"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "IMANU & Jon Casey",
+      "title": "Kotaro",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "7707972",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "761211",
+        "youtube": "761211",
+        "soundcloud": "761211",
+        "appleMusic": "761211"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Skrillex & Noisia & Josh Pan & Dylan Brady",
+      "title": "Supersonic (My Existence) (Nitepunk Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "7707973",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "783089",
+        "soundcloud": "783089"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Nitepunk",
+      "title": "Grounded",
+      "remix": "",
+      "label": "HARD RECS (INSOMNIAC)",
+      "trackId": "7707991",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "767814",
+        "youtube": "767814",
+        "soundcloud": "767814",
+        "appleMusic": "767814"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Hamdi",
+      "title": "Skanka",
+      "remix": "",
+      "label": "DUPLOC",
+      "trackId": "7707992",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "759010",
+        "youtube": "759010",
+        "soundcloud": "759010",
+        "appleMusic": "759010"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Nitepunk",
+      "title": "Rip",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "7707993",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "617942",
+        "youtube": "617942",
+        "soundcloud": "617942",
+        "appleMusic": "617942"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Nitepunk",
+      "title": "Too Hot To Touch",
+      "remix": "",
+      "label": "HARD RECS (INSOMNIAC)",
+      "trackId": "7707952",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 2707,
+      "mediaIds": {
+        "spotify": "868378",
+        "youtube": "868378",
+        "soundcloud": "868378",
+        "appleMusic": "868378"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Nitepunk",
+      "title": "Black And Colors",
+      "remix": "",
+      "label": "HARD RECS (INSOMNIAC)",
+      "trackId": "7707994",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 2860,
+      "mediaIds": {
+        "spotify": "826624",
+        "youtube": "826624",
+        "soundcloud": "826624",
+        "appleMusic": "826624"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2821161",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=0NEK46oFbNE"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "2814529",
+      "idSource": "40",
+      "url": "https://hearthis.at/6770210/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:12:37.086Z",
+  "scrapeVersion": 2
+}

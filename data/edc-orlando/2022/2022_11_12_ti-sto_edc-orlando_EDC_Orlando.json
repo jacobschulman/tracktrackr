@@ -1,0 +1,489 @@
+{
+  "tlId": "h93bxn9",
+  "dj": "Tiësto",
+  "stage": "EDC Orlando",
+  "date": "2022-11-12",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/h93bxn9/tiesto-kineticfield-edc-orlando-united-states-2022-11-12.html",
+  "djs": [
+    {
+      "name": "Tiësto",
+      "slug": "tiesto"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Tiësto & KSHMR ft. VASSY",
+      "title": "Secrets",
+      "remix": "(Intro Edit)",
+      "label": "MUSICAL FREEDOM/PM:AM",
+      "trackId": "8406978",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "239625",
+        "youtube": "239625",
+        "soundcloud": "239625",
+        "appleMusic": "239625"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Tiësto & Black Eyed Peas",
+      "title": "Pump It Louder",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/ATLANTIC",
+      "trackId": "8406979",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "814519",
+        "youtube": "814519",
+        "soundcloud": "814519",
+        "appleMusic": "814519"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Tiësto",
+      "title": "The Launch",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "8406980",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "843616",
+        "soundcloud": "843616"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "R3HAB & Deorro",
+      "title": "Flashlight",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "8406981",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "177775",
+        "youtube": "177775",
+        "soundcloud": "177775",
+        "appleMusic": "177775"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Tiësto",
+      "title": "Can U Dance (To My Beat)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "8406982",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "814376",
+        "youtube": "814376",
+        "soundcloud": "814376",
+        "appleMusic": "814376"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Tiësto & DallasK",
+      "title": "Show Me",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "8406983",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "232618",
+        "youtube": "232618",
+        "soundcloud": "232618",
+        "appleMusic": "232618"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tiësto & DallasK",
+          "title": "Show Me",
+          "remix": "",
+          "trackId": "8406983"
+        },
+        {
+          "artist": "Green Velvet & Harvard Bass",
+          "title": "Lazer Beams (Acappella)",
+          "remix": "",
+          "trackId": "8406984"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Green Velvet & Harvard Bass",
+      "title": "Lazer Beams (Acappella)",
+      "remix": "",
+      "label": "RELIEF",
+      "trackId": "8406984",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "99522",
+        "youtube": "99522",
+        "soundcloud": "99522",
+        "appleMusic": "99522"
+      },
+      "blendGroup": [
+        {
+          "artist": "Green Velvet & Harvard Bass",
+          "title": "Lazer Beams (Acappella)",
+          "remix": "",
+          "trackId": "8406984"
+        },
+        {
+          "artist": "The Chemical Brothers",
+          "title": "Block Rockin Beats (Acappella)",
+          "remix": "",
+          "trackId": "8406985"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chemical Brothers",
+      "title": "Block Rockin Beats (Acappella)",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "8406985",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3498",
+        "youtube": "3498",
+        "soundcloud": "3498",
+        "appleMusic": "3498"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chemical Brothers",
+          "title": "Block Rockin Beats (Acappella)",
+          "remix": "",
+          "trackId": "8406985"
+        },
+        {
+          "artist": "Luis Torres & Corporate Slackrs",
+          "title": "Step Back",
+          "remix": "",
+          "trackId": "8406986"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Luis Torres & Corporate Slackrs",
+      "title": "Step Back",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "8406986",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "798473",
+        "youtube": "798473",
+        "soundcloud": "798473",
+        "appleMusic": "798473"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Tiësto & 7 Skies ft. RebMoe",
+      "title": "My Frequency",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "8406987",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "547194",
+        "youtube": "547194",
+        "soundcloud": "547194",
+        "appleMusic": "547194"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Disco Lines ft. Morgan Harvill",
+      "title": "Techno + Tequila",
+      "remix": "",
+      "label": "DISCO DISCO DISCO",
+      "trackId": "8406988",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "791261",
+        "youtube": "791261",
+        "soundcloud": "791261",
+        "appleMusic": "791261"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Tungevaag & SMACK",
+      "title": "If You Want",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "8406989",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "916302",
+        "youtube": "916302",
+        "soundcloud": "916302",
+        "appleMusic": "916302"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Mau P",
+      "title": "Gimme That Bounce",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "8406990",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "841595",
+        "youtube": "841595",
+        "soundcloud": "841595",
+        "appleMusic": "841595"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Luis Torres",
+      "title": "Freak Like Me",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "8406991",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "893649",
+        "youtube": "893649",
+        "soundcloud": "893649",
+        "appleMusic": "893649"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Tiësto",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8406992",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Tiësto ft. Tate McRae",
+      "title": "10:35 (Tiësto New Year's Eve VIP Mix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "8406993",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "850337",
+        "youtube": "850337",
+        "appleMusic": "850337"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Tiësto",
+      "title": "Baila Conmigo",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "8406994",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "724843",
+        "youtube": "724843",
+        "soundcloud": "724843",
+        "appleMusic": "724843"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Bizarrap & Quevedo",
+      "title": "Quédate (Tiësto Remix)",
+      "remix": "",
+      "label": "DALE PLAY/SONY",
+      "trackId": "8406995",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "830880",
+        "youtube": "830880",
+        "soundcloud": "830880",
+        "appleMusic": "830880"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Showtek & Justin Prime",
+      "title": "Cannonball",
+      "remix": "",
+      "label": "2DUTCH",
+      "trackId": "8406996",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "100256",
+        "youtube": "100256",
+        "soundcloud": "100256",
+        "appleMusic": "100256"
+      },
+      "blendGroup": [
+        {
+          "artist": "Showtek & Justin Prime",
+          "title": "Cannonball",
+          "remix": "",
+          "trackId": "8406996"
+        },
+        {
+          "artist": "Axwell Λ Ingrosso ft. Kristoffer Fogelmark",
+          "title": "More Than You Know",
+          "remix": "",
+          "trackId": "8406997"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Axwell Λ Ingrosso ft. Kristoffer Fogelmark",
+      "title": "More Than You Know",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "8406997",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "255105",
+        "youtube": "255105",
+        "soundcloud": "255105",
+        "appleMusic": "255105"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "AFROJACK & Martin Garrix",
+      "title": "Turn Up The Speakers",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "8406998",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "186041",
+        "youtube": "186041",
+        "soundcloud": "186041",
+        "appleMusic": "186041"
+      },
+      "blendGroup": [
+        {
+          "artist": "AFROJACK & Martin Garrix",
+          "title": "Turn Up The Speakers",
+          "remix": "",
+          "trackId": "8406998"
+        },
+        {
+          "artist": "Krewella",
+          "title": "Alive (Acappella)",
+          "remix": "",
+          "trackId": "8406999"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Krewella",
+      "title": "Alive (Acappella)",
+      "remix": "",
+      "label": "KREWELLA",
+      "trackId": "8406999",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "85311",
+        "youtube": "136140",
+        "soundcloud": "85311",
+        "appleMusic": "85311"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone (Pickle Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "8407000",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "840274",
+        "soundcloud": "840274"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T16:35:08.519Z",
+  "scrapeVersion": 2
+}

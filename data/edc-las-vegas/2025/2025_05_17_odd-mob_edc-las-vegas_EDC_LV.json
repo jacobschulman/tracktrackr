@@ -1,0 +1,642 @@
+{
+  "tlId": "2cz5c0h1",
+  "dj": "Odd Mob",
+  "stage": "EDC Las Vegas",
+  "date": "2025-05-17",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/2cz5c0h1/odd-mob-cosmicmeadow-edc-las-vegas-united-states-2025-05-17.html",
+  "djs": [
+    {
+      "name": "Odd Mob",
+      "slug": "oddmob"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Odd Mob ft. Ed Graves",
+      "title": "Vertigo",
+      "remix": "(Intro Edit)",
+      "label": "OCTOBER",
+      "trackId": "12161683",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1035350",
+        "youtube": "1035350",
+        "soundcloud": "1035350",
+        "appleMusic": "1035350"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Tiësto & Odd Mob & GOODBOYS",
+      "title": "Won't Be Possible",
+      "remix": "",
+      "label": "ATLANTIC/MUSICAL FREEDOM",
+      "trackId": "12161684",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 190,
+      "mediaIds": {
+        "spotify": "1081421",
+        "youtube": "1081421",
+        "soundcloud": "1081421",
+        "appleMusic": "1081421"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Cloonee & InntRaw & Young M.A",
+      "title": "Stephanie (Odd Mob Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "12161685",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 360,
+      "mediaIds": {
+        "soundcloud": "1092624"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Odd Mob",
+      "title": "ID",
+      "remix": "(Around The World)",
+      "label": "",
+      "trackId": "12161686",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 510,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "TOYZZ",
+      "title": "SexyBack",
+      "remix": "",
+      "label": "SPINNIN' DEEP",
+      "trackId": "12161687",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 700,
+      "mediaIds": {
+        "spotify": "1086425",
+        "youtube": "1086425",
+        "soundcloud": "1086425",
+        "appleMusic": "1086425"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "ROB49",
+      "title": "WTHELLY (Julian Jordan Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12161688",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 940,
+      "mediaIds": {
+        "youtube": "1092795",
+        "soundcloud": "1092795"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Odd Mob & OMNOM pres. HYPERBEAM",
+      "title": "System",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "12161689",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1100,
+      "mediaIds": {
+        "spotify": "1114839",
+        "youtube": "1114839",
+        "soundcloud": "1114839",
+        "appleMusic": "1114839"
+      },
+      "blendGroup": [
+        {
+          "artist": "Odd Mob & OMNOM pres. HYPERBEAM",
+          "title": "System",
+          "remix": "",
+          "trackId": "12161689"
+        },
+        {
+          "artist": "Odd Mob",
+          "title": "LEFT TO RIGHT",
+          "remix": "(Acappella)",
+          "trackId": "12161690"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Odd Mob",
+      "title": "LEFT TO RIGHT",
+      "remix": "(Acappella)",
+      "label": "TINTED/INSOMNIAC",
+      "trackId": "12161690",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "744220",
+        "youtube": "744220",
+        "soundcloud": "744220",
+        "appleMusic": "744220"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "SIDEPIECE & Bobby Shmurda",
+      "title": "CASH OUT",
+      "remix": "",
+      "label": "LIP SERVICE",
+      "trackId": "12161747",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1290,
+      "mediaIds": {
+        "spotify": "1074809",
+        "youtube": "1074809",
+        "soundcloud": "1074809",
+        "appleMusic": "1074809"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Adam Beyer & Green Velvet",
+      "title": "Simulator (Odd Mob Remix)",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "12161692",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1440,
+      "mediaIds": {
+        "spotify": "1006549",
+        "youtube": "1006549",
+        "soundcloud": "1006549",
+        "appleMusic": "1006549"
+      },
+      "blendGroup": [
+        {
+          "artist": "Adam Beyer & Green Velvet",
+          "title": "Simulator (Odd Mob Remix)",
+          "remix": "",
+          "trackId": "12161692"
+        },
+        {
+          "artist": "Fred again.. & Swedish House Mafia ft. Future",
+          "title": "Turn On The Lights Again..",
+          "remix": "",
+          "trackId": "12161748"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fred again.. & Swedish House Mafia ft. Future",
+      "title": "Turn On The Lights Again..",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "12161748",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "788426",
+        "youtube": "788426",
+        "soundcloud": "788426",
+        "appleMusic": "788426"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Odd Mob ft. Lizzy Land",
+      "title": "Never Alone",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "12161691",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1590,
+      "mediaIds": {
+        "spotify": "1144574",
+        "youtube": "1144574",
+        "soundcloud": "1144574",
+        "appleMusic": "1144574"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Dom Dolla ft. Daya",
+      "title": "Dreamin",
+      "remix": "(Acappella)",
+      "label": "THREE SIX ZERO/COLUMBIA",
+      "trackId": "12161808",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "1068559",
+        "youtube": "1068559",
+        "soundcloud": "1068559",
+        "appleMusic": "1068559"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dom Dolla ft. Daya",
+          "title": "Dreamin",
+          "remix": "(Acappella)",
+          "trackId": "12161808"
+        },
+        {
+          "artist": "Space 92",
+          "title": "Orbit Motion",
+          "remix": "",
+          "trackId": "12161809"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Space 92",
+      "title": "Orbit Motion",
+      "remix": "",
+      "label": "TAKEOFF",
+      "trackId": "12161809",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1077569",
+        "youtube": "1077569",
+        "soundcloud": "1077569",
+        "appleMusic": "1077569"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Kerri Chandler & Spank Rock",
+      "title": "Planet Sonic vs. Bump (Odd Mob Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "12161810",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1970,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "BYOR & Angel Janson",
+      "title": "Saving It All",
+      "remix": "",
+      "label": "THE MYTH OF NYX",
+      "trackId": "12161877",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2170,
+      "mediaIds": {
+        "spotify": "1084116",
+        "youtube": "1084116",
+        "soundcloud": "1084116",
+        "appleMusic": "1084116"
+      },
+      "blendGroup": [
+        {
+          "artist": "BYOR & Angel Janson",
+          "title": "Saving It All",
+          "remix": "",
+          "trackId": "12161877"
+        },
+        {
+          "artist": "Dom Dolla",
+          "title": "Saving Up",
+          "remix": "(Acappella)",
+          "trackId": "12161878"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dom Dolla",
+      "title": "Saving Up",
+      "remix": "(Acappella)",
+      "label": "THREE SIX ZERO/SONY",
+      "trackId": "12161878",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "933080",
+        "youtube": "933080",
+        "soundcloud": "933080",
+        "appleMusic": "933080"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dom Dolla",
+          "title": "Saving Up",
+          "remix": "(Acappella)",
+          "trackId": "12161878"
+        },
+        {
+          "artist": "Lola Young",
+          "title": "Messy",
+          "remix": "(Acappella)",
+          "trackId": "12161880"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lola Young",
+      "title": "Messy",
+      "remix": "(Acappella)",
+      "label": "ISLAND (UMG)",
+      "trackId": "12161880",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "993543",
+        "youtube": "993543",
+        "soundcloud": "993543",
+        "appleMusic": "993543"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "John Summit & venbee",
+      "title": "palm of my hands (Odd Mob Remix)",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "12161879",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2340,
+      "mediaIds": {
+        "spotify": "1033438",
+        "youtube": "1033438",
+        "soundcloud": "1033438",
+        "appleMusic": "1033438"
+      },
+      "blendGroup": [
+        {
+          "artist": "John Summit & venbee",
+          "title": "palm of my hands (Odd Mob Remix)",
+          "remix": "",
+          "trackId": "12161879"
+        },
+        {
+          "artist": "33 Below",
+          "title": "Mash Up",
+          "remix": "",
+          "trackId": "12161881"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "33 Below",
+      "title": "Mash Up",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "12161881",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1093049",
+        "youtube": "1093049",
+        "soundcloud": "1093049",
+        "appleMusic": "1093049"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Sean Paul & Odd Mob",
+      "title": "Get Busy (Odd Mob Club Mix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "12161882",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2590,
+      "mediaIds": {
+        "spotify": "894628",
+        "youtube": "894628",
+        "soundcloud": "894628",
+        "appleMusic": "894628"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Odd Mob & OMNOM pres. HYPERBEAM",
+      "title": "Coming Up (It's Dare)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "12161892",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2760,
+      "mediaIds": {
+        "spotify": "1097268",
+        "youtube": "1097268",
+        "soundcloud": "1097268",
+        "appleMusic": "1097268"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Odd Mob",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12161969",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2940,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Basement Jaxx",
+      "title": "Where's Your Head At?",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12161970",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3100,
+      "mediaIds": {
+        "spotify": "5190",
+        "youtube": "5190",
+        "soundcloud": "5190",
+        "appleMusic": "5190"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Odd Mob & OMNOM",
+      "title": "Losing Control",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "12161971",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3210,
+      "mediaIds": {
+        "spotify": "922908",
+        "youtube": "922908",
+        "soundcloud": "922908",
+        "appleMusic": "922908"
+      },
+      "blendGroup": [
+        {
+          "artist": "Odd Mob & OMNOM",
+          "title": "Losing Control",
+          "remix": "",
+          "trackId": "12161971"
+        },
+        {
+          "artist": "Odd Mob",
+          "title": "LEFT TO RIGHT",
+          "remix": "(Acappella)",
+          "trackId": "12161974"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Odd Mob",
+      "title": "LEFT TO RIGHT",
+      "remix": "(Acappella)",
+      "label": "TINTED/INSOMNIAC",
+      "trackId": "12161974",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "744220",
+        "youtube": "744220",
+        "soundcloud": "744220",
+        "appleMusic": "744220"
+      },
+      "blendGroup": [
+        {
+          "artist": "Odd Mob",
+          "title": "LEFT TO RIGHT",
+          "remix": "(Acappella)",
+          "trackId": "12161974"
+        },
+        {
+          "artist": "Odd Mob & OMNOM",
+          "title": "Losing Control",
+          "remix": "",
+          "trackId": "12161975"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Odd Mob & OMNOM",
+      "title": "Losing Control",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "12161975",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "922908",
+        "youtube": "922908",
+        "soundcloud": "922908",
+        "appleMusic": "922908"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Combine & MYTHM",
+      "title": "OLD SCHOOL",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "12161976",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3390,
+      "mediaIds": {
+        "spotify": "1096832",
+        "youtube": "1096832",
+        "soundcloud": "1096832",
+        "appleMusic": "1096832"
+      },
+      "blendGroup": [
+        {
+          "artist": "Combine & MYTHM",
+          "title": "OLD SCHOOL",
+          "remix": "",
+          "trackId": "12161976"
+        },
+        {
+          "artist": "Chris Lake & Ragie Ban",
+          "title": "Toxic",
+          "remix": "(Acappella)",
+          "trackId": "12162001"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chris Lake & Ragie Ban",
+      "title": "Toxic",
+      "remix": "(Acappella)",
+      "label": "BLACK BOOK",
+      "trackId": "12162001",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1059807",
+        "youtube": "1059807",
+        "soundcloud": "1059807",
+        "appleMusic": "1059807"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "hearthis",
+      "idMedia": "4781215",
+      "idSource": "40",
+      "url": "https://hearthis.at/12159179/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:04:59.296Z",
+  "scrapeVersion": 2
+}

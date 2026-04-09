@@ -1,0 +1,212 @@
+{
+  "tlId": "k1vm969",
+  "dj": "MORVN",
+  "stage": "EDC Mexico",
+  "date": "2019-02-23",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/k1vm969/morvn-dosequis-stage-edc-mexico-2019-02-23.html",
+  "djs": [
+    {
+      "name": "MORVN",
+      "slug": "morvn"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Grupo Climax",
+      "title": "La Mesa Que Más Aplauda",
+      "remix": "",
+      "label": "SCORPIO",
+      "trackId": "6419474",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "213019",
+        "youtube": "213019",
+        "appleMusic": "213019"
+      },
+      "blendGroup": [
+        {
+          "artist": "Grupo Climax",
+          "title": "La Mesa Que Más Aplauda",
+          "remix": "",
+          "trackId": "6419474"
+        },
+        {
+          "artist": "Mightyfools & Yellow Claw",
+          "title": "Lick Dat",
+          "remix": "",
+          "trackId": "6419475"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mightyfools & Yellow Claw",
+      "title": "Lick Dat",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "6419475",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "184204",
+        "youtube": "184204",
+        "soundcloud": "184204",
+        "appleMusic": "184204"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Wuki & Ape Drums ft. Nicky Da B",
+      "title": "Bed Squeak",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6419476",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "471206",
+        "youtube": "471206",
+        "soundcloud": "471206",
+        "appleMusic": "471206"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Banda Fresa",
+      "title": "Sandwich",
+      "remix": "",
+      "label": "",
+      "trackId": "6419477",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Banda Fresa",
+          "title": "Sandwich",
+          "remix": "",
+          "trackId": "6419477"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6419478"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6419478",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "04",
+      "artist": "Stoutty & M.I.",
+      "title": "Tear It Up",
+      "remix": "",
+      "label": "MACA",
+      "trackId": "6419479",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "461793",
+        "soundcloud": "461793",
+        "appleMusic": "461793"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6419480",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Eptic",
+      "title": "Watch Out",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6419481",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "424750",
+        "youtube": "424750",
+        "soundcloud": "424750",
+        "appleMusic": "424750"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Banda El Recodo De Cruz Lizárraga",
+      "title": "Acábame De Matar",
+      "remix": "",
+      "label": "",
+      "trackId": "6419482",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Banda El Recodo De Cruz Lizárraga",
+          "title": "Acábame De Matar",
+          "remix": "",
+          "trackId": "6419482"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6419483"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6419483",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T18:18:14.992Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,148 @@
+{
+  "tlId": "24bpqn5k",
+  "dj": "Black Coffee",
+  "stage": "Coachella Festival",
+  "date": "2022-04-15",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/24bpqn5k/black-coffee-sahara-coachella-festival-weekend-1-united-states-2022-04-15.html",
+  "djs": [
+    {
+      "name": "Black Coffee",
+      "slug": "blackcoffee"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Bedouin",
+      "title": "Petra",
+      "remix": "",
+      "label": "CERCLE",
+      "trackId": "7576891",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "789698",
+        "youtube": "789698",
+        "soundcloud": "789698",
+        "appleMusic": "789698"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Jimi Jules",
+      "title": "Don't Take It Personal",
+      "remix": "",
+      "label": "INNERVISIONS",
+      "trackId": "7576892",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "684126",
+        "youtube": "684126",
+        "soundcloud": "684126",
+        "appleMusic": "684126"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Msaki & Da Capo",
+      "title": "No Rainbow",
+      "remix": "",
+      "label": "PLATOON",
+      "trackId": "7576893",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Black Coffee & David Guetta ft. Delilah Montagu",
+      "title": "Drive",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "7576894",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "437028",
+        "youtube": "437028",
+        "appleMusic": "437028"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "From P60 & Lisa Shaw",
+      "title": "Magic (Manoo Instrumental)",
+      "remix": "",
+      "label": "KING STREET",
+      "trackId": "7576895",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "703992",
+        "appleMusic": "703992"
+      },
+      "blendGroup": [
+        {
+          "artist": "From P60 & Lisa Shaw",
+          "title": "Magic (Manoo Instrumental)",
+          "remix": "",
+          "trackId": "7576895"
+        },
+        {
+          "artist": "Roland Clark",
+          "title": "I Get Deep (Acappella)",
+          "remix": "",
+          "trackId": "7576896"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Roland Clark",
+      "title": "I Get Deep (Acappella)",
+      "remix": "",
+      "label": "S&S",
+      "trackId": "7576896",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3640",
+        "youtube": "53911",
+        "soundcloud": "53911",
+        "appleMusic": "3640"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7576897",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T04:04:22.023Z",
+  "scrapeVersion": 2
+}

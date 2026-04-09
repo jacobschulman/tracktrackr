@@ -1,0 +1,797 @@
+{
+  "tlId": "1krt8cvk",
+  "dj": "Zeds Dead",
+  "stage": "EDC Orlando",
+  "date": "2022-11-11",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/1krt8cvk/zeds-dead-circuitgrounds-edc-orlando-united-states-2022-11-11.html",
+  "djs": [
+    {
+      "name": "Zeds Dead",
+      "slug": "zedsdead"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Ray Volpe",
+      "title": "Laserbeam (Mport Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "8406330",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "829881",
+        "soundcloud": "829881"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Zeds Dead & Subtronics ft. Flowdan",
+      "title": "Gassed Up (Subtronics VIP)",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "8406331",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 45,
+      "mediaIds": {
+        "spotify": "822444",
+        "youtube": "822444",
+        "soundcloud": "822444",
+        "appleMusic": "822444"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Zeds Dead & Dion Timmer ft. Delaney Jane",
+      "title": "Rescue",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "8406332",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": {
+        "spotify": "497128",
+        "youtube": "497128",
+        "soundcloud": "497128",
+        "appleMusic": "497128"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zeds Dead & Dion Timmer ft. Delaney Jane",
+          "title": "Rescue",
+          "remix": "",
+          "trackId": "8406332"
+        },
+        {
+          "artist": "Zeds Dead & Dion Timmer ft. Delaney Jane",
+          "title": "Rescue (LEVEL UP Flip)",
+          "remix": "",
+          "trackId": "8406333"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zeds Dead & Dion Timmer ft. Delaney Jane",
+      "title": "Rescue (LEVEL UP Flip)",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "8406333",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "625242",
+        "soundcloud": "625242"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Zeds Dead & NGHTMRE ft. Tori Levett",
+      "title": "Shady Intentions (VIP)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "8406334",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 440,
+      "mediaIds": {
+        "spotify": "878591",
+        "youtube": "878591",
+        "soundcloud": "878591",
+        "appleMusic": "878591"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "SoDown & Defunk",
+      "title": "Get Up (Buku Remix)",
+      "remix": "",
+      "label": "GETDOWN",
+      "trackId": "8406335",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "829883",
+        "youtube": "829883",
+        "soundcloud": "829883",
+        "appleMusic": "829883"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "k?d & Yadosan",
+      "title": "PROTECT ME",
+      "remix": "",
+      "label": "HARD RECS (INSOMNIAC)",
+      "trackId": "8406336",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 630,
+      "mediaIds": {
+        "spotify": "837490",
+        "youtube": "837490",
+        "soundcloud": "837490",
+        "appleMusic": "837490"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Sam Lamar & CMOR",
+      "title": "The High Priestess",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "8406337",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 705,
+      "mediaIds": {
+        "spotify": "503784",
+        "youtube": "503784",
+        "soundcloud": "503784",
+        "appleMusic": "503784"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Eater",
+      "title": "Chamber",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "8406338",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 780,
+      "mediaIds": {
+        "spotify": "841882",
+        "youtube": "841882",
+        "soundcloud": "841882",
+        "appleMusic": "841882"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Zeds Dead & YOOKiE",
+      "title": "Ruff",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "8406339",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 825,
+      "mediaIds": {
+        "spotify": "543180",
+        "youtube": "543180",
+        "soundcloud": "543180",
+        "appleMusic": "543180"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Zeds Dead & MKLA",
+      "title": "Alive",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "8406340",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 888,
+      "mediaIds": {
+        "spotify": "702935",
+        "youtube": "702935",
+        "soundcloud": "702935",
+        "appleMusic": "702935"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Zeds Dead ft. Scrufizzer",
+      "title": "One Three Nine",
+      "remix": "",
+      "label": "NIGHT BASS",
+      "trackId": "8406341",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1040,
+      "mediaIds": {
+        "spotify": "861754",
+        "youtube": "861754",
+        "soundcloud": "861754",
+        "appleMusic": "861754"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Zeds Dead & Twin Shadow ft. D'Angelo Lacy",
+      "title": "Lost You",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "8406342",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1190,
+      "mediaIds": {
+        "spotify": "196450",
+        "youtube": "196450",
+        "soundcloud": "196450",
+        "appleMusic": "196450"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "MARTEN HØRGER & BIJOU",
+      "title": "I Know",
+      "remix": "",
+      "label": "SOLOTOKO",
+      "trackId": "8406343",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1260,
+      "mediaIds": {
+        "spotify": "823018",
+        "youtube": "823018",
+        "soundcloud": "823018",
+        "appleMusic": "823018"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Wuki",
+      "title": "Edge Of Seventeen",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "8406344",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1360,
+      "mediaIds": {
+        "spotify": "835800",
+        "youtube": "835800",
+        "soundcloud": "835800",
+        "appleMusic": "835800"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Walker & Royce & Nala",
+      "title": "Not About You",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "8406345",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1460,
+      "mediaIds": {
+        "spotify": "827278",
+        "youtube": "827278",
+        "soundcloud": "827278",
+        "appleMusic": "827278"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Riot Ten & Bernzikial",
+      "title": "GAWT DAT",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "8406346",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1520,
+      "mediaIds": {
+        "spotify": "767078",
+        "youtube": "767078",
+        "soundcloud": "767078",
+        "appleMusic": "767078"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "YOOKiE",
+      "title": "iRON MAN",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "8406347",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1560,
+      "mediaIds": {
+        "spotify": "771500",
+        "youtube": "771500",
+        "soundcloud": "771500",
+        "appleMusic": "771500"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Zeds Dead ft. Memorecks",
+      "title": "Collapse (Tape B Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "8406348",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1660,
+      "mediaIds": {
+        "youtube": "800767",
+        "soundcloud": "800767"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Zeds Dead & PEEKABOO",
+      "title": "POWA",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "8406349",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1790,
+      "mediaIds": {
+        "spotify": "640914",
+        "youtube": "640914",
+        "soundcloud": "640914",
+        "appleMusic": "640914"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Oski",
+      "title": "Engima",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "8406350",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1940,
+      "mediaIds": {
+        "spotify": "843879",
+        "soundcloud": "843879",
+        "appleMusic": "843879"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Zeds Dead",
+      "title": "Adrenaline",
+      "remix": "",
+      "label": "INSPECTED",
+      "trackId": "8406351",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2007,
+      "mediaIds": {
+        "spotify": "73166",
+        "youtube": "73166",
+        "soundcloud": "73166",
+        "appleMusic": "73166"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zeds Dead",
+          "title": "Adrenaline",
+          "remix": "",
+          "trackId": "8406351"
+        },
+        {
+          "artist": "Zeds Dead & Subtronics",
+          "title": "Bumpy Teeth",
+          "remix": "",
+          "trackId": "8406352"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zeds Dead & Subtronics",
+      "title": "Bumpy Teeth",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "8406352",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "543450",
+        "youtube": "543450",
+        "soundcloud": "543450",
+        "appleMusic": "543450"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Zeds Dead & MKLA",
+      "title": "In My Head",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "8406353",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2104,
+      "mediaIds": {
+        "spotify": "821796",
+        "youtube": "821796",
+        "soundcloud": "821796",
+        "appleMusic": "821796"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zeds Dead & MKLA",
+          "title": "In My Head",
+          "remix": "",
+          "trackId": "8406353"
+        },
+        {
+          "artist": "Chee",
+          "title": "Spangled",
+          "remix": "",
+          "trackId": "8406354"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chee",
+      "title": "Spangled",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "8406354",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "837713",
+        "youtube": "837713",
+        "soundcloud": "837713",
+        "appleMusic": "837713"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "The Zombies",
+      "title": "Time Of The Season",
+      "remix": "",
+      "label": "G",
+      "trackId": "8406355",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2393,
+      "mediaIds": {
+        "spotify": "358833",
+        "youtube": "358833",
+        "soundcloud": "358833",
+        "appleMusic": "358833"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Led Zeppelin",
+      "title": "Dazed And Confused (Kill The Noise Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "8406356",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2520,
+      "mediaIds": {
+        "youtube": "677384",
+        "soundcloud": "677384"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Tantrum Desire",
+      "title": "In The Dance",
+      "remix": "",
+      "label": "TECHNIQUE",
+      "trackId": "8406357",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2640,
+      "mediaIds": {
+        "spotify": "779634",
+        "youtube": "779634",
+        "soundcloud": "779634",
+        "appleMusic": "779634"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tantrum Desire",
+          "title": "In The Dance",
+          "remix": "",
+          "trackId": "8406357"
+        },
+        {
+          "artist": "Destiny's Child",
+          "title": "Say My Name (Acappella)",
+          "remix": "",
+          "trackId": "8406358"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Destiny's Child",
+      "title": "Say My Name (Acappella)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "8406358",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "60512",
+        "youtube": "60512",
+        "soundcloud": "60512",
+        "appleMusic": "60512"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "Zeds Dead & Delta Heavy",
+      "title": "Lift You Up",
+      "remix": "",
+      "label": "DEADBEATS/RAM",
+      "trackId": "8406359",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2790,
+      "mediaIds": {
+        "spotify": "433463",
+        "youtube": "433463",
+        "soundcloud": "433463",
+        "appleMusic": "433463"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "a-ha",
+      "title": "Take On Me",
+      "remix": "",
+      "label": "RHINO ENTERTAINMENT (WARNER MUSIC)",
+      "trackId": "8406360",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2927,
+      "mediaIds": {
+        "spotify": "41604",
+        "youtube": "41604",
+        "soundcloud": "41604",
+        "appleMusic": "41604"
+      },
+      "blendGroup": [
+        {
+          "artist": "a-ha",
+          "title": "Take On Me",
+          "remix": "",
+          "trackId": "8406360"
+        },
+        {
+          "artist": "Basstripper",
+          "title": "Noodle Bar",
+          "remix": "",
+          "trackId": "8406361"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Basstripper",
+      "title": "Noodle Bar",
+      "remix": "",
+      "label": "RAMPAGE",
+      "trackId": "8406361",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "509728",
+        "youtube": "509728",
+        "soundcloud": "509728",
+        "appleMusic": "509728"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Fred again..",
+      "title": "Jungle (Metrik Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "8406362",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3025,
+      "mediaIds": {
+        "youtube": "831274",
+        "soundcloud": "831274"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Sub Focus & Dimension ft. Jo Hill",
+      "title": "Ready To Fly",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "8406363",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3140,
+      "mediaIds": {
+        "spotify": "834269",
+        "youtube": "834269",
+        "soundcloud": "834269",
+        "appleMusic": "834269"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Zeds Dead & Blanke",
+      "title": "The Machines",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "8406364",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3215,
+      "mediaIds": {
+        "spotify": "828147",
+        "youtube": "828147",
+        "soundcloud": "828147",
+        "appleMusic": "828147"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "The Fugees",
+      "title": "Ready Or Not (Zeds Dead Flip)",
+      "remix": "",
+      "label": "SONY BMG",
+      "trackId": "8406366",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3300,
+      "mediaIds": {
+        "spotify": "27201",
+        "youtube": "27201",
+        "soundcloud": "903695",
+        "appleMusic": "27201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Atmosphere",
+      "title": "GodLovesUgly (Zeds Dead & Subtronics Remix)",
+      "remix": "",
+      "label": "RHYMESAYERS/DEADBEATS",
+      "trackId": "8406367",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 3405,
+      "mediaIds": {
+        "spotify": "581085",
+        "youtube": "581085",
+        "soundcloud": "581085",
+        "appleMusic": "581085"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "TLC",
+      "title": "No Scrubs (Tape B Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "8406368",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 3500,
+      "mediaIds": {
+        "youtube": "960698",
+        "soundcloud": "960698"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Naughty By Nature",
+      "title": "Hip Hop Hooray",
+      "remix": "",
+      "label": "WARNER MUSIC",
+      "trackId": "8406369",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3550,
+      "mediaIds": {
+        "spotify": "89007",
+        "youtube": "89007",
+        "soundcloud": "89007",
+        "appleMusic": "89007"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Zeds Dead & DROELOE",
+      "title": "Stars Tonight",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "8406370",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 3628,
+      "mediaIds": {
+        "spotify": "502482",
+        "youtube": "502482",
+        "soundcloud": "502482",
+        "appleMusic": "502482"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3045693",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=Vqh9OcYQLwU"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:38:33.004Z",
+  "scrapeVersion": 2
+}

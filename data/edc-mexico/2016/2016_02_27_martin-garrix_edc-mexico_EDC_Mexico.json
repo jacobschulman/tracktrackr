@@ -1,0 +1,228 @@
+{
+  "tlId": "12kpwkmt",
+  "dj": "Martin Garrix",
+  "stage": "EDC Mexico",
+  "date": "2016-02-27",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/12kpwkmt/martin-garrix-kineticfield-edc-mexico-2016-02-27.html",
+  "djs": [
+    {
+      "name": "Martin Garrix",
+      "slug": "martingarrix"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Martin Garrix",
+      "title": "Animals (Martin Garrix Piano VIP Edit)",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "2527844",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "175005"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Martin Garrix vs. Bassjackers & Brooks",
+      "title": "Animals vs. Alamo (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "STMPD/SKINK",
+      "trackId": "1921721",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Martin Garrix vs. Bassjackers & Brooks",
+          "title": "Animals vs. Alamo (Martin Garrix Mashup)",
+          "remix": "",
+          "trackId": "1921721"
+        },
+        {
+          "artist": "Martin Garrix",
+          "title": "Poison",
+          "remix": "",
+          "trackId": "2527845"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Garrix",
+      "title": "Poison",
+      "remix": "",
+      "label": "STMPD/FREE",
+      "trackId": "2527845",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "276279",
+        "youtube": "276279",
+        "soundcloud": "276279",
+        "appleMusic": "276279"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Garrix",
+          "title": "Poison",
+          "remix": "",
+          "trackId": "2527845"
+        },
+        {
+          "artist": "Martin Garrix ft. Ed Sheeran",
+          "title": "Rewind Repeat It (Acappella)",
+          "remix": "",
+          "trackId": "2527846"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Garrix ft. Ed Sheeran",
+      "title": "Rewind Repeat It (Acappella)",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "2527846",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "246540",
+        "soundcloud": "247014"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "The Weeknd",
+      "title": "Can't Feel My Face (Martin Garrix Remix)",
+      "remix": "",
+      "label": "XO (REPUBLIC)",
+      "trackId": "1921722",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "263216",
+        "youtube": "263216",
+        "soundcloud": "263216",
+        "appleMusic": "263216"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Martin Garrix & Jay Hardway vs. Florian Picasso ft. Zedd & Lucky Date",
+      "title": "Wizard Origami (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "INTERSCOPE/SPINNIN'/PROTOCOL",
+      "trackId": "2527847",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "AFROJACK & Martin Garrix",
+      "title": "Turn Up The Speakers",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1921723",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "186041",
+        "youtube": "186041",
+        "soundcloud": "186041",
+        "appleMusic": "186041"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Martin Garrix ft. John & Michel",
+      "title": "Now That I've Found You",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "1921726",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "268538",
+        "youtube": "268538",
+        "soundcloud": "268538",
+        "appleMusic": "268538"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Martin Garrix & Dimitri Vegas & Like Mike vs. Naughty Boy & James Egbert ft. Hardwell & W&W",
+      "title": "Tremor vs. La La La (Bassjackers Mashup)",
+      "remix": "",
+      "label": "REVEALED/SPINNIN'/EMI",
+      "trackId": "1921724",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Martin Garrix & Jake Liedo vs. Galantis",
+      "title": "Forbidden Voices vs. Runaway (Martin Garrix Ultra Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/BIG BEAT (ATLANTIC)",
+      "trackId": "1921725",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Owen Norton & Chasner",
+      "title": "Infinity",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1923147",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "298251",
+        "youtube": "298251",
+        "soundcloud": "298251",
+        "appleMusic": "298251"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "412027",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=Vz0yzOdeV34"
+    }
+  ],
+  "scrapedAt": "2026-04-08T18:57:37.385Z",
+  "scrapeVersion": 2
+}

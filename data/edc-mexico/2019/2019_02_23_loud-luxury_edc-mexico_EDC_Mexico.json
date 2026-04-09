@@ -1,0 +1,734 @@
+{
+  "tlId": "jybugst",
+  "dj": "Loud Luxury",
+  "stage": "EDC Mexico",
+  "date": "2019-02-23",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/jybugst/loud-luxury-kineticfield-edc-mexico-2019-02-23.html",
+  "djs": [
+    {
+      "name": "Loud Luxury",
+      "slug": "loudluxury"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Loud Luxury ft. Brando",
+      "title": "Body (Dzeko Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "3941779",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "434115",
+        "youtube": "434115",
+        "soundcloud": "434115",
+        "appleMusic": "434115"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "System Of A Down",
+      "title": "B.Y.O.B.",
+      "remix": "",
+      "label": "AMERICAN RECORDINGS",
+      "trackId": "3941780",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 68,
+      "mediaIds": {
+        "spotify": "59549",
+        "youtube": "59549",
+        "soundcloud": "59549",
+        "appleMusic": "59549"
+      },
+      "blendGroup": [
+        {
+          "artist": "System Of A Down",
+          "title": "B.Y.O.B.",
+          "remix": "",
+          "trackId": "3941780"
+        },
+        {
+          "artist": "Tiësto & Sevenn",
+          "title": "BOOM",
+          "remix": "",
+          "trackId": "3941781"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & Sevenn",
+      "title": "BOOM",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/UMG",
+      "trackId": "3941781",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "351739",
+        "youtube": "351739",
+        "soundcloud": "351739",
+        "appleMusic": "351739"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "DJ KUBA & NEITAN & Nicci vs. Icona Pop & Charli XCX",
+      "title": "Drop The Beat vs. I Love It (Chunky Dip & Jesse James Mashup)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)/PLAYBOX (KONTOR)",
+      "trackId": "3943692",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 165,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Alice Deejay vs. Icona Pop & Charlie XCX vs. Funkin Matt",
+      "title": "Better Off Alone vs. I Love It vs. Alive (Loud Luxury Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "3941782",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 258,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Panic! At The Disco",
+      "title": "High Hopes (David Puentez VIP Edit)",
+      "remix": "",
+      "label": "FUELED BY RAMEN",
+      "trackId": "3941799",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 375,
+      "mediaIds": {
+        "youtube": "458811",
+        "soundcloud": "458811"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Save The World",
+      "remix": "(Instrumental)",
+      "label": "POPHOUSE",
+      "trackId": "3941800",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 557,
+      "mediaIds": {
+        "spotify": "31007",
+        "youtube": "31007",
+        "soundcloud": "31007",
+        "appleMusic": "31007"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Save The World",
+          "remix": "(Instrumental)",
+          "trackId": "3941800"
+        },
+        {
+          "artist": "Maroon 5 ft. Cardi B",
+          "title": "Girls Like You",
+          "remix": "(Acappella)",
+          "trackId": "3941801"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Maroon 5 ft. Cardi B",
+      "title": "Girls Like You",
+      "remix": "(Acappella)",
+      "label": "INTERSCOPE",
+      "trackId": "3941801",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "427440",
+        "youtube": "427440",
+        "appleMusic": "427440"
+      },
+      "blendGroup": [
+        {
+          "artist": "Maroon 5 ft. Cardi B",
+          "title": "Girls Like You",
+          "remix": "(Acappella)",
+          "trackId": "3941801"
+        },
+        {
+          "artist": "Brooks & GRX",
+          "title": "Boomerang",
+          "remix": "",
+          "trackId": "3941802"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Brooks & GRX",
+      "title": "Boomerang",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "3941802",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "343153",
+        "youtube": "343153",
+        "soundcloud": "343153",
+        "appleMusic": "343153"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Sebastian Ingrosso & Tommy Trash ft. John Martin",
+      "title": "Reload",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "3941804",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 680,
+      "mediaIds": {
+        "spotify": "87479",
+        "youtube": "87479",
+        "soundcloud": "87479",
+        "appleMusic": "87479"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sebastian Ingrosso & Tommy Trash ft. John Martin",
+          "title": "Reload",
+          "remix": "",
+          "trackId": "3941804"
+        },
+        {
+          "artist": "TJR & VINAI",
+          "title": "Bounce Generation (Acappella)",
+          "remix": "",
+          "trackId": "3943693"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TJR & VINAI",
+      "title": "Bounce Generation (Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3943693",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "184772",
+        "youtube": "200674",
+        "soundcloud": "200674",
+        "appleMusic": "184772"
+      },
+      "blendGroup": [
+        {
+          "artist": "TJR & VINAI",
+          "title": "Bounce Generation (Acappella)",
+          "remix": "",
+          "trackId": "3943693"
+        },
+        {
+          "artist": "Calvin Harris & Dua Lipa",
+          "title": "One Kiss (R3HAB Remix)",
+          "remix": "",
+          "trackId": "3941805"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris & Dua Lipa",
+      "title": "One Kiss (R3HAB Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "3941805",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "420897",
+        "youtube": "420897",
+        "soundcloud": "420897",
+        "appleMusic": "420897"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Tove Lo",
+      "title": "Habits (Stay High) (The Chainsmokers Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "3941806",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 785,
+      "mediaIds": {
+        "spotify": "172364",
+        "youtube": "172364",
+        "soundcloud": "172364",
+        "appleMusic": "172364"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tove Lo",
+          "title": "Habits (Stay High) (The Chainsmokers Remix)",
+          "remix": "",
+          "trackId": "3941806"
+        },
+        {
+          "artist": "Dropgun",
+          "title": "Nobody",
+          "remix": "",
+          "trackId": "3941807"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dropgun",
+      "title": "Nobody",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "3941807",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "331854",
+        "youtube": "331854",
+        "soundcloud": "331854",
+        "appleMusic": "331854"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Zedd vs. Tiësto",
+      "title": "The Middle vs. Grapevine (Loud Luxury Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "3941808",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 885,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Felguk",
+      "title": "Sometimes",
+      "remix": "",
+      "label": "BRAZILIAN VIBE",
+      "trackId": "3941811",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 930,
+      "mediaIds": {
+        "spotify": "389551",
+        "youtube": "389551",
+        "soundcloud": "389551"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Loud Luxury x Anders",
+      "title": "Love No More",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "3941812",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1085,
+      "mediaIds": {
+        "spotify": "438655",
+        "youtube": "438655",
+        "soundcloud": "438655",
+        "appleMusic": "438655"
+      },
+      "blendGroup": [
+        {
+          "artist": "Loud Luxury x Anders",
+          "title": "Love No More",
+          "remix": "",
+          "trackId": "3941812"
+        },
+        {
+          "artist": "Loud Luxury x Anders",
+          "title": "Love No More (BROHUG Remix)",
+          "remix": "",
+          "trackId": "3941813"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Loud Luxury x Anders",
+      "title": "Love No More (BROHUG Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "3941813",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "480193",
+        "youtube": "480193",
+        "soundcloud": "480193",
+        "appleMusic": "480193"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Chance The Rapper ft. Knox Fortune",
+      "title": "All Night",
+      "remix": "",
+      "label": "CHANCE THE RAPPER",
+      "trackId": "3943694",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1260,
+      "mediaIds": {
+        "spotify": "313049",
+        "youtube": "313049",
+        "soundcloud": "313049",
+        "appleMusic": "313049"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chance The Rapper ft. Knox Fortune",
+          "title": "All Night",
+          "remix": "",
+          "trackId": "3943694"
+        },
+        {
+          "artist": "Kaskade & BROHUG & Mr. Tape ft. Madge",
+          "title": "Fun",
+          "remix": "",
+          "trackId": "3941814"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kaskade & BROHUG & Mr. Tape ft. Madge",
+      "title": "Fun",
+      "remix": "",
+      "label": "ARKADE",
+      "trackId": "3941814",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "410409",
+        "youtube": "410409",
+        "soundcloud": "410409",
+        "appleMusic": "410409"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "D.O.D vs. Clean Bandit & Zara Larsson",
+      "title": "Satisfy vs. Symphony (Loud Luxury Bootleg)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)/SIZE",
+      "trackId": "3941816",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1340,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Sagan vs. Loud Luxury & DYSON",
+      "title": "Dance Like Me (Loud Luxury Bootleg)",
+      "remix": "",
+      "label": "FUTURE HOUSE MUSIC/AFTR:HRS",
+      "trackId": "3941819",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1580,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Wuki",
+      "title": "Pon De Time",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE/MAD DECENT",
+      "trackId": "3941831",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": {
+        "youtube": "414931",
+        "soundcloud": "414931"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wuki",
+          "title": "Pon De Time",
+          "remix": "",
+          "trackId": "3941831"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "One More Time (Hotblood Remix)",
+          "remix": "",
+          "trackId": "3943697"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "One More Time (Hotblood Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3943697",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "422563",
+        "youtube": "422563",
+        "soundcloud": "422563"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "David Guetta ft. Kid Cudi",
+      "title": "Memories",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "3943695",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "7051",
+        "youtube": "7051",
+        "soundcloud": "7051",
+        "appleMusic": "7051"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Guetta ft. Kid Cudi",
+          "title": "Memories",
+          "remix": "",
+          "trackId": "3943695"
+        },
+        {
+          "artist": "Breathe Carolina & Sunstars",
+          "title": "DYSYLM",
+          "remix": "",
+          "trackId": "3943696"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Breathe Carolina & Sunstars",
+      "title": "DYSYLM",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "3943696",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "386865",
+        "youtube": "386865",
+        "soundcloud": "386865",
+        "appleMusic": "386865"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Tiësto",
+      "title": "Grapevine",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "3943987",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "418735",
+        "youtube": "418735",
+        "soundcloud": "418735",
+        "appleMusic": "418735"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Lucas & Steve & Mike Williams & Curbi vs. Avicii & Aleo Blacc",
+      "title": "Let's Go vs. Wake Me Up (WeDamnz Mashup)",
+      "remix": "",
+      "label": "PRMD/ISLAND/SPINNIN'",
+      "trackId": "3943698",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "432839"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "D.O.D vs. Flume & Kai",
+      "title": "Sixes vs. Never Be Like You (Alesso Mashup)",
+      "remix": "",
+      "label": "MOM+POP/AXTONE",
+      "trackId": "3943699",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Post Malone vs. deadmau5 vs. Madison Mars",
+      "title": "I Fall Apart vs. Strobe vs. Magneto (Loud Luxury Edit)",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP/REPUBLIC (UMG)/MUSICAL FREEDOM",
+      "trackId": "3943700",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Martin Garrix & Dua Lipa",
+      "title": "Scared To Be Lonely (Loud Luxury Remix)",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "3943701",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "351506",
+        "youtube": "351506",
+        "soundcloud": "351506",
+        "appleMusic": "351506"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "FISHER",
+      "title": "Losing It",
+      "remix": "",
+      "label": "CATCH & RELEASE/ASTRALWERKS",
+      "trackId": "3943702",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "417888",
+        "youtube": "417888",
+        "soundcloud": "417888",
+        "appleMusic": "417888"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "FISHER",
+      "title": "Losing It (Cheyenne Giles & Knock2 Festival Flip)",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "3943703",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "451240",
+        "soundcloud": "451240"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Loud Luxury & Ryan Shepherd (CA)",
+      "title": "Fill Me In",
+      "remix": "",
+      "label": "AFTR:HRS",
+      "trackId": "3943704",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "409133",
+        "youtube": "409133",
+        "appleMusic": "409133"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Loud Luxury ft. Brando",
+      "title": "Body",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "3943705",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "386130",
+        "youtube": "386130",
+        "soundcloud": "386130",
+        "appleMusic": "386130"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "1072314",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/trackwolvesxl"
+    }
+  ],
+  "scrapedAt": "2026-04-08T18:24:04.715Z",
+  "scrapeVersion": 2
+}

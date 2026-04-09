@@ -1,0 +1,551 @@
+{
+  "tlId": "26c7txn1",
+  "dj": "FISHER",
+  "stage": "EDC Orlando",
+  "date": "2024-11-08",
+  "year": 2024,
+  "url": "https://www.1001tracklists.com/tracklist/26c7txn1/fisher-kineticfield-edc-orlando-united-states-2024-11-08.html",
+  "djs": [
+    {
+      "name": "FISHER",
+      "slug": "fisher"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Black & White Brothers",
+      "title": "Put Your Hands Up In The Air (Acappella)",
+      "remix": "",
+      "label": "ALTRA MODA",
+      "trackId": "11313375",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "105909",
+        "youtube": "105910",
+        "soundcloud": "105909",
+        "appleMusic": "105909"
+      },
+      "blendGroup": [
+        {
+          "artist": "Black & White Brothers",
+          "title": "Put Your Hands Up In The Air (Acappella)",
+          "remix": "",
+          "trackId": "11313375"
+        },
+        {
+          "artist": "Robin S",
+          "title": "Show Me Love (FISHER Remix)",
+          "remix": "",
+          "trackId": "11313376"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Robin S",
+      "title": "Show Me Love (FISHER Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "11313376",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2602",
+        "youtube": "2602",
+        "soundcloud": "2602",
+        "appleMusic": "2602"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "GENESI & Laherte",
+      "title": "Pressure",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "11313987",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 173,
+      "mediaIds": {
+        "spotify": "1029358",
+        "youtube": "1029358",
+        "soundcloud": "1029358",
+        "appleMusic": "1029358"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "FISHER ft. Kita Alexander",
+      "title": "Atmosphere",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "11313378",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 315,
+      "mediaIds": {
+        "spotify": "891148",
+        "youtube": "891148",
+        "soundcloud": "891148",
+        "appleMusic": "891148"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "TOYZZ",
+      "title": "Hot Stuff",
+      "remix": "",
+      "label": "",
+      "trackId": "11313379",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 513,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Deeper Purpose",
+      "title": "Operate",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "11313380",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 632,
+      "mediaIds": {
+        "spotify": "1060135",
+        "youtube": "1060135",
+        "soundcloud": "1060135",
+        "appleMusic": "1060135"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Jack Orley",
+      "title": "Don't Let Me Go",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "11313381",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 766,
+      "mediaIds": {
+        "spotify": "1136879",
+        "youtube": "1136879",
+        "soundcloud": "1136879",
+        "appleMusic": "1136879"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "FISHER & Flowdan",
+      "title": "Boost Up",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "11313382",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 930,
+      "mediaIds": {
+        "spotify": "1023267",
+        "youtube": "1023267",
+        "soundcloud": "1023267",
+        "appleMusic": "1023267"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "FISHER & AR/CO",
+      "title": "Ocean",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "11296120",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1123,
+      "mediaIds": {
+        "spotify": "1052805",
+        "youtube": "1052805",
+        "soundcloud": "1052805",
+        "appleMusic": "1052805"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "GREG 99",
+      "title": "Ibiza Nights",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "11313383",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1332,
+      "mediaIds": {
+        "spotify": "1072907",
+        "youtube": "1072907",
+        "soundcloud": "1072907",
+        "appleMusic": "1072907"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Chris Lake & FISHER & Sante Sansone vs. Gotye ft. Kimbra",
+      "title": "Somebody (2024)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "11296093",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1524,
+      "mediaIds": {
+        "spotify": "969677",
+        "youtube": "969677",
+        "soundcloud": "969677",
+        "appleMusic": "969677"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Kamino & MERYLL",
+      "title": "Up N Down",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "11296010",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1690,
+      "mediaIds": {
+        "spotify": "1033279",
+        "youtube": "1033279",
+        "soundcloud": "1033279",
+        "appleMusic": "1033279"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Zaark",
+      "title": "Ghostbusters",
+      "remix": "",
+      "label": "RELENTLESS",
+      "trackId": "11296011",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1853,
+      "mediaIds": {
+        "spotify": "1073383",
+        "youtube": "1073383",
+        "appleMusic": "1073383"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Bob Marley & The Wailers",
+      "title": "Jamming (FISHER Rework)",
+      "remix": "",
+      "label": "TUFF GONG",
+      "trackId": "11296012",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2016,
+      "mediaIds": {
+        "spotify": "972770",
+        "youtube": "972770",
+        "soundcloud": "972770",
+        "appleMusic": "972770"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "San Pacho",
+      "title": "Baby Got Back",
+      "remix": "",
+      "label": "LIBERA",
+      "trackId": "11296013",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2268,
+      "mediaIds": {
+        "spotify": "1049200",
+        "youtube": "1049200",
+        "soundcloud": "1049200",
+        "appleMusic": "1049200"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "San Pacho & Cave Studio",
+      "title": "Playboy",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "11296014",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2433,
+      "mediaIds": {
+        "spotify": "1071608",
+        "youtube": "1071608",
+        "soundcloud": "1071608",
+        "appleMusic": "1071608"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "SIDEPIECE ft. Barney Bones",
+      "title": "Ménage À Trois",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "11372958",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2597,
+      "mediaIds": {
+        "spotify": "1066348",
+        "youtube": "1066348",
+        "soundcloud": "1066348",
+        "appleMusic": "1066348"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Kamino",
+      "title": "Supersonic",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "11314015",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2738,
+      "mediaIds": {
+        "spotify": "1051805",
+        "youtube": "1051805",
+        "soundcloud": "1051805",
+        "appleMusic": "1051805"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Bob Sinclar ft. Steve Edwards",
+      "title": "World, Hold On (Children Of The Sky) (FISHER 2022 Rework)",
+      "remix": "",
+      "label": "YELLOW/SPINNIN'",
+      "trackId": "11296017",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2877,
+      "mediaIds": {
+        "spotify": "800987",
+        "youtube": "800987",
+        "soundcloud": "800987",
+        "appleMusic": "800987"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "FISHER & Jennifer Lopez",
+      "title": "Waiting For Tonight",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "11296018",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3115,
+      "mediaIds": {
+        "spotify": "996472",
+        "youtube": "996472",
+        "soundcloud": "996472",
+        "appleMusic": "996472"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Jack Orley ft. Siena Liggins",
+      "title": "Swing Yo Hip",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "11296019",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3336,
+      "mediaIds": {
+        "spotify": "1097425",
+        "youtube": "1097425",
+        "soundcloud": "1097425",
+        "appleMusic": "1097425"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "11296020",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3472,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Marlon Hoffstadt aka DJ Daddy Trance",
+      "title": "It's That Time (FISHER Remix)",
+      "remix": "",
+      "label": "METHOD 808",
+      "trackId": "11296021",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3607,
+      "mediaIds": {
+        "spotify": "1008455",
+        "youtube": "1008455",
+        "soundcloud": "1008455",
+        "appleMusic": "1008455"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Salt-N-Pepa",
+      "title": "Shoop (Plastik Funk & Toxic Joy Remix)",
+      "remix": "",
+      "label": "MERCURY (UMG)",
+      "trackId": "11296022",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3785,
+      "mediaIds": {
+        "soundcloud": "1059480"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Cloonee & InntRaw & Young M.A",
+      "title": "Stephanie",
+      "remix": "",
+      "label": "HELLBENT",
+      "trackId": "11296023",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3937,
+      "mediaIds": {
+        "spotify": "1055165",
+        "youtube": "1055165",
+        "soundcloud": "1055165",
+        "appleMusic": "1055165"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "FISHER & Aatig",
+      "title": "Show Me Love",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "11296024",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 4029,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "PAWSA ft. Nate Dogg",
+      "title": "PICK UP THE PHONE",
+      "remix": "",
+      "label": "PAWZ",
+      "trackId": "11296025",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 4267,
+      "mediaIds": {
+        "spotify": "1004279",
+        "youtube": "1004279",
+        "soundcloud": "1004279",
+        "appleMusic": "1004279"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "FISHER",
+      "title": "Losing It",
+      "remix": "",
+      "label": "CATCH & RELEASE/ASTRALWERKS",
+      "trackId": "11296026",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 4467,
+      "mediaIds": {
+        "spotify": "417888",
+        "youtube": "417888",
+        "soundcloud": "417888",
+        "appleMusic": "417888"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "FISHER & Aatig",
+      "title": "Take It Off",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "11296027",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 4703,
+      "mediaIds": {
+        "spotify": "886602",
+        "youtube": "886602",
+        "soundcloud": "886602",
+        "appleMusic": "886602"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4440285",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=uqf0mOngpIk"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "5026652",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=vxNvRHhxBfo"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:51:14.806Z",
+  "scrapeVersion": 2
+}

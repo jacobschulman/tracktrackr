@@ -1,0 +1,683 @@
+{
+  "tlId": "gzzn1u1",
+  "dj": "Mr. Carmack",
+  "stage": "Coachella Festival",
+  "date": "2016-04-23",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/gzzn1u1/mr.-carmack-sahara-tent-coachella-festival-weekend-2-united-states-2016-04-23.html",
+  "djs": [
+    {
+      "name": "Mr. Carmack",
+      "slug": "mr.carmack"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2025696",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Carnage ft. Lil Uzi Vert & A$AP Ferg & Rich The Kid",
+      "title": "WDYW (FS Green DJ Tool)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "2025697",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "313908",
+        "soundcloud": "313908"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Destructo ft. YG",
+      "title": "Party Up (GTA Remix)",
+      "remix": "",
+      "label": "ALL MY FRIENDS/HITS HARD",
+      "trackId": "2025698",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "205566",
+        "youtube": "205566",
+        "soundcloud": "205566",
+        "appleMusic": "205566"
+      },
+      "blendGroup": [
+        {
+          "artist": "Destructo ft. YG",
+          "title": "Party Up (GTA Remix)",
+          "remix": "",
+          "trackId": "2025698"
+        },
+        {
+          "artist": "MC Bin Laden",
+          "title": "Bololo Hahaha",
+          "remix": "",
+          "trackId": "2025699"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MC Bin Laden",
+      "title": "Bololo Hahaha",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2025699",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "230851",
+        "youtube": "230851",
+        "soundcloud": "230851",
+        "appleMusic": "230851"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Kaaris",
+      "title": "Chargé (Mr. Carmack Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2025700",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "226302",
+        "soundcloud": "226302"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Young Thug",
+      "title": "Best Friend",
+      "remix": "",
+      "label": "300 ENTERTAINMENT",
+      "trackId": "2025701",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "289674",
+        "youtube": "289674",
+        "soundcloud": "289674",
+        "appleMusic": "289674"
+      },
+      "blendGroup": [
+        {
+          "artist": "Young Thug",
+          "title": "Best Friend",
+          "remix": "",
+          "trackId": "2025701"
+        },
+        {
+          "artist": "Yung Gud",
+          "title": "U Want Me",
+          "remix": "",
+          "trackId": "2025702"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Yung Gud",
+      "title": "U Want Me",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2025702",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "184021",
+        "soundcloud": "184021"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "London Future & Djemba Djemba ft. Ifa Sayo",
+      "title": "Look At Me Now",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2025703",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "162367",
+        "youtube": "162367",
+        "soundcloud": "162367",
+        "appleMusic": "162367"
+      },
+      "blendGroup": [
+        {
+          "artist": "London Future & Djemba Djemba ft. Ifa Sayo",
+          "title": "Look At Me Now",
+          "remix": "",
+          "trackId": "2025703"
+        },
+        {
+          "artist": "Kanye West ft. Desiigner",
+          "title": "Father Stretch My Hands Pt. 2",
+          "remix": "",
+          "trackId": "2025704"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kanye West ft. Desiigner",
+      "title": "Father Stretch My Hands Pt. 2",
+      "remix": "",
+      "label": "GOOD MUSIC (ISLAND DEF JAM)",
+      "trackId": "2025704",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "304897",
+        "youtube": "304897",
+        "soundcloud": "304897",
+        "appleMusic": "304897"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Hudson Mohawke",
+      "title": "System",
+      "remix": "",
+      "label": "WARP",
+      "trackId": "2025705",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "261260",
+        "youtube": "261260",
+        "soundcloud": "261260",
+        "appleMusic": "261260"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Mr. Carmack",
+      "title": "Roller (New Look)",
+      "remix": "",
+      "label": "LIGHTSLEEPERS",
+      "trackId": "2025706",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "146679",
+        "soundcloud": "146679"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Neguim.",
+      "title": "Why U Did This",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2025707",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "329525"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "GoldLink",
+      "title": "Dance On Me (Mr. Carmack Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2025708",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "278182",
+        "youtube": "278182",
+        "soundcloud": "278182",
+        "appleMusic": "278182"
+      },
+      "blendGroup": [
+        {
+          "artist": "GoldLink",
+          "title": "Dance On Me (Mr. Carmack Remix)",
+          "remix": "",
+          "trackId": "2025708"
+        },
+        {
+          "artist": "Stööki Sound & Mr. Carmack",
+          "title": "Uppers (QUIX Remix)",
+          "remix": "",
+          "trackId": "2025709"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Stööki Sound & Mr. Carmack",
+      "title": "Uppers (QUIX Remix)",
+      "remix": "",
+      "label": "HOT DAMN",
+      "trackId": "2025709",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "278743",
+        "youtube": "278743",
+        "soundcloud": "278743",
+        "appleMusic": "278743"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Mike WiLL Made It ft. The Weeknd",
+      "title": "Drinks On Us (Mr. Carmack & Promnite Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2025710",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "314915",
+        "soundcloud": "314915"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Evil Needle ft. Mr. Carmack",
+      "title": "Intrepidity",
+      "remix": "",
+      "label": "HW&W",
+      "trackId": "2025711",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "352560",
+        "youtube": "352560"
+      },
+      "blendGroup": [
+        {
+          "artist": "Evil Needle ft. Mr. Carmack",
+          "title": "Intrepidity",
+          "remix": "",
+          "trackId": "2025711"
+        },
+        {
+          "artist": "Major Lazer & DJ Snake ft. MØ",
+          "title": "Lean On (Acappella)",
+          "remix": "",
+          "trackId": "2025712"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Major Lazer & DJ Snake ft. MØ",
+      "title": "Lean On (Acappella)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2025712",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "241988",
+        "youtube": "241988",
+        "soundcloud": "241988",
+        "appleMusic": "241988"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "G Jones",
+      "title": "Helix",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "2025713",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "309216",
+        "youtube": "309216",
+        "soundcloud": "309216",
+        "appleMusic": "309216"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Mr. Carmack ft. Donnis",
+      "title": "Solutions",
+      "remix": "",
+      "label": "SOULECTION",
+      "trackId": "2025714",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "262496",
+        "soundcloud": "262496"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Mr. Carmack",
+      "title": "Pay (For What)",
+      "remix": "",
+      "label": "LIGHTSLEEPERS",
+      "trackId": "2025715",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "109498",
+        "youtube": "109498",
+        "soundcloud": "109498",
+        "appleMusic": "109498"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Mr. Carmack",
+      "title": "Fire (No Payroll)",
+      "remix": "",
+      "label": "LIGHTSLEEPERS",
+      "trackId": "2025716",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "109500",
+        "soundcloud": "109500"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Mr. Carmack",
+      "title": "Runner",
+      "remix": "",
+      "label": "LIGHTSLEEPERS",
+      "trackId": "2025717",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "349122",
+        "youtube": "349122",
+        "soundcloud": "349122",
+        "appleMusic": "349122"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2025718",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Mr. Carmack",
+      "title": "Drugs",
+      "remix": "",
+      "label": "SOULECTION",
+      "trackId": "2025720",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "221492",
+        "soundcloud": "221492"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Mr. Carmack",
+      "title": "EGO",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2025721",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "307773",
+        "soundcloud": "307773"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Mr. Carmack",
+      "title": "Hectic #3",
+      "remix": "",
+      "label": "SOULECTION",
+      "trackId": "2025722",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "340443",
+        "soundcloud": "340443"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Mr. Carmack",
+      "title": "Nell",
+      "remix": "",
+      "label": "LIGHTSLEEPERS",
+      "trackId": "2025723",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "256690",
+        "soundcloud": "256690"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Mr. Carmack",
+      "title": "Headache",
+      "remix": "",
+      "label": "SOULECTION",
+      "trackId": "2025725",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "329678",
+        "youtube": "329678",
+        "soundcloud": "329678",
+        "appleMusic": "329678"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Kendrick Lamar ft. MC Eiht",
+      "title": "m.A.A.d city",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "2025724",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "113728",
+        "youtube": "113728",
+        "soundcloud": "113728",
+        "appleMusic": "113728"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2025727",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Mr. Carmack",
+      "title": "Kick It Up",
+      "remix": "",
+      "label": "LIGHTSLEEPERS",
+      "trackId": "2025726",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "226023",
+        "soundcloud": "226023"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2035818",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "RL Grime",
+      "title": "Core (Djemba Djemba Selassie Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2025728",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "221494",
+        "soundcloud": "221494"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2025729",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Towkio ft. Vic Mensa",
+      "title": "G W M (Gang With Me)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2025730",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "315989",
+        "soundcloud": "315989"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2025731",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Prince",
+      "title": "Adore",
+      "remix": "",
+      "label": "PAISLEY PARK",
+      "trackId": "2025732",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "372544"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T04:37:34.367Z",
+  "scrapeVersion": 2
+}

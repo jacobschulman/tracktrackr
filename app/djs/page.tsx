@@ -1,4 +1,5 @@
 import { loadIndex } from '@/lib/data';
+import { getAllFestivals } from '@/lib/festivals';
 import type { SetMeta } from '@/lib/types';
 import { DJsPageClient } from './DJsPageClient';
 
@@ -11,20 +12,21 @@ interface DJAggregate {
   lastYear: number;
   totalSets: number;
   streak: number;
+  festivals: string[];
 }
 
-function buildDJData(index: { sets: SetMeta[] }): DJAggregate[] {
-  const map = new Map<string, { name: string; slug: string; years: Set<number>; totalSets: number; stages: Set<string> }>();
+function buildDJData(sets: SetMeta[]): DJAggregate[] {
+  const map = new Map<string, { name: string; slug: string; years: Set<number>; totalSets: number; festivals: Set<string> }>();
 
-  for (const s of index.sets) {
+  for (const s of sets) {
     for (const d of s.djs) {
       if (!map.has(d.slug)) {
-        map.set(d.slug, { name: d.name, slug: d.slug, years: new Set(), totalSets: 0, stages: new Set() });
+        map.set(d.slug, { name: d.name, slug: d.slug, years: new Set(), totalSets: 0, festivals: new Set() });
       }
       const entry = map.get(d.slug)!;
       entry.years.add(s.year);
       entry.totalSets++;
-      if (s.stage) entry.stages.add(s.stage);
+      if (s.festival) entry.festivals.add(s.festival);
     }
   }
 
@@ -49,6 +51,7 @@ function buildDJData(index: { sets: SetMeta[] }): DJAggregate[] {
       lastYear: sortedYears[sortedYears.length - 1],
       totalSets: dj.totalSets,
       streak: sortedYears.length >= 1 ? best : 0,
+      festivals: [...dj.festivals],
     });
   }
 
@@ -57,43 +60,32 @@ function buildDJData(index: { sets: SetMeta[] }): DJAggregate[] {
 
 export default function DJsPage() {
   const index = loadIndex();
-  const allDJs = buildDJData(index);
-  const allStages = [...new Set(index.sets.map((s) => s.stage))].sort();
 
-  // Build year counts per DJ for heatmap
-  const djYearCounts: Record<string, Record<number, number>> = {};
-  // Also build stage sets per DJ for filtering
-  const djStages: Record<string, string[]> = {};
+  // Build all DJs (holistic)
+  const allDJs = buildDJData(index.sets);
 
-  for (const s of index.sets) {
-    for (const d of s.djs) {
-      if (!djYearCounts[d.slug]) djYearCounts[d.slug] = {};
-      djYearCounts[d.slug][s.year] = (djYearCounts[d.slug][s.year] || 0) + 1;
-
-      if (!djStages[d.slug]) djStages[d.slug] = [];
-      if (!djStages[d.slug].includes(s.stage)) djStages[d.slug].push(s.stage);
-    }
+  // Build per-festival DJ data
+  const festivalConfigs = getAllFestivals();
+  const availableFestivals = [...new Set(index.sets.map(s => s.festival).filter(Boolean))];
+  const djsByFestival: Record<string, DJAggregate[]> = {};
+  for (const festSlug of availableFestivals) {
+    const festSets = index.sets.filter(s => s.festival === festSlug);
+    djsByFestival[festSlug] = buildDJData(festSets);
   }
 
-  // Build stage-filtered year counts so the client can filter by stage
-  const stageFilteredData: Record<string, Record<string, Record<number, number>>> = {};
-  for (const s of index.sets) {
-    const stage = s.stage;
-    if (!stageFilteredData[stage]) stageFilteredData[stage] = {};
-    for (const d of s.djs) {
-      if (!stageFilteredData[stage][d.slug]) stageFilteredData[stage][d.slug] = {};
-      stageFilteredData[stage][d.slug][s.year] = (stageFilteredData[stage][d.slug][s.year] || 0) + 1;
-    }
-  }
+  // Festival labels for the chips
+  const festivalLabels: { slug: string; shortName: string; accent: string }[] = availableFestivals
+    .map(slug => {
+      const cfg = festivalConfigs.find(f => f.slug === slug);
+      return { slug, shortName: cfg?.shortName || slug, accent: cfg?.accent || '#64748b' };
+    })
+    .sort((a, b) => (djsByFestival[b.slug]?.length || 0) - (djsByFestival[a.slug]?.length || 0));
 
   return (
     <DJsPageClient
       allDJs={allDJs}
-      years={index.years}
-      allStages={allStages}
-      djYearCounts={djYearCounts}
-      djStages={djStages}
-      stageFilteredData={stageFilteredData}
+      djsByFestival={djsByFestival}
+      festivalLabels={festivalLabels}
     />
   );
 }

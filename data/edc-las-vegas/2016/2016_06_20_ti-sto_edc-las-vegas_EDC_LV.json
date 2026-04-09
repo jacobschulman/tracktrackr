@@ -1,0 +1,668 @@
+{
+  "tlId": "28ruv2yk",
+  "dj": "Tiësto",
+  "stage": "EDC Las Vegas",
+  "date": "2016-06-20",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/28ruv2yk/tiesto-kineticfield-edc-las-vegas-united-states-2016-06-20.html",
+  "djs": [
+    {
+      "name": "Tiësto",
+      "slug": "tiesto"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Tiësto & The Chainsmokers",
+      "title": "Split (Only U)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2099758",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "214231",
+        "youtube": "214231",
+        "soundcloud": "214231",
+        "appleMusic": "214231"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ZAXX",
+      "title": "Phunky",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2099759",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 167,
+      "mediaIds": {
+        "spotify": "315863",
+        "youtube": "315863",
+        "soundcloud": "315863",
+        "appleMusic": "315863"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "AFROJACK",
+      "title": "Rock The House (SAG & Chasner Remix)",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "2099760",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 311,
+      "mediaIds": {
+        "spotify": "309892",
+        "youtube": "309892",
+        "soundcloud": "309892",
+        "appleMusic": "309892"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "ZAXX",
+      "title": "Dazzle",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2099761",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 449,
+      "mediaIds": {
+        "spotify": "323855",
+        "youtube": "323855",
+        "soundcloud": "323855",
+        "appleMusic": "323855"
+      },
+      "blendGroup": [
+        {
+          "artist": "ZAXX",
+          "title": "Dazzle",
+          "remix": "",
+          "trackId": "2099761"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "LRAD (Everybody In The Club Acappella)",
+          "remix": "",
+          "trackId": "2099762"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "LRAD (Everybody In The Club Acappella)",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "2099762",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 507,
+      "mediaIds": {
+        "spotify": "117950",
+        "youtube": "144448",
+        "soundcloud": "117950",
+        "appleMusic": "117950"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Firebeatz & Fafaq",
+      "title": "Sir Duke (Festival Mix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2099763",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "309043",
+        "youtube": "309043",
+        "soundcloud": "309043",
+        "appleMusic": "309043"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Holl & Rush vs. Walden vs. Tove Lo",
+      "title": "Shogun vs. Airodime vs. Stay High (Axwell Λ Ingrosso Mashup)",
+      "remix": "",
+      "label": "REVEALED/BIG BEAT (ATLANTIC)/UMG",
+      "trackId": "2099764",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 705,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Marc Volt vs. Galantis & Corey James",
+      "title": "You Axis (Fuerte & Blackbox Edit)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)/AVANT/GARDE",
+      "trackId": "2099765",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 889,
+      "mediaIds": {
+        "soundcloud": "265661"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Alan Walker ft. Iselin Solheim",
+      "title": "Faded (Tiësto Northern Lights Remix)",
+      "remix": "",
+      "label": "MER",
+      "trackId": "2099766",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1088,
+      "mediaIds": {
+        "spotify": "291548",
+        "youtube": "291548",
+        "soundcloud": "291548",
+        "appleMusic": "291548"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Sultan + Shepard vs. Coldplay",
+      "title": "Every Teardrop Is Walls (Sultan + Shepard Mashup)",
+      "remix": "",
+      "label": "EMI UK/MUSICAL FREEDOM",
+      "trackId": "2099767",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1320,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Tiësto ft. Michel Zitron",
+      "title": "Red Lights",
+      "remix": "",
+      "label": "PM:AM/MUSICAL FREEDOM",
+      "trackId": "2099808",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1605,
+      "mediaIds": {
+        "spotify": "165112",
+        "youtube": "165112",
+        "soundcloud": "165112",
+        "appleMusic": "165112"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "John Legend",
+      "title": "All Of Me (Tiësto Birthday Treatment Mix)",
+      "remix": "",
+      "label": "GOOD MUSIC (ISLAND DEF JAM)",
+      "trackId": "2099809",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1862,
+      "mediaIds": {
+        "spotify": "175745",
+        "youtube": "175745",
+        "appleMusic": "175745"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Tiësto ft. John Legend",
+      "title": "Summer Nights",
+      "remix": "",
+      "label": "PM:AM/MUSICAL FREEDOM",
+      "trackId": "2099810",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2167,
+      "mediaIds": {
+        "spotify": "312142",
+        "youtube": "312142",
+        "soundcloud": "312142",
+        "appleMusic": "312142"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Martin Garrix & Tiësto",
+      "title": "The Only Way Is Up",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/PM:AM",
+      "trackId": "2101509",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2370,
+      "mediaIds": {
+        "spotify": "233127",
+        "youtube": "233127",
+        "soundcloud": "233127",
+        "appleMusic": "233127"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Tiësto & DallasK",
+      "title": "Show Me",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2101510",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2467,
+      "mediaIds": {
+        "spotify": "232618",
+        "youtube": "232618",
+        "soundcloud": "232618",
+        "appleMusic": "232618"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Tiësto & KSHMR ft. VASSY",
+      "title": "Secrets",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/PM:AM",
+      "trackId": "2101511",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2575,
+      "mediaIds": {
+        "spotify": "239625",
+        "youtube": "239625",
+        "soundcloud": "239625",
+        "appleMusic": "239625"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "DVBBS & MOTi",
+      "title": "This Is Dirty",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2101512",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2776,
+      "mediaIds": {
+        "spotify": "189072",
+        "youtube": "189072",
+        "soundcloud": "189072",
+        "appleMusic": "189072"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "W&W & MOTi",
+      "title": "Spack Jarrow",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2101513",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2867,
+      "mediaIds": {
+        "spotify": "264657",
+        "youtube": "264657",
+        "soundcloud": "264657",
+        "appleMusic": "264657"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Quintino & Hardwell vs. DJ Kool",
+      "title": "Let Me Clear My Scorpion (Henry Fong Mashup)",
+      "remix": "",
+      "label": "AMERICAN RECORDINGS/WARNER BROS./REVEALED",
+      "trackId": "2103379",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2960,
+      "mediaIds": {
+        "soundcloud": "290328"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Boys Like Girls",
+      "title": "The Great Escape (ZAXX Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "2101514",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3067,
+      "mediaIds": {
+        "youtube": "312834",
+        "soundcloud": "312834"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Dzeko & Torres ft. Delaney Jane",
+      "title": "L'amour Toujours (Tiësto Edit)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2101515",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3220,
+      "mediaIds": {
+        "spotify": "264419",
+        "youtube": "264419",
+        "soundcloud": "264419",
+        "appleMusic": "264419"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Hardwell ft. Amba Shepherd",
+      "title": "Apollo (Hardwell Private Edit / Dash Berlin vs. Lucky Date vs. Noisecontrollers Remix Mashup)",
+      "remix": "",
+      "label": "REVEALED/INTERSCOPE",
+      "trackId": "2101516",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3303,
+      "mediaIds": {
+        "youtube": "142517"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Delerium ft. Sarah McLachlan",
+      "title": "Silence (Tiësto In Search Of Sunrise Remix)",
+      "remix": "",
+      "label": "NETTWERK",
+      "trackId": "2100650",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3523,
+      "mediaIds": {
+        "spotify": "10606",
+        "youtube": "10606",
+        "soundcloud": "10606",
+        "appleMusic": "10606"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Coldplay",
+      "title": "Yellow (FKYA & Khøst Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2101517",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3854,
+      "mediaIds": {
+        "youtube": "291544",
+        "soundcloud": "291544"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Tiësto",
+      "title": "Adagio For Strings",
+      "remix": "",
+      "label": "MAGIK MUZIK (BLACK HOLE)",
+      "trackId": "2100651",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 4066,
+      "mediaIds": {
+        "spotify": "5402",
+        "youtube": "5402",
+        "soundcloud": "5402",
+        "appleMusic": "5402"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "VINAI ft. Harrison",
+      "title": "The Wave (Instrumental Mix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2103254",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 4190,
+      "mediaIds": {
+        "spotify": "250954",
+        "youtube": "250954",
+        "soundcloud": "250954",
+        "appleMusic": "250954"
+      },
+      "blendGroup": [
+        {
+          "artist": "VINAI ft. Harrison",
+          "title": "The Wave (Instrumental Mix)",
+          "remix": "",
+          "trackId": "2103254"
+        },
+        {
+          "artist": "MAKJ",
+          "title": "Generic (Put Your Fuckin Hands Up Acappella)",
+          "remix": "",
+          "trackId": "2103255"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MAKJ",
+      "title": "Generic (Put Your Fuckin Hands Up Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2103255",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 4212,
+      "mediaIds": {
+        "spotify": "222707",
+        "youtube": "222707",
+        "soundcloud": "222707",
+        "appleMusic": "222707"
+      },
+      "blendGroup": [
+        {
+          "artist": "MAKJ",
+          "title": "Generic (Put Your Fuckin Hands Up Acappella)",
+          "remix": "",
+          "trackId": "2103255"
+        },
+        {
+          "artist": "Hardwell & W&W",
+          "title": "Jumper (Acappella)",
+          "remix": "",
+          "trackId": "2103256"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hardwell & W&W",
+      "title": "Jumper (Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2103256",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 4285,
+      "mediaIds": {
+        "spotify": "153953",
+        "youtube": "153953",
+        "soundcloud": "125098",
+        "appleMusic": "125098"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hardwell & W&W",
+          "title": "Jumper (Acappella)",
+          "remix": "",
+          "trackId": "2103256"
+        },
+        {
+          "artist": "Lookas & Crankdat",
+          "title": "Game Over",
+          "remix": "",
+          "trackId": "2103257"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lookas & Crankdat",
+      "title": "Game Over",
+      "remix": "",
+      "label": "LOKO",
+      "trackId": "2103257",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 4288,
+      "mediaIds": {
+        "spotify": "292916",
+        "youtube": "292916",
+        "soundcloud": "292916",
+        "appleMusic": "292916"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "Tiësto",
+      "title": "I Love Tiesto",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "3504945",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 4351,
+      "mediaIds": {
+        "youtube": "336833"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Axwell & Sebastian Ingrosso & Steve Angello & Laidback Luke ft. Deborah Cox",
+      "title": "Leave The World Behind (JayKode & Lookas Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "2100653",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 4495,
+      "mediaIds": {
+        "youtube": "320048"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Tiësto ft. Matthew Koma",
+      "title": "Wasted",
+      "remix": "",
+      "label": "PM:AM/MUSICAL FREEDOM",
+      "trackId": "2103258",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 4615,
+      "mediaIds": {
+        "spotify": "186030",
+        "youtube": "186030",
+        "soundcloud": "186030",
+        "appleMusic": "186030"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Quintino",
+      "title": "Get Low",
+      "remix": "",
+      "label": "SPINNIN' PREMIUM",
+      "trackId": "2103259",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 4667,
+      "mediaIds": {
+        "spotify": "291078",
+        "youtube": "291078",
+        "soundcloud": "291078",
+        "appleMusic": "291078"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Sandro Silva & Quintino",
+      "title": "Epic",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2103260",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 4755,
+      "mediaIds": {
+        "spotify": "38853",
+        "youtube": "38853",
+        "soundcloud": "38853",
+        "appleMusic": "38853"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "453937",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/270486411"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "450831",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:54:30.633Z",
+  "scrapeVersion": 2
+}

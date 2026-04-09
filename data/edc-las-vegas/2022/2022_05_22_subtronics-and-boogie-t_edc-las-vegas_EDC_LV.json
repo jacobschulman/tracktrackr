@@ -1,0 +1,998 @@
+{
+  "tlId": "100ms72t",
+  "dj": "Subtronics & Boogie T",
+  "stage": "EDC Las Vegas",
+  "date": "2022-05-22",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/100ms72t/subtronics-boogie-t-basspod-edc-las-vegas-united-states-2022-05-22.html",
+  "djs": [
+    {
+      "name": "Subtronics",
+      "slug": "subtronics"
+    },
+    {
+      "name": "Boogie T",
+      "slug": "boogiet"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Subtronics",
+      "title": "Ocean Lab",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "7736757",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "416948",
+        "youtube": "416948",
+        "soundcloud": "416948",
+        "appleMusic": "416948"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736758",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 139,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736759",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 193,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Internet Money ft. Don Toliver & Gunna & NAV",
+      "title": "Lemonade",
+      "remix": "",
+      "label": "INTERNET MONEY",
+      "trackId": "7736760",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 262,
+      "mediaIds": {
+        "spotify": "612300",
+        "youtube": "612300",
+        "soundcloud": "612300",
+        "appleMusic": "612300"
+      },
+      "blendGroup": [
+        {
+          "artist": "Internet Money ft. Don Toliver & Gunna & NAV",
+          "title": "Lemonade",
+          "remix": "",
+          "trackId": "7736760"
+        },
+        {
+          "artist": "Subtronics",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7736761"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Subtronics",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736761",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 278,
+      "mediaIds": null
+    },
+    {
+      "pos": "05",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736762",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 318,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Boogie T",
+      "title": "MONEY",
+      "remix": "",
+      "label": "DRAMA CLUB",
+      "trackId": "7736763",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 357,
+      "mediaIds": {
+        "spotify": "529386",
+        "youtube": "529386",
+        "soundcloud": "529386",
+        "appleMusic": "529386"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736764",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 441,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736765",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 496,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Subtronics",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736766",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 601,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736767",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 647,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736768",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 764,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736769",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 843,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Subtronics ft. Virus Syndicate",
+      "title": "Lullaby",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "7736770",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 987,
+      "mediaIds": {
+        "spotify": "600220",
+        "youtube": "600220",
+        "soundcloud": "600220",
+        "appleMusic": "600220"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Timmy Trumpet ft. Savage",
+      "title": "Freaks (Subtronics Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "7736771",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1086,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Boogie T & ConRank",
+      "title": "Mash It Up",
+      "remix": "",
+      "label": "DRAMA CLUB",
+      "trackId": "7736772",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1124,
+      "mediaIds": {
+        "spotify": "831293",
+        "youtube": "831293",
+        "soundcloud": "831293",
+        "appleMusic": "831293"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Boogie T & Whiskers",
+      "title": "Bad Motha",
+      "remix": "",
+      "label": "ARTIST INTELLIGENCE",
+      "trackId": "7736773",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1182,
+      "mediaIds": {
+        "spotify": "402716",
+        "soundcloud": "402716",
+        "appleMusic": "402716"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Sullivan King",
+      "title": "Bad Times",
+      "remix": "",
+      "label": "KANNIBALEN/THANK YOU FOR RAGING",
+      "trackId": "7736774",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1278,
+      "mediaIds": {
+        "spotify": "511647",
+        "youtube": "511647",
+        "soundcloud": "511647",
+        "appleMusic": "511647"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sullivan King",
+          "title": "Bad Times",
+          "remix": "",
+          "trackId": "7736774"
+        },
+        {
+          "artist": "Subtronics",
+          "title": "Cyclops Army",
+          "remix": "",
+          "trackId": "7749372"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Subtronics",
+      "title": "Cyclops Army",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "7749372",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1285,
+      "mediaIds": {
+        "spotify": "502453",
+        "youtube": "502453",
+        "soundcloud": "502453",
+        "appleMusic": "502453"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Riot Ten & Sullivan King ft. DJ Paul",
+      "title": "Pit Boss (BadKlaat Remix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "7736775",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1317,
+      "mediaIds": {
+        "spotify": "401715",
+        "youtube": "401715",
+        "soundcloud": "401715",
+        "appleMusic": "401715"
+      },
+      "blendGroup": [
+        {
+          "artist": "Riot Ten & Sullivan King ft. DJ Paul",
+          "title": "Pit Boss (BadKlaat Remix)",
+          "remix": "",
+          "trackId": "7736775"
+        },
+        {
+          "artist": "HOL!",
+          "title": "Somewhere",
+          "remix": "",
+          "trackId": "7749373"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "HOL!",
+      "title": "Somewhere",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "7749373",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 1330,
+      "mediaIds": {
+        "spotify": "702875",
+        "youtube": "702875",
+        "soundcloud": "702875",
+        "appleMusic": "702875"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736776",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1367,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Subtronics",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736777",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1435,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "BOOGIE T.RIO",
+      "title": "Dear Weed Man",
+      "remix": "(Original Version)",
+      "label": "DRAMA CLUB",
+      "trackId": "7736778",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1495,
+      "mediaIds": {
+        "spotify": "777622",
+        "youtube": "777622",
+        "soundcloud": "777622"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Boogie T",
+      "title": "2KFO (Subtronics Remix)",
+      "remix": "",
+      "label": "DRAMA CLUB",
+      "trackId": "7736779",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1682,
+      "mediaIds": {
+        "spotify": "407028",
+        "youtube": "407028",
+        "soundcloud": "407028",
+        "appleMusic": "407028"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Haddaway",
+      "title": "What Is Love",
+      "remix": "",
+      "label": "RAZOR & TIE",
+      "trackId": "7736780",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1710,
+      "mediaIds": {
+        "spotify": "108071",
+        "youtube": "108071",
+        "soundcloud": "108071",
+        "appleMusic": "108071"
+      },
+      "blendGroup": [
+        {
+          "artist": "Haddaway",
+          "title": "What Is Love",
+          "remix": "",
+          "trackId": "7736780"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7736781"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736781",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 1724,
+      "mediaIds": null
+    },
+    {
+      "pos": "24",
+      "artist": "Boogie T & SQUNTO",
+      "title": "Lit",
+      "remix": "",
+      "label": "DRAGON NOISE",
+      "trackId": "7736782",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1759,
+      "mediaIds": {
+        "spotify": "526095",
+        "youtube": "526095",
+        "soundcloud": "526095",
+        "appleMusic": "526095"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "HOL!",
+      "title": "Distroted Chapter 1",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "7736783",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 1894,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "GRiZ ft. Subtronics",
+      "title": "Griztronics (SVDDEN DEATH Edit)",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "7736784",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 1988,
+      "mediaIds": {
+        "soundcloud": "555476"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736785",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2052,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Boogie T",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736786",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2135,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "JAUZ & Zeds Dead",
+      "title": "Lights Go Down (Subtronics Remix)",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "7736787",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2212,
+      "mediaIds": {
+        "spotify": "415791",
+        "youtube": "415791",
+        "soundcloud": "415791",
+        "appleMusic": "415791"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Subtronics & Boogie T",
+      "title": "Hit ‘Em",
+      "remix": "",
+      "label": "SUBCARBON",
+      "trackId": "7736788",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2302,
+      "mediaIds": {
+        "spotify": "409870",
+        "youtube": "409870",
+        "soundcloud": "409870",
+        "appleMusic": "409870"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Boogie T & GRiZ",
+      "title": "Supa Fly (Gentlemens Club Remix)",
+      "remix": "",
+      "label": "DRAMA CLUB",
+      "trackId": "7736789",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2355,
+      "mediaIds": {
+        "spotify": "494241",
+        "youtube": "494241",
+        "soundcloud": "494241",
+        "appleMusic": "494241"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "MurDa & Subtronics",
+      "title": "God Of Destruction",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "7736790",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2446,
+      "mediaIds": {
+        "spotify": "416470",
+        "youtube": "416470",
+        "soundcloud": "416470",
+        "appleMusic": "416470"
+      },
+      "blendGroup": [
+        {
+          "artist": "MurDa & Subtronics",
+          "title": "God Of Destruction",
+          "remix": "",
+          "trackId": "7736790"
+        },
+        {
+          "artist": "Phiso",
+          "title": "Jotaro",
+          "remix": "",
+          "trackId": "7749374"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Phiso",
+      "title": "Jotaro",
+      "remix": "",
+      "label": "SMOG",
+      "trackId": "7749374",
+      "row": 32,
+      "type": "blend",
+      "cueTime": 2479,
+      "mediaIds": {
+        "spotify": "259838",
+        "youtube": "259838",
+        "soundcloud": "259838",
+        "appleMusic": "259838"
+      }
+    },
+    {
+      "pos": "33",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736791",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 2512,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736792",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 2565,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Subtronics",
+      "title": "Bar Mitzvah Disaster",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "7736793",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 2624,
+      "mediaIds": {
+        "spotify": "850683",
+        "youtube": "850683",
+        "soundcloud": "850683"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "REZZ",
+      "title": "Edge",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "7736794",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 2659,
+      "mediaIds": {
+        "spotify": "295667",
+        "youtube": "295667",
+        "soundcloud": "295667",
+        "appleMusic": "295667"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "PhaseOne ft. In Hearts Wake",
+      "title": "Welcome To Mayhem",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "7736795",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 2709,
+      "mediaIds": {
+        "spotify": "342943",
+        "youtube": "342943",
+        "soundcloud": "342943",
+        "appleMusic": "342943"
+      },
+      "blendGroup": [
+        {
+          "artist": "PhaseOne ft. In Hearts Wake",
+          "title": "Welcome To Mayhem",
+          "remix": "",
+          "trackId": "7736795"
+        },
+        {
+          "artist": "Skenz & Subtronics",
+          "title": "Two Faced",
+          "remix": "",
+          "trackId": "7736796"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skenz & Subtronics",
+      "title": "Two Faced",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "7736796",
+      "row": 37,
+      "type": "blend",
+      "cueTime": 2710,
+      "mediaIds": {
+        "spotify": "417075",
+        "youtube": "417075",
+        "soundcloud": "417075",
+        "appleMusic": "417075"
+      }
+    },
+    {
+      "pos": "38",
+      "artist": "Arizona Zervas",
+      "title": "Roxanne",
+      "remix": "",
+      "label": "KOBALT",
+      "trackId": "7736797",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 2741,
+      "mediaIds": {
+        "spotify": "552218",
+        "youtube": "552218",
+        "soundcloud": "552218",
+        "appleMusic": "552218"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736798",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 2829,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Cardi B",
+      "title": "Up",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "7736799",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 2928,
+      "mediaIds": {
+        "spotify": "655086",
+        "youtube": "655086",
+        "soundcloud": "655086",
+        "appleMusic": "655086"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "Serum",
+      "title": "Lumberjack",
+      "remix": "",
+      "label": "SOUPED UP",
+      "trackId": "7736800",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 3008,
+      "mediaIds": {
+        "spotify": "429338",
+        "youtube": "429338",
+        "soundcloud": "429338",
+        "appleMusic": "429338"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736801",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 3038,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "43",
+      "artist": "Ludacris",
+      "title": "Get Back",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "7736802",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 3083,
+      "mediaIds": {
+        "spotify": "612004",
+        "youtube": "612004",
+        "soundcloud": "612004",
+        "appleMusic": "612004"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "44",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736803",
+      "row": 44,
+      "type": "normal",
+      "cueTime": 3171,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "45",
+      "artist": "Plan B",
+      "title": "Love Goes Down (Doctor P Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "7736804",
+      "row": 45,
+      "type": "normal",
+      "cueTime": 3194,
+      "mediaIds": {
+        "spotify": "28606",
+        "youtube": "28606",
+        "soundcloud": "28606",
+        "appleMusic": "28606"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "46",
+      "artist": "Atmosphere",
+      "title": "GodLovesUgly (Zeds Dead & Subtronics Remix)",
+      "remix": "",
+      "label": "RHYMESAYERS/DEADBEATS",
+      "trackId": "7736805",
+      "row": 46,
+      "type": "normal",
+      "cueTime": 3272,
+      "mediaIds": {
+        "spotify": "581085",
+        "youtube": "581085",
+        "soundcloud": "581085",
+        "appleMusic": "581085"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "47",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736806",
+      "row": 47,
+      "type": "normal",
+      "cueTime": 3337,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "48",
+      "artist": "NGHTMRE & Subtronics ft. Boogie T",
+      "title": "Nuclear Bass Face",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "7736807",
+      "row": 48,
+      "type": "normal",
+      "cueTime": 3416,
+      "mediaIds": {
+        "spotify": "581154",
+        "youtube": "581154",
+        "soundcloud": "581154",
+        "appleMusic": "581154"
+      },
+      "blendGroup": [
+        {
+          "artist": "NGHTMRE & Subtronics ft. Boogie T",
+          "title": "Nuclear Bass Face",
+          "remix": "",
+          "trackId": "7736807"
+        },
+        {
+          "artist": "DEAD APOSTLE & Hassan",
+          "title": "Zabaniya",
+          "remix": "",
+          "trackId": "7749375"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DEAD APOSTLE & Hassan",
+      "title": "Zabaniya",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7749375",
+      "row": 48,
+      "type": "blend",
+      "cueTime": 3422,
+      "mediaIds": {
+        "youtube": "470055",
+        "soundcloud": "470055"
+      }
+    },
+    {
+      "pos": "49",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7736808",
+      "row": 49,
+      "type": "normal",
+      "cueTime": 3469,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2822833",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=c2JVk0Un8iQ"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:42:36.450Z",
+  "scrapeVersion": 2
+}

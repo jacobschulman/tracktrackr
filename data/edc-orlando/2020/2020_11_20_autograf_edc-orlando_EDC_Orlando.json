@@ -1,0 +1,399 @@
+{
+  "tlId": "mu1858k",
+  "dj": "Autograf",
+  "stage": "EDC Orlando",
+  "date": "2020-11-20",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/mu1858k/autograf-edc-orlando-virtual-rave-a-thon-the-exchange-los-angeles-united-states-2020-11-20.html",
+  "djs": [
+    {
+      "name": "Autograf",
+      "slug": "autograf"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "LifeLike & Kris Menace",
+      "title": "Discopolis 2.0 (MEDUZA Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5580530",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 150,
+      "mediaIds": {
+        "spotify": "578788",
+        "youtube": "578788",
+        "soundcloud": "578788",
+        "appleMusic": "578788"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Aden",
+      "title": "Whip (Jimmy Edgar Remix)",
+      "remix": "",
+      "label": "ULTRAMAJIC (HOTFLUSH)",
+      "trackId": "13714336",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 327,
+      "mediaIds": {
+        "spotify": "163906",
+        "youtube": "163906",
+        "soundcloud": "163906",
+        "appleMusic": "163906"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Autograf & Janelle Kroll",
+      "title": "Walk With You",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5580531",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 366,
+      "mediaIds": {
+        "spotify": "617533",
+        "youtube": "617533",
+        "soundcloud": "617533",
+        "appleMusic": "617533"
+      },
+      "blendGroup": [
+        {
+          "artist": "Autograf & Janelle Kroll",
+          "title": "Walk With You",
+          "remix": "",
+          "trackId": "5580531"
+        },
+        {
+          "artist": "Tchami",
+          "title": "Adieu",
+          "remix": "",
+          "trackId": "5580532"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tchami",
+      "title": "Adieu",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "5580532",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 478,
+      "mediaIds": {
+        "spotify": "345438",
+        "youtube": "345438",
+        "soundcloud": "345438",
+        "appleMusic": "345438"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Autograf ft. Kaleena Zanders",
+      "title": "If You Never Loved Me",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5580533",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 598,
+      "mediaIds": {
+        "spotify": "626057",
+        "soundcloud": "626057",
+        "appleMusic": "626057"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Autograf & NIve",
+      "title": "Take U To The Moon",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5580534",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 712,
+      "mediaIds": {
+        "spotify": "632374",
+        "youtube": "632374",
+        "soundcloud": "632374",
+        "appleMusic": "632374"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Autograf",
+      "title": "Dream (Boehm Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "5580535",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 842,
+      "mediaIds": {
+        "soundcloud": "287296"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Sam Feldt ft. Kimberly Anne",
+      "title": "Show Me Love (EDX Indian Summer Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "5580536",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 892,
+      "mediaIds": {
+        "spotify": "249760",
+        "youtube": "249760",
+        "soundcloud": "249760",
+        "appleMusic": "249760"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Shift K3Y",
+      "title": "I Know",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "5580585",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 973,
+      "mediaIds": {
+        "spotify": "203241"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Autograf ft. Amés",
+      "title": "Real",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5580586",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1068,
+      "mediaIds": {
+        "spotify": "632375",
+        "youtube": "632375",
+        "soundcloud": "632375",
+        "appleMusic": "632375"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Fleetwood Mac",
+      "title": "Dreams (Autograf Remix)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "5580587",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1180,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Autograf",
+      "title": "Bali",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5580588",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1288,
+      "mediaIds": {
+        "spotify": "632376",
+        "youtube": "632376",
+        "soundcloud": "632376",
+        "appleMusic": "632376"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Autograf ft. Kole",
+      "title": "Space",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5580589",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1418,
+      "mediaIds": {
+        "spotify": "568089",
+        "youtube": "568089",
+        "appleMusic": "568089"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Sharam Jey",
+      "title": "Your Body",
+      "remix": "",
+      "label": "KING KONG",
+      "trackId": "5580590",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1544,
+      "mediaIds": {
+        "spotify": "410391",
+        "youtube": "410391",
+        "soundcloud": "410391",
+        "appleMusic": "410391"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Autograf ft. Jared Lee",
+      "title": "Ain't Deep Enough",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5580591",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1657,
+      "mediaIds": {
+        "spotify": "536307",
+        "youtube": "536307",
+        "appleMusic": "536307"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Loud Luxury & Frank Walker ft. Stephen Puth",
+      "title": "Like Gold",
+      "remix": "",
+      "label": "ARMADA/PALM TREE",
+      "trackId": "5580592",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1807,
+      "mediaIds": {
+        "spotify": "626204",
+        "youtube": "626204",
+        "soundcloud": "626204",
+        "appleMusic": "626204"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Autograf",
+      "title": "Undivided",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5580593",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1936,
+      "mediaIds": {
+        "spotify": "604337",
+        "youtube": "604337",
+        "soundcloud": "604337",
+        "appleMusic": "604337"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Autograf ft. Papa Ya",
+      "title": "Easy",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5580604",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2123,
+      "mediaIds": {
+        "spotify": "557560",
+        "youtube": "557560",
+        "appleMusic": "557560"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Walker & Royce ft. VNSSA",
+      "title": "Word (Black V Neck Remix)",
+      "remix": "",
+      "label": "HOTBOI",
+      "trackId": "5580605",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2220,
+      "mediaIds": {
+        "spotify": "619772",
+        "soundcloud": "619772",
+        "appleMusic": "619772"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Autograf",
+      "title": "Wheel Of Fortune",
+      "remix": "",
+      "label": "",
+      "trackId": "5580606",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2405,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Autograf & Scorsi",
+      "title": "Waiting",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5580607",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2436,
+      "mediaIds": {
+        "spotify": "593056",
+        "youtube": "593056",
+        "soundcloud": "593056",
+        "appleMusic": "593056"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1974938",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=mnAruoWWl2o"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:56:01.559Z",
+  "scrapeVersion": 2
+}

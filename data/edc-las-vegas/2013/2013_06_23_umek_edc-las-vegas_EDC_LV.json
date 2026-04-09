@@ -1,0 +1,307 @@
+{
+  "tlId": "6rj4q9k",
+  "dj": "Umek",
+  "stage": "EDC Las Vegas",
+  "date": "2013-06-23",
+  "year": 2013,
+  "url": "https://www.1001tracklists.com/tracklist/6rj4q9k/umek-kineticfield-edc-las-vegas-united-states-2013-06-23.html",
+  "djs": [
+    {
+      "name": "Umek",
+      "slug": "umek"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Parov Stelar",
+      "title": "All Night (UMEK Remix)",
+      "remix": "",
+      "label": "ETAGE NOIR",
+      "trackId": "542968",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Maximus Bellini",
+      "title": "Like This",
+      "remix": "",
+      "label": "1605",
+      "trackId": "542969",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 360,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Daft Punk",
+      "title": "Crescendolls",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "542970",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 660,
+      "mediaIds": {
+        "spotify": "109670",
+        "youtube": "109670",
+        "soundcloud": "109670",
+        "appleMusic": "109670"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Crescendolls",
+          "remix": "",
+          "trackId": "542970"
+        },
+        {
+          "artist": "Affani",
+          "title": "Can You Imagine",
+          "remix": "",
+          "trackId": "3769140"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Affani",
+      "title": "Can You Imagine",
+      "remix": "",
+      "label": "INSERT COIN",
+      "trackId": "3769140",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 660,
+      "mediaIds": {
+        "youtube": "130351"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Kevin Andrews & Jason Chance",
+      "title": "Whatever",
+      "remix": "",
+      "label": "1605",
+      "trackId": "546458",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 960,
+      "mediaIds": {
+        "spotify": "133770",
+        "youtube": "133770",
+        "soundcloud": "133770",
+        "appleMusic": "133770"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Guille Placencia",
+      "title": "Gamemaster",
+      "remix": "",
+      "label": "LOOPING",
+      "trackId": "542971",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1200,
+      "mediaIds": {
+        "spotify": "141647"
+      },
+      "blendGroup": [
+        {
+          "artist": "Guille Placencia",
+          "title": "Gamemaster",
+          "remix": "",
+          "trackId": "542971"
+        },
+        {
+          "artist": "System Of A Down",
+          "title": "B.Y.O.B.",
+          "remix": "",
+          "trackId": "3769141"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "System Of A Down",
+      "title": "B.Y.O.B.",
+      "remix": "",
+      "label": "AMERICAN RECORDINGS",
+      "trackId": "3769141",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 1402,
+      "mediaIds": {
+        "spotify": "59549",
+        "youtube": "59549",
+        "soundcloud": "59549",
+        "appleMusic": "59549"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Superskank",
+      "title": "Good Time (Olivier Giacomotto Remix)",
+      "remix": "",
+      "label": "1605",
+      "trackId": "542972",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1440,
+      "mediaIds": {
+        "spotify": "50703",
+        "youtube": "50703",
+        "soundcloud": "50703",
+        "appleMusic": "50703"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "UMEK & Groovebox",
+      "title": "Cause & Effect",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "542973",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1620,
+      "mediaIds": {
+        "spotify": "142203",
+        "youtube": "142203",
+        "appleMusic": "142203"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Siwell & Mihalis Safras",
+      "title": "Method Man",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "542975",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1920,
+      "mediaIds": {
+        "youtube": "91712",
+        "soundcloud": "91712"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "George Privatti & Guille Placencia",
+      "title": "The Legend",
+      "remix": "",
+      "label": "LOOPING",
+      "trackId": "542976",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 2280,
+      "mediaIds": {
+        "spotify": "126720",
+        "appleMusic": "126720"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Groovebox",
+      "title": "Ghetto Boy",
+      "remix": "",
+      "label": "1605",
+      "trackId": "542977",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2520,
+      "mediaIds": {
+        "soundcloud": "133763"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "UMEK",
+      "title": "100% Sure",
+      "remix": "",
+      "label": "DEEPERFECT",
+      "trackId": "542979",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2880,
+      "mediaIds": {
+        "spotify": "93106"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Cole Jonson",
+      "title": "Sneak Out",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "619870",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 3000,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Guille Placencia",
+      "title": "Ludopatia",
+      "remix": "",
+      "label": "TRIPLEPOINT",
+      "trackId": "542980",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 3120,
+      "mediaIds": {
+        "spotify": "98301"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "96555",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/98649574"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "96565",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/98658485"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "96564",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/dj_umek"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "96731",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=CRffmRvLeN8"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:14:09.624Z",
+  "scrapeVersion": 2
+}

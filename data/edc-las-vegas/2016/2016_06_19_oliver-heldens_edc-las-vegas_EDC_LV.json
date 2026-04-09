@@ -1,0 +1,375 @@
+{
+  "tlId": "mp3bu7k",
+  "dj": "Oliver Heldens",
+  "stage": "EDC Las Vegas",
+  "date": "2016-06-19",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/mp3bu7k/oliver-heldens-kineticfield-edc-las-vegas-united-states-2016-06-19.html",
+  "djs": [
+    {
+      "name": "Oliver Heldens",
+      "slug": "oliverheldens"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Dr. Kucho & Gregor Salto & Oliver Heldens vs. Tiesto vs. Tag Team vs. Mark Ronson",
+      "title": "Can't Stop Playing vs. Wombass vs. Whoomp There It Is vs. Uptown Funk (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "2098155",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Martin Solveig & GTA",
+      "title": "Intoxicated",
+      "remix": "",
+      "label": "SPINNIN' DEEP",
+      "trackId": "2098156",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "215977",
+        "youtube": "215977",
+        "soundcloud": "215977",
+        "appleMusic": "215977"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Solveig & GTA",
+          "title": "Intoxicated",
+          "remix": "",
+          "trackId": "2098156"
+        },
+        {
+          "artist": "Junior Senior",
+          "title": "Move Your Feet",
+          "remix": "",
+          "trackId": "2098157"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Junior Senior",
+      "title": "Move Your Feet",
+      "remix": "",
+      "label": "CRUNCHY FROG",
+      "trackId": "2098157",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "68022",
+        "youtube": "68022",
+        "soundcloud": "68022",
+        "appleMusic": "68022"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Oliver Heldens & Shaun Frank & Delaney Jane vs. Maroon 5",
+      "title": "Shades Of Grey vs. Sugar (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "INTERSCOPE/SPINNIN'/POSITIVA",
+      "trackId": "2098161",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "322565"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Scott Grooves ft. Parliament Funkadelic",
+      "title": "Mothership Reconnection (Daft Punk Remix Tristan Garner Monster Edit)",
+      "remix": "",
+      "label": "SOMA",
+      "trackId": "2098158",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "17468",
+        "youtube": "17468",
+        "soundcloud": "17468",
+        "appleMusic": "17468"
+      },
+      "blendGroup": [
+        {
+          "artist": "Scott Grooves ft. Parliament Funkadelic",
+          "title": "Mothership Reconnection (Daft Punk Remix Tristan Garner Monster Edit)",
+          "remix": "",
+          "trackId": "2098158"
+        },
+        {
+          "artist": "Justice vs. Simian",
+          "title": "We Are Your Friends (Acappella)",
+          "remix": "",
+          "trackId": "2098159"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice vs. Simian",
+      "title": "We Are Your Friends (Acappella)",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "2098159",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8095",
+        "youtube": "8095",
+        "soundcloud": "3157",
+        "appleMusic": "8095"
+      },
+      "blendGroup": [
+        {
+          "artist": "Justice vs. Simian",
+          "title": "We Are Your Friends (Acappella)",
+          "remix": "",
+          "trackId": "2098159"
+        },
+        {
+          "artist": "Lady Bee ft. Rochelle",
+          "title": "Return Of The Mack (Oliver Heldens Remix)",
+          "remix": "",
+          "trackId": "2098160"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lady Bee ft. Rochelle",
+      "title": "Return Of The Mack (Oliver Heldens Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2098160",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "231847",
+        "youtube": "231847",
+        "soundcloud": "231847",
+        "appleMusic": "231847"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Oliver Heldens",
+      "title": "Gecko",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2098119",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "160669",
+        "youtube": "160669",
+        "soundcloud": "160669",
+        "appleMusic": "160669"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Oliver Heldens",
+      "title": "Koala",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2098120",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "201710",
+        "youtube": "201710",
+        "soundcloud": "201710",
+        "appleMusic": "201710"
+      },
+      "blendGroup": [
+        {
+          "artist": "Oliver Heldens",
+          "title": "Koala",
+          "remix": "",
+          "trackId": "2098120"
+        },
+        {
+          "artist": "Criminal Vibes vs. Wamdue Project",
+          "title": "Calabria & King Of My Castle (DJ Harmony Mashup)",
+          "remix": "",
+          "trackId": "2098122"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Criminal Vibes vs. Wamdue Project",
+      "title": "Calabria & King Of My Castle (DJ Harmony Mashup)",
+      "remix": "",
+      "label": "STRICTLY RHYTHM/HEDKANDI",
+      "trackId": "2098122",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "214843"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Calvin Harris ft. John Newman",
+      "title": "Blame (Mike Williams Future Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "2098123",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 200,
+      "mediaIds": {
+        "youtube": "226093",
+        "soundcloud": "226093"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Oliver Heldens vs. Galantis",
+      "title": "Melody vs. Runaway (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/BIG BEAT (ATLANTIC)",
+      "trackId": "2098124",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 293,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Curbi & Fox Stevenson vs. Mastiksoul",
+      "title": "Hoohah vs. Mama Coma (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2098125",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 397,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "David Guetta & Fred Rister & Joachim Garraud vs. Pep & Rash",
+      "title": "Love Is Gone vs. Red Roses (Oliver Heldens Mashup)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)/SPINNIN'",
+      "trackId": "2098126",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 559,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Oliver Heldens & Chocolate Puma",
+      "title": "Space Sheep",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "2098127",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 670,
+      "mediaIds": {
+        "spotify": "304657",
+        "youtube": "304657",
+        "soundcloud": "304657",
+        "appleMusic": "304657"
+      },
+      "blendGroup": [
+        {
+          "artist": "Oliver Heldens & Chocolate Puma",
+          "title": "Space Sheep",
+          "remix": "",
+          "trackId": "2098127"
+        },
+        {
+          "artist": "Run DMC",
+          "title": "It's Like That (Acappella)",
+          "remix": "",
+          "trackId": "2098128"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Run DMC",
+      "title": "It's Like That (Acappella)",
+      "remix": "",
+      "label": "ARISTA",
+      "trackId": "2098128",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "4123",
+        "youtube": "23189",
+        "soundcloud": "4123",
+        "appleMusic": "4123"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "451387",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=VxP4GpPnhds"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "449645",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/Livesets2016"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "470480",
+      "idSource": "40",
+      "url": "https://hearthis.at/174882/"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "450492",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    },
+    {
+      "platform": "source_27",
+      "idMedia": "449690",
+      "idSource": "27",
+      "url": "https://www.dailymotion.com/embed/video/x4hcpvt_oliver-heldens-live-at-eletric-daisy-carnival-las-vegas-edc-2016_music"
+    }
+  ],
+  "scrapedAt": "2026-04-08T08:01:48.436Z",
+  "scrapeVersion": 2
+}

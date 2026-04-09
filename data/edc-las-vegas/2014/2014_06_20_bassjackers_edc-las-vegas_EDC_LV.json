@@ -1,0 +1,608 @@
+{
+  "tlId": "6p5m6ck",
+  "dj": "Bassjackers",
+  "stage": "EDC Las Vegas",
+  "date": "2014-06-20",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/6p5m6ck/bassjackers-kineticfield-edc-las-vegas-united-states-2014-06-20.html",
+  "djs": [
+    {
+      "name": "Bassjackers",
+      "slug": "bassjackers"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Bassjackers",
+      "title": "Crackin (Martin Garrix Edit)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "952709",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "170526",
+        "youtube": "170526",
+        "soundcloud": "170526",
+        "appleMusic": "170526"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Dimitri Vegas & Like Mike vs. Thomas Newson vs. Bingo Players vs. Sunnery James & Ryan Marciano",
+      "title": "Chattahoochee vs. Pallaroid vs. Buzzcut vs. Salute (W&W Mashup)",
+      "remix": "",
+      "label": "HYSTERIA/SMASH THE HOUSE/REVEALED/SPINNIN'",
+      "trackId": "952712",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 174,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "R3hab & Deorro vs. Disclosure",
+      "title": "Latch Light (Bassjackers Mashup)",
+      "remix": "",
+      "label": "ISLAND (UMG)/SPINNIN'",
+      "trackId": "952713",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 231,
+      "mediaIds": {
+        "youtube": "188575"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Jordy Dazz & Bassjackers",
+      "title": "Battle",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "952714",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 345,
+      "mediaIds": {
+        "spotify": "172548",
+        "youtube": "172548",
+        "soundcloud": "172548",
+        "appleMusic": "172548"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Tiesto vs. Blasterjaxx",
+      "title": "Lethal Mystica (Bassjackers Mashup)",
+      "remix": "",
+      "label": "MAGIK MUZIK (BLACK HOLE)/REVEALED",
+      "trackId": "952715",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 419,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Dannic ft. Bright Lights",
+      "title": "Dear Life (Bassjackers Remix)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "952717",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 506,
+      "mediaIds": {
+        "spotify": "202193",
+        "youtube": "202193",
+        "soundcloud": "202193",
+        "appleMusic": "202193"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dannic ft. Bright Lights",
+          "title": "Dear Life (Bassjackers Remix)",
+          "remix": "",
+          "trackId": "952717"
+        },
+        {
+          "artist": "Joachim Garraud",
+          "title": "Are U Ready (Acappella)",
+          "remix": "",
+          "trackId": "6160221"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Joachim Garraud",
+      "title": "Are U Ready (Acappella)",
+      "remix": "",
+      "label": "GUM PROD",
+      "trackId": "6160221",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3680",
+        "youtube": "3680",
+        "soundcloud": "17650"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Bassjackers & MAKJ vs. Linkin Park",
+      "title": "Derp Numb (MAKJ Edit)",
+      "remix": "",
+      "label": "WARNER BROS./HYSTERIA",
+      "trackId": "952719",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 690,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Deorro & MAKJ",
+      "title": "Lose Your Mind",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "952721",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 809,
+      "mediaIds": {
+        "youtube": "199875",
+        "soundcloud": "199875"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Empire Of The Sun & Zedd vs. Adrian Lux & Marcus Schossow & Bassjackers ft. JJ",
+      "title": "Alive vs. Wild Child (Bassjackers Mashup)",
+      "remix": "",
+      "label": "CAPITOL (EMI)/ULTRA",
+      "trackId": "1068381",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 895,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Bassjackers",
+      "title": "Like That",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "952725",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1007,
+      "mediaIds": {
+        "spotify": "203917",
+        "youtube": "203917",
+        "soundcloud": "203917",
+        "appleMusic": "203917"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bassjackers",
+          "title": "Like That",
+          "remix": "",
+          "trackId": "952725"
+        },
+        {
+          "artist": "Sebastien Benett",
+          "title": "Let Me See Those Hands (Acappella)",
+          "remix": "",
+          "trackId": "6160222"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sebastien Benett",
+      "title": "Let Me See Those Hands (Acappella)",
+      "remix": "",
+      "label": "BUGEYED",
+      "trackId": "6160222",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "137498",
+        "youtube": "201282",
+        "appleMusic": "137498"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "R3HAB & Bassjackers",
+      "title": "Raise Those Hands",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "952726",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1194,
+      "mediaIds": {
+        "spotify": "135996",
+        "youtube": "135996",
+        "soundcloud": "135996",
+        "appleMusic": "135996"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Tiesto & Afrojack vs. Steve Aoki & Autoerotique & Dimitri Vegas & Like Mike",
+      "title": "Red Lights vs. Feedback (Bassjackers Mashup)",
+      "remix": "",
+      "label": "DIM MAK/PM:AM/MUSICAL FREEDOM",
+      "trackId": "952727",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1296,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Wolfpack & Bobby Puma vs. Hook N Sling & Axwell",
+      "title": "Jump vs. Tokyo By Night (Bassjackers Mashup)",
+      "remix": "",
+      "label": "SMASH THE HOUSE/AXTONE",
+      "trackId": "952729",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1442,
+      "mediaIds": {
+        "soundcloud": "200677"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Martin Garrix & MOTi ft. Jenny Wahlström",
+      "title": "Virus (How About Now) (Instrumental)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "952731",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1623,
+      "mediaIds": {
+        "youtube": "205099",
+        "soundcloud": "205099"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Dimitri Vegas & Like Mike & Sander Van Doorn & Martin Garrix vs. Sebastian Ingrosso & Tommy Trash vs. Showtek",
+      "title": "Reload vs. Project T vs. We Like To Party (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "REFUNE/SMASH THE HOUSE/SKINK",
+      "trackId": "952732",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1686,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+      "title": "Tremor (Sensation 2014 Anthem)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "952778",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1949,
+      "mediaIds": {
+        "spotify": "167281",
+        "youtube": "167281",
+        "soundcloud": "167281",
+        "appleMusic": "167281"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+          "title": "Tremor (Sensation 2014 Anthem)",
+          "remix": "",
+          "trackId": "952778"
+        },
+        {
+          "artist": "Hardwell & W&W",
+          "title": "Jumper (Acappella)",
+          "remix": "",
+          "trackId": "952779"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hardwell & W&W",
+      "title": "Jumper (Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "952779",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "153953",
+        "youtube": "153953",
+        "soundcloud": "125098",
+        "appleMusic": "125098"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Bassjackers & Kenneth G vs. Tiesto",
+      "title": "Rampage vs. Maximal Crazy (Bassjackers Mashup)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/REVEALED",
+      "trackId": "952780",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2070,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "MAKJ & M35",
+      "title": "GO (Showtek Edit)",
+      "remix": "",
+      "label": "SKINK",
+      "trackId": "952782",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2283,
+      "mediaIds": {
+        "spotify": "201056",
+        "youtube": "201056",
+        "soundcloud": "201056",
+        "appleMusic": "201056"
+      },
+      "blendGroup": [
+        {
+          "artist": "MAKJ & M35",
+          "title": "GO (Showtek Edit)",
+          "remix": "",
+          "trackId": "952782"
+        },
+        {
+          "artist": "Dada Life",
+          "title": "Kick Out The Epic Motherfucker (Acappella)",
+          "remix": "",
+          "trackId": "952783"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dada Life",
+      "title": "Kick Out The Epic Motherfucker (Acappella)",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "952783",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "56705",
+        "youtube": "75276",
+        "soundcloud": "75276",
+        "appleMusic": "56705"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dada Life",
+          "title": "Kick Out The Epic Motherfucker (Acappella)",
+          "remix": "",
+          "trackId": "952783"
+        },
+        {
+          "artist": "Tiësto & Diplo ft. Busta Rhymes",
+          "title": "C'mon (Catch Em By Surprise) (Acappella)",
+          "remix": "",
+          "trackId": "952784"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & Diplo ft. Busta Rhymes",
+      "title": "C'mon (Catch Em By Surprise) (Acappella)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "952784",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "73389",
+        "youtube": "73389",
+        "soundcloud": "73389"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Red Hot Chili Peppers vs. Ummet Ozcan",
+      "title": "Otherside vs. Raise Your Hands (Bassjackers Mashup)",
+      "remix": "",
+      "label": "WARNER BROS./SPINNIN'",
+      "trackId": "952785",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2421,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "JETFIRE & Happy Enemies vs. Hardwell & MAKJ",
+      "title": "Brazil vs. Countdown (Bassjackers Mashup)",
+      "remix": "",
+      "label": "REVEALED/MAINSTAGE (ARMADA)",
+      "trackId": "952787",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2567,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Bassjackers",
+      "title": "Savior",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "952789",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2686,
+      "mediaIds": {
+        "spotify": "216407",
+        "youtube": "216407",
+        "soundcloud": "216407",
+        "appleMusic": "216407"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Zombie Nation",
+      "title": "Kernkraft 400 (W&W Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "952790",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2792,
+      "mediaIds": {
+        "youtube": "196922",
+        "soundcloud": "196922"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Kaskade & Project 46 vs. Knife Party",
+      "title": "One Last Chance To Rage (Bassjackers Mashup)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "952792",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2919,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Eric Prydz",
+      "title": "Every Day",
+      "remix": "",
+      "label": "PRYDA",
+      "trackId": "952794",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3042,
+      "mediaIds": {
+        "spotify": "76435",
+        "youtube": "76435",
+        "soundcloud": "76435",
+        "appleMusic": "76435"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Bassjackers",
+      "title": "Mush Mush",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "952795",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3151,
+      "mediaIds": {
+        "spotify": "30663",
+        "youtube": "30663",
+        "soundcloud": "30663",
+        "appleMusic": "30663"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bassjackers",
+          "title": "Mush Mush",
+          "remix": "",
+          "trackId": "952795"
+        },
+        {
+          "artist": "Justice vs. Simian",
+          "title": "We Are Your Friends (Acappella)",
+          "remix": "",
+          "trackId": "952796"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice vs. Simian",
+      "title": "We Are Your Friends (Acappella)",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "952796",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8095",
+        "youtube": "8095",
+        "soundcloud": "3157",
+        "appleMusic": "8095"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "194913",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=iw7quU9XJf4"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "189571",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/thebesthouse"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "190521",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:09:08.624Z",
+  "scrapeVersion": 2
+}

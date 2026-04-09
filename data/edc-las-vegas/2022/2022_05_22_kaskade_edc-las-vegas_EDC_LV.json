@@ -1,0 +1,446 @@
+{
+  "tlId": "fdkksp9",
+  "dj": "Kaskade",
+  "stage": "EDC Las Vegas",
+  "date": "2022-05-22",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/fdkksp9/kaskade-redux-kineticfield-edc-las-vegas-united-states-2022-05-22.html",
+  "djs": [
+    {
+      "name": "Kaskade",
+      "slug": "kaskade"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Kaskade",
+      "title": "4AM (Adam K & Soha Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "7718695",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "18675",
+        "youtube": "18675",
+        "soundcloud": "18675",
+        "appleMusic": "18675"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kaskade",
+          "title": "4AM (Adam K & Soha Remix)",
+          "remix": "",
+          "trackId": "7718695"
+        },
+        {
+          "artist": "Kaskade & L'Tric ft. Sydney Streb",
+          "title": "Birds Of Paradise",
+          "remix": "",
+          "trackId": "7718696"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kaskade & L'Tric ft. Sydney Streb",
+      "title": "Birds Of Paradise",
+      "remix": "",
+      "label": "ARKADE",
+      "trackId": "7718696",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 270,
+      "mediaIds": {
+        "spotify": "756292",
+        "youtube": "756292",
+        "appleMusic": "756292"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Kaskade ft. Marcus Bently",
+      "title": "Let Me Go v.3",
+      "remix": "",
+      "label": "ARKADE",
+      "trackId": "7718697",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 260,
+      "mediaIds": {
+        "spotify": "756291",
+        "youtube": "756291",
+        "appleMusic": "756291"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "EDX",
+      "title": "Roadkill (EDX Ibiza Sunrise Remix)",
+      "remix": "",
+      "label": "SIRUP/SPINNIN' DEEP",
+      "trackId": "7718698",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "309409",
+        "youtube": "309409",
+        "soundcloud": "309409",
+        "appleMusic": "309409"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Kaskade x Lipless",
+      "title": "Llove v3",
+      "remix": "",
+      "label": "ARKADE",
+      "trackId": "7718699",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 750,
+      "mediaIds": {
+        "spotify": "760387",
+        "youtube": "760387",
+        "appleMusic": "760387"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Kaskade & Mindy Gledhill vs. Hidden Empire",
+      "title": "Eyes vs. Pont De La Caille (Kaskade Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "7718700",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 940,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Kaskade & Skylar Grey",
+      "title": "Room for Happiness v3",
+      "remix": "",
+      "label": "ARKADE",
+      "trackId": "7718701",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1190,
+      "mediaIds": {
+        "spotify": "764875",
+        "youtube": "764875",
+        "soundcloud": "764875",
+        "appleMusic": "764875"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Kaskade & EDX",
+      "title": "Ubuntu Promise (Kaskade Redux Mashup)",
+      "remix": "",
+      "label": "WARNER BROS./SPINNIN' DEEP/SIRUP",
+      "trackId": "7718702",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1500,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Kaskade & Chemical Surf",
+      "title": "Solta A Pressão",
+      "remix": "",
+      "label": "R.I.P GENRES",
+      "trackId": "7718703",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": {
+        "spotify": "799900",
+        "youtube": "799900",
+        "soundcloud": "799900",
+        "appleMusic": "799900"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Kx5",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7718704",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1905,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "deadmau5 & Kaskade ft. Skylar Grey",
+      "title": "Beneath With Me",
+      "remix": "",
+      "label": "WARNER BROS./ARKADE",
+      "trackId": "7718705",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2215,
+      "mediaIds": {
+        "spotify": "302648",
+        "youtube": "302648",
+        "soundcloud": "302648",
+        "appleMusic": "302648"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5 & Kaskade ft. Skylar Grey",
+          "title": "Beneath With Me",
+          "remix": "",
+          "trackId": "7718705"
+        },
+        {
+          "artist": "Sander van Doorn",
+          "title": "What You Want",
+          "remix": "",
+          "trackId": "7718706"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sander van Doorn",
+      "title": "What You Want",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "7718706",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "675866",
+        "youtube": "675866",
+        "soundcloud": "675866",
+        "appleMusic": "675866"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Kaskade & PYFER",
+      "title": "Waste Love v3",
+      "remix": "",
+      "label": "ARKADE",
+      "trackId": "7718707",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2410,
+      "mediaIds": {
+        "spotify": "769223",
+        "appleMusic": "769223"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Kaskade & Felix Cartal ft. Jenn Blosil",
+      "title": "More (Diplo Remix)",
+      "remix": "",
+      "label": "ARKADE",
+      "trackId": "7718708",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2580,
+      "mediaIds": {
+        "spotify": "525032",
+        "youtube": "525032",
+        "soundcloud": "525032",
+        "appleMusic": "525032"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Kaskade ft. Dani Poppitt",
+      "title": "Love Like That",
+      "remix": "",
+      "label": "ARKADE",
+      "trackId": "7718709",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2700,
+      "mediaIds": {
+        "spotify": "559457",
+        "youtube": "559457",
+        "soundcloud": "559457",
+        "appleMusic": "559457"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7718710",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2960,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Kaskade vs. Cookie Crumbles",
+      "title": "Disarm You vs. Where Are You Now (Kaskade Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "7718711",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 3180,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Kaskade ft. McKay Stevens vs. BLR",
+      "title": "Atmosphere Böda (Kaskade Redux Mashup)",
+      "remix": "",
+      "label": "ULTRA/ENORMOUS TUNES",
+      "trackId": "7718712",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3410,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Kx5 ft. HAYLA",
+      "title": "Escape",
+      "remix": "",
+      "label": "MAU5TRAP/ARKADE",
+      "trackId": "7718713",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3615,
+      "mediaIds": {
+        "spotify": "778208",
+        "youtube": "778208",
+        "soundcloud": "778208",
+        "appleMusic": "778208"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Kaskade ft. Joslyn",
+      "title": "It's You, It's Me (More Vox Mix)",
+      "remix": "",
+      "label": "OM",
+      "trackId": "7718714",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3875,
+      "mediaIds": {
+        "youtube": "132663"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Kaskade x Lipless",
+      "title": "My Light",
+      "remix": "",
+      "label": "ARKADE",
+      "trackId": "7718804",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 4060,
+      "mediaIds": {
+        "spotify": "539881",
+        "soundcloud": "539881",
+        "appleMusic": "539881"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "deadmau5 & Kaskade ft. Haley Gibby",
+      "title": "I Remember (Strobelite Edit)",
+      "remix": "",
+      "label": "MAU5TRAP/ULTRA",
+      "trackId": "7718821",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 4320,
+      "mediaIds": {
+        "spotify": "81593",
+        "youtube": "81593",
+        "appleMusic": "81593"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Kaskade",
+      "title": "On Your Mind",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "7718822",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 4460,
+      "mediaIds": {
+        "spotify": "463893",
+        "youtube": "463893",
+        "soundcloud": "463893",
+        "appleMusic": "463893"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_2",
+      "idMedia": "2846883",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/kaskade-redux-at-edc-las-vegas-2022-kinetic-field-stage/1628922755/us/album/kaskade-redux-at-edc-las-vegas-2022-kinetic-field-stage/1628922755?app=music&at=1000lwkw"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "2820635",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=fzNcG4Ycnd8"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "2821567",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=cFkDEJel-bU"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "3435838",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/dsotm"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:45:50.148Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,794 @@
+{
+  "tlId": "23g20cb9",
+  "dj": "Trivecta",
+  "stage": "EDC Orlando",
+  "date": "2022-11-13",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/23g20cb9/trivecta-circuitgrounds-edc-orlando-united-states-2022-11-13.html",
+  "djs": [
+    {
+      "name": "Trivecta",
+      "slug": "trivecta"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Trivecta ft. Rico & Miella",
+      "title": "Open Road",
+      "remix": "(Intro)",
+      "label": "OPHELIA",
+      "trackId": "8426771",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "783743",
+        "youtube": "783743",
+        "soundcloud": "783743",
+        "appleMusic": "783743"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Trivecta & Wooli",
+      "title": "Falling",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8426772",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "416719",
+        "youtube": "416719",
+        "soundcloud": "416719",
+        "appleMusic": "416719"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Trivecta & Whales",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8426773",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 280,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Seven Lions & Trivecta & Blanke ft. RBBTS",
+      "title": "Wild And Broken",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "8426774",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "698308",
+        "youtube": "698308",
+        "soundcloud": "698308",
+        "appleMusic": "698308"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Pixel Terror & Spag Heddy",
+      "title": "Carbonara",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8426775",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "742704",
+        "youtube": "742704",
+        "soundcloud": "742704",
+        "appleMusic": "742704"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pixel Terror & Spag Heddy",
+          "title": "Carbonara",
+          "remix": "",
+          "trackId": "8426775"
+        },
+        {
+          "artist": "Sebastian Ingrosso & Tommy Trash ft. John Martin",
+          "title": "Reload",
+          "remix": "(Trivecta Live Guitar)",
+          "trackId": "8426776"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sebastian Ingrosso & Tommy Trash ft. John Martin",
+      "title": "Reload",
+      "remix": "(Trivecta Live Guitar)",
+      "label": "REFUNE",
+      "trackId": "8426776",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "87479",
+        "youtube": "87479",
+        "soundcloud": "87479",
+        "appleMusic": "87479"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sebastian Ingrosso & Tommy Trash ft. John Martin",
+          "title": "Reload",
+          "remix": "(Trivecta Live Guitar)",
+          "trackId": "8426776"
+        },
+        {
+          "artist": "Trivecta",
+          "title": "Shatterpoint",
+          "remix": "",
+          "trackId": "8426777"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Trivecta",
+      "title": "Shatterpoint",
+      "remix": "",
+      "label": "ARTIST INTELLIGENCE",
+      "trackId": "8426777",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "371955",
+        "youtube": "371955",
+        "soundcloud": "371955",
+        "appleMusic": "371955"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "ILLENIUM ft. Nevve",
+      "title": "Fractures (Trivecta Remix)",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "8426778",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "370147",
+        "youtube": "370147",
+        "soundcloud": "370147",
+        "appleMusic": "370147"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Trivecta & AMIDY & RØRY",
+      "title": "Riptide",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8426779",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "512710",
+        "youtube": "512710",
+        "soundcloud": "512710",
+        "appleMusic": "512710"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Excision & Wooli & Trivecta ft. Julianne Hope",
+      "title": "Oxygen (Ray Volpe Remix)",
+      "remix": "",
+      "label": "EXCISION",
+      "trackId": "8426780",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "617582",
+        "youtube": "617582",
+        "soundcloud": "617582",
+        "appleMusic": "617582"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Trivecta ft. Woodlock",
+      "title": "Drinking Like Kings",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "8426781",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "795893",
+        "youtube": "795893",
+        "soundcloud": "795893",
+        "appleMusic": "795893"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8426782",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Kinesis",
+      "title": "Altered States",
+      "remix": "",
+      "label": "PSY.OLOGY",
+      "trackId": "8426783",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "845185",
+        "soundcloud": "845185",
+        "appleMusic": "845185"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Trivecta",
+      "title": "Ghost In The Machine",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8426784",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "677691",
+        "youtube": "677691",
+        "soundcloud": "677691",
+        "appleMusic": "677691"
+      },
+      "blendGroup": [
+        {
+          "artist": "Trivecta",
+          "title": "Ghost In The Machine",
+          "remix": "",
+          "trackId": "8426784"
+        },
+        {
+          "artist": "Avicii ft. Aloe Blacc",
+          "title": "Wake Me Up (Acappella)",
+          "remix": "",
+          "trackId": "8426785"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii ft. Aloe Blacc",
+      "title": "Wake Me Up (Acappella)",
+      "remix": "",
+      "label": "PRMD",
+      "trackId": "8426785",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "128053",
+        "youtube": "145411",
+        "soundcloud": "128053",
+        "appleMusic": "128053"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "(Trivecta Live Guitar)",
+      "label": "",
+      "trackId": "8426786",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "(Trivecta Live Guitar)",
+          "trackId": "8426786"
+        },
+        {
+          "artist": "RL Grime",
+          "title": "Core (Ray Volpe Flip)",
+          "remix": "",
+          "trackId": "8426787"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RL Grime",
+      "title": "Core (Ray Volpe Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "8426787",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "725482",
+        "soundcloud": "725482"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Crystal Skies",
+      "title": "Requiem",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "8426788",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "610049",
+        "youtube": "610049",
+        "soundcloud": "610049",
+        "appleMusic": "610049"
+      },
+      "blendGroup": [
+        {
+          "artist": "Crystal Skies",
+          "title": "Requiem",
+          "remix": "",
+          "trackId": "8426788"
+        },
+        {
+          "artist": "Fred again.. & Swedish House Mafia ft. Future",
+          "title": "Turn On The Lights Again..",
+          "remix": "",
+          "trackId": "8426789"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fred again.. & Swedish House Mafia ft. Future",
+      "title": "Turn On The Lights Again..",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "8426789",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "788426",
+        "youtube": "788426",
+        "soundcloud": "788426",
+        "appleMusic": "788426"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Seven Lions & Wooli & Trivecta ft. Nevve",
+      "title": "Island",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "8426790",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "459012",
+        "youtube": "459012",
+        "soundcloud": "459012",
+        "appleMusic": "459012"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Moody Good",
+      "title": "SIXTYSIXTY (Kill The Noise Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "8426791",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "552300",
+        "youtube": "552300",
+        "soundcloud": "552300",
+        "appleMusic": "552300"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Seven Lions ft. Eli Teplin",
+      "title": "Between (Trivecta Remix)",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "8426792",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "887991",
+        "youtube": "887991",
+        "soundcloud": "887991",
+        "appleMusic": "887991"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Trivecta ft. Rbbts",
+      "title": "The Loop (TYNAN Remix)",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "8426793",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "831920",
+        "youtube": "831920",
+        "soundcloud": "831920",
+        "appleMusic": "831920"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Knock2",
+      "title": "murdah (ISOxo Remix)",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "8426794",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "838103",
+        "youtube": "838103",
+        "soundcloud": "838103",
+        "appleMusic": "838103"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Trivecta ft. Casey Cook",
+      "title": "Castle Walls (SubDocta Remix)",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "8426795",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "833750",
+        "youtube": "833750",
+        "soundcloud": "833750",
+        "appleMusic": "833750"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8426796",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2190,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Trivecta",
+      "title": "Wasteland",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "8426797",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "577593",
+        "youtube": "577593",
+        "soundcloud": "577593",
+        "appleMusic": "577593"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "ISOxo",
+      "title": "Aarena (Knock2 Remix)",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "8426798",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "839211",
+        "youtube": "839211",
+        "soundcloud": "839211",
+        "appleMusic": "839211"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Blastoyz & Reality Test",
+      "title": "Kabalah",
+      "remix": "",
+      "label": "NUTEK",
+      "trackId": "8426799",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "496264",
+        "youtube": "496264",
+        "soundcloud": "496264",
+        "appleMusic": "496264"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Trivecta ft. Jay Mason",
+      "title": "Sail Away",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "8426800",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "773607",
+        "youtube": "773607",
+        "soundcloud": "773607",
+        "appleMusic": "773607"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Blanke",
+      "title": "Boom",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "8426801",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "720684",
+        "youtube": "720684",
+        "soundcloud": "720684",
+        "appleMusic": "720684"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Trivecta & Wooli ft. Scott Stapp",
+      "title": "Light Up The Sky",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "8426802",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "735106",
+        "youtube": "735106",
+        "soundcloud": "735106",
+        "appleMusic": "735106"
+      },
+      "blendGroup": [
+        {
+          "artist": "Trivecta & Wooli ft. Scott Stapp",
+          "title": "Light Up The Sky",
+          "remix": "",
+          "trackId": "8426802"
+        },
+        {
+          "artist": "SLANDER & Spag Heddy ft. Elle Vee",
+          "title": "Running To You",
+          "remix": "",
+          "trackId": "8426803"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SLANDER & Spag Heddy ft. Elle Vee",
+      "title": "Running To You",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8426803",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "454414",
+        "youtube": "454414",
+        "soundcloud": "454414",
+        "appleMusic": "454414"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "TYNAN",
+      "title": "Something In The Water",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "8426804",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "574555",
+        "youtube": "574555",
+        "soundcloud": "574555",
+        "appleMusic": "574555"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Blastoyz & Dimibo & Jason Ross & Kill The Noise & Seven Lions & Trivecta & Wooli",
+      "title": "Pantheon",
+      "remix": "",
+      "label": "OPHELIA",
+      "trackId": "8426805",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "613319",
+        "youtube": "613319",
+        "soundcloud": "613319",
+        "appleMusic": "613319"
+      },
+      "blendGroup": [
+        {
+          "artist": "Blastoyz & Dimibo & Jason Ross & Kill The Noise & Seven Lions & Trivecta & Wooli",
+          "title": "Pantheon",
+          "remix": "",
+          "trackId": "8426805"
+        },
+        {
+          "artist": "Kx5 ft. HAYLA",
+          "title": "Escape",
+          "remix": "(Acapella)",
+          "trackId": "8426806"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kx5 ft. HAYLA",
+      "title": "Escape",
+      "remix": "(Acapella)",
+      "label": "MAU5TRAP/ARKADE",
+      "trackId": "8426806",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "778208",
+        "youtube": "778208",
+        "soundcloud": "778208",
+        "appleMusic": "778208"
+      }
+    },
+    {
+      "pos": "30",
+      "artist": "Hairitage",
+      "title": "Hustle",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "8426807",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "579440",
+        "youtube": "579440",
+        "soundcloud": "579440",
+        "appleMusic": "579440"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Dabin ft. RUNN",
+      "title": "Alive (Trivecta Remix)",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "8426808",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "577595",
+        "youtube": "577595",
+        "soundcloud": "577595",
+        "appleMusic": "577595"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Trivecta ft. Matluck",
+      "title": "Empty Oceans",
+      "remix": "(Trivecta Live Guitar)",
+      "label": "OPHELIA",
+      "trackId": "8426809",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "795617",
+        "youtube": "795617",
+        "soundcloud": "795617",
+        "appleMusic": "795617"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3057765",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=X6OsxMHHNcE"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:22:43.581Z",
+  "scrapeVersion": 2
+}

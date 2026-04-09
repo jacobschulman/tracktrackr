@@ -1,0 +1,702 @@
+{
+  "tlId": "1s14szxk",
+  "dj": "Gryffin",
+  "stage": "EDC Las Vegas",
+  "date": "2018-05-18",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/1s14szxk/gryffin-circuitgrounds-edc-las-vegas-united-states-2018-05-18.html",
+  "djs": [
+    {
+      "name": "Gryffin",
+      "slug": "gryffin"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Benny Benassi & Skrillex vs. Rustie & Flume",
+      "title": "Cinema Slasherr (Benzi & Elephante 2k17 Edit)",
+      "remix": "",
+      "label": "ULTRA/NUMBERS",
+      "trackId": "3319135",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "302204",
+        "appleMusic": "302204"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Kendrick Lamar",
+      "title": "HUMBLE.",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "3319136",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 65,
+      "mediaIds": {
+        "spotify": "354525",
+        "youtube": "354525",
+        "soundcloud": "354525",
+        "appleMusic": "354525"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kendrick Lamar",
+          "title": "HUMBLE.",
+          "remix": "",
+          "trackId": "3319136"
+        },
+        {
+          "artist": "RL Grime",
+          "title": "Core",
+          "remix": "",
+          "trackId": "3319137"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RL Grime",
+      "title": "Core",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "3319137",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "205232",
+        "youtube": "205232",
+        "soundcloud": "205232",
+        "appleMusic": "205232"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Galantis vs. DROELOE",
+      "title": "Runaway vs. Kintsugi (Gryffin Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "3319138",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 180,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Gryffin ft. Bipolar Sunshine",
+      "title": "Whole Heart",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "3319139",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 255,
+      "mediaIds": {
+        "spotify": "324929",
+        "youtube": "324929",
+        "soundcloud": "324929",
+        "appleMusic": "324929"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gryffin ft. Bipolar Sunshine",
+          "title": "Whole Heart",
+          "remix": "",
+          "trackId": "3319139"
+        },
+        {
+          "artist": "The Chainsmokers ft. Daya",
+          "title": "Don't Let Me Down (T-Mass Remix)",
+          "remix": "",
+          "trackId": "3324308"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chainsmokers ft. Daya",
+      "title": "Don't Let Me Down (T-Mass Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "3324308",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 380,
+      "mediaIds": {
+        "youtube": "303258",
+        "soundcloud": "303258"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Illenium & Said The Sky & 1788-L & Kerli",
+      "title": "Sound Of Where'd U Go",
+      "remix": "",
+      "label": "SEEKING BLUE",
+      "trackId": "3319140",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 408,
+      "mediaIds": {
+        "spotify": "417185",
+        "youtube": "417185",
+        "soundcloud": "417185",
+        "appleMusic": "417185"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Troye Sivan",
+      "title": "Youth (Gryffin Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "3319141",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 505,
+      "mediaIds": {
+        "spotify": "309305",
+        "soundcloud": "309305",
+        "appleMusic": "309305"
+      },
+      "blendGroup": [
+        {
+          "artist": "Troye Sivan",
+          "title": "Youth (Gryffin Remix)",
+          "remix": "",
+          "trackId": "3319141"
+        },
+        {
+          "artist": "Daft Punk ft. Panda Bear",
+          "title": "Doin' It Right (k?d Remix)",
+          "remix": "",
+          "trackId": "3323119"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk ft. Panda Bear",
+      "title": "Doin' It Right (k?d Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3323119",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 609,
+      "mediaIds": {
+        "youtube": "310377",
+        "soundcloud": "310377"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Kygo ft. Ellie Goulding",
+      "title": "First Time (Gryffin Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "3319142",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 676,
+      "mediaIds": {
+        "spotify": "369441",
+        "youtube": "369441",
+        "soundcloud": "369441",
+        "appleMusic": "369441"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Showtek & Moby",
+      "title": "Natural Blues",
+      "remix": "",
+      "label": "SKINK/ARMADA",
+      "trackId": "3319143",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 745,
+      "mediaIds": {
+        "spotify": "395159",
+        "youtube": "395159",
+        "soundcloud": "395159",
+        "appleMusic": "395159"
+      },
+      "blendGroup": [
+        {
+          "artist": "Showtek & Moby",
+          "title": "Natural Blues",
+          "remix": "",
+          "trackId": "3319143"
+        },
+        {
+          "artist": "Virtual Self",
+          "title": "Ghost Voices",
+          "remix": "",
+          "trackId": "3319144"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Virtual Self",
+      "title": "Ghost Voices",
+      "remix": "",
+      "label": "VIRTUAL SELF",
+      "trackId": "3319144",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "389891",
+        "youtube": "389891",
+        "soundcloud": "389891",
+        "appleMusic": "389891"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Years & Years",
+      "title": "Desire (Gryffin Remix)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "3319145",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 874,
+      "mediaIds": {
+        "spotify": "269672",
+        "youtube": "269672",
+        "soundcloud": "269672",
+        "appleMusic": "269672"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "BØRNS",
+      "title": "Electric Love (Gryffin Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "3319146",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 998,
+      "mediaIds": {
+        "youtube": "270151"
+      },
+      "blendGroup": [
+        {
+          "artist": "BØRNS",
+          "title": "Electric Love (Gryffin Remix)",
+          "remix": "",
+          "trackId": "3319146"
+        },
+        {
+          "artist": "JAUZ & Crankdat ft. Slushii",
+          "title": "I Hold Still",
+          "remix": "",
+          "trackId": "3319147"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAUZ & Crankdat ft. Slushii",
+      "title": "I Hold Still",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "3319147",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "325378",
+        "youtube": "325378",
+        "soundcloud": "325378",
+        "appleMusic": "325378"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Skrillex & Habstrakt",
+      "title": "Chicken Soup",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3324310",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1134,
+      "mediaIds": {
+        "spotify": "357284",
+        "youtube": "357284",
+        "soundcloud": "357284",
+        "appleMusic": "357284"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "JOYRYDE vs. Eric Prydz",
+      "title": "Hot Drum vs. Pjanoo (Garmiani Edit)",
+      "remix": "",
+      "label": "PRYDA/DATA REC./OWSLA",
+      "trackId": "3319148",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1134,
+      "mediaIds": {
+        "youtube": "377030"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Tom Hangs ft. Shermanology",
+      "title": "Blessed (Avicii Edit)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "3319149",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1275,
+      "mediaIds": {
+        "spotify": "28531",
+        "youtube": "28531",
+        "soundcloud": "28531",
+        "appleMusic": "28531"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Gryffin ft. Sinead Harnett",
+      "title": "Love In Ruins",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "3319150",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1374,
+      "mediaIds": {
+        "spotify": "371676",
+        "youtube": "371676",
+        "soundcloud": "371676",
+        "appleMusic": "371676"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "J Balvin & Willy William",
+      "title": "Mi Gente (Cedric Gervais Remix)",
+      "remix": "",
+      "label": "SCORPIO",
+      "trackId": "3319151",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1478,
+      "mediaIds": {
+        "spotify": "372287",
+        "youtube": "372287",
+        "soundcloud": "372287",
+        "appleMusic": "372287"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Snakehips & MØ",
+      "title": "Don't Leave (Gryffin Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "3319152",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1566,
+      "mediaIds": {
+        "spotify": "346172",
+        "youtube": "346172",
+        "soundcloud": "346172",
+        "appleMusic": "346172"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Gryffin ft. Josef Salvat",
+      "title": "Heading Home (Justin Caruso Remix)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "3319154",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "338764",
+        "youtube": "338764",
+        "soundcloud": "338764",
+        "appleMusic": "338764"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "The Killers vs. The Chainsmokers & Tritonal & Justin Caruso",
+      "title": "Mr. Brightside vs. Until Yor Were Gone",
+      "remix": "",
+      "label": "",
+      "trackId": "3319155",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1980,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "San Holo vs. Kanye West",
+      "title": "Lights (NITTI Remix)",
+      "remix": "",
+      "label": "BITBIRD/ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "3319156",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2103,
+      "mediaIds": {
+        "youtube": "370392",
+        "soundcloud": "370392"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Gryffin ft. Quinn XCII & Daniel Wilson",
+      "title": "Winnebago",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "3319157",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2195,
+      "mediaIds": {
+        "spotify": "411609",
+        "youtube": "411609",
+        "soundcloud": "411609",
+        "appleMusic": "411609"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gryffin ft. Quinn XCII & Daniel Wilson",
+          "title": "Winnebago",
+          "remix": "",
+          "trackId": "3319157"
+        },
+        {
+          "artist": "Gryffin ft. Quinn XCII & Daniel Wilson",
+          "title": "Winnebago (Sullivan King Remix)",
+          "remix": "",
+          "trackId": "3319158"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gryffin ft. Quinn XCII & Daniel Wilson",
+      "title": "Winnebago (Sullivan King Remix)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "3319158",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 2280,
+      "mediaIds": {
+        "spotify": "429383",
+        "youtube": "429383",
+        "soundcloud": "429383",
+        "appleMusic": "429383"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Drake",
+      "title": "God's Plan (David Puentez VIP Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3319159",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2318,
+      "mediaIds": {
+        "youtube": "414848",
+        "soundcloud": "414848"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Sigrid",
+      "title": "Don't Kill My Vibe (Gryffin Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "3319160",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2430,
+      "mediaIds": {
+        "spotify": "357625",
+        "youtube": "357625",
+        "soundcloud": "357625",
+        "appleMusic": "357625"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Porter Robinson & Ekali & QUIX vs. Post Malone",
+      "title": "Language vs. I Fall Apart (Cazes Bootleg)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)/REPUBLIC (UMG)",
+      "trackId": "3319161",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2580,
+      "mediaIds": {
+        "soundcloud": "406147"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Gryffin & ILLENIUM ft. Daya",
+      "title": "Feel Good",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "3319162",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2771,
+      "mediaIds": {
+        "spotify": "349582",
+        "youtube": "349582",
+        "soundcloud": "349582",
+        "appleMusic": "349582"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gryffin & ILLENIUM ft. Daya",
+          "title": "Feel Good",
+          "remix": "",
+          "trackId": "3319162"
+        },
+        {
+          "artist": "Gryffin & ILLENIUM ft. Daya",
+          "title": "Feel Good (Crankdat Remix)",
+          "remix": "",
+          "trackId": "3319163"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gryffin & ILLENIUM ft. Daya",
+      "title": "Feel Good (Crankdat Remix)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "3319163",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "362236",
+        "youtube": "362236",
+        "soundcloud": "362236",
+        "appleMusic": "362236"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Gryffin ft. Katie Pearlman",
+      "title": "Nobody Compares To You",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "3319164",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2931,
+      "mediaIds": {
+        "spotify": "386808",
+        "youtube": "386808",
+        "soundcloud": "386808",
+        "appleMusic": "386808"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Gryffin ft. Katie Pearlman",
+      "title": "Nobody Compares To You (Codeko Remix)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "3323120",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3060,
+      "mediaIds": {
+        "spotify": "402551",
+        "youtube": "402551",
+        "soundcloud": "402551",
+        "appleMusic": "402551"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Gryffin ft. Iselin",
+      "title": "Just For A Moment",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "3319165",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3103,
+      "mediaIds": {
+        "spotify": "426352",
+        "youtube": "426352",
+        "soundcloud": "426352",
+        "appleMusic": "426352"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "811952",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/451177821"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "797368",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:17:35.903Z",
+  "scrapeVersion": 2
+}

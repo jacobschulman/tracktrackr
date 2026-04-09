@@ -1,0 +1,1080 @@
+{
+  "tlId": "1v8d5709",
+  "dj": "Hardwell",
+  "stage": "EDC Mexico",
+  "date": "2026-02-20",
+  "year": 2026,
+  "url": "https://www.1001tracklists.com/tracklist/1v8d5709/hardwell-kineticfield-edc-mexico-2026-02-20.html",
+  "djs": [
+    {
+      "name": "Hardwell",
+      "slug": "hardwell"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Hardwell",
+      "title": "Sanctuary",
+      "remix": "(Intro Edit)",
+      "label": "REVEALED",
+      "trackId": "13498596",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1081730",
+        "youtube": "1081730",
+        "soundcloud": "1081730",
+        "appleMusic": "1081730"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Hardwell & Olly James",
+      "title": "Lights Out",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13498597",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 355,
+      "mediaIds": {
+        "spotify": "1132869",
+        "youtube": "1132869",
+        "soundcloud": "1132869",
+        "appleMusic": "1132869"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hardwell & Olly James",
+          "title": "Lights Out",
+          "remix": "",
+          "trackId": "13498597"
+        },
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Save The World (Acappella)",
+          "remix": "",
+          "trackId": "13498598"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Save The World (Acappella)",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "13498598",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "31007",
+        "youtube": "61666",
+        "soundcloud": "61666",
+        "appleMusic": "31007"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Save The World (Acappella)",
+          "remix": "",
+          "trackId": "13498598"
+        },
+        {
+          "artist": "DVBBS & VINAI",
+          "title": "Raveology (Never Stop The Fuckin Rave Acappella)",
+          "remix": "",
+          "trackId": "13498599"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DVBBS & VINAI",
+      "title": "Raveology (Never Stop The Fuckin Rave Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "13498599",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "168335",
+        "youtube": "168335",
+        "soundcloud": "168335",
+        "appleMusic": "168335"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "W&W & Hardwell & Lil Jon",
+      "title": "Live The Night",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "13498600",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 537,
+      "mediaIds": {
+        "spotify": "247326",
+        "youtube": "247326",
+        "soundcloud": "247326",
+        "appleMusic": "247326"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Hardwell & Olly James vs. Hardwell vs. Avicii & Ras",
+      "title": "Flatline vs. Spaceman vs. The Nights (Hardwell Mashup)",
+      "remix": "",
+      "label": "REVEALED/PRMD",
+      "trackId": "13498601",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 734,
+      "mediaIds": {
+        "youtube": "883395"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Hardwell & W&W",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13498602",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 905,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Hardwell & W&W",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13498602"
+        },
+        {
+          "artist": "Danzel",
+          "title": "Put Your Hands Up In The Air (Acappella)",
+          "remix": "",
+          "trackId": "13498603"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Danzel",
+      "title": "Put Your Hands Up In The Air (Acappella)",
+      "remix": "",
+      "label": "SUPERSTAR/DATA REC.",
+      "trackId": "13498603",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "29689",
+        "youtube": "29689",
+        "soundcloud": "29689",
+        "appleMusic": "29689"
+      },
+      "blendGroup": [
+        {
+          "artist": "Danzel",
+          "title": "Put Your Hands Up In The Air (Acappella)",
+          "remix": "",
+          "trackId": "13498603"
+        },
+        {
+          "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+          "title": "Fall Into The Sky (Everybody Fuckin Jump Acappella)",
+          "remix": "",
+          "trackId": "13498604"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+      "title": "Fall Into The Sky (Everybody Fuckin Jump Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "13498604",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "97743",
+        "youtube": "139706",
+        "soundcloud": "139706",
+        "appleMusic": "97743"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+          "title": "Fall Into The Sky (Everybody Fuckin Jump Acappella)",
+          "remix": "",
+          "trackId": "13498604"
+        },
+        {
+          "artist": "HAVEN. ft. Kaitlin Aragon",
+          "title": "I Run",
+          "remix": "(Acappella)",
+          "trackId": "13498605"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "HAVEN. ft. Kaitlin Aragon",
+      "title": "I Run",
+      "remix": "(Acappella)",
+      "label": "ISEKAI/BROKE",
+      "trackId": "13498605",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1136202",
+        "youtube": "1136202",
+        "soundcloud": "1136202",
+        "appleMusic": "1136202"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Avicii",
+      "title": "Levels",
+      "remix": "",
+      "label": "LE7ELS/UMG",
+      "trackId": "13498606",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1100,
+      "mediaIds": {
+        "spotify": "33255",
+        "youtube": "33255",
+        "soundcloud": "33255",
+        "appleMusic": "33255"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Hardwell & AFROJACK",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13498607",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1177,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Hardwell & AFROJACK",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13498607"
+        },
+        {
+          "artist": "Silvio Ecomo & Chuckie",
+          "title": "Moombah (Acappella)",
+          "remix": "",
+          "trackId": "13498608"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Silvio Ecomo & Chuckie",
+      "title": "Moombah (Acappella)",
+      "remix": "",
+      "label": "DIRTY DUTCH",
+      "trackId": "13498608",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "4509",
+        "youtube": "79184",
+        "soundcloud": "4509",
+        "appleMusic": "4509"
+      },
+      "blendGroup": [
+        {
+          "artist": "Silvio Ecomo & Chuckie",
+          "title": "Moombah (Acappella)",
+          "remix": "",
+          "trackId": "13498608"
+        },
+        {
+          "artist": "David Guetta ft. Sia",
+          "title": "Titanium(Co-Prod. by AFROJACK) (Acappella)",
+          "remix": "",
+          "trackId": "13498609"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta ft. Sia",
+      "title": "Titanium(Co-Prod. by AFROJACK) (Acappella)",
+      "remix": "",
+      "label": "FMIF",
+      "trackId": "13498609",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "42436",
+        "youtube": "95897",
+        "soundcloud": "95897",
+        "appleMusic": "42436"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Guetta ft. Sia",
+          "title": "Titanium(Co-Prod. by AFROJACK) (Acappella)",
+          "remix": "",
+          "trackId": "13498609"
+        },
+        {
+          "artist": "Anyma & Chris Avantgarde",
+          "title": "Eternity",
+          "remix": "",
+          "trackId": "13498610"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Anyma & Chris Avantgarde",
+      "title": "Eternity",
+      "remix": "",
+      "label": "AFTERLIFE/INTERSCOPE",
+      "trackId": "13498610",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "818738",
+        "youtube": "818738",
+        "soundcloud": "818738",
+        "appleMusic": "818738"
+      },
+      "blendGroup": [
+        {
+          "artist": "Anyma & Chris Avantgarde",
+          "title": "Eternity",
+          "remix": "",
+          "trackId": "13498610"
+        },
+        {
+          "artist": "Matt Dybal & Alan Krevo",
+          "title": "Move To The Rhythm",
+          "remix": "",
+          "trackId": "13498611"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Matt Dybal & Alan Krevo",
+      "title": "Move To The Rhythm",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13498611",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1109435",
+        "youtube": "1109435",
+        "soundcloud": "1109435",
+        "appleMusic": "1109435"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Hardwell & Maddix ft. Luciana",
+      "title": "ACID",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13498612",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1342,
+      "mediaIds": {
+        "spotify": "883168",
+        "youtube": "883168",
+        "soundcloud": "883168",
+        "appleMusic": "883168"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Dirty Signal vs. Hardwell & Blasterjaxx & Mitch Crown vs. Yeah Yeah Yeahs & A-Trak",
+      "title": "We All Move vs. Bigroom Never Dies vs. Heads Will Roll (Hardwell Mashup)",
+      "remix": "",
+      "label": "DGC/REVEALED",
+      "trackId": "13498613",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1514,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Edward Maya & Vika Jigulina",
+      "title": "Stereo Love",
+      "remix": "",
+      "label": "ULTRA/SPINNIN'",
+      "trackId": "13498614",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1678,
+      "mediaIds": {
+        "spotify": "50827",
+        "youtube": "50827",
+        "soundcloud": "50827",
+        "appleMusic": "50827"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Armin van Buuren & Hardwell vs. Blasterjaxx",
+      "title": "Follow The Beat Of The Drum (Hardwell Mashup)",
+      "remix": "",
+      "label": "MIXMASH/REVEALED",
+      "trackId": "13498615",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1958,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Hardwell & W&W ft. Fatman Scoop",
+      "title": "Don't Stop The Madness (Hardwell Rework)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13498616",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2154,
+      "mediaIds": {
+        "youtube": "883388"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "DJ Sammy & Yanou ft. Do",
+      "title": "Heaven",
+      "remix": "",
+      "label": "DATA REC. (MINISTRY OF SOUND)",
+      "trackId": "13498617",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2284,
+      "mediaIds": {
+        "spotify": "164434",
+        "youtube": "164434",
+        "soundcloud": "164434",
+        "appleMusic": "164434"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "JoeySuki & Kill The Buzz & Josh Le Tissier vs. Hardwell & Harrison vs. Martin Garrix & Bonn",
+      "title": "Life Is Calling vs. Earthquake vs. High On Life (Hardwell Mashup)",
+      "remix": "",
+      "label": "REVEALED/EPIC AMSTERDAM/STMPD",
+      "trackId": "13498618",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2530,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Hardwell & MAKJ",
+      "title": "Countdown 2026",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13498619",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2703,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Hardwell & MAKJ",
+          "title": "Countdown 2026",
+          "remix": "",
+          "trackId": "13498619"
+        },
+        {
+          "artist": "KROMI vs. Hardwell & Amba Shepherd & Maddix",
+          "title": "Simulation vs. Apollo (Hardwell Mashup)",
+          "remix": "",
+          "trackId": "13498620"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "KROMI vs. Hardwell & Amba Shepherd & Maddix",
+      "title": "Simulation vs. Apollo (Hardwell Mashup)",
+      "remix": "",
+      "label": "REVEALED/REVEALED RADAR",
+      "trackId": "13498620",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "16",
+      "artist": "Dirty Signal & Joey Dale",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13498621",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2945,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Dirty Signal & Joey Dale",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13498621"
+        },
+        {
+          "artist": "Garmiani",
+          "title": "Bomb A Drop (Acappella)",
+          "remix": "",
+          "trackId": "13498622"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Garmiani",
+      "title": "Bomb A Drop (Acappella)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "13498622",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "289358",
+        "youtube": "289358",
+        "soundcloud": "289358",
+        "appleMusic": "289358"
+      },
+      "blendGroup": [
+        {
+          "artist": "Garmiani",
+          "title": "Bomb A Drop (Acappella)",
+          "remix": "",
+          "trackId": "13498622"
+        },
+        {
+          "artist": "Nina Sky ft. Jabba",
+          "title": "Move Ya Body",
+          "remix": "",
+          "trackId": "13568405"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nina Sky ft. Jabba",
+      "title": "Move Ya Body",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "13568405",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "46401",
+        "youtube": "46401",
+        "soundcloud": "46401",
+        "appleMusic": "46401"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "F.G. Noise",
+      "title": "Triple Vision",
+      "remix": "",
+      "label": "REVEALED RADAR",
+      "trackId": "13498623",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3114,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "F.G. Noise",
+          "title": "Triple Vision",
+          "remix": "",
+          "trackId": "13498623"
+        },
+        {
+          "artist": "Lady GaGa & Bruno Mars",
+          "title": "Die With A Smile",
+          "remix": "(Acappella)",
+          "trackId": "13498624"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lady GaGa & Bruno Mars",
+      "title": "Die With A Smile",
+      "remix": "(Acappella)",
+      "label": "INTERSCOPE",
+      "trackId": "13498624",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1029287",
+        "youtube": "1029287",
+        "soundcloud": "1029287",
+        "appleMusic": "1029287"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Hardwell & Vini Vici & MR.BLACK & Liquid Soul vs. David Guetta & Benny Benassi & Maddix",
+      "title": "Crazy People 2026 vs. Satisfaction (Hardwell Mashup)",
+      "remix": "",
+      "label": "ULTRA/REVEALED",
+      "trackId": "13498625",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3254,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Hardwell & W&W",
+      "title": "Turn Up The Bass",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13498627",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3444,
+      "mediaIds": {
+        "youtube": "1155368"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Cascada",
+      "title": "Everytime We Touch (Hardwell & Maurice West Remix)",
+      "remix": "",
+      "label": "ZOO DIGITAL (ZOOLAND)",
+      "trackId": "13498628",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3632,
+      "mediaIds": {
+        "spotify": "406518",
+        "youtube": "406518",
+        "soundcloud": "406518",
+        "appleMusic": "406518"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Hardwell & Dyro",
+      "title": "Not Alone",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13498629",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3729,
+      "mediaIds": {
+        "spotify": "1083311",
+        "youtube": "1083311",
+        "soundcloud": "1083311",
+        "appleMusic": "1083311"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hardwell & Dyro",
+          "title": "Not Alone",
+          "remix": "",
+          "trackId": "13498629"
+        },
+        {
+          "artist": "Showtek & Justin Prime",
+          "title": "Cannonball (Hardwell & W&W Remix)",
+          "remix": "",
+          "trackId": "13498630"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Showtek & Justin Prime",
+      "title": "Cannonball (Hardwell & W&W Remix)",
+      "remix": "",
+      "label": "2DUTCH",
+      "trackId": "13498630",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "22",
+      "artist": "DVBBS & BORGEOUS & Hardwell vs. KSHMR & Jarrad Kritzstein",
+      "title": "Tsunami vs. Power (Hardwell Mashup)",
+      "remix": "",
+      "label": "REVEALED/DOORN (SPINNIN')",
+      "trackId": "13498631",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3927,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone (Olly James Techno Rework)",
+      "remix": "",
+      "label": "",
+      "trackId": "13498632",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 4128,
+      "mediaIds": {
+        "youtube": "1018915",
+        "soundcloud": "1018915"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alice Deejay",
+          "title": "Better Off Alone (Olly James Techno Rework)",
+          "remix": "",
+          "trackId": "13498632"
+        },
+        {
+          "artist": "David Guetta ft. Ne-Yo & Akon",
+          "title": "Play Hard (Acappella)",
+          "remix": "",
+          "trackId": "13498633"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta ft. Ne-Yo & Akon",
+      "title": "Play Hard (Acappella)",
+      "remix": "",
+      "label": "WHAT A MUSIC",
+      "trackId": "13498633",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "100116",
+        "youtube": "100116",
+        "soundcloud": "100116",
+        "appleMusic": "100116"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Guetta ft. Ne-Yo & Akon",
+          "title": "Play Hard (Acappella)",
+          "remix": "",
+          "trackId": "13498633"
+        },
+        {
+          "artist": "Alice Deejay",
+          "title": "Better Off Alone",
+          "remix": "",
+          "trackId": "13498634"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone",
+      "remix": "",
+      "label": "VIOLENT",
+      "trackId": "13498634",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 4128,
+      "mediaIds": {
+        "spotify": "30450",
+        "youtube": "30450",
+        "soundcloud": "30450",
+        "appleMusic": "30450"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "MARSJONE",
+      "title": "You & Me",
+      "remix": "",
+      "label": "REVEALED RADAR",
+      "trackId": "13498635",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 4309,
+      "mediaIds": {
+        "spotify": "1117897",
+        "youtube": "1117897",
+        "soundcloud": "1117897",
+        "appleMusic": "1117897"
+      },
+      "blendGroup": [
+        {
+          "artist": "MARSJONE",
+          "title": "You & Me",
+          "remix": "",
+          "trackId": "13498635"
+        },
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "13498636"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+      "title": "Put Ya Fuckin Hands Up (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "13498636",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "16909",
+        "soundcloud": "16909"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "13498636"
+        },
+        {
+          "artist": "Deorro",
+          "title": "Dechorro (One Two Three Woow Acappella)",
+          "remix": "",
+          "trackId": "13498637"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Deorro",
+      "title": "Dechorro (One Two Three Woow Acappella)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "13498637",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "151419",
+        "youtube": "157530",
+        "soundcloud": "151419",
+        "appleMusic": "151419"
+      },
+      "blendGroup": [
+        {
+          "artist": "Deorro",
+          "title": "Dechorro (One Two Three Woow Acappella)",
+          "remix": "",
+          "trackId": "13498637"
+        },
+        {
+          "artist": "Snap!",
+          "title": "Rhythm Is A Dancer (Acappella)",
+          "remix": "",
+          "trackId": "13498638"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Snap!",
+      "title": "Rhythm Is A Dancer (Acappella)",
+      "remix": "",
+      "label": "ARISTA",
+      "trackId": "13498638",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "13099",
+        "youtube": "13099",
+        "soundcloud": "13099",
+        "appleMusic": "13099"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Hardwell & Bassjackers",
+      "title": "Bang On The Drums",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13498639",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 4462,
+      "mediaIds": {
+        "youtube": "1163484"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Hardwell & Maddix ft. Villain",
+      "title": "Rave Till My Grave",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13498640",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 4642,
+      "mediaIds": {
+        "spotify": "1084307",
+        "youtube": "1084307",
+        "soundcloud": "1084307",
+        "appleMusic": "1084307"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Nifra",
+      "title": "Obey The Code",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13498641",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 4860,
+      "mediaIds": {
+        "spotify": "1106852",
+        "youtube": "1106852",
+        "soundcloud": "1106852",
+        "appleMusic": "1106852"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Maddix",
+      "title": "Move It 2 The Drum",
+      "remix": "",
+      "label": "EXTATIC (REVEALED)",
+      "trackId": "13498642",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 4944,
+      "mediaIds": {
+        "spotify": "1122250",
+        "youtube": "1122250",
+        "soundcloud": "1122250",
+        "appleMusic": "1122250"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Ghost Stories",
+      "title": "Ready Or Not",
+      "remix": "",
+      "label": "SCANTRAXX",
+      "trackId": "13498643",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 5025,
+      "mediaIds": {
+        "spotify": "1107818",
+        "youtube": "1107818",
+        "soundcloud": "1107818",
+        "appleMusic": "1107818"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Hardwell & Sub Zero Project ft. Lil Jon",
+      "title": "Brace For Impact",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "13498644",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 5174,
+      "mediaIds": {
+        "spotify": "1084504",
+        "youtube": "1084504",
+        "soundcloud": "1084504",
+        "appleMusic": "1084504"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "5225788",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=ol4am-XuYFs"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "5225569",
+      "idSource": "40",
+      "url": "https://hearthis.at/13901350/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:48:31.766Z",
+  "scrapeVersion": 2
+}

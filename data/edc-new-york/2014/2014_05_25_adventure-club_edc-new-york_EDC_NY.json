@@ -1,0 +1,1056 @@
+{
+  "tlId": "7vvp0vt",
+  "dj": "Adventure Club",
+  "stage": "EDC New York",
+  "date": "2014-05-25",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/7vvp0vt/adventure-club-kineticfield-edc-new-york-united-states-2014-05-25.html",
+  "djs": [
+    {
+      "name": "Adventure Club",
+      "slug": "adventureclub"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "The Chainsmokers",
+      "title": "#SELFIE (Botnek Remix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "916846",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "196935",
+        "youtube": "196935",
+        "soundcloud": "196935",
+        "appleMusic": "196935"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Zeds Dead & Hunter Siegel",
+      "title": "Loud",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "916847",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "195782",
+        "youtube": "195782",
+        "soundcloud": "195782",
+        "appleMusic": "195782"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Dead Robot",
+      "title": "Machine (Festival Mix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "916848",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "199279"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Ummet Ozcan",
+      "title": "Here & Now",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "916849",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "108661",
+        "youtube": "108661",
+        "soundcloud": "108661",
+        "appleMusic": "108661"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ummet Ozcan",
+          "title": "Here & Now",
+          "remix": "",
+          "trackId": "916849"
+        },
+        {
+          "artist": "AlunaGeorge",
+          "title": "You Know You Like It (Acappella)",
+          "remix": "",
+          "trackId": "916850"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "AlunaGeorge",
+      "title": "You Know You Like It (Acappella)",
+      "remix": "",
+      "label": "TRI ANGLE",
+      "trackId": "916850",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "57192",
+        "youtube": "199280",
+        "soundcloud": "57192",
+        "appleMusic": "57192"
+      },
+      "blendGroup": [
+        {
+          "artist": "AlunaGeorge",
+          "title": "You Know You Like It (Acappella)",
+          "remix": "",
+          "trackId": "916850"
+        },
+        {
+          "artist": "Adventure Club ft. Kai",
+          "title": "Need Your Heart",
+          "remix": "(Acappella)",
+          "trackId": "3255299"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Adventure Club ft. Kai",
+      "title": "Need Your Heart",
+      "remix": "(Acappella)",
+      "label": "FREE",
+      "trackId": "3255299",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "126226",
+        "soundcloud": "126226"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "DJ MERCER & Bare",
+      "title": "Bangla",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "916851",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "184962",
+        "youtube": "184962",
+        "soundcloud": "184962",
+        "appleMusic": "184962"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Botnek & 3LAU",
+      "title": "Vikings",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "928794",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "185299",
+        "youtube": "185299",
+        "soundcloud": "185299",
+        "appleMusic": "185299"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Botnek & 3LAU",
+      "title": "Vikings (E-VO & Joeyyy Remix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "916852",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "199281"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Adventure Club vs. Yellow Claw & Rochelle",
+      "title": "ThunderGun (Adventure Club Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "918170",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Hardwell & W&W",
+      "title": "Jumper",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "916854",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "125098",
+        "youtube": "125098",
+        "soundcloud": "125098",
+        "appleMusic": "125098"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hardwell & W&W",
+          "title": "Jumper",
+          "remix": "",
+          "trackId": "916854"
+        },
+        {
+          "artist": "Icona Pop ft. Charli xcx",
+          "title": "I Love It (Acappella)",
+          "remix": "",
+          "trackId": "916855"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Icona Pop ft. Charli xcx",
+      "title": "I Love It (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "916855",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "94593",
+        "youtube": "136755",
+        "soundcloud": "94593",
+        "appleMusic": "94593"
+      },
+      "blendGroup": [
+        {
+          "artist": "Icona Pop ft. Charli xcx",
+          "title": "I Love It (Acappella)",
+          "remix": "",
+          "trackId": "916855"
+        },
+        {
+          "artist": "Showtek & Justin Prime",
+          "title": "Cannonball (Show Us What You Got When The Motherfucking Beat Drops Acappella)",
+          "remix": "",
+          "trackId": "916856"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Showtek & Justin Prime",
+      "title": "Cannonball (Show Us What You Got When The Motherfucking Beat Drops Acappella)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "916856",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "145563",
+        "youtube": "145563",
+        "soundcloud": "145563",
+        "appleMusic": "145563"
+      },
+      "blendGroup": [
+        {
+          "artist": "Showtek & Justin Prime",
+          "title": "Cannonball (Show Us What You Got When The Motherfucking Beat Drops Acappella)",
+          "remix": "",
+          "trackId": "916856"
+        },
+        {
+          "artist": "Martin Garrix",
+          "title": "Animals (Botnek Edit)",
+          "remix": "",
+          "trackId": "916857"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Garrix",
+      "title": "Animals (Botnek Edit)",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "916857",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "156208",
+        "youtube": "156208",
+        "soundcloud": "156208",
+        "appleMusic": "156208"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Garrix",
+          "title": "Animals (Botnek Edit)",
+          "remix": "",
+          "trackId": "916857"
+        },
+        {
+          "artist": "Drake ft. 2 Chainz & Big Sean",
+          "title": "All Me (Hoe, Shut The Fuck Up Acappella)",
+          "remix": "",
+          "trackId": "916858"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Drake ft. 2 Chainz & Big Sean",
+      "title": "All Me (Hoe, Shut The Fuck Up Acappella)",
+      "remix": "",
+      "label": "YOUNG MONEY (CASH MONEY)",
+      "trackId": "916858",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "151525",
+        "youtube": "151525",
+        "soundcloud": "151525",
+        "appleMusic": "151525"
+      },
+      "blendGroup": [
+        {
+          "artist": "Drake ft. 2 Chainz & Big Sean",
+          "title": "All Me (Hoe, Shut The Fuck Up Acappella)",
+          "remix": "",
+          "trackId": "916858"
+        },
+        {
+          "artist": "David Guetta & GLOWINTHEDARK ft. Harrison",
+          "title": "Ain't A Party",
+          "remix": "",
+          "trackId": "916859"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta & GLOWINTHEDARK ft. Harrison",
+      "title": "Ain't A Party",
+      "remix": "",
+      "label": "JACK BACK",
+      "trackId": "916859",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "125192",
+        "youtube": "125192",
+        "soundcloud": "125192",
+        "appleMusic": "125192"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Guetta & GLOWINTHEDARK ft. Harrison",
+          "title": "Ain't A Party",
+          "remix": "",
+          "trackId": "916859"
+        },
+        {
+          "artist": "GTA & Digital LAB & Henrix",
+          "title": "Hit It! (Acappella)",
+          "remix": "",
+          "trackId": "916860"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GTA & Digital LAB & Henrix",
+      "title": "Hit It! (Acappella)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "916860",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "93096",
+        "youtube": "93096",
+        "soundcloud": "93096",
+        "appleMusic": "93096"
+      },
+      "blendGroup": [
+        {
+          "artist": "GTA & Digital LAB & Henrix",
+          "title": "Hit It! (Acappella)",
+          "remix": "",
+          "trackId": "916860"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "LRAD (Everybody In The Club Acappella)",
+          "remix": "",
+          "trackId": "916861"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "LRAD (Everybody In The Club Acappella)",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "916861",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "117950",
+        "youtube": "144448",
+        "soundcloud": "117950",
+        "appleMusic": "117950"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Flux Pavilion",
+      "title": "I Can't Stop",
+      "remix": "",
+      "label": "CIRCUS RECORDS/BIG BEAT",
+      "trackId": "916862",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "43243",
+        "youtube": "43243",
+        "soundcloud": "43243",
+        "appleMusic": "43243"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "RL Grime & What So Not",
+      "title": "Tell Me",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "916863",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "179065",
+        "youtube": "179065",
+        "soundcloud": "179065",
+        "appleMusic": "179065"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "David Guetta ft. Skylar Grey",
+      "title": "Shot Me Down",
+      "remix": "",
+      "label": "WHAT A MUSIC/JACK BACK",
+      "trackId": "916864",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "173226",
+        "youtube": "173226",
+        "soundcloud": "173226",
+        "appleMusic": "173226"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Zedd ft. Hayley Williams",
+      "title": "Stay The Night (Henry Fong Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "916865",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "159066",
+        "youtube": "159066",
+        "soundcloud": "159066",
+        "appleMusic": "159066"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Sander van Doorn & Martin Garrix & DVBBS ft. Aleesia",
+      "title": "Gold Skies",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "916866",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "182675",
+        "youtube": "182675",
+        "soundcloud": "182675",
+        "appleMusic": "182675"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Robin S & Filtercrush & Oliver Helden vs. Justice & Simian",
+      "title": "Show Me Your Friends (Cash Cash Edit)",
+      "remix": "",
+      "label": "ED BANGER/BIG BEAT (ATLANTIC)",
+      "trackId": "916867",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "199277"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "3LAU ft. Bright Lights",
+      "title": "How You Love Me (Instrumental Mix)",
+      "remix": "",
+      "label": "ISLAND DEF JAM (UMG)",
+      "trackId": "916869",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "3LAU ft. Bright Lights",
+          "title": "How You Love Me (Instrumental Mix)",
+          "remix": "",
+          "trackId": "916869"
+        },
+        {
+          "artist": "Ellie Goulding",
+          "title": "Lights (Acappella)",
+          "remix": "",
+          "trackId": "916870"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ellie Goulding",
+      "title": "Lights (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "916870",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "34519",
+        "youtube": "34519",
+        "soundcloud": "34519",
+        "appleMusic": "34519"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Coldplay",
+      "title": "Midnight (KDrew Remix)",
+      "remix": "",
+      "label": "BODY CONDITION",
+      "trackId": "916871",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Futuristic Polar Bears",
+      "title": "Back To Earth",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "916872",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "174196",
+        "youtube": "174196",
+        "soundcloud": "174196",
+        "appleMusic": "174196"
+      },
+      "blendGroup": [
+        {
+          "artist": "Futuristic Polar Bears",
+          "title": "Back To Earth",
+          "remix": "",
+          "trackId": "916872"
+        },
+        {
+          "artist": "Krewella",
+          "title": "Alive (Acappella)",
+          "remix": "",
+          "trackId": "916873"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Krewella",
+      "title": "Alive (Acappella)",
+      "remix": "",
+      "label": "KREWELLA",
+      "trackId": "916873",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "85311",
+        "youtube": "136140",
+        "soundcloud": "85311",
+        "appleMusic": "85311"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Armin van Buuren",
+      "title": "Ping Pong (Hardwell Remix)",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "916874",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "185995",
+        "youtube": "185995",
+        "soundcloud": "185995",
+        "appleMusic": "185995"
+      },
+      "blendGroup": [
+        {
+          "artist": "Armin van Buuren",
+          "title": "Ping Pong (Hardwell Remix)",
+          "remix": "",
+          "trackId": "916874"
+        },
+        {
+          "artist": "Trinidad James",
+          "title": "All Gold Everything (Acappella)",
+          "remix": "",
+          "trackId": "916875"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Trinidad James",
+      "title": "All Gold Everything (Acappella)",
+      "remix": "",
+      "label": "ISLAND DEF JAM (UMG)",
+      "trackId": "916875",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "115105",
+        "youtube": "115105",
+        "appleMusic": "115105"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Adventure Club ft. The Kite String Tangle",
+      "title": "Wonder (The Chainsmokers Remix)",
+      "remix": "",
+      "label": "SONY BMG",
+      "trackId": "916876",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "199284",
+        "youtube": "199284",
+        "soundcloud": "199284"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Armin van Buuren ft. Trevor Guthrie",
+      "title": "This Is What It Feels Like (W&W Remix)",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "916877",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "125950",
+        "youtube": "125950",
+        "soundcloud": "125950",
+        "appleMusic": "125950"
+      },
+      "blendGroup": [
+        {
+          "artist": "Armin van Buuren ft. Trevor Guthrie",
+          "title": "This Is What It Feels Like (W&W Remix)",
+          "remix": "",
+          "trackId": "916877"
+        },
+        {
+          "artist": "Calvin Harris ft. Florence Welch",
+          "title": "Sweet Nothing (Acappella)",
+          "remix": "",
+          "trackId": "916878"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Calvin Harris ft. Florence Welch",
+      "title": "Sweet Nothing (Acappella)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "916878",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "92181",
+        "youtube": "92181",
+        "soundcloud": "113114",
+        "appleMusic": "92181"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Haddaway",
+      "title": "What Is Love (Brazzabelle Festival Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "916879",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "189544"
+      },
+      "blendGroup": [
+        {
+          "artist": "Haddaway",
+          "title": "What Is Love (Brazzabelle Festival Remix)",
+          "remix": "",
+          "trackId": "916879"
+        },
+        {
+          "artist": "Bassjackers",
+          "title": "Crackin (Martin Garrix Edit)",
+          "remix": "",
+          "trackId": "916880"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bassjackers",
+      "title": "Crackin (Martin Garrix Edit)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "916880",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "170526",
+        "youtube": "170526",
+        "soundcloud": "170526",
+        "appleMusic": "170526"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Skrillex & Kill The Noise ft. Fatman Scoop & Michael Angelakos",
+      "title": "Recess",
+      "remix": "",
+      "label": "OWSLA/BIG BEAT",
+      "trackId": "916881",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "183004",
+        "youtube": "183004",
+        "soundcloud": "183004",
+        "appleMusic": "183004"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Kill The Noise ft. Fatman Scoop & Michael Angelakos",
+          "title": "Recess",
+          "remix": "",
+          "trackId": "916881"
+        },
+        {
+          "artist": "Excision & Datsik",
+          "title": "Swagga",
+          "remix": "",
+          "trackId": "916882"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Datsik",
+      "title": "Swagga",
+      "remix": "",
+      "label": "EX7",
+      "trackId": "916882",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20955",
+        "youtube": "20955",
+        "soundcloud": "20955",
+        "appleMusic": "20955"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Datsik",
+          "title": "Swagga",
+          "remix": "",
+          "trackId": "916882"
+        },
+        {
+          "artist": "Trampa",
+          "title": "Jump Smoke",
+          "remix": "",
+          "trackId": "916883"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Trampa",
+      "title": "Jump Smoke",
+      "remix": "",
+      "label": "FIREPOWER",
+      "trackId": "916883",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "122302",
+        "soundcloud": "122302",
+        "appleMusic": "122302"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "SNAILS & Antiserum",
+      "title": "Wild",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "916884",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "189316",
+        "youtube": "189316",
+        "soundcloud": "189316",
+        "appleMusic": "189316"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Foxes",
+      "title": "Youth (Adventure Club Dubstep Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "916948",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "126225",
+        "youtube": "126225",
+        "soundcloud": "126225",
+        "appleMusic": "126225"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "London Grammar",
+      "title": "Wasting My Young Years (Sound Remedy Remix)",
+      "remix": "",
+      "label": "METAL & DUST",
+      "trackId": "916947",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "169763",
+        "soundcloud": "169763"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Adventure Club ft. Krewella",
+      "title": "Rise And Fall",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "916946",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "80055",
+        "youtube": "80055",
+        "soundcloud": "80055",
+        "appleMusic": "80055"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Birdy",
+      "title": "Skinny Love (Vanic Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "918171",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "189547",
+        "soundcloud": "189547"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Flight Facilities ft. Giselle",
+      "title": "Crave You (Adventure Club Dubstep Remix)",
+      "remix": "",
+      "label": "BANG GANG",
+      "trackId": "916949",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "107597",
+        "youtube": "107597",
+        "soundcloud": "107597",
+        "appleMusic": "107597"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flight Facilities ft. Giselle",
+          "title": "Crave You (Adventure Club Dubstep Remix)",
+          "remix": "",
+          "trackId": "916949"
+        },
+        {
+          "artist": "Lana Del Rey",
+          "title": "Summertime Sadness (Cedric Gervais Remix / ETC!ETC! Trapped It Remix)",
+          "remix": "",
+          "trackId": "916950"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lana Del Rey",
+      "title": "Summertime Sadness (Cedric Gervais Remix / ETC!ETC! Trapped It Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "916950",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "148001",
+        "soundcloud": "148001"
+      }
+    },
+    {
+      "pos": "30",
+      "artist": "Yuna",
+      "title": "Lullabies (Adventure Club Remix)",
+      "remix": "",
+      "label": "FADER",
+      "trackId": "916951",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "126230",
+        "youtube": "126230",
+        "soundcloud": "126230",
+        "appleMusic": "126230"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "182484",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/LiveDjSets"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "181957",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:44:45.833Z",
+  "scrapeVersion": 2
+}

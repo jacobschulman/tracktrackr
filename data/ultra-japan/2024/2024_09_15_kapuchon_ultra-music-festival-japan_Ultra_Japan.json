@@ -1,0 +1,551 @@
+{
+  "tlId": "1nnph8q1",
+  "dj": "Kapuchon",
+  "stage": "Ultra Music Festival Japan",
+  "date": "2024-09-15",
+  "year": 2024,
+  "url": "https://www.1001tracklists.com/tracklist/1nnph8q1/kapuchon-mainstage-ultra-music-festival-japan-2024-09-15.html",
+  "djs": [
+    {
+      "name": "Kapuchon",
+      "slug": "kapuchon"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Fancy Inc & GIOC & Eric Olliver",
+      "title": "Rich Baby Daddy",
+      "remix": "",
+      "label": "NERVOUS",
+      "trackId": "11040511",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1003405",
+        "youtube": "1003405",
+        "soundcloud": "1003405",
+        "appleMusic": "1003405"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Tori Amos",
+      "title": "Professional Widow (Armand van Helden Star Trunk Funkin' Mix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "11040512",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "9233",
+        "youtube": "9233",
+        "soundcloud": "9233",
+        "appleMusic": "9233"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tori Amos",
+          "title": "Professional Widow (Armand van Helden Star Trunk Funkin' Mix)",
+          "remix": "",
+          "trackId": "11040512"
+        },
+        {
+          "artist": "Cajmere ft. Dajae",
+          "title": "Brighter Days",
+          "remix": "(Acappella)",
+          "trackId": "11040513"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cajmere ft. Dajae",
+      "title": "Brighter Days",
+      "remix": "(Acappella)",
+      "label": "CAJUAL",
+      "trackId": "11040513",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "23677",
+        "youtube": "23677",
+        "soundcloud": "23677",
+        "appleMusic": "23677"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Kapuchon & Sven Fields",
+      "title": "Work",
+      "remix": "",
+      "label": "SB",
+      "trackId": "11040514",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1032889",
+        "youtube": "1032889",
+        "soundcloud": "1032889",
+        "appleMusic": "1032889"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Kapuchon & Sven Fields",
+      "title": "I'll Be Good",
+      "remix": "",
+      "label": "",
+      "trackId": "11040515",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Kapuchon & Sven Fields",
+          "title": "I'll Be Good",
+          "remix": "",
+          "trackId": "11040515"
+        },
+        {
+          "artist": "Fred again.. & Skrillex & Four Tet ft. Lil Baby",
+          "title": "Baby Again..",
+          "remix": "(Acappella)",
+          "trackId": "11040516"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fred again.. & Skrillex & Four Tet ft. Lil Baby",
+      "title": "Baby Again..",
+      "remix": "(Acappella)",
+      "label": "OWSLA/ATLANTIC",
+      "trackId": "11040516",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "819603",
+        "youtube": "819603",
+        "soundcloud": "819603",
+        "appleMusic": "819603"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Mowgli",
+      "title": "London To Paris",
+      "remix": "",
+      "label": "DEADFISH",
+      "trackId": "11040517",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "195338",
+        "appleMusic": "195338"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "WhoMadeWho",
+      "title": "Out The Door (Superdiscount Remix)",
+      "remix": "",
+      "label": "GOMMA",
+      "trackId": "11040518",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1009285",
+        "youtube": "1009285",
+        "appleMusic": "1009285"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Mumbai Science",
+      "title": "Lotus",
+      "remix": "",
+      "label": "LEKTROLUV",
+      "trackId": "11040519",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "37205",
+        "youtube": "37205",
+        "soundcloud": "37205",
+        "appleMusic": "37205"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Upercent",
+      "title": "Da Warrior",
+      "remix": "",
+      "label": "DIYNAMIC",
+      "trackId": "11040520",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1022934",
+        "youtube": "1022934",
+        "soundcloud": "1022934",
+        "appleMusic": "1022934"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Marlon D.",
+      "title": "Jesus Creates Sound (Main Mix)",
+      "remix": "",
+      "label": "STRICTLY RHYTHM",
+      "trackId": "11040521",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "166781"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "11040522",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Coido",
+      "title": "Wedge",
+      "remix": "",
+      "label": "20/20 LDN",
+      "trackId": "11040523",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1003736",
+        "youtube": "1003736",
+        "soundcloud": "1003736",
+        "appleMusic": "1003736"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Dom Dolla",
+      "title": "girl$ (Layton Giordani Remix)",
+      "remix": "",
+      "label": "THREE SIX ZERO/SONY",
+      "trackId": "11040524",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1009491",
+        "youtube": "1009491",
+        "soundcloud": "1009491",
+        "appleMusic": "1009491"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "gizA djs",
+      "title": "Over And Over",
+      "remix": "",
+      "label": "DIYNAMIC",
+      "trackId": "11040525",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1035504",
+        "youtube": "1035504"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Eric Prydz",
+      "title": "Pjanoo",
+      "remix": "",
+      "label": "PRYDA/DATA REC.",
+      "trackId": "11040526",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1322",
+        "youtube": "1322",
+        "soundcloud": "1322",
+        "appleMusic": "1322"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eric Prydz",
+          "title": "Pjanoo",
+          "remix": "",
+          "trackId": "11040526"
+        },
+        {
+          "artist": "Ivan Gough & Feenixpawl ft. Georgi Kay",
+          "title": "In My Mind (Acappella)",
+          "remix": "",
+          "trackId": "11040527"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ivan Gough & Feenixpawl ft. Georgi Kay",
+      "title": "In My Mind (Acappella)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "11040527",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "58319",
+        "youtube": "120853",
+        "soundcloud": "58319",
+        "appleMusic": "58319"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ivan Gough & Feenixpawl ft. Georgi Kay",
+          "title": "In My Mind (Acappella)",
+          "remix": "",
+          "trackId": "11040527"
+        },
+        {
+          "artist": "Kapuchon",
+          "title": "Piano Acido",
+          "remix": "",
+          "trackId": "11040528"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kapuchon",
+      "title": "Piano Acido",
+      "remix": "",
+      "label": "KAPUCHON (WALL)",
+      "trackId": "11040528",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Kapuchon",
+          "title": "Piano Acido",
+          "remix": "",
+          "trackId": "11040528"
+        },
+        {
+          "artist": "RÜFÜS DU SOL",
+          "title": "Innerbloom",
+          "remix": "",
+          "trackId": "11040529"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RÜFÜS DU SOL",
+      "title": "Innerbloom",
+      "remix": "",
+      "label": "SWEAT IT OUT!",
+      "trackId": "11040529",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "285762",
+        "youtube": "285762",
+        "soundcloud": "285762",
+        "appleMusic": "285762"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Charli xcx ft. Billie Eilish",
+      "title": "Guess  (David Guetta & AFROJACK Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "11040530",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "AFROJACK & Lucas & Steve",
+      "title": "Control",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "11040531",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1158027",
+        "youtube": "1158027",
+        "soundcloud": "1158027",
+        "appleMusic": "1158027"
+      },
+      "blendGroup": [
+        {
+          "artist": "AFROJACK & Lucas & Steve",
+          "title": "Control",
+          "remix": "",
+          "trackId": "11040531"
+        },
+        {
+          "artist": "Yeah Yeah Yeahs",
+          "title": "Heads Will Roll (A-Trak Remix)",
+          "remix": "",
+          "trackId": "11040532"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Heads Will Roll (A-Trak Remix)",
+      "remix": "",
+      "label": "DGC",
+      "trackId": "11040532",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "11556",
+        "youtube": "11556",
+        "soundcloud": "11556",
+        "appleMusic": "11556"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Showtek & We Are Loud & Sonny Wilson vs. NLW vs. Mau P vs. Rihanna & Calvin Harris",
+      "title": "Booyah vs. To The Light vs. Drugs From Amsterdam vs. We Found Love (AFROJACK Mashup)",
+      "remix": "",
+      "label": "DEF JAM/SPINNIN'/2DUTCH/REPOPULATE MARS/WALL",
+      "trackId": "11040533",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Gil Glaze & AFROJACK",
+      "title": "Don't Go",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "11040536",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1041287",
+        "youtube": "1041287",
+        "soundcloud": "1041287",
+        "appleMusic": "1041287"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "J Soul Brothers III from EXILE TRIBE ft. Afrojack",
+      "title": "Scarlet",
+      "remix": "",
+      "label": "AVEX ENTERTAINMENT",
+      "trackId": "11078229",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "522720",
+        "youtube": "522720",
+        "appleMusic": "522720"
+      },
+      "blendGroup": [
+        {
+          "artist": "J Soul Brothers III from EXILE TRIBE ft. Afrojack",
+          "title": "Scarlet",
+          "remix": "",
+          "trackId": "11078229"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "11040537"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "11040537",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4337060",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=MDDEC7Hh75c"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "4337329",
+      "idSource": "40",
+      "url": "https://hearthis.at/11379458/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:30:37.717Z",
+  "scrapeVersion": 2
+}

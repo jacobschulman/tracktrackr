@@ -1,0 +1,739 @@
+{
+  "tlId": "4zjzrr1",
+  "dj": "Quintino",
+  "stage": "EDC Las Vegas",
+  "date": "2014-06-20",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/4zjzrr1/quintino-circuitgrounds-edc-las-vegas-united-states-2014-06-20.html",
+  "djs": [
+    {
+      "name": "Quintino",
+      "slug": "quintino"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Quintino & Joey Dale ft. Channii Monroe",
+      "title": "Lights Out",
+      "remix": "(2014 Version)",
+      "label": "SPINNIN'",
+      "trackId": "6454952",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "247333",
+        "youtube": "247333",
+        "soundcloud": "247333",
+        "appleMusic": "247333"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Quintino & MOTi ft. Taylr Renee",
+      "title": "Dynamite",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "952926",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "147112",
+        "youtube": "147112",
+        "soundcloud": "147112",
+        "appleMusic": "147112"
+      },
+      "blendGroup": [
+        {
+          "artist": "Quintino & MOTi ft. Taylr Renee",
+          "title": "Dynamite",
+          "remix": "",
+          "trackId": "952926"
+        },
+        {
+          "artist": "M.I.A.",
+          "title": "Bad Girls (Acappella)",
+          "remix": "",
+          "trackId": "6454953"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "M.I.A.",
+      "title": "Bad Girls (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "6454953",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "64147",
+        "youtube": "64147",
+        "soundcloud": "64147",
+        "appleMusic": "64147"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Quintino & Kenneth G",
+      "title": "Blowfish",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "952927",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "206995",
+        "youtube": "206995",
+        "soundcloud": "206995",
+        "appleMusic": "206995"
+      },
+      "blendGroup": [
+        {
+          "artist": "Quintino & Kenneth G",
+          "title": "Blowfish",
+          "remix": "",
+          "trackId": "952927"
+        },
+        {
+          "artist": "Joachim Garraud",
+          "title": "Are U Ready (Acappella)",
+          "remix": "",
+          "trackId": "954670"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Joachim Garraud",
+      "title": "Are U Ready (Acappella)",
+      "remix": "",
+      "label": "GUM PROD",
+      "trackId": "954670",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3680",
+        "youtube": "3680",
+        "soundcloud": "17650"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Quintino & Blasterjaxx",
+      "title": "Puzzle",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "952928",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "135999",
+        "youtube": "135999",
+        "soundcloud": "135999",
+        "appleMusic": "135999"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Quintino",
+      "title": "Go Hard",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "952931",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "188572",
+        "youtube": "188572",
+        "soundcloud": "188572",
+        "appleMusic": "188572"
+      },
+      "blendGroup": [
+        {
+          "artist": "Quintino",
+          "title": "Go Hard",
+          "remix": "",
+          "trackId": "952931"
+        },
+        {
+          "artist": "Quintino & MOTi ft. Taylr Renee",
+          "title": "Dynamite (Acappella)",
+          "remix": "",
+          "trackId": "952929"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Quintino & MOTi ft. Taylr Renee",
+      "title": "Dynamite (Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "952929",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "147112",
+        "youtube": "147112",
+        "soundcloud": "147112",
+        "appleMusic": "147112"
+      },
+      "blendGroup": [
+        {
+          "artist": "Quintino & MOTi ft. Taylr Renee",
+          "title": "Dynamite (Acappella)",
+          "remix": "",
+          "trackId": "952929"
+        },
+        {
+          "artist": "Basement Jaxx",
+          "title": "Where's Your Head At? (Acappella)",
+          "remix": "",
+          "trackId": "952932"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Basement Jaxx",
+      "title": "Where's Your Head At? (Acappella)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "952932",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5190",
+        "youtube": "10129",
+        "soundcloud": "5190",
+        "appleMusic": "5190"
+      },
+      "blendGroup": [
+        {
+          "artist": "Basement Jaxx",
+          "title": "Where's Your Head At? (Acappella)",
+          "remix": "",
+          "trackId": "952932"
+        },
+        {
+          "artist": "Joachim Garraud",
+          "title": "Are U Ready (Acappella)",
+          "remix": "",
+          "trackId": "952930"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Joachim Garraud",
+      "title": "Are U Ready (Acappella)",
+      "remix": "",
+      "label": "GUM PROD",
+      "trackId": "952930",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3680",
+        "youtube": "3680",
+        "soundcloud": "17650"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Otto Knows vs. Bebe Rexha",
+      "title": "Can't Stop Drinking About You",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "1085119",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "218517",
+        "soundcloud": "218517",
+        "appleMusic": "218517"
+      },
+      "blendGroup": [
+        {
+          "artist": "Otto Knows vs. Bebe Rexha",
+          "title": "Can't Stop Drinking About You",
+          "remix": "",
+          "trackId": "1085119"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6454954"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6454954",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "07",
+      "artist": "Sander Van Doorn & Ummet Ozcan vs. Krewella & W&W ft. Lil Jon & Will.I.Am & JD",
+      "title": "Live For The Neon (GLOWINTHEDARK Smash-up)",
+      "remix": "",
+      "label": "POLYDOR/COLUMBIA (SONY)/DOORN (SPINNIN')",
+      "trackId": "952933",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Yeah Yeah Yeahs vs. Basement Jaxx vs. Dan Le Sac & Scroobius Pip ft. Fake Blood & A-Trak",
+      "title": "Where's Your Head Roll (Laidback Luke Mashup)",
+      "remix": "",
+      "label": "DGC/XL",
+      "trackId": "952935",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Yeah Yeah Yeahs vs. Basement Jaxx vs. Dan Le Sac & Scroobius Pip ft. Fake Blood & A-Trak",
+          "title": "Where's Your Head Roll (Laidback Luke Mashup)",
+          "remix": "",
+          "trackId": "952935"
+        },
+        {
+          "artist": "Michael Woods",
+          "title": "Clanga (Acappella)",
+          "remix": "",
+          "trackId": "952936"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Michael Woods",
+      "title": "Clanga (Acappella)",
+      "remix": "",
+      "label": "DIFFUSED",
+      "trackId": "952936",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "139632",
+        "youtube": "139632",
+        "soundcloud": "139632",
+        "appleMusic": "139632"
+      },
+      "blendGroup": [
+        {
+          "artist": "Michael Woods",
+          "title": "Clanga (Acappella)",
+          "remix": "",
+          "trackId": "952936"
+        },
+        {
+          "artist": "Chardy & Kronic",
+          "title": "S.W.A.T. Team",
+          "remix": "",
+          "trackId": "952937"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chardy & Kronic",
+      "title": "S.W.A.T. Team",
+      "remix": "",
+      "label": "HUSSLE",
+      "trackId": "952937",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "130824",
+        "youtube": "130824",
+        "soundcloud": "130824",
+        "appleMusic": "130824"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "John Legend",
+      "title": "All Of Me (Quintino & AFSHeeN Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "952938",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "199245"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Zombie Nation",
+      "title": "Kernkraft 400",
+      "remix": "",
+      "label": "EPM",
+      "trackId": "952939",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3577",
+        "youtube": "3577",
+        "soundcloud": "3577",
+        "appleMusic": "3577"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zombie Nation",
+          "title": "Kernkraft 400",
+          "remix": "",
+          "trackId": "952939"
+        },
+        {
+          "artist": "FTampa",
+          "title": "5 Days",
+          "remix": "",
+          "trackId": "952940"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "FTampa",
+      "title": "5 Days",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "952940",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "193789",
+        "youtube": "193789",
+        "soundcloud": "193789",
+        "appleMusic": "193789"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Alvaro & DJ MERCER ft. Lil Jon",
+      "title": "Welcome To The Jungle",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "952941",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "119124",
+        "youtube": "119124",
+        "soundcloud": "119124",
+        "appleMusic": "119124"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alvaro & DJ MERCER ft. Lil Jon",
+          "title": "Welcome To The Jungle",
+          "remix": "",
+          "trackId": "952941"
+        },
+        {
+          "artist": "Sandro Silva & Quintino vs. Obek & MC Ambush",
+          "title": "Epic Countdown (MAKJ Edit)",
+          "remix": "",
+          "trackId": "952942"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sandro Silva & Quintino vs. Obek & MC Ambush",
+      "title": "Epic Countdown (MAKJ Edit)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/CR2",
+      "trackId": "952942",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Sandro Silva & Quintino vs. Obek & MC Ambush",
+          "title": "Epic Countdown (MAKJ Edit)",
+          "remix": "",
+          "trackId": "952942"
+        },
+        {
+          "artist": "Sandro Silva & Quintino",
+          "title": "Epic (Thomaz & Claes Lanng Trapic Bootleg)",
+          "remix": "",
+          "trackId": "952943"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sandro Silva & Quintino",
+      "title": "Epic (Thomaz & Claes Lanng Trapic Bootleg)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "952943",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "12",
+      "artist": "Wolfpack & Bobby Puma",
+      "title": "Jump",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "952944",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "188027",
+        "youtube": "188027",
+        "soundcloud": "188027",
+        "appleMusic": "188027"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wolfpack & Bobby Puma",
+          "title": "Jump",
+          "remix": "",
+          "trackId": "952944"
+        },
+        {
+          "artist": "Bassjackers vs. Icona Pop vs. David Guetta & GlowintheDark vs. Alesso",
+          "title": "I Don't Care vs. Crackin vs. Ain't A Party vs. Raise Your Head (Hardwell Summer 2013 Mashup)",
+          "remix": "",
+          "trackId": "952945"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bassjackers vs. Icona Pop vs. David Guetta & GlowintheDark vs. Alesso",
+      "title": "I Don't Care vs. Crackin vs. Ain't A Party vs. Raise Your Head (Hardwell Summer 2013 Mashup)",
+      "remix": "",
+      "label": "REFUNE/BIG BEAT (ATLANTIC)/SPINNIN'/JACK BACK",
+      "trackId": "952945",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "143852"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Quintino",
+      "title": "Front To The Back",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "952946",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "202589",
+        "youtube": "202589",
+        "soundcloud": "202589",
+        "appleMusic": "202589"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Quintino & DJ MERCER",
+      "title": "Genesis",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "952947",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "214359",
+        "youtube": "214359",
+        "soundcloud": "214359",
+        "appleMusic": "214359"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Quintino",
+      "title": "Go Hard (Quintino VIP Edit)",
+      "remix": "",
+      "label": "SPINNIN'/FREE",
+      "trackId": "952949",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "201422",
+        "soundcloud": "201422"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "R3HAB",
+      "title": "Samurai (Go Hard) (Tiësto Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "952950",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "196031",
+        "youtube": "196031",
+        "soundcloud": "196031",
+        "appleMusic": "196031"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Armin van Buuren",
+      "title": "Ping Pong (DJ MERCER Late Night Edition)",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "952951",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "192745"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Quintino",
+      "title": "Winner",
+      "remix": "",
+      "label": "SKINK",
+      "trackId": "1432871",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "230155",
+        "youtube": "230155",
+        "soundcloud": "230155",
+        "appleMusic": "230155"
+      },
+      "blendGroup": [
+        {
+          "artist": "Quintino",
+          "title": "Winner",
+          "remix": "",
+          "trackId": "1432871"
+        },
+        {
+          "artist": "Quintino",
+          "title": "Milestone",
+          "remix": "",
+          "trackId": "952952"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Quintino",
+      "title": "Milestone",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "952952",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "255873",
+        "youtube": "255873",
+        "soundcloud": "255873",
+        "appleMusic": "255873"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Quintino & FTampa",
+      "title": "Slammer",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "952953",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "205100",
+        "youtube": "205100",
+        "soundcloud": "205100",
+        "appleMusic": "205100"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "189292",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/thebesthouse"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "189436",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/LiveDjSets"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "190477",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:08:19.414Z",
+  "scrapeVersion": 2
+}

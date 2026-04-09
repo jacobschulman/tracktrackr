@@ -1,0 +1,335 @@
+{
+  "tlId": "2rnpmph1",
+  "dj": "Lane 8",
+  "stage": "EDC Las Vegas",
+  "date": "2016-06-18",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/2rnpmph1/lane-8-neongarden-edc-las-vegas-united-states-2016-06-18.html",
+  "djs": [
+    {
+      "name": "Lane 8",
+      "slug": "lane8"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Lane 8",
+      "title": "In My Arms",
+      "remix": "",
+      "label": "THIS NEVER HAPPENED",
+      "trackId": "2099337",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "336446",
+        "youtube": "336446",
+        "appleMusic": "336446"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "KANT ft. Leo Stannard",
+      "title": "Close To The Wire (Club Mix)",
+      "remix": "",
+      "label": "BLACK BUTTER",
+      "trackId": "2099338",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "312444",
+        "youtube": "312445",
+        "soundcloud": "312445",
+        "appleMusic": "312444"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Fancy Inc ft. Sonic Future",
+      "title": "Hazy Verses",
+      "remix": "",
+      "label": "",
+      "trackId": "2099339",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "RÜFÜS DU SOL",
+      "title": "Like An Animal (YOTTO Remix)",
+      "remix": "(Dub)",
+      "label": "SWEAT IT OUT!",
+      "trackId": "2099341",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "290196",
+        "youtube": "290196",
+        "soundcloud": "290196",
+        "appleMusic": "290196"
+      },
+      "blendGroup": [
+        {
+          "artist": "RÜFÜS DU SOL",
+          "title": "Like An Animal (YOTTO Remix)",
+          "remix": "(Dub)",
+          "trackId": "2099341"
+        },
+        {
+          "artist": "Lane 8 ft. Solomon Grey",
+          "title": "Diamonds (Acappella)",
+          "remix": "",
+          "trackId": "2099340"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lane 8 ft. Solomon Grey",
+      "title": "Diamonds (Acappella)",
+      "remix": "",
+      "label": "ANJUNADEEP",
+      "trackId": "2099340",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "212781",
+        "youtube": "212781",
+        "soundcloud": "212781",
+        "appleMusic": "212781"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Stefano Noferini & METODI",
+      "title": "Reflex",
+      "remix": "",
+      "label": "TERMINAL M",
+      "trackId": "2099342",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "279563",
+        "youtube": "279563",
+        "soundcloud": "279563",
+        "appleMusic": "279563"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Lane 8",
+      "title": "Fingerprint",
+      "remix": "",
+      "label": "THIS NEVER HAPPENED",
+      "trackId": "2099343",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "312861",
+        "youtube": "312861",
+        "soundcloud": "312861",
+        "appleMusic": "312861"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Feu D'or",
+      "title": "Singapore (Martin Roth Remix)",
+      "remix": "",
+      "label": "INTRICATE",
+      "trackId": "2099344",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "84574",
+        "soundcloud": "84574"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Krankbrother",
+      "title": "Circular Thing (Hot Since 82 Remix)",
+      "remix": "",
+      "label": "CIRCUS RECORDINGS",
+      "trackId": "2107240",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300255",
+        "youtube": "300255",
+        "soundcloud": "300255",
+        "appleMusic": "300255"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Pryda",
+      "title": "Rebel XX",
+      "remix": "",
+      "label": "PRYDA",
+      "trackId": "2099345",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "261011",
+        "youtube": "261011",
+        "soundcloud": "261011",
+        "appleMusic": "261011"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Cubicolor",
+      "title": "Got This Feeling (Lane 8 Remix)",
+      "remix": "",
+      "label": "ANJUNADEEP",
+      "trackId": "2099346",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "290332",
+        "youtube": "290332",
+        "appleMusic": "290332"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "H.O.S.H.",
+      "title": "Meloman",
+      "remix": "",
+      "label": "MY FAVORITE ROBOT",
+      "trackId": "2099347",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "533163",
+        "soundcloud": "533163"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Prok & Fitch",
+      "title": "Heatwave",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "2099348",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "309634",
+        "youtube": "309634",
+        "soundcloud": "309634"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Lane 8",
+      "title": "Divina",
+      "remix": "",
+      "label": "THIS NEVER HAPPENED",
+      "trackId": "2099349",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "317711",
+        "youtube": "317711",
+        "appleMusic": "317711"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Stephan Bodzin & Marc Romboy",
+      "title": "Atlas (Adriatique Remix)",
+      "remix": "",
+      "label": "SYSTEMATIC",
+      "trackId": "2099350",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "293841",
+        "youtube": "293841",
+        "soundcloud": "293841",
+        "appleMusic": "293841"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Maribou State",
+      "title": "Wallflower (Lane 8 Remix)",
+      "remix": "",
+      "label": "ANJUNADEEP",
+      "trackId": "2099351",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "269423",
+        "youtube": "269423",
+        "soundcloud": "269423",
+        "appleMusic": "269423"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "K.A.L.I.L.",
+      "title": "Clouds And Star (Victor Ruiz Remix)",
+      "remix": "",
+      "label": "ELECTRIC BALLROOM",
+      "trackId": "2099352",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "301891",
+        "youtube": "301891",
+        "soundcloud": "301891",
+        "appleMusic": "301891"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "4714883",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/ReliveTheNight"
+    }
+  ],
+  "scrapedAt": "2026-04-08T08:05:44.605Z",
+  "scrapeVersion": 2
+}

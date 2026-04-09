@@ -1,0 +1,360 @@
+{
+  "tlId": "29qwmh89",
+  "dj": "Zonderling",
+  "stage": "EDC Orlando",
+  "date": "2017-11-07",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/29qwmh89/zonderling-edc-orlando-mix-2017-11-07.html",
+  "djs": [
+    {
+      "name": "Zonderling",
+      "slug": "zonderling"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "MOGUAI ft. YouNotUs & Nico Santos",
+      "title": "Lessons (Parookaville Anthem 2017) (Zonderling Remix)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "2971760",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "374394",
+        "youtube": "374394",
+        "soundcloud": "374394",
+        "appleMusic": "374394"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Point Point ft. Denai Moore",
+      "title": "Hands (Samaran Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "2971761",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 265,
+      "mediaIds": {
+        "spotify": "381995",
+        "soundcloud": "381995",
+        "appleMusic": "381995"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Tinlicker",
+      "title": "Reject",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "2971763",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 390,
+      "mediaIds": {
+        "spotify": "386347",
+        "soundcloud": "386347",
+        "appleMusic": "386347"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tinlicker",
+          "title": "Reject",
+          "remix": "",
+          "trackId": "2971763"
+        },
+        {
+          "artist": "La Fuente",
+          "title": "Capitol (Acappella)",
+          "remix": "",
+          "trackId": "2971762"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "La Fuente",
+      "title": "Capitol (Acappella)",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "2971762",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 400,
+      "mediaIds": {
+        "spotify": "350016",
+        "youtube": "350016",
+        "soundcloud": "350016",
+        "appleMusic": "350016"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "DJ Licious",
+      "title": "I Hear You Calling (Zonderling Remix)",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "2971764",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 651,
+      "mediaIds": {
+        "spotify": "362505",
+        "youtube": "362505",
+        "appleMusic": "362505"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Louder",
+      "title": "The Move",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "2971765",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 876,
+      "mediaIds": {
+        "spotify": "368054",
+        "youtube": "368054",
+        "soundcloud": "368054",
+        "appleMusic": "368054"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Zonderling ft. Mingue",
+      "title": "Remedy",
+      "remix": "",
+      "label": "SPINNIN' DEEP",
+      "trackId": "2971766",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1045,
+      "mediaIds": {
+        "spotify": "368240",
+        "youtube": "368240",
+        "soundcloud": "368240",
+        "appleMusic": "368240"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Madison Mars",
+      "title": "Atom",
+      "remix": "",
+      "label": "SPINNIN' COPYRIGHT FREE",
+      "trackId": "2971767",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1255,
+      "mediaIds": {
+        "spotify": "375115",
+        "youtube": "375115",
+        "soundcloud": "375115",
+        "appleMusic": "375115"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Aevion",
+      "title": "Summer",
+      "remix": "",
+      "label": "BMKLTSCH",
+      "trackId": "2971768",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1451,
+      "mediaIds": {
+        "spotify": "359161",
+        "youtube": "359161",
+        "soundcloud": "359161",
+        "appleMusic": "359161"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Sagan",
+      "title": "Tempus",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "2971769",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": {
+        "spotify": "381316",
+        "youtube": "381316",
+        "soundcloud": "381316",
+        "appleMusic": "381316"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Ken Takano",
+      "title": "Departure",
+      "remix": "",
+      "label": "LYD (FUTURE HOUSE MUSIC)",
+      "trackId": "2971770",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1912,
+      "mediaIds": {
+        "spotify": "380171",
+        "youtube": "380171",
+        "soundcloud": "380171",
+        "appleMusic": "380171"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Zonderling",
+      "title": "Annalog",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "2971771",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2081,
+      "mediaIds": {
+        "spotify": "342563",
+        "youtube": "342563",
+        "appleMusic": "342563"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Nari & Milani ft. TAVA",
+      "title": "I Am Alright",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "2971772",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2294,
+      "mediaIds": {
+        "spotify": "354508",
+        "youtube": "354508",
+        "soundcloud": "354508",
+        "appleMusic": "354508"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Zonderling",
+      "title": "Tunnel Vision (Don Diablo Edit)",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "2971773",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2568,
+      "mediaIds": {
+        "spotify": "342281",
+        "youtube": "342281",
+        "soundcloud": "342281",
+        "appleMusic": "342281"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Bobby Rock",
+      "title": "You Make Me Feel",
+      "remix": "",
+      "label": "FUTURE HOUSE MUSIC",
+      "trackId": "2971774",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2758,
+      "mediaIds": {
+        "spotify": "378954",
+        "youtube": "378954",
+        "soundcloud": "378954",
+        "appleMusic": "378954"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Funkin Matt",
+      "title": "Aurora",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "2971775",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2933,
+      "mediaIds": {
+        "spotify": "348815",
+        "youtube": "348815",
+        "soundcloud": "348815",
+        "appleMusic": "348815"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Oxia",
+      "title": "Domino (Zonderling Edit)",
+      "remix": "",
+      "label": "KOMPAKT",
+      "trackId": "2971776",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3162,
+      "mediaIds": {
+        "youtube": "309120",
+        "soundcloud": "309120"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Martin Garrix & Dua Lipa",
+      "title": "Scared To Be Lonely (Zonderling Remix)",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "2971777",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3420,
+      "mediaIds": {
+        "spotify": "350482",
+        "youtube": "350482",
+        "soundcloud": "350482",
+        "appleMusic": "350482"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "681894",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/insomniacevents"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:34:18.799Z",
+  "scrapeVersion": 2
+}

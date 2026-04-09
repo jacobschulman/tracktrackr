@@ -1,8 +1,9 @@
-import { loadIndex, loadAllSets, loadSet, getTopTracks, getYearStats, getYearSpotlight, fmt } from '@/lib/data';
-import { CONFIG, getStageColor } from '@/lib/config';
+import { loadIndex, loadAllSets, loadSet, getTopTracks, getYearStats, getYearSpotlight, getFestivalSummaries, fmt } from '@/lib/data';
+import { getStageColor } from '@/lib/festivals';
 import { trackSlug } from '@/lib/slugs';
 import Link from 'next/link';
 import { YearSelect, FilterableSetGrid } from './YearPageClient';
+import { SpotifyButton } from '@/components/SpotifyButton';
 
 export function generateStaticParams() {
   const index = loadIndex();
@@ -125,6 +126,12 @@ export default async function YearDetailPage({ params }: { params: Promise<{ yea
     };
   }
 
+  // Festival labels for filter
+  const festivalSummaries = getFestivalSummaries();
+  const festivalLabels = festivalSummaries
+    .filter(f => yearSets.some(s => s.festival === f.slug))
+    .map(f => ({ slug: f.slug, shortName: f.shortName, accent: f.accent }));
+
   // Build data for client grid
   const setCards = sortedSets.map(s => {
     const enrich = setEnrich[s.tlId];
@@ -132,7 +139,8 @@ export default async function YearDetailPage({ params }: { params: Promise<{ yea
       tlId: s.tlId,
       djName: s.djs.map(d => d.name).join(' & '),
       stage: s.stage,
-      stageColor: getStageColor(s.stage),
+      stageColor: getStageColor(s.festival || 'ultra-miami', s.stage),
+      festival: s.festival,
       date: s.date,
       dateFormatted: formatDateShort(s.date),
       duration: s.duration || '',
@@ -204,6 +212,7 @@ export default async function YearDetailPage({ params }: { params: Promise<{ yea
                     <div className="leaderboard-count">{t.playCount}</div>
                     <div className="leaderboard-count-label">plays</div>
                   </div>
+                  <SpotifyButton artist={t.artist} title={t.title} />
                 </Link>
               );
             })}
@@ -214,7 +223,7 @@ export default async function YearDetailPage({ params }: { params: Promise<{ yea
 
       {/* All Sets Grid — filterable */}
       <div className="section-title">Sets &mdash; {year}</div>
-      <FilterableSetGrid sets={setCards} stages={stageNames} />
+      <FilterableSetGrid sets={setCards} festivalLabels={festivalLabels} />
     </>
   );
 }

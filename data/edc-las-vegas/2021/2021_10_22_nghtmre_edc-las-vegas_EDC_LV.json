@@ -1,0 +1,1279 @@
+{
+  "tlId": "1kpmbng1",
+  "dj": "NGHTMRE",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-22",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/1kpmbng1/nghtmre-basspod-edc-las-vegas-united-states-2021-10-22.html",
+  "djs": [
+    {
+      "name": "NGHTMRE",
+      "slug": "nghtmre"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Dillon Francis & NGHTMRE",
+      "title": "Need You",
+      "remix": "(Intro)",
+      "label": "MAD DECENT",
+      "trackId": "7240512",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "301795",
+        "youtube": "301795",
+        "soundcloud": "301795",
+        "appleMusic": "301795"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Oddprophet & Vastive",
+      "title": "Dead Love",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6864679",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "728797",
+        "youtube": "728797",
+        "soundcloud": "728797",
+        "appleMusic": "728797"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "K-NINE",
+      "title": "Bounce Like",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6864680",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 170,
+      "mediaIds": {
+        "spotify": "578354",
+        "youtube": "578354",
+        "soundcloud": "578354",
+        "appleMusic": "578354"
+      },
+      "blendGroup": [
+        {
+          "artist": "K-NINE",
+          "title": "Bounce Like",
+          "remix": "",
+          "trackId": "6864680"
+        },
+        {
+          "artist": "Riot Ten ft. Rico Act",
+          "title": "Rail Breaker",
+          "remix": "(Acappella)",
+          "trackId": "6888221"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Riot Ten ft. Rico Act",
+      "title": "Rail Breaker",
+      "remix": "(Acappella)",
+      "label": "DIM MAK",
+      "trackId": "6888221",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "369232",
+        "youtube": "369232",
+        "soundcloud": "369232",
+        "appleMusic": "369232"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Virtual Riot",
+      "title": "REDLINE",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "6864681",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 210,
+      "mediaIds": {
+        "spotify": "722494",
+        "youtube": "722494",
+        "soundcloud": "722494",
+        "appleMusic": "722494"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "G Jones",
+      "title": "In Your Head (RL Grime Edit)",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "6864682",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 270,
+      "mediaIds": {
+        "spotify": "502730",
+        "youtube": "502730",
+        "soundcloud": "502730",
+        "appleMusic": "502730"
+      },
+      "blendGroup": [
+        {
+          "artist": "G Jones",
+          "title": "In Your Head (RL Grime Edit)",
+          "remix": "",
+          "trackId": "6864682"
+        },
+        {
+          "artist": "BARELY ALIVE & Control Freak",
+          "title": "Tick Tock",
+          "remix": "",
+          "trackId": "6864683"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "BARELY ALIVE & Control Freak",
+      "title": "Tick Tock",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "6864683",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "708414",
+        "youtube": "708414",
+        "soundcloud": "708414",
+        "appleMusic": "708414"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "NGHTMRE & Smokepurrp",
+      "title": "MOSH (Stoned Level Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "6864684",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 340,
+      "mediaIds": {
+        "spotify": "729573",
+        "youtube": "729573",
+        "soundcloud": "729573",
+        "appleMusic": "729573"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Trampa",
+      "title": "Time To Rage",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "6864685",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 450,
+      "mediaIds": {
+        "spotify": "525217",
+        "youtube": "525217",
+        "soundcloud": "525217",
+        "appleMusic": "525217"
+      },
+      "blendGroup": [
+        {
+          "artist": "Trampa",
+          "title": "Time To Rage",
+          "remix": "",
+          "trackId": "6864685"
+        },
+        {
+          "artist": "NGHTMRE",
+          "title": "Fear",
+          "remix": "",
+          "trackId": "6864686"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "NGHTMRE",
+      "title": "Fear",
+      "remix": "",
+      "label": "UNSOUND",
+      "trackId": "6864686",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 470,
+      "mediaIds": {
+        "spotify": "827194",
+        "youtube": "827194",
+        "soundcloud": "827194",
+        "appleMusic": "827194"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "NGHTMRE",
+      "title": "Love",
+      "remix": "",
+      "label": "UNSOUND",
+      "trackId": "6864687",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "847591",
+        "youtube": "847591",
+        "soundcloud": "847591",
+        "appleMusic": "847591"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "NGHTMRE & Control Freak",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6864688",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 600,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Ace Aura",
+      "title": "Inferno",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6864689",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 660,
+      "mediaIds": {
+        "spotify": "717401",
+        "youtube": "717401",
+        "soundcloud": "717401",
+        "appleMusic": "717401"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "MUST DIE!",
+      "title": "CHAOS (Frantik Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6864690",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 740,
+      "mediaIds": {
+        "youtube": "759302",
+        "soundcloud": "759302"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Ray Volpe",
+      "title": "Battle Of The Bros (VIP)",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "6864691",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 765,
+      "mediaIds": {
+        "spotify": "646960",
+        "youtube": "646960",
+        "soundcloud": "646960",
+        "appleMusic": "646960"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Wooli & Subtronics",
+      "title": "Melt Ur Brain",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "6864692",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 855,
+      "mediaIds": {
+        "spotify": "634531",
+        "youtube": "634531",
+        "soundcloud": "634531",
+        "appleMusic": "634531"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Leotrix",
+      "title": "Emoboy303 (SIDE)",
+      "remix": "",
+      "label": "HALCYON",
+      "trackId": "6864693",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 900,
+      "mediaIds": {
+        "spotify": "611175",
+        "youtube": "611175",
+        "soundcloud": "611175",
+        "appleMusic": "611175"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "NGHTMRE & Zomboy ft. Georgia Ku",
+      "title": "Shell Shock",
+      "remix": "",
+      "label": "GUD VIBRATIONS",
+      "trackId": "6864694",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 942,
+      "mediaIds": {
+        "spotify": "729297",
+        "youtube": "729297",
+        "soundcloud": "729297",
+        "appleMusic": "729297"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Benny Benassi ft. Gary Go vs. Snavs",
+      "title": "Cinema vs. Lust (Snavs Edit)",
+      "remix": "",
+      "label": "ULTRA/RIOTVILLE",
+      "trackId": "6864695",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1075,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Benny Benassi ft. Gary Go vs. Snavs",
+          "title": "Cinema vs. Lust (Snavs Edit)",
+          "remix": "",
+          "trackId": "6864695"
+        },
+        {
+          "artist": "WAVEDASH & fknsyd",
+          "title": "Stallions",
+          "remix": "",
+          "trackId": "6879993"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "WAVEDASH & fknsyd",
+      "title": "Stallions",
+      "remix": "",
+      "label": "GUD VIBRATIONS",
+      "trackId": "6879993",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 1151,
+      "mediaIds": {
+        "spotify": "579251",
+        "youtube": "579251",
+        "soundcloud": "579251",
+        "appleMusic": "579251"
+      },
+      "blendGroup": [
+        {
+          "artist": "WAVEDASH & fknsyd",
+          "title": "Stallions",
+          "remix": "",
+          "trackId": "6879993"
+        },
+        {
+          "artist": "Leotrix",
+          "title": "FUNNYFACE",
+          "remix": "",
+          "trackId": "6864697"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Leotrix",
+      "title": "FUNNYFACE",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "6864697",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 1125,
+      "mediaIds": {
+        "spotify": "785371",
+        "youtube": "785371",
+        "soundcloud": "785371",
+        "appleMusic": "785371"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "NGHTMRE & KLAXX",
+      "title": "Falling",
+      "remix": "",
+      "label": "GUD VIBRATIONS",
+      "trackId": "6864698",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1240,
+      "mediaIds": {
+        "spotify": "663481",
+        "youtube": "663481",
+        "soundcloud": "663481",
+        "appleMusic": "663481"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Habstrakt",
+      "title": "The One (NGHTMRE Remix)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "6864699",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1320,
+      "mediaIds": {
+        "spotify": "531754",
+        "youtube": "531754",
+        "soundcloud": "531754",
+        "appleMusic": "531754"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "GTA ft. DJ Funk",
+      "title": "Booty Bounce (GTA HYPRR MIX)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6881078",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1369,
+      "mediaIds": {
+        "youtube": "244281",
+        "soundcloud": "244281"
+      },
+      "blendGroup": [
+        {
+          "artist": "GTA ft. DJ Funk",
+          "title": "Booty Bounce (GTA HYPRR MIX)",
+          "remix": "",
+          "trackId": "6881078"
+        },
+        {
+          "artist": "PhaseOne ft. Shane Told Of Silverstein",
+          "title": "Enemy (VIP)",
+          "remix": "",
+          "trackId": "6864700"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "PhaseOne ft. Shane Told Of Silverstein",
+      "title": "Enemy (VIP)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "6864700",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 1407,
+      "mediaIds": {
+        "spotify": "742082",
+        "youtube": "742082",
+        "soundcloud": "742082",
+        "appleMusic": "742082"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Dillon Francis & NGHTMRE",
+      "title": "Need You",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "6864701",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1445,
+      "mediaIds": {
+        "spotify": "301795",
+        "youtube": "301795",
+        "soundcloud": "301795",
+        "appleMusic": "301795"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dillon Francis & NGHTMRE",
+          "title": "Need You",
+          "remix": "",
+          "trackId": "6864701"
+        },
+        {
+          "artist": "Dr. Ozi",
+          "title": "IG Knight",
+          "remix": "",
+          "trackId": "6881079"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dr. Ozi",
+      "title": "IG Knight",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6881079",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 1435,
+      "mediaIds": {
+        "spotify": "584651",
+        "youtube": "584651",
+        "soundcloud": "584651",
+        "appleMusic": "584651"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dr. Ozi",
+          "title": "IG Knight",
+          "remix": "",
+          "trackId": "6881079"
+        },
+        {
+          "artist": "Subtronics & TrollPhace",
+          "title": "Mecha Doodle",
+          "remix": "",
+          "trackId": "6864702"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Subtronics & TrollPhace",
+      "title": "Mecha Doodle",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "6864702",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 1475,
+      "mediaIds": {
+        "spotify": "436507",
+        "youtube": "436507",
+        "soundcloud": "436507",
+        "appleMusic": "436507"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "The Chainsmokers & NGHTMRE",
+      "title": "Save Yourself",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "6864703",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1520,
+      "mediaIds": {
+        "spotify": "417013",
+        "youtube": "417013",
+        "soundcloud": "417013",
+        "appleMusic": "417013"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers & NGHTMRE",
+          "title": "Save Yourself",
+          "remix": "",
+          "trackId": "6864703"
+        },
+        {
+          "artist": "HEKLER",
+          "title": "Data Transfer",
+          "remix": "",
+          "trackId": "6864704"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "HEKLER",
+      "title": "Data Transfer",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6864704",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 1545,
+      "mediaIds": {
+        "spotify": "518083",
+        "youtube": "518083",
+        "soundcloud": "518083",
+        "appleMusic": "518083"
+      },
+      "blendGroup": [
+        {
+          "artist": "HEKLER",
+          "title": "Data Transfer",
+          "remix": "",
+          "trackId": "6864704"
+        },
+        {
+          "artist": "BAILO x Styles&Complete ft. Lil Jon",
+          "title": "Fuccboi (Spag Heddy Bootleg)",
+          "remix": "",
+          "trackId": "6864705"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "BAILO x Styles&Complete ft. Lil Jon",
+      "title": "Fuccboi (Spag Heddy Bootleg)",
+      "remix": "",
+      "label": "GEFFEN (UMG)",
+      "trackId": "6864705",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 1590,
+      "mediaIds": {
+        "youtube": "543303",
+        "soundcloud": "543303"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Cheat Codes ft. Trippie Redd & blackbear & PRINCE$$ ROSIE",
+      "title": "No Service In The Hills (NGHTMRE Remix)",
+      "remix": "",
+      "label": "TOO EASY",
+      "trackId": "6864706",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1594,
+      "mediaIds": {
+        "spotify": "568782",
+        "youtube": "568782",
+        "soundcloud": "568782",
+        "appleMusic": "568782"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "NGHTMRE & Virtual Riot ft. Marlhy",
+      "title": "Teardrop",
+      "remix": "",
+      "label": "UNSOUND",
+      "trackId": "6864707",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1760,
+      "mediaIds": {
+        "spotify": "827137",
+        "youtube": "827137",
+        "soundcloud": "827137",
+        "appleMusic": "827137"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Ace Aura",
+      "title": "Gem World",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6864708",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "719574",
+        "youtube": "719574",
+        "soundcloud": "719574",
+        "appleMusic": "719574"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "MUST DIE!",
+      "title": "SORROW TECH",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6864709",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 1848,
+      "mediaIds": {
+        "spotify": "661767",
+        "youtube": "661767",
+        "soundcloud": "661767",
+        "appleMusic": "661767"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Keys N Krates",
+      "title": "Dum Dee Dum (NGHTMRE Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6864710",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 1885,
+      "mediaIds": {
+        "spotify": "251367",
+        "youtube": "251367",
+        "soundcloud": "251367"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Flux Pavilion & NGHTMRE ft. Jamie Lewis",
+      "title": "Feel Your Love",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "6864711",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 1925,
+      "mediaIds": {
+        "spotify": "300763",
+        "youtube": "300763",
+        "soundcloud": "300763",
+        "appleMusic": "300763"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flux Pavilion & NGHTMRE ft. Jamie Lewis",
+          "title": "Feel Your Love",
+          "remix": "",
+          "trackId": "6864711"
+        },
+        {
+          "artist": "MUST DIE!",
+          "title": "FUCK UR STYLE (Syzy Remix)",
+          "remix": "",
+          "trackId": "6864712"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MUST DIE!",
+      "title": "FUCK UR STYLE (Syzy Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6864712",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 1955,
+      "mediaIds": {
+        "spotify": "720294",
+        "youtube": "720294",
+        "soundcloud": "720294",
+        "appleMusic": "720294"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "NGHTMRE",
+      "title": "Street (PEEKABOO Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "6864713",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2010,
+      "mediaIds": {
+        "spotify": "702563",
+        "youtube": "702563",
+        "soundcloud": "702563",
+        "appleMusic": "702563"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "UBUR & Aweminus & Aweminus & YAKZ",
+      "title": "Party Starter",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6864714",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2100,
+      "mediaIds": {
+        "spotify": "727332",
+        "youtube": "727332",
+        "soundcloud": "727332",
+        "appleMusic": "727332"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Calcium",
+      "title": "Sticks N' Stones",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6879054",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2180,
+      "mediaIds": {
+        "spotify": "726395",
+        "youtube": "726395",
+        "soundcloud": "726395",
+        "appleMusic": "726395"
+      },
+      "blendGroup": [
+        {
+          "artist": "Calcium",
+          "title": "Sticks N' Stones",
+          "remix": "",
+          "trackId": "6879054"
+        },
+        {
+          "artist": "Liquid Stranger",
+          "title": "Psychonaut (AstroLizard Remix)",
+          "remix": "",
+          "trackId": "6879994"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Liquid Stranger",
+      "title": "Psychonaut (AstroLizard Remix)",
+      "remix": "",
+      "label": "WAKAAN",
+      "trackId": "6879994",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 2191,
+      "mediaIds": {
+        "spotify": "691610",
+        "youtube": "691610",
+        "soundcloud": "691610",
+        "appleMusic": "691610"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "Space Laces",
+      "title": "Dominate",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6879055",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2230,
+      "mediaIds": {
+        "spotify": "673857",
+        "youtube": "673857",
+        "soundcloud": "673857",
+        "appleMusic": "673857"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "NGHTMRE ft. A$AP Ferg",
+      "title": "REDLIGHT",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "6879056",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2315,
+      "mediaIds": {
+        "spotify": "458206",
+        "youtube": "458206",
+        "soundcloud": "458206",
+        "appleMusic": "458206"
+      },
+      "blendGroup": [
+        {
+          "artist": "NGHTMRE ft. A$AP Ferg",
+          "title": "REDLIGHT",
+          "remix": "",
+          "trackId": "6879056"
+        },
+        {
+          "artist": "Kill Feed",
+          "title": "Forsaken",
+          "remix": "",
+          "trackId": "6879057"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kill Feed",
+      "title": "Forsaken",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6879057",
+      "row": 32,
+      "type": "blend",
+      "cueTime": 2365,
+      "mediaIds": {
+        "spotify": "735895",
+        "youtube": "735895",
+        "soundcloud": "735895",
+        "appleMusic": "735895"
+      }
+    },
+    {
+      "pos": "33",
+      "artist": "Travis Scott ft. Kendrick Lamar",
+      "title": "Goosebumps (NGHTMRE Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6879058",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 2400,
+      "mediaIds": {
+        "youtube": "344111",
+        "soundcloud": "344111",
+        "appleMusic": "344111"
+      },
+      "blendGroup": [
+        {
+          "artist": "Travis Scott ft. Kendrick Lamar",
+          "title": "Goosebumps (NGHTMRE Remix)",
+          "remix": "",
+          "trackId": "6879058"
+        },
+        {
+          "artist": "Knock2",
+          "title": "2HEARTS",
+          "remix": "",
+          "trackId": "6879059"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knock2",
+      "title": "2HEARTS",
+      "remix": "",
+      "label": "NOLIMIT",
+      "trackId": "6879059",
+      "row": 33,
+      "type": "blend",
+      "cueTime": 2428,
+      "mediaIds": {
+        "spotify": "705993",
+        "youtube": "705993",
+        "soundcloud": "705993",
+        "appleMusic": "705993"
+      }
+    },
+    {
+      "pos": "34",
+      "artist": "NGHTMRE & Ray Volpe",
+      "title": "Signal",
+      "remix": "",
+      "label": "GUD VIBRATIONS",
+      "trackId": "6879060",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 2490,
+      "mediaIds": {
+        "spotify": "757088",
+        "youtube": "757088",
+        "soundcloud": "757088",
+        "appleMusic": "757088"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "SLANDER & NGHTMRE",
+      "title": "Gud Vibrations",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "6879062",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 2595,
+      "mediaIds": {
+        "spotify": "251368",
+        "youtube": "251368",
+        "soundcloud": "251368",
+        "appleMusic": "251368"
+      },
+      "blendGroup": [
+        {
+          "artist": "SLANDER & NGHTMRE",
+          "title": "Gud Vibrations",
+          "remix": "",
+          "trackId": "6879062"
+        },
+        {
+          "artist": "Spag Heddy",
+          "title": "Fucc It Up",
+          "remix": "",
+          "trackId": "6879063"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Spag Heddy",
+      "title": "Fucc It Up",
+      "remix": "",
+      "label": "TOMATO BASS",
+      "trackId": "6879063",
+      "row": 35,
+      "type": "blend",
+      "cueTime": 2660,
+      "mediaIds": {
+        "soundcloud": "787549"
+      }
+    },
+    {
+      "pos": "36",
+      "artist": "SLANDER & NGHTMRE ft. Dylan Matthew",
+      "title": "Fall Into Me",
+      "remix": "",
+      "label": "UNSOUND",
+      "trackId": "6879064",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 2695,
+      "mediaIds": {
+        "spotify": "692609",
+        "youtube": "692609",
+        "soundcloud": "692609",
+        "appleMusic": "692609"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "NGHTMRE & Subtronics ft. Boogie T",
+      "title": "Nuclear Bass Face",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "6879065",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 2830,
+      "mediaIds": {
+        "spotify": "581154",
+        "youtube": "581154",
+        "soundcloud": "581154",
+        "appleMusic": "581154"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Zeds Dead & NGHTMRE ft. Tori Levett",
+      "title": "Shady Intentions",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "6879066",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 2885,
+      "mediaIds": {
+        "spotify": "745640",
+        "youtube": "745640",
+        "soundcloud": "745640",
+        "appleMusic": "745640"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Kanye West vs. Zeds Dead & NGHTMRE & Wuki",
+      "title": "Power Frontlines (Wuki & NGHTMRE Edit)",
+      "remix": "",
+      "label": "ROC-A-FELLA/CIRCUS RECORDS/DEADBEATS",
+      "trackId": "6879067",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 3055,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Just A Gent ft. R O Z E S",
+      "title": "Limelight (NGHTMRE Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6879068",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 3165,
+      "mediaIds": {
+        "spotify": "257939",
+        "youtube": "257939",
+        "soundcloud": "257939",
+        "appleMusic": "257939"
+      },
+      "blendGroup": [
+        {
+          "artist": "Just A Gent ft. R O Z E S",
+          "title": "Limelight (NGHTMRE Remix)",
+          "remix": "",
+          "trackId": "6879068"
+        },
+        {
+          "artist": "Virtual Riot",
+          "title": "Dream Logic",
+          "remix": "",
+          "trackId": "6881059"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Virtual Riot",
+      "title": "Dream Logic",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "6881059",
+      "row": 40,
+      "type": "blend",
+      "cueTime": 3222,
+      "mediaIds": {
+        "spotify": "630400",
+        "youtube": "630400",
+        "soundcloud": "630400",
+        "appleMusic": "630400"
+      }
+    },
+    {
+      "pos": "41",
+      "artist": "Kanine",
+      "title": "One",
+      "remix": "",
+      "label": "UNLEASHED",
+      "trackId": "6879069",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 3277,
+      "mediaIds": {
+        "spotify": "673761",
+        "youtube": "673761",
+        "soundcloud": "673761",
+        "appleMusic": "673761"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "NGHTMRE & WAVEDASH",
+      "title": "Grave",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "6879070",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 3390,
+      "mediaIds": {
+        "spotify": "432949",
+        "youtube": "432949",
+        "soundcloud": "432949",
+        "appleMusic": "432949"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "43",
+      "artist": "SLANDER & NGHTMRE ft. Matthew Santos",
+      "title": "Feeling Gud",
+      "remix": "",
+      "label": "GUD VIBRATIONS",
+      "trackId": "6879071",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 3440,
+      "mediaIds": {
+        "spotify": "497015",
+        "youtube": "497015",
+        "soundcloud": "497015",
+        "appleMusic": "497015"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "2517678",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1148555911"
+    },
+    {
+      "platform": "source_2",
+      "idMedia": "2549016",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/nghtmre-at-edc-las-vegas-2021-bass-pod-stage-dj-mix/1595738269/us/album/nghtmre-at-edc-las-vegas-2021-bass-pod-stage-dj-mix/1595738269?app=music&at=1000lwkw"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "2517293",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=GfPh3q_BGn4"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "2519150",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/BassHeadUp"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:44:42.255Z",
+  "scrapeVersion": 2
+}

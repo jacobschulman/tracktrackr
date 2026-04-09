@@ -1,0 +1,1398 @@
+{
+  "tlId": "12y38609",
+  "dj": "W&W",
+  "stage": "Ultra Europe",
+  "date": "2024-07-13",
+  "year": 2024,
+  "url": "https://www.1001tracklists.com/tracklist/12y38609/wandw-mainstage-ultra-europe-croatia-2024-07-13.html",
+  "djs": [
+    {
+      "name": "W&W",
+      "slug": "wandw"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "W&W",
+      "title": "ID",
+      "remix": "(Intro Edit)",
+      "label": "RAVE CULTURE",
+      "trackId": "10779464",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 7,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "R3HAB & Deorro",
+      "title": "Flashlight",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "10779465",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 168,
+      "mediaIds": {
+        "spotify": "177775",
+        "youtube": "177775",
+        "soundcloud": "177775",
+        "appleMusic": "177775"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "W&W",
+      "title": "ID",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "10779466",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 205,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "W&W",
+          "title": "ID",
+          "remix": "",
+          "trackId": "10779466"
+        },
+        {
+          "artist": "Icona Pop ft. Charli xcx",
+          "title": "I Love It (Acappella)",
+          "remix": "",
+          "trackId": "10779467"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Icona Pop ft. Charli xcx",
+      "title": "I Love It (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "10779467",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 208,
+      "mediaIds": {
+        "spotify": "94593",
+        "youtube": "136755",
+        "soundcloud": "94593",
+        "appleMusic": "94593"
+      },
+      "blendGroup": [
+        {
+          "artist": "Icona Pop ft. Charli xcx",
+          "title": "I Love It (Acappella)",
+          "remix": "",
+          "trackId": "10779467"
+        },
+        {
+          "artist": "Mightyfools",
+          "title": "Footrocker (Get Your, Get Your Hands Up Acappella)",
+          "remix": "",
+          "trackId": "10779468"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mightyfools",
+      "title": "Footrocker (Get Your, Get Your Hands Up Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "10779468",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 237,
+      "mediaIds": {
+        "spotify": "137470",
+        "youtube": "145416",
+        "soundcloud": "137470",
+        "appleMusic": "137470"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mightyfools",
+          "title": "Footrocker (Get Your, Get Your Hands Up Acappella)",
+          "remix": "",
+          "trackId": "10779468"
+        },
+        {
+          "artist": "Hardwell & W&W",
+          "title": "Jumper (Acappella)",
+          "remix": "",
+          "trackId": "10779469"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hardwell & W&W",
+      "title": "Jumper (Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "10779469",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 250,
+      "mediaIds": {
+        "spotify": "153953",
+        "youtube": "153953",
+        "soundcloud": "125098",
+        "appleMusic": "125098"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Alex Gaudino ft. Crystal Waters",
+      "title": "Destination Calabria",
+      "remix": "",
+      "label": "TIME REC.",
+      "trackId": "10779470",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 283,
+      "mediaIds": {
+        "spotify": "3088",
+        "youtube": "3088",
+        "soundcloud": "3088",
+        "appleMusic": "3088"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alex Gaudino ft. Crystal Waters",
+          "title": "Destination Calabria",
+          "remix": "",
+          "trackId": "10779470"
+        },
+        {
+          "artist": "Teriyaki Boyz",
+          "title": "Tokyo Drift (The Fast And The Furious: Tokyo Drift OST) (W&W Festival Mix)",
+          "remix": "",
+          "trackId": "10779472"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Teriyaki Boyz",
+      "title": "Tokyo Drift (The Fast And The Furious: Tokyo Drift OST) (W&W Festival Mix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "10779472",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 314,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Teriyaki Boyz",
+          "title": "Tokyo Drift (The Fast And The Furious: Tokyo Drift OST) (W&W Festival Mix)",
+          "remix": "",
+          "trackId": "10779472"
+        },
+        {
+          "artist": "Showtek",
+          "title": "Slow Down (Acappella)",
+          "remix": "",
+          "trackId": "10784028"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Showtek",
+      "title": "Slow Down (Acappella)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "10784028",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 374,
+      "mediaIds": {
+        "spotify": "100257",
+        "youtube": "100257",
+        "soundcloud": "100257",
+        "appleMusic": "100257"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "W&W & AXMO",
+      "title": "Heaven Is A Place On Earth",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "10779473",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 407,
+      "mediaIds": {
+        "spotify": "839628",
+        "youtube": "839628",
+        "soundcloud": "839628",
+        "appleMusic": "839628"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "3 Are Legend & Timbaland & W&W",
+      "title": "Cry Me A River",
+      "remix": "",
+      "label": "DIM MAK/SMASH THE HOUSE",
+      "trackId": "10779474",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 495,
+      "mediaIds": {
+        "spotify": "993045",
+        "youtube": "993045",
+        "soundcloud": "993045",
+        "appleMusic": "993045"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "W&W & Groove Coverage",
+      "title": "Moonlight Shadow",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "10779475",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 578,
+      "mediaIds": {
+        "spotify": "515114",
+        "youtube": "515114",
+        "soundcloud": "515114",
+        "appleMusic": "515114"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Dr. Dre ft. Snoop Dogg",
+      "title": "Still D.R.E. (W&W Festival Mix)",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "10779476",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 660,
+      "mediaIds": {
+        "youtube": "287547",
+        "soundcloud": "287547",
+        "appleMusic": "287547"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dr. Dre ft. Snoop Dogg",
+          "title": "Still D.R.E. (W&W Festival Mix)",
+          "remix": "",
+          "trackId": "10779476"
+        },
+        {
+          "artist": "Carta",
+          "title": "ID",
+          "remix": "",
+          "trackId": "10779477"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Carta",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10779477",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 737,
+      "mediaIds": null
+    },
+    {
+      "pos": "09",
+      "artist": "Coldplay",
+      "title": "Viva La Vida",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "10779478",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 771,
+      "mediaIds": {
+        "spotify": "2154",
+        "youtube": "2154",
+        "soundcloud": "2154",
+        "appleMusic": "2154"
+      },
+      "blendGroup": [
+        {
+          "artist": "Coldplay",
+          "title": "Viva La Vida",
+          "remix": "",
+          "trackId": "10779478"
+        },
+        {
+          "artist": "Zedd ft. Foxes",
+          "title": "Clarity (Acappella)",
+          "remix": "",
+          "trackId": "10779479"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd ft. Foxes",
+      "title": "Clarity (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "10779479",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 779,
+      "mediaIds": {
+        "spotify": "99468",
+        "youtube": "106505",
+        "soundcloud": "99468",
+        "appleMusic": "99468"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd ft. Foxes",
+          "title": "Clarity (Acappella)",
+          "remix": "",
+          "trackId": "10779479"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "10779485"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10779485",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 810,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "10779485"
+        },
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "10779480"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+      "title": "Put Ya Fuckin Hands Up (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "10779480",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 838,
+      "mediaIds": {
+        "youtube": "16909",
+        "soundcloud": "16909"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "10779480"
+        },
+        {
+          "artist": "Zedd",
+          "title": "Shotgun (1, 2, 3 Jump Acappella)",
+          "remix": "",
+          "trackId": "10779481"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd",
+      "title": "Shotgun (1, 2, 3 Jump Acappella)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "10779481",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 850,
+      "mediaIds": {
+        "spotify": "68586",
+        "youtube": "126882",
+        "soundcloud": "68586",
+        "appleMusic": "68586"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10779482",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 884,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "10779482"
+        },
+        {
+          "artist": "Chuckie & JunxterJack",
+          "title": "Make Some Noise (Acappella)",
+          "remix": "",
+          "trackId": "10962218"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chuckie & JunxterJack",
+      "title": "Make Some Noise (Acappella)",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "10962218",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 920,
+      "mediaIds": {
+        "spotify": "76653",
+        "youtube": "76653",
+        "soundcloud": "107294",
+        "appleMusic": "76653"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "David Guetta ft. Bebe Rexha",
+      "title": "I'm Good (Blue) (W&W Remix)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "10779486",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 960,
+      "mediaIds": {
+        "youtube": "1019199"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Guetta ft. Bebe Rexha",
+          "title": "I'm Good (Blue) (W&W Remix)",
+          "remix": "",
+          "trackId": "10779486"
+        },
+        {
+          "artist": "Rihanna ft. Calvin Harris",
+          "title": "We Found Love (Acappella)",
+          "remix": "",
+          "trackId": "10779487"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rihanna ft. Calvin Harris",
+      "title": "We Found Love (Acappella)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "10779487",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 975,
+      "mediaIds": {
+        "spotify": "49141",
+        "youtube": "58430",
+        "soundcloud": "49141",
+        "appleMusic": "49141"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rihanna ft. Calvin Harris",
+          "title": "We Found Love (Acappella)",
+          "remix": "",
+          "trackId": "10779487"
+        },
+        {
+          "artist": "Skrillex & Fred again.. & Flowdan",
+          "title": "Rumble",
+          "remix": "(Acappella)",
+          "trackId": "10779488"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Fred again.. & Flowdan",
+      "title": "Rumble",
+      "remix": "(Acappella)",
+      "label": "ATLANTIC/OWSLA",
+      "trackId": "10779488",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1034,
+      "mediaIds": {
+        "spotify": "819606",
+        "youtube": "819606",
+        "soundcloud": "819606",
+        "appleMusic": "819606"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Fred again.. & Flowdan",
+          "title": "Rumble",
+          "remix": "(Acappella)",
+          "trackId": "10779488"
+        },
+        {
+          "artist": "Showtek & Justin Prime",
+          "title": "Cannonball (Show Us What You Got When The Motherfucking Beat Drops Acappella)",
+          "remix": "",
+          "trackId": "10779489"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Showtek & Justin Prime",
+      "title": "Cannonball (Show Us What You Got When The Motherfucking Beat Drops Acappella)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "10779489",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1060,
+      "mediaIds": {
+        "spotify": "145563",
+        "youtube": "145563",
+        "soundcloud": "145563",
+        "appleMusic": "145563"
+      },
+      "blendGroup": [
+        {
+          "artist": "Showtek & Justin Prime",
+          "title": "Cannonball (Show Us What You Got When The Motherfucking Beat Drops Acappella)",
+          "remix": "",
+          "trackId": "10779489"
+        },
+        {
+          "artist": "KEVU",
+          "title": "ID",
+          "remix": "",
+          "trackId": "10949198"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "KEVU",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10949198",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1065,
+      "mediaIds": null
+    },
+    {
+      "pos": "12",
+      "artist": "Carte Blanq & Nils van Zandt & Maxx Power",
+      "title": "33 Max Verstappen",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "10779483",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1110,
+      "mediaIds": {
+        "spotify": "937888",
+        "youtube": "937888",
+        "soundcloud": "937888",
+        "appleMusic": "937888"
+      },
+      "blendGroup": [
+        {
+          "artist": "Carte Blanq & Nils van Zandt & Maxx Power",
+          "title": "33 Max Verstappen",
+          "remix": "",
+          "trackId": "10779483"
+        },
+        {
+          "artist": "Ummet Ozcan",
+          "title": "Raise Your Hands (1, 2, 3 Jump Acappella)",
+          "remix": "(Acappella)",
+          "trackId": "10779490"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ummet Ozcan",
+      "title": "Raise Your Hands (1, 2, 3 Jump Acappella)",
+      "remix": "(Acappella)",
+      "label": "SPINNIN'",
+      "trackId": "10779490",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1137,
+      "mediaIds": {
+        "spotify": "203052",
+        "youtube": "203052",
+        "soundcloud": "203052",
+        "appleMusic": "203052"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Plastik Funk & Rave Republic & Bellini",
+      "title": "Samba De Janeiro",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "10779491",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1181,
+      "mediaIds": {
+        "spotify": "975912",
+        "youtube": "975912",
+        "soundcloud": "975912",
+        "appleMusic": "975912"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Luis Fonsi ft. Daddy Yankee",
+      "title": "Despacito (AXMO Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "10779522",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1257,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Luis Fonsi ft. Daddy Yankee",
+          "title": "Despacito (AXMO Remix)",
+          "remix": "",
+          "trackId": "10779522"
+        },
+        {
+          "artist": "Mightyfools",
+          "title": "Footrocker (Get Your, Get Your Hands Up Acappella)",
+          "remix": "",
+          "trackId": "10779523"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mightyfools",
+      "title": "Footrocker (Get Your, Get Your Hands Up Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "10779523",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 1312,
+      "mediaIds": {
+        "spotify": "137470",
+        "youtube": "145416",
+        "soundcloud": "137470",
+        "appleMusic": "137470"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "KEVU",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10779492",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1367,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "KEVU",
+          "title": "ID",
+          "remix": "",
+          "trackId": "10779492"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike & Ummet Ozcan",
+          "title": "The Hum (Acappella)",
+          "remix": "",
+          "trackId": "10779524"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike & Ummet Ozcan",
+      "title": "The Hum (Acappella)",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "10779524",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1460,
+      "mediaIds": {
+        "spotify": "213897",
+        "youtube": "213897",
+        "soundcloud": "213897",
+        "appleMusic": "213897"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike & Ummet Ozcan",
+          "title": "The Hum (Acappella)",
+          "remix": "",
+          "trackId": "10779524"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+          "title": "Tremor (Sensation 2014 Anthem) (3, 2, 1 Go Acappella)",
+          "remix": "",
+          "trackId": "10779525"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+      "title": "Tremor (Sensation 2014 Anthem) (3, 2, 1 Go Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "10779525",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1472,
+      "mediaIds": {
+        "spotify": "167281",
+        "youtube": "167281",
+        "soundcloud": "198768",
+        "appleMusic": "167281"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "David Guetta & Sia vs. OneRepublic vs. Otto Knows vs. Martin Garrix",
+      "title": "Titanium vs. Apologize vs. Million Voices vs. Animals (3 Are Legend vs. Thomas Gold Edit)",
+      "remix": "",
+      "label": "REFUNE/PARLOPHONE (WARNER MUSIC)/STMPD/INTERSCOPE",
+      "trackId": "10779527",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1520,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "David Guetta & Sia vs. OneRepublic vs. Otto Knows vs. Martin Garrix",
+          "title": "Titanium vs. Apologize vs. Million Voices vs. Animals (3 Are Legend vs. Thomas Gold Edit)",
+          "remix": "",
+          "trackId": "10779527"
+        },
+        {
+          "artist": "Sebastian Ingrosso & Alesso ft. Ryan Tedder",
+          "title": "Calling (Lose My Mind) (VEATZ Festival Remix)",
+          "remix": "",
+          "trackId": "10779548"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sebastian Ingrosso & Alesso ft. Ryan Tedder",
+      "title": "Calling (Lose My Mind) (VEATZ Festival Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "10779548",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 1620,
+      "mediaIds": {
+        "youtube": "1020113",
+        "soundcloud": "1020113"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Dimitri Vegas & Like Mike & W&W vs. The White Stripes",
+      "title": "Arcade vs. Seven Nation Army (W&W Edit)",
+      "remix": "",
+      "label": "XL/SMASH THE HOUSE",
+      "trackId": "10779549",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1651,
+      "mediaIds": {
+        "youtube": "308379"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike & W&W vs. The White Stripes",
+          "title": "Arcade vs. Seven Nation Army (W&W Edit)",
+          "remix": "",
+          "trackId": "10779549"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike vs. W&W & MOGUAI",
+          "title": "Arcade Mammoth (Dimitri Vegas & Like Mike Mashup)",
+          "remix": "",
+          "trackId": "10779550"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike vs. W&W & MOGUAI",
+      "title": "Arcade Mammoth (Dimitri Vegas & Like Mike Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/SMASH THE HOUSE",
+      "trackId": "10779550",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1733,
+      "mediaIds": {
+        "spotify": "562195",
+        "youtube": "562195",
+        "soundcloud": "562195",
+        "appleMusic": "562195"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Walk The Moon",
+      "title": "Shut Up And Dance (W&W & STVW Remix)",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "10779551",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1807,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "ABBA",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "10779552",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1902,
+      "mediaIds": {
+        "spotify": "170918",
+        "youtube": "170918",
+        "soundcloud": "170918",
+        "appleMusic": "170918"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "W&W & AXMO",
+      "title": "Ritmo De La Noche (Vamos A La Playa)",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "10779553",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1984,
+      "mediaIds": {
+        "spotify": "910596",
+        "youtube": "910596",
+        "soundcloud": "910596",
+        "appleMusic": "910596"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "W&W & Schak",
+      "title": "The Way It Is",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "10779554",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2055,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "NWYR",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10779526",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2141,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Darude",
+      "title": "Sandstorm (NWYR Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "10779560",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2272,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Darude",
+          "title": "Sandstorm (NWYR Edit)",
+          "remix": "",
+          "trackId": "10779560"
+        },
+        {
+          "artist": "Tom Odell",
+          "title": "Another Love",
+          "remix": "",
+          "trackId": "10779559"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tom Odell",
+      "title": "Another Love",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "10779559",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 2272,
+      "mediaIds": {
+        "spotify": "142076",
+        "youtube": "142076",
+        "soundcloud": "142076",
+        "appleMusic": "142076"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tom Odell",
+          "title": "Another Love",
+          "remix": "",
+          "trackId": "10779559"
+        },
+        {
+          "artist": "Maddix ft. Fēlēs",
+          "title": "My Gasoline",
+          "remix": "(Acappella)",
+          "trackId": "10779561"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Maddix ft. Fēlēs",
+      "title": "My Gasoline",
+      "remix": "(Acappella)",
+      "label": "EXTATIC (REVEALED)",
+      "trackId": "10779561",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 2418,
+      "mediaIds": {
+        "spotify": "907137",
+        "youtube": "907137",
+        "soundcloud": "907137",
+        "appleMusic": "907137"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Dimitri Vegas & Like Mike & W&W",
+      "title": "Crowd Control",
+      "remix": "",
+      "label": "SMASH THE HOUSE/EPIC AMSTERDAM",
+      "trackId": "10779564",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2537,
+      "mediaIds": {
+        "spotify": "373794",
+        "youtube": "373794",
+        "appleMusic": "373794"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Creeds",
+      "title": "Push Up (W&W & Ben Nicky Remix)",
+      "remix": "",
+      "label": "RAVE ALERT",
+      "trackId": "10779588",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2669,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Creeds",
+          "title": "Push Up (W&W & Ben Nicky Remix)",
+          "remix": "",
+          "trackId": "10779588"
+        },
+        {
+          "artist": "Artemas",
+          "title": "i like the way you kiss me",
+          "remix": "(Acappella)",
+          "trackId": "10779589"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Artemas",
+      "title": "i like the way you kiss me",
+      "remix": "(Acappella)",
+      "label": "10K PROJECTS",
+      "trackId": "10779589",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 2693,
+      "mediaIds": {
+        "spotify": "985167",
+        "youtube": "985167",
+        "soundcloud": "985167",
+        "appleMusic": "985167"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "W&W & Vini Vici",
+      "title": "Rave Mozart",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "10779590",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2731,
+      "mediaIds": {
+        "spotify": "992591",
+        "youtube": "992591",
+        "soundcloud": "992591",
+        "appleMusic": "992591"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Dimitri Vegas & Like Mike & W&W & MARNIK",
+      "title": "YEAH",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "10779665",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2851,
+      "mediaIds": {
+        "spotify": "1076265",
+        "youtube": "1076265",
+        "soundcloud": "1076265",
+        "appleMusic": "1076265"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "LMFAO ft. Lauren Bennett & Goonrock",
+      "title": "Party Rock Anthem (Hardwell & W&W Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "10779666",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2925,
+      "mediaIds": {
+        "youtube": "993046"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Armin van Buuren & W&W",
+      "title": "Late Checkout",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "10779555",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3011,
+      "mediaIds": {
+        "spotify": "1046003",
+        "youtube": "1046003",
+        "soundcloud": "1046003",
+        "appleMusic": "1046003"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "W&W & VINAI & Gabry Ponte",
+      "title": "Axel F (Take It To The Floor)",
+      "remix": "",
+      "label": "SIGNATUNE (SONY FRANCE)",
+      "trackId": "10779731",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3182,
+      "mediaIds": {
+        "spotify": "1017196",
+        "youtube": "1017196",
+        "soundcloud": "1017196",
+        "appleMusic": "1017196"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "W&W & Da Tweekaz",
+      "title": "Kriss Kross",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "10779732",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3237,
+      "mediaIds": {
+        "spotify": "910068",
+        "youtube": "910068",
+        "soundcloud": "910068",
+        "appleMusic": "910068"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Black Eyed Peas",
+      "title": "The Time (Dirty Bit)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "10779734",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 3383,
+      "mediaIds": {
+        "spotify": "23044",
+        "youtube": "23044",
+        "appleMusic": "23044"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Dimitri Vegas & Like Mike & Tiësto & W&W ft. Dido",
+      "title": "Thank You (Not So Bad)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "10779735",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 3480,
+      "mediaIds": {
+        "spotify": "910071",
+        "youtube": "910071",
+        "soundcloud": "910071",
+        "appleMusic": "910071"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Akon",
+      "title": "Right Now (Na Na Na) (AXMO Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "10779736",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3667,
+      "mediaIds": {
+        "youtube": "891132"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "Showtek ft. We Are Loud & Sonny Wilson",
+      "title": "Booyah (KEVU Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "10779738",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 3759,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "W&W & Hardwell & Lil Jon & Pulsar vs. Sub Zero Project",
+      "title": "Live The Night vs. Rave Culture (Dimatik Ravestyle Mashup)",
+      "remix": "",
+      "label": "RAVE CULTURE/MAINSTAGE (ARMADA)",
+      "trackId": "10779739",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 3811,
+      "mediaIds": {
+        "youtube": "1017035",
+        "soundcloud": "1017035"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Taio Cruz",
+      "title": "Dynamite (AXMO Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "10779741",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 3903,
+      "mediaIds": {
+        "youtube": "1018880"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "Jaxomy & Agatino Romero & Raffaella Carrà",
+      "title": "Pedro (W&W Remix)",
+      "remix": "",
+      "label": "B1 (SONY)",
+      "trackId": "10779742",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 4022,
+      "mediaIds": {
+        "spotify": "1002191",
+        "youtube": "1002191",
+        "soundcloud": "1002191",
+        "appleMusic": "1002191"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "O-Zone",
+      "title": "Mai Ai Hee (Dragostea Din Tei) (W&W Remix)",
+      "remix": "",
+      "label": "CAT/RAVE CULTURE",
+      "trackId": "10779743",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 4100,
+      "mediaIds": {
+        "spotify": "638510",
+        "youtube": "638510",
+        "soundcloud": "638510",
+        "appleMusic": "638510"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Bassjackers & No Doubt",
+      "title": "Don't Speak",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "10779733",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 4187,
+      "mediaIds": {
+        "youtube": "1017879"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "W&W & Ezra Hazard & BATE ft. SONJA",
+      "title": "If I Lose Myself",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "10779744",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 4362,
+      "mediaIds": {
+        "spotify": "944691",
+        "youtube": "944691",
+        "soundcloud": "944691",
+        "appleMusic": "944691"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4225584",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=s5i57yT7zf8"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "4269297",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/UMFradio"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:35:27.744Z",
+  "scrapeVersion": 2
+}

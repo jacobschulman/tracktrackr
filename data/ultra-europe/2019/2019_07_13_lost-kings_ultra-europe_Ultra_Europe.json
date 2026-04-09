@@ -1,0 +1,1360 @@
+{
+  "tlId": "u8tgbqt",
+  "dj": "Lost Kings",
+  "stage": "Ultra Europe",
+  "date": "2019-07-13",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/u8tgbqt/lost-kings-mainstage-ultra-europe-croatia-2019-07-13.html",
+  "djs": [
+    {
+      "name": "Lost Kings",
+      "slug": "lostkings"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Lost Kings",
+      "title": "So What",
+      "remix": "(Intro)",
+      "label": "",
+      "trackId": "4243418",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 7,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Lost Kings",
+          "title": "So What",
+          "remix": "(Intro)",
+          "trackId": "4243418"
+        },
+        {
+          "artist": "Lost Kings ft. Norma Jean Martine",
+          "title": "When We Were Young (Justin Oh Remix)",
+          "remix": "",
+          "trackId": "4243419"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lost Kings ft. Norma Jean Martine",
+      "title": "When We Were Young (Justin Oh Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4243419",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "427235",
+        "soundcloud": "427235",
+        "appleMusic": "427235"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "DJ Snake & Eptic",
+      "title": "SouthSide (Riot Ten Remix)",
+      "remix": "",
+      "label": "GEFFEN (UMG)",
+      "trackId": "4243420",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 172,
+      "mediaIds": {
+        "spotify": "492380",
+        "youtube": "492380",
+        "soundcloud": "492380",
+        "appleMusic": "492380"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Panic! At The Disco",
+      "title": "High Hopes",
+      "remix": "",
+      "label": "FUELED BY RAMEN",
+      "trackId": "4243421",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 207,
+      "mediaIds": {
+        "spotify": "446747",
+        "youtube": "446747",
+        "soundcloud": "446747",
+        "appleMusic": "446747"
+      },
+      "blendGroup": [
+        {
+          "artist": "Panic! At The Disco",
+          "title": "High Hopes",
+          "remix": "",
+          "trackId": "4243421"
+        },
+        {
+          "artist": "The Brig",
+          "title": "Drunken Master (Rob Gasser Remix)",
+          "remix": "",
+          "trackId": "4243422"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Brig",
+      "title": "Drunken Master (Rob Gasser Remix)",
+      "remix": "",
+      "label": "FIREPOWER",
+      "trackId": "4243422",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "509150",
+        "soundcloud": "509150",
+        "appleMusic": "509150"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Lost Kings ft. Loren Gray",
+      "title": "Anti Everything (Jake Wolfe Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4243423",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 282,
+      "mediaIds": {
+        "spotify": "493038",
+        "youtube": "493038",
+        "appleMusic": "493038"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lost Kings ft. Loren Gray",
+          "title": "Anti Everything (Jake Wolfe Remix)",
+          "remix": "",
+          "trackId": "4243423"
+        },
+        {
+          "artist": "Shawn Mendes & Camila Cabello",
+          "title": "Señorita",
+          "remix": "(Acappella)",
+          "trackId": "4244247"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Shawn Mendes & Camila Cabello",
+      "title": "Señorita",
+      "remix": "(Acappella)",
+      "label": "ISLAND (UMG)",
+      "trackId": "4244247",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 342,
+      "mediaIds": {
+        "spotify": "509195",
+        "youtube": "509195",
+        "soundcloud": "509195",
+        "appleMusic": "509195"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Brillz & LAXX",
+      "title": "Destruktion",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "4243425",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 412,
+      "mediaIds": {
+        "spotify": "238245",
+        "youtube": "238245",
+        "soundcloud": "238245",
+        "appleMusic": "238245"
+      },
+      "blendGroup": [
+        {
+          "artist": "Brillz & LAXX",
+          "title": "Destruktion",
+          "remix": "",
+          "trackId": "4243425"
+        },
+        {
+          "artist": "Drake ft. Rick Ross",
+          "title": "Money In The Grave",
+          "remix": "(Acappella)",
+          "trackId": "4243424"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Drake ft. Rick Ross",
+      "title": "Money In The Grave",
+      "remix": "(Acappella)",
+      "label": "OVO",
+      "trackId": "4243424",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "505306",
+        "youtube": "505306",
+        "soundcloud": "505306",
+        "appleMusic": "505306"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Lost Kings ft. Tove Styrke",
+      "title": "Stuck (Kuur x Kbubs x dcB Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4243426",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 492,
+      "mediaIds": {
+        "spotify": "486092",
+        "youtube": "486092",
+        "appleMusic": "486092"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Lost Kings x Crankdat",
+      "title": "Heaven 2.0",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4243427",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 628,
+      "mediaIds": {
+        "youtube": "420791",
+        "soundcloud": "420791"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Lost Kings ft. Sabrina Carpenter",
+      "title": "First Love",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4243428",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 732,
+      "mediaIds": {
+        "spotify": "379501",
+        "youtube": "379501",
+        "soundcloud": "379501",
+        "appleMusic": "379501"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lost Kings ft. Sabrina Carpenter",
+          "title": "First Love",
+          "remix": "",
+          "trackId": "4243428"
+        },
+        {
+          "artist": "Lost Kings ft. Sabrina Carpenter",
+          "title": "First Love (LuxLyfe Remix)",
+          "remix": "",
+          "trackId": "4243429"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lost Kings ft. Sabrina Carpenter",
+      "title": "First Love (LuxLyfe Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4243429",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "427236"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Imagine Dragons",
+      "title": "I Bet My Life (Lost Kings Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "4243430",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 874,
+      "mediaIds": {
+        "spotify": "239009",
+        "youtube": "239009",
+        "soundcloud": "239009",
+        "appleMusic": "239009"
+      },
+      "blendGroup": [
+        {
+          "artist": "Imagine Dragons",
+          "title": "I Bet My Life (Lost Kings Remix)",
+          "remix": "",
+          "trackId": "4243430"
+        },
+        {
+          "artist": "Lewis Capaldi",
+          "title": "Someone You Loved",
+          "remix": "(Acappella)",
+          "trackId": "4485198"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lewis Capaldi",
+      "title": "Someone You Loved",
+      "remix": "(Acappella)",
+      "label": "VIRGIN",
+      "trackId": "4485198",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "492378",
+        "youtube": "492378",
+        "soundcloud": "492378",
+        "appleMusic": "492378"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Lil Nas X",
+      "title": "Panini",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "4243431",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 993,
+      "mediaIds": {
+        "spotify": "506789",
+        "youtube": "506789",
+        "soundcloud": "506789",
+        "appleMusic": "506789"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lil Nas X",
+          "title": "Panini",
+          "remix": "",
+          "trackId": "4243431"
+        },
+        {
+          "artist": "Bandlez",
+          "title": "Space Bubblez",
+          "remix": "",
+          "trackId": "4243432"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bandlez",
+      "title": "Space Bubblez",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "4243432",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "498308",
+        "youtube": "498308",
+        "soundcloud": "498308",
+        "appleMusic": "498308"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Lost Kings ft. Lauren Aquilina",
+      "title": "FU4E",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4243433",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1076,
+      "mediaIds": {
+        "spotify": "471057",
+        "youtube": "471057",
+        "appleMusic": "471057"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Viperactive",
+      "title": "Twelves (VIP)",
+      "remix": "",
+      "label": "DROP IT NETWORK",
+      "trackId": "4243434",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1218,
+      "mediaIds": {
+        "spotify": "486089",
+        "youtube": "486089",
+        "soundcloud": "486089",
+        "appleMusic": "486089"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Travis Scott ft. Juice WRLD & Sheck Wes",
+      "title": "NO BYSTANDERS (Crankdat Re-Crank)",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "4243435",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1255,
+      "mediaIds": {
+        "youtube": "450869",
+        "soundcloud": "450869"
+      },
+      "blendGroup": [
+        {
+          "artist": "Travis Scott ft. Juice WRLD & Sheck Wes",
+          "title": "NO BYSTANDERS (Crankdat Re-Crank)",
+          "remix": "",
+          "trackId": "4243435"
+        },
+        {
+          "artist": "Boombox Cartel & Flosstradamus",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4243436"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Boombox Cartel & Flosstradamus",
+      "title": "ID",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "4243436",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "383850",
+        "youtube": "383850",
+        "soundcloud": "383850",
+        "appleMusic": "383850"
+      },
+      "blendGroup": [
+        {
+          "artist": "Boombox Cartel & Flosstradamus",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4243436"
+        },
+        {
+          "artist": "Boombox Cartel & Flosstradamus",
+          "title": "ID",
+          "remix": "(Jeremye Scott Flip)",
+          "trackId": "4243437"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Boombox Cartel & Flosstradamus",
+      "title": "ID",
+      "remix": "(Jeremye Scott Flip)",
+      "label": "MAD DECENT",
+      "trackId": "4243437",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "383850",
+        "youtube": "383850",
+        "soundcloud": "383850",
+        "appleMusic": "383850"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Queen",
+      "title": "Bohemian Rhapsody (Acappella)",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "4243438",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1324,
+      "mediaIds": {
+        "spotify": "18718",
+        "youtube": "18718",
+        "soundcloud": "18718",
+        "appleMusic": "18718"
+      },
+      "blendGroup": [
+        {
+          "artist": "Queen",
+          "title": "Bohemian Rhapsody (Acappella)",
+          "remix": "",
+          "trackId": "4243438"
+        },
+        {
+          "artist": "Toby Green",
+          "title": "Check This Out",
+          "remix": "",
+          "trackId": "4243439"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Toby Green",
+      "title": "Check This Out",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "4243439",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "443147",
+        "youtube": "443147",
+        "soundcloud": "443147",
+        "appleMusic": "443147"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Mako ft. Madison Beer",
+      "title": "I Won't Let You Walk Away (Lost Kings Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "4243440",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1412,
+      "mediaIds": {
+        "spotify": "252923",
+        "youtube": "252923",
+        "soundcloud": "252923",
+        "appleMusic": "252923"
+      },
+      "blendGroup": [
+        {
+          "artist": "Mako ft. Madison Beer",
+          "title": "I Won't Let You Walk Away (Lost Kings Remix)",
+          "remix": "",
+          "trackId": "4243440"
+        },
+        {
+          "artist": "Silk City ft. Dua Lipa",
+          "title": "Electricity",
+          "remix": "(Acappella)",
+          "trackId": "4243441"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Silk City ft. Dua Lipa",
+      "title": "Electricity",
+      "remix": "(Acappella)",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "4243441",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "440459",
+        "youtube": "440459",
+        "soundcloud": "440459",
+        "appleMusic": "440459"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Lost Kings ft. Emily Warren",
+      "title": "Phone Down (TELYKAST x BKAYE Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4243442",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1539,
+      "mediaIds": {
+        "spotify": "339186",
+        "youtube": "339186",
+        "appleMusic": "339186"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lost Kings ft. Emily Warren",
+          "title": "Phone Down (TELYKAST x BKAYE Remix)",
+          "remix": "",
+          "trackId": "4243442"
+        },
+        {
+          "artist": "Khalid",
+          "title": "Talk(Prod. by Disclosure)",
+          "remix": "",
+          "trackId": "4243508"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Khalid",
+      "title": "Talk(Prod. by Disclosure)",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "4243508",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "474507",
+        "youtube": "474507",
+        "soundcloud": "474507",
+        "appleMusic": "474507"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Wooli",
+      "title": "Throw It Up",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "4243509",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1722,
+      "mediaIds": {
+        "spotify": "446778",
+        "youtube": "446778",
+        "soundcloud": "446778",
+        "appleMusic": "446778"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Lil Nas X ft. Billy Ray Cyrus",
+      "title": "Old Town Road",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "4243443",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1757,
+      "mediaIds": {
+        "spotify": "486113",
+        "youtube": "486113",
+        "soundcloud": "486113",
+        "appleMusic": "486113"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lil Nas X ft. Billy Ray Cyrus",
+          "title": "Old Town Road",
+          "remix": "",
+          "trackId": "4243443"
+        },
+        {
+          "artist": "Space Laces",
+          "title": "Torque (Gammer Remix)",
+          "remix": "",
+          "trackId": "4243467"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Space Laces",
+      "title": "Torque (Gammer Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "4243467",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "496426",
+        "youtube": "496426",
+        "soundcloud": "496426",
+        "appleMusic": "496426"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Space Laces",
+      "title": "Kaiju (Rickyxsan Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "4243468",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1812,
+      "mediaIds": {
+        "spotify": "502332",
+        "youtube": "502332",
+        "soundcloud": "502332",
+        "appleMusic": "502332"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Marshmello ft. CHVRCHES",
+      "title": "Here With Me",
+      "remix": "",
+      "label": "REPUBLIC/JOYTIME COLLECTIVE",
+      "trackId": "4243510",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1855,
+      "mediaIds": {
+        "spotify": "481088",
+        "youtube": "481088",
+        "soundcloud": "481088",
+        "appleMusic": "481088"
+      },
+      "blendGroup": [
+        {
+          "artist": "Marshmello ft. CHVRCHES",
+          "title": "Here With Me",
+          "remix": "",
+          "trackId": "4243510"
+        },
+        {
+          "artist": "Skull Kid",
+          "title": "Lost Dreams",
+          "remix": "",
+          "trackId": "4244248"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skull Kid",
+      "title": "Lost Dreams",
+      "remix": "",
+      "label": "",
+      "trackId": "4244248",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 1924,
+      "mediaIds": {
+        "spotify": "509800",
+        "youtube": "509800",
+        "soundcloud": "509800",
+        "appleMusic": "509800"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "GTA",
+      "title": "Saria's Turn Up",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4243511",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1968,
+      "mediaIds": {
+        "youtube": "275266",
+        "soundcloud": "275266"
+      },
+      "blendGroup": [
+        {
+          "artist": "GTA",
+          "title": "Saria's Turn Up",
+          "remix": "",
+          "trackId": "4243511"
+        },
+        {
+          "artist": "Flosstradamus ft. Casino",
+          "title": "Mosh Pit (Acappella)",
+          "remix": "",
+          "trackId": "4243512"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flosstradamus ft. Casino",
+      "title": "Mosh Pit (Acappella)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "4243512",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "230379",
+        "youtube": "230379",
+        "soundcloud": "230379",
+        "appleMusic": "230379"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flosstradamus ft. Casino",
+          "title": "Mosh Pit (Acappella)",
+          "remix": "",
+          "trackId": "4243512"
+        },
+        {
+          "artist": "Zoobstool",
+          "title": "Gangsters Don't Die",
+          "remix": "",
+          "trackId": "4243513"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zoobstool",
+      "title": "Gangsters Don't Die",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4243513",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "504798",
+        "soundcloud": "504798"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Dougal & Gammer",
+      "title": "Blow This",
+      "remix": "",
+      "label": "WELCOME",
+      "trackId": "4243514",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2026,
+      "mediaIds": {
+        "spotify": "453108",
+        "youtube": "453108",
+        "soundcloud": "453108",
+        "appleMusic": "453108"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dougal & Gammer",
+          "title": "Blow This",
+          "remix": "",
+          "trackId": "4243514"
+        },
+        {
+          "artist": "Kanye West",
+          "title": "Jesus Walks",
+          "remix": "(Acappella)",
+          "trackId": "4243515"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kanye West",
+      "title": "Jesus Walks",
+      "remix": "(Acappella)",
+      "label": "ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "4243515",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "83414",
+        "youtube": "83414",
+        "soundcloud": "83414",
+        "appleMusic": "83414"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Lost Kings ft. Tinashe",
+      "title": "Quit U",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4243516",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2131,
+      "mediaIds": {
+        "spotify": "345524",
+        "soundcloud": "345524",
+        "appleMusic": "345524"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lost Kings ft. Tinashe",
+          "title": "Quit U",
+          "remix": "",
+          "trackId": "4243516"
+        },
+        {
+          "artist": "Ed Sheeran & Justin Bieber",
+          "title": "I Don't Care",
+          "remix": "(Acappella)",
+          "trackId": "4244270"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ed Sheeran & Justin Bieber",
+      "title": "I Don't Care",
+      "remix": "(Acappella)",
+      "label": "WARNER UK",
+      "trackId": "4244270",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 2209,
+      "mediaIds": {
+        "spotify": "495060",
+        "youtube": "495060",
+        "appleMusic": "495060"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "NITTI",
+      "title": "Hush Money",
+      "remix": "",
+      "label": "QUALITY GOODS",
+      "trackId": "4243517",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2302,
+      "mediaIds": {
+        "spotify": "450446",
+        "youtube": "450446",
+        "soundcloud": "450446",
+        "appleMusic": "450446"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Vance Joy",
+      "title": "Wasted Time (Lost Kings Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4243518",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2349,
+      "mediaIds": {
+        "spotify": "247232",
+        "youtube": "247232",
+        "soundcloud": "247232",
+        "appleMusic": "247232"
+      },
+      "blendGroup": [
+        {
+          "artist": "Vance Joy",
+          "title": "Wasted Time (Lost Kings Remix)",
+          "remix": "",
+          "trackId": "4243518"
+        },
+        {
+          "artist": "Avicii ft. Chris Martin",
+          "title": "Heaven",
+          "remix": "(Acappella)",
+          "trackId": "4243519"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii ft. Chris Martin",
+      "title": "Heaven",
+      "remix": "(Acappella)",
+      "label": "UMG",
+      "trackId": "4243519",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "248721",
+        "youtube": "248721",
+        "soundcloud": "248721",
+        "appleMusic": "248721"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "Billie Eilish",
+      "title": "bad guy",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "4243520",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2482,
+      "mediaIds": {
+        "spotify": "489689",
+        "youtube": "489689",
+        "soundcloud": "489689",
+        "appleMusic": "489689"
+      },
+      "blendGroup": [
+        {
+          "artist": "Billie Eilish",
+          "title": "bad guy",
+          "remix": "",
+          "trackId": "4243520"
+        },
+        {
+          "artist": "Dog Blood",
+          "title": "Turn Off The Lights",
+          "remix": "",
+          "trackId": "4243521"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dog Blood",
+      "title": "Turn Off The Lights",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "4243521",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "485414",
+        "youtube": "485414",
+        "soundcloud": "485414",
+        "appleMusic": "485414"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "Toto",
+      "title": "Africa (Cristian Marchi & Luis Rodriguez Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "4243522",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2617,
+      "mediaIds": {
+        "youtube": "460937",
+        "soundcloud": "460937"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Lost Kings ft. Wiz Khalifa & Social House",
+      "title": "Don't Kill My High",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4243523",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2730,
+      "mediaIds": {
+        "spotify": "471061",
+        "youtube": "471061",
+        "appleMusic": "471061"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lost Kings ft. Wiz Khalifa & Social House",
+          "title": "Don't Kill My High",
+          "remix": "",
+          "trackId": "4243523"
+        },
+        {
+          "artist": "Lost Kings ft. Wiz Khalifa & Social House",
+          "title": "Don't Kill My High (Squalzz Remix)",
+          "remix": "",
+          "trackId": "4243524"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lost Kings ft. Wiz Khalifa & Social House",
+      "title": "Don't Kill My High (Squalzz Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4243524",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "486093",
+        "youtube": "486093",
+        "appleMusic": "486093"
+      }
+    },
+    {
+      "pos": "29",
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army (Mikey P Remix)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "4243525",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2878,
+      "mediaIds": {
+        "youtube": "215687",
+        "soundcloud": "215687"
+      },
+      "blendGroup": [
+        {
+          "artist": "The White Stripes",
+          "title": "Seven Nation Army (Mikey P Remix)",
+          "remix": "",
+          "trackId": "4243525"
+        },
+        {
+          "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+          "title": "Fall Into The Sky (Everybody Fuckin Jump Acappella)",
+          "remix": "",
+          "trackId": "4243526"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+      "title": "Fall Into The Sky (Everybody Fuckin Jump Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "4243526",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "97743",
+        "youtube": "139706",
+        "soundcloud": "139706",
+        "appleMusic": "97743"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd & Lucky Date ft. Ellie Goulding",
+          "title": "Fall Into The Sky (Everybody Fuckin Jump Acappella)",
+          "remix": "",
+          "trackId": "4243526"
+        },
+        {
+          "artist": "Herobust",
+          "title": "Debt 'n Eight (Tha Boogie Bandit Remix)",
+          "remix": "",
+          "trackId": "4243527"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Herobust",
+      "title": "Debt 'n Eight (Tha Boogie Bandit Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4243527",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "383049",
+        "soundcloud": "383049"
+      }
+    },
+    {
+      "pos": "30",
+      "artist": "Shawn Mendes",
+      "title": "If I Can't Have You",
+      "remix": "(Acappella)",
+      "label": "ISLAND (UMG)",
+      "trackId": "4243528",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2985,
+      "mediaIds": {
+        "spotify": "498559",
+        "youtube": "498559",
+        "soundcloud": "498559",
+        "appleMusic": "498559"
+      },
+      "blendGroup": [
+        {
+          "artist": "Shawn Mendes",
+          "title": "If I Can't Have You",
+          "remix": "(Acappella)",
+          "trackId": "4243528"
+        },
+        {
+          "artist": "Cardiknox",
+          "title": "On My Way (Lost Kings Remix)",
+          "remix": "",
+          "trackId": "4243529"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cardiknox",
+      "title": "On My Way (Lost Kings Remix)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "4243529",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "297491",
+        "youtube": "297491",
+        "soundcloud": "297491",
+        "appleMusic": "297491"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "Lost Kings",
+      "title": "Drunk As Hell (Nolan van Lith Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "4243530",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3072,
+      "mediaIds": {
+        "spotify": "464936",
+        "soundcloud": "464936",
+        "appleMusic": "464936"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "LAXX",
+      "title": "Feels So Good (Oolacile Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "4243531",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 3167,
+      "mediaIds": {
+        "spotify": "441745",
+        "youtube": "441745",
+        "soundcloud": "441745",
+        "appleMusic": "441745"
+      },
+      "blendGroup": [
+        {
+          "artist": "LAXX",
+          "title": "Feels So Good (Oolacile Remix)",
+          "remix": "",
+          "trackId": "4243531"
+        },
+        {
+          "artist": "Drake",
+          "title": "Over (Acappella)",
+          "remix": "",
+          "trackId": "4243532"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Drake",
+      "title": "Over (Acappella)",
+      "remix": "",
+      "label": "YOUNG MONEY (CASH MONEY)",
+      "trackId": "4243532",
+      "row": 32,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "24215",
+        "youtube": "24215",
+        "soundcloud": "24215",
+        "appleMusic": "24215"
+      },
+      "blendGroup": [
+        {
+          "artist": "Drake",
+          "title": "Over (Acappella)",
+          "remix": "",
+          "trackId": "4243532"
+        },
+        {
+          "artist": "Oddprophet",
+          "title": "Check (AUTHENTICZ Remix)",
+          "remix": "",
+          "trackId": "4243533"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Oddprophet",
+      "title": "Check (AUTHENTICZ Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "4243533",
+      "row": 32,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "534953"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1265413",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=B7GhOAeYbFA"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "1268965",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/651538469"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:57:24.486Z",
+  "scrapeVersion": 2
+}

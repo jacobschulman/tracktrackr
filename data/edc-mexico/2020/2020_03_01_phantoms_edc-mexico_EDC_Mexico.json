@@ -1,0 +1,239 @@
+{
+  "tlId": "28vl57mt",
+  "dj": "Phantoms",
+  "stage": "EDC Mexico",
+  "date": "2020-03-01",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/28vl57mt/phantoms-circuitgrounds-edc-mexico-2020-03-01.html",
+  "djs": [
+    {
+      "name": "Phantoms",
+      "slug": "phantoms"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Phantoms",
+      "title": "Designs For You (Will Clarke Remix)",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "4716330",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "501472",
+        "youtube": "501472",
+        "soundcloud": "501472",
+        "appleMusic": "501472"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Jaw",
+      "title": "Pop (Stefan Vincent Remix)",
+      "remix": "",
+      "label": "A MUST HAVE",
+      "trackId": "4716331",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 108,
+      "mediaIds": {
+        "spotify": "124601",
+        "youtube": "124601",
+        "appleMusic": "124601"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jaw",
+          "title": "Pop (Stefan Vincent Remix)",
+          "remix": "",
+          "trackId": "4716331"
+        },
+        {
+          "artist": "Phantoms ft. VÉRITÉ",
+          "title": "Just A Feeling",
+          "remix": "(Acappella)",
+          "trackId": "4716332"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Phantoms ft. VÉRITÉ",
+      "title": "Just A Feeling",
+      "remix": "(Acappella)",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "4716332",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "353110",
+        "youtube": "353110",
+        "soundcloud": "353110",
+        "appleMusic": "353110"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Phantoms ft. Anna Clendening",
+      "title": "Say It (Phantoms VIP Mix)",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "4716333",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 407,
+      "mediaIds": {
+        "spotify": "526737",
+        "youtube": "526737",
+        "appleMusic": "526737"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Phantoms",
+      "title": "Downtown (VIP)",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "4716335",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 660,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Phantoms",
+      "title": "Cocaine",
+      "remix": "(Live Edit)",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "4716336",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 890,
+      "mediaIds": {
+        "spotify": "340093",
+        "soundcloud": "340093",
+        "appleMusic": "340093"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Phantoms",
+      "title": "Throw It In The Fire (VIP)",
+      "remix": "",
+      "label": "CASABLANCA",
+      "trackId": "4716337",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1389,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "KEELD",
+      "title": "Sloubi",
+      "remix": "",
+      "label": "BITE THIS!",
+      "trackId": "4716339",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1704,
+      "mediaIds": {
+        "spotify": "630295",
+        "youtube": "630295",
+        "soundcloud": "630295",
+        "appleMusic": "630295"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Phantoms ft. Shaylen",
+      "title": "Are You Up?",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "4716387",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1844,
+      "mediaIds": {
+        "spotify": "479492",
+        "youtube": "479492",
+        "appleMusic": "479492"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Phantoms",
+      "title": "Designs For You",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "4716388",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 2115,
+      "mediaIds": {
+        "spotify": "483152",
+        "youtube": "483152",
+        "soundcloud": "483152",
+        "appleMusic": "483152"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Phantoms",
+      "title": "One In A Million",
+      "remix": "",
+      "label": "CASABLANCA (UMG)",
+      "trackId": "4716389",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2367,
+      "mediaIds": {
+        "spotify": "579748",
+        "youtube": "579748",
+        "soundcloud": "579748",
+        "appleMusic": "579748"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Tame Impala",
+      "title": "Elephant (Phantoms Live Cover)",
+      "remix": "",
+      "label": "",
+      "trackId": "4716390",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2591,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "1585210",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:49:05.774Z",
+  "scrapeVersion": 2
+}

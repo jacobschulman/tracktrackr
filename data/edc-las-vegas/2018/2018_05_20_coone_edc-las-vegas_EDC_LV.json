@@ -1,0 +1,374 @@
+{
+  "tlId": "14hc0qz1",
+  "dj": "Coone",
+  "stage": "EDC Las Vegas",
+  "date": "2018-05-20",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/14hc0qz1/coone-wasteland-edc-las-vegas-united-states-2018-05-20.html",
+  "djs": [
+    {
+      "name": "Coone",
+      "slug": "coone"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Coone & Hard Driver",
+      "title": "Showtime 2.0",
+      "remix": "",
+      "label": "DIRTY WORKZ",
+      "trackId": "3351720",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "394689",
+        "youtube": "394689",
+        "soundcloud": "394689",
+        "appleMusic": "394689"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "G-Eazy",
+      "title": "But A Dream (Coone Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "3351721",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "415830"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Coone ft. David Spekter",
+      "title": "Faye",
+      "remix": "",
+      "label": "DIRTY WORKZ",
+      "trackId": "3351722",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "319158",
+        "youtube": "319158",
+        "soundcloud": "319158",
+        "appleMusic": "319158"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "TNT & Brennan Heart",
+      "title": "Hard Knockin' Beats",
+      "remix": "",
+      "label": "WE R",
+      "trackId": "3351723",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "349831",
+        "youtube": "349831",
+        "soundcloud": "349831",
+        "appleMusic": "349831"
+      },
+      "blendGroup": [
+        {
+          "artist": "TNT & Brennan Heart",
+          "title": "Hard Knockin' Beats",
+          "remix": "",
+          "trackId": "3351723"
+        },
+        {
+          "artist": "The Offspring",
+          "title": "Pretty Fly (For A White Guy)",
+          "remix": "",
+          "trackId": "3351724"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Offspring",
+      "title": "Pretty Fly (For A White Guy)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "3351724",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "106887",
+        "youtube": "106887",
+        "soundcloud": "106887",
+        "appleMusic": "106887"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Coone ft. Ragga Twins",
+      "title": "Jack Who (Straight Fire Remix)",
+      "remix": "",
+      "label": "DIRTY WORKZ",
+      "trackId": "3351725",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "393871",
+        "youtube": "393871",
+        "appleMusic": "393871"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Tiësto & Sevenn",
+      "title": "BOOM (Brennan Heart Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "3351726",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "408087"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Coone & Da Tweekaz",
+      "title": "D.W.X (10 Years Dirty Workz Mix)",
+      "remix": "",
+      "label": "DIRTY WORKZ",
+      "trackId": "3351727",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "336911",
+        "youtube": "336911",
+        "appleMusic": "336911"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Coone ft. Jelle Van Dael",
+      "title": "Superman",
+      "remix": "",
+      "label": "DIRTY WORKZ",
+      "trackId": "3351728",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "422547",
+        "youtube": "422547",
+        "soundcloud": "422547",
+        "appleMusic": "422547"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "KSHMR ft. Sidnie Tipton",
+      "title": "Wildcard (Coone Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "3351729",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "351351",
+        "soundcloud": "351351"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Coone & Dirtcaps ft. K19",
+      "title": "Sniper Goes Hard (Reverze 2017 Mashup)",
+      "remix": "",
+      "label": "DIM MAK/DIRTY WORKZ",
+      "trackId": "3351730",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Pherato",
+      "title": "Get Rowdy",
+      "remix": "",
+      "label": "SCANTRAXX SILVER",
+      "trackId": "3351731",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "406625",
+        "youtube": "406625",
+        "soundcloud": "406625",
+        "appleMusic": "406625"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Coone",
+      "title": "Young, Gifted & Proud (The Qontinent Anthem 2017)",
+      "remix": "",
+      "label": "Q-DANCE",
+      "trackId": "3351732",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "370340",
+        "youtube": "370340",
+        "appleMusic": "370340"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Coone & Wildstylez",
+      "title": "Here I Come",
+      "remix": "",
+      "label": "DIRTY WORKZ",
+      "trackId": "3351733",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "370680",
+        "youtube": "370680",
+        "soundcloud": "370680",
+        "appleMusic": "370680"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Yellow Claw ft. Lil' Debbie & Juicy J",
+      "title": "City On Lockdown (Crisis Era Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "3351734",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "371417",
+        "youtube": "371417",
+        "soundcloud": "371417",
+        "appleMusic": "371417"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Post Malone ft. 21 Savage",
+      "title": "Rockstar (Enemy Contact Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "3351735",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "420005"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Valentino Khan",
+      "title": "Deep Down Low (Devin Wild Edit)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3351736",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Hard Driver",
+      "title": "FRESH",
+      "remix": "",
+      "label": "DIRTY WORKZ",
+      "trackId": "3351737",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "358394",
+        "appleMusic": "358394"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Coone",
+      "title": "Rise Of The Celestials (Qlimax Anthem 2016)",
+      "remix": "",
+      "label": "Q-DANCE",
+      "trackId": "3351738",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "330342",
+        "youtube": "330342",
+        "soundcloud": "330342",
+        "appleMusic": "330342"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Showtek",
+      "title": "FTS (Fuck The System) (Sound Rush Remix)",
+      "remix": "",
+      "label": "DUTCH MASTER WORKS (2DUTCH)",
+      "trackId": "3351739",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "398350",
+        "soundcloud": "398350"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "803432",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=jv4s7RGtHfU"
+    }
+  ],
+  "scrapedAt": "2026-04-08T06:31:47.740Z",
+  "scrapeVersion": 2
+}

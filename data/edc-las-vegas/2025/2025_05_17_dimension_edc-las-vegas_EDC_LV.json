@@ -1,0 +1,934 @@
+{
+  "tlId": "cqtutgk",
+  "dj": "Dimension",
+  "stage": "EDC Las Vegas",
+  "date": "2025-05-17",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/cqtutgk/dimension-kineticfield-edc-las-vegas-united-states-2025-05-17.html",
+  "djs": [
+    {
+      "name": "Dimension",
+      "slug": "dimension"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Sub Focus & bbyclose",
+      "title": "On & On (Kanine Remix)",
+      "remix": "",
+      "label": "POSITIVA/EMI",
+      "trackId": "12162269",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1092457",
+        "youtube": "1092457",
+        "soundcloud": "1092457",
+        "appleMusic": "1092457"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Sub Focus & Subsonic",
+      "title": "Roll Too Deep",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "12162270",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 125,
+      "mediaIds": {
+        "spotify": "1106829",
+        "youtube": "1106829",
+        "soundcloud": "1106829",
+        "appleMusic": "1106829"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sub Focus & Subsonic",
+          "title": "Roll Too Deep",
+          "remix": "",
+          "trackId": "12162270"
+        },
+        {
+          "artist": "1991",
+          "title": "Get A Good Feeling",
+          "remix": "",
+          "trackId": "12162271"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "1991",
+      "title": "Get A Good Feeling",
+      "remix": "",
+      "label": "I99I",
+      "trackId": "12162271",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 125,
+      "mediaIds": {
+        "spotify": "1059772",
+        "youtube": "1059772",
+        "soundcloud": "1059772",
+        "appleMusic": "1059772"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Tiësto & Odd Mob & GOODBOYS",
+      "title": "Won't Be Possible (1991 Remix)",
+      "remix": "",
+      "label": "ATLANTIC/MUSICAL FREEDOM",
+      "trackId": "12162272",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 213,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Tiësto & Odd Mob & GOODBOYS",
+          "title": "Won't Be Possible (1991 Remix)",
+          "remix": "",
+          "trackId": "12162272"
+        },
+        {
+          "artist": "Klubbheads",
+          "title": "Klubbhopping (Sub Focus Remix)",
+          "remix": "",
+          "trackId": "12185618"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Klubbheads",
+      "title": "Klubbhopping (Sub Focus Remix)",
+      "remix": "",
+      "label": "AM:PM",
+      "trackId": "12185618",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 258,
+      "mediaIds": {
+        "youtube": "1164089"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Rockwell",
+      "title": "Somebody's Watching Me (Culture Shock Bootleg)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12162274",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 340,
+      "mediaIds": {
+        "youtube": "1103704",
+        "soundcloud": "1103704",
+        "appleMusic": "1103704"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Marlon Hoffstadt aka DJ Daddy Trance",
+      "title": "It's That Time (Dimension Remix)",
+      "remix": "",
+      "label": "METHOD 808",
+      "trackId": "12162275",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 390,
+      "mediaIds": {
+        "spotify": "933475",
+        "youtube": "933475",
+        "soundcloud": "933475",
+        "appleMusic": "933475"
+      },
+      "blendGroup": [
+        {
+          "artist": "Marlon Hoffstadt aka DJ Daddy Trance",
+          "title": "It's That Time (Dimension Remix)",
+          "remix": "",
+          "trackId": "12162275"
+        },
+        {
+          "artist": "Grafix",
+          "title": "We Take Control",
+          "remix": "",
+          "trackId": "12185619"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Grafix",
+      "title": "We Take Control",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12185619",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 455,
+      "mediaIds": {
+        "spotify": "949321",
+        "youtube": "949321",
+        "soundcloud": "949321",
+        "appleMusic": "949321"
+      },
+      "blendGroup": [
+        {
+          "artist": "Grafix",
+          "title": "We Take Control",
+          "remix": "",
+          "trackId": "12185619"
+        },
+        {
+          "artist": "Sub Focus",
+          "title": "Rock It (Wilkinson Remix)",
+          "remix": "",
+          "trackId": "12162276"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sub Focus",
+      "title": "Rock It (Wilkinson Remix)",
+      "remix": "",
+      "label": "RAM",
+      "trackId": "12162276",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 479,
+      "mediaIds": {
+        "spotify": "708442",
+        "youtube": "708442",
+        "soundcloud": "708442",
+        "appleMusic": "708442"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Dimension",
+      "title": "DJ Turn It Up",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12162277",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 560,
+      "mediaIds": {
+        "spotify": "891856",
+        "youtube": "891856",
+        "soundcloud": "891856",
+        "appleMusic": "891856"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimension",
+          "title": "DJ Turn It Up",
+          "remix": "",
+          "trackId": "12162277"
+        },
+        {
+          "artist": "Grafix & Culture Shock",
+          "title": "Make It Pump",
+          "remix": "",
+          "trackId": "12162278"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Grafix & Culture Shock",
+      "title": "Make It Pump",
+      "remix": "",
+      "label": "CULTURE SHOCK MUSIC",
+      "trackId": "12162278",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 670,
+      "mediaIds": {
+        "spotify": "1053965",
+        "youtube": "1053965",
+        "soundcloud": "1053965",
+        "appleMusic": "1053965"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Dimension ft. ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12162279",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 720,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Dimension",
+      "title": "Bass Thump",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12162280",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 810,
+      "mediaIds": {
+        "spotify": "1126700",
+        "youtube": "1126700",
+        "soundcloud": "1126700",
+        "appleMusic": "1126700"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Dimension & DJ Aligator",
+      "title": "Blow My Whistle",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12185620",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 854,
+      "mediaIds": {
+        "spotify": "1104247",
+        "youtube": "1104247",
+        "soundcloud": "1104247",
+        "appleMusic": "1104247"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Dimension",
+      "title": "Offender",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12162281",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 940,
+      "mediaIds": {
+        "spotify": "639015",
+        "youtube": "639015",
+        "soundcloud": "639015",
+        "appleMusic": "639015"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimension",
+          "title": "Offender",
+          "remix": "",
+          "trackId": "12162281"
+        },
+        {
+          "artist": "Subsonic",
+          "title": "Hit The Brakes",
+          "remix": "",
+          "trackId": "12162282"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Subsonic",
+      "title": "Hit The Brakes",
+      "remix": "",
+      "label": "SUBSONIC : FREQUENCIES",
+      "trackId": "12162282",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1020,
+      "mediaIds": {
+        "spotify": "1086160",
+        "youtube": "1086160",
+        "soundcloud": "1086160",
+        "appleMusic": "1086160"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Metrik & Rou Reynolds & Filthy Pig & Enter Shikari",
+      "title": "Hole",
+      "remix": "",
+      "label": "HOSPITAL",
+      "trackId": "12185621",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1053,
+      "mediaIds": {
+        "spotify": "1122145",
+        "youtube": "1122145",
+        "soundcloud": "1122145",
+        "appleMusic": "1122145"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Sub Focus",
+      "title": "Solar System",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "12162283",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1141,
+      "mediaIds": {
+        "spotify": "511201",
+        "youtube": "511201",
+        "soundcloud": "511201",
+        "appleMusic": "511201"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sub Focus",
+          "title": "Solar System",
+          "remix": "",
+          "trackId": "12162283"
+        },
+        {
+          "artist": "Dimension ft. Cameron Hayes",
+          "title": "Devotion",
+          "remix": "",
+          "trackId": "12162284"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimension ft. Cameron Hayes",
+      "title": "Devotion",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12162284",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1162,
+      "mediaIds": {
+        "spotify": "493221",
+        "youtube": "493221",
+        "soundcloud": "493221",
+        "appleMusic": "493221"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Armin van Buuren",
+      "title": "Lose This Feeling (Dimension Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "12162285",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1230,
+      "mediaIds": {
+        "spotify": "934554",
+        "youtube": "934554",
+        "soundcloud": "934554",
+        "appleMusic": "934554"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Darude",
+      "title": "Sandstorm (Dimension Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12162286",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1340,
+      "mediaIds": {
+        "youtube": "1088080",
+        "soundcloud": "1088080"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Tiga vs. Audion",
+      "title": "Let's Go Dancing (Dimension Remix)",
+      "remix": "",
+      "label": "TURBO",
+      "trackId": "12162287",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1450,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "FISHER ft. Kita Alexander",
+      "title": "Atmosphere (Subsonic Remix)",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "12162288",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1560,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "FISHER ft. Kita Alexander",
+          "title": "Atmosphere (Subsonic Remix)",
+          "remix": "",
+          "trackId": "12162288"
+        },
+        {
+          "artist": "Fatboy Slim",
+          "title": "Rockafeller Skank (Acappella)",
+          "remix": "",
+          "trackId": "12162289"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fatboy Slim",
+      "title": "Rockafeller Skank (Acappella)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "12162289",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 1580,
+      "mediaIds": {
+        "spotify": "4511",
+        "youtube": "4511",
+        "soundcloud": "27742",
+        "appleMusic": "4511"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "MK & Dom Dolla",
+      "title": "Rhyme Dust (Dimension Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "12162290",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1645,
+      "mediaIds": {
+        "spotify": "889992",
+        "youtube": "889992",
+        "soundcloud": "889992",
+        "appleMusic": "889992"
+      },
+      "blendGroup": [
+        {
+          "artist": "MK & Dom Dolla",
+          "title": "Rhyme Dust (Dimension Remix)",
+          "remix": "",
+          "trackId": "12162290"
+        },
+        {
+          "artist": "Sub Focus ft. Gene Farris",
+          "title": "It's Time",
+          "remix": "",
+          "trackId": "12162291"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sub Focus ft. Gene Farris",
+      "title": "It's Time",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "12162291",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1645,
+      "mediaIds": {
+        "spotify": "798744",
+        "youtube": "798744",
+        "soundcloud": "798744",
+        "appleMusic": "798744"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sub Focus ft. Gene Farris",
+          "title": "It's Time",
+          "remix": "",
+          "trackId": "12162291"
+        },
+        {
+          "artist": "Dimension",
+          "title": "London Sound",
+          "remix": "",
+          "trackId": "12162292"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimension",
+      "title": "London Sound",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12162292",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1780,
+      "mediaIds": {
+        "spotify": "1127036",
+        "youtube": "1127036",
+        "soundcloud": "1127036",
+        "appleMusic": "1127036"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "John Summit & Sub Focus ft. Julia Church",
+      "title": "Go Back (D&B VIP)",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "12162293",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1830,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Eric Prydz",
+      "title": "Pjanoo (Sub Focus & Dimension Remix)",
+      "remix": "",
+      "label": "PRYDA/DATA REC.",
+      "trackId": "12162294",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1940,
+      "mediaIds": {
+        "youtube": "1164093",
+        "appleMusic": "1164093"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eric Prydz",
+          "title": "Pjanoo (Sub Focus & Dimension Remix)",
+          "remix": "",
+          "trackId": "12162294"
+        },
+        {
+          "artist": "Sub Focus",
+          "title": "Fine Day",
+          "remix": "",
+          "trackId": "12162295"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sub Focus",
+      "title": "Fine Day",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "12162295",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 1940,
+      "mediaIds": {
+        "spotify": "885374",
+        "youtube": "885374",
+        "soundcloud": "885374",
+        "appleMusic": "885374"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Kanine",
+      "title": "Bloodstream",
+      "remix": "",
+      "label": "UKF",
+      "trackId": "12162296",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2047,
+      "mediaIds": {
+        "spotify": "1103324",
+        "youtube": "1103324",
+        "soundcloud": "1103324",
+        "appleMusic": "1103324"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "John Summit & HAYLA",
+      "title": "Shiver (Cassian Remix / Andromedik Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12162297",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2112,
+      "mediaIds": {
+        "youtube": "1022330",
+        "soundcloud": "1022330",
+        "appleMusic": "1022330"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Chase & Status & Hedex ft. ArrDee",
+      "title": "Liquor & Cigarettes",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "12162298",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2225,
+      "mediaIds": {
+        "spotify": "927670",
+        "youtube": "927670",
+        "soundcloud": "927670",
+        "appleMusic": "927670"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "1991 & Luciana & Dave Audé",
+      "title": "Yeah Yeah",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "12162299",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2290,
+      "mediaIds": {
+        "spotify": "1095776",
+        "youtube": "1095776",
+        "soundcloud": "1095776",
+        "appleMusic": "1095776"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Linkin Park",
+      "title": "Numb (Metrik & Dimension Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "12162300",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2378,
+      "mediaIds": {
+        "youtube": "976731",
+        "soundcloud": "976731"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "The Prodigy",
+      "title": "Voodoo People (Delta Heavy Remix)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "12162301",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2487,
+      "mediaIds": {
+        "youtube": "897933",
+        "appleMusic": "897933"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Prodigy",
+          "title": "Voodoo People (Delta Heavy Remix)",
+          "remix": "",
+          "trackId": "12162301"
+        },
+        {
+          "artist": "Fred again..",
+          "title": "Jungle (Metrik Remix)",
+          "remix": "",
+          "trackId": "12162302"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fred again..",
+      "title": "Jungle (Metrik Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "12162302",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 2487,
+      "mediaIds": {
+        "youtube": "831274",
+        "soundcloud": "831274"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "Kevin de Vries & Mau P",
+      "title": "Metro (Dimension Remix)",
+      "remix": "",
+      "label": "AFTERLIFE",
+      "trackId": "12162303",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2584,
+      "mediaIds": {
+        "youtube": "1001206",
+        "soundcloud": "1001206"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Sub Focus & Dimension",
+      "title": "Desire",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "12162304",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2676,
+      "mediaIds": {
+        "spotify": "442447",
+        "youtube": "442447",
+        "soundcloud": "442447",
+        "appleMusic": "442447"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Artemas",
+      "title": "i like the way you kiss me (Culture Shock D&B Flip)",
+      "remix": "",
+      "label": "10K PROJECTS",
+      "trackId": "12162305",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2763,
+      "mediaIds": {
+        "youtube": "993542",
+        "soundcloud": "993542"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Dimension & Sub Focus & NGHTMRE ft. Mougleta",
+      "title": "Angel",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12162306",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2835,
+      "mediaIds": {
+        "spotify": "1001207",
+        "youtube": "1001207",
+        "soundcloud": "1001207",
+        "appleMusic": "1001207"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Dimension ft. bbyclose",
+      "title": "Once In A Lifetime",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12162307",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3011,
+      "mediaIds": {
+        "spotify": "1158740",
+        "youtube": "1158740",
+        "soundcloud": "1158740",
+        "appleMusic": "1158740"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Sub Focus & Dimension ft. Jo Hill",
+      "title": "Ready To Fly",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "12162308",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3100,
+      "mediaIds": {
+        "spotify": "834269",
+        "youtube": "834269",
+        "soundcloud": "834269",
+        "appleMusic": "834269"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Dimension",
+      "title": "River",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "12162309",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 3290,
+      "mediaIds": {
+        "youtube": "1164087",
+        "soundcloud": "1164087"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4788668",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=aL9Rsey-ieA"
+    },
+    {
+      "platform": "source_2",
+      "idMedia": "4830123",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/dimension-at-edc-las-vegas-2025-kinetic-field-stage-dj-mix/1820071673/us/album/dimension-at-edc-las-vegas-2025-kinetic-field-stage-dj-mix/1820071673?app=music&at=1000lwkw"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "4781213",
+      "idSource": "40",
+      "url": "https://hearthis.at/12159180/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:03:55.283Z",
+  "scrapeVersion": 2
+}

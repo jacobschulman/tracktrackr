@@ -1,0 +1,825 @@
+{
+  "tlId": "2br5jlh9",
+  "dj": "12th Planet",
+  "stage": "EDC Mexico",
+  "date": "2020-02-29",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/2br5jlh9/12th-planet-wasteland-edc-mexico-2020-02-29.html",
+  "djs": [
+    {
+      "name": "12th Planet",
+      "slug": "12thplanet"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "12th Planet",
+      "title": "Opus In Eminor",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716548",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "594994",
+        "youtube": "594994",
+        "soundcloud": "594994",
+        "appleMusic": "594994"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "12th Planet & Protohype",
+      "title": "Dystopia",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716549",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "567100",
+        "youtube": "567100",
+        "soundcloud": "567100",
+        "appleMusic": "567100"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "BARELY ALIVE",
+      "title": "Shutdown (VIP)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716550",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "524188"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "12th Planet",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4716551",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 470,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "12th Planet",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4716551"
+        },
+        {
+          "artist": "PhaseOne ft. Bone Thugs-N-Harmony",
+          "title": "Ultima (BARELY ALIVE Remix)",
+          "remix": "",
+          "trackId": "4716552"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "PhaseOne ft. Bone Thugs-N-Harmony",
+      "title": "Ultima (BARELY ALIVE Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716552",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "555765",
+        "youtube": "555765",
+        "soundcloud": "555765",
+        "appleMusic": "555765"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Eliminate",
+      "title": "BREAKSH!T",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716553",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 580,
+      "mediaIds": {
+        "spotify": "591133",
+        "youtube": "591133",
+        "soundcloud": "591133",
+        "appleMusic": "591133"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eliminate",
+          "title": "BREAKSH!T",
+          "remix": "",
+          "trackId": "4716553"
+        },
+        {
+          "artist": "Samplifire & IVORY",
+          "title": "Game Over",
+          "remix": "",
+          "trackId": "4716554"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Samplifire & IVORY",
+      "title": "Game Over",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "4716554",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "467510",
+        "youtube": "467510",
+        "soundcloud": "467510",
+        "appleMusic": "467510"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "12th Planet & Bandlez",
+      "title": "Rubber Band Boiz",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716555",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "519398",
+        "youtube": "519398",
+        "soundcloud": "519398",
+        "appleMusic": "519398"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "12th Planet",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4716556",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 850,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "12th Planet & PhaseOne",
+      "title": "Taco Bout It",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "4716557",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "462825",
+        "youtube": "462825",
+        "soundcloud": "462825",
+        "appleMusic": "462825"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Samplifire",
+      "title": "Duality",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "4716558",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "559431",
+        "youtube": "559431",
+        "soundcloud": "559431",
+        "appleMusic": "559431"
+      },
+      "blendGroup": [
+        {
+          "artist": "Samplifire",
+          "title": "Duality",
+          "remix": "",
+          "trackId": "4716558"
+        },
+        {
+          "artist": "Aweminus",
+          "title": "Nu Anger",
+          "remix": "",
+          "trackId": "4716559"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Aweminus",
+      "title": "Nu Anger",
+      "remix": "",
+      "label": "BASSWEIGHT",
+      "trackId": "4716559",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "430375",
+        "youtube": "430375",
+        "soundcloud": "430375",
+        "appleMusic": "430375"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "12th Planet ft. Vulgatron",
+      "title": "Deadshot",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716560",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "529834",
+        "youtube": "529834",
+        "soundcloud": "529834",
+        "appleMusic": "529834"
+      },
+      "blendGroup": [
+        {
+          "artist": "12th Planet ft. Vulgatron",
+          "title": "Deadshot",
+          "remix": "",
+          "trackId": "4716560"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "4716561"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4716561",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1110,
+      "mediaIds": null
+    },
+    {
+      "pos": "11",
+      "artist": "Kill The Noise & 12th Planet",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4716562",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1170,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4716563",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1290,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "12th Planet ft. MACTurnUp",
+      "title": "Let It Bang (Draeden Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716564",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "534099",
+        "youtube": "534099",
+        "appleMusic": "534099"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "12th Planet & BARELY ALIVE",
+      "title": "Mmm Good",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716565",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "458288",
+        "youtube": "458288",
+        "soundcloud": "458288",
+        "appleMusic": "458288"
+      },
+      "blendGroup": [
+        {
+          "artist": "12th Planet & BARELY ALIVE",
+          "title": "Mmm Good",
+          "remix": "",
+          "trackId": "4716565"
+        },
+        {
+          "artist": "Chibs",
+          "title": "Sharingan",
+          "remix": "",
+          "trackId": "4716566"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chibs",
+      "title": "Sharingan",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4716566",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "348305",
+        "youtube": "348305",
+        "soundcloud": "348305",
+        "appleMusic": "348305"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Excision & Sullivan King",
+      "title": "Wake Up (12th Planet Remix)",
+      "remix": "",
+      "label": "EXCISION",
+      "trackId": "4716567",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "512310",
+        "youtube": "512310",
+        "soundcloud": "512310",
+        "appleMusic": "512310"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Leotrix",
+      "title": "Hive Bounce (Spock Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4716568",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "553163"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "12th Planet",
+      "title": "Majestic 12",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716569",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "533767",
+        "youtube": "533767",
+        "soundcloud": "533767",
+        "appleMusic": "533767"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "12th Planet & BARELY ALIVE & PhaseOne",
+      "title": "Bubzstep",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "4716570",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "494930",
+        "youtube": "494930",
+        "soundcloud": "494930",
+        "appleMusic": "494930"
+      },
+      "blendGroup": [
+        {
+          "artist": "12th Planet & BARELY ALIVE & PhaseOne",
+          "title": "Bubzstep",
+          "remix": "",
+          "trackId": "4716570"
+        },
+        {
+          "artist": "Bommer & Crowell",
+          "title": "Yasuo",
+          "remix": "",
+          "trackId": "4716571"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bommer & Crowell",
+      "title": "Yasuo",
+      "remix": "",
+      "label": "SMOG",
+      "trackId": "4716571",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "213025",
+        "youtube": "213025",
+        "soundcloud": "213025",
+        "appleMusic": "213025"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "12th Planet & MONXX",
+      "title": "Ribbit",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716572",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "577343",
+        "youtube": "577343",
+        "soundcloud": "577343",
+        "appleMusic": "577343"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "12th Planet & BARELY ALIVE & PhaseOne",
+      "title": "Send It",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "4716573",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "381977",
+        "youtube": "381977",
+        "soundcloud": "381977",
+        "appleMusic": "381977"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "12th Planet & BARELY ALIVE & PhaseOne",
+      "title": "Send It (Samplifire & MVRDA Remix)",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "4716574",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "503200",
+        "youtube": "503200",
+        "soundcloud": "503200",
+        "appleMusic": "503200"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "12th Planet",
+      "title": "Swamplex Terrestrial",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716575",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "455548",
+        "youtube": "455548",
+        "soundcloud": "455548",
+        "appleMusic": "455548"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Virtual Riot",
+      "title": "Hysteria",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716576",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "523159",
+        "youtube": "523159",
+        "soundcloud": "523159",
+        "appleMusic": "523159"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Post Malone ft. 21 Savage",
+      "title": "Rockstar (BARELY ALIVE Remix)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "4716577",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "580551"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "SVDDEN DEATH",
+      "title": "Behemoth (Virtual Riot Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4716578",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "496427",
+        "soundcloud": "496427"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Dion Timmer & Dubloadz",
+      "title": "Neon Phantom (Ultimate Sex VIP)",
+      "remix": "",
+      "label": "DION TIMMER",
+      "trackId": "4716579",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "558769",
+        "soundcloud": "558769"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Bandlez",
+      "title": "Fast",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716580",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2610,
+      "mediaIds": {
+        "spotify": "748447",
+        "youtube": "748447",
+        "soundcloud": "748447",
+        "appleMusic": "748447"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bandlez",
+          "title": "Fast",
+          "remix": "",
+          "trackId": "4716580"
+        },
+        {
+          "artist": "Herobust",
+          "title": "Vertebreaker",
+          "remix": "",
+          "trackId": "4716581"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Herobust",
+      "title": "Vertebreaker",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "4716581",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "341148",
+        "youtube": "341148",
+        "soundcloud": "341148",
+        "appleMusic": "341148"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "SNAILS & Space Laces ft. Sam King",
+      "title": "Break It Down (VIP)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "4716582",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2690,
+      "mediaIds": {
+        "youtube": "429063",
+        "soundcloud": "429063"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Disciple ft. Virtual Riot, Modestep, Dirtyphonics, Terravita, Samplifire & Many More",
+      "title": "We Don't Play",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716583",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "520507",
+        "youtube": "520507",
+        "soundcloud": "520507",
+        "appleMusic": "520507"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "12th Planet & Bandlez",
+      "title": "The Hustle",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716584",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2890,
+      "mediaIds": {
+        "spotify": "564846",
+        "youtube": "564846",
+        "soundcloud": "564846",
+        "appleMusic": "564846"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "12th Planet & Zomboy ft. Jay Fresh",
+      "title": "Dead Presidents",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "4716585",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "348427",
+        "youtube": "348427",
+        "soundcloud": "348427",
+        "appleMusic": "348427"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "12th Planet ft. Mikey Ceasar",
+      "title": "RVD",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "4716586",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "454560",
+        "youtube": "454560",
+        "soundcloud": "454560",
+        "appleMusic": "454560"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Wooli",
+      "title": "Psyclone",
+      "remix": "",
+      "label": "WELCOME",
+      "trackId": "4716587",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "511977",
+        "youtube": "511977",
+        "soundcloud": "511977",
+        "appleMusic": "511977"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Dodge & Fuski & 12th Planet",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4716588",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3250,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "12th Planet",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4716589",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 3360,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1791923",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=R9dl9hr54SU"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "1585169",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:56:06.782Z",
+  "scrapeVersion": 2
+}

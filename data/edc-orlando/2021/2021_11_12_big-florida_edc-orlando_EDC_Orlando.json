@@ -1,0 +1,443 @@
+{
+  "tlId": "2l8tp2dk",
+  "dj": "BIG FLORIDA",
+  "stage": "EDC Orlando",
+  "date": "2021-11-12",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/2l8tp2dk/big-florida-circuitgrounds-edc-orlando-united-states-2021-11-12.html",
+  "djs": [
+    {
+      "name": "BIG FLORIDA",
+      "slug": "bigflorida"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "BAINBRIDGE & Kozmoz",
+      "title": "Last Man Standing",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "6948613",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "615766",
+        "youtube": "615766",
+        "soundcloud": "615766",
+        "appleMusic": "615766"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "BARELY ALIVE",
+      "title": "Odyssey (VIP)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "6948614",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "458287",
+        "youtube": "458287",
+        "soundcloud": "458287",
+        "appleMusic": "458287"
+      },
+      "blendGroup": [
+        {
+          "artist": "BARELY ALIVE",
+          "title": "Odyssey (VIP)",
+          "remix": "",
+          "trackId": "6948614"
+        },
+        {
+          "artist": "SVDDEN DEATH",
+          "title": "Rise",
+          "remix": "",
+          "trackId": "6948615"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SVDDEN DEATH",
+      "title": "Rise",
+      "remix": "",
+      "label": "SVDDEN DEATH",
+      "trackId": "6948615",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "438042",
+        "youtube": "438042",
+        "soundcloud": "438042",
+        "appleMusic": "438042"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "NAZAAR & LAYZ",
+      "title": "Desert Chaos",
+      "remix": "",
+      "label": "SPACE YACHT",
+      "trackId": "6948616",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "738933",
+        "youtube": "738933",
+        "soundcloud": "738933",
+        "appleMusic": "738933"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "SVDDEN DEATH",
+      "title": "Castles (MUST DIE! Remix)",
+      "remix": "",
+      "label": "SVDDEN DEATH",
+      "trackId": "6948617",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "516526",
+        "youtube": "516526",
+        "soundcloud": "516526",
+        "appleMusic": "516526"
+      },
+      "blendGroup": [
+        {
+          "artist": "SVDDEN DEATH",
+          "title": "Castles (MUST DIE! Remix)",
+          "remix": "",
+          "trackId": "6948617"
+        },
+        {
+          "artist": "Spag Heddy",
+          "title": "Zoom (TRVCY Remix)",
+          "remix": "",
+          "trackId": "6948618"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Spag Heddy",
+      "title": "Zoom (TRVCY Remix)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6948618",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "520206",
+        "youtube": "520206",
+        "soundcloud": "520206",
+        "appleMusic": "520206"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "TRVCY",
+      "title": "Embrace Me",
+      "remix": "",
+      "label": "REINELEX",
+      "trackId": "6948619",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "678924",
+        "youtube": "678924",
+        "soundcloud": "678924",
+        "appleMusic": "678924"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Calcium",
+      "title": "Sticks N' Stones",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6948620",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "726395",
+        "youtube": "726395",
+        "soundcloud": "726395",
+        "appleMusic": "726395"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Sullivan King & BIG FLORIDA",
+      "title": "Stitches",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "6948621",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "716972",
+        "youtube": "716972",
+        "soundcloud": "716972",
+        "appleMusic": "716972"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sullivan King & BIG FLORIDA",
+          "title": "Stitches",
+          "remix": "",
+          "trackId": "6948621"
+        },
+        {
+          "artist": "Trampa & TrollPhace",
+          "title": "Headbang Gang",
+          "remix": "",
+          "trackId": "6948623"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Trampa & TrollPhace",
+      "title": "Headbang Gang",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "6948623",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "364111",
+        "youtube": "364111",
+        "soundcloud": "364111",
+        "appleMusic": "364111"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "IVORY & PIERCE",
+      "title": "Fxckitup",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6948624",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "611102",
+        "youtube": "611102",
+        "soundcloud": "611102",
+        "appleMusic": "611102"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "MARAUDA",
+      "title": "Death Pit",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "6948626",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "454894",
+        "youtube": "454894",
+        "soundcloud": "454894",
+        "appleMusic": "454894"
+      },
+      "blendGroup": [
+        {
+          "artist": "MARAUDA",
+          "title": "Death Pit",
+          "remix": "",
+          "trackId": "6948626"
+        },
+        {
+          "artist": "Hi I'm Ghost",
+          "title": "Death Rail",
+          "remix": "",
+          "trackId": "6948627"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hi I'm Ghost",
+      "title": "Death Rail",
+      "remix": "",
+      "label": "SLUGZ",
+      "trackId": "6948627",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "533802",
+        "youtube": "533802",
+        "soundcloud": "533802",
+        "appleMusic": "533802"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "BIG FLORIDA & DRINKURWATER",
+      "title": "Oh F*ck!",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6948629",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "516019",
+        "youtube": "516019",
+        "soundcloud": "516019",
+        "appleMusic": "516019"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "BIG FLORIDA ft. Outline In Color",
+      "title": "Hostage",
+      "remix": "",
+      "label": "SLUGZ",
+      "trackId": "6948630",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "740957",
+        "youtube": "740957",
+        "soundcloud": "740957",
+        "appleMusic": "740957"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Skellism & NVRENDS",
+      "title": "Rage Pit",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "6948631",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "688938",
+        "soundcloud": "688938",
+        "appleMusic": "688938"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Wooli & Control Freak",
+      "title": "Bad Mood",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "6948632",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "616400",
+        "youtube": "616400",
+        "soundcloud": "616400",
+        "appleMusic": "616400"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Ray Volpe ft. Virus Syndicate",
+      "title": "Revolution",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "6948633",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "716303",
+        "youtube": "716303",
+        "soundcloud": "716303",
+        "appleMusic": "716303"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "BIG FLORIDA & VRG",
+      "title": "Womp Womp (VIP)",
+      "remix": "",
+      "label": "HEAVYWEIGHT",
+      "trackId": "6948634",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Detrace & Sora",
+      "title": "Cyber Hunk",
+      "remix": "",
+      "label": "DSV",
+      "trackId": "6948635",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "480167",
+        "youtube": "480167",
+        "soundcloud": "480167",
+        "appleMusic": "480167"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Calcium",
+      "title": "Deep Streets",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "6948636",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "726347",
+        "youtube": "726347",
+        "soundcloud": "726347",
+        "appleMusic": "726347"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T16:51:36.894Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,402 @@
+{
+  "tlId": "12221by1",
+  "dj": "SOSA",
+  "stage": "EDC Las Vegas",
+  "date": "2025-05-17",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/12221by1/sosa-neongarden-edc-las-vegas-united-states-2025-05-17.html",
+  "djs": [
+    {
+      "name": "SOSA",
+      "slug": "sosa"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12360939",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "DJ Babatr",
+      "title": "Kick The Floor",
+      "remix": "",
+      "label": "ONES AND ZEROS",
+      "trackId": "12360940",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1093243",
+        "youtube": "1093243",
+        "soundcloud": "1093243",
+        "appleMusic": "1093243"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12360941",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "SOSA",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12162892",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "SOSA",
+          "title": "ID",
+          "remix": "",
+          "trackId": "12162892"
+        },
+        {
+          "artist": "Marcellus & Antss",
+          "title": "Bomba (Got To Have It)",
+          "remix": "",
+          "trackId": "12360942"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Marcellus & Antss",
+      "title": "Bomba (Got To Have It)",
+      "remix": "",
+      "label": "ELROW",
+      "trackId": "12360942",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "744310",
+        "youtube": "744310",
+        "soundcloud": "744310",
+        "appleMusic": "744310"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Josh Kalker",
+      "title": "Self To Self",
+      "remix": "",
+      "label": "BANDIDOS",
+      "trackId": "12162893",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1050260",
+        "soundcloud": "1050260",
+        "appleMusic": "1050260"
+      },
+      "blendGroup": [
+        {
+          "artist": "Josh Kalker",
+          "title": "Self To Self",
+          "remix": "",
+          "trackId": "12162893"
+        },
+        {
+          "artist": "SOSA",
+          "title": "DFCW",
+          "remix": "",
+          "trackId": "12162894"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SOSA",
+      "title": "DFCW",
+      "remix": "",
+      "label": "SOLA (ARMADA)",
+      "trackId": "12162894",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "525600",
+        "youtube": "525600",
+        "soundcloud": "525600",
+        "appleMusic": "525600"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Mil & Jes",
+      "title": "Back To The Bass",
+      "remix": "",
+      "label": "OVRDOSE",
+      "trackId": "12162895",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1082424",
+        "soundcloud": "1082424",
+        "appleMusic": "1082424"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Andrea Romeo",
+      "title": "Honey Shake",
+      "remix": "",
+      "label": "",
+      "trackId": "12162896",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Clockwork",
+      "title": "If You Believe",
+      "remix": "",
+      "label": "",
+      "trackId": "12360943",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Cloonee & Funkdoobiest",
+      "title": "X-Rated",
+      "remix": "",
+      "label": "EPIC/LEGACY",
+      "trackId": "12162897",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1091994",
+        "youtube": "1091994",
+        "soundcloud": "1091994",
+        "appleMusic": "1091994"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "GotSome ft. Get Along Gang",
+      "title": "Bassline",
+      "remix": "",
+      "label": "DEFECTED",
+      "trackId": "12162898",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "151721",
+        "youtube": "151721",
+        "soundcloud": "151721",
+        "appleMusic": "151721"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Mau P",
+      "title": "Like I Like It",
+      "remix": "",
+      "label": "DIYNAMIC",
+      "trackId": "12162899",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1480,
+      "mediaIds": {
+        "spotify": "1092058",
+        "youtube": "1092058",
+        "soundcloud": "1092058",
+        "appleMusic": "1092058"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Jholeyson",
+      "title": "Discow",
+      "remix": "",
+      "label": "HOT CREATIONS",
+      "trackId": "12162901",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "519617",
+        "youtube": "519617",
+        "soundcloud": "519617",
+        "appleMusic": "519617"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Paul C",
+      "title": "Twisted Frequencies",
+      "remix": "",
+      "label": "VISYØN",
+      "trackId": "12162902",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1121641",
+        "youtube": "1121641",
+        "soundcloud": "1121641",
+        "appleMusic": "1121641"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Buogo",
+      "title": "Dirty Bass Line",
+      "remix": "",
+      "label": "CLU RECS",
+      "trackId": "12162903",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1047728",
+        "youtube": "1047728",
+        "soundcloud": "1047728",
+        "appleMusic": "1047728"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Nate Dogg ft. Eve",
+      "title": "Get Up",
+      "remix": "",
+      "label": "",
+      "trackId": "12162904",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "160726"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12162905",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Guy Gerber & Albertina",
+      "title": "Bocat (Michael Bibi Remix)",
+      "remix": "",
+      "label": "RUMORS",
+      "trackId": "12162906",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "823860",
+        "youtube": "823860",
+        "soundcloud": "823860",
+        "appleMusic": "823860"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Donna Allen",
+      "title": "Serious",
+      "remix": "",
+      "label": "21",
+      "trackId": "12162968",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "52948",
+        "youtube": "52948",
+        "appleMusic": "52948"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Us Two & Franksy",
+      "title": "Simulation",
+      "remix": "",
+      "label": "TSZR",
+      "trackId": "12162970",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3600,
+      "mediaIds": {
+        "spotify": "1107839",
+        "youtube": "1107839",
+        "soundcloud": "1107839",
+        "appleMusic": "1107839"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_2",
+      "idMedia": "4830137",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/sosa-at-edc-las-vegas-2025-neon-garden-stage-dj-mix/1819131956/us/album/sosa-at-edc-las-vegas-2025-neon-garden-stage-dj-mix/1819131956?app=music&at=1000lwkw"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "4782614",
+      "idSource": "40",
+      "url": "https://hearthis.at/12162361/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:02:39.288Z",
+  "scrapeVersion": 2
+}

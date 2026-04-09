@@ -1,0 +1,136 @@
+{
+  "tlId": "1gr9rsr1",
+  "dj": "Riot Ten",
+  "stage": "EDC China",
+  "date": "2018-04-29",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/1gr9rsr1/riot-ten-basspod-edc-china-shanghai-2018-04-29.html",
+  "djs": [
+    {
+      "name": "Riot Ten",
+      "slug": "riotten"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "PhaseOne",
+      "title": "Decimate",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "3448872",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "416384",
+        "youtube": "416384",
+        "soundcloud": "416384",
+        "appleMusic": "416384"
+      },
+      "blendGroup": [
+        {
+          "artist": "PhaseOne",
+          "title": "Decimate",
+          "remix": "",
+          "trackId": "3448872"
+        },
+        {
+          "artist": "Post Malone ft. 21 Savage",
+          "title": "Rockstar (Acappella)",
+          "remix": "",
+          "trackId": "3448873"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Post Malone ft. 21 Savage",
+      "title": "Rockstar (Acappella)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "3448873",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "382727",
+        "youtube": "382727",
+        "soundcloud": "382727",
+        "appleMusic": "382727"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Lit Lords ft. Milano The Don",
+      "title": "Body Cast",
+      "remix": "",
+      "label": "BIG BOSS",
+      "trackId": "3448874",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "427737",
+        "soundcloud": "427737",
+        "appleMusic": "427737"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Riot Ten ft. Rico Act",
+      "title": "Rail Breaker",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "3448876",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "369232",
+        "youtube": "369232",
+        "soundcloud": "369232",
+        "appleMusic": "369232"
+      },
+      "blendGroup": [
+        {
+          "artist": "Riot Ten ft. Rico Act",
+          "title": "Rail Breaker",
+          "remix": "",
+          "trackId": "3448876"
+        },
+        {
+          "artist": "Riot Ten ft. Rico Act",
+          "title": "Rail Breaker (Code: Pandorum Remix)",
+          "remix": "",
+          "trackId": "3448877"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Riot Ten ft. Rico Act",
+      "title": "Rail Breaker (Code: Pandorum Remix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "3448877",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "429692",
+        "youtube": "429692",
+        "soundcloud": "429692",
+        "appleMusic": "429692"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T15:54:30.972Z",
+  "scrapeVersion": 2
+}

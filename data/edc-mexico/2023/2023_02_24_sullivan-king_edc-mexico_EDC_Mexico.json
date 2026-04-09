@@ -1,0 +1,1769 @@
+{
+  "tlId": "2n6yr35k",
+  "dj": "Sullivan King",
+  "stage": "EDC Mexico",
+  "date": "2023-02-24",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/2n6yr35k/sullivan-king-wasteland-edc-mexico-2023-02-24.html",
+  "djs": [
+    {
+      "name": "Sullivan King",
+      "slug": "sullivanking"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "System Of A Down",
+      "title": "Chop Suey!",
+      "remix": "",
+      "label": "SONY BMG",
+      "trackId": "8772308",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "35022",
+        "youtube": "35022",
+        "soundcloud": "35022",
+        "appleMusic": "35022"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Excision & Sullivan King",
+      "title": "Unbound",
+      "remix": "(EDC Mexico Intro)",
+      "label": "SUBSIDIA",
+      "trackId": "8758026",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 167,
+      "mediaIds": {
+        "spotify": "697078",
+        "youtube": "697078",
+        "soundcloud": "697078",
+        "appleMusic": "697078"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Sullivan King",
+          "title": "Unbound",
+          "remix": "(EDC Mexico Intro)",
+          "trackId": "8758026"
+        },
+        {
+          "artist": "Sullivan King",
+          "title": "Reckless",
+          "remix": "",
+          "trackId": "8758027"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sullivan King",
+      "title": "Reckless",
+      "remix": "",
+      "label": "KANNIBALEN/THANK YOU FOR RAGING",
+      "trackId": "8758027",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 318,
+      "mediaIds": {
+        "spotify": "522079",
+        "youtube": "522079",
+        "soundcloud": "522079",
+        "appleMusic": "522079"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sullivan King",
+          "title": "Reckless",
+          "remix": "",
+          "trackId": "8758027"
+        },
+        {
+          "artist": "Sullivan King",
+          "title": "ID",
+          "remix": "",
+          "trackId": "8758028"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sullivan King",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8758028",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "03",
+      "artist": "Sullivan King & Vastive ft. Taylor Barber",
+      "title": "Die By My Hand",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8758029",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 378,
+      "mediaIds": {
+        "spotify": "875450",
+        "youtube": "875450",
+        "soundcloud": "875450",
+        "appleMusic": "875450"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Excision & Wooli",
+      "title": "Name Drop",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "8758030",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 418,
+      "mediaIds": {
+        "spotify": "819679",
+        "youtube": "819679",
+        "soundcloud": "819679",
+        "appleMusic": "819679"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Wooli",
+          "title": "Name Drop",
+          "remix": "",
+          "trackId": "8758030"
+        },
+        {
+          "artist": "SVDDEN DEATH",
+          "title": "SHALLOW LAND BURIAL",
+          "remix": "",
+          "trackId": "8758031"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SVDDEN DEATH",
+      "title": "SHALLOW LAND BURIAL",
+      "remix": "",
+      "label": "VOYD",
+      "trackId": "8758031",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "782086",
+        "youtube": "782086",
+        "soundcloud": "782086",
+        "appleMusic": "782086"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Bossfight",
+      "title": "Fake",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8758032",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 457,
+      "mediaIds": {
+        "spotify": "822777",
+        "youtube": "822777",
+        "soundcloud": "822777",
+        "appleMusic": "822777"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Spag Heddy",
+      "title": "Spaghetti Slap",
+      "remix": "",
+      "label": "TOMATO BASS",
+      "trackId": "8758033",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 498,
+      "mediaIds": {
+        "spotify": "771302",
+        "youtube": "771302",
+        "soundcloud": "771302",
+        "appleMusic": "771302"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Showtek",
+      "title": "We Like To Party",
+      "remix": "",
+      "label": "SKINK",
+      "trackId": "8758034",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 526,
+      "mediaIds": {
+        "spotify": "151951",
+        "youtube": "151951",
+        "soundcloud": "151951",
+        "appleMusic": "151951"
+      },
+      "blendGroup": [
+        {
+          "artist": "Showtek",
+          "title": "We Like To Party",
+          "remix": "",
+          "trackId": "8758034"
+        },
+        {
+          "artist": "Sullivan King",
+          "title": "길개 (Road Dog Anthem)",
+          "remix": "",
+          "trackId": "8758035"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sullivan King",
+      "title": "길개 (Road Dog Anthem)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8758035",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 575,
+      "mediaIds": {
+        "spotify": "875751",
+        "youtube": "875751",
+        "soundcloud": "875751",
+        "appleMusic": "875751"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Benda",
+      "title": "Poison Control",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "8758036",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 615,
+      "mediaIds": {
+        "spotify": "830565",
+        "youtube": "830565",
+        "soundcloud": "830565",
+        "appleMusic": "830565"
+      },
+      "blendGroup": [
+        {
+          "artist": "Benda",
+          "title": "Poison Control",
+          "remix": "",
+          "trackId": "8758036"
+        },
+        {
+          "artist": "Sullivan King & Calcium",
+          "title": "Sleep",
+          "remix": "",
+          "trackId": "8758037"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sullivan King & Calcium",
+      "title": "Sleep",
+      "remix": "",
+      "label": "THANK YOU FOR RAGING",
+      "trackId": "8758037",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "807337",
+        "youtube": "807337",
+        "soundcloud": "807337",
+        "appleMusic": "807337"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Ray Volpe",
+      "title": "Laserbeam (Sullivan King VIP)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "8758038",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 660,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Ray Volpe",
+          "title": "Laserbeam (Sullivan King VIP)",
+          "remix": "",
+          "trackId": "8758038"
+        },
+        {
+          "artist": "PhaseOne ft. In Hearts Wake",
+          "title": "Welcome To Mayhem",
+          "remix": "(Acappella)",
+          "trackId": "8758039"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "PhaseOne ft. In Hearts Wake",
+      "title": "Welcome To Mayhem",
+      "remix": "(Acappella)",
+      "label": "DISCIPLE",
+      "trackId": "8758039",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "342943",
+        "youtube": "342943",
+        "soundcloud": "342943",
+        "appleMusic": "342943"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Kai Wachi & Kompany",
+      "title": "Pumpany",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "8758040",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 782,
+      "mediaIds": {
+        "spotify": "882420",
+        "youtube": "882420",
+        "soundcloud": "882420",
+        "appleMusic": "882420"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Sullivan King & Subtronics",
+      "title": "Take Flight (Kai Wachi Remix)",
+      "remix": "",
+      "label": "CYCLOPS",
+      "trackId": "8758041",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 837,
+      "mediaIds": {
+        "spotify": "830953",
+        "youtube": "830953",
+        "soundcloud": "830953",
+        "appleMusic": "830953"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Sullivan King",
+      "title": "ID",
+      "remix": "(ID As F**k)",
+      "label": "",
+      "trackId": "8758042",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 891,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "SVDDEN DEATH",
+      "title": "Rise",
+      "remix": "(Fail)",
+      "label": "SVDDEN DEATH",
+      "trackId": "8758043",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 936,
+      "mediaIds": {
+        "spotify": "438042",
+        "youtube": "438042",
+        "soundcloud": "438042",
+        "appleMusic": "438042"
+      },
+      "blendGroup": [
+        {
+          "artist": "SVDDEN DEATH",
+          "title": "Rise",
+          "remix": "(Fail)",
+          "trackId": "8758043"
+        },
+        {
+          "artist": "Skrillex & Fred again.. & Flowdan",
+          "title": "Rumble (Sullivan King Remix)",
+          "remix": "",
+          "trackId": "8758044"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Fred again.. & Flowdan",
+      "title": "Rumble (Sullivan King Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "8758044",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 953,
+      "mediaIds": null
+    },
+    {
+      "pos": "14",
+      "artist": "Kai Wachi",
+      "title": "NO WAY",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "8758045",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1028,
+      "mediaIds": {
+        "spotify": "896921",
+        "youtube": "896921",
+        "soundcloud": "896921",
+        "appleMusic": "896921"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Farruko ft. Victor Cardenas",
+      "title": "Pepas",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "8758046",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1072,
+      "mediaIds": {
+        "spotify": "710973",
+        "youtube": "710973",
+        "soundcloud": "710973",
+        "appleMusic": "710973"
+      },
+      "blendGroup": [
+        {
+          "artist": "Farruko ft. Victor Cardenas",
+          "title": "Pepas",
+          "remix": "",
+          "trackId": "8758046"
+        },
+        {
+          "artist": "Excision & Sullivan King",
+          "title": "Our Fire (Bernzikial Remix)",
+          "remix": "",
+          "trackId": "8760182"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Sullivan King",
+      "title": "Our Fire (Bernzikial Remix)",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "8760182",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "818289",
+        "soundcloud": "818289"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Farruko ft. Victor Cardenas",
+      "title": "Pepas (We Rose & ATLiens Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "8758048",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1127,
+      "mediaIds": {
+        "youtube": "869821",
+        "soundcloud": "869821"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Sullivan King & Wooli",
+      "title": "Let Me Go",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8758049",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1166,
+      "mediaIds": {
+        "spotify": "845262",
+        "youtube": "845262",
+        "soundcloud": "845262",
+        "appleMusic": "845262"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sullivan King & Wooli",
+          "title": "Let Me Go",
+          "remix": "",
+          "trackId": "8758049"
+        },
+        {
+          "artist": "Sullivan King & Wooli",
+          "title": "Let Me Go (VIP)",
+          "remix": "",
+          "trackId": "8758050"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sullivan King & Wooli",
+      "title": "Let Me Go (VIP)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8758050",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 1273,
+      "mediaIds": null
+    },
+    {
+      "pos": "18",
+      "artist": "Chassi & Benda",
+      "title": "Smack Talk",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "8758051",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1324,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Vastive & LAYZ",
+      "title": "Barking At Thunder",
+      "remix": "",
+      "label": "WELCOME",
+      "trackId": "8758052",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1363,
+      "mediaIds": {
+        "spotify": "882421",
+        "youtube": "882421",
+        "soundcloud": "882421",
+        "appleMusic": "882421"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Flosstradamus & GTA ft. Lil Jon",
+      "title": "Prison Riot (Acappella)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "8758053",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1406,
+      "mediaIds": {
+        "spotify": "231264",
+        "youtube": "293733",
+        "soundcloud": "293733",
+        "appleMusic": "231264"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flosstradamus & GTA ft. Lil Jon",
+          "title": "Prison Riot (Acappella)",
+          "remix": "",
+          "trackId": "8758053"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "8758054"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8758054",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "21",
+      "artist": "Alesso vs. OneRepublic",
+      "title": "If I Lose Myself",
+      "remix": "",
+      "label": "MOSLEY/INTERSCOPE",
+      "trackId": "8758055",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1435,
+      "mediaIds": {
+        "spotify": "132131",
+        "youtube": "132131",
+        "soundcloud": "132131",
+        "appleMusic": "132131"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso vs. OneRepublic",
+          "title": "If I Lose Myself",
+          "remix": "",
+          "trackId": "8758055"
+        },
+        {
+          "artist": "Excision & Wooli",
+          "title": "Lockdown (VIP)",
+          "remix": "",
+          "trackId": "8758056"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Wooli",
+      "title": "Lockdown (VIP)",
+      "remix": "",
+      "label": "EXCISION",
+      "trackId": "8758056",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 1518,
+      "mediaIds": {
+        "youtube": "647676",
+        "soundcloud": "647676",
+        "appleMusic": "647676"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Wooli",
+          "title": "Lockdown (VIP)",
+          "remix": "",
+          "trackId": "8758056"
+        },
+        {
+          "artist": "Sullivan King",
+          "title": "Reckless",
+          "remix": "",
+          "trackId": "8758057"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sullivan King",
+      "title": "Reckless",
+      "remix": "",
+      "label": "KANNIBALEN/THANK YOU FOR RAGING",
+      "trackId": "8758057",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "522079",
+        "youtube": "522079",
+        "soundcloud": "522079",
+        "appleMusic": "522079"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Sullivan King",
+      "title": "Reckless",
+      "remix": "",
+      "label": "KANNIBALEN/THANK YOU FOR RAGING",
+      "trackId": "8758058",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1559,
+      "mediaIds": {
+        "spotify": "522079",
+        "youtube": "522079",
+        "soundcloud": "522079",
+        "appleMusic": "522079"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "AC/DC",
+      "title": "Thunderstruck (LAYZ & Sullivan King Remix)",
+      "remix": "",
+      "label": "ATCO",
+      "trackId": "8758059",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1612,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Sullivan King ft. Jason Aalon Butler",
+      "title": "Loud",
+      "remix": "",
+      "label": "HOPELESS",
+      "trackId": "8758060",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1665,
+      "mediaIds": {
+        "spotify": "716984",
+        "youtube": "716984",
+        "soundcloud": "716984",
+        "appleMusic": "716984"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sullivan King ft. Jason Aalon Butler",
+          "title": "Loud",
+          "remix": "",
+          "trackId": "8758060"
+        },
+        {
+          "artist": "Flosstradamus ft. Casino",
+          "title": "Mosh Pit (Acappella)",
+          "remix": "",
+          "trackId": "8758061"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flosstradamus ft. Casino",
+      "title": "Mosh Pit (Acappella)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "8758061",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "230379",
+        "youtube": "230379",
+        "soundcloud": "230379",
+        "appleMusic": "230379"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Effin & Jiqui",
+      "title": "Horseplay",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "8758062",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 1776,
+      "mediaIds": {
+        "spotify": "851646",
+        "youtube": "851646",
+        "soundcloud": "851646",
+        "appleMusic": "851646"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Kai Wachi & Dylan Matthew",
+      "title": "Run (Sullivan King Remix)",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "8758063",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 1822,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Excision & Sullivan King",
+      "title": "Our Fire",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "8758064",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 1853,
+      "mediaIds": {
+        "spotify": "716985",
+        "youtube": "716985",
+        "soundcloud": "716985",
+        "appleMusic": "716985"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Sullivan King",
+          "title": "Our Fire",
+          "remix": "",
+          "trackId": "8758064"
+        },
+        {
+          "artist": "Excision & Sullivan King",
+          "title": "Our Fire (VIP)",
+          "remix": "",
+          "trackId": "8758065"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Sullivan King",
+      "title": "Our Fire (VIP)",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "8758065",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 1968,
+      "mediaIds": {
+        "youtube": "927917",
+        "soundcloud": "927917"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Sullivan King & Kai Wachi & GG Magree",
+      "title": "Flatline",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "8758067",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2090,
+      "mediaIds": {
+        "spotify": "605973",
+        "youtube": "605973",
+        "soundcloud": "605973",
+        "appleMusic": "605973"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8758068",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2192,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "G Jones",
+      "title": "In Your Head",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "8758069",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2218,
+      "mediaIds": {
+        "spotify": "430792",
+        "youtube": "430792",
+        "soundcloud": "430792",
+        "appleMusic": "430792"
+      },
+      "blendGroup": [
+        {
+          "artist": "G Jones",
+          "title": "In Your Head",
+          "remix": "",
+          "trackId": "8758069"
+        },
+        {
+          "artist": "Sullivan King & Benda",
+          "title": "ID",
+          "remix": "",
+          "trackId": "8758070"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sullivan King & Benda",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8758070",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "31",
+      "artist": "Ray Volpe",
+      "title": "Drop Em",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8758071",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2303,
+      "mediaIds": {
+        "spotify": "895554",
+        "youtube": "895554",
+        "soundcloud": "895554",
+        "appleMusic": "895554"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Sullivan King",
+      "title": "Came To Rage",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8758072",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2350,
+      "mediaIds": {
+        "spotify": "875487",
+        "youtube": "875487",
+        "soundcloud": "875487",
+        "appleMusic": "875487"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Sullivan King & Subtronics",
+      "title": "Take Flight (VIP)",
+      "remix": "(Drum & Bass Edit)",
+      "label": "CYCLOPS",
+      "trackId": "8758073",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 2433,
+      "mediaIds": {
+        "spotify": "732535",
+        "youtube": "732535",
+        "soundcloud": "732535",
+        "appleMusic": "732535"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Deathpact",
+      "title": "BDASWY",
+      "remix": "",
+      "label": "DEATHPACT",
+      "trackId": "8758074",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 2539,
+      "mediaIds": {
+        "spotify": "869823",
+        "youtube": "869823",
+        "soundcloud": "869823",
+        "appleMusic": "869823"
+      },
+      "blendGroup": [
+        {
+          "artist": "Deathpact",
+          "title": "BDASWY",
+          "remix": "",
+          "trackId": "8758074"
+        },
+        {
+          "artist": "System Of A Down",
+          "title": "B.Y.O.B.",
+          "remix": "",
+          "trackId": "8758417"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "System Of A Down",
+      "title": "B.Y.O.B.",
+      "remix": "",
+      "label": "AMERICAN RECORDINGS",
+      "trackId": "8758417",
+      "row": 34,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "59549",
+        "youtube": "59549",
+        "soundcloud": "59549",
+        "appleMusic": "59549"
+      }
+    },
+    {
+      "pos": "35",
+      "artist": "Apashe & YMIR",
+      "title": "Never Change (Sullivan King Remix)",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "8758075",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 2568,
+      "mediaIds": {
+        "spotify": "814912",
+        "youtube": "814912",
+        "soundcloud": "814912"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "Sullivan King",
+      "title": "Why Don't You Love Me? (VIP)",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "8758076",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 2737,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "Excision & Sullivan King",
+      "title": "Bass To The Dome",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "8758077",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 2774,
+      "mediaIds": {
+        "spotify": "919803",
+        "youtube": "919803",
+        "soundcloud": "919803",
+        "appleMusic": "919803"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Sullivan King",
+          "title": "Bass To The Dome",
+          "remix": "",
+          "trackId": "8758077"
+        },
+        {
+          "artist": "Emorfik",
+          "title": "Violence",
+          "remix": "",
+          "trackId": "8758419"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Emorfik",
+      "title": "Violence",
+      "remix": "",
+      "label": "MMXVAC",
+      "trackId": "8758419",
+      "row": 37,
+      "type": "blend",
+      "cueTime": 2883,
+      "mediaIds": {
+        "spotify": "869824",
+        "youtube": "869824",
+        "soundcloud": "869824",
+        "appleMusic": "869824"
+      }
+    },
+    {
+      "pos": "38",
+      "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+      "title": "Tremor (Sensation 2014 Anthem) (Riot Ten & Sullivan King Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "8758078",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 2931,
+      "mediaIds": {
+        "youtube": "352758",
+        "soundcloud": "352758"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+          "title": "Tremor (Sensation 2014 Anthem) (Riot Ten & Sullivan King Bootleg)",
+          "remix": "",
+          "trackId": "8758078"
+        },
+        {
+          "artist": "Crankdat & Bandlez",
+          "title": "Ground Shake",
+          "remix": "",
+          "trackId": "8758079"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Crankdat & Bandlez",
+      "title": "Ground Shake",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "8758079",
+      "row": 38,
+      "type": "blend",
+      "cueTime": 2961,
+      "mediaIds": {
+        "spotify": "825547",
+        "youtube": "825547",
+        "soundcloud": "825547",
+        "appleMusic": "825547"
+      },
+      "blendGroup": [
+        {
+          "artist": "Crankdat & Bandlez",
+          "title": "Ground Shake",
+          "remix": "",
+          "trackId": "8758079"
+        },
+        {
+          "artist": "SVDDEN DEATH",
+          "title": "Behemoth",
+          "remix": "",
+          "trackId": "8758080"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SVDDEN DEATH",
+      "title": "Behemoth",
+      "remix": "",
+      "label": "SVDDEN DEATH",
+      "trackId": "8758080",
+      "row": 38,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "433032",
+        "youtube": "433032",
+        "soundcloud": "433032",
+        "appleMusic": "433032"
+      },
+      "blendGroup": [
+        {
+          "artist": "SVDDEN DEATH",
+          "title": "Behemoth",
+          "remix": "",
+          "trackId": "8758080"
+        },
+        {
+          "artist": "MONXX & Walter Wilde",
+          "title": "The Wonky Song",
+          "remix": "",
+          "trackId": "8772309"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MONXX & Walter Wilde",
+      "title": "The Wonky Song",
+      "remix": "",
+      "label": "A&M",
+      "trackId": "8772309",
+      "row": 38,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "362845",
+        "youtube": "362845"
+      },
+      "blendGroup": [
+        {
+          "artist": "MONXX & Walter Wilde",
+          "title": "The Wonky Song",
+          "remix": "",
+          "trackId": "8772309"
+        },
+        {
+          "artist": "Phiso",
+          "title": "Pattern Screamer",
+          "remix": "",
+          "trackId": "8758081"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Phiso",
+      "title": "Pattern Screamer",
+      "remix": "",
+      "label": "NSD: BLACK LABEL",
+      "trackId": "8758081",
+      "row": 38,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "447685",
+        "youtube": "447685",
+        "soundcloud": "447685",
+        "appleMusic": "447685"
+      },
+      "blendGroup": [
+        {
+          "artist": "Phiso",
+          "title": "Pattern Screamer",
+          "remix": "",
+          "trackId": "8758081"
+        },
+        {
+          "artist": "Excision & Sullivan King",
+          "title": "Wake Up",
+          "remix": "",
+          "trackId": "8758082"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Sullivan King",
+      "title": "Wake Up",
+      "remix": "",
+      "label": "EXCISION",
+      "trackId": "8758082",
+      "row": 38,
+      "type": "blend",
+      "cueTime": 2974,
+      "mediaIds": {
+        "spotify": "438871",
+        "youtube": "438871",
+        "soundcloud": "438871",
+        "appleMusic": "438871"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Sullivan King",
+          "title": "Wake Up",
+          "remix": "",
+          "trackId": "8758082"
+        },
+        {
+          "artist": "Excision & Space Laces",
+          "title": "Throwin' Elbows (Kompany Remix)",
+          "remix": "",
+          "trackId": "8758083"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Space Laces",
+      "title": "Throwin' Elbows (Kompany Remix)",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "8758083",
+      "row": 38,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "857083",
+        "soundcloud": "857083"
+      }
+    },
+    {
+      "pos": "39",
+      "artist": "Riot Ten & Sullivan King ft. DJ Paul",
+      "title": "Pit Boss (BadKlaat Remix)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "8758084",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 3002,
+      "mediaIds": {
+        "spotify": "401715",
+        "youtube": "401715",
+        "soundcloud": "401715",
+        "appleMusic": "401715"
+      },
+      "blendGroup": [
+        {
+          "artist": "Riot Ten & Sullivan King ft. DJ Paul",
+          "title": "Pit Boss (BadKlaat Remix)",
+          "remix": "",
+          "trackId": "8758084"
+        },
+        {
+          "artist": "Ray Volpe & Sullivan King",
+          "title": "The Dead March",
+          "remix": "",
+          "trackId": "8758085"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ray Volpe & Sullivan King",
+      "title": "The Dead March",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8758085",
+      "row": 39,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "833766",
+        "youtube": "833766",
+        "soundcloud": "833766",
+        "appleMusic": "833766"
+      }
+    },
+    {
+      "pos": "40",
+      "artist": "Sullivan King",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "8758086",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 3051,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "Linkin Park",
+      "title": "Bleed It Out (Sullivan King Remix)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "8758087",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 3096,
+      "mediaIds": {
+        "youtube": "735005"
+      },
+      "blendGroup": [
+        {
+          "artist": "Linkin Park",
+          "title": "Bleed It Out (Sullivan King Remix)",
+          "remix": "",
+          "trackId": "8758087"
+        },
+        {
+          "artist": "LOUIEJAYXX",
+          "title": "INDUSTRIAL",
+          "remix": "",
+          "trackId": "8758088"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "LOUIEJAYXX",
+      "title": "INDUSTRIAL",
+      "remix": "",
+      "label": "MALIGNANT",
+      "trackId": "8758088",
+      "row": 41,
+      "type": "blend",
+      "cueTime": 3149,
+      "mediaIds": {
+        "spotify": "873855",
+        "youtube": "873855",
+        "soundcloud": "873855",
+        "appleMusic": "873855"
+      }
+    },
+    {
+      "pos": "42",
+      "artist": "HOL!",
+      "title": "Somewhere (VIP)",
+      "remix": "",
+      "label": "CREATE MUSIC GROUP",
+      "trackId": "8758089",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 3184,
+      "mediaIds": {
+        "youtube": "794085",
+        "soundcloud": "794085"
+      },
+      "blendGroup": [
+        {
+          "artist": "HOL!",
+          "title": "Somewhere (VIP)",
+          "remix": "",
+          "trackId": "8758089"
+        },
+        {
+          "artist": "LOUIEJAYXX",
+          "title": "ETERNITY",
+          "remix": "",
+          "trackId": "8758090"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "LOUIEJAYXX",
+      "title": "ETERNITY",
+      "remix": "",
+      "label": "MALIGNANT",
+      "trackId": "8758090",
+      "row": 42,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "834179",
+        "youtube": "834179",
+        "soundcloud": "834179",
+        "appleMusic": "834179"
+      }
+    },
+    {
+      "pos": "43",
+      "artist": "Eliminate",
+      "title": "Open Your Eyes",
+      "remix": "",
+      "label": "NIGHTMODE",
+      "trackId": "8758091",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 3229,
+      "mediaIds": {
+        "spotify": "799059",
+        "youtube": "799059",
+        "soundcloud": "799059",
+        "appleMusic": "799059"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "44",
+      "artist": "KAYZO & Our Last Night",
+      "title": "Alone (Sullivan King Remix)",
+      "remix": "",
+      "label": "ULTRA/WELCOME",
+      "trackId": "8758092",
+      "row": 44,
+      "type": "normal",
+      "cueTime": 3264,
+      "mediaIds": {
+        "spotify": "552517",
+        "youtube": "552517",
+        "soundcloud": "552517",
+        "appleMusic": "552517"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "45",
+      "artist": "ILLENIUM ft. Jon Bellion",
+      "title": "Good Things Fall Apart",
+      "remix": "(Shut up, b*tch)",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "8758093",
+      "row": 45,
+      "type": "normal",
+      "cueTime": 3366,
+      "mediaIds": {
+        "spotify": "497561",
+        "youtube": "497561",
+        "soundcloud": "497561",
+        "appleMusic": "497561"
+      },
+      "blendGroup": [
+        {
+          "artist": "ILLENIUM ft. Jon Bellion",
+          "title": "Good Things Fall Apart",
+          "remix": "(Shut up, b*tch)",
+          "trackId": "8758093"
+        },
+        {
+          "artist": "Kai Wachi",
+          "title": "Belphegor",
+          "remix": "",
+          "trackId": "8758094"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kai Wachi",
+      "title": "Belphegor",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "8758094",
+      "row": 45,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "538855",
+        "youtube": "538855",
+        "soundcloud": "538855",
+        "appleMusic": "538855"
+      }
+    },
+    {
+      "pos": "46",
+      "artist": "Excision & Sullivan King",
+      "title": "Fall Apart",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8758095",
+      "row": 46,
+      "type": "normal",
+      "cueTime": 3400,
+      "mediaIds": {
+        "spotify": "869038",
+        "youtube": "869038",
+        "soundcloud": "869038",
+        "appleMusic": "869038"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "47",
+      "artist": "Sullivan King",
+      "title": "Someone Else",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8758096",
+      "row": 47,
+      "type": "normal",
+      "cueTime": 3583,
+      "mediaIds": {
+        "spotify": "633552",
+        "youtube": "633552",
+        "soundcloud": "633552",
+        "appleMusic": "633552"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sullivan King",
+          "title": "Someone Else",
+          "remix": "",
+          "trackId": "8758096"
+        },
+        {
+          "artist": "Sullivan King",
+          "title": "Someone Else",
+          "remix": "",
+          "trackId": "8758097"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sullivan King",
+      "title": "Someone Else",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8758097",
+      "row": 47,
+      "type": "blend",
+      "cueTime": 3689,
+      "mediaIds": {
+        "spotify": "633552",
+        "youtube": "633552",
+        "soundcloud": "633552",
+        "appleMusic": "633552"
+      }
+    },
+    {
+      "pos": "48",
+      "artist": "Bring Me The Horizon",
+      "title": "Throne (Sullivan King Remix)",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "8758098",
+      "row": 48,
+      "type": "normal",
+      "cueTime": 3751,
+      "mediaIds": {
+        "soundcloud": "429262"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bring Me The Horizon",
+          "title": "Throne (Sullivan King Remix)",
+          "remix": "",
+          "trackId": "8758098"
+        },
+        {
+          "artist": "Crankdat ft. Juicy J",
+          "title": "Open The Pit",
+          "remix": "",
+          "trackId": "8758099"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Crankdat ft. Juicy J",
+      "title": "Open The Pit",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "8758099",
+      "row": 48,
+      "type": "blend",
+      "cueTime": 3791,
+      "mediaIds": {
+        "spotify": "818844",
+        "youtube": "818844",
+        "soundcloud": "818844",
+        "appleMusic": "818844"
+      }
+    },
+    {
+      "pos": "49",
+      "artist": "Excision & Sullivan King",
+      "title": "Fight Through The Pain",
+      "remix": "",
+      "label": "EXCISION",
+      "trackId": "8758100",
+      "row": 49,
+      "type": "normal",
+      "cueTime": 3836,
+      "mediaIds": {
+        "spotify": "452747",
+        "youtube": "452747",
+        "soundcloud": "452747",
+        "appleMusic": "452747"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "50",
+      "artist": "Excision & Sullivan King",
+      "title": "Unbound",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "8758101",
+      "row": 50,
+      "type": "normal",
+      "cueTime": 4028,
+      "mediaIds": {
+        "spotify": "697078",
+        "youtube": "697078",
+        "soundcloud": "697078",
+        "appleMusic": "697078"
+      },
+      "blendGroup": [
+        {
+          "artist": "Excision & Sullivan King",
+          "title": "Unbound",
+          "remix": "",
+          "trackId": "8758101"
+        },
+        {
+          "artist": "Excision & Sullivan King",
+          "title": "Unbound (VIP)",
+          "remix": "",
+          "trackId": "8758102"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Sullivan King",
+      "title": "Unbound (VIP)",
+      "remix": "",
+      "label": "SUBSIDIA",
+      "trackId": "8758102",
+      "row": 50,
+      "type": "blend",
+      "cueTime": 4194,
+      "mediaIds": null
+    },
+    {
+      "pos": "51",
+      "artist": "KAYZO & Sullivan King & Papa Roach",
+      "title": "Domination",
+      "remix": "",
+      "label": "NEW NOIZE",
+      "trackId": "8758103",
+      "row": 51,
+      "type": "normal",
+      "cueTime": 4252,
+      "mediaIds": {
+        "spotify": "558826",
+        "youtube": "558826",
+        "soundcloud": "558826",
+        "appleMusic": "558826"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "3240081",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1458435901"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "3237006",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=uEMFVfyLgFU"
+    }
+  ],
+  "scrapedAt": "2026-04-08T17:10:24.152Z",
+  "scrapeVersion": 2
+}

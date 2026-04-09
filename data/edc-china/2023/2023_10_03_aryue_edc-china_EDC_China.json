@@ -1,0 +1,213 @@
+{
+  "tlId": "2wszsq09",
+  "dj": "ARYUE",
+  "stage": "EDC China",
+  "date": "2023-10-03",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/2wszsq09/aryue-kineticfield-edc-china-2023-10-03.html",
+  "djs": [
+    {
+      "name": "ARYUE",
+      "slug": "aryue"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13280414",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "ARYUE & Lunak",
+      "title": "What's Right",
+      "remix": "",
+      "label": "DRAGON",
+      "trackId": "13280415",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "915639",
+        "youtube": "915639",
+        "soundcloud": "915639",
+        "appleMusic": "915639"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "ARYUE",
+      "title": "All You Need",
+      "remix": "",
+      "label": "DRAGON",
+      "trackId": "13280416",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "908969",
+        "youtube": "908969",
+        "soundcloud": "908969",
+        "appleMusic": "908969"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "ARYUE",
+      "title": "Welcome To The Future",
+      "remix": "",
+      "label": "DRAGON",
+      "trackId": "13280417",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "913269",
+        "youtube": "913269",
+        "soundcloud": "913269",
+        "appleMusic": "913269"
+      },
+      "blendGroup": [
+        {
+          "artist": "ARYUE",
+          "title": "Welcome To The Future",
+          "remix": "",
+          "trackId": "13280417"
+        },
+        {
+          "artist": "Cascada",
+          "title": "Everytime We Touch (Acappella)",
+          "remix": "",
+          "trackId": "13280418"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cascada",
+      "title": "Everytime We Touch (Acappella)",
+      "remix": "",
+      "label": "ZOO DIGITAL (ZOOLAND)",
+      "trackId": "13280418",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1013369",
+        "soundcloud": "1013369"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Vigel & ARYUE",
+      "title": "Guangzhou",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "13280419",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "466302",
+        "youtube": "466302",
+        "soundcloud": "466302",
+        "appleMusic": "466302"
+      },
+      "blendGroup": [
+        {
+          "artist": "Vigel & ARYUE",
+          "title": "Guangzhou",
+          "remix": "",
+          "trackId": "13280419"
+        },
+        {
+          "artist": "MAKJ & Lil Jon",
+          "title": "Let's Get F*cked Up (Acappella)",
+          "remix": "",
+          "trackId": "13280420"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MAKJ & Lil Jon",
+      "title": "Let's Get F*cked Up (Acappella)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "13280420",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "181650",
+        "youtube": "178981",
+        "soundcloud": "178981",
+        "appleMusic": "181650"
+      },
+      "blendGroup": [
+        {
+          "artist": "MAKJ & Lil Jon",
+          "title": "Let's Get F*cked Up (Acappella)",
+          "remix": "",
+          "trackId": "13280420"
+        },
+        {
+          "artist": "David Guetta ft. Bebe Rexha",
+          "title": "I'm Good (Blue)",
+          "remix": "",
+          "trackId": "13280421"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta ft. Bebe Rexha",
+      "title": "I'm Good (Blue)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "13280421",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "351861",
+        "youtube": "351861",
+        "soundcloud": "351861",
+        "appleMusic": "351861"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "ARYUE & Roken & Ocean Alpha",
+      "title": "Love All Night",
+      "remix": "",
+      "label": "DRAGON",
+      "trackId": "13280422",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "909677",
+        "appleMusic": "909677"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T15:27:05.481Z",
+  "scrapeVersion": 2
+}

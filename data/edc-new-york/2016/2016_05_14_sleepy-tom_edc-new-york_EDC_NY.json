@@ -1,0 +1,840 @@
+{
+  "tlId": "1b08yr61",
+  "dj": "Sleepy Tom",
+  "stage": "EDC New York",
+  "date": "2016-05-14",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/1b08yr61/sleepy-tom-cosmicmeadow-edc-new-york-united-states-2016-05-14.html",
+  "djs": [
+    {
+      "name": "Sleepy Tom",
+      "slug": "sleepytom"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Tame Impala",
+      "title": "Let It Happen",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "2042736",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "250981",
+        "youtube": "250981",
+        "appleMusic": "250981"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Prince",
+      "title": "FUNKNROLL (Chris Lake Edit)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "2042737",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "229246",
+        "soundcloud": "229246"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Disclosure",
+      "title": "Bang That",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "2042738",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "252051",
+        "youtube": "252051",
+        "soundcloud": "252051",
+        "appleMusic": "252051"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "DJ Jean",
+      "title": "The Launch",
+      "remix": "",
+      "label": "DIZPLAY",
+      "trackId": "7639611",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3682",
+        "youtube": "3682",
+        "soundcloud": "3682",
+        "appleMusic": "3682"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Jean",
+          "title": "The Launch",
+          "remix": "",
+          "trackId": "7639611"
+        },
+        {
+          "artist": "Valentino Khan",
+          "title": "Deep Down Low (Moksi Remix)",
+          "remix": "",
+          "trackId": "2042739"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Valentino Khan",
+      "title": "Deep Down Low (Moksi Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2042739",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "267360"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Rihanna ft. Drake",
+      "title": "Work",
+      "remix": "",
+      "label": "ROC NATION (SONY)",
+      "trackId": "2042740",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "293197",
+        "youtube": "293197",
+        "soundcloud": "293197",
+        "appleMusic": "293197"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Getter & Ghastly",
+      "title": "666!",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2042741",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "281001",
+        "youtube": "281001",
+        "soundcloud": "281001",
+        "appleMusic": "281001"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Bell Biv DeVoe",
+      "title": "Poison",
+      "remix": "",
+      "label": "MCA",
+      "trackId": "3724657",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "25390",
+        "youtube": "25390",
+        "soundcloud": "25390",
+        "appleMusic": "25390"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bell Biv DeVoe",
+          "title": "Poison",
+          "remix": "",
+          "trackId": "3724657"
+        },
+        {
+          "artist": "Sonny Banks",
+          "title": "Spice",
+          "remix": "",
+          "trackId": "2042743"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sonny Banks",
+      "title": "Spice",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "2042743",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "233147",
+        "youtube": "233147",
+        "soundcloud": "233147",
+        "appleMusic": "233147"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sonny Banks",
+          "title": "Spice",
+          "remix": "",
+          "trackId": "2042743"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7639612"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7639612",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7639612"
+        },
+        {
+          "artist": "Drake & Future",
+          "title": "Jumpman",
+          "remix": "",
+          "trackId": "7639613"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Drake & Future",
+      "title": "Jumpman",
+      "remix": "",
+      "label": "CASH MONEY",
+      "trackId": "7639613",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "275411",
+        "youtube": "275411",
+        "soundcloud": "275411",
+        "appleMusic": "275411"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "DJ MERCER & 4B",
+      "title": "Bounce",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "3724658",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "246605",
+        "youtube": "246605",
+        "soundcloud": "246605",
+        "appleMusic": "246605"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Hervé ft. Zebra Katz",
+      "title": "Tear The House Up (Sleepy Tom Remix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2042744",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "205516"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Sinden & PILO",
+      "title": "Night Visions",
+      "remix": "",
+      "label": "BOYSNOIZE",
+      "trackId": "2042745",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "211331",
+        "youtube": "211331",
+        "soundcloud": "211331",
+        "appleMusic": "211331"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Sleepy Tom & Gladiator",
+      "title": "Cruise Control",
+      "remix": "",
+      "label": "RIVALMG",
+      "trackId": "2042746",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "237636",
+        "youtube": "237636",
+        "soundcloud": "237636",
+        "appleMusic": "237636"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sleepy Tom & Gladiator",
+          "title": "Cruise Control",
+          "remix": "",
+          "trackId": "2042746"
+        },
+        {
+          "artist": "Drake",
+          "title": "Know Yourself (Acappella)",
+          "remix": "",
+          "trackId": "7639614"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Drake",
+      "title": "Know Yourself (Acappella)",
+      "remix": "",
+      "label": "YOUNG MONEY (CASH MONEY)",
+      "trackId": "7639614",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "243886",
+        "youtube": "243886",
+        "soundcloud": "243886",
+        "appleMusic": "243886"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Doctor P",
+      "title": "Sweet Shop (Moksi Switch Up)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2042747",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "274564",
+        "soundcloud": "274564"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7639615",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Young Thug ft. Meek Mill",
+      "title": "Digits",
+      "remix": "",
+      "label": "300 ENTERTAINMENT",
+      "trackId": "2042750",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "315199",
+        "youtube": "315199",
+        "soundcloud": "315199",
+        "appleMusic": "315199"
+      },
+      "blendGroup": [
+        {
+          "artist": "Young Thug ft. Meek Mill",
+          "title": "Digits",
+          "remix": "",
+          "trackId": "2042750"
+        },
+        {
+          "artist": "Tchami",
+          "title": "Superlativ",
+          "remix": "",
+          "trackId": "2042751"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tchami",
+      "title": "Superlativ",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "2042751",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "290937",
+        "appleMusic": "290937"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Future",
+      "title": "Fu*ck Up Some Commas",
+      "remix": "",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "7639616",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "232673",
+        "youtube": "232673",
+        "soundcloud": "232673",
+        "appleMusic": "232673"
+      },
+      "blendGroup": [
+        {
+          "artist": "Future",
+          "title": "Fu*ck Up Some Commas",
+          "remix": "",
+          "trackId": "7639616"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7639617"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7639617",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "16",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7639618",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7639619",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Big Sean ft. Drake & Kanye West",
+      "title": "Blessings",
+      "remix": "",
+      "label": "GOOD MUSIC (ISLAND DEF JAM)",
+      "trackId": "7639620",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "241825",
+        "youtube": "241825",
+        "soundcloud": "241825",
+        "appleMusic": "241825"
+      },
+      "blendGroup": [
+        {
+          "artist": "Big Sean ft. Drake & Kanye West",
+          "title": "Blessings",
+          "remix": "",
+          "trackId": "7639620"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "7639621"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7639621",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "19",
+      "artist": "Hannah Wants & Chris Lorenzo",
+      "title": "Rhymes",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "7639622",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "216002",
+        "youtube": "216002",
+        "soundcloud": "216002",
+        "appleMusic": "216002"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Disclosure ft. Lorde",
+      "title": "Magnets (A-Trak Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "7639623",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "281263",
+        "youtube": "281263",
+        "soundcloud": "281263",
+        "appleMusic": "281263"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Sleepy Tom",
+      "title": "I Want Your Soul",
+      "remix": "",
+      "label": "SPRS (SPINNIN')",
+      "trackId": "7639624",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "259753",
+        "youtube": "259753",
+        "soundcloud": "259753",
+        "appleMusic": "259753"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Sonny Banks",
+      "title": "Good Girls",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "7639625",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "302582",
+        "youtube": "302582",
+        "soundcloud": "302582",
+        "appleMusic": "302582"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Martin Solveig & GTA",
+      "title": "Intoxicated (Sleepy Tom Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "7639626",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "249185",
+        "youtube": "249185",
+        "soundcloud": "249185",
+        "appleMusic": "249185"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "HI-LO",
+      "title": "Ooh La La",
+      "remix": "",
+      "label": "HELDEEP",
+      "trackId": "7639627",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "276247",
+        "youtube": "276247",
+        "soundcloud": "276247",
+        "appleMusic": "276247"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Dombresky",
+      "title": "Wait",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "7639628",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300911",
+        "youtube": "300911",
+        "soundcloud": "300911",
+        "appleMusic": "300911"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Grandtheft & Sleepy Tom",
+      "title": "Hold On 2.0",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "7640125",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "301102",
+        "soundcloud": "301102",
+        "appleMusic": "301102"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Major Lazer & DJ Snake ft. MØ",
+      "title": "Lean On (Malaa Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7640126",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "252261",
+        "youtube": "252261",
+        "soundcloud": "252261",
+        "appleMusic": "252261"
+      },
+      "blendGroup": [
+        {
+          "artist": "Major Lazer & DJ Snake ft. MØ",
+          "title": "Lean On (Malaa Remix)",
+          "remix": "",
+          "trackId": "7640126"
+        },
+        {
+          "artist": "Wax Motif",
+          "title": "Krush Groove",
+          "remix": "",
+          "trackId": "7640127"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wax Motif",
+      "title": "Krush Groove",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "7640127",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "264540",
+        "youtube": "264540",
+        "soundcloud": "264540",
+        "appleMusic": "264540"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army",
+      "remix": "",
+      "label": "XL",
+      "trackId": "7640128",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1491",
+        "youtube": "1491",
+        "soundcloud": "1491",
+        "appleMusic": "1491"
+      },
+      "blendGroup": [
+        {
+          "artist": "The White Stripes",
+          "title": "Seven Nation Army",
+          "remix": "",
+          "trackId": "7640128"
+        },
+        {
+          "artist": "Diplo & Sleepy Tom ft. Priscilla Renea",
+          "title": "Be Right There",
+          "remix": "",
+          "trackId": "7640129"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Diplo & Sleepy Tom ft. Priscilla Renea",
+      "title": "Be Right There",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "7640129",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "268236",
+        "youtube": "268236",
+        "soundcloud": "268236",
+        "appleMusic": "268236"
+      }
+    },
+    {
+      "pos": "29",
+      "artist": "Chris Lake & Chris Lorenzo",
+      "title": "Piano Hand",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "7640130",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "252317",
+        "youtube": "252317",
+        "soundcloud": "252317",
+        "appleMusic": "252317"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Sleepy Tom ft. Anna Lunoe",
+      "title": "Pusher",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "7640131",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "240384",
+        "youtube": "240384",
+        "appleMusic": "240384"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7640132",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "439316",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:30:04.504Z",
+  "scrapeVersion": 2
+}

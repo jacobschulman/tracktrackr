@@ -1,0 +1,149 @@
+{
+  "tlId": "2jb9xfz1",
+  "dj": "Nicole Moudaber",
+  "stage": "EDC Las Vegas",
+  "date": "2020-05-16",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/2jb9xfz1/nicole-moudaber-edc-las-vegas-virtual-rave-a-thon-united-kingdom-2020-05-16.html",
+  "djs": [
+    {
+      "name": "Nicole Moudaber",
+      "slug": "nicolemoudaber"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Matths",
+      "title": "Velocet",
+      "remix": "",
+      "label": "FATCAT",
+      "trackId": "4965758",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "515169",
+        "youtube": "515169",
+        "appleMusic": "515169"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Cleric",
+      "title": "Angel Of Death",
+      "remix": "",
+      "label": "CLERGY",
+      "trackId": "4965759",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 270,
+      "mediaIds": {
+        "spotify": "549315",
+        "youtube": "549315",
+        "soundcloud": "549315",
+        "appleMusic": "549315"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Keith Carnal",
+      "title": "Wonderful State",
+      "remix": "",
+      "label": "SECOND DEGREE",
+      "trackId": "4965760",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "449330",
+        "appleMusic": "449330"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Reizemann",
+      "title": "Skirmish",
+      "remix": "",
+      "label": "CLERGY",
+      "trackId": "4965761",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 750,
+      "mediaIds": {
+        "spotify": "578114",
+        "soundcloud": "578114",
+        "appleMusic": "578114"
+      },
+      "blendGroup": [
+        {
+          "artist": "Reizemann",
+          "title": "Skirmish",
+          "remix": "",
+          "trackId": "4965761"
+        },
+        {
+          "artist": "Memorial Home & Luigi Tozzi & KMYLE",
+          "title": "Earth (KMYLE Remix)",
+          "remix": "",
+          "trackId": "4965795"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Memorial Home & Luigi Tozzi & KMYLE",
+      "title": "Earth (KMYLE Remix)",
+      "remix": "",
+      "label": "FLYANCE",
+      "trackId": "4965795",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "515174"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Juliet Fox",
+      "title": "Our Fantasy",
+      "remix": "",
+      "label": "DRUMCODE",
+      "trackId": "4965837",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1560,
+      "mediaIds": {
+        "spotify": "577498",
+        "youtube": "577498",
+        "soundcloud": "577498",
+        "appleMusic": "577498"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1712627",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=mn9OfaUiw7o"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "1704696",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/Quaranstreams1"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:52:54.515Z",
+  "scrapeVersion": 2
+}

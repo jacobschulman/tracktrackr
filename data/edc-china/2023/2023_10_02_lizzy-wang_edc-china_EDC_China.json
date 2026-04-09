@@ -1,0 +1,596 @@
+{
+  "tlId": "1yutdpkk",
+  "dj": "Lizzy Wang",
+  "stage": "EDC China",
+  "date": "2023-10-02",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/1yutdpkk/lizzy-wang-stereobloom-edc-china-2023-10-02.html",
+  "djs": [
+    {
+      "name": "Lizzy Wang",
+      "slug": "lizzywang"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9722463",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Farruko ft. Victor Cardenas",
+      "title": "Pepas (Tiësto Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "9722464",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "720704",
+        "youtube": "720704",
+        "soundcloud": "720704",
+        "appleMusic": "720704"
+      },
+      "blendGroup": [
+        {
+          "artist": "Farruko ft. Victor Cardenas",
+          "title": "Pepas (Tiësto Remix)",
+          "remix": "",
+          "trackId": "9722464"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9722465"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9722465",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "03",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9722466",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "EMAD & AFROJACK",
+      "title": "Off The Wall",
+      "remix": "",
+      "label": "MDLBEAST",
+      "trackId": "9722467",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "872836",
+        "youtube": "872836",
+        "soundcloud": "872836",
+        "appleMusic": "872836"
+      },
+      "blendGroup": [
+        {
+          "artist": "EMAD & AFROJACK",
+          "title": "Off The Wall",
+          "remix": "",
+          "trackId": "9722467"
+        },
+        {
+          "artist": "Drake ft. Future & Young Thug",
+          "title": "Way 2 Sexy",
+          "remix": "",
+          "trackId": "9722468"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Drake ft. Future & Young Thug",
+      "title": "Way 2 Sexy",
+      "remix": "",
+      "label": "OVO",
+      "trackId": "9722468",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "723971",
+        "youtube": "723971",
+        "soundcloud": "723971",
+        "appleMusic": "723971"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "ACRAZE",
+      "title": "Take Me Away",
+      "remix": "",
+      "label": "THRIVE MUSIC/CAPITOL",
+      "trackId": "9722469",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "843166",
+        "youtube": "843166",
+        "soundcloud": "843166",
+        "appleMusic": "843166"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "MEDUZA ft. GOODBOYS",
+      "title": "Piece Of Your Heart (The Stickmen Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "9722470",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "500040",
+        "youtube": "500040",
+        "soundcloud": "500040",
+        "appleMusic": "500040"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "HEDEGAARD & Lizzy Wang & Brandon Beal",
+      "title": "The Ones We Lost (Lizzy Wang Remix)",
+      "remix": "",
+      "label": "ONEHUNDRED (SPINNIN')",
+      "trackId": "9722471",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "923208",
+        "soundcloud": "923208",
+        "appleMusic": "923208"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Mochakk",
+      "title": "False Need",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "9722472",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "786068",
+        "youtube": "786068",
+        "soundcloud": "786068",
+        "appleMusic": "786068"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Jack Harlow",
+      "title": "First Class (Gin And Sonic Tech House Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9722473",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "794578",
+        "soundcloud": "794578"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Lizzy Wang",
+      "title": "Share My Love",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "9722474",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "895408",
+        "youtube": "895408",
+        "soundcloud": "895408"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "David Guetta ft. Sia",
+      "title": "Titanium(Co-Prod. by AFROJACK)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "9722475",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "42436",
+        "youtube": "42436",
+        "soundcloud": "42436",
+        "appleMusic": "42436"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Aqua",
+      "title": "Barbie Girl (TMMT Unofficial Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "9722476",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Tiësto & Mathame",
+      "title": "Feel Your Ghost",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "9722477",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "889030",
+        "youtube": "889030",
+        "soundcloud": "889030",
+        "appleMusic": "889030"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9722478",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "James Hype & Robert Miles & Camelphat",
+      "title": "Cola & Children (Mambo Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "9722479",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "9722479"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9722480",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "FISHER vs. ABBA vs. David Guetta vs. Galantis vs. Avicii",
+      "title": "Losin It (Nath Jennings Vocal Party Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "9722481",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "FISHER vs. ABBA vs. David Guetta vs. Galantis vs. Avicii",
+          "title": "Losin It (Nath Jennings Vocal Party Edit)",
+          "remix": "",
+          "trackId": "9722481"
+        },
+        {
+          "artist": "Kapuchon",
+          "title": "10 Years Later",
+          "remix": "",
+          "trackId": "9722482"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kapuchon",
+      "title": "10 Years Later",
+      "remix": "",
+      "label": "KAPUCHON (WALL)",
+      "trackId": "9722482",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "624047",
+        "youtube": "624047",
+        "soundcloud": "624047",
+        "appleMusic": "624047"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Sharam Jey & Chemical Surf & Illusionize",
+      "title": "Bass (Illusionize Rework)",
+      "remix": "",
+      "label": "BUNNY TIGER",
+      "trackId": "9722483",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "874551",
+        "youtube": "874551",
+        "soundcloud": "874551",
+        "appleMusic": "874551"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Super Mario Bros",
+      "title": "Underworld Theme (Fox'd Up)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "9722484",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "872821"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Eli Brown",
+      "title": "Welcome To My House",
+      "remix": "",
+      "label": "TRICK",
+      "trackId": "9722485",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "808795",
+        "youtube": "808795",
+        "soundcloud": "808795"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9722486",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9722487",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9722488",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Matroda",
+      "title": "Mozart",
+      "remix": "",
+      "label": "TERMINAL UNDERGROUND",
+      "trackId": "9722489",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "840528",
+        "youtube": "840528",
+        "soundcloud": "840528",
+        "appleMusic": "840528"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Lizzy Wang ft. Mer",
+      "title": "What You Made (2023 Mix)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "9722490",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "938755"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9722491",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9722492",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Lizzy Wang & Tom King",
+      "title": "Feels So Right",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "9722493",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "911412"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "David Guetta ft. Bebe Rexha",
+      "title": "I'm Good (Blue)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "9722494",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "351861",
+        "youtube": "351861",
+        "soundcloud": "351861",
+        "appleMusic": "351861"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "ALOK & Ava Max",
+      "title": "Car Keys (Ayla) (Tiësto Remix)",
+      "remix": "",
+      "label": "B1 (SONY)",
+      "trackId": "9722495",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "910041",
+        "youtube": "910041",
+        "soundcloud": "910041",
+        "appleMusic": "910041"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9722496",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "3762667",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1648252935"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:31:03.262Z",
+  "scrapeVersion": 2
+}

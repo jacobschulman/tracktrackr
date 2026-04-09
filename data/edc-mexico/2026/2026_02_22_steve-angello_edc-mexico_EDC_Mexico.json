@@ -1,0 +1,635 @@
+{
+  "tlId": "xgqxtj1",
+  "dj": "Steve Angello",
+  "stage": "EDC Mexico",
+  "date": "2026-02-22",
+  "year": 2026,
+  "url": "https://www.1001tracklists.com/tracklist/xgqxtj1/steve-angello-kineticfield-edc-mexico-2026-02-22.html",
+  "djs": [
+    {
+      "name": "Steve Angello",
+      "slug": "steveangello"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Steve Angello & Sebastian Ingrosso",
+      "title": "Tear The Club Up",
+      "remix": "(Intro Edit)",
+      "label": "SUPERHUMAN",
+      "trackId": "13507756",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1084861",
+        "soundcloud": "1084861"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Swedish House Mafia ft. Tinie Tempah",
+      "title": "Miami 2 Ibiza (Paradise Again Edit)",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "13507757",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 200,
+      "mediaIds": {
+        "spotify": "790306",
+        "youtube": "790306",
+        "soundcloud": "790306",
+        "appleMusic": "790306"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia ft. Tinie Tempah",
+          "title": "Miami 2 Ibiza (Paradise Again Edit)",
+          "remix": "",
+          "trackId": "13507757"
+        },
+        {
+          "artist": "Booka Shade vs. Ivan Gough & Feenixpawl & Axwell ft. Georgi Kay",
+          "title": "Love Inc vs. In My Mind (Axwell Mashup)",
+          "remix": "",
+          "trackId": "13507758"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Booka Shade vs. Ivan Gough & Feenixpawl & Axwell ft. Georgi Kay",
+      "title": "Love Inc vs. In My Mind (Axwell Mashup)",
+      "remix": "",
+      "label": "AXTONE/BLAUFIELD",
+      "trackId": "13507758",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Booka Shade vs. Ivan Gough & Feenixpawl & Axwell ft. Georgi Kay",
+          "title": "Love Inc vs. In My Mind (Axwell Mashup)",
+          "remix": "",
+          "trackId": "13507758"
+        },
+        {
+          "artist": "Swedish House Mafia",
+          "title": "Can U Feel It",
+          "remix": "(Acappella)",
+          "trackId": "13507759"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia",
+      "title": "Can U Feel It",
+      "remix": "(Acappella)",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "13507759",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "786071",
+        "youtube": "786071",
+        "soundcloud": "786071",
+        "appleMusic": "786071"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Chicane & Axwell vs. Swedish House Mafia vs. Opus III vs. Rui Da Silva & Cassandra Fox",
+      "title": "Offshore vs. Greyhound vs. Fine Day vs. Touch Me (Swedish House Mafia Mashup)",
+      "remix": "",
+      "label": "KISMET/EMI/PWL/MODENA (ARMADA)",
+      "trackId": "13507760",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 435,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Steve Angello",
+      "title": "Hooligans",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "13507761",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 630,
+      "mediaIds": {
+        "spotify": "1044517",
+        "youtube": "1044517",
+        "soundcloud": "1044517",
+        "appleMusic": "1044517"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Yaro vs. Travis Scott & Kendrick Lamar vs. Zombie Nation & James Hype",
+      "title": "Deep vs. Goosebumps vs. Kernkraft 400 (Axwell Mashup)",
+      "remix": "",
+      "label": "EPIC (SONY BMG)/EPM/SUPERHUMAN",
+      "trackId": "13507762",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 815,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "HIISAK & Reeva",
+      "title": "KILLA",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "13507763",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 960,
+      "mediaIds": {
+        "spotify": "1150833",
+        "youtube": "1150833",
+        "soundcloud": "1150833",
+        "appleMusic": "1150833"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Steve Angello & Basement Jaxx",
+      "title": "Where's Your Head At?",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "13507764",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1110,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Cirez D",
+      "title": "On Off (Kapuchon Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13507765",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1285,
+      "mediaIds": {
+        "youtube": "1066093",
+        "soundcloud": "1066093"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cirez D",
+          "title": "On Off (Kapuchon Edit)",
+          "remix": "",
+          "trackId": "13507765"
+        },
+        {
+          "artist": "Swedish House Mafia ft. Mapei",
+          "title": "Time(Co-Prod. by Enzo Ingrosso)",
+          "remix": "(Acappella)",
+          "trackId": "13660630"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia ft. Mapei",
+      "title": "Time(Co-Prod. by Enzo Ingrosso)",
+      "remix": "(Acappella)",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "13660630",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "788005",
+        "youtube": "788005",
+        "soundcloud": "788005",
+        "appleMusic": "788005"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Nari & Milani",
+      "title": "Atom (Immersed Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "13507767",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1485,
+      "mediaIds": {
+        "soundcloud": "919021"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nari & Milani",
+          "title": "Atom (Immersed Remix)",
+          "remix": "",
+          "trackId": "13507767"
+        },
+        {
+          "artist": "Axwell & Sebastian Ingrosso & Steve Angello & Laidback Luke ft. Deborah Cox",
+          "title": "Leave The World Behind (Acappella)",
+          "remix": "",
+          "trackId": "13507768"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Axwell & Sebastian Ingrosso & Steve Angello & Laidback Luke ft. Deborah Cox",
+      "title": "Leave The World Behind (Acappella)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "13507768",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3679",
+        "youtube": "3679",
+        "soundcloud": "3679",
+        "appleMusic": "13033"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Eric Prydz",
+      "title": "Pjanoo (LAWZ Remix)",
+      "remix": "",
+      "label": "PRYDA",
+      "trackId": "13507769",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1642,
+      "mediaIds": {
+        "youtube": "924867",
+        "soundcloud": "924867"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Eric Prydz vs. Steve Angello & Laidback Luke vs. Robin S",
+      "title": "Opus vs. Be vs. Show Me Love (Steve Angello Live Edit)",
+      "remix": "",
+      "label": "MIXMASH/PRYDA/VIRGIN",
+      "trackId": "13507770",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Swedish House Mafia vs. Eurythmics & Steve Angello vs. Pharrell Williams",
+      "title": "One (Your Name) vs. Sweet Dreams (Swedish House Mafia Mashup)",
+      "remix": "",
+      "label": "BIG MACHINE/RCA/ASTRALWERKS (UMG)",
+      "trackId": "13507771",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2095,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Avicii",
+      "title": "Levels",
+      "remix": "",
+      "label": "LE7ELS/UMG",
+      "trackId": "13507772",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2360,
+      "mediaIds": {
+        "spotify": "33255",
+        "youtube": "33255",
+        "soundcloud": "33255",
+        "appleMusic": "33255"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Save The World (NC Edit)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "13507773",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2534,
+      "mediaIds": {
+        "youtube": "493465"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Save The World (NC Edit)",
+          "remix": "",
+          "trackId": "13507773"
+        },
+        {
+          "artist": "Sebastian Ingrosso & Tommy Trash & John Martin vs. Green Velvet & Nicky Romero",
+          "title": "Reload vs. Flash (Axwell Λ Ingrosso Mashup)",
+          "remix": "",
+          "trackId": "13507774"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sebastian Ingrosso & Tommy Trash & John Martin vs. Green Velvet & Nicky Romero",
+      "title": "Reload vs. Flash (Axwell Λ Ingrosso Mashup)",
+      "remix": "",
+      "label": "RELIEF/REFUNE",
+      "trackId": "13507774",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "15",
+      "artist": "Steve Angello vs. Matisse & Sadko",
+      "title": "SLVR",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "13507775",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2800,
+      "mediaIds": {
+        "spotify": "126863",
+        "youtube": "126863",
+        "soundcloud": "126863",
+        "appleMusic": "126863"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Swedish House Mafia & Connie Constance",
+      "title": "Heaven Takes You Home(Co-Prod. by Klahr) (Swedish House Mafia Remake)",
+      "remix": "",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "13507776",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2870,
+      "mediaIds": {
+        "spotify": "1123139",
+        "youtube": "1123139",
+        "soundcloud": "1123139",
+        "appleMusic": "1123139"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Steve Angello ft. Dougy Mandagi from The Temper Trap",
+      "title": "Wasted Love (Grum Remix)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "13507777",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3105,
+      "mediaIds": {
+        "spotify": "225684",
+        "youtube": "225684",
+        "soundcloud": "225684",
+        "appleMusic": "225684"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Supermode",
+      "title": "Tell Me Why (MEDUZA Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "13507778",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3312,
+      "mediaIds": {
+        "spotify": "821909",
+        "youtube": "821909",
+        "soundcloud": "821909",
+        "appleMusic": "821909"
+      },
+      "blendGroup": [
+        {
+          "artist": "Supermode",
+          "title": "Tell Me Why (MEDUZA Remix)",
+          "remix": "",
+          "trackId": "13507778"
+        },
+        {
+          "artist": "Benwal",
+          "title": "Dive",
+          "remix": "",
+          "trackId": "13507779"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Benwal",
+      "title": "Dive",
+      "remix": "",
+      "label": "NOUW",
+      "trackId": "13507779",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1085527",
+        "youtube": "1085527",
+        "soundcloud": "1085527",
+        "appleMusic": "1085527"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Don't You Worry Child",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "13507780",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3540,
+      "mediaIds": {
+        "spotify": "84601",
+        "youtube": "84601",
+        "soundcloud": "84601",
+        "appleMusic": "84601"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Don't You Worry Child",
+          "remix": "",
+          "trackId": "13507780"
+        },
+        {
+          "artist": "Swedish House Mafia ft. John Martin",
+          "title": "Don't You Worry Child (Swedish House Mafia Rework)",
+          "remix": "",
+          "trackId": "13507781"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia ft. John Martin",
+      "title": "Don't You Worry Child (Swedish House Mafia Rework)",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "13507781",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "20",
+      "artist": "Swedish House Mafia",
+      "title": "Ray Of Solar",
+      "remix": "",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "13507782",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3880,
+      "mediaIds": {
+        "spotify": "904672",
+        "youtube": "904672",
+        "soundcloud": "904672",
+        "appleMusic": "904672"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia",
+          "title": "Ray Of Solar",
+          "remix": "",
+          "trackId": "13507782"
+        },
+        {
+          "artist": "Fred again.. & Swedish House Mafia ft. Future",
+          "title": "Turn On The Lights Again..",
+          "remix": "",
+          "trackId": "13507783"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fred again.. & Swedish House Mafia ft. Future",
+      "title": "Turn On The Lights Again..",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "13507783",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "788426",
+        "youtube": "788426",
+        "soundcloud": "788426",
+        "appleMusic": "788426"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13507784",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 4110,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "RÜFÜS DU SOL vs. Steve Angello & Dimitri Vangelis & Wyman",
+      "title": "Innerbloom vs. Payback (Steve Angello Mashup)",
+      "remix": "",
+      "label": "COLUMBIA/SIZE/SWEAT IT OUT!",
+      "trackId": "13507785",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 4245,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "RÜFÜS DU SOL vs. Steve Angello & Dimitri Vangelis & Wyman",
+          "title": "Innerbloom vs. Payback (Steve Angello Mashup)",
+          "remix": "",
+          "trackId": "13507785"
+        },
+        {
+          "artist": "Sebastian Ingrosso",
+          "title": "Flood",
+          "remix": "",
+          "trackId": "13507786"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sebastian Ingrosso",
+      "title": "Flood",
+      "remix": "",
+      "label": "SUPERHUMAN",
+      "trackId": "13507786",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1044460",
+        "youtube": "1044460",
+        "soundcloud": "1044460",
+        "appleMusic": "1044460"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "5227802",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=b_V7YbXQQkI"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:30:23.261Z",
+  "scrapeVersion": 2
+}

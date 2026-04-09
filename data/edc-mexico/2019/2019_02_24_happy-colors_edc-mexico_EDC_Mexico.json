@@ -1,0 +1,209 @@
+{
+  "tlId": "1wr7h6x1",
+  "dj": "Happy Colors",
+  "stage": "EDC Mexico",
+  "date": "2019-02-24",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/1wr7h6x1/happy-colors-circuitgrounds-edc-mexico-2019-02-24.html",
+  "djs": [
+    {
+      "name": "Happy Colors",
+      "slug": "happycolors"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Happy Colors",
+      "title": "Deja la Puteria (Coño)",
+      "remix": "",
+      "label": "LA CLINICA",
+      "trackId": "4072356",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "419577",
+        "appleMusic": "419577"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "LOOJAN ft. Happy Colors & Godwonder",
+      "title": "A Lo Loco",
+      "remix": "",
+      "label": "EVT",
+      "trackId": "4072357",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "419582",
+        "appleMusic": "419582"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Toño Rosario",
+      "title": "Kulikitaka",
+      "remix": "",
+      "label": "AE",
+      "trackId": "4072359",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "244836",
+        "youtube": "244836",
+        "soundcloud": "244836",
+        "appleMusic": "244836"
+      },
+      "blendGroup": [
+        {
+          "artist": "Toño Rosario",
+          "title": "Kulikitaka",
+          "remix": "",
+          "trackId": "4072359"
+        },
+        {
+          "artist": "Happy Colors & Los Dutis",
+          "title": "Frakatán",
+          "remix": "",
+          "trackId": "4072360"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Happy Colors & Los Dutis",
+      "title": "Frakatán",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "4072360",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "351773",
+        "youtube": "351773",
+        "soundcloud": "351773",
+        "appleMusic": "351773"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Los Tigres Del Norte",
+      "title": "La Puerta Negra (Christian Busto Remix)",
+      "remix": "",
+      "label": "FONOVISA",
+      "trackId": "4072361",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Wuki & Benzi",
+      "title": "We Like To Fuck That Shit",
+      "remix": "",
+      "label": "WUKILEAKS/VIOLENT/WAX/BARONG FAMILY",
+      "trackId": "4072362",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "383849"
+      },
+      "blendGroup": [
+        {
+          "artist": "Wuki & Benzi",
+          "title": "We Like To Fuck That Shit",
+          "remix": "",
+          "trackId": "4072362"
+        },
+        {
+          "artist": "D-John & Ivan Dola",
+          "title": "Burna",
+          "remix": "",
+          "trackId": "4072363"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "D-John & Ivan Dola",
+      "title": "Burna",
+      "remix": "",
+      "label": "MMXVAC",
+      "trackId": "4072363",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "502973",
+        "youtube": "502973",
+        "soundcloud": "502973",
+        "appleMusic": "502973"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Alemán",
+      "title": "Rucón (Noizekid Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "4072364",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "495358"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Happy Colors & Noizekid",
+      "title": "El Rompe Condones y el Dobla Rodilla",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "4072365",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "490656",
+        "appleMusic": "490656"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Happy Colors & Jay Silva",
+      "title": "La Numero 4",
+      "remix": "",
+      "label": "LATIN FAMILY (BARONG FAMILY)",
+      "trackId": "4072366",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "490657",
+        "soundcloud": "490657",
+        "appleMusic": "490657"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T18:12:51.360Z",
+  "scrapeVersion": 2
+}

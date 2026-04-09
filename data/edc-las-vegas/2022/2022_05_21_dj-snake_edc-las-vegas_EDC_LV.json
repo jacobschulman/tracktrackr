@@ -1,0 +1,636 @@
+{
+  "tlId": "l1ks8b1",
+  "dj": "DJ Snake",
+  "stage": "EDC Las Vegas",
+  "date": "2022-05-21",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/l1ks8b1/dj-snake-kineticfield-edc-las-vegas-united-states-2022-05-21.html",
+  "djs": [
+    {
+      "name": "DJ Snake",
+      "slug": "djsnake"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Crankdat & Bandlez",
+      "title": "Ground Shake",
+      "remix": "(DJ Snake Intro)",
+      "label": "DISCIPLE",
+      "trackId": "7714733",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "825547",
+        "youtube": "825547",
+        "soundcloud": "825547",
+        "appleMusic": "825547"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Bellorum",
+      "title": "Disorder",
+      "remix": "",
+      "label": "DONTSLEEPHQ",
+      "trackId": "7714734",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 128,
+      "mediaIds": {
+        "spotify": "760064",
+        "youtube": "760064",
+        "soundcloud": "760064",
+        "appleMusic": "760064"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "ShockOne",
+      "title": "It's All Over",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "7714735",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 190,
+      "mediaIds": {
+        "spotify": "576580",
+        "youtube": "576580",
+        "soundcloud": "576580",
+        "appleMusic": "576580"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Ray Volpe",
+      "title": "Screechy Song",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "7714737",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 240,
+      "mediaIds": {
+        "spotify": "794200",
+        "youtube": "794200",
+        "soundcloud": "794200",
+        "appleMusic": "794200"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ray Volpe",
+          "title": "Screechy Song",
+          "remix": "",
+          "trackId": "7714737"
+        },
+        {
+          "artist": "Knife Party ft. MistaJam",
+          "title": "Sleaze (Acappella)",
+          "remix": "",
+          "trackId": "7714736"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party ft. MistaJam",
+      "title": "Sleaze (Acappella)",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "7714736",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "42143",
+        "youtube": "42143",
+        "soundcloud": "42143",
+        "appleMusic": "42143"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "DJ Snake & Eptic",
+      "title": "SouthSide",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "7714738",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 315,
+      "mediaIds": {
+        "spotify": "480201",
+        "youtube": "480201",
+        "soundcloud": "480201",
+        "appleMusic": "480201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Crankdat & Tisoki",
+      "title": "Wobble",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "7714739",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 425,
+      "mediaIds": {
+        "spotify": "444212",
+        "youtube": "444212",
+        "soundcloud": "444212",
+        "appleMusic": "444212"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "DJ Snake ft. Lauv",
+      "title": "A Different Way (KANDY Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7714740",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 492,
+      "mediaIds": {
+        "youtube": "433458",
+        "soundcloud": "433458"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake ft. Lauv",
+          "title": "A Different Way (KANDY Remix)",
+          "remix": "",
+          "trackId": "7714740"
+        },
+        {
+          "artist": "RL Grime",
+          "title": "Core",
+          "remix": "",
+          "trackId": "7714741"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RL Grime",
+      "title": "Core",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "7714741",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "205232",
+        "youtube": "205232",
+        "soundcloud": "205232",
+        "appleMusic": "205232"
+      },
+      "blendGroup": [
+        {
+          "artist": "RL Grime",
+          "title": "Core",
+          "remix": "",
+          "trackId": "7714741"
+        },
+        {
+          "artist": "DJ Snake",
+          "title": "Trust Nobody",
+          "remix": "",
+          "trackId": "7714742"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Snake",
+      "title": "Trust Nobody",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "7714742",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "593783",
+        "youtube": "593783",
+        "soundcloud": "593783",
+        "appleMusic": "593783"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "GTA & Vlien Boy",
+      "title": "DJ Tool 8",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "7714743",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 598,
+      "mediaIds": {
+        "spotify": "448112",
+        "youtube": "448112",
+        "soundcloud": "448112",
+        "appleMusic": "448112"
+      },
+      "blendGroup": [
+        {
+          "artist": "GTA & Vlien Boy",
+          "title": "DJ Tool 8",
+          "remix": "",
+          "trackId": "7714743"
+        },
+        {
+          "artist": "DJ Snake",
+          "title": "Magenta Riddim",
+          "remix": "",
+          "trackId": "7714744"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Snake",
+      "title": "Magenta Riddim",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "7714744",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "402076",
+        "youtube": "402076",
+        "soundcloud": "402076",
+        "appleMusic": "402076"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake",
+          "title": "Magenta Riddim",
+          "remix": "",
+          "trackId": "7714744"
+        },
+        {
+          "artist": "DJ Snake",
+          "title": "Magenta Riddim (Bart B More Remix)",
+          "remix": "",
+          "trackId": "7714745"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Snake",
+      "title": "Magenta Riddim (Bart B More Remix)",
+      "remix": "",
+      "label": "GEFFEN (UMG)",
+      "trackId": "7714745",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "438474",
+        "soundcloud": "438474"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake",
+          "title": "Magenta Riddim (Bart B More Remix)",
+          "remix": "",
+          "trackId": "7714745"
+        },
+        {
+          "artist": "Skrillex & Wolfgang Gartner",
+          "title": "The Devil's Den (VIP)",
+          "remix": "",
+          "trackId": "7714746"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Wolfgang Gartner",
+      "title": "The Devil's Den (VIP)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "7714746",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "166870",
+        "soundcloud": "166870",
+        "appleMusic": "166870"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Jack Ü vs. Wiwek & Moksi",
+      "title": "Jungle Bae vs. Masta (DJ Snake Edit)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)/BARONG FAMILY",
+      "trackId": "7714747",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 800,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "DJ Snake",
+      "title": "Nightbird",
+      "remix": "",
+      "label": "INTERSCOPE/DJ SNAKE",
+      "trackId": "7714750",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 860,
+      "mediaIds": {
+        "spotify": "840534",
+        "youtube": "840534",
+        "soundcloud": "840534",
+        "appleMusic": "840534"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Knock2",
+      "title": "JADE",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "7714751",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1005,
+      "mediaIds": {
+        "spotify": "780014",
+        "youtube": "780014",
+        "soundcloud": "780014",
+        "appleMusic": "780014"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Skrillex & JAUZ ft. Fatman Scoop",
+      "title": "Squad Out (Acappella)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "7714752",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1090,
+      "mediaIds": {
+        "spotify": "268533",
+        "youtube": "376613",
+        "soundcloud": "268533",
+        "appleMusic": "268533"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & JAUZ ft. Fatman Scoop",
+          "title": "Squad Out (Acappella)",
+          "remix": "",
+          "trackId": "7714752"
+        },
+        {
+          "artist": "Riot Ten ft. Bok Nero",
+          "title": "Came To Rage",
+          "remix": "",
+          "trackId": "7714753"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Riot Ten ft. Bok Nero",
+      "title": "Came To Rage",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "7714753",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "708810",
+        "youtube": "708810",
+        "soundcloud": "708810",
+        "appleMusic": "708810"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Yellow Claw & Juyen Sebulba",
+      "title": "Do You Like Bass?",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "7714754",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1125,
+      "mediaIds": {
+        "spotify": "378362",
+        "youtube": "378362",
+        "soundcloud": "378362",
+        "appleMusic": "378362"
+      },
+      "blendGroup": [
+        {
+          "artist": "Yellow Claw & Juyen Sebulba",
+          "title": "Do You Like Bass?",
+          "remix": "",
+          "trackId": "7714754"
+        },
+        {
+          "artist": "JAUZ & DJ Snake",
+          "title": "Gassed Up",
+          "remix": "",
+          "trackId": "7714755"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAUZ & DJ Snake",
+      "title": "Gassed Up",
+      "remix": "",
+      "label": "BITE THIS!",
+      "trackId": "7714755",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "376599",
+        "youtube": "376599",
+        "soundcloud": "376599",
+        "appleMusic": "376599"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Alice Deejay vs. JAUZ & DJ Snake",
+      "title": "Be Better Off Alone vs. Gassed Up (Aazar Edit)",
+      "remix": "",
+      "label": "VIOLENT/BITE THIS!",
+      "trackId": "7714756",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1197,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "A$AP Ferg vs. MERCER & DJ Snake vs. Eptic & Breaux vs. Zombie Nation & W&W vs. Flosstradamus & Valentino Khan vs. Zomboy",
+      "title": "Work vs. Lunatic vs. The End vs. Kernkraft 400 vs. M.F.U. (Middle Fingers Up) vs. Like A Bitch (Slushii Edit / Benzi Re-Flip)",
+      "remix": "",
+      "label": "A$AP/SPINNIN'/EPM/ULTRA/FOOL'S GOLD/NEVER SAY DIE",
+      "trackId": "7714757",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1277,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "A$AP Ferg vs. MERCER & DJ Snake vs. Eptic & Breaux vs. Zombie Nation & W&W vs. Flosstradamus & Valentino Khan vs. Zomboy",
+          "title": "Work vs. Lunatic vs. The End vs. Kernkraft 400 vs. M.F.U. (Middle Fingers Up) vs. Like A Bitch (Slushii Edit / Benzi Re-Flip)",
+          "remix": "",
+          "trackId": "7714757"
+        },
+        {
+          "artist": "Psycho Boys Club",
+          "title": "Death Grips",
+          "remix": "",
+          "trackId": "7714758"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Psycho Boys Club",
+      "title": "Death Grips",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "7714758",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "621301",
+        "youtube": "621301",
+        "soundcloud": "621301",
+        "appleMusic": "621301"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Shouse",
+      "title": "Love Tonight (Junkie Kid Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "7714759",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1362,
+      "mediaIds": {
+        "youtube": "721927",
+        "soundcloud": "721927"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "DJ Snake",
+      "title": "Propaganda",
+      "remix": "",
+      "label": "DJ SNAKE/INTERSCOPE",
+      "trackId": "7714760",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1460,
+      "mediaIds": {
+        "spotify": "288201",
+        "youtube": "288201",
+        "soundcloud": "288201",
+        "appleMusic": "288201"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "DJ Snake",
+      "title": "Propaganda (Skellism Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "7714761",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1530,
+      "mediaIds": {
+        "spotify": "297117",
+        "youtube": "297117",
+        "soundcloud": "297117",
+        "appleMusic": "297117"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "DJ Snake ft. Justin Bieber",
+      "title": "Let Me Love You (DJ Snake VIP Intro)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "7714762",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "DJ Snake ft. Justin Bieber",
+      "title": "Let Me Love You",
+      "remix": "",
+      "label": "DJ SNAKE/DEF JAM",
+      "trackId": "7714763",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "320666",
+        "youtube": "320666",
+        "soundcloud": "320666",
+        "appleMusic": "320666"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2834485",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=msOmrjPRZY8"
+    }
+  ],
+  "scrapedAt": "2026-04-08T04:57:38.261Z",
+  "scrapeVersion": 2
+}

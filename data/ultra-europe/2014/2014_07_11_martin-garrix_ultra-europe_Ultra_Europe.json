@@ -1,0 +1,681 @@
+{
+  "tlId": "12dx7y1",
+  "dj": "Martin Garrix",
+  "stage": "Ultra Europe",
+  "date": "2014-07-11",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/12dx7y1/martin-garrix-ultra-europe-croatia-2014-07-11.html",
+  "djs": [
+    {
+      "name": "Martin Garrix",
+      "slug": "martingarrix"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Martin Garrix vs. Jay Hardway vs. Dimitri Vegas & Like Mike",
+      "title": "Wizard vs. Animals vs. Tremor (Martin Garrix Intro Edit)",
+      "remix": "",
+      "label": "STMPD/SPINNIN'",
+      "trackId": "980375",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 46,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Martin Garrix & Dimitri Vegas & Like Mike vs. Naughty Boy & James Egbert ft. Hardwell & W&W",
+      "title": "Tremor vs. La La La (Bassjackers Mashup)",
+      "remix": "",
+      "label": "REVEALED/SPINNIN'/EMI",
+      "trackId": "980376",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 126,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Afrojack & Martin Garrix vs. John Legend",
+      "title": "Turn Up The Speakers vs. All Of Me (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/COLUMBIA (SONY)",
+      "trackId": "980378",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 318,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Bassjackers",
+      "title": "Like That",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "980380",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 588,
+      "mediaIds": {
+        "spotify": "203917",
+        "youtube": "203917",
+        "soundcloud": "203917",
+        "appleMusic": "203917"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bassjackers",
+          "title": "Like That",
+          "remix": "",
+          "trackId": "980380"
+        },
+        {
+          "artist": "Mark Knight & Koen Groeneveld",
+          "title": "Put Your Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "980379"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mark Knight & Koen Groeneveld",
+      "title": "Put Your Hands Up (Acappella)",
+      "remix": "",
+      "label": "TOOLROOM TRAX",
+      "trackId": "980379",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 644,
+      "mediaIds": {
+        "spotify": "12247",
+        "youtube": "12450"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Martin Garrix & MOTi ft. Jenny Wahlström",
+      "title": "Virus (How About Now) (Instrumental)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "980381",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 719,
+      "mediaIds": {
+        "youtube": "205099",
+        "soundcloud": "205099"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Duck Sauce",
+      "title": "NRG (Skrillex & Kill The Noise & Milo & Otis Remix)",
+      "remix": "",
+      "label": "FOOL'S GOLD",
+      "trackId": "980933",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 883,
+      "mediaIds": {
+        "spotify": "186128",
+        "youtube": "186128",
+        "soundcloud": "186128",
+        "appleMusic": "186128"
+      },
+      "blendGroup": [
+        {
+          "artist": "Duck Sauce",
+          "title": "NRG (Skrillex & Kill The Noise & Milo & Otis Remix)",
+          "remix": "",
+          "trackId": "980933"
+        },
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "980382"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+      "title": "Put Ya Fuckin Hands Up (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "980382",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 920,
+      "mediaIds": {
+        "youtube": "16909",
+        "soundcloud": "16909"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Calvin Harris",
+      "title": "C.U.B.A",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "980383",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 988,
+      "mediaIds": {
+        "spotify": "200708",
+        "youtube": "200708",
+        "soundcloud": "200708",
+        "appleMusic": "200708"
+      },
+      "blendGroup": [
+        {
+          "artist": "Calvin Harris",
+          "title": "C.U.B.A",
+          "remix": "",
+          "trackId": "980383"
+        },
+        {
+          "artist": "Justice vs. Simian",
+          "title": "We Are Your Friends (Acappella)",
+          "remix": "",
+          "trackId": "980467"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice vs. Simian",
+      "title": "We Are Your Friends (Acappella)",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "980467",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 1025,
+      "mediaIds": {
+        "spotify": "8095",
+        "youtube": "8095",
+        "soundcloud": "3157",
+        "appleMusic": "8095"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Martin Garrix",
+      "title": "Animals (Botnek Edit)",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "980384",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1150,
+      "mediaIds": {
+        "spotify": "156208",
+        "youtube": "156208",
+        "soundcloud": "156208",
+        "appleMusic": "156208"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Dimitri Vegas & Like Mike & Sander Van Doorn & Martin Garrix vs. Sebastian Ingrosso & Tommy Trash vs. Chocolate Puma vs. Sunnery James & Ryan Marciano",
+      "title": "Project T vs. Reload vs. Whohadchants vs. Lethal Industry (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "980567",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1340,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Sander van Doorn & Martin Garrix & DVBBS ft. Aleesia",
+      "title": "Gold Skies",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "980388",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1612,
+      "mediaIds": {
+        "spotify": "182675",
+        "youtube": "182675",
+        "soundcloud": "182675",
+        "appleMusic": "182675"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Alesso",
+      "title": "Raise Your Head (Acappella)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "980389",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1735,
+      "mediaIds": {
+        "spotify": "47971",
+        "youtube": "81528",
+        "soundcloud": "81528",
+        "appleMusic": "47971"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso",
+          "title": "Raise Your Head (Acappella)",
+          "remix": "",
+          "trackId": "980389"
+        },
+        {
+          "artist": "David Guetta & GLOWINTHEDARK ft. Harrison",
+          "title": "Ain't A Party (Let Me See Your Fuckin Hands Acappella)",
+          "remix": "",
+          "trackId": "980493"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta & GLOWINTHEDARK ft. Harrison",
+      "title": "Ain't A Party (Let Me See Your Fuckin Hands Acappella)",
+      "remix": "",
+      "label": "JACK BACK",
+      "trackId": "980493",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1744,
+      "mediaIds": {
+        "spotify": "125192",
+        "youtube": "125192",
+        "soundcloud": "125192",
+        "appleMusic": "125192"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Guetta & GLOWINTHEDARK ft. Harrison",
+          "title": "Ain't A Party (Let Me See Your Fuckin Hands Acappella)",
+          "remix": "",
+          "trackId": "980493"
+        },
+        {
+          "artist": "Bassjackers",
+          "title": "Crackin (Martin Garrix Edit)",
+          "remix": "",
+          "trackId": "980869"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bassjackers",
+      "title": "Crackin (Martin Garrix Edit)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "980869",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1746,
+      "mediaIds": {
+        "spotify": "170526",
+        "youtube": "170526",
+        "soundcloud": "170526",
+        "appleMusic": "170526"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bassjackers",
+          "title": "Crackin (Martin Garrix Edit)",
+          "remix": "",
+          "trackId": "980869"
+        },
+        {
+          "artist": "Jacob Plant",
+          "title": "Fire (Acappella)",
+          "remix": "",
+          "trackId": "980390"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jacob Plant",
+      "title": "Fire (Acappella)",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "980390",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "129559",
+        "youtube": "129559",
+        "soundcloud": "201515",
+        "appleMusic": "129559"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jacob Plant",
+          "title": "Fire (Acappella)",
+          "remix": "",
+          "trackId": "980390"
+        },
+        {
+          "artist": "Eric Prydz",
+          "title": "Every Day",
+          "remix": "",
+          "trackId": "980870"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eric Prydz",
+      "title": "Every Day",
+      "remix": "",
+      "label": "PRYDA",
+      "trackId": "980870",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1891,
+      "mediaIds": {
+        "spotify": "76435",
+        "youtube": "76435",
+        "soundcloud": "76435",
+        "appleMusic": "76435"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Martin Garrix & Firebeatz vs. Swedish House Mafia & Knife Party vs. Zedd & Lucky Date vs. Icona Pop",
+      "title": "Helicopter vs. Antidote vs. Fall Into The Sky vs. I Love It (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "VIRGIN/POPHOUSE/BIG BEAT (ATLANTIC)/INTERSCOPE/SPINNIN'",
+      "trackId": "980391",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1982,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Martin Garrix",
+      "title": "Proxy",
+      "remix": "",
+      "label": "SPINNIN'/FREE",
+      "trackId": "980394",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2174,
+      "mediaIds": {
+        "spotify": "180710",
+        "youtube": "180710",
+        "soundcloud": "180710",
+        "appleMusic": "180710"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Garrix",
+          "title": "Proxy",
+          "remix": "",
+          "trackId": "980394"
+        },
+        {
+          "artist": "Ivan Gough & Jebu",
+          "title": "Noxu",
+          "remix": "",
+          "trackId": "980610"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ivan Gough & Jebu",
+      "title": "Noxu",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "980610",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 2269,
+      "mediaIds": {
+        "spotify": "171539",
+        "youtube": "171539",
+        "soundcloud": "171539",
+        "appleMusic": "171539"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Martin Garrix & Jay Hardway",
+      "title": "Wizard",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "980611",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2384,
+      "mediaIds": {
+        "spotify": "158407",
+        "youtube": "158407",
+        "soundcloud": "158407",
+        "appleMusic": "158407"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Rave Radio vs. Calvin Harris vs. TJR",
+      "title": "Rumble Summer (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "RISING/ONES TO WATCH (MIXMASH)/COLUMBIA (SONY)",
+      "trackId": "980613",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2564,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Firebeatz & Schella",
+      "title": "Switch",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "980615",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2684,
+      "mediaIds": {
+        "spotify": "211549",
+        "youtube": "211549",
+        "soundcloud": "211549",
+        "appleMusic": "211549"
+      },
+      "blendGroup": [
+        {
+          "artist": "Firebeatz & Schella",
+          "title": "Switch",
+          "remix": "",
+          "trackId": "980615"
+        },
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "982869"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+      "title": "Put Ya Fuckin Hands Up (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "982869",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 2706,
+      "mediaIds": {
+        "youtube": "16909",
+        "soundcloud": "16909"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "982869"
+        },
+        {
+          "artist": "Dada Life",
+          "title": "Kick Out The Epic Motherfucker (Acappella)",
+          "remix": "",
+          "trackId": "982870"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dada Life",
+      "title": "Kick Out The Epic Motherfucker (Acappella)",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "982870",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 2712,
+      "mediaIds": {
+        "spotify": "56705",
+        "youtube": "75276",
+        "soundcloud": "75276",
+        "appleMusic": "56705"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dada Life",
+          "title": "Kick Out The Epic Motherfucker (Acappella)",
+          "remix": "",
+          "trackId": "982870"
+        },
+        {
+          "artist": "Jewelz & Sparks",
+          "title": "Reptile",
+          "remix": "",
+          "trackId": "989637"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jewelz & Sparks",
+      "title": "Reptile",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "989637",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "196404",
+        "youtube": "196404",
+        "soundcloud": "196404",
+        "appleMusic": "196404"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "TJR & VINAI",
+      "title": "Bounce Generation (SCNDL Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "980702",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2856,
+      "mediaIds": {
+        "spotify": "200700",
+        "youtube": "200700",
+        "soundcloud": "200700",
+        "appleMusic": "200700"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "DubVision",
+      "title": "Turn It Around",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "980703",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3038,
+      "mediaIds": {
+        "spotify": "217909",
+        "youtube": "217909",
+        "soundcloud": "217909",
+        "appleMusic": "217909"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "DubVision",
+      "title": "Backlash (Martin Garrix Edit)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "980704",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3288,
+      "mediaIds": {
+        "spotify": "199793",
+        "youtube": "199793",
+        "soundcloud": "199793",
+        "appleMusic": "199793"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "195692",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/thebesthouse"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "195831",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "196448",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:52:04.450Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,167 @@
+{
+  "tlId": "3umxgr9",
+  "dj": "Michael Woods",
+  "stage": "EDC Las Vegas",
+  "date": "2012-06-08",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/3umxgr9/michael-woods-kineticfield-edc-las-vegas-united-states-2012-06-08.html",
+  "djs": [
+    {
+      "name": "Michael Woods",
+      "slug": "michaelwoods"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "AN21 & Max Vangeli & Michael Woods",
+      "title": "Nightfall",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "239504",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "85381",
+        "youtube": "85381",
+        "soundcloud": "85381",
+        "appleMusic": "85381"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Michael Woods",
+      "title": "Warrior",
+      "remix": "",
+      "label": "MINISTRY OF SOUND",
+      "trackId": "239505",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "57222",
+        "appleMusic": "57222"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Michael Woods ft. Little Boots",
+      "title": "I Wish",
+      "remix": "",
+      "label": "DIFFUSED",
+      "trackId": "239506",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "45247"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Example vs. Michael Woods vs. Sandro Silva & Quintino vs. Daft Punk",
+      "title": "CTWYKM vs. Nitro vs. Epic vs. Around The World (Michael Woods Mashup)",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE/TOOLROOM/MINISTRY OF SOUND/MUSICAL FREEDOM",
+      "trackId": "239507",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Ivan Gough & Feenixpawl & Axwell vs. Starkillers & Dmitri KO & Michael Woods",
+      "title": "In My Mind Light It Up (Michael Woods Mashup)",
+      "remix": "",
+      "label": "AXTONE/DIFFUSED",
+      "trackId": "239508",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Fatboy Slim",
+      "title": "Star 69 (Acappella)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "239509",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1853",
+        "youtube": "1853",
+        "soundcloud": "1853",
+        "appleMusic": "1853"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fatboy Slim",
+          "title": "Star 69 (Acappella)",
+          "remix": "",
+          "trackId": "239509"
+        },
+        {
+          "artist": "Michael Woods",
+          "title": "No Access",
+          "remix": "",
+          "trackId": "239510"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Michael Woods",
+      "title": "No Access",
+      "remix": "",
+      "label": "DIFFUSED",
+      "trackId": "239510",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "24505",
+        "youtube": "24505",
+        "appleMusic": "24505"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Cherry Cherry Boom Boom",
+      "title": "Come Back From San Francisco (Michael Woods Remix)",
+      "remix": "",
+      "label": "CHERRYTREE (INTERSCOPE)",
+      "trackId": "239511",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1380,
+      "mediaIds": {
+        "youtube": "80352"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "37101",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/DubShakerz"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:40:58.580Z",
+  "scrapeVersion": 2
+}

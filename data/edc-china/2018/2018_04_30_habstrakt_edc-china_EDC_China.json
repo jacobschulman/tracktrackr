@@ -1,0 +1,270 @@
+{
+  "tlId": "178wbuyk",
+  "dj": "Habstrakt",
+  "stage": "EDC China",
+  "date": "2018-04-30",
+  "year": 2018,
+  "url": "https://www.1001tracklists.com/tracklist/178wbuyk/habstrakt-circuitgrounds-edc-china-shanghai-2018-04-30.html",
+  "djs": [
+    {
+      "name": "Habstrakt",
+      "slug": "habstrakt"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Wiwek & Moksi",
+      "title": "Masta",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "3448624",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "323339",
+        "youtube": "323339",
+        "soundcloud": "323339",
+        "appleMusic": "323339"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Skrillex & MUST DIE!",
+      "title": "VIP's",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3448625",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 15,
+      "mediaIds": {
+        "spotify": "292511",
+        "youtube": "292511",
+        "soundcloud": "292511",
+        "appleMusic": "292511"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & MUST DIE!",
+          "title": "VIP's",
+          "remix": "",
+          "trackId": "3448625"
+        },
+        {
+          "artist": "Reid Stefan",
+          "title": "For The Birds (Ray Volpe Bootleg)",
+          "remix": "",
+          "trackId": "3448626"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Reid Stefan",
+      "title": "For The Birds (Ray Volpe Bootleg)",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "3448626",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "299490",
+        "soundcloud": "299490"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Lowdown",
+      "title": "Dance 4 Me",
+      "remix": "",
+      "label": "BOX OF CATS",
+      "trackId": "3448627",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 120,
+      "mediaIds": {
+        "spotify": "419708",
+        "youtube": "419708"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "JOYRYDE",
+      "title": "I Ware House (Habstrakt Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "3448628",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 190,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Tony Romera",
+      "title": "Candy",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "3448629",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 250,
+      "mediaIds": {
+        "spotify": "408761",
+        "youtube": "408761",
+        "soundcloud": "408761",
+        "appleMusic": "408761"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "A$AP Ferg ft. A$AP Rocky & French Montana & Schoolboy Q & Trinidad James",
+      "title": "Work (Remix)",
+      "remix": "",
+      "label": "RCA (SONY)",
+      "trackId": "3448630",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 322,
+      "mediaIds": {
+        "spotify": "218020",
+        "youtube": "218020",
+        "soundcloud": "218020",
+        "appleMusic": "218020"
+      },
+      "blendGroup": [
+        {
+          "artist": "A$AP Ferg ft. A$AP Rocky & French Montana & Schoolboy Q & Trinidad James",
+          "title": "Work (Remix)",
+          "remix": "",
+          "trackId": "3448630"
+        },
+        {
+          "artist": "3LAU ft. Yeah Boy",
+          "title": "On My Mind (Michael Sparks Remix)",
+          "remix": "",
+          "trackId": "3448631"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "3LAU ft. Yeah Boy",
+      "title": "On My Mind (Michael Sparks Remix)",
+      "remix": "",
+      "label": "BLUME",
+      "trackId": "3448631",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "366509",
+        "youtube": "366509",
+        "appleMusic": "366509"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Herobust",
+      "title": "Skurt Reynolds (VIP)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "3448632",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 385,
+      "mediaIds": {
+        "spotify": "329065",
+        "youtube": "329065",
+        "soundcloud": "329065",
+        "appleMusic": "329065"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Medasin & X&G ft. Josh Pan",
+      "title": "The Zoo",
+      "remix": "",
+      "label": "ELYSIAN",
+      "trackId": "3448633",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 480,
+      "mediaIds": {
+        "spotify": "306301",
+        "youtube": "306301",
+        "soundcloud": "306301",
+        "appleMusic": "306301"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Habstrakt ft. Josh Pan",
+      "title": "Movie",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "3448634",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 540,
+      "mediaIds": {
+        "spotify": "407676",
+        "youtube": "407676",
+        "soundcloud": "407676",
+        "appleMusic": "407676"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Noizu",
+      "title": "Jungle (Lowdown Remix)",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "3448635",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 660,
+      "mediaIds": {
+        "spotify": "400308",
+        "soundcloud": "400308",
+        "appleMusic": "400308"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "LAXX",
+      "title": "Fake Friends",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "3448636",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 710,
+      "mediaIds": {
+        "spotify": "400311",
+        "youtube": "400311",
+        "soundcloud": "400311",
+        "appleMusic": "400311"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T15:50:57.917Z",
+  "scrapeVersion": 2
+}

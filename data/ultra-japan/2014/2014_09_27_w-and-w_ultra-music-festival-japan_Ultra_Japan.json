@@ -1,0 +1,630 @@
+{
+  "tlId": "4jv2w11",
+  "dj": "W&W",
+  "stage": "Ultra Music Festival Japan",
+  "date": "2014-09-27",
+  "year": 2014,
+  "url": "https://www.1001tracklists.com/tracklist/4jv2w11/wandw-mainstage-ultra-music-festival-japan-2014-09-27.html",
+  "djs": [
+    {
+      "name": "W&W",
+      "slug": "wandw"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "W&W",
+      "title": "Bigfoot (Intro Edit)",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "1100235",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 73,
+      "mediaIds": {
+        "spotify": "173779",
+        "youtube": "173779",
+        "soundcloud": "173779",
+        "appleMusic": "173779"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Hardwell & W&W",
+      "title": "Jumper",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1100236",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 187,
+      "mediaIds": {
+        "spotify": "125098",
+        "youtube": "125098",
+        "soundcloud": "125098",
+        "appleMusic": "125098"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "W&W",
+      "title": "Lift Off!",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "1100237",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 320,
+      "mediaIds": {
+        "spotify": "100399",
+        "youtube": "100399",
+        "soundcloud": "100399",
+        "appleMusic": "100399"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Hardwell & W&W ft. Fatman Scoop",
+      "title": "Don't Stop The Madness",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1100238",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 542,
+      "mediaIds": {
+        "spotify": "205153",
+        "youtube": "205153",
+        "soundcloud": "205153",
+        "appleMusic": "205153"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Nico & Vinz",
+      "title": "Am I Wrong (W&W Bootleg)",
+      "remix": "",
+      "label": "WARNER MUSIC",
+      "trackId": "1100239",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 605,
+      "mediaIds": {
+        "youtube": "206104"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nico & Vinz",
+          "title": "Am I Wrong (W&W Bootleg)",
+          "remix": "",
+          "trackId": "1100239"
+        },
+        {
+          "artist": "Ummet Ozcan",
+          "title": "Raise Your Hands (1, 2, 3 Jump Acappella)",
+          "remix": "",
+          "trackId": "1100250"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ummet Ozcan",
+      "title": "Raise Your Hands (1, 2, 3 Jump Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "1100250",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 724,
+      "mediaIds": {
+        "spotify": "203052",
+        "youtube": "203052",
+        "soundcloud": "203052",
+        "appleMusic": "203052"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Dimitri Vegas & Like Mike & W&W",
+      "title": "Waves (Tomorrowland 2014 Anthem)",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "1100240",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 793,
+      "mediaIds": {
+        "spotify": "203053",
+        "youtube": "203053",
+        "soundcloud": "203053",
+        "appleMusic": "203053"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Dimitri Vegas & Like Mike & NLW",
+      "title": "Hands Up",
+      "remix": "",
+      "label": "SMASH THE HOUSE/FREE",
+      "trackId": "1100241",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 900,
+      "mediaIds": {
+        "youtube": "212632",
+        "soundcloud": "212632"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike & NLW",
+          "title": "Hands Up",
+          "remix": "",
+          "trackId": "1100241"
+        },
+        {
+          "artist": "Sebastian Ingrosso & Tommy Trash ft. John Martin",
+          "title": "Reload (Acappella)",
+          "remix": "",
+          "trackId": "1100265"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sebastian Ingrosso & Tommy Trash ft. John Martin",
+      "title": "Reload (Acappella)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "1100265",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 900,
+      "mediaIds": {
+        "spotify": "143331",
+        "youtube": "143331",
+        "soundcloud": "143331",
+        "appleMusic": "143331"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "deadmau5",
+      "title": "Strobe (W&W Edit)",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "1102301",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 981,
+      "mediaIds": {
+        "youtube": "217486",
+        "soundcloud": "217486"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Armin van Buuren",
+      "title": "Ping Pong",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "1100243",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1092,
+      "mediaIds": {
+        "spotify": "166697",
+        "youtube": "166697",
+        "soundcloud": "166697",
+        "appleMusic": "166697"
+      },
+      "blendGroup": [
+        {
+          "artist": "Armin van Buuren",
+          "title": "Ping Pong",
+          "remix": "",
+          "trackId": "1100243"
+        },
+        {
+          "artist": "W&W & Hardwell & Lil Jon",
+          "title": "Live The Night (Instrumental Mix)",
+          "remix": "",
+          "trackId": "1100912"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "W&W & Hardwell & Lil Jon",
+      "title": "Live The Night (Instrumental Mix)",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "1100912",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 1177,
+      "mediaIds": {
+        "youtube": "266043",
+        "soundcloud": "266043"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "W&W & Headhunterz",
+      "title": "We Control The Sound",
+      "remix": "",
+      "label": "ULTRA/MAINSTAGE",
+      "trackId": "1100246",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1241,
+      "mediaIds": {
+        "spotify": "205788",
+        "youtube": "205788",
+        "soundcloud": "205788",
+        "appleMusic": "205788"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Deorro & MAKJ",
+      "title": "Ready!",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1100247",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1348,
+      "mediaIds": {
+        "youtube": "201283",
+        "soundcloud": "201283"
+      },
+      "blendGroup": [
+        {
+          "artist": "Deorro & MAKJ",
+          "title": "Ready!",
+          "remix": "",
+          "trackId": "1100247"
+        },
+        {
+          "artist": "Bingo Players",
+          "title": "Rattle",
+          "remix": "",
+          "trackId": "1100261"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bingo Players",
+      "title": "Rattle",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "1100261",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 1415,
+      "mediaIds": {
+        "spotify": "46307",
+        "youtube": "46307",
+        "soundcloud": "46307",
+        "appleMusic": "46307"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "W&W & Blasterjaxx",
+      "title": "Rocket",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "1100248",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1507,
+      "mediaIds": {
+        "spotify": "186124",
+        "youtube": "186124",
+        "soundcloud": "186124",
+        "appleMusic": "186124"
+      },
+      "blendGroup": [
+        {
+          "artist": "W&W & Blasterjaxx",
+          "title": "Rocket",
+          "remix": "",
+          "trackId": "1100248"
+        },
+        {
+          "artist": "Chuckie",
+          "title": "Who Is Ready To Jump (1 2 3 Let's Go Acappella)",
+          "remix": "",
+          "trackId": "1100262"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chuckie",
+      "title": "Who Is Ready To Jump (1 2 3 Let's Go Acappella)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "1100262",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1552,
+      "mediaIds": {
+        "spotify": "44701",
+        "youtube": "44701",
+        "soundcloud": "44701",
+        "appleMusic": "44701"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Ben Gold",
+      "title": "Escapade",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "1103918",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1625,
+      "mediaIds": {
+        "spotify": "203942",
+        "youtube": "203942",
+        "soundcloud": "203942",
+        "appleMusic": "203942"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "KhoMha",
+      "title": "Asylum",
+      "remix": "",
+      "label": "COLDHARBOUR",
+      "trackId": "1100249",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1700,
+      "mediaIds": {
+        "spotify": "180479",
+        "youtube": "180479",
+        "soundcloud": "180479",
+        "appleMusic": "180479"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "David Guetta & Showtek ft. VASSY",
+      "title": "BAD",
+      "remix": "",
+      "label": "WHAT A MUSIC/PARLOPHONE",
+      "trackId": "1100253",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1758,
+      "mediaIds": {
+        "spotify": "184487",
+        "youtube": "184487",
+        "soundcloud": "184487",
+        "appleMusic": "184487"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Guetta & Showtek ft. VASSY",
+          "title": "BAD",
+          "remix": "",
+          "trackId": "1100253"
+        },
+        {
+          "artist": "Showtek & Justin Prime",
+          "title": "Cannonball (Show Us What You Got When The Motherfucking Beat Drops Acappella)",
+          "remix": "",
+          "trackId": "1100266"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Showtek & Justin Prime",
+      "title": "Cannonball (Show Us What You Got When The Motherfucking Beat Drops Acappella)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "1100266",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1824,
+      "mediaIds": {
+        "spotify": "145563",
+        "youtube": "145563",
+        "soundcloud": "145563",
+        "appleMusic": "145563"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "JAGGS vs. TJR & VINAI",
+      "title": "BleepDiFreak vs. Bounce Generation (Hardwell Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/REVEALED",
+      "trackId": "1100267",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1920,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Armin van Buuren ft. Trevor Guthrie",
+      "title": "This Is What It Feels Like (W&W Remix)",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "1100255",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2025,
+      "mediaIds": {
+        "spotify": "125950",
+        "youtube": "125950",
+        "soundcloud": "125950",
+        "appleMusic": "125950"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Mark Sixma",
+      "title": "Adagio For Strings",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "1100256",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "207489",
+        "youtube": "207489",
+        "soundcloud": "207489",
+        "appleMusic": "207489"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Ivan Gough & Feenixpawl ft. Georgi Kay",
+      "title": "In My Mind (Axwell Remix / Andrew Rayel Rebuild)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "1100257",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "151338",
+        "soundcloud": "151338"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "W&W",
+      "title": "Storm",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "1100258",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "215607",
+        "soundcloud": "215607"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Riggi & Piros",
+      "title": "Crank",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "1100911",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2582,
+      "mediaIds": {
+        "spotify": "222705",
+        "youtube": "222705",
+        "soundcloud": "222705",
+        "appleMusic": "222705"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Dimitri Vegas & Like Mike & Ummet Ozcan",
+      "title": "The Hum",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "1100259",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2725,
+      "mediaIds": {
+        "spotify": "213897",
+        "youtube": "213897",
+        "soundcloud": "213897",
+        "appleMusic": "213897"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Zombie Nation",
+      "title": "Kernkraft 400 (W&W Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "1100260",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "196922",
+        "soundcloud": "196922"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Duke Dumont ft. Jax Jones",
+      "title": "I Got U (W&W Festival Mix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "1100263",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "193723",
+        "soundcloud": "193723"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "220357",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/thebesthouse"
+    },
+    {
+      "platform": "source_25",
+      "idMedia": "220655",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    },
+    {
+      "platform": "source_27",
+      "idMedia": "273740",
+      "idSource": "27",
+      "url": "https://www.dailymotion.com/embed/video/x26z3wi"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:33:07.464Z",
+  "scrapeVersion": 2
+}

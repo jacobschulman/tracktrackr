@@ -1,0 +1,181 @@
+{
+  "tlId": "23536vn9",
+  "dj": "Bassjackers",
+  "stage": "Ultra Europe",
+  "date": "2016-07-17",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/23536vn9/bassjackers-mainstage-ultra-europe-croatia-2016-07-17.html",
+  "djs": [
+    {
+      "name": "Bassjackers",
+      "slug": "bassjackers"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Bassjackers",
+      "title": "F*CK (Dimitri Vegas & Like Mike Edit)",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "2152767",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "308383",
+        "youtube": "308383",
+        "soundcloud": "308383",
+        "appleMusic": "308383"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "R3HAB & Bassjackers",
+      "title": "Raise Those Hands",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "2152768",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 85,
+      "mediaIds": {
+        "spotify": "135996",
+        "youtube": "135996",
+        "soundcloud": "135996",
+        "appleMusic": "135996"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Bassjackers & Thomas Newson",
+      "title": "Wave Your Hands",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "2152769",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 195,
+      "mediaIds": {
+        "spotify": "234289",
+        "youtube": "234289",
+        "soundcloud": "234289",
+        "appleMusic": "234289"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bassjackers & Thomas Newson",
+          "title": "Wave Your Hands",
+          "remix": "",
+          "trackId": "2152769"
+        },
+        {
+          "artist": "Riton ft. Kah-Lo",
+          "title": "Rinse & Repeat (Acappella)",
+          "remix": "",
+          "trackId": "2152770"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Riton ft. Kah-Lo",
+      "title": "Rinse & Repeat (Acappella)",
+      "remix": "",
+      "label": "RITONTIME",
+      "trackId": "2152770",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 260,
+      "mediaIds": {
+        "spotify": "277723",
+        "youtube": "277723",
+        "soundcloud": "277723",
+        "appleMusic": "277723"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Dzeko & Torres & Delaney Jane & Tiësto vs. Bassjackers & Jay Hardway",
+      "title": "L'amour Toujours vs. El Mariachi (Bassjackers Mashup)",
+      "remix": "",
+      "label": "CLS MUSIC/SPINNIN'/MUSICAL FREEDOM",
+      "trackId": "2152771",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 365,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Bassjackers",
+      "title": "Bring That Beat",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "2152773",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 583,
+      "mediaIds": {
+        "spotify": "269850",
+        "youtube": "269850",
+        "soundcloud": "269850",
+        "appleMusic": "269850"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "KSHMR & Bassjackers ft. Sirah",
+      "title": "Memories",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2152774",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 757,
+      "mediaIds": {
+        "spotify": "260141",
+        "youtube": "260141",
+        "soundcloud": "260141",
+        "appleMusic": "260141"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Bassjackers & Coone & GLDY LX",
+      "title": "Sound Barrier",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "2152775",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 845,
+      "mediaIds": {
+        "spotify": "262778",
+        "youtube": "262778",
+        "soundcloud": "262778",
+        "appleMusic": "262778"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_25",
+      "idMedia": "462320",
+      "idSource": "25",
+      "url": "https://www.youtube.com/watch?v=embed_clean"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:34:34.640Z",
+  "scrapeVersion": 2
+}

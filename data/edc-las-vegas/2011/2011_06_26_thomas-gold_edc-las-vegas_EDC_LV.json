@@ -1,0 +1,676 @@
+{
+  "tlId": "nflcsk",
+  "dj": "Thomas Gold",
+  "stage": "EDC Las Vegas",
+  "date": "2011-06-26",
+  "year": 2011,
+  "url": "https://www.1001tracklists.com/tracklist/nflcsk/thomas-gold-kineticfield-edc-las-vegas-united-states-2011-06-26.html",
+  "djs": [
+    {
+      "name": "Thomas Gold",
+      "slug": "thomasgold"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Thomas Gold",
+      "title": "Abart",
+      "remix": "",
+      "label": "",
+      "trackId": "73688",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "37922"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Jay C & Felix Baumgartner vs. Djuma Soundsystem vs. Shakedown",
+      "title": "Souk vs. Les Djinns vs. At Night (Thomas Gold Mashup)",
+      "remix": "",
+      "label": "AUDIOMATIQUE/DEFECTED/TOOLROOM",
+      "trackId": "73399",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Quintino",
+      "title": "Raider",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "73495",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "36857",
+        "youtube": "36857",
+        "appleMusic": "36857"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "ARTY",
+      "title": "Around The World",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "73401",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "33734",
+        "youtube": "33734",
+        "soundcloud": "33734",
+        "appleMusic": "33734"
+      },
+      "blendGroup": [
+        {
+          "artist": "ARTY",
+          "title": "Around The World",
+          "remix": "",
+          "trackId": "73401"
+        },
+        {
+          "artist": "Adele",
+          "title": "Rolling In The Deep (Acappella)",
+          "remix": "",
+          "trackId": "73402"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Adele",
+      "title": "Rolling In The Deep (Acappella)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "73402",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "27980",
+        "youtube": "27980",
+        "soundcloud": "27980",
+        "appleMusic": "27980"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Marcus Schossow",
+      "title": "Acid, Festival, Champagne, Bitches",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "73403",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "36351",
+        "youtube": "36351",
+        "appleMusic": "36351"
+      },
+      "blendGroup": [
+        {
+          "artist": "Marcus Schossow",
+          "title": "Acid, Festival, Champagne, Bitches",
+          "remix": "",
+          "trackId": "73403"
+        },
+        {
+          "artist": "Matisse & Sadko",
+          "title": "Hi Scandinavia!",
+          "remix": "",
+          "trackId": "73512"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Matisse & Sadko",
+      "title": "Hi Scandinavia!",
+      "remix": "",
+      "label": "NAPITH",
+      "trackId": "73512",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "25380",
+        "youtube": "25380",
+        "soundcloud": "25380",
+        "appleMusic": "25380"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Thomas Gold",
+      "title": "Headbang",
+      "remix": "",
+      "label": "",
+      "trackId": "73404",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 960,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Everything But The Girl",
+      "title": "Missing (Acappella)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "73513",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1852",
+        "youtube": "10596",
+        "soundcloud": "1852",
+        "appleMusic": "1852"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "David Gausa & David Tort & Thomas Gold",
+      "title": "Areena (Dirty South Remix)",
+      "remix": "",
+      "label": "PHAZING",
+      "trackId": "73514",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "23006",
+        "youtube": "23006",
+        "appleMusic": "23006"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Steve Lawler",
+      "title": "That Sound (Thomas Gold 2011 Rework)",
+      "remix": "",
+      "label": "JOIA",
+      "trackId": "73405",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1320,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Thomas Gold",
+      "title": "Marsch Marsch",
+      "remix": "",
+      "label": "TOOLROOM",
+      "trackId": "73406",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "22632",
+        "youtube": "22632",
+        "appleMusic": "22632"
+      },
+      "blendGroup": [
+        {
+          "artist": "Thomas Gold",
+          "title": "Marsch Marsch",
+          "remix": "",
+          "trackId": "73406"
+        },
+        {
+          "artist": "Delerium ft. Sarah McLachlan",
+          "title": "Silence",
+          "remix": "",
+          "trackId": "73407"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Delerium ft. Sarah McLachlan",
+      "title": "Silence",
+      "remix": "",
+      "label": "NETTWERK",
+      "trackId": "73407",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1787",
+        "youtube": "1787",
+        "soundcloud": "1787",
+        "appleMusic": "1787"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Calvin Harris",
+      "title": "Awooga",
+      "remix": "",
+      "label": "FLY EYE",
+      "trackId": "73408",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30218",
+        "youtube": "30218",
+        "soundcloud": "30218",
+        "appleMusic": "30218"
+      },
+      "blendGroup": [
+        {
+          "artist": "Calvin Harris",
+          "title": "Awooga",
+          "remix": "",
+          "trackId": "73408"
+        },
+        {
+          "artist": "Justice vs. Simian",
+          "title": "We Are Your Friends (Acappella)",
+          "remix": "",
+          "trackId": "73409"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Justice vs. Simian",
+      "title": "We Are Your Friends (Acappella)",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "73409",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8095",
+        "youtube": "8095",
+        "soundcloud": "3157",
+        "appleMusic": "8095"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Bassjackers vs. Stefano Noferini vs. Paul Johnson",
+      "title": "Mush Mush vs. French Kiss vs. Get Get Down (Thomas Gold Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "73410",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Tim Mason",
+      "title": "The Moment (Thomas Gold Re-edit)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "73412",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Tim Mason",
+          "title": "The Moment (Thomas Gold Re-edit)",
+          "remix": "",
+          "trackId": "73412"
+        },
+        {
+          "artist": "Da Hool & Gary Bruckheimer",
+          "title": "In The Beginning (Acappella)",
+          "remix": "",
+          "trackId": "73413"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Da Hool & Gary Bruckheimer",
+      "title": "In The Beginning (Acappella)",
+      "remix": "",
+      "label": "SUBLIMINAL (ARMADA)",
+      "trackId": "73413",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "14",
+      "artist": "Lady GaGa",
+      "title": "Judas (Thomas Gold Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "73414",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "35150",
+        "youtube": "35150",
+        "soundcloud": "35150",
+        "appleMusic": "35150"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Green Velvet & Nicky Romero vs. Sander Van Doorn vs. RHCP",
+      "title": "Flash vs. Intro vs. Otherside (Dirty South & Thomas Gold Mashup Re-Edit)",
+      "remix": "",
+      "label": "WARNER BROS./DOORN (SPINNIN')/RELIEF",
+      "trackId": "73417",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Cirez D",
+      "title": "On Off (Thomas Gold Re-Rub)",
+      "remix": "",
+      "label": "MOUSEVILLE",
+      "trackId": "73419",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Cirez D",
+          "title": "On Off (Thomas Gold Re-Rub)",
+          "remix": "",
+          "trackId": "73419"
+        },
+        {
+          "artist": "Harry Romero & Jose Nunez & Erick Morillo & Harry Romero & Erick Morillo ft. Jessica Eve",
+          "title": "Dancing (Acappella)",
+          "remix": "",
+          "trackId": "73420"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Harry Romero & Jose Nunez & Erick Morillo & Harry Romero & Erick Morillo ft. Jessica Eve",
+      "title": "Dancing (Acappella)",
+      "remix": "",
+      "label": "SUBLIMINAL (ARMADA)",
+      "trackId": "73420",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "601751",
+        "appleMusic": "601751"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Sander van Doorn",
+      "title": "Reach Out (Thomas Gold Remix)",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "73421",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "32749",
+        "youtube": "32749",
+        "appleMusic": "32749"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Hard Rock Sofa & St. Brothers",
+      "title": "Blow Up (Thomas Gold vs. Axwell Remix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "73423",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "25379",
+        "youtube": "25379",
+        "soundcloud": "25379",
+        "appleMusic": "25379"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hard Rock Sofa & St. Brothers",
+          "title": "Blow Up (Thomas Gold vs. Axwell Remix)",
+          "remix": "",
+          "trackId": "73423"
+        },
+        {
+          "artist": "John Dahlbäck",
+          "title": "Blink (Acappella)",
+          "remix": "",
+          "trackId": "73424"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "John Dahlbäck",
+      "title": "Blink (Acappella)",
+      "remix": "",
+      "label": "CR2",
+      "trackId": "73424",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1534",
+        "youtube": "1534",
+        "soundcloud": "20456",
+        "appleMusic": "1534"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Adele",
+      "title": "Set Fire To The Rain (Thomas Gold Remix)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "73425",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "35631",
+        "youtube": "35631",
+        "soundcloud": "35631",
+        "appleMusic": "35631"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Dirty South & Thomas Gold ft. Kate Elsworth",
+      "title": "Alive",
+      "remix": "",
+      "label": "PHAZING",
+      "trackId": "73496",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "37888",
+        "youtube": "37888",
+        "soundcloud": "37888",
+        "appleMusic": "37888"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Sidekick",
+      "title": "Deep Fear (Phobia Club Mix)",
+      "remix": "",
+      "label": "NETSWORK",
+      "trackId": "73426",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8422",
+        "youtube": "8422",
+        "soundcloud": "8422",
+        "appleMusic": "8422"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sidekick",
+          "title": "Deep Fear (Phobia Club Mix)",
+          "remix": "",
+          "trackId": "73426"
+        },
+        {
+          "artist": "Nicky Romero & Bingo Players",
+          "title": "Sliced",
+          "remix": "",
+          "trackId": "73498"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nicky Romero & Bingo Players",
+      "title": "Sliced",
+      "remix": "",
+      "label": "HYSTERIA",
+      "trackId": "73498",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "32978",
+        "youtube": "32978",
+        "soundcloud": "32978",
+        "appleMusic": "32978"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nicky Romero & Bingo Players",
+          "title": "Sliced",
+          "remix": "",
+          "trackId": "73498"
+        },
+        {
+          "artist": "Henrik B",
+          "title": "Acid Rocker (David Tort Remix)",
+          "remix": "",
+          "trackId": "73497"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Henrik B",
+      "title": "Acid Rocker (David Tort Remix)",
+      "remix": "",
+      "label": "THE MANSION",
+      "trackId": "73497",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "31517",
+        "soundcloud": "31517"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Cygnus X",
+      "title": "Superstring (Thomas Gold Edit)",
+      "remix": "",
+      "label": "EYE Q RECORDS",
+      "trackId": "73427",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Cygnus X",
+          "title": "Superstring (Thomas Gold Edit)",
+          "remix": "",
+          "trackId": "73427"
+        },
+        {
+          "artist": "Chuckie & Gregori Klosman",
+          "title": "Mutfakta (Promise Land Remix)",
+          "remix": "",
+          "trackId": "73690"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Chuckie & Gregori Klosman",
+      "title": "Mutfakta (Promise Land Remix)",
+      "remix": "",
+      "label": "DIRTY DUTCH",
+      "trackId": "73690",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "26402",
+        "youtube": "26402"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Sander van Doorn",
+      "title": "Koko (Thomas Gold Rework)",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "73429",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "appleMusic": "37929"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T13:45:19.423Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,582 @@
+{
+  "tlId": "1b59gqs1",
+  "dj": "PEEKABOO",
+  "stage": "EDC Orlando",
+  "date": "2020-11-20",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/1b59gqs1/peekaboo-edc-orlando-virtual-rave-a-thon-the-exchange-los-angeles-united-states-2020-11-20.html",
+  "djs": [
+    {
+      "name": "PEEKABOO",
+      "slug": "peekaboo"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Zeds Dead & PEEKABOO",
+      "title": "POWA",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "5581067",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 180,
+      "mediaIds": {
+        "spotify": "640914",
+        "youtube": "640914",
+        "soundcloud": "640914",
+        "appleMusic": "640914"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Deadlyft",
+      "title": "Acid Reflux",
+      "remix": "",
+      "label": "GASTROENTEROLOGIST",
+      "trackId": "5581068",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 370,
+      "mediaIds": {
+        "spotify": "627573",
+        "youtube": "627573",
+        "soundcloud": "627573",
+        "appleMusic": "627573"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "JAUZ & Zeds Dead",
+      "title": "Lights Go Down (PEEKABOO Remix)",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "5581069",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 420,
+      "mediaIds": {
+        "spotify": "474770",
+        "youtube": "474770",
+        "soundcloud": "474770",
+        "appleMusic": "474770"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "RAVVA",
+      "title": "Move",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "5581070",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 580,
+      "mediaIds": {
+        "spotify": "930693",
+        "soundcloud": "930693",
+        "appleMusic": "930693"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Don Toliver",
+      "title": "Cardigan (Knock2 Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "5581071",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 640,
+      "mediaIds": {
+        "youtube": "643122",
+        "soundcloud": "643122"
+      },
+      "blendGroup": [
+        {
+          "artist": "Don Toliver",
+          "title": "Cardigan (Knock2 Remix)",
+          "remix": "",
+          "trackId": "5581071"
+        },
+        {
+          "artist": "Caspa",
+          "title": "Tech Foul (PEEKABOO Remix)",
+          "remix": "",
+          "trackId": "5581072"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Caspa",
+      "title": "Tech Foul (PEEKABOO Remix)",
+      "remix": "",
+      "label": "SUB SOLDIERS",
+      "trackId": "5581072",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 680,
+      "mediaIds": {
+        "spotify": "434825",
+        "youtube": "434825",
+        "soundcloud": "434825",
+        "appleMusic": "434825"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Liquid Stranger",
+      "title": "Hotbox (PEEKABOO Remix)",
+      "remix": "",
+      "label": "WAKAAN",
+      "trackId": "5581073",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 740,
+      "mediaIds": {
+        "spotify": "427330",
+        "youtube": "427330",
+        "soundcloud": "427330",
+        "appleMusic": "427330"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Hairitage",
+      "title": "I Got That",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "5581074",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 870,
+      "mediaIds": {
+        "spotify": "604058",
+        "youtube": "604058",
+        "soundcloud": "604058",
+        "appleMusic": "604058"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Kanye West",
+      "title": "Power (Knock2 Remix)",
+      "remix": "",
+      "label": "ROC-A-FELLA (ISLAND DEF JAM)",
+      "trackId": "5581075",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 920,
+      "mediaIds": {
+        "youtube": "639098",
+        "soundcloud": "639098"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kanye West",
+          "title": "Power (Knock2 Remix)",
+          "remix": "",
+          "trackId": "5581075"
+        },
+        {
+          "artist": "PEEKABOO",
+          "title": "ID",
+          "remix": "",
+          "trackId": "5581076"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "PEEKABOO",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "5581076",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 960,
+      "mediaIds": null
+    },
+    {
+      "pos": "09",
+      "artist": "PEEKABOO",
+      "title": "Wrecking Ball",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "5581077",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1070,
+      "mediaIds": {
+        "spotify": "479523",
+        "youtube": "479523",
+        "soundcloud": "479523",
+        "appleMusic": "479523"
+      },
+      "blendGroup": [
+        {
+          "artist": "PEEKABOO",
+          "title": "Wrecking Ball",
+          "remix": "",
+          "trackId": "5581077"
+        },
+        {
+          "artist": "Fergie ft. will.i.am",
+          "title": "Fergalicious",
+          "remix": "(Acappella)",
+          "trackId": "5581078"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fergie ft. will.i.am",
+      "title": "Fergalicious",
+      "remix": "(Acappella)",
+      "label": "A&M",
+      "trackId": "5581078",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "423053",
+        "youtube": "423053",
+        "soundcloud": "423053",
+        "appleMusic": "423053"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Ternion Sound",
+      "title": "Vision Quest",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "5605777",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1160,
+      "mediaIds": {
+        "spotify": "772696",
+        "youtube": "772696",
+        "soundcloud": "772696",
+        "appleMusic": "772696"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Knock2",
+      "title": "GEMS",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "5581079",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1230,
+      "mediaIds": {
+        "spotify": "604990",
+        "youtube": "604990",
+        "soundcloud": "604990",
+        "appleMusic": "604990"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Marshmello & PEEKABOO",
+      "title": "Pushin Stacks",
+      "remix": "",
+      "label": "JOYTIME COLLECTIVE",
+      "trackId": "5581080",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1320,
+      "mediaIds": {
+        "spotify": "696356",
+        "youtube": "696356",
+        "soundcloud": "696356",
+        "appleMusic": "696356"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "PEEKABOO",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "5605778",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1410,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Effin",
+      "title": "Back Scratcher",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "5581081",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1500,
+      "mediaIds": {
+        "spotify": "591821",
+        "youtube": "591821",
+        "soundcloud": "591821",
+        "appleMusic": "591821"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Emma Hewitt",
+      "title": "ReWind (Mikkas Remix)",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "5581082",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1540,
+      "mediaIds": {
+        "spotify": "105852",
+        "youtube": "105852",
+        "soundcloud": "105852",
+        "appleMusic": "105852"
+      },
+      "blendGroup": [
+        {
+          "artist": "Emma Hewitt",
+          "title": "ReWind (Mikkas Remix)",
+          "remix": "",
+          "trackId": "5581082"
+        },
+        {
+          "artist": "Sully (US) & PEEKABOO",
+          "title": "Sacrament",
+          "remix": "",
+          "trackId": "5581083"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sully (US) & PEEKABOO",
+      "title": "Sacrament",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "5581083",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1620,
+      "mediaIds": {
+        "spotify": "815703",
+        "youtube": "815703",
+        "soundcloud": "815703",
+        "appleMusic": "815703"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "G-REX & RAVVA",
+      "title": "Needa",
+      "remix": "",
+      "label": "WAKAAN",
+      "trackId": "5605779",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1690,
+      "mediaIds": {
+        "spotify": "788937",
+        "youtube": "788937",
+        "soundcloud": "788937",
+        "appleMusic": "788937"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "G Jones",
+      "title": "Dream Fatigue (ISOxo Edit)",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "5581084",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1730,
+      "mediaIds": {
+        "soundcloud": "720437"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "SuperAve.",
+      "title": "Ride",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "5605780",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1800,
+      "mediaIds": {
+        "spotify": "645594",
+        "youtube": "645594",
+        "soundcloud": "645594",
+        "appleMusic": "645594"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "PEEKABOO & Dirt Monkey",
+      "title": "COLOSSAL",
+      "remix": "",
+      "label": "WAKAAN",
+      "trackId": "5581085",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1870,
+      "mediaIds": {
+        "spotify": "519699",
+        "youtube": "519699",
+        "soundcloud": "519699",
+        "appleMusic": "519699"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "ISOxo",
+      "title": "Nightrealm",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "5581086",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1950,
+      "mediaIds": {
+        "spotify": "725951",
+        "youtube": "725951",
+        "soundcloud": "725951",
+        "appleMusic": "725951"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "PEEKABOO & Caspa",
+      "title": "Reload",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "5581087",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2010,
+      "mediaIds": {
+        "spotify": "795954",
+        "youtube": "795954",
+        "soundcloud": "795954",
+        "appleMusic": "795954"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "PEEKABOO",
+      "title": "Smack",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "5581088",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2080,
+      "mediaIds": {
+        "spotify": "543132",
+        "youtube": "543132",
+        "soundcloud": "543132",
+        "appleMusic": "543132"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "PEEKABOO",
+      "title": "Maniac",
+      "remix": "",
+      "label": "WAKAAN",
+      "trackId": "5581089",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2200,
+      "mediaIds": {
+        "spotify": "429229",
+        "youtube": "429229",
+        "soundcloud": "429229",
+        "appleMusic": "429229"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "BARELY ALIVE & voltra",
+      "title": "Fusion Core",
+      "remix": "",
+      "label": "DISCIPLE ROUND TABLE",
+      "trackId": "5581090",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2340,
+      "mediaIds": {
+        "spotify": "644910",
+        "youtube": "644910",
+        "soundcloud": "644910",
+        "appleMusic": "644910"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "PEEKABOO",
+      "title": "Here With Me",
+      "remix": "",
+      "label": "PEEKABOO",
+      "trackId": "5581091",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2400,
+      "mediaIds": {
+        "spotify": "570722",
+        "youtube": "570722",
+        "soundcloud": "570722",
+        "appleMusic": "570722"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1979829",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=q2Zg32B0WKo"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:54:46.466Z",
+  "scrapeVersion": 2
+}

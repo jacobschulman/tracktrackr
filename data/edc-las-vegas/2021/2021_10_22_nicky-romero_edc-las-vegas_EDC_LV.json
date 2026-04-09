@@ -1,0 +1,756 @@
+{
+  "tlId": "1uzn1f6t",
+  "dj": "Nicky Romero",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-22",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/1uzn1f6t/nicky-romero-kineticfield-edc-las-vegas-united-states-2021-10-22.html",
+  "djs": [
+    {
+      "name": "Nicky Romero",
+      "slug": "nickyromero"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Nicky Romero",
+      "title": "Replica",
+      "remix": "(Intro Edit)",
+      "label": "PROTOCOL",
+      "trackId": "6863810",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 30,
+      "mediaIds": {
+        "spotify": "563794",
+        "youtube": "563794",
+        "soundcloud": "563794",
+        "appleMusic": "563794"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Shouse",
+      "title": "Love Tonight (Vintage Culture & Kiko Franco Remix / WeDamnz VIP Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6863811",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 170,
+      "mediaIds": {
+        "youtube": "689905",
+        "soundcloud": "689905"
+      },
+      "blendGroup": [
+        {
+          "artist": "Shouse",
+          "title": "Love Tonight (Vintage Culture & Kiko Franco Remix / WeDamnz VIP Edit)",
+          "remix": "",
+          "trackId": "6863811"
+        },
+        {
+          "artist": "ACRAZE ft. Cherish",
+          "title": "Do It To It",
+          "remix": "",
+          "trackId": "6863812"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ACRAZE ft. Cherish",
+      "title": "Do It To It",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "6863812",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "702547",
+        "youtube": "702547",
+        "soundcloud": "702547",
+        "appleMusic": "702547"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "Low Blow",
+      "title": "Losing Control",
+      "remix": "",
+      "label": "PROTOCOL",
+      "trackId": "6863813",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 320,
+      "mediaIds": {
+        "spotify": "698834",
+        "youtube": "698834",
+        "soundcloud": "698834",
+        "appleMusic": "698834"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Sonny Fodera",
+      "title": "Better",
+      "remix": "",
+      "label": "SOLOTOKO",
+      "trackId": "6863814",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 400,
+      "mediaIds": {
+        "spotify": "802023",
+        "youtube": "802023",
+        "soundcloud": "802023",
+        "appleMusic": "802023"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Vintage Culture & Fancy Inc & Roland Clark",
+      "title": "Free",
+      "remix": "",
+      "label": "CATCH & RELEASE",
+      "trackId": "6863815",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 510,
+      "mediaIds": {
+        "spotify": "700825",
+        "youtube": "700825",
+        "soundcloud": "700825",
+        "appleMusic": "700825"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Nicky Romero & Low Blow",
+      "title": "See You On The Dancefloor",
+      "remix": "",
+      "label": "PROTOCOL",
+      "trackId": "6863816",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 618,
+      "mediaIds": {
+        "spotify": "764013",
+        "youtube": "764013",
+        "soundcloud": "764013",
+        "appleMusic": "764013"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nicky Romero & Low Blow",
+          "title": "See You On The Dancefloor",
+          "remix": "",
+          "trackId": "6863816"
+        },
+        {
+          "artist": "Jamie Lewis ft. Michael Watford",
+          "title": "For You (Put Your Hands Up In The Air Acappella)",
+          "remix": "",
+          "trackId": "6863817"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jamie Lewis ft. Michael Watford",
+      "title": "For You (Put Your Hands Up In The Air Acappella)",
+      "remix": "",
+      "label": "PURPLE MUSIC",
+      "trackId": "6863817",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "14545"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Sean Paul vs. Benny Benassi & Alex Van Diel",
+      "title": "Temperature vs. Satisfaction (WeDamnz & RIVAS (USA) Mashup)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)/D:VISION",
+      "trackId": "6863818",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 690,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Diplo & Sonny Fodera vs. Dua Lipa & DaBaby",
+      "title": "Turn Back Time vs. Levitating (WeDamnz VIP Edit)",
+      "remix": "",
+      "label": "WARNER UK/HIGHER GROUND (MAD DECENT)",
+      "trackId": "6863819",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 768,
+      "mediaIds": {
+        "youtube": "656614",
+        "soundcloud": "656614"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "YTRAM vs. Swedish House Mafia vs. Ty Dolla $ign vs. Paul Woolford vs. SIDEPIECE",
+      "title": "Leave The Fire Behind (KREAM Mashup)",
+      "remix": "",
+      "label": "AXTONE/POSITIVA/ATLANTIC (WARNER MUSIC)/SOLOTOKO/EPIC AMSTERDAM/STMPD",
+      "trackId": "6863820",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 842,
+      "mediaIds": {
+        "youtube": "808218"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "HVME vs. Marshmello & Nitti Gritti & Megan Thee Stallion",
+      "title": "Goosebumps vs. Bad Bitches (Nicky Romero Mashup)",
+      "remix": "",
+      "label": "LITHUANIA HQ/JOYTIME COLLECTIVE",
+      "trackId": "6863821",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1003,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "SWACQ vs. Dubvision vs. Joel Corry & David Guetta & RAYE",
+      "title": "Purification vs. Deeper vs. Bed (Fuerte & B-Rather & Whaler Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "6863823",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1080,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Lil Nas X ft. Jack Harlow",
+      "title": "INDUSTRY BABY (Tom & Jame Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "6863827",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1177,
+      "mediaIds": {
+        "youtube": "734530",
+        "soundcloud": "734530"
+      },
+      "blendGroup": [
+        {
+          "artist": "Lil Nas X ft. Jack Harlow",
+          "title": "INDUSTRY BABY (Tom & Jame Remix)",
+          "remix": "",
+          "trackId": "6863827"
+        },
+        {
+          "artist": "Julian Jordan & Martin Garrix ft. Tinie Tempah",
+          "title": "Diamonds",
+          "remix": "",
+          "trackId": "6863828"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Julian Jordan & Martin Garrix ft. Tinie Tempah",
+      "title": "Diamonds",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "6863828",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1218,
+      "mediaIds": {
+        "spotify": "726730",
+        "youtube": "726730",
+        "soundcloud": "726730",
+        "appleMusic": "726730"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Eurythmics vs. Halfway House",
+      "title": "Sweet Peak Dreams (MAKJ Edit)",
+      "remix": "",
+      "label": "BIG MACHINE/RCA/FLASHOVER PROGRESSIVE",
+      "trackId": "6863829",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1252,
+      "mediaIds": {
+        "youtube": "146699",
+        "soundcloud": "146699"
+      },
+      "blendGroup": [
+        {
+          "artist": "Eurythmics vs. Halfway House",
+          "title": "Sweet Peak Dreams (MAKJ Edit)",
+          "remix": "",
+          "trackId": "6863829"
+        },
+        {
+          "artist": "Tiësto & SWACQ",
+          "title": "Party Time",
+          "remix": "",
+          "trackId": "6863830"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto & SWACQ",
+      "title": "Party Time",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "6863830",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "485498",
+        "youtube": "485498",
+        "soundcloud": "485498",
+        "appleMusic": "485498"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Swedish House Mafia",
+      "title": "It Gets Better (David Guetta & Zedd Remix)",
+      "remix": "",
+      "label": "SSA (REPUBLIC)",
+      "trackId": "6863831",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1358,
+      "mediaIds": {
+        "youtube": "718578",
+        "soundcloud": "718578",
+        "appleMusic": "718578"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Toby Green vs. Zombie Nation & W&W",
+      "title": "Work It vs. Kernkraft 400 (Nicky Romero Mashup)",
+      "remix": "",
+      "label": "EPM/AXTONE/MUSICAL FREEDOM",
+      "trackId": "6863832",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1486,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Nicky Romero",
+      "title": "Acid Is My DNA",
+      "remix": "",
+      "label": "PROTOCOL",
+      "trackId": "6863835",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1585,
+      "mediaIds": {
+        "spotify": "735088",
+        "youtube": "735088",
+        "soundcloud": "735088",
+        "appleMusic": "735088"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nicky Romero",
+          "title": "Acid Is My DNA",
+          "remix": "",
+          "trackId": "6863835"
+        },
+        {
+          "artist": "Jamie Lewis ft. Michael Watford",
+          "title": "For You (Put Your Hands Up In The Air Acappella)",
+          "remix": "",
+          "trackId": "6863836"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jamie Lewis ft. Michael Watford",
+      "title": "For You (Put Your Hands Up In The Air Acappella)",
+      "remix": "",
+      "label": "PURPLE MUSIC",
+      "trackId": "6863836",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "14545"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Afrojack & Jewelz & Sparks & Nicky Romero & Frida Amundsen vs. Steve Angello & Laidback Luke & Robin S",
+      "title": "One More Day vs. Show Me Love (Nicky Romero Mashup)",
+      "remix": "",
+      "label": "MIXMASH/WALL/ARMADA",
+      "trackId": "6863837",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1705,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "John Dahlbäck",
+      "title": "Pyramid (Nicky Romero Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "6863841",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1823,
+      "mediaIds": {
+        "spotify": "733970",
+        "youtube": "733970",
+        "soundcloud": "733970",
+        "appleMusic": "733970"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Nicky Romero & GATTÜSO ft. Jared Lee",
+      "title": "Afterglow",
+      "remix": "",
+      "label": "PROTOCOL",
+      "trackId": "6863842",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1884,
+      "mediaIds": {
+        "spotify": "734511",
+        "youtube": "734511",
+        "soundcloud": "734511",
+        "appleMusic": "734511"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Farruko ft. Victor Cardenas",
+      "title": "Pepas",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "6863844",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1994,
+      "mediaIds": {
+        "spotify": "710973",
+        "youtube": "710973",
+        "soundcloud": "710973",
+        "appleMusic": "710973"
+      },
+      "blendGroup": [
+        {
+          "artist": "Farruko ft. Victor Cardenas",
+          "title": "Pepas",
+          "remix": "",
+          "trackId": "6863844"
+        },
+        {
+          "artist": "David Guetta & Nicky Romero",
+          "title": "Metropolis",
+          "remix": "",
+          "trackId": "6863845"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta & Nicky Romero",
+      "title": "Metropolis",
+      "remix": "",
+      "label": "JACK BACK/WHAT A MUSIC",
+      "trackId": "6863845",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "67512",
+        "youtube": "67512",
+        "soundcloud": "67512",
+        "appleMusic": "67512"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Kid Cudi ft. MGMT & Ratatat & Steve Aoki vs. Dimitri Vegas & Like Mike & MOGUAI",
+      "title": "Pursuit Of Happiness vs. Mammoth (Dimitri Vegas & Like Mike Mashup)",
+      "remix": "",
+      "label": "REPUBLIC/GOOD MUSIC/SMASH THE HOUSE",
+      "trackId": "6863846",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2097,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "David Guetta & MORTEN",
+      "title": "Permanence",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "6863848",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2260,
+      "mediaIds": {
+        "spotify": "616008",
+        "youtube": "616008",
+        "soundcloud": "616008",
+        "appleMusic": "616008"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "David Guetta & AFROJACK ft. Luxtides",
+      "title": "Hero (Nicky Romero Remix)",
+      "remix": "",
+      "label": "WALL",
+      "trackId": "6863849",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2388,
+      "mediaIds": {
+        "spotify": "704959",
+        "youtube": "704959",
+        "soundcloud": "704959",
+        "appleMusic": "704959"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Deniz Koyu & Don Palm vs. Zedd ft. Foxes",
+      "title": "Lift Clarity (Nicky Romero Mashup)",
+      "remix": "",
+      "label": "INTERSCOPE/PROTOCOL",
+      "trackId": "7116155",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 2480,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "D.O.D vs. Missy Elliot vs. John Christian & VAVO",
+      "title": "According To Me vs. Get Ur Freak On vs. How Low (Nicky Romero Mashup)",
+      "remix": "",
+      "label": "ELEKTRA/MUSICAL FREEDOM/AXTONE",
+      "trackId": "6863850",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 2587,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "David Guetta & Sia vs. Sebastian Ingrosso & Alesso",
+      "title": "Calling Titanium (David Guetta & DJs From Mars Mashup)",
+      "remix": "",
+      "label": "PARLOPHONE/REFUNE (WARNER MUSIC)",
+      "trackId": "6863959",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 2657,
+      "mediaIds": {
+        "youtube": "528646"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Axwell Λ Ingrosso ft. Kristoffer Fogelmark",
+      "title": "More Than You Know",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "6863960",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2780,
+      "mediaIds": {
+        "spotify": "255105",
+        "youtube": "255105",
+        "soundcloud": "255105",
+        "appleMusic": "255105"
+      },
+      "blendGroup": [
+        {
+          "artist": "Axwell Λ Ingrosso ft. Kristoffer Fogelmark",
+          "title": "More Than You Know",
+          "remix": "",
+          "trackId": "6863960"
+        },
+        {
+          "artist": "Nicky Romero",
+          "title": "Toulouse",
+          "remix": "",
+          "trackId": "6863961"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nicky Romero",
+      "title": "Toulouse",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "6863961",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "56269",
+        "youtube": "56269",
+        "soundcloud": "56269",
+        "appleMusic": "56269"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nicky Romero",
+          "title": "Toulouse",
+          "remix": "",
+          "trackId": "6863961"
+        },
+        {
+          "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+          "title": "Put Ya Fuckin Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "6863962"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pitbull ft. Lil Jon & will.i.am & Jermaine Dupri",
+      "title": "Put Ya Fuckin Hands Up (Acappella)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "6863962",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "16909",
+        "soundcloud": "16909"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Avicii & Nicky Romero & Noonie Bao vs. Martin Garrix & Matisse & Sadko & Alex Aris",
+      "title": "I Could Be The One vs. Mistaken (Nicky Romero Mashup)",
+      "remix": "",
+      "label": "UMG/EPIC AMSTERDAM/STMPD",
+      "trackId": "6863963",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2933,
+      "mediaIds": {
+        "youtube": "753109"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Nicky Romero & Teamworx vs. Yeah Yeah Yeahs & A-Trak & Jewelz & Sparks vs. MAKJ",
+      "title": "Deep Dark Jungle vs. Heads Will Roll vs. Springen (Fuerte & B-Rather & Whaler Mashup)",
+      "remix": "",
+      "label": "HYSTERIA/DGC/PROTOCOL",
+      "trackId": "6863966",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3233,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "W&W & Maurice West vs. Armin Van Buuren",
+      "title": "Matrix vs. Blah Blah Blah (Nicky Romero Mashup)",
+      "remix": "",
+      "label": "ARMADA/RAVE CULTURE",
+      "trackId": "6863967",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3390,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Matisse & Sadko vs. Justin Bieber",
+      "title": "Sweet Life vs. Hold On (Matisse & Sadko Mashup)",
+      "remix": "",
+      "label": "STMPD/DEF JAM",
+      "trackId": "6863978",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 3487,
+      "mediaIds": {
+        "youtube": "747616"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2596270",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=Bf7A9aruE-s"
+    },
+    {
+      "platform": "source_2",
+      "idMedia": "2549322",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/nicky-romero-at-edc-las-vegas-2021-kinetic-field-stage-dj-mix/1595223569/us/album/nicky-romero-at-edc-las-vegas-2021-kinetic-field-stage-dj-mix/1595223569?app=music&at=1000lwkw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:46:36.750Z",
+  "scrapeVersion": 2
+}

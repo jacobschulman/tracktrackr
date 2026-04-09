@@ -1,0 +1,916 @@
+{
+  "tlId": "tmunnct",
+  "dj": "VARI",
+  "stage": "EDC Las Vegas",
+  "date": "2024-05-19",
+  "year": 2024,
+  "url": "https://www.1001tracklists.com/tracklist/tmunnct/vari-beatboxartcar-gud-vibrations-edc-las-vegas-united-states-2024-05-19.html",
+  "djs": [
+    {
+      "name": "VARI",
+      "slug": "vari"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "VARI",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10584857",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Prospa & DJ Seinfeld",
+      "title": "Sira (Masayoshi Iimori Remix)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "10584858",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "749258",
+        "soundcloud": "749258"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Voliik",
+      "title": "Surge",
+      "remix": "",
+      "label": "",
+      "trackId": "10584859",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 130,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "VARI",
+      "title": "Terminal",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "10584860",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1033284",
+        "youtube": "1033284",
+        "soundcloud": "1033284",
+        "appleMusic": "1033284"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Hex Cougar & VARI",
+      "title": "Ultra",
+      "remix": "",
+      "label": "BREAK ROOM",
+      "trackId": "10584861",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1077000",
+        "youtube": "1077000",
+        "soundcloud": "1077000",
+        "appleMusic": "1077000"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Shadient & nikko (US)",
+      "title": "LONESUM",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "10584862",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "978728",
+        "youtube": "978728",
+        "soundcloud": "978728",
+        "appleMusic": "978728"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Malixe",
+      "title": "Deadman",
+      "remix": "",
+      "label": "AWAKENING",
+      "trackId": "10584863",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1035563",
+        "soundcloud": "1035563",
+        "appleMusic": "1035563"
+      },
+      "blendGroup": [
+        {
+          "artist": "Malixe",
+          "title": "Deadman",
+          "remix": "",
+          "trackId": "10584863"
+        },
+        {
+          "artist": "Skrillex & Kito ft. Aluna",
+          "title": "Inhale Exhale",
+          "remix": "",
+          "trackId": "10584864"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Kito ft. Aluna",
+      "title": "Inhale Exhale",
+      "remix": "",
+      "label": "OWSLA/ATLANTIC",
+      "trackId": "10584864",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "857136",
+        "youtube": "857136",
+        "soundcloud": "857136",
+        "appleMusic": "857136"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "VARI & NVADRZ",
+      "title": "SPLINTER",
+      "remix": "",
+      "label": "GUD VIBRATIONS",
+      "trackId": "10584865",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1042464",
+        "youtube": "1042464",
+        "soundcloud": "1042464",
+        "appleMusic": "1042464"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Oddly Godly",
+      "title": "No Frndz",
+      "remix": "",
+      "label": "AWAKENING",
+      "trackId": "10584866",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "984420",
+        "youtube": "984420",
+        "soundcloud": "984420",
+        "appleMusic": "984420"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "MARAUDA",
+      "title": "Sinews",
+      "remix": "",
+      "label": "MALIGNANT",
+      "trackId": "10584867",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "858216",
+        "youtube": "858216",
+        "soundcloud": "858216",
+        "appleMusic": "858216"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Effin",
+      "title": "Cheese",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "10584868",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "556714",
+        "youtube": "556714",
+        "soundcloud": "556714",
+        "appleMusic": "556714"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "ISOxo",
+      "title": "IGNORANT",
+      "remix": "",
+      "label": "88RISING",
+      "trackId": "10584869",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "937143",
+        "youtube": "937143",
+        "soundcloud": "937143",
+        "appleMusic": "937143"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Juelz",
+      "title": "Freefall (VARI Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "10584870",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1003808",
+        "soundcloud": "1003808"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "VARI",
+      "title": "Instance",
+      "remix": "",
+      "label": "ALTER/EGO",
+      "trackId": "10584871",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "934334",
+        "soundcloud": "934334",
+        "appleMusic": "934334"
+      },
+      "blendGroup": [
+        {
+          "artist": "VARI",
+          "title": "Instance",
+          "remix": "",
+          "trackId": "10584871"
+        },
+        {
+          "artist": "VARI & SH4DOWS",
+          "title": "Ego",
+          "remix": "",
+          "trackId": "10584872"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "VARI & SH4DOWS",
+      "title": "Ego",
+      "remix": "",
+      "label": "LOST IN DREAMS",
+      "trackId": "10584872",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "10584872"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "RL Grime",
+      "title": "Runner (VARI Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "10584873",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "10584873"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "VARI",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10584874",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "VARI",
+      "title": "Anodize",
+      "remix": "",
+      "label": "GUD VIBRATIONS",
+      "trackId": "10584875",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "614733",
+        "soundcloud": "614733",
+        "appleMusic": "614733"
+      },
+      "blendGroup": [
+        {
+          "artist": "VARI",
+          "title": "Anodize",
+          "remix": "",
+          "trackId": "10584875"
+        },
+        {
+          "artist": "RL Grime ft. Chief Keef & Joji",
+          "title": "OMG",
+          "remix": "",
+          "trackId": "10584876"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RL Grime ft. Chief Keef & Joji",
+      "title": "OMG",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "10584876",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "450042",
+        "youtube": "450042",
+        "soundcloud": "450042",
+        "appleMusic": "450042"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "msft & VARI",
+      "title": "Crash Test",
+      "remix": "",
+      "label": "KUMO COLLECTIVE",
+      "trackId": "10584877",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "836988",
+        "youtube": "836988",
+        "soundcloud": "836988",
+        "appleMusic": "836988"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "nikko",
+      "title": "MASTA",
+      "remix": "",
+      "label": "NIGHTMODE",
+      "trackId": "10584878",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "991182",
+        "youtube": "991182",
+        "soundcloud": "991182"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Daft Punk",
+      "title": "Technologic (NVADRZ Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "10584879",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "936529",
+        "soundcloud": "936529"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Lizdek & VARI",
+      "title": "MOVELIKE",
+      "remix": "",
+      "label": "GUD VIBRATIONS",
+      "trackId": "10584880",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1047587",
+        "youtube": "1047587",
+        "soundcloud": "1047587",
+        "appleMusic": "1047587"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "VARI",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10584881",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "VARI",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10584882",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "VARI & Virus Mafia",
+      "title": "Harakiri",
+      "remix": "",
+      "label": "GUD VIBRATIONS",
+      "trackId": "10584883",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "972901",
+        "youtube": "972901",
+        "soundcloud": "972901"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "IMANU & Jon Casey",
+      "title": "Kotaro",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "10584884",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "761211",
+        "youtube": "761211",
+        "soundcloud": "761211",
+        "appleMusic": "761211"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "VARI",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10584885",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "VARI",
+          "title": "ID",
+          "remix": "",
+          "trackId": "10584885"
+        },
+        {
+          "artist": "SYNYMATA & VARI ft. Elle Vee",
+          "title": "Guilty",
+          "remix": "",
+          "trackId": "10584886"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SYNYMATA & VARI ft. Elle Vee",
+      "title": "Guilty",
+      "remix": "",
+      "label": "NIGHTMODE",
+      "trackId": "10584886",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "773601",
+        "youtube": "773601",
+        "soundcloud": "773601",
+        "appleMusic": "773601"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "JAWNS",
+      "title": "All Massive",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "10584887",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "887075",
+        "youtube": "887075",
+        "soundcloud": "887075",
+        "appleMusic": "887075"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Effin",
+      "title": "Practice",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "10584888",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "865329",
+        "youtube": "865329",
+        "soundcloud": "865329",
+        "appleMusic": "865329"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "BrEaCh",
+      "title": "Jack (IMANU & Buunshin Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "10584889",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "591832",
+        "soundcloud": "591832"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Skrillex & Noisia & Josh Pan & Dylan Brady",
+      "title": "Supersonic (My Existence) (REMNANT.exe Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "10584890",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Noisia & Josh Pan & Dylan Brady",
+          "title": "Supersonic (My Existence) (REMNANT.exe Remix)",
+          "remix": "",
+          "trackId": "10584890"
+        },
+        {
+          "artist": "RL Grime",
+          "title": "Rainer(Co-Prod. by graves) (k?d Remix)",
+          "remix": "",
+          "trackId": "10584891"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RL Grime",
+      "title": "Rainer(Co-Prod. by graves) (k?d Remix)",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "10584891",
+      "row": 30,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "462063",
+        "youtube": "462063",
+        "soundcloud": "462063",
+        "appleMusic": "462063"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "VARI",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10584892",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Gesaffelstein",
+      "title": "OPR",
+      "remix": "",
+      "label": "TURBO",
+      "trackId": "10584893",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "42892",
+        "youtube": "42892",
+        "soundcloud": "42892",
+        "appleMusic": "42892"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Noisia",
+      "title": "Lilith's Club",
+      "remix": "",
+      "label": "DIVISION",
+      "trackId": "10584894",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "119035",
+        "youtube": "119035",
+        "soundcloud": "119035",
+        "appleMusic": "119035"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Guilt Chip & VARI",
+      "title": "Panic",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "10584895",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "741756",
+        "youtube": "741756",
+        "soundcloud": "741756",
+        "appleMusic": "741756"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "35",
+      "artist": "EPROM",
+      "title": "Trust",
+      "remix": "",
+      "label": "1985",
+      "trackId": "10584896",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "938000",
+        "youtube": "938000",
+        "soundcloud": "938000",
+        "appleMusic": "938000"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "36",
+      "artist": "VARI",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10584897",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "37",
+      "artist": "VARI vs Baby Keem",
+      "title": "Infared vs. trademark usa (Pauline Herr Edit)",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "10584898",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "38",
+      "artist": "G Jones",
+      "title": "A2C2I2D",
+      "remix": "",
+      "label": "ILLUSORY",
+      "trackId": "10584899",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "656349",
+        "youtube": "656349",
+        "soundcloud": "656349",
+        "appleMusic": "656349"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "GRAVEDGR & Carnage & Dither",
+      "title": "Fick Dich (Kraysh Remix)",
+      "remix": "",
+      "label": "HEAVYWEIGHT",
+      "trackId": "10584900",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "Zero",
+      "title": "Chernobyl",
+      "remix": "",
+      "label": "BARCODES",
+      "trackId": "10584901",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "543765",
+        "youtube": "543765",
+        "soundcloud": "543765",
+        "appleMusic": "543765"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "ALEPH",
+      "title": "NEXT HYPE",
+      "remix": "",
+      "label": "",
+      "trackId": "10584902",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "42",
+      "artist": "Bushbaby",
+      "title": "DESIRE96",
+      "remix": "",
+      "label": "SOUTHPOINT",
+      "trackId": "10584903",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "887076",
+        "youtube": "887076",
+        "soundcloud": "887076",
+        "appleMusic": "887076"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "43",
+      "artist": "Gyrofield & NONYU",
+      "title": "The Tube",
+      "remix": "",
+      "label": "",
+      "trackId": "10584904",
+      "row": 43,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "10584904"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "44",
+      "artist": "X CLUB.",
+      "title": "Parallel Wire",
+      "remix": "",
+      "label": "HIDE THE JUNK",
+      "trackId": "10584905",
+      "row": 44,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "975150",
+        "youtube": "975150",
+        "soundcloud": "975150",
+        "appleMusic": "975150"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "45",
+      "artist": "VARI",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10584906",
+      "row": 45,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "46",
+      "artist": "SYNYMATA & VARI",
+      "title": "ID (VIP)",
+      "remix": "",
+      "label": "",
+      "trackId": "10584907",
+      "row": 46,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "4142170",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1830375747"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:28:10.217Z",
+  "scrapeVersion": 2
+}

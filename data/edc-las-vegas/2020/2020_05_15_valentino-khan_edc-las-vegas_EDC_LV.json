@@ -1,0 +1,774 @@
+{
+  "tlId": "u9sn1h1",
+  "dj": "Valentino Khan",
+  "stage": "EDC Las Vegas",
+  "date": "2020-05-15",
+  "year": 2020,
+  "url": "https://www.1001tracklists.com/tracklist/u9sn1h1/valentino-khan-edc-las-vegas-virtual-rave-a-thon-united-states-2020-05-15.html",
+  "djs": [
+    {
+      "name": "Valentino Khan",
+      "slug": "valentinokhan"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Valentino Khan",
+      "title": "Blackmail",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "4961003",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 195,
+      "mediaIds": {
+        "spotify": "579548",
+        "youtube": "579548",
+        "soundcloud": "579548",
+        "appleMusic": "579548"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Diplo & SIDEPIECE",
+      "title": "On My Mind (SHDWS Flip)",
+      "remix": "",
+      "label": "",
+      "trackId": "4961004",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 315,
+      "mediaIds": {
+        "youtube": "554495",
+        "soundcloud": "554495"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Noizu",
+      "title": "Dance",
+      "remix": "",
+      "label": "BLACK BOOK SELECTS",
+      "trackId": "4961005",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 375,
+      "mediaIds": {
+        "spotify": "463469",
+        "youtube": "463469",
+        "soundcloud": "463469",
+        "appleMusic": "463469"
+      },
+      "blendGroup": [
+        {
+          "artist": "Noizu",
+          "title": "Dance",
+          "remix": "",
+          "trackId": "4961005"
+        },
+        {
+          "artist": "MNNR",
+          "title": "Black Suit",
+          "remix": "",
+          "trackId": "4961006"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MNNR",
+      "title": "Black Suit",
+      "remix": "",
+      "label": "NIGHT SERVICE ONLY",
+      "trackId": "4961006",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 408,
+      "mediaIds": {
+        "spotify": "555633",
+        "youtube": "555633",
+        "soundcloud": "555633",
+        "appleMusic": "555633"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Chris Lake & Chris Lorenzo pres. Anti Up",
+      "title": "Concentrate",
+      "remix": "",
+      "label": "UP THE ANTI",
+      "trackId": "4961007",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 438,
+      "mediaIds": {
+        "spotify": "484834",
+        "youtube": "484834",
+        "soundcloud": "484834",
+        "appleMusic": "484834"
+      },
+      "blendGroup": [
+        {
+          "artist": "Chris Lake & Chris Lorenzo pres. Anti Up",
+          "title": "Concentrate",
+          "remix": "",
+          "trackId": "4961007"
+        },
+        {
+          "artist": "Nonsens",
+          "title": "Don't Stop",
+          "remix": "",
+          "trackId": "4961008"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nonsens",
+      "title": "Don't Stop",
+      "remix": "",
+      "label": ":LABELMADE:",
+      "trackId": "4961008",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 469,
+      "mediaIds": null
+    },
+    {
+      "pos": "05",
+      "artist": "Diplo & AutoErotique vs. Valentino Khan",
+      "title": "Waist Time vs. Deep Down Low (Deville 2017 VIP Edit)",
+      "remix": "",
+      "label": "OWSLA/MAD DECENT",
+      "trackId": "4961010",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 503,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "RL Grime",
+      "title": "Pressure(Co-Prod. by Boys Noize) (Valentino Khan ft. Anna Lunoe Remix)",
+      "remix": "",
+      "label": "WEDIDIT",
+      "trackId": "4961011",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 576,
+      "mediaIds": {
+        "spotify": "455702",
+        "youtube": "455702",
+        "soundcloud": "455702",
+        "appleMusic": "455702"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Psycho Boys Club",
+      "title": "Dehumanize",
+      "remix": "",
+      "label": "",
+      "trackId": "4961012",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 678,
+      "mediaIds": {
+        "youtube": "907427"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Wuki ft. Roxanna",
+      "title": "NYC 2 LA (BELLECOUR Remix)",
+      "remix": "",
+      "label": "CONFESSION",
+      "trackId": "4961013",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 738,
+      "mediaIds": {
+        "spotify": "521653",
+        "youtube": "521653",
+        "soundcloud": "521653",
+        "appleMusic": "521653"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Valentino Khan & Ship Wrek",
+      "title": "Obsession",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "4961014",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 788,
+      "mediaIds": {
+        "spotify": "571674",
+        "youtube": "571674",
+        "soundcloud": "571674",
+        "appleMusic": "571674"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Taiki Nulight & Dread MC",
+      "title": "Messi",
+      "remix": "",
+      "label": "ORIENT",
+      "trackId": "4961107",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 848,
+      "mediaIds": {
+        "spotify": "582077",
+        "youtube": "582077",
+        "soundcloud": "582077",
+        "appleMusic": "582077"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Good Times Ahead",
+      "title": "DBL Park",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "4961015",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 918,
+      "mediaIds": {
+        "spotify": "586550",
+        "youtube": "586550",
+        "soundcloud": "586550",
+        "appleMusic": "586550"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Schade",
+      "title": "Schadeifornia",
+      "remix": "",
+      "label": "SCHADE",
+      "trackId": "4961016",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 963,
+      "mediaIds": {
+        "youtube": "455733",
+        "soundcloud": "455733"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Valentino Khan",
+      "title": "Pony",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "4961017",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1058,
+      "mediaIds": {
+        "spotify": "494424",
+        "youtube": "494424",
+        "soundcloud": "494424",
+        "appleMusic": "494424"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Valentino Khan",
+      "title": "Lick It (Noizu Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "4961018",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1148,
+      "mediaIds": {
+        "spotify": "415706",
+        "youtube": "415706",
+        "soundcloud": "415706",
+        "appleMusic": "415706"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Valentino Khan",
+      "title": "Lick It (Gammer Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "4961019",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1207,
+      "mediaIds": {
+        "spotify": "418156",
+        "youtube": "418156",
+        "soundcloud": "418156",
+        "appleMusic": "418156"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "JOYRYDE & Skrillex",
+      "title": "Agen Wida (Trip Trop Twist)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "4961020",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1260,
+      "mediaIds": {
+        "youtube": "558737",
+        "soundcloud": "558737"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Alison Wonderland",
+      "title": "Good Enough (Valentino Khan Remix)",
+      "remix": "",
+      "label": "EMI AUSTRALIA",
+      "trackId": "4961021",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1308,
+      "mediaIds": {
+        "spotify": "418099",
+        "youtube": "418099",
+        "soundcloud": "418099",
+        "appleMusic": "418099"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Captain Jack",
+      "title": "Captain Jack",
+      "remix": "",
+      "label": "BEATDISASTER",
+      "trackId": "4961022",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1388,
+      "mediaIds": {
+        "spotify": "575526",
+        "youtube": "575526",
+        "appleMusic": "575526"
+      },
+      "blendGroup": [
+        {
+          "artist": "Captain Jack",
+          "title": "Captain Jack",
+          "remix": "",
+          "trackId": "4961022"
+        },
+        {
+          "artist": "Henry Fong & Linka",
+          "title": "Real",
+          "remix": "",
+          "trackId": "4961219"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Henry Fong & Linka",
+      "title": "Real",
+      "remix": "",
+      "label": "SKINK",
+      "trackId": "4961219",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 1427,
+      "mediaIds": {
+        "spotify": "564444",
+        "youtube": "564444",
+        "soundcloud": "564444",
+        "appleMusic": "564444"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Shelco Garcia & TeenWolf & Big Syphe & Shelco Garcia",
+      "title": "La Chona",
+      "remix": "",
+      "label": "BARNATON",
+      "trackId": "4961220",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1450,
+      "mediaIds": {
+        "spotify": "578033",
+        "youtube": "578033",
+        "soundcloud": "578033",
+        "appleMusic": "578033"
+      },
+      "blendGroup": [
+        {
+          "artist": "Shelco Garcia & TeenWolf & Big Syphe & Shelco Garcia",
+          "title": "La Chona",
+          "remix": "",
+          "trackId": "4961220"
+        },
+        {
+          "artist": "ACRAZE",
+          "title": "Let's Get Crazy",
+          "remix": "",
+          "trackId": "4961221"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ACRAZE",
+      "title": "Let's Get Crazy",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "4961221",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 1485,
+      "mediaIds": {
+        "spotify": "502408",
+        "youtube": "502408",
+        "appleMusic": "502408"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Darude",
+      "title": "Sandstorm",
+      "remix": "",
+      "label": "NEO RECORDS/ROBBINS",
+      "trackId": "4961222",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1510,
+      "mediaIds": {
+        "spotify": "17045",
+        "youtube": "17045",
+        "soundcloud": "17045",
+        "appleMusic": "17045"
+      },
+      "blendGroup": [
+        {
+          "artist": "Darude",
+          "title": "Sandstorm",
+          "remix": "",
+          "trackId": "4961222"
+        },
+        {
+          "artist": "Flosstradamus & Valentino Khan",
+          "title": "MFU (Acappella)",
+          "remix": "",
+          "trackId": "4961225"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flosstradamus & Valentino Khan",
+      "title": "MFU (Acappella)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "4961225",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 1513,
+      "mediaIds": {
+        "spotify": "240878",
+        "youtube": "240878",
+        "soundcloud": "352603",
+        "appleMusic": "240878"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flosstradamus & Valentino Khan",
+          "title": "MFU (Acappella)",
+          "remix": "",
+          "trackId": "4961225"
+        },
+        {
+          "artist": "Flosstradamus & Valentino Khan vs. Frizz",
+          "title": "MFU (VIP VIP)",
+          "remix": "",
+          "trackId": "4961223"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flosstradamus & Valentino Khan vs. Frizz",
+      "title": "MFU (VIP VIP)",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD",
+      "trackId": "4961223",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 1563,
+      "mediaIds": null
+    },
+    {
+      "pos": "21",
+      "artist": "Future vs. Alison Wonderland & Vincent ft. Wayne Coyne",
+      "title": "Mask Off vs. U Don't Know (Benzi & Chuwe Edit)",
+      "remix": "",
+      "label": "EMI AUSTRALIA/FREEBANDZ",
+      "trackId": "13675870",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1593,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Future vs. Alison Wonderland & Vincent ft. Wayne Coyne",
+          "title": "Mask Off vs. U Don't Know (Benzi & Chuwe Edit)",
+          "remix": "",
+          "trackId": "13675870"
+        },
+        {
+          "artist": "Flosstradamus & GTA ft. Lil Jon",
+          "title": "Prison Riot (Acappella)",
+          "remix": "",
+          "trackId": "13675871"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Flosstradamus & GTA ft. Lil Jon",
+      "title": "Prison Riot (Acappella)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "13675871",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 1628,
+      "mediaIds": {
+        "spotify": "231264",
+        "youtube": "293733",
+        "soundcloud": "293733",
+        "appleMusic": "231264"
+      },
+      "blendGroup": [
+        {
+          "artist": "Flosstradamus & GTA ft. Lil Jon",
+          "title": "Prison Riot (Acappella)",
+          "remix": "",
+          "trackId": "13675871"
+        },
+        {
+          "artist": "PEEKABOO",
+          "title": "Nut Case",
+          "remix": "",
+          "trackId": "4961226"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "PEEKABOO",
+      "title": "Nut Case",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "4961226",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 1631,
+      "mediaIds": {
+        "spotify": "543171",
+        "youtube": "543171",
+        "soundcloud": "543171",
+        "appleMusic": "543171"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Party Favor",
+      "title": "WAWA",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "13675872",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1655,
+      "mediaIds": {
+        "spotify": "347601",
+        "youtube": "347601",
+        "soundcloud": "347601",
+        "appleMusic": "347601"
+      },
+      "blendGroup": [
+        {
+          "artist": "Party Favor",
+          "title": "WAWA",
+          "remix": "",
+          "trackId": "13675872"
+        },
+        {
+          "artist": "Alvaro & DJ MERCER ft. Lil Jon",
+          "title": "Welcome To The Jungle (Acappella)",
+          "remix": "",
+          "trackId": "4961227"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alvaro & DJ MERCER ft. Lil Jon",
+      "title": "Welcome To The Jungle (Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "4961227",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 1677,
+      "mediaIds": {
+        "spotify": "132127",
+        "youtube": "132127",
+        "soundcloud": "132127",
+        "appleMusic": "132127"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alvaro & DJ MERCER ft. Lil Jon",
+          "title": "Welcome To The Jungle (Acappella)",
+          "remix": "",
+          "trackId": "4961227"
+        },
+        {
+          "artist": "NCT 127",
+          "title": "Kick It (Valentino Khan Remix)",
+          "remix": "",
+          "trackId": "4961228"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "NCT 127",
+      "title": "Kick It (Valentino Khan Remix)",
+      "remix": "",
+      "label": "SM ENTERTAINMENT",
+      "trackId": "4961228",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 1679,
+      "mediaIds": {
+        "spotify": "581335",
+        "youtube": "581335",
+        "soundcloud": "581335",
+        "appleMusic": "581335"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Chuck Roberts vs. Katy Perry & Valentino Khan",
+      "title": "Let There Be House vs. Swish Swish (Flosstradamus Edit)",
+      "remix": "",
+      "label": "KNIGHTVISION/CAPITOL (EMI)",
+      "trackId": "4961229",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1705,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Schoolboy Q ft. A$AP Rocky",
+      "title": "Hands On The Wheel",
+      "remix": "",
+      "label": "TOP DAWG",
+      "trackId": "4961230",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1775,
+      "mediaIds": {
+        "spotify": "72335",
+        "youtube": "72335",
+        "soundcloud": "72335",
+        "appleMusic": "72335"
+      },
+      "blendGroup": [
+        {
+          "artist": "Schoolboy Q ft. A$AP Rocky",
+          "title": "Hands On The Wheel",
+          "remix": "",
+          "trackId": "4961230"
+        },
+        {
+          "artist": "Taiki Nulight & Wax Motif ft. Scrufizzer",
+          "title": "Skank N Flex",
+          "remix": "",
+          "trackId": "4961231"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Taiki Nulight & Wax Motif ft. Scrufizzer",
+      "title": "Skank N Flex",
+      "remix": "",
+      "label": "DIVIDED SOULS",
+      "trackId": "4961231",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 1804,
+      "mediaIds": {
+        "spotify": "504617",
+        "youtube": "504617",
+        "soundcloud": "504617",
+        "appleMusic": "504617"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Valentino Khan vs. Technotronic",
+      "title": "Pump Up The Jam Like That (Flosstradamus Edit)",
+      "remix": "",
+      "label": "EMI UK/MAD DECENT",
+      "trackId": "4961232",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 1830,
+      "mediaIds": {
+        "youtube": "374651"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "1712565",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=zCdZvy6ERpw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:56:39.509Z",
+  "scrapeVersion": 2
+}

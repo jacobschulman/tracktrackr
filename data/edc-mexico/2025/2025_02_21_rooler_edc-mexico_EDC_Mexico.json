@@ -1,0 +1,607 @@
+{
+  "tlId": "2vtb7ctk",
+  "dj": "Rooler",
+  "stage": "EDC Mexico",
+  "date": "2025-02-21",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/2vtb7ctk/rooler-wasteland-edc-mexico-2025-02-21.html",
+  "djs": [
+    {
+      "name": "Rooler",
+      "slug": "rooler"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Rooler & Sickmode",
+      "title": "TOO HAPPY (YuB Titanium Mashup)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)/AGGRESSIVE",
+      "trackId": "11790570",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Mau P",
+      "title": "Drugs From Amsterdam (Rooler Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "11795700",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 81,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Sickmode",
+      "title": "GO STUPID",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "11790574",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 164,
+      "mediaIds": {
+        "spotify": "785844",
+        "youtube": "785844",
+        "soundcloud": "785844",
+        "appleMusic": "785844"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sickmode",
+          "title": "GO STUPID",
+          "remix": "",
+          "trackId": "11790574"
+        },
+        {
+          "artist": "Dual Damage",
+          "title": "Hiding",
+          "remix": "",
+          "trackId": "11790575"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dual Damage",
+      "title": "Hiding",
+      "remix": "",
+      "label": "SCANTRAXX BLACK",
+      "trackId": "11790575",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "895586",
+        "youtube": "895586",
+        "soundcloud": "895586",
+        "appleMusic": "895586"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Rooler & Kronos",
+      "title": "FCK DAT! (Krowdexx Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "11790563",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 303,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Zatox vs. HWS Origins",
+      "title": "Zombivilization",
+      "remix": "",
+      "label": "EPM/HARD WITH STYLE ORIGINS/WARNER MUSIC GERMANY",
+      "trackId": "11795701",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 465,
+      "mediaIds": {
+        "youtube": "318432",
+        "soundcloud": "318432"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zatox vs. HWS Origins",
+          "title": "Zombivilization",
+          "remix": "",
+          "trackId": "11795701"
+        },
+        {
+          "artist": "Yellow Claw & Juyen Sebulba",
+          "title": "Do You Like Bass?",
+          "remix": "(Acappella)",
+          "trackId": "11795702"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Yellow Claw & Juyen Sebulba",
+      "title": "Do You Like Bass?",
+      "remix": "(Acappella)",
+      "label": "BARONG FAMILY",
+      "trackId": "11795702",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "378362",
+        "youtube": "378362",
+        "soundcloud": "378362",
+        "appleMusic": "378362"
+      },
+      "blendGroup": [
+        {
+          "artist": "Yellow Claw & Juyen Sebulba",
+          "title": "Do You Like Bass?",
+          "remix": "(Acappella)",
+          "trackId": "11795702"
+        },
+        {
+          "artist": "Krowdexx & Sickmode & MISH",
+          "title": "HATE OR LOVE IT",
+          "remix": "",
+          "trackId": "11790572"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Krowdexx & Sickmode & MISH",
+      "title": "HATE OR LOVE IT",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "11790572",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "905863",
+        "youtube": "905863",
+        "soundcloud": "905863",
+        "appleMusic": "905863"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "11795703",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 623,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Sickmode",
+      "title": "I LIKE THE NOISE (I made this song in 1 hour while I was pooping)",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "11795704",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 646,
+      "mediaIds": {
+        "spotify": "1003679",
+        "youtube": "1003679",
+        "soundcloud": "1003679",
+        "appleMusic": "1003679"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Proppy & Heady",
+      "title": "Summer Of Hardstyle",
+      "remix": "",
+      "label": "SCANTRAXX",
+      "trackId": "11795705",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 773,
+      "mediaIds": {
+        "spotify": "80079",
+        "youtube": "80079",
+        "appleMusic": "80079"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Rooler",
+      "title": "WELCOME 2 DA RECORDSHOP",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "11790564",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 846,
+      "mediaIds": {
+        "spotify": "1050934",
+        "youtube": "1050934",
+        "soundcloud": "1050934",
+        "appleMusic": "1050934"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Rooler",
+      "title": "DISCOTEK (The Gang Edit)",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "11790571",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 995,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Warface & Rooler",
+      "title": "FLYIN' HIGH",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "11795706",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1146,
+      "mediaIds": {
+        "spotify": "877115",
+        "youtube": "877115",
+        "soundcloud": "877115",
+        "appleMusic": "877115"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "David Guetta vs. Benny Benassi",
+      "title": "Satisfaction (Hardwell & Maddix Remix / Sub Zero Project Psycho Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "11795707",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1262,
+      "mediaIds": {
+        "youtube": "902676"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Rooler & NOTYPE",
+      "title": "STAR WALKIN'",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "11795708",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1357,
+      "mediaIds": {
+        "spotify": "919628",
+        "youtube": "919628",
+        "soundcloud": "919628",
+        "appleMusic": "919628"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Rooler & Sickmode",
+      "title": "TOO COLD (EQUAL2 FROSTBITE EDIT)",
+      "remix": "",
+      "label": "",
+      "trackId": "11790560",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1474,
+      "mediaIds": {
+        "youtube": "880655",
+        "soundcloud": "880655"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rooler & Sickmode",
+          "title": "TOO COLD (EQUAL2 FROSTBITE EDIT)",
+          "remix": "",
+          "trackId": "11790560"
+        },
+        {
+          "artist": "Rooler & Sickmode",
+          "title": "TOO COLD",
+          "remix": "",
+          "trackId": "11790561"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rooler & Sickmode",
+      "title": "TOO COLD",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "11790561",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "738528",
+        "youtube": "738528",
+        "soundcloud": "738528",
+        "appleMusic": "738528"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Black Eyed Peas",
+      "title": "Pump It (Rooler Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "11795709",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1666,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Black Eyed Peas",
+          "title": "Pump It (Rooler Bootleg)",
+          "remix": "",
+          "trackId": "11795709"
+        },
+        {
+          "artist": "Luminite & Malice (IT)",
+          "title": "Death Destruction (Live Edit)",
+          "remix": "",
+          "trackId": "11795710"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Luminite & Malice (IT)",
+      "title": "Death Destruction (Live Edit)",
+      "remix": "",
+      "label": "GEARBOX",
+      "trackId": "11795710",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "16",
+      "artist": "TNT",
+      "title": "2004",
+      "remix": "",
+      "label": "DIRTY WORKZ",
+      "trackId": "11795711",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1750,
+      "mediaIds": {
+        "spotify": "1043599",
+        "youtube": "1043599",
+        "soundcloud": "1043599",
+        "appleMusic": "1043599"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Builder",
+      "title": "Her Voice (Headhunterz Remix / MISH Edit)",
+      "remix": "",
+      "label": "DANCE POLLUTION",
+      "trackId": "11795712",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1835,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Rooler & Sickmode",
+      "title": "DOWN DOWN",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "11795713",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1886,
+      "mediaIds": {
+        "spotify": "841613",
+        "youtube": "841613",
+        "soundcloud": "841613",
+        "appleMusic": "841613"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Coone & Rooler",
+      "title": "Return Of The Return",
+      "remix": "",
+      "label": "DIRTY WORKZ",
+      "trackId": "11790562",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "888481",
+        "youtube": "888481",
+        "soundcloud": "888481",
+        "appleMusic": "888481"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Showtek",
+      "title": "FTS (Fuck The System)",
+      "remix": "",
+      "label": "DUTCH MASTER WORKS (2DUTCH)",
+      "trackId": "11790565",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "142576",
+        "youtube": "142576",
+        "soundcloud": "142576",
+        "appleMusic": "142576"
+      },
+      "blendGroup": [
+        {
+          "artist": "Showtek",
+          "title": "FTS (Fuck The System)",
+          "remix": "",
+          "trackId": "11790565"
+        },
+        {
+          "artist": "Rooler & Sickmode",
+          "title": "TOO HOT",
+          "remix": "",
+          "trackId": "11790566"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rooler & Sickmode",
+      "title": "TOO HOT",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "11790566",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "637436",
+        "youtube": "637436",
+        "soundcloud": "637436",
+        "appleMusic": "637436"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Travis Scott ft. Playboi Carti",
+      "title": "FE!N",
+      "remix": "",
+      "label": "CACTUS JACK",
+      "trackId": "11790567",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "914385",
+        "youtube": "914385",
+        "soundcloud": "914385",
+        "appleMusic": "914385"
+      },
+      "blendGroup": [
+        {
+          "artist": "Travis Scott ft. Playboi Carti",
+          "title": "FE!N",
+          "remix": "",
+          "trackId": "11790567"
+        },
+        {
+          "artist": "Rooler",
+          "title": "MOVE 2 DA BEAT",
+          "remix": "",
+          "trackId": "11790568"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rooler",
+      "title": "MOVE 2 DA BEAT",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "11790568",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "806696",
+        "youtube": "806696",
+        "soundcloud": "806696",
+        "appleMusic": "806696"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Sunset Bros",
+      "title": "Follow Me (Nobody Listen To Techno) (Anderex Remix)",
+      "remix": "",
+      "label": "TMRW",
+      "trackId": "11790569",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "839918",
+        "youtube": "839918",
+        "soundcloud": "839918",
+        "appleMusic": "839918"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Rooler & Sickmode & Sefa & Levenkhan",
+      "title": "NO ONE IS LIKE US",
+      "remix": "",
+      "label": "AGGRESSIVE",
+      "trackId": "11790576",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "849757",
+        "youtube": "849757",
+        "soundcloud": "849757",
+        "appleMusic": "849757"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4644360",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=VvpOIQyYsCI"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:24:30.893Z",
+  "scrapeVersion": 2
+}

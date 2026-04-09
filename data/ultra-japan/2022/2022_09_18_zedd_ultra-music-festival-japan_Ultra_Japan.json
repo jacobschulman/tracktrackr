@@ -1,0 +1,971 @@
+{
+  "tlId": "y5pgc09",
+  "dj": "Zedd",
+  "stage": "Ultra Music Festival Japan",
+  "date": "2022-09-18",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/y5pgc09/zedd-mainstage-ultra-music-festival-japan-2022-09-18.html",
+  "djs": [
+    {
+      "name": "Zedd",
+      "slug": "zedd"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Justice",
+      "title": "Phantom Pt. II (Zedd Remix)",
+      "remix": "",
+      "label": "ED BANGER",
+      "trackId": "8201451",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "820216",
+        "soundcloud": "820216"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Zedd ft. Selena Gomez",
+      "title": "I Want You To Know",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201452",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 184,
+      "mediaIds": {
+        "spotify": "241465",
+        "youtube": "241465",
+        "soundcloud": "241465",
+        "appleMusic": "241465"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Zedd & Maren Morris & BEAUZ",
+      "title": "Make You Say",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201453",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 452,
+      "mediaIds": {
+        "spotify": "822127",
+        "youtube": "822127",
+        "soundcloud": "822127",
+        "appleMusic": "822127"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Hailee Steinfeld & Grey ft. Zedd",
+      "title": "Starving",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "8201571",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 601,
+      "mediaIds": {
+        "spotify": "332428",
+        "youtube": "332428",
+        "soundcloud": "332428",
+        "appleMusic": "332428"
+      },
+      "blendGroup": [
+        {
+          "artist": "Hailee Steinfeld & Grey ft. Zedd",
+          "title": "Starving",
+          "remix": "",
+          "trackId": "8201571"
+        },
+        {
+          "artist": "Hailee Steinfeld & Grey ft. Zedd",
+          "title": "Starving (Bali Bandits Remix)",
+          "remix": "",
+          "trackId": "8201454"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Hailee Steinfeld & Grey ft. Zedd",
+      "title": "Starving (Bali Bandits Remix)",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "8201454",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 630,
+      "mediaIds": {
+        "spotify": "332430",
+        "youtube": "332430",
+        "soundcloud": "332430",
+        "appleMusic": "332430"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Skrillex & The Doors",
+      "title": "Breakin' A Sweat (It's Alright) (Zedd Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "8201455",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 689,
+      "mediaIds": {
+        "spotify": "61964",
+        "youtube": "61964",
+        "soundcloud": "61964",
+        "appleMusic": "61964"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & The Doors",
+          "title": "Breakin' A Sweat (It's Alright) (Zedd Remix)",
+          "remix": "",
+          "trackId": "8201455"
+        },
+        {
+          "artist": "Dada Life",
+          "title": "Kick Out The Epic Motherfucker (Acappella)",
+          "remix": "",
+          "trackId": "8201572"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dada Life",
+      "title": "Kick Out The Epic Motherfucker (Acappella)",
+      "remix": "",
+      "label": "SO MUCH DADA",
+      "trackId": "8201572",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "56705",
+        "youtube": "75276",
+        "soundcloud": "75276",
+        "appleMusic": "56705"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dada Life",
+          "title": "Kick Out The Epic Motherfucker (Acappella)",
+          "remix": "",
+          "trackId": "8201572"
+        },
+        {
+          "artist": "Zeds Dead & Omar LinX",
+          "title": "Cowboy (Congorock Remix)",
+          "remix": "",
+          "trackId": "8201456"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zeds Dead & Omar LinX",
+      "title": "Cowboy (Congorock Remix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "8201456",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 761,
+      "mediaIds": {
+        "spotify": "103996",
+        "youtube": "103996",
+        "soundcloud": "103996",
+        "appleMusic": "103996"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Black Eyed Peas",
+      "title": "The Time (Dirty Bit) (Zedd Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201457",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 792,
+      "mediaIds": {
+        "spotify": "38404",
+        "youtube": "38404",
+        "soundcloud": "38404",
+        "appleMusic": "38404"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Brooks vs. Zedd & Griff",
+      "title": "Someday vs. Inside Out (Zedd Mashup)",
+      "remix": "",
+      "label": "INTERSCOPE/STMPD",
+      "trackId": "8201458",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 881,
+      "mediaIds": {
+        "youtube": "1011825"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Zedd",
+      "title": "The Legend Of Zelda",
+      "remix": "",
+      "label": "BAZOOKA",
+      "trackId": "8201460",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 988,
+      "mediaIds": {
+        "spotify": "30936",
+        "youtube": "30936",
+        "soundcloud": "30936",
+        "appleMusic": "30936"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Teriyaki Boyz",
+      "title": "Tokyo Drift (The Fast And The Furious: Tokyo Drift OST) (Zedd Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "8201461",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1079,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Nicky Romero",
+      "title": "Techtronic",
+      "remix": "",
+      "label": "PROTOCOL",
+      "trackId": "8274525",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1149,
+      "mediaIds": {
+        "spotify": "834051",
+        "youtube": "834051",
+        "soundcloud": "834051",
+        "appleMusic": "834051"
+      },
+      "blendGroup": [
+        {
+          "artist": "Nicky Romero",
+          "title": "Techtronic",
+          "remix": "",
+          "trackId": "8274525"
+        },
+        {
+          "artist": "Zedd & Katy Perry",
+          "title": "365",
+          "remix": "(Acapella)",
+          "trackId": "8201462"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd & Katy Perry",
+      "title": "365",
+      "remix": "(Acapella)",
+      "label": "INTERSCOPE",
+      "trackId": "8201462",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1149,
+      "mediaIds": {
+        "spotify": "476880",
+        "youtube": "476880",
+        "soundcloud": "476880",
+        "appleMusic": "476880"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "VALORANT ft. Grabbitz",
+      "title": "Die For You (Zedd Remix)",
+      "remix": "",
+      "label": "RIOT GAMES",
+      "trackId": "8201463",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1256,
+      "mediaIds": {
+        "spotify": "759003",
+        "youtube": "759003",
+        "soundcloud": "759003",
+        "appleMusic": "759003"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Zedd ft. Hayley Williams",
+      "title": "Stay The Night",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201464",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1429,
+      "mediaIds": {
+        "spotify": "151732",
+        "youtube": "151732",
+        "soundcloud": "151732",
+        "appleMusic": "151732"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd ft. Hayley Williams",
+          "title": "Stay The Night",
+          "remix": "",
+          "trackId": "8201464"
+        },
+        {
+          "artist": "Zedd ft. Hayley Williams",
+          "title": "Stay The Night (Zedd & KDrew Extended Remix)",
+          "remix": "",
+          "trackId": "8201465"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd ft. Hayley Williams",
+      "title": "Stay The Night (Zedd & KDrew Extended Remix)",
+      "remix": "",
+      "label": "OWSLA/INTERSCOPE",
+      "trackId": "8201465",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1579,
+      "mediaIds": {
+        "spotify": "169465",
+        "youtube": "169465",
+        "soundcloud": "169465",
+        "appleMusic": "169465"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "ACRAZE & Cherish vs. 23",
+      "title": "Do It To It vs. Pink Soldiers (Squid Game OST) (Zedd Edit)",
+      "remix": "",
+      "label": "THRIVE MUSIC/NETFLIX",
+      "trackId": "8201466",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1667,
+      "mediaIds": {
+        "youtube": "737415",
+        "soundcloud": "737415"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Zedd ft. Bahari",
+      "title": "Addicted To A Memory",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201467",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1756,
+      "mediaIds": {
+        "spotify": "249186",
+        "youtube": "249186",
+        "soundcloud": "249186",
+        "appleMusic": "249186"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Zedd & Alessia Cara",
+      "title": "Stay",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201468",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1978,
+      "mediaIds": {
+        "spotify": "347913",
+        "youtube": "347913",
+        "soundcloud": "347913",
+        "appleMusic": "347913"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd & Alessia Cara",
+          "title": "Stay",
+          "remix": "",
+          "trackId": "8201468"
+        },
+        {
+          "artist": "Zedd & Alessia Cara",
+          "title": "Stay (Tritonal Remix)",
+          "remix": "",
+          "trackId": "8201469"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd & Alessia Cara",
+      "title": "Stay (Tritonal Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201469",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 2180,
+      "mediaIds": {
+        "spotify": "351713",
+        "youtube": "351713",
+        "soundcloud": "351713",
+        "appleMusic": "351713"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Shawn Mendes",
+      "title": "Lost In Japan (Zedd Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "8201470",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2236,
+      "mediaIds": {
+        "spotify": "445405",
+        "youtube": "445405",
+        "soundcloud": "445405",
+        "appleMusic": "445405"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Zedd ft. Matthew Koma & Miriam Bryant",
+      "title": "Find You",
+      "remix": "",
+      "label": "INTERSCOPE/SPINNIN'",
+      "trackId": "8201471",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2332,
+      "mediaIds": {
+        "spotify": "175505",
+        "youtube": "175505",
+        "soundcloud": "175505",
+        "appleMusic": "175505"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd ft. Matthew Koma & Miriam Bryant",
+          "title": "Find You",
+          "remix": "",
+          "trackId": "8201471"
+        },
+        {
+          "artist": "Zedd ft. Matthew Koma & Miriam Bryant",
+          "title": "Find You (Marc Benjamin Remix)",
+          "remix": "",
+          "trackId": "8201472"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd ft. Matthew Koma & Miriam Bryant",
+      "title": "Find You (Marc Benjamin Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "8201472",
+      "row": 17,
+      "type": "blend",
+      "cueTime": 2389,
+      "mediaIds": {
+        "youtube": "181346",
+        "soundcloud": "181346"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Zedd ft. Matthew Koma",
+      "title": "Spectrum",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201473",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2421,
+      "mediaIds": {
+        "spotify": "76931",
+        "youtube": "76931",
+        "soundcloud": "76931",
+        "appleMusic": "76931"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "MAGIC!",
+      "title": "Rude (Zedd Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "8201474",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2539,
+      "mediaIds": {
+        "spotify": "208475",
+        "youtube": "208475",
+        "soundcloud": "208475",
+        "appleMusic": "208475"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+      "title": "Tremor (Sensation 2014 Anthem)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "8201475",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2687,
+      "mediaIds": {
+        "spotify": "167281",
+        "youtube": "167281",
+        "soundcloud": "167281",
+        "appleMusic": "167281"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike & Martin Garrix",
+          "title": "Tremor (Sensation 2014 Anthem)",
+          "remix": "",
+          "trackId": "8201475"
+        },
+        {
+          "artist": "Zedd ft. Tim James",
+          "title": "True Colors (Acappella)",
+          "remix": "",
+          "trackId": "8201476"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd ft. Tim James",
+      "title": "True Colors (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201476",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 2687,
+      "mediaIds": {
+        "spotify": "309365",
+        "youtube": "309365",
+        "soundcloud": "309365",
+        "appleMusic": "309365"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Martin Garrix & Zedd ft. Emily Warren",
+      "title": "Follow",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "8201477",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2808,
+      "mediaIds": {
+        "spotify": "781847",
+        "youtube": "781847",
+        "soundcloud": "781847",
+        "appleMusic": "781847"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Zedd ft. Jon Bellion",
+      "title": "Beautiful Now",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201478",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3033,
+      "mediaIds": {
+        "spotify": "255025",
+        "youtube": "255025",
+        "soundcloud": "255025",
+        "appleMusic": "255025"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Zedd & Aloe Blacc",
+      "title": "Candyman(Co-Prod. by Grey)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201479",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3246,
+      "mediaIds": {
+        "spotify": "298300",
+        "youtube": "298300",
+        "soundcloud": "298300",
+        "appleMusic": "298300"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "DJ Khaled ft. Ludacris & Rick Ross & T-Pain & Snoop Dogg",
+      "title": "All I Do Is Win",
+      "remix": "",
+      "label": "E1 MUSIC",
+      "trackId": "8201480",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3365,
+      "mediaIds": {
+        "spotify": "52598",
+        "youtube": "52598",
+        "soundcloud": "52598",
+        "appleMusic": "52598"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Khaled ft. Ludacris & Rick Ross & T-Pain & Snoop Dogg",
+          "title": "All I Do Is Win",
+          "remix": "",
+          "trackId": "8201480"
+        },
+        {
+          "artist": "TWERL & Avance",
+          "title": "Space Rave",
+          "remix": "",
+          "trackId": "8201481"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "TWERL & Avance",
+      "title": "Space Rave",
+      "remix": "",
+      "label": "BASSRUSH",
+      "trackId": "8201481",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 3405,
+      "mediaIds": {
+        "spotify": "712335",
+        "youtube": "712335",
+        "soundcloud": "712335",
+        "appleMusic": "712335"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Zedd & Elley Duhé",
+      "title": "Happy Now",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201482",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3483,
+      "mediaIds": {
+        "spotify": "430066",
+        "youtube": "430066",
+        "soundcloud": "430066",
+        "appleMusic": "430066"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd & Elley Duhé",
+          "title": "Happy Now",
+          "remix": "",
+          "trackId": "8201482"
+        },
+        {
+          "artist": "Zedd & Elley Duhé",
+          "title": "Happy Now (BEAUZ Remix)",
+          "remix": "",
+          "trackId": "8201483"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd & Elley Duhé",
+      "title": "Happy Now (BEAUZ Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201483",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 3580,
+      "mediaIds": {
+        "spotify": "444444",
+        "youtube": "444444",
+        "soundcloud": "444444",
+        "appleMusic": "444444"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd & Elley Duhé",
+          "title": "Happy Now (BEAUZ Remix)",
+          "remix": "",
+          "trackId": "8201483"
+        },
+        {
+          "artist": "Zedd & Elley Duhé",
+          "title": "Happy Now (Marc Benjamin Remix)",
+          "remix": "",
+          "trackId": "8201484"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd & Elley Duhé",
+      "title": "Happy Now (Marc Benjamin Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201484",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 3669,
+      "mediaIds": {
+        "spotify": "442785",
+        "youtube": "442785",
+        "soundcloud": "442785",
+        "appleMusic": "442785"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "Zedd & Maren Morris & Grey",
+      "title": "The Middle",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201485",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3734,
+      "mediaIds": {
+        "spotify": "401501",
+        "youtube": "401501",
+        "soundcloud": "401501",
+        "appleMusic": "401501"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zedd & Maren Morris & Grey",
+          "title": "The Middle",
+          "remix": "",
+          "trackId": "8201485"
+        },
+        {
+          "artist": "Zedd & Maren Morris & Grey",
+          "title": "The Middle (Marc Benjamin Remix)",
+          "remix": "",
+          "trackId": "8201486"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zedd & Maren Morris & Grey",
+      "title": "The Middle (Marc Benjamin Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201486",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 3842,
+      "mediaIds": {
+        "spotify": "403888",
+        "youtube": "403888",
+        "soundcloud": "403888",
+        "appleMusic": "403888"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "Ariana Grande ft. Zedd",
+      "title": "Break Free",
+      "remix": "(Tool)",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "8201487",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3947,
+      "mediaIds": {
+        "spotify": "208472",
+        "youtube": "208472",
+        "soundcloud": "208472",
+        "appleMusic": "208472"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ariana Grande ft. Zedd",
+          "title": "Break Free",
+          "remix": "(Tool)",
+          "trackId": "8201487"
+        },
+        {
+          "artist": "Pep & Rash",
+          "title": "Rumors (Deniz Koyu Remix)",
+          "remix": "",
+          "trackId": "8201488"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Pep & Rash",
+      "title": "Rumors (Deniz Koyu Remix)",
+      "remix": "",
+      "label": "SPINNIN' REMIXES",
+      "trackId": "8201488",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 4064,
+      "mediaIds": {
+        "spotify": "243476",
+        "youtube": "243476",
+        "soundcloud": "243476",
+        "appleMusic": "243476"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Daft Punk",
+      "title": "One More Time (Zedd Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "8201489",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 4109,
+      "mediaIds": {
+        "youtube": "318252",
+        "soundcloud": "318252",
+        "appleMusic": "318252"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Zedd ft. Foxes",
+      "title": "Clarity",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "8201490",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 4337,
+      "mediaIds": {
+        "spotify": "99468",
+        "youtube": "99468",
+        "soundcloud": "99468",
+        "appleMusic": "99468"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Empire Of The Sun",
+      "title": "Alive (Zedd Remix)",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "8201491",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 4600,
+      "mediaIds": {
+        "spotify": "135866",
+        "youtube": "135866",
+        "soundcloud": "135866",
+        "appleMusic": "135866"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Zedd ft. Julia Michaels",
+      "title": "Straight Into The Fire",
+      "remix": "(Intro Edit)",
+      "label": "INTERSCOPE",
+      "trackId": "8201492",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 4870,
+      "mediaIds": {
+        "spotify": "254732",
+        "youtube": "254732",
+        "soundcloud": "254732",
+        "appleMusic": "254732"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2976645",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=-S3Qup3MVHk"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "3843643",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=V5ZHxzLKpfw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:42:14.556Z",
+  "scrapeVersion": 2
+}

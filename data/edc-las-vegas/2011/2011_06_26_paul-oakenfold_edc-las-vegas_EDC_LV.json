@@ -1,0 +1,333 @@
+{
+  "tlId": "vllhsk",
+  "dj": "Paul Oakenfold",
+  "stage": "EDC Las Vegas",
+  "date": "2011-06-26",
+  "year": 2011,
+  "url": "https://www.1001tracklists.com/tracklist/vllhsk/paul-oakenfold-kineticfield-edc-las-vegas-united-states-2011-06-26.html",
+  "djs": [
+    {
+      "name": "Paul Oakenfold",
+      "slug": "pauloakenfold"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "MOGUAI",
+      "title": "We Want Your Soul (Thomas Gold Remix)",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "75383",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "25472",
+        "youtube": "25472",
+        "soundcloud": "25472"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Nadia Ali & Starkillers & Alex Kenji",
+      "title": "Pressure",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "75384",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "26069",
+        "youtube": "26069",
+        "soundcloud": "26069",
+        "appleMusic": "26069"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Paul Oakenfold & Marco V",
+      "title": "Groove Machine",
+      "remix": "",
+      "label": "PERFECTO",
+      "trackId": "75385",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 600,
+      "mediaIds": {
+        "spotify": "37550"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Gabriel Angel",
+      "title": "Far Too Long (Paul Oakenfold Remix)",
+      "remix": "",
+      "label": "SATURDAY NIGHT SESSIONS",
+      "trackId": "75386",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 840,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "MOGUAI",
+      "title": "Optinuum",
+      "remix": "",
+      "label": "MAU5TRAP",
+      "trackId": "75387",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "26850",
+        "youtube": "26850",
+        "soundcloud": "26850",
+        "appleMusic": "26850"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "David Tort",
+      "title": "Jack It Up",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "75388",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "32295",
+        "youtube": "32295",
+        "soundcloud": "32295",
+        "appleMusic": "32295"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Tort",
+          "title": "Jack It Up",
+          "remix": "",
+          "trackId": "75388"
+        },
+        {
+          "artist": "The White Stripes",
+          "title": "Seven Nation Army",
+          "remix": "",
+          "trackId": "75389"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army",
+      "remix": "",
+      "label": "XL",
+      "trackId": "75389",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1491",
+        "youtube": "1491",
+        "soundcloud": "1491",
+        "appleMusic": "1491"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Alex Gaudino ft. Shena",
+      "title": "Watch Out",
+      "remix": "",
+      "label": "TIME REC.",
+      "trackId": "75390",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1740,
+      "mediaIds": {
+        "spotify": "23796",
+        "youtube": "23796",
+        "soundcloud": "23796",
+        "appleMusic": "23796"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Alex Sayz",
+      "title": "Faces",
+      "remix": "",
+      "label": "JOIA",
+      "trackId": "75391",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 2100,
+      "mediaIds": {
+        "spotify": "23844",
+        "youtube": "23844",
+        "soundcloud": "23844",
+        "appleMusic": "23844"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Basto!",
+      "title": "Gregory's Theme",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "75392",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "24749",
+        "youtube": "24749",
+        "soundcloud": "24749",
+        "appleMusic": "24749"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "The Japanese Popstars",
+      "title": "Song For Lisa (Benny Benassi Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "75393",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "18780",
+        "appleMusic": "18780"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Planet Perfecto Knights",
+      "title": "ResuRection (EC Twins & Remy Le Duc Remix)",
+      "remix": "",
+      "label": "BOILER HOUSE",
+      "trackId": "75394",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "367237",
+        "appleMusic": "367237"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Otherside",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "75395",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 3360,
+      "mediaIds": {
+        "spotify": "5247",
+        "youtube": "5247",
+        "soundcloud": "5247",
+        "appleMusic": "5247"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Marcus Schossow",
+      "title": "Strings",
+      "remix": "",
+      "label": "TONE DIARY (SPINNIN')",
+      "trackId": "75396",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20189",
+        "youtube": "20189",
+        "appleMusic": "20189"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Eurythmics vs. Joyriders",
+      "title": "Sweet F***ing Dreams (Paul Oakenfold Mashup)",
+      "remix": "",
+      "label": "BIG MACHINE/RCA",
+      "trackId": "75397",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "MEM",
+      "title": "Forza",
+      "remix": "",
+      "label": "RESET (SPINNIN')",
+      "trackId": "75399",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "21383"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Richard Durand",
+      "title": "Dryland (Phynn Remix)",
+      "remix": "",
+      "label": "MAGIK MUZIK (BLACK HOLE)",
+      "trackId": "75400",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 4680,
+      "mediaIds": {
+        "spotify": "44599"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Paul Oakenfold ft. Carla Werner",
+      "title": "Southern Sun",
+      "remix": "",
+      "label": "PERFECTO",
+      "trackId": "75401",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5909",
+        "youtube": "5909",
+        "appleMusic": "5909"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T13:42:37.684Z",
+  "scrapeVersion": 2
+}

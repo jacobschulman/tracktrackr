@@ -1,0 +1,778 @@
+{
+  "tlId": "j8hhnqk",
+  "dj": "W&W",
+  "stage": "EDC China",
+  "date": "2023-10-02",
+  "year": 2023,
+  "url": "https://www.1001tracklists.com/tracklist/j8hhnqk/wandw-kineticfield-edc-china-2023-10-02.html",
+  "djs": [
+    {
+      "name": "W&W",
+      "slug": "wandw"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "W&W & Jaxx & Vega",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9576457",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "R3HAB & Deorro",
+      "title": "Flashlight",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "9576458",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "177775",
+        "youtube": "177775",
+        "soundcloud": "177775",
+        "appleMusic": "177775"
+      },
+      "blendGroup": [
+        {
+          "artist": "R3HAB & Deorro",
+          "title": "Flashlight",
+          "remix": "",
+          "trackId": "9576458"
+        },
+        {
+          "artist": "Armin van Buuren",
+          "title": "Blah Blah Blah",
+          "remix": "(Acappella)",
+          "trackId": "9576459"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Armin van Buuren",
+      "title": "Blah Blah Blah",
+      "remix": "(Acappella)",
+      "label": "ARMADA",
+      "trackId": "9576459",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "416561",
+        "youtube": "416561",
+        "soundcloud": "416561",
+        "appleMusic": "416561"
+      },
+      "blendGroup": [
+        {
+          "artist": "Armin van Buuren",
+          "title": "Blah Blah Blah",
+          "remix": "(Acappella)",
+          "trackId": "9576459"
+        },
+        {
+          "artist": "Deorro",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9576460"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Deorro",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9576460",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "03",
+      "artist": "Tony Igy",
+      "title": "Astronomia (KEVU & Vendark 2020 Big Room Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "10875544",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "572179"
+      },
+      "blendGroup": [
+        {
+          "artist": "Tony Igy",
+          "title": "Astronomia (KEVU & Vendark 2020 Big Room Edit)",
+          "remix": "",
+          "trackId": "10875544"
+        },
+        {
+          "artist": "Avicii ft. Simon Aldred",
+          "title": "Waiting For Love(Co-Prod. by Martin Garrix) (Acappella)",
+          "remix": "",
+          "trackId": "9576462"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Avicii ft. Simon Aldred",
+      "title": "Waiting For Love(Co-Prod. by Martin Garrix) (Acappella)",
+      "remix": "",
+      "label": "PRMD",
+      "trackId": "9576462",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "246542",
+        "youtube": "288821",
+        "soundcloud": "246542",
+        "appleMusic": "246542"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii ft. Simon Aldred",
+          "title": "Waiting For Love(Co-Prod. by Martin Garrix) (Acappella)",
+          "remix": "",
+          "trackId": "9576462"
+        },
+        {
+          "artist": "W&W",
+          "title": "Rave After Rave",
+          "remix": "",
+          "trackId": "9576461"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "W&W",
+      "title": "Rave After Rave",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "9576461",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "242775",
+        "youtube": "242775",
+        "soundcloud": "242775",
+        "appleMusic": "242775"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "W&W & AXMO",
+      "title": "Heaven Is A Place On Earth",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "9576463",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "839628",
+        "youtube": "839628",
+        "soundcloud": "839628",
+        "appleMusic": "839628"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Dimitri Vegas & Like Mike & Armin van Buuren & W&W",
+      "title": "Repeat After Me",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "9576464",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "432049",
+        "youtube": "432049",
+        "soundcloud": "432049",
+        "appleMusic": "432049"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike & Armin van Buuren & W&W",
+          "title": "Repeat After Me",
+          "remix": "",
+          "trackId": "9576464"
+        },
+        {
+          "artist": "David Guetta & GLOWINTHEDARK ft. Harrison",
+          "title": "Ain't A Party (Acappella)",
+          "remix": "",
+          "trackId": "10875545"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta & GLOWINTHEDARK ft. Harrison",
+      "title": "Ain't A Party (Acappella)",
+      "remix": "",
+      "label": "JACK BACK",
+      "trackId": "10875545",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "125192",
+        "youtube": "125192",
+        "soundcloud": "196247",
+        "appleMusic": "125192"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "W&W & Groove Coverage",
+      "title": "Moonlight Shadow",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "9576465",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "515114",
+        "youtube": "515114",
+        "soundcloud": "515114",
+        "appleMusic": "515114"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Dr. Dre ft. Snoop Dogg",
+      "title": "Still D.R.E. (W&W Festival Mix)",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "9576466",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "287547",
+        "soundcloud": "287547",
+        "appleMusic": "287547"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dr. Dre ft. Snoop Dogg",
+          "title": "Still D.R.E. (W&W Festival Mix)",
+          "remix": "",
+          "trackId": "9576466"
+        },
+        {
+          "artist": "Carta",
+          "title": "ID",
+          "remix": "",
+          "trackId": "9576467"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Carta",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9576467",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": null
+    },
+    {
+      "pos": "08",
+      "artist": "Katy Perry",
+      "title": "Firework (KEVU Remix)",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "9576339",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 16,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "NWYR",
+      "title": "Oblivion",
+      "remix": "",
+      "label": "DYSTOPIA (RAVE CULTURE)",
+      "trackId": "9576340",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 75,
+      "mediaIds": {
+        "spotify": "862474",
+        "youtube": "862474",
+        "soundcloud": "862474",
+        "appleMusic": "862474"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "W&W & Hardwell & Lil Jon",
+      "title": "Live The Night",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "9576341",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 186,
+      "mediaIds": {
+        "spotify": "247326",
+        "youtube": "247326",
+        "soundcloud": "247326",
+        "appleMusic": "247326"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Timmy Trumpet ft. Savage",
+      "title": "Freaks (W&W Bigroom Edit)",
+      "remix": "",
+      "label": "MAINSTAGE/HUSSLE",
+      "trackId": "9576342",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 290,
+      "mediaIds": {
+        "youtube": "229461",
+        "soundcloud": "229461",
+        "appleMusic": "229461"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Pitbull",
+      "title": "Hotel Room Service (AXMO Remix)",
+      "remix": "",
+      "label": "POLO GROUNDS",
+      "trackId": "9576343",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 371,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Farruko ft. Victor Cardenas",
+      "title": "Pepas (AXMO Tremor Festival Mix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "9576344",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 470,
+      "mediaIds": {
+        "youtube": "813139"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Dimitri Vegas & Like Mike & W&W vs. The White Stripes",
+      "title": "Arcade vs. Seven Nation Army (W&W Edit)",
+      "remix": "",
+      "label": "XL/SMASH THE HOUSE",
+      "trackId": "9576345",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 554,
+      "mediaIds": {
+        "youtube": "308379"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike & W&W vs. The White Stripes",
+          "title": "Arcade vs. Seven Nation Army (W&W Edit)",
+          "remix": "",
+          "trackId": "9576345"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike vs. W&W & MOGUAI",
+          "title": "Arcade Mammoth (Dimitri Vegas & Like Mike Mashup)",
+          "remix": "",
+          "trackId": "9576346"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike vs. W&W & MOGUAI",
+      "title": "Arcade Mammoth (Dimitri Vegas & Like Mike Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/SMASH THE HOUSE",
+      "trackId": "9576346",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 699,
+      "mediaIds": {
+        "spotify": "562195",
+        "youtube": "562195",
+        "soundcloud": "562195",
+        "appleMusic": "562195"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike vs. W&W & MOGUAI",
+          "title": "Arcade Mammoth (Dimitri Vegas & Like Mike Mashup)",
+          "remix": "",
+          "trackId": "9576346"
+        },
+        {
+          "artist": "Lost Frequencies ft. Calum Scott",
+          "title": "Where Are You Now",
+          "remix": "(Acappella)",
+          "trackId": "9576347"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lost Frequencies ft. Calum Scott",
+      "title": "Where Are You Now",
+      "remix": "(Acappella)",
+      "label": "EPIC AMSTERDAM/LOST & CIE",
+      "trackId": "9576347",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "711073",
+        "youtube": "711073",
+        "soundcloud": "711073",
+        "appleMusic": "711073"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "NWYR",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "9576348",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 788,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "W&W & Bassjackers",
+      "title": "Why Am I Doing This?!",
+      "remix": "",
+      "label": "DYSTOPIA (RAVE CULTURE)",
+      "trackId": "9576349",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 868,
+      "mediaIds": {
+        "spotify": "962263",
+        "youtube": "962263",
+        "soundcloud": "962263",
+        "appleMusic": "962263"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "W&W & Olly James",
+      "title": "The Movement (Working Title)",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "9576350",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 944,
+      "mediaIds": {
+        "youtube": "834972"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone",
+      "remix": "",
+      "label": "VIOLENT",
+      "trackId": "9576351",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1107,
+      "mediaIds": {
+        "spotify": "30450",
+        "youtube": "30450",
+        "soundcloud": "30450",
+        "appleMusic": "30450"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alice Deejay",
+          "title": "Better Off Alone",
+          "remix": "",
+          "trackId": "9576351"
+        },
+        {
+          "artist": "Carnage ft. Timmy Trumpet & KSHMR",
+          "title": "Toca (Acappella)",
+          "remix": "",
+          "trackId": "9576352"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Carnage ft. Timmy Trumpet & KSHMR",
+      "title": "Toca (Acappella)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "9576352",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "253874",
+        "youtube": "253874",
+        "soundcloud": "269408",
+        "appleMusic": "253874"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "Dimitri Vegas & Like Mike & W&W",
+      "title": "Crowd Control",
+      "remix": "",
+      "label": "SMASH THE HOUSE/EPIC AMSTERDAM",
+      "trackId": "9576353",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1226,
+      "mediaIds": {
+        "spotify": "373794",
+        "youtube": "373794",
+        "appleMusic": "373794"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Creeds",
+      "title": "Push Up (W&W & Ben Nicky Remix)",
+      "remix": "",
+      "label": "RAVE ALERT",
+      "trackId": "9576354",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1360,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "W&W & Vini Vici",
+      "title": "Rave Mozart",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "9576355",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "992591",
+        "youtube": "992591",
+        "soundcloud": "992591",
+        "appleMusic": "992591"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "John Williams",
+      "title": "Hedwig's Theme",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "9576356",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "657192",
+        "youtube": "657192",
+        "soundcloud": "657192",
+        "appleMusic": "657192"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Dimitri Vegas & Like Mike & Tiësto & W&W ft. Dido",
+      "title": "Thank You (Not So Bad)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "9576357",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1631,
+      "mediaIds": {
+        "spotify": "910071",
+        "youtube": "910071",
+        "soundcloud": "910071",
+        "appleMusic": "910071"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "W&W & VINAI",
+      "title": "GANGSTER",
+      "remix": "",
+      "label": "RAVE CULTURE",
+      "trackId": "9576358",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1814,
+      "mediaIds": {
+        "spotify": "890048",
+        "youtube": "890048",
+        "soundcloud": "890048",
+        "appleMusic": "890048"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Akon",
+      "title": "Right Now (Na Na Na) (AXMO Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "9576359",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 1890,
+      "mediaIds": {
+        "youtube": "891132"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Showtek ft. We Are Loud & Sonny Wilson",
+      "title": "Booyah (KEVU Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "9576360",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 1983,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Avicii ft. RAS",
+      "title": "The Nights (AXMO Remix)",
+      "remix": "",
+      "label": "PRMD",
+      "trackId": "9576361",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2034,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "O-Zone",
+      "title": "Mai Ai Hee (Dragostea Din Tei) (W&W Remix)",
+      "remix": "",
+      "label": "CAT/RAVE CULTURE",
+      "trackId": "9576362",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2135,
+      "mediaIds": {
+        "spotify": "638510",
+        "youtube": "638510",
+        "soundcloud": "638510",
+        "appleMusic": "638510"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "The Kid LAROI & Justin Bieber",
+      "title": "STAY (W&W & AXMO Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "9576363",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2222,
+      "mediaIds": {
+        "youtube": "767476",
+        "soundcloud": "767476"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "W&W & Groove Coverage",
+      "title": "God Is A Girl",
+      "remix": "",
+      "label": "MAINSTAGE/SUPRIME MUSIC",
+      "trackId": "9576364",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2420,
+      "mediaIds": {
+        "spotify": "404226",
+        "youtube": "404226",
+        "soundcloud": "404226",
+        "appleMusic": "404226"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4159049",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=UzM-dH4x3QI"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:31:46.661Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,239 @@
+{
+  "tlId": "2n5p10rt",
+  "dj": "XiJaro & Pitch",
+  "stage": "EDC Las Vegas",
+  "date": "2022-05-20",
+  "year": 2022,
+  "url": "https://www.1001tracklists.com/tracklist/2n5p10rt/xijaro-and-pitch-quantumvalley-edc-las-vegas-united-states-2022-05-20.html",
+  "djs": [
+    {
+      "name": "XiJaro & Pitch",
+      "slug": "xijaroandpitch"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Lady GaGa",
+      "title": "Always Remember Us This Way (XiJaro & Pitch Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "7812408",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "545152",
+        "soundcloud": "545152"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Ilan Bluestone ft. Giuseppe De Luca",
+      "title": "Love Is A Drug (XiJaro & Pitch Remix)",
+      "remix": "",
+      "label": "ANJUNABEATS",
+      "trackId": "7812409",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "788377",
+        "youtube": "788377",
+        "soundcloud": "788377",
+        "appleMusic": "788377"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Bogdan Vix & Claudiu Adam",
+      "title": "Remember When",
+      "remix": "",
+      "label": "FSOE",
+      "trackId": "7812410",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "502537",
+        "youtube": "502537",
+        "soundcloud": "502537",
+        "appleMusic": "502537"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bogdan Vix & Claudiu Adam",
+          "title": "Remember When",
+          "remix": "",
+          "trackId": "7812410"
+        },
+        {
+          "artist": "Lauren Daigle",
+          "title": "You Say",
+          "remix": "",
+          "trackId": "7812411"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Lauren Daigle",
+      "title": "You Say",
+      "remix": "",
+      "label": "CENTRICITY MUSIC",
+      "trackId": "7812411",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "585058",
+        "youtube": "585058",
+        "appleMusic": "585058"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "7812412",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "David Rust",
+      "title": "The Beat",
+      "remix": "",
+      "label": "KEEPING THE RAVE ALIVE",
+      "trackId": "7812413",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "716768",
+        "youtube": "716768",
+        "soundcloud": "716768",
+        "appleMusic": "716768"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Rust",
+          "title": "The Beat",
+          "remix": "",
+          "trackId": "7812413"
+        },
+        {
+          "artist": "Kosheen",
+          "title": "Catch",
+          "remix": "",
+          "trackId": "7812414"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kosheen",
+      "title": "Catch",
+      "remix": "",
+      "label": "BMG",
+      "trackId": "7812414",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "19099",
+        "youtube": "19099",
+        "appleMusic": "19099"
+      },
+      "blendGroup": [
+        {
+          "artist": "Kosheen",
+          "title": "Catch",
+          "remix": "",
+          "trackId": "7812414"
+        },
+        {
+          "artist": "Allen Watts & Yøshi & Razner",
+          "title": "Bohemia",
+          "remix": "",
+          "trackId": "7812415"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Allen Watts & Yøshi & Razner",
+      "title": "Bohemia",
+      "remix": "",
+      "label": "WHO'S AFRAID OF 138 (ARMADA)",
+      "trackId": "7812415",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "783455",
+        "youtube": "783455",
+        "soundcloud": "783455",
+        "appleMusic": "783455"
+      },
+      "blendGroup": [
+        {
+          "artist": "Allen Watts & Yøshi & Razner",
+          "title": "Bohemia",
+          "remix": "",
+          "trackId": "7812415"
+        },
+        {
+          "artist": "Tiësto",
+          "title": "Traffic",
+          "remix": "",
+          "trackId": "7812416"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Tiësto",
+      "title": "Traffic",
+      "remix": "",
+      "label": "MAGIK MUZIK (BLACK HOLE)",
+      "trackId": "7812416",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "3895",
+        "youtube": "3895",
+        "soundcloud": "3895",
+        "appleMusic": "3895"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "2971538",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1344409090"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "2849435",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=vljV0ORRPFQ"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:05:25.915Z",
+  "scrapeVersion": 2
+}

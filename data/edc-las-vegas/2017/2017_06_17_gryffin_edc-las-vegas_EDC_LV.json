@@ -1,0 +1,518 @@
+{
+  "tlId": "jwldrl9",
+  "dj": "Gryffin",
+  "stage": "EDC Las Vegas",
+  "date": "2017-06-17",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/jwldrl9/gryffin-cosmicmeadow-edc-las-vegas-united-states-2017-06-17.html",
+  "djs": [
+    {
+      "name": "Gryffin",
+      "slug": "gryffin"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Gryffin ft. Bipolar Sunshine",
+      "title": "Whole Heart (BKAYE Remix)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "2700557",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "334157",
+        "youtube": "334157",
+        "soundcloud": "334157",
+        "appleMusic": "334157"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Troye Sivan",
+      "title": "Youth (Gryffin Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "2700558",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 118,
+      "mediaIds": {
+        "spotify": "309305",
+        "soundcloud": "309305",
+        "appleMusic": "309305"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "BØRNS",
+      "title": "Electric Love (Gryffin Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2700559",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 306,
+      "mediaIds": {
+        "youtube": "270151"
+      },
+      "blendGroup": [
+        {
+          "artist": "BØRNS",
+          "title": "Electric Love (Gryffin Remix)",
+          "remix": "",
+          "trackId": "2700559"
+        },
+        {
+          "artist": "Swedish House Mafia & Knife Party ft. ADL",
+          "title": "Antidote",
+          "remix": "",
+          "trackId": "5833345"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Swedish House Mafia & Knife Party ft. ADL",
+      "title": "Antidote",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "5833345",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 306,
+      "mediaIds": {
+        "spotify": "43328",
+        "youtube": "43328",
+        "soundcloud": "43328",
+        "appleMusic": "43328"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Gryffin",
+      "title": "Blue Sky",
+      "remix": "",
+      "label": "",
+      "trackId": "2700766",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 545,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Whethan ft. ASHE",
+      "title": "Can't Hide",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2700560",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 728,
+      "mediaIds": {
+        "spotify": "322358",
+        "youtube": "322358",
+        "soundcloud": "322358",
+        "appleMusic": "322358"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Drake ft. Popcaan",
+      "title": "Controlla",
+      "remix": "",
+      "label": "OVO",
+      "trackId": "2700767",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 802,
+      "mediaIds": {
+        "spotify": "309382",
+        "youtube": "309382",
+        "soundcloud": "309382",
+        "appleMusic": "309382"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Ed Sheeran",
+      "title": "Shape Of You (BKAYE Remix)",
+      "remix": "",
+      "label": "ASYLUM (WARNER MUSIC)",
+      "trackId": "2700768",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 838,
+      "mediaIds": {
+        "youtube": "346320",
+        "soundcloud": "346320"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Dr. Dre ft. Snoop Dogg & Kurupt & Nate Dogg",
+      "title": "The Next Episode (San Holo Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2700561",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 900,
+      "mediaIds": {
+        "youtube": "219326",
+        "soundcloud": "219326"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Party Pupils",
+      "title": "Ms. Jackson",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2700562",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1030,
+      "mediaIds": {
+        "spotify": "330680",
+        "youtube": "330680",
+        "soundcloud": "330680",
+        "appleMusic": "330680"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Kygo ft. Ellie Goulding",
+      "title": "First Time (Gryffin Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "2700769",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1092,
+      "mediaIds": {
+        "spotify": "369441",
+        "youtube": "369441",
+        "soundcloud": "369441",
+        "appleMusic": "369441"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Tove Lo",
+      "title": "Talking Body (Gryffin Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "2700563",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1233,
+      "mediaIds": {
+        "spotify": "240028",
+        "soundcloud": "240028",
+        "appleMusic": "240028"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Bipolar Sunshine",
+      "title": "Daydreamer (Gryffin Remix)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "2700564",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1418,
+      "mediaIds": {
+        "spotify": "238899",
+        "soundcloud": "238899",
+        "appleMusic": "238899"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Shiba San",
+      "title": "OKAY",
+      "remix": "",
+      "label": "DIRTYBIRD",
+      "trackId": "2700565",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1490,
+      "mediaIds": {
+        "spotify": "163910",
+        "youtube": "163910",
+        "soundcloud": "163910",
+        "appleMusic": "163910"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Gryffin ft. Josef Salvat",
+      "title": "Heading Home",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "2700566",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1530,
+      "mediaIds": {
+        "spotify": "294281",
+        "youtube": "294281",
+        "soundcloud": "294281",
+        "appleMusic": "294281"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Gryffin ft. Elley Duhé",
+      "title": "Tie Me Down",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "2700770",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1680,
+      "mediaIds": {
+        "spotify": "434364",
+        "youtube": "434364",
+        "soundcloud": "434364",
+        "appleMusic": "434364"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "D.R.A.M. ft. Lil Yachty",
+      "title": "Broccoli (Herobust Busted Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "5833346",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 1980,
+      "mediaIds": {
+        "spotify": "323854",
+        "youtube": "323854",
+        "soundcloud": "323854",
+        "appleMusic": "323854"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Marshmello",
+      "title": "Alone",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "2700568",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2094,
+      "mediaIds": {
+        "spotify": "310107",
+        "youtube": "310107",
+        "soundcloud": "310107",
+        "appleMusic": "310107"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "The Killers",
+      "title": "Mr. Brightside (Two Friends Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "2700569",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2210,
+      "mediaIds": {
+        "spotify": "334179",
+        "youtube": "334179",
+        "soundcloud": "334179"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Sigrid",
+      "title": "Don't Kill My Vibe (Gryffin Remix)",
+      "remix": "",
+      "label": "ISLAND (UMG)",
+      "trackId": "2700570",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2325,
+      "mediaIds": {
+        "spotify": "357625",
+        "youtube": "357625",
+        "soundcloud": "357625",
+        "appleMusic": "357625"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Gryffin ft. Bipolar Sunshine",
+      "title": "Whole Heart",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "2700571",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2540,
+      "mediaIds": {
+        "spotify": "324929",
+        "youtube": "324929",
+        "soundcloud": "324929",
+        "appleMusic": "324929"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gryffin ft. Bipolar Sunshine",
+          "title": "Whole Heart",
+          "remix": "",
+          "trackId": "2700571"
+        },
+        {
+          "artist": "Yellow Claw ft. Yade Lauren",
+          "title": "Love & War",
+          "remix": "",
+          "trackId": "5833347"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Yellow Claw ft. Yade Lauren",
+      "title": "Love & War",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "5833347",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 2640,
+      "mediaIds": {
+        "spotify": "334264",
+        "youtube": "334264",
+        "soundcloud": "334264",
+        "appleMusic": "334264"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Years & Years",
+      "title": "Desire (Gryffin Remix)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "2700572",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2680,
+      "mediaIds": {
+        "spotify": "269672",
+        "youtube": "269672",
+        "soundcloud": "269672",
+        "appleMusic": "269672"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Snakehips & MØ",
+      "title": "Don't Leave (Gryffin Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "2700573",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2974,
+      "mediaIds": {
+        "spotify": "346172",
+        "youtube": "346172",
+        "soundcloud": "346172",
+        "appleMusic": "346172"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Gryffin & ILLENIUM ft. Daya",
+      "title": "Feel Good",
+      "remix": "(Live)",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "2700574",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3206,
+      "mediaIds": {
+        "spotify": "349582",
+        "youtube": "349582",
+        "soundcloud": "349582",
+        "appleMusic": "349582"
+      },
+      "blendGroup": [
+        {
+          "artist": "Gryffin & ILLENIUM ft. Daya",
+          "title": "Feel Good",
+          "remix": "(Live)",
+          "trackId": "2700574"
+        },
+        {
+          "artist": "Gryffin & ILLENIUM ft. Daya",
+          "title": "Feel Good (Crankdat Remix)",
+          "remix": "",
+          "trackId": "2700783"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gryffin & ILLENIUM ft. Daya",
+      "title": "Feel Good (Crankdat Remix)",
+      "remix": "",
+      "label": "DARKROOM REC. (INTERSCOPE)",
+      "trackId": "2700783",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 3460,
+      "mediaIds": {
+        "spotify": "362236",
+        "youtube": "362236",
+        "soundcloud": "362236",
+        "appleMusic": "362236"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_16",
+      "idMedia": "670864",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/CreateRadio"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:35:28.687Z",
+  "scrapeVersion": 2
+}

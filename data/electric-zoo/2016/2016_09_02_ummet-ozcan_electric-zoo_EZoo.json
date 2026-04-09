@@ -1,0 +1,793 @@
+{
+  "tlId": "14fryh29",
+  "dj": "Ummet Ozcan",
+  "stage": "Electric Zoo",
+  "date": "2016-09-02",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/14fryh29/ummet-ozcan-mainstage-electric-zoo-united-states-2016-09-02.html",
+  "djs": [
+    {
+      "name": "Ummet Ozcan",
+      "slug": "ummetozcan"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Ummet Ozcan",
+      "title": "SpaceCats",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2238318",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "298789",
+        "youtube": "298789",
+        "soundcloud": "298789",
+        "appleMusic": "298789"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Zombie Nation",
+      "title": "Kernkraft 400 (W&W Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "2238319",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "196922",
+        "soundcloud": "196922"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zombie Nation",
+          "title": "Kernkraft 400 (W&W Remix)",
+          "remix": "",
+          "trackId": "2238319"
+        },
+        {
+          "artist": "LOOPERS",
+          "title": "Going In",
+          "remix": "",
+          "trackId": "2238320"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "LOOPERS",
+      "title": "Going In",
+      "remix": "",
+      "label": "WOLV",
+      "trackId": "2238320",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "301582",
+        "youtube": "301582",
+        "soundcloud": "301582",
+        "appleMusic": "301582"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "GTA ft. Sam Bruno",
+      "title": "Red Lips (Skrillex Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2238321",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "245755",
+        "youtube": "245755",
+        "soundcloud": "245755",
+        "appleMusic": "245755"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Cygnus X & Ummet Ozcan vs. Rozalla",
+      "title": "Feel Free Superstring (Ummet Ozcan Smashup)",
+      "remix": "",
+      "label": "EPIC (SONY BMG)/XTRAVAGANZA",
+      "trackId": "2238322",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "356703"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Ummet Ozcan & R3HAB & NERVO",
+      "title": "Revolution (Vocal Mix)",
+      "remix": "",
+      "label": "SPINNIN'/SPRS",
+      "trackId": "2238323",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "169484",
+        "youtube": "169484",
+        "soundcloud": "169484",
+        "appleMusic": "169484"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "W&W & Ummet Ozcan",
+      "title": "The Code",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2238325",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "114643",
+        "youtube": "114643",
+        "soundcloud": "114643",
+        "appleMusic": "114643"
+      },
+      "blendGroup": [
+        {
+          "artist": "W&W & Ummet Ozcan",
+          "title": "The Code",
+          "remix": "",
+          "trackId": "2238325"
+        },
+        {
+          "artist": "Deorro & J-Trick",
+          "title": "Rambo (Let's Get Fuckin' Crazy Acappella)",
+          "remix": "",
+          "trackId": "2238324"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Deorro & J-Trick",
+      "title": "Rambo (Let's Get Fuckin' Crazy Acappella)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2238324",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "161178",
+        "youtube": "164676",
+        "soundcloud": "161178",
+        "appleMusic": "161178"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Snap!",
+      "title": "Rhythm Is A Dancer",
+      "remix": "",
+      "label": "ARISTA",
+      "trackId": "2238326",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "13099",
+        "youtube": "13099",
+        "soundcloud": "13099",
+        "appleMusic": "13099"
+      },
+      "blendGroup": [
+        {
+          "artist": "Snap!",
+          "title": "Rhythm Is A Dancer",
+          "remix": "",
+          "trackId": "2238326"
+        },
+        {
+          "artist": "Moby",
+          "title": "Porcelain (SICK INDIVIDUALS Remix)",
+          "remix": "",
+          "trackId": "2238327"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Moby",
+      "title": "Porcelain (SICK INDIVIDUALS Remix)",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2238327",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 75,
+      "mediaIds": {
+        "spotify": "315938",
+        "youtube": "315938",
+        "soundcloud": "315938",
+        "appleMusic": "315938"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Skrillex & MUST DIE!",
+      "title": "VIP's",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2238328",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 105,
+      "mediaIds": {
+        "spotify": "292511",
+        "youtube": "292511",
+        "soundcloud": "292511",
+        "appleMusic": "292511"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Ummet Ozcan vs. Dr. Dre ft. Snoop Dogg & Kurupt & Nate Dogg",
+      "title": "Raise Your Hands vs. The Next Episode (Dimitri Vegas & Like Mike Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "2238329",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 161,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Calvin Harris ft. Rihanna",
+      "title": "This Is What You Came For (Versus Bootleg)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "2238335",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 234,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Rune RK",
+      "title": "Calabria (Firebeatz Remix)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2238336",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 302,
+      "mediaIds": {
+        "spotify": "186960",
+        "youtube": "186960",
+        "soundcloud": "186960",
+        "appleMusic": "186960"
+      },
+      "blendGroup": [
+        {
+          "artist": "Rune RK",
+          "title": "Calabria (Firebeatz Remix)",
+          "remix": "",
+          "trackId": "2238336"
+        },
+        {
+          "artist": "Dimitri Vegas & Like Mike & NLW",
+          "title": "Hands Up",
+          "remix": "",
+          "trackId": "2238337"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dimitri Vegas & Like Mike & NLW",
+      "title": "Hands Up",
+      "remix": "",
+      "label": "SMASH THE HOUSE/FREE",
+      "trackId": "2238337",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 339,
+      "mediaIds": {
+        "youtube": "212632",
+        "soundcloud": "212632"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Ummet Ozcan ft. Katt Niall",
+      "title": "Stars",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2238338",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 372,
+      "mediaIds": {
+        "spotify": "265369",
+        "youtube": "265369",
+        "soundcloud": "265369",
+        "appleMusic": "265369"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Dimitri Vegas & Like Mike & Ummet Ozcan",
+      "title": "The Hum",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "2238339",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 427,
+      "mediaIds": {
+        "spotify": "213897",
+        "youtube": "213897",
+        "soundcloud": "213897",
+        "appleMusic": "213897"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Dimitri Vegas & Like Mike & Ummet Ozcan",
+      "title": "The Hum (Ummet Ozcan Hardstyle Remix)",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "2238340",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 599,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Calvin Harris & Disciples & R3hab vs. Dimitri Vegas & Like Mike & Moguai",
+      "title": "How Deep Is Your Love vs. Mammoth (Ummet Ozcan Smashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "2238341",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 636,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Galantis vs. DJ Isaac & Crystal Lake",
+      "title": "No Money vs. Stick Em (Ummet Ozcan Smashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "2238343",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 740,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Ummet Ozcan",
+      "title": "Wickerman",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "2238345",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 847,
+      "mediaIds": {
+        "spotify": "309932",
+        "youtube": "309932",
+        "soundcloud": "309932",
+        "appleMusic": "309932"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Dimitri Vegas & Like Mike & W&W",
+      "title": "Arcade",
+      "remix": "",
+      "label": "SMASH THE HOUSE",
+      "trackId": "2238346",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "294887",
+        "youtube": "294887",
+        "soundcloud": "294887",
+        "appleMusic": "294887"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Fatboy Slim",
+      "title": "Praise You",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "2238347",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "18648",
+        "youtube": "18648",
+        "soundcloud": "18648",
+        "appleMusic": "18648"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fatboy Slim",
+          "title": "Praise You",
+          "remix": "",
+          "trackId": "2238347"
+        },
+        {
+          "artist": "MEM",
+          "title": "Rock That Body",
+          "remix": "",
+          "trackId": "2238348"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "MEM",
+      "title": "Rock That Body",
+      "remix": "",
+      "label": "OXYGEN (SPINNIN')",
+      "trackId": "2238348",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "252881",
+        "youtube": "252881",
+        "appleMusic": "252881"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Ummet Ozcan & MEM",
+      "title": "Deep",
+      "remix": "",
+      "label": "OZ (SPINNIN')",
+      "trackId": "2241381",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "385754",
+        "soundcloud": "385754"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "The Prophet vs. Yeah Yeah Yeahs & A-Trak vs. Justice & Simian",
+      "title": "Caramba vs. Heads Will Roll vs. We Are Your Friends (Ummet Ozcan Mashup)",
+      "remix": "",
+      "label": "ED BANGER/DGC/SCANTRAXX",
+      "trackId": "2241382",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Hardwell",
+      "title": "Spaceman",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "2238349",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "51416",
+        "youtube": "51416",
+        "soundcloud": "51416",
+        "appleMusic": "51416"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Ummet Ozcan vs. Robin S",
+      "title": "On The Run vs. Show Me Love (Ummet Ozcan Smashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "2238350",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "TJR & Savage vs. Skrillex & Ragga Twins",
+      "title": "We Wanna Party vs. Ragga Bomb (Ummet Ozcan Mashup)",
+      "remix": "",
+      "label": "OWSLA/SPINNIN'",
+      "trackId": "2238352",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "BARELY ALIVE",
+      "title": "The Riddler (Henry Fong Remix)",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "2238353",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "290976",
+        "youtube": "290976",
+        "soundcloud": "290976",
+        "appleMusic": "290976"
+      },
+      "blendGroup": [
+        {
+          "artist": "BARELY ALIVE",
+          "title": "The Riddler (Henry Fong Remix)",
+          "remix": "",
+          "trackId": "2238353"
+        },
+        {
+          "artist": "Skrillex & Damian Marley",
+          "title": "Make It Bun Dem (Acappella)",
+          "remix": "",
+          "trackId": "2238354"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & Damian Marley",
+      "title": "Make It Bun Dem (Acappella)",
+      "remix": "",
+      "label": "BIG BEAT/OWSLA",
+      "trackId": "2238354",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "71742",
+        "youtube": "131656",
+        "soundcloud": "131656",
+        "appleMusic": "71742"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "Keys N Krates",
+      "title": "All The Time (Tove Lo Flip)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2238355",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "176776",
+        "soundcloud": "176776"
+      },
+      "blendGroup": [
+        {
+          "artist": "Keys N Krates",
+          "title": "All The Time (Tove Lo Flip)",
+          "remix": "",
+          "trackId": "2238355"
+        },
+        {
+          "artist": "Zomboy",
+          "title": "Like A Bitch",
+          "remix": "",
+          "trackId": "2238356"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zomboy",
+      "title": "Like A Bitch",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "2238356",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "291288",
+        "youtube": "291288",
+        "soundcloud": "291288",
+        "appleMusic": "291288"
+      },
+      "blendGroup": [
+        {
+          "artist": "Zomboy",
+          "title": "Like A Bitch",
+          "remix": "",
+          "trackId": "2238356"
+        },
+        {
+          "artist": "WAVEDASH",
+          "title": "Bang",
+          "remix": "",
+          "trackId": "2238357"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "WAVEDASH",
+      "title": "Bang",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2238357",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "292925",
+        "youtube": "292925",
+        "soundcloud": "292925",
+        "appleMusic": "292925"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "Dr. Dre ft. Snoop Dogg",
+      "title": "Still D.R.E. (W&W Festival Mix)",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "2238358",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "287547",
+        "soundcloud": "287547",
+        "appleMusic": "287547"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dr. Dre ft. Snoop Dogg",
+          "title": "Still D.R.E. (W&W Festival Mix)",
+          "remix": "",
+          "trackId": "2238358"
+        },
+        {
+          "artist": "Garmiani",
+          "title": "Bomb A Drop",
+          "remix": "",
+          "trackId": "2238359"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Garmiani",
+      "title": "Bomb A Drop",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "2238359",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "289358",
+        "youtube": "289358",
+        "soundcloud": "289358",
+        "appleMusic": "289358"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Ummet Ozcan vs. The White Stripes vs. Zombie Nation",
+      "title": "Smash! vs. Seven Nation Army vs. Kernkraft 400 (Ummet Ozcan Edit)",
+      "remix": "",
+      "label": "XL/EPM/SPINNIN'",
+      "trackId": "2238360",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Ummet Ozcan",
+      "title": "Megatron",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2238361",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "311517",
+        "youtube": "311517",
+        "soundcloud": "311517",
+        "appleMusic": "311517"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "W&W & Hardwell & Lil Jon",
+      "title": "Live The Night (Ummet Ozcan Edit)",
+      "remix": "",
+      "label": "MAINSTAGE (ARMADA)",
+      "trackId": "2238362",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "318829"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Dimitri Vegas & Like Mike & Steve Aoki & Ummet Ozcan & Coone vs. Alan Walker",
+      "title": "Melody vs. Faded (Ummet Ozcan Mashup)",
+      "remix": "",
+      "label": "MER/SMASH THE HOUSE",
+      "trackId": "2238364",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3684454",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=3YN-JjntzLM"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:52:58.863Z",
+  "scrapeVersion": 2
+}

@@ -1,8 +1,9 @@
-import { loadIndex, loadAllSets, loadSet, getDJHistory, getDJStats, getDJStreak, getDJRepeatRate, getTopTracks, trackKey, parseTrackKey } from '@/lib/data';
-import { CONFIG, getStageColor } from '@/lib/config';
+import { loadIndex, loadAllSets, loadSet, getDJHistory, getDJStats, getDJStreak, getDJRepeatRate, getTopTracks, getMostSupportedTracks, trackKey, parseTrackKey } from '@/lib/data';
+import { getStageColor, FESTIVALS } from '@/lib/festivals';
 import { fmt } from '@/lib/data';
 import { trackSlug } from '@/lib/slugs';
 import { StageBadge } from '@/components/StageBadge';
+import { FestivalBadge } from '@/components/FestivalBadge';
 import Link from 'next/link';
 import type { SetMeta } from '@/lib/types';
 import { DJDetailClient } from './DJDetailClient';
@@ -54,6 +55,7 @@ export default async function DJPage({ params }: { params: Promise<{ slug: strin
   const uniqueYears = years.length;
   const yearSpan = lastYear - firstYear;
   const streak = getDJStreak(slug);
+  const festivals = [...new Set(history.map(s => s.festival))];
 
   const withTracks = history.filter(s => s.tracksTotal > 0 && s.hasSetFile);
   const avgIdRate = withTracks.length > 0
@@ -63,44 +65,39 @@ export default async function DJPage({ params }: { params: Promise<{ slug: strin
   // -- Repeat rate + unique tracks --
   const repeatData = getDJRepeatRate(slug);
 
-  // -- Stage breakdown --
-  const stageCounts: Record<string, number> = {};
-  for (const s of history) {
-    stageCounts[s.stage] = (stageCounts[s.stage] || 0) + 1;
-  }
-  const sortedStages = Object.entries(stageCounts).sort((a, b) => b[1] - a[1]);
-
   // -- Visual timeline data --
-  const yearInfoMap: Record<number, { sets: SetMeta[]; stages: string[]; tracks: number }> = {};
+  const yearInfoMap: Record<number, { sets: SetMeta[]; stages: string[]; tracks: number; festivals: string[] }> = {};
   for (const s of history) {
-    if (!yearInfoMap[s.year]) yearInfoMap[s.year] = { sets: [], stages: [], tracks: 0 };
+    if (!yearInfoMap[s.year]) yearInfoMap[s.year] = { sets: [], stages: [], tracks: 0, festivals: [] };
     yearInfoMap[s.year].sets.push(s);
     if (!yearInfoMap[s.year].stages.includes(s.stage)) yearInfoMap[s.year].stages.push(s.stage);
+    if (!yearInfoMap[s.year].festivals.includes(s.festival)) yearInfoMap[s.year].festivals.push(s.festival);
     yearInfoMap[s.year].tracks += (s.tracksTotal || s.tracksIdentified || 0);
   }
 
   // Build visual timeline bars from first to last year (with gaps)
-  const timelineBars: { year: number; active: boolean; stages: string[]; setCount: number; tracks: number }[] = [];
+  const timelineBars: { year: number; active: boolean; stages: string[]; setCount: number; tracks: number; festivals: string[] }[] = [];
   for (let y = firstYear; y <= lastYear; y++) {
     const info = yearInfoMap[y];
     if (info) {
-      timelineBars.push({ year: y, active: true, stages: info.stages, setCount: info.sets.length, tracks: info.tracks });
+      timelineBars.push({ year: y, active: true, stages: info.stages, setCount: info.sets.length, tracks: info.tracks, festivals: info.festivals });
     } else {
-      timelineBars.push({ year: y, active: false, stages: [], setCount: 0, tracks: 0 });
+      timelineBars.push({ year: y, active: false, stages: [], setCount: 0, tracks: 0, festivals: [] });
     }
   }
 
-  // -- B2B partners --
-  const b2bMap = new Map<string, { slug: string; name: string; count: number; years: number[] }>();
+  // -- B2B partners (with set links) --
+  const b2bMap = new Map<string, { slug: string; name: string; count: number; years: number[]; tlIds: string[] }>();
   for (const s of history) {
     if (s.djs.length > 1) {
       for (const d of s.djs) {
         if (d.slug === slug) continue;
         if (!b2bMap.has(d.slug)) {
-          b2bMap.set(d.slug, { slug: d.slug, name: d.name, count: 0, years: [] });
+          b2bMap.set(d.slug, { slug: d.slug, name: d.name, count: 0, years: [], tlIds: [] });
         }
         const p = b2bMap.get(d.slug)!;
         p.count++;
+        p.tlIds.push(s.tlId);
         if (!p.years.includes(s.year)) p.years.push(s.year);
       }
     }
@@ -114,63 +111,58 @@ export default async function DJPage({ params }: { params: Promise<{ slug: strin
     setsByYear[s.year].push(s);
   }
   const sortedYearsDesc = Object.keys(setsByYear).map(Number).sort((a, b) => b - a);
-  const mostRecentYear = sortedYearsDesc[0];
   const allSetsSorted = [...history].sort((a, b) => b.date.localeCompare(a.date));
-  const allStages = [...new Set(history.map(s => s.stage))].sort();
+  const allFestivals = [...new Set(history.map(s => s.festival))].sort();
 
-  // -- Most Recent Set track previews --
-  const recentSets = setsByYear[mostRecentYear] || [];
-  const recentSetPreviews: Record<string, { tracks: { artist: string; title: string; remix: string; isID: boolean }[]; totalTracks: number }> = {};
-  for (const s of recentSets) {
-    if (!s.hasSetFile) continue;
-    const setData = loadSet(s.tlId);
-    if (!setData || !setData.tracks) continue;
-    const tracks = setData.tracks.filter(t => t.type === 'normal' || t.type === 'blend');
-    recentSetPreviews[s.tlId] = {
-      totalTracks: tracks.length,
-      tracks: tracks.slice(0, 8).map(t => ({
-        artist: t.artist,
-        title: t.title,
-        remix: t.remix || '',
-        isID: isIDTrack(t.artist, t.title),
-      })),
-    };
-  }
-
-  // -- All set track previews (5 per set) --
+  // -- All set track previews (5 per set) + recording info --
   const setTrackPreviews: Record<string, { tracks: { artist: string; title: string; remix: string; isID: boolean }[]; totalTracks: number }> = {};
+  const setRecordings: Record<string, { ytUrl?: string; scUrl?: string }> = {};
   for (const s of history) {
     if (!s.hasSetFile) continue;
     const setData = loadSet(s.tlId);
-    if (!setData || !setData.tracks) continue;
-    const tracks = setData.tracks.filter(t => t.type === 'normal' || t.type === 'blend');
-    setTrackPreviews[s.tlId] = {
-      totalTracks: tracks.length,
-      tracks: tracks.slice(0, 5).map(t => ({
-        artist: t.artist,
-        title: t.title,
-        remix: t.remix || '',
-        isID: isIDTrack(t.artist, t.title),
-      })),
-    };
-  }
-
-  // -- Signature Tracks (anthems): played across 2+ years --
-  const djTopTracks = getTopTracks(100, { djSlug: slug });
-  const anthems: { artist: string; title: string; key: string; count: number; years: number[] }[] = [];
-  for (const t of djTopTracks) {
-    if (t.years.length >= 2) {
-      anthems.push({ artist: t.artist, title: t.title, key: t.key, count: t.playCount, years: t.years });
+    if (!setData) continue;
+    // Track previews
+    if (setData.tracks) {
+      const tracks = setData.tracks.filter(t => t.type === 'normal' || t.type === 'blend');
+      setTrackPreviews[s.tlId] = {
+        totalTracks: tracks.length,
+        tracks: tracks.slice(0, 5).map(t => ({
+          artist: t.artist,
+          title: t.title,
+          remix: t.remix || '',
+          isID: isIDTrack(t.artist, t.title),
+        })),
+      };
+    }
+    // Recordings
+    const recordings = setData.recordings || [];
+    const yt = recordings.find(r => r.platform === 'youtube');
+    const sc = recordings.find(r => r.platform === 'soundcloud');
+    if (yt || sc) {
+      setRecordings[s.tlId] = {
+        ytUrl: yt?.url,
+        scUrl: sc?.url,
+      };
     }
   }
 
+  // -- Signature Tracks: most played by this DJ --
+  const djTopTracks = getTopTracks(100, { djSlug: slug });
+  const signatureTracks = djTopTracks
+    .filter(t => t.playCount >= 2)
+    .map(t => ({ artist: t.artist, title: t.title, key: t.key, count: t.playCount, years: t.years }));
+
+  // -- Most Supported Tracks: tracks by this DJ played by other DJs --
+  const supportedTracks = getMostSupportedTracks(slug, 20);
+
   // Serialize yearInfoMap for client component
-  const yearInfoSerialized: Record<number, { sets: { tlId: string; date: string; stage: string; duration: string }[]; stages: string[]; tracks: number }> = {};
+  const yearInfoSerialized: Record<number, { sets: { tlId: string; date: string; stage: string; duration: string; festival: string }[]; stages: string[]; tracks: number; festivals: string[] }> = {};
   for (const [y, info] of Object.entries(yearInfoMap)) {
     yearInfoSerialized[Number(y)] = {
-      sets: info.sets.map(s => ({ tlId: s.tlId, date: s.date, stage: s.stage, duration: s.duration })),
+      sets: info.sets.map(s => ({ tlId: s.tlId, date: s.date, stage: s.stage, duration: s.duration, festival: s.festival })),
       stages: info.stages,
       tracks: info.tracks,
+      festivals: info.festivals,
     };
   }
 
@@ -184,222 +176,218 @@ export default async function DJPage({ params }: { params: Promise<{ slug: strin
     tracksIdentified: s.tracksIdentified,
     tracksTotal: s.tracksTotal,
     hasSetFile: s.hasSetFile,
+    festival: s.festival,
+    festivalName: s.festivalName,
   }));
 
   return (
     <>
-      {/* 1. Hero: Name + Topline */}
+      {/* 1. Hero */}
       <div className="dj-hero">
         <h1>{djName}</h1>
         <div className="dj-hero-subtitle">
-          {yearSpan > 0 ? `${yearSpan} year span at ${CONFIG.festivalShort}` : CONFIG.festivalShort}
           <span className="dj-hero-years">{firstYear} &rarr; {lastYear}</span>
         </div>
-        <div className="dj-hero-meta">
-          <span className="dj-hero-pill"><strong>{fmt(totalSets)}</strong> set{totalSets !== 1 ? 's' : ''}</span>
-          <span className="dj-hero-pill"><strong>{uniqueYears}</strong> year{uniqueYears !== 1 ? 's' : ''}</span>
+        {festivals.length > 0 && (
+          <div style={{ display: 'flex', gap: 5, flexWrap: 'wrap', marginTop: 8 }}>
+            {festivals.map(f => (
+              <FestivalBadge key={f} festival={f} size="sm" />
+            ))}
+          </div>
+        )}
+        <div className="dj-hero-stats">
+          <div className="dj-hero-stat">
+            <div className="dj-hero-stat-val">{fmt(totalSets)}</div>
+            <div className="dj-hero-stat-label">sets</div>
+          </div>
+          <div className="dj-hero-stat">
+            <div className="dj-hero-stat-val">{uniqueYears}</div>
+            <div className="dj-hero-stat-label">years</div>
+          </div>
           {streak > 1 && (
-            <span className="dj-hero-pill accent"><strong>{streak}</strong>-year streak</span>
+            <div className="dj-hero-stat accent">
+              <div className="dj-hero-stat-val">{streak}</div>
+              <div className="dj-hero-stat-label">yr streak</div>
+            </div>
           )}
+          <div className="dj-hero-stat">
+            <div className="dj-hero-stat-val">{fmt(repeatData.totalUniqueTracks)}</div>
+            <div className="dj-hero-stat-label">unique tracks</div>
+          </div>
+          <div className="dj-hero-stat">
+            <div className="dj-hero-stat-val">{(avgIdRate * 100).toFixed(0)}%</div>
+            <div className="dj-hero-stat-label">ID rate</div>
+          </div>
+          <div className="dj-hero-stat">
+            <div className="dj-hero-stat-val">{(repeatData.repeatRate * 100).toFixed(0)}%</div>
+            <div className="dj-hero-stat-label">repeat rate</div>
+          </div>
         </div>
       </div>
 
-      {/* 2. Visual Timeline */}
+      {/* 2. Visual Timeline + Sets (client component) */}
       <DJDetailClient
         timelineBars={timelineBars}
         yearInfoMap={yearInfoSerialized}
         allSets={allSetsForClient}
-        allStages={allStages}
+        allFestivals={allFestivals}
+        festivalColors={Object.fromEntries(allFestivals.map(f => [f, FESTIVALS[f]?.accent || '#64748b']))}
         sortedYears={sortedYearsDesc.map(String)}
         totalSets={totalSets}
         setTrackPreviews={setTrackPreviews}
+        setRecordings={setRecordings}
+        djName={djName}
       />
 
-      {/* 3. Most Recent Set */}
-      <div className="card dj-recent-set-card" style={{ marginBottom: 24 }}>
-        <div className="card-header">
-          <div className="card-title">Most Recent Set</div>
-          <span className="pill pill-purple">{mostRecentYear}</span>
-        </div>
-        {recentSets.map(s => {
-          const dateStr = formatDate(s.date);
-          const preview = recentSetPreviews[s.tlId];
-          return (
-            <div key={s.tlId} className="set-card set-card-prominent">
-              <div className="set-card-header">
-                <div style={{ display: 'flex', alignItems: 'center', gap: 10, flexWrap: 'wrap' }}>
-                  <span style={{ fontSize: '0.8125rem', color: 'var(--muted-lt)' }}>{dateStr}</span>
-                  <StageBadge stage={s.stage} />
-                  {s.duration && <span style={{ fontSize: '0.75rem', color: 'var(--muted)' }}>{s.duration}</span>}
-                  <span style={{ fontSize: '0.75rem', color: 'var(--muted)' }}>
-                    {s.tracksIdentified > 0 ? `${s.tracksIdentified}/${s.tracksTotal} tracks` : s.hasSetFile ? 'tracks available' : 'no data'}
-                  </span>
-                </div>
-                <Link href={`/set/${s.tlId}`} style={{ color: 'var(--purple-lt)', fontSize: '0.8125rem', whiteSpace: 'nowrap' }}>
-                  View full set &rarr;
-                </Link>
-              </div>
-              {preview && preview.tracks.length > 0 && (
-                <div className="set-card-tracks">
-                  {preview.tracks.map((t, i) => {
-                    if (t.isID) {
-                      return (
-                        <div key={i} style={{ display: 'flex', alignItems: 'baseline', gap: 8, padding: '3px 0' }}>
-                          <span style={{ color: 'var(--muted)', fontSize: '0.6875rem', width: 18, textAlign: 'right', flexShrink: 0 }}>{i + 1}</span>
-                          <span style={{ fontSize: '0.8125rem', color: 'var(--muted)' }}>ID &mdash; ID</span>
-                        </div>
-                      );
-                    }
-                    return (
-                      <div key={i} style={{ display: 'flex', alignItems: 'baseline', gap: 8, padding: '3px 0' }}>
-                        <span style={{ color: 'var(--muted)', fontSize: '0.6875rem', width: 18, textAlign: 'right', flexShrink: 0 }}>{i + 1}</span>
-                        <Link href={`/track/${trackSlug(t.artist, t.title)}`} className="track-link" style={{ fontSize: '0.8125rem' }}>
-                          <span style={{ fontWeight: 500 }}>{t.artist}</span>
-                          <span style={{ color: 'var(--muted-lt)' }}> &mdash; {t.title}</span>
-                          {t.remix && <span style={{ color: 'var(--muted)', fontSize: '0.75rem' }}> ({t.remix})</span>}
-                        </Link>
-                      </div>
-                    );
-                  })}
-                  {preview.totalTracks > 8 && (
-                    <Link href={`/set/${s.tlId}`} style={{ display: 'inline-block', marginTop: 6, fontSize: '0.75rem', color: 'var(--purple-lt)' }}>
-                      + {preview.totalTracks - 8} more tracks &mdash; View full set &rarr;
-                    </Link>
-                  )}
-                </div>
-              )}
-              {!preview && s.hasSetFile && (
-                <div style={{ color: 'var(--muted)', fontSize: '0.75rem', fontStyle: 'italic', padding: '8px 0' }}>
-                  No track data available.
-                </div>
-              )}
-            </div>
-          );
-        })}
-      </div>
-
-      {/* 4. Stats Row (compact) */}
-      <div className="stats-row" style={{ marginBottom: 24 }}>
-        <div className="stat-card">
-          <div className="stat-number">{fmt(repeatData.totalUniqueTracks)}</div>
-          <div className="stat-label">Unique Tracks</div>
-        </div>
-        <div className="stat-card">
-          <div className="stat-number">{(avgIdRate * 100).toFixed(0)}%</div>
-          <div className="stat-label">ID Rate</div>
-        </div>
-        <div className="stat-card" title="% of tracks this DJ has played more than once across their Ultra sets">
-          <div className="stat-number">{(repeatData.repeatRate * 100).toFixed(0)}%</div>
-          <div className="stat-label">Repeat Rate</div>
-        </div>
-      </div>
-
-      {/* 5. Stages + B2B side by side */}
-      <div className="detail-grid" style={{ marginBottom: 24 }}>
-        <div className="card">
-          <div className="card-header"><div className="card-title">Stages</div></div>
-          <div style={{ display: 'flex', gap: 3, borderRadius: 6, overflow: 'hidden', marginBottom: 12 }}>
-            {sortedStages.map(([stage, count]) => {
-              const color = getStageColor(stage);
-              const pct = ((count / totalSets) * 100).toFixed(1);
-              return (
-                <div
-                  key={stage}
-                  style={{
-                    flex: count,
-                    background: color,
-                    minWidth: 4,
-                    height: 28,
-                    borderRadius: 4,
-                    position: 'relative',
-                    cursor: 'default',
-                  }}
-                  title={`${stage}: ${count} sets (${pct}%)`}
-                />
-              );
-            })}
-          </div>
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px 16px' }}>
-            {sortedStages.map(([stage, count]) => {
-              const color = getStageColor(stage);
-              const pct = ((count / totalSets) * 100).toFixed(1);
-              return (
-                <div key={stage} style={{ display: 'flex', alignItems: 'center', gap: 6, fontSize: '0.75rem', color: 'var(--muted-lt)' }}>
-                  <span style={{ width: 8, height: 8, borderRadius: '50%', background: color, flexShrink: 0 }} />
-                  {stage} <span style={{ color: 'var(--muted)' }}>{count} ({pct}%)</span>
-                </div>
-              );
-            })}
+      {/* 3. B2B Partners */}
+      {b2bPartners.length > 0 && (
+        <div className="card" style={{ marginBottom: 24 }}>
+          <div className="card-header"><div className="card-title">B2B Partners</div></div>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6 }}>
+            {b2bPartners.map(p => (
+              <Link
+                key={p.slug}
+                href={p.count === 1 ? `/set/${p.tlIds[0]}` : `/dj/${p.slug}`}
+                className="dj-link"
+                style={{
+                  display: 'inline-flex',
+                  alignItems: 'center',
+                  gap: 6,
+                  padding: '6px 12px',
+                  background: 'var(--surface2)',
+                  borderRadius: 8,
+                  fontSize: '0.8125rem',
+                  textDecoration: 'none',
+                }}
+              >
+                {p.name}
+                {p.count > 1 && <span className="count-badge">{p.count}x</span>}
+                <span style={{ fontSize: '0.6875rem', color: 'var(--muted)' }}>{p.years.join(', ')}</span>
+              </Link>
+            ))}
           </div>
         </div>
+      )}
 
-        {b2bPartners.length > 0 && (
-          <div className="card">
-            <div className="card-header"><div className="card-title">B2B Partners</div></div>
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6 }}>
-              {b2bPartners.map(p => (
-                <Link
-                  key={p.slug}
-                  href={`/dj/${p.slug}`}
-                  className="dj-link"
-                  style={{
-                    display: 'inline-flex',
-                    alignItems: 'center',
-                    gap: 6,
-                    padding: '6px 12px',
-                    background: 'var(--surface2)',
-                    borderRadius: 8,
-                    fontSize: '0.8125rem',
-                    textDecoration: 'none',
-                  }}
-                >
-                  {p.name}
-                  <span className="count-badge">{p.count}x</span>
-                  <span style={{ fontSize: '0.6875rem', color: 'var(--muted)' }}>{p.years.join(', ')}</span>
-                </Link>
+      {/* 4. Signature Tracks */}
+      <DJSignatureTracks tracks={signatureTracks} />
+
+      {/* 5. Most Supported Tracks */}
+      {supportedTracks.length > 0 && (
+        <DJSupportedTracks tracks={supportedTracks} />
+      )}
+    </>
+  );
+}
+
+// Client wrapper for expandable signature tracks
+function DJSignatureTracks({ tracks }: { tracks: { artist: string; title: string; key: string; count: number; years: number[] }[] }) {
+  // Server component renders top 7; client component handles expansion
+  // We'll pass all data to a client wrapper
+  return (
+    <div className="card" style={{ marginBottom: 24 }}>
+      <div className="card-header">
+        <div>
+          <div className="card-title">Signature Tracks</div>
+          <div style={{ fontSize: '0.75rem', color: 'var(--muted)', marginTop: 2 }}>The tracks they play most often</div>
+        </div>
+      </div>
+      {tracks.length === 0 ? (
+        <div style={{ color: 'var(--muted)', fontSize: '0.875rem', padding: '8px 0' }}>
+          No repeated tracks found.
+        </div>
+      ) : (
+        <SignatureTracksList tracks={tracks} />
+      )}
+    </div>
+  );
+}
+
+function SignatureTracksList({ tracks }: { tracks: { artist: string; title: string; key: string; count: number; years: number[] }[] }) {
+  // This is a server component - we render all but hide extras with CSS/client toggle
+  // Actually we need client interactivity for expand, so we pass to DJDetailClient
+  // For now render all with a data attribute the client can use
+  return (
+    <div className="signature-tracks-list" data-default-show="7">
+      {tracks.map((a, i) => (
+        <div
+          key={a.key}
+          className={`track-row${i < tracks.length - 1 ? '' : ' last'}${i >= 7 ? ' signature-hidden' : ''}`}
+          data-idx={i}
+        >
+          <span className="track-row-num">{i + 1}</span>
+          <div style={{ flex: 1, minWidth: 0 }}>
+            <Link
+              href={`/track/${trackSlug(a.artist, a.title)}`}
+              className="track-link"
+              style={{ fontSize: '0.875rem' }}
+            >
+              <span style={{ fontWeight: 600 }}>{a.artist}</span>
+              <span style={{ color: 'var(--muted-lt)' }}> &mdash; {a.title}</span>
+            </Link>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 3, marginTop: 4 }}>
+              {a.years.map(y => (
+                <span key={y} className="year-tag">{y}</span>
               ))}
             </div>
           </div>
-        )}
-      </div>
-
-      {/* 6. Signature Tracks */}
-      <div className="card" style={{ marginBottom: 24 }}>
-        <div className="card-header">
-          <div className="card-title">Signature Tracks</div>
-          <div className="text-muted" style={{ fontSize: '0.75rem' }}>Played across 2+ years</div>
+          <span className="count-badge">{a.count}x</span>
         </div>
-        {anthems.length === 0 ? (
-          <div style={{ color: 'var(--muted)', fontSize: '0.875rem', padding: '8px 0' }}>
-            No tracks found that were played across multiple years.
-          </div>
-        ) : (
-          anthems.map((a, i) => (
-            <div
-              key={a.key}
-              className={`track-row${i < anthems.length - 1 ? '' : ' last'}`}
-            >
-              <span className="track-row-num">{i + 1}</span>
-              <div style={{ flex: 1, minWidth: 0 }}>
-                <Link
-                  href={`/track/${trackSlug(a.artist, a.title)}`}
-                  className="track-link"
-                  style={{ fontSize: '0.875rem' }}
-                >
-                  <span style={{ fontWeight: 600 }}>{a.artist}</span>
-                  <span style={{ color: 'var(--muted-lt)' }}> &mdash; {a.title}</span>
-                </Link>
-                <div style={{ display: 'flex', flexWrap: 'wrap', gap: 3, marginTop: 4 }}>
-                  {a.years.map(y => (
-                    <span key={y} className="year-tag">{y}</span>
-                  ))}
-                </div>
+      ))}
+      {tracks.length > 7 && (
+        <button
+          className="expand-btn signature-expand-btn"
+          data-expand-target="signature-tracks-list"
+        >
+          Show all {tracks.length} tracks
+        </button>
+      )}
+    </div>
+  );
+}
+
+function DJSupportedTracks({ tracks }: { tracks: { artist: string; title: string; key: string; playedByCount: number; playedBy: string[]; totalPlays: number }[] }) {
+  return (
+    <div className="card" style={{ marginBottom: 24 }}>
+      <div className="card-header">
+        <div>
+          <div className="card-title">Their Most Supported Tracks</div>
+          <div style={{ fontSize: '0.75rem', color: 'var(--muted)', marginTop: 2 }}>Their tracks that other DJs play the most</div>
+        </div>
+      </div>
+      <div className="signature-tracks-list" data-default-show="7">
+        {tracks.map((t, i) => (
+          <div
+            key={t.key}
+            className={`track-row${i < tracks.length - 1 ? '' : ' last'}${i >= 7 ? ' signature-hidden' : ''}`}
+            data-idx={i}
+          >
+            <span className="track-row-num">{i + 1}</span>
+            <div style={{ flex: 1, minWidth: 0 }}>
+              <Link
+                href={`/track/${trackSlug(t.artist, t.title)}`}
+                className="track-link"
+                style={{ fontSize: '0.875rem' }}
+              >
+                <span style={{ fontWeight: 600 }}>{t.artist}</span>
+                <span style={{ color: 'var(--muted-lt)' }}> &mdash; {t.title}</span>
+              </Link>
+              <div style={{ fontSize: '0.75rem', color: 'var(--muted)', marginTop: 3 }}>
+                Played by {t.playedBy.slice(0, 5).join(', ')}{t.playedByCount > 5 ? ` + ${t.playedByCount - 5} more` : ''}
               </div>
-              <span className="count-badge">{a.count}x</span>
             </div>
-          ))
+            <span className="count-badge" title={`${t.playedByCount} other DJs`}>{t.playedByCount} DJs</span>
+          </div>
+        ))}
+        {tracks.length > 7 && (
+          <button
+            className="expand-btn signature-expand-btn"
+            data-expand-target="signature-tracks-list"
+          >
+            Show all {tracks.length} tracks
+          </button>
         )}
       </div>
-    </>
+    </div>
   );
 }

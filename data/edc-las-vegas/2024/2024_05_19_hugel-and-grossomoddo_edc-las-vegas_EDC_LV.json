@@ -1,0 +1,511 @@
+{
+  "tlId": "1sccruh1",
+  "dj": "HUGEL & GROSSOMODDO",
+  "stage": "EDC Las Vegas",
+  "date": "2024-05-19",
+  "year": 2024,
+  "url": "https://www.1001tracklists.com/tracklist/1sccruh1/hugel-grossomoddo-stereobloom-edc-las-vegas-united-states-2024-05-19.html",
+  "djs": [
+    {
+      "name": "HUGEL",
+      "slug": "hugel"
+    },
+    {
+      "name": "GROSSOMODDO",
+      "slug": "grossomoddo"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Maahez & Nano The DJ & Primo.",
+      "title": "Polvito",
+      "remix": "",
+      "label": "HYSTERICAL (EGO)",
+      "trackId": "10631687",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1013993",
+        "youtube": "1013993",
+        "appleMusic": "1013993"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "DJ Diass",
+      "title": "Te Quiero",
+      "remix": "",
+      "label": "MAKE THE GIRLS DANCE",
+      "trackId": "10631688",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 195,
+      "mediaIds": {
+        "spotify": "1052075",
+        "youtube": "1052075",
+        "soundcloud": "1052075",
+        "appleMusic": "1052075"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "HUGEL & GROSSOMODDO",
+      "title": "Andalucia",
+      "remix": "",
+      "label": "MAKE THE GIRLS DANCE",
+      "trackId": "10631689",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 520,
+      "mediaIds": {
+        "spotify": "996454",
+        "youtube": "996454",
+        "soundcloud": "996454",
+        "appleMusic": "996454"
+      },
+      "blendGroup": [
+        {
+          "artist": "HUGEL & GROSSOMODDO",
+          "title": "Andalucia",
+          "remix": "",
+          "trackId": "10631689"
+        },
+        {
+          "artist": "Technotronic",
+          "title": "Pump Up The Jam (Acappella)",
+          "remix": "",
+          "trackId": "10631690"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Technotronic",
+      "title": "Pump Up The Jam (Acappella)",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "10631690",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5108",
+        "youtube": "10191",
+        "soundcloud": "5108",
+        "appleMusic": "5108"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Africanism & Martin Solveig",
+      "title": "Edony",
+      "remix": "",
+      "label": "AFRICANISM (YELLOW)",
+      "trackId": "10631691",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 780,
+      "mediaIds": {
+        "spotify": "16236",
+        "youtube": "16236",
+        "appleMusic": "16236"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Space Motion & Stylo & Joezi ft. Idd Aziz",
+      "title": "Mambo Jambo",
+      "remix": "",
+      "label": "HURRY UP SLOWLY",
+      "trackId": "10631692",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 960,
+      "mediaIds": {
+        "spotify": "815128",
+        "youtube": "815128",
+        "appleMusic": "815128"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Feid & ATL Jacob",
+      "title": "LUNA (Sistek Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "10631693",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1110,
+      "mediaIds": {
+        "youtube": "1062970"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Laurent Simeca",
+      "title": "Are You Ready",
+      "remix": "",
+      "label": "KEEP ON DANCING",
+      "trackId": "10631694",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 1335,
+      "mediaIds": {
+        "spotify": "1071090",
+        "soundcloud": "1071090",
+        "appleMusic": "1071090"
+      },
+      "blendGroup": [
+        {
+          "artist": "Laurent Simeca",
+          "title": "Are You Ready",
+          "remix": "",
+          "trackId": "10631694"
+        },
+        {
+          "artist": "Rhythm Controll",
+          "title": "My House (In Beginning, There Was Jack... Acappella)",
+          "remix": "",
+          "trackId": "10631695"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Rhythm Controll",
+      "title": "My House (In Beginning, There Was Jack... Acappella)",
+      "remix": "",
+      "label": "CATCH A BEAT",
+      "trackId": "10631695",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "112474",
+        "youtube": "112475",
+        "soundcloud": "112474",
+        "appleMusic": "112474"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "TWENTY SIX ft. Tayson Kryss",
+      "title": "Buscando Money (HUGEL & Jesús Fernández Remix)",
+      "remix": "",
+      "label": "GLASGOW UNDERGROUND",
+      "trackId": "10631696",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1560,
+      "mediaIds": {
+        "spotify": "990401",
+        "youtube": "990401",
+        "soundcloud": "990401",
+        "appleMusic": "990401"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "GROSSOMODDO",
+      "title": "1001 Nuits",
+      "remix": "",
+      "label": "MAKE THE GIRLS DANCE",
+      "trackId": "10631697",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1725,
+      "mediaIds": {
+        "spotify": "943932",
+        "youtube": "943932",
+        "soundcloud": "943932",
+        "appleMusic": "943932"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Rafael (IL) & Guy Katch",
+      "title": "Stop",
+      "remix": "",
+      "label": "HIGHER GROUND (MAD DECENT)",
+      "trackId": "10631698",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 2000,
+      "mediaIds": {
+        "spotify": "1000073",
+        "youtube": "1000073",
+        "appleMusic": "1000073"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "BERIN",
+      "title": "Exotica",
+      "remix": "",
+      "label": "SUNSET GATHERING",
+      "trackId": "10631699",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 2240,
+      "mediaIds": {
+        "spotify": "1003183",
+        "youtube": "1003183",
+        "soundcloud": "1003183",
+        "appleMusic": "1003183"
+      },
+      "blendGroup": [
+        {
+          "artist": "BERIN",
+          "title": "Exotica",
+          "remix": "",
+          "trackId": "10631699"
+        },
+        {
+          "artist": "Funkerman",
+          "title": "Speed Up",
+          "remix": "(Acappella)",
+          "trackId": "10905350"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Funkerman",
+      "title": "Speed Up",
+      "remix": "(Acappella)",
+      "label": "ALTRA MODA",
+      "trackId": "10905350",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "26531",
+        "youtube": "26531",
+        "soundcloud": "26531",
+        "appleMusic": "26531"
+      },
+      "blendGroup": [
+        {
+          "artist": "Funkerman",
+          "title": "Speed Up",
+          "remix": "(Acappella)",
+          "trackId": "10905350"
+        },
+        {
+          "artist": "Foremost Poets",
+          "title": "Moonraker (Acappella)",
+          "remix": "",
+          "trackId": "10631700"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Foremost Poets",
+      "title": "Moonraker (Acappella)",
+      "remix": "",
+      "label": "NRK",
+      "trackId": "10631700",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1530",
+        "youtube": "8109",
+        "soundcloud": "1530",
+        "appleMusic": "1530"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "Mita Gami vs. Hugel & Blondish",
+      "title": "Allenby X Tra Tra (Forgivemetommy! Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "10631701",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2490,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10631703",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2735,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "El Chuape & Javi Torres",
+      "title": "Dale Rollo",
+      "remix": "",
+      "label": "ADDICTING",
+      "trackId": "10631704",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2970,
+      "mediaIds": {
+        "spotify": "1049292",
+        "youtube": "1049292",
+        "soundcloud": "1049292",
+        "appleMusic": "1049292"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "IDRIS",
+      "title": "La Trumpeta",
+      "remix": "",
+      "label": "DEFECTED",
+      "trackId": "10631705",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 3180,
+      "mediaIds": {
+        "spotify": "980231",
+        "youtube": "980231",
+        "soundcloud": "980231",
+        "appleMusic": "980231"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10631706",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 3330,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Basement Jaxx",
+      "title": "Jump N Shout (Erik Hagleton Remix)",
+      "remix": "",
+      "label": "TOOLROOM/XL/TOOLROOM",
+      "trackId": "10631707",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 3540,
+      "mediaIds": {
+        "spotify": "329703",
+        "youtube": "329703",
+        "soundcloud": "329703",
+        "appleMusic": "329703"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "10631709",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 3825,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Safar (FR) & LeCloarec",
+      "title": "Scandalosa",
+      "remix": "",
+      "label": "MOBLACK",
+      "trackId": "10631710",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 4000,
+      "mediaIds": {
+        "spotify": "895712",
+        "youtube": "895712",
+        "soundcloud": "895712",
+        "appleMusic": "895712"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Super Flu",
+      "title": "We You (Adam Ten Remix)",
+      "remix": "",
+      "label": "REALM",
+      "trackId": "10631711",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 4260,
+      "mediaIds": {
+        "spotify": "976278",
+        "youtube": "976278",
+        "soundcloud": "976278",
+        "appleMusic": "976278"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Ale Kuma & GROSSOMODDO",
+      "title": "Madre Vida",
+      "remix": "",
+      "label": "MAKE THE GIRLS DANCE",
+      "trackId": "10631712",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 4350,
+      "mediaIds": {
+        "spotify": "1031587",
+        "youtube": "1031587",
+        "soundcloud": "1031587",
+        "appleMusic": "1031587"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4161381",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=unzzKAqa-KY"
+    },
+    {
+      "platform": "soundcloud",
+      "idMedia": "4161382",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1838396931"
+    }
+  ],
+  "scrapedAt": "2026-04-08T03:27:32.612Z",
+  "scrapeVersion": 2
+}

@@ -1,0 +1,152 @@
+{
+  "tlId": "29wgvx9",
+  "dj": "Keys N Krates",
+  "stage": "EDC Las Vegas",
+  "date": "2015-06-20",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/29wgvx9/keys-n-krates-cosmicmeadow-edc-las-vegas-united-states-2015-06-20.html",
+  "djs": [
+    {
+      "name": "Keys N Krates",
+      "slug": "keysnkrates"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Keys N Krates",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "1480398",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 153,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Grandtheft & Keys N Krates",
+      "title": "Keep It 100",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "1480399",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 153,
+      "mediaIds": {
+        "spotify": "191189",
+        "youtube": "191189",
+        "soundcloud": "191189",
+        "appleMusic": "191189"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Kanye West ft. Big Sean & JAY Z",
+      "title": "Clique (Keys N Krates Remix)",
+      "remix": "",
+      "label": "GOOD MUSIC (ISLAND DEF JAM)",
+      "trackId": "1480400",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 329,
+      "mediaIds": {
+        "youtube": "126026"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Keys N Krates",
+      "title": "Are We Faded",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "1480401",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 447,
+      "mediaIds": {
+        "spotify": "207762",
+        "youtube": "207762",
+        "soundcloud": "207762",
+        "appleMusic": "207762"
+      },
+      "blendGroup": [
+        {
+          "artist": "Keys N Krates",
+          "title": "Are We Faded",
+          "remix": "",
+          "trackId": "1480401"
+        },
+        {
+          "artist": "DJ Sliink",
+          "title": "Put Cha Back In It (Acappella)",
+          "remix": "",
+          "trackId": "1481050"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Sliink",
+      "title": "Put Cha Back In It (Acappella)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1481050",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 547,
+      "mediaIds": {
+        "spotify": "119756",
+        "youtube": "119756",
+        "appleMusic": "119756"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "TNGHT",
+      "title": "Higher Ground",
+      "remix": "",
+      "label": "WARP",
+      "trackId": "1481051",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 641,
+      "mediaIds": {
+        "spotify": "85043",
+        "youtube": "85043",
+        "soundcloud": "85043",
+        "appleMusic": "85043"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "GTA & Juyen Sebulba",
+      "title": "Hard House",
+      "remix": "",
+      "label": "THREE SIX ZERO/WARNER BROS.",
+      "trackId": "1481052",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 788,
+      "mediaIds": {
+        "spotify": "157657",
+        "youtube": "157657",
+        "soundcloud": "157657",
+        "appleMusic": "157657"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T08:27:25.343Z",
+  "scrapeVersion": 2
+}

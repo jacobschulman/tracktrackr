@@ -4,7 +4,6 @@ import './globals.css';
 import { Sidebar } from '@/components/Sidebar';
 import { MobileTabs } from '@/components/MobileTabs';
 import { Search } from '@/components/Search';
-import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { HashRedirect } from '@/components/HashRedirect';
 import { PlayerBar } from '@/components/PlayerBar';
 import { Analytics } from '@vercel/analytics/next';
@@ -14,7 +13,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'TrackTrackr',
-  description: '25+ years of Ultra Music Festival DJ sets, tracklists, and hidden patterns — visualized.',
+  description: 'Explore festival DJ sets, tracklists, and hidden patterns across Ultra, EDC, Coachella, and more — visualized.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -27,14 +26,18 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main id="content">
           <header id="header">
             <a href="/" className="header-brand">
-              <span className="header-brand-icon">&#9638;</span>
+              <span className="header-brand-icon">🔊</span>
               <span className="header-brand-text">TrackTrackr</span>
             </a>
-            <Breadcrumbs />
             <Search />
           </header>
           <div id="view-container">
             {children}
+            <footer className="site-footer">
+              <a href="/disclaimer">Disclaimer</a>
+              <span className="footer-sep">&middot;</span>
+              <span>Data last updated April 2026</span>
+            </footer>
           </div>
         </main>
         <PlayerBar />

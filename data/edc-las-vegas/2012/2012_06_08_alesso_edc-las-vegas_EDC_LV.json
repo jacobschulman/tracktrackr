@@ -1,0 +1,548 @@
+{
+  "tlId": "6r0b5b1",
+  "dj": "Alesso",
+  "stage": "EDC Las Vegas",
+  "date": "2012-06-08",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/6r0b5b1/alesso-kineticfield-edc-las-vegas-united-states-2012-06-08.html",
+  "djs": [
+    {
+      "name": "Alesso",
+      "slug": "alesso"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Sebastian Ingrosso & Alesso",
+      "title": "Calling",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "239671",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "39855",
+        "youtube": "39855",
+        "soundcloud": "39855",
+        "appleMusic": "39855"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Sebastian Ingrosso & Alesso ft. Ryan Tedder",
+      "title": "Calling (Lose My Mind)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "239672",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "63652",
+        "youtube": "63652",
+        "soundcloud": "63652",
+        "appleMusic": "63652"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Alesso",
+      "title": "Raise Your Head",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "239673",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "47971",
+        "youtube": "47971",
+        "soundcloud": "47971",
+        "appleMusic": "47971"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso",
+          "title": "Raise Your Head",
+          "remix": "",
+          "trackId": "239673"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "Around The World (Acappella)",
+          "remix": "",
+          "trackId": "239674"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "Around The World (Acappella)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "239674",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1537",
+        "youtube": "8415",
+        "soundcloud": "1537",
+        "appleMusic": "1537"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "Around The World (Acappella)",
+          "remix": "",
+          "trackId": "239674"
+        },
+        {
+          "artist": "The White Stripes",
+          "title": "Seven Nation Army",
+          "remix": "",
+          "trackId": "239675"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army",
+      "remix": "",
+      "label": "XL",
+      "trackId": "239675",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1491",
+        "youtube": "1491",
+        "soundcloud": "1491",
+        "appleMusic": "1491"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Cassius vs. Michael Woods vs. Nero",
+      "title": "I Love Bullet Promises (Dirty South Mashup)",
+      "remix": "",
+      "label": "ED BANGER/DIFFUSED/MTA",
+      "trackId": "239676",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Alesso vs. R.E.M.",
+      "title": "In My Blood vs. Losing My Religion (Alesso Mashup)",
+      "remix": "",
+      "label": "WARNER BROS./DEF JAM",
+      "trackId": "239679",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "James Blunt",
+      "title": "Dangerous (Deniz Koyu & Johan Wedel Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "239681",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "43860",
+        "youtube": "43860",
+        "soundcloud": "43860",
+        "appleMusic": "43860"
+      },
+      "blendGroup": [
+        {
+          "artist": "James Blunt",
+          "title": "Dangerous (Deniz Koyu & Johan Wedel Remix)",
+          "remix": "",
+          "trackId": "239681"
+        },
+        {
+          "artist": "Porter Robinson ft. Bright Lights",
+          "title": "Language",
+          "remix": "",
+          "trackId": "239682"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Porter Robinson ft. Bright Lights",
+      "title": "Language",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "239682",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69003",
+        "youtube": "69003",
+        "soundcloud": "69003",
+        "appleMusic": "69003"
+      },
+      "blendGroup": [
+        {
+          "artist": "Porter Robinson ft. Bright Lights",
+          "title": "Language",
+          "remix": "",
+          "trackId": "239682"
+        },
+        {
+          "artist": "Dúné",
+          "title": "Heiress Of Valentina (Acappella)",
+          "remix": "",
+          "trackId": "239683"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dúné",
+      "title": "Heiress Of Valentina (Acappella)",
+      "remix": "",
+      "label": "NERO (JOIA)",
+      "trackId": "239683",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "24471",
+        "youtube": "24471",
+        "appleMusic": "24471"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Sebastian Ingrosso vs. Avicii vs. Alesso",
+      "title": "Laktos vs. Levels vs. Dynamite (Alesso Bootleg)",
+      "remix": "",
+      "label": "REFUNE/LE7ELS",
+      "trackId": "239684",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Sebastian Ingrosso vs. Avicii vs. Alesso",
+          "title": "Laktos vs. Levels vs. Dynamite (Alesso Bootleg)",
+          "remix": "",
+          "trackId": "239684"
+        },
+        {
+          "artist": "Sebastian Ingrosso ft. MGMT",
+          "title": "Kidsos",
+          "remix": "",
+          "trackId": "241954"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sebastian Ingrosso ft. MGMT",
+      "title": "Kidsos",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "241954",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "4851",
+        "youtube": "4851",
+        "soundcloud": "4851",
+        "appleMusic": "4851"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Alesso",
+      "title": "Clash",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "239687",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "73999",
+        "youtube": "73999",
+        "soundcloud": "73999",
+        "appleMusic": "73999"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso",
+          "title": "Clash",
+          "remix": "",
+          "trackId": "239687"
+        },
+        {
+          "artist": "Adele",
+          "title": "Set Fire To The Rain (Acappella)",
+          "remix": "",
+          "trackId": "239688"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Adele",
+      "title": "Set Fire To The Rain (Acappella)",
+      "remix": "",
+      "label": "XL",
+      "trackId": "239688",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "35630",
+        "youtube": "48699",
+        "soundcloud": "48699",
+        "appleMusic": "35630"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "AutoErotique",
+      "title": "Turn Up The Volume",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "239689",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "28380",
+        "youtube": "28380",
+        "soundcloud": "28380",
+        "appleMusic": "28380"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Coldplay",
+      "title": "Clocks",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "239690",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "4125",
+        "youtube": "4125",
+        "soundcloud": "4125",
+        "appleMusic": "4125"
+      },
+      "blendGroup": [
+        {
+          "artist": "Coldplay",
+          "title": "Clocks",
+          "remix": "",
+          "trackId": "239690"
+        },
+        {
+          "artist": "Matt Caseli & Danny Freakazoid",
+          "title": "Raise Your Hands",
+          "remix": "",
+          "trackId": "239691"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Matt Caseli & Danny Freakazoid",
+      "title": "Raise Your Hands",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "239691",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30420",
+        "youtube": "30420",
+        "soundcloud": "30420",
+        "appleMusic": "30420"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Dirty South & Alesso ft. Ruben Haze",
+      "title": "City Of Dreams",
+      "remix": "",
+      "label": "PHAZING",
+      "trackId": "239692",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "75525",
+        "youtube": "75525",
+        "soundcloud": "75525",
+        "appleMusic": "75525"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Alesso ft. Matthew Koma",
+      "title": "Years (Vocal Mix)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "239693",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69179",
+        "youtube": "69179",
+        "soundcloud": "69179",
+        "appleMusic": "69179"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "David Guetta ft. Sia",
+      "title": "Titanium(Co-Prod. by AFROJACK) (Alesso Remix)",
+      "remix": "",
+      "label": "FMIF",
+      "trackId": "239694",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "53748",
+        "youtube": "53748",
+        "soundcloud": "53748",
+        "appleMusic": "53748"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "OneRepublic vs. Otto Knows",
+      "title": "Million Voices vs. Apologize (Thomas Gold Bootleg)",
+      "remix": "",
+      "label": "MOSLEY (INTERSCOPE)/REFUNE",
+      "trackId": "239695",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "84474",
+        "soundcloud": "84474"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Daft Punk",
+      "title": "One More Time",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE",
+      "trackId": "239697",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1847",
+        "youtube": "1847",
+        "soundcloud": "1847",
+        "appleMusic": "1847"
+      },
+      "blendGroup": [
+        {
+          "artist": "Daft Punk",
+          "title": "One More Time",
+          "remix": "",
+          "trackId": "239697"
+        },
+        {
+          "artist": "Nadia Ali & Starkillers & Alex Kenji",
+          "title": "Pressure (Alesso Remix)",
+          "remix": "",
+          "trackId": "239696"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nadia Ali & Starkillers & Alex Kenji",
+      "title": "Pressure (Alesso Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "239696",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "32288",
+        "youtube": "32288",
+        "soundcloud": "32288",
+        "appleMusic": "32288"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Keane",
+      "title": "Silenced By The Night (Alesso Remix)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "239698",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "69181",
+        "youtube": "69181",
+        "soundcloud": "69181",
+        "appleMusic": "69181"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "37090",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=7JmtkapnC-Q"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "37206",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/DubShakerz"
+    }
+  ],
+  "scrapedAt": "2026-04-08T13:40:21.333Z",
+  "scrapeVersion": 2
+}

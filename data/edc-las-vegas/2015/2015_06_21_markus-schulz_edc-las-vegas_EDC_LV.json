@@ -1,0 +1,341 @@
+{
+  "tlId": "5l6fbf9",
+  "dj": "Markus Schulz",
+  "stage": "EDC Las Vegas",
+  "date": "2015-06-21",
+  "year": 2015,
+  "url": "https://www.1001tracklists.com/tracklist/5l6fbf9/markus-schulz-circuitgrounds-edc-las-vegas-united-states-2015-06-21.html",
+  "djs": [
+    {
+      "name": "Markus Schulz",
+      "slug": "markusschulz"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Markus Schulz ft. VASSY",
+      "title": "Tomorrow Never Dies (Bombay)",
+      "remix": "",
+      "label": "COLDHARBOUR",
+      "trackId": "1482213",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "spotify": "261464",
+        "youtube": "261464",
+        "soundcloud": "261464",
+        "appleMusic": "261464"
+      },
+      "blendGroup": [
+        {
+          "artist": "Markus Schulz ft. VASSY",
+          "title": "Tomorrow Never Dies (Bombay)",
+          "remix": "",
+          "trackId": "1482213"
+        },
+        {
+          "artist": "Markus Schulz ft. Delacey",
+          "title": "Destiny (Acappella)",
+          "remix": "",
+          "trackId": "1483603"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Markus Schulz ft. Delacey",
+      "title": "Destiny (Acappella)",
+      "remix": "",
+      "label": "COLDHARBOUR",
+      "trackId": "1483603",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 35,
+      "mediaIds": {
+        "spotify": "240674",
+        "youtube": "240674",
+        "soundcloud": "240674",
+        "appleMusic": "240674"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Dash Berlin ft. Roxanne Emery",
+      "title": "Shelter (Solis & Sean Truby Remix)",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "1482214",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "224878",
+        "youtube": "224878",
+        "soundcloud": "224878",
+        "appleMusic": "224878"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Oliver Heldens",
+      "title": "Melody (7Aviators Remake)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1482215",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "256840"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Dave Neven",
+      "title": "Drifter",
+      "remix": "",
+      "label": "COLDHARBOUR",
+      "trackId": "1482216",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "240620",
+        "youtube": "240620",
+        "soundcloud": "240620",
+        "appleMusic": "240620"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Gareth Emery ft. Bo Bruce",
+      "title": "U (New World Punx Bootleg)",
+      "remix": "",
+      "label": "GARUDA",
+      "trackId": "1482217",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Fisherman & Hawkins",
+      "title": "Underworld",
+      "remix": "",
+      "label": "COLDHARBOUR",
+      "trackId": "1482218",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "203865",
+        "youtube": "203865",
+        "soundcloud": "203865"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Ferry Corsten pres. Gouryella",
+      "title": "Anahera",
+      "remix": "",
+      "label": "FLASHOVER",
+      "trackId": "1482219",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "255519",
+        "youtube": "255519",
+        "soundcloud": "255519",
+        "appleMusic": "255519"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Arkham Knights",
+      "title": "Blackgate",
+      "remix": "",
+      "label": "INTERSTATE (INFRASONIC)",
+      "trackId": "1482220",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "247043",
+        "soundcloud": "247043",
+        "appleMusic": "247043"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Sonic One & TWOLOUD",
+      "title": "The Drums (Markus Schulz Big Room Reconstruction)",
+      "remix": "",
+      "label": "DOORN (SPINNIN')",
+      "trackId": "1482221",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "New World Punx",
+      "title": "Torque",
+      "remix": "",
+      "label": "NEW WORLD PUNX (BLACK HOLE)",
+      "trackId": "1482222",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "213782",
+        "appleMusic": "213782"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "David Forbes vs. ZHU",
+      "title": "Faded Jetpack (Markus Schulz Mashup)",
+      "remix": "",
+      "label": "MIND OF A GENIUS/SPINNIN'/OUTBURST",
+      "trackId": "1482223",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1950,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Markus Schulz",
+      "title": "The New World (Fisherman & Hawkins Remix)",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "1482224",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 2040,
+      "mediaIds": {
+        "spotify": "265787",
+        "youtube": "265787",
+        "soundcloud": "265787",
+        "appleMusic": "265787"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "New World Punx",
+      "title": "Who's Afraid Of 1001",
+      "remix": "",
+      "label": "",
+      "trackId": "1482225",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "New World Punx",
+      "title": "Romper",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1482226",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "127081",
+        "youtube": "127081",
+        "soundcloud": "127081",
+        "appleMusic": "127081"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Markus Schulz & Tom Boxer",
+      "title": "Bine Facut (Bucharest)",
+      "remix": "",
+      "label": "COLDHARBOUR",
+      "trackId": "1482227",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "237453",
+        "youtube": "237453",
+        "soundcloud": "237453",
+        "appleMusic": "237453"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Beat Service",
+      "title": "Proxy",
+      "remix": "",
+      "label": "BEAT SERVICE (RAZ NITZAN)",
+      "trackId": "1482228",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "256959",
+        "youtube": "256959",
+        "appleMusic": "256959"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "New World Punx ft. Cara Salimando",
+      "title": "Memories (Markus Schulz Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "1482229",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "261497"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "312624",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/211595632"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "424894",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=4yjk96VRm8I"
+    }
+  ],
+  "scrapedAt": "2026-04-08T08:19:30.227Z",
+  "scrapeVersion": 2
+}

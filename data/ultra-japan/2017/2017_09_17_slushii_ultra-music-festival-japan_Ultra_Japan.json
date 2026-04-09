@@ -1,0 +1,1607 @@
+{
+  "tlId": "2clcbrut",
+  "dj": "Slushii",
+  "stage": "Ultra Music Festival Japan",
+  "date": "2017-09-17",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/2clcbrut/slushii-mainstage-ultra-music-festival-japan-2017-09-17.html",
+  "djs": [
+    {
+      "name": "Slushii",
+      "slug": "slushii"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Slushii",
+      "title": "Into The Light",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2870674",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "373405",
+        "youtube": "373405",
+        "appleMusic": "373405"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Slushii",
+      "title": "Make Me Feel",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2870675",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 149,
+      "mediaIds": {
+        "spotify": "307799",
+        "youtube": "307799",
+        "appleMusic": "307799"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Slushii",
+      "title": "Luv U Need U",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "2870676",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 201,
+      "mediaIds": {
+        "spotify": "364236",
+        "youtube": "364236",
+        "soundcloud": "364236",
+        "appleMusic": "364236"
+      },
+      "blendGroup": [
+        {
+          "artist": "Slushii",
+          "title": "Luv U Need U",
+          "remix": "",
+          "trackId": "2870676"
+        },
+        {
+          "artist": "Kyary Pamyu Pamyu",
+          "title": "PonPonPon(Prod. by Yasutaka Nakata)",
+          "remix": "",
+          "trackId": "2975729"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Kyary Pamyu Pamyu",
+      "title": "PonPonPon(Prod. by Yasutaka Nakata)",
+      "remix": "",
+      "label": "",
+      "trackId": "2975729",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 252,
+      "mediaIds": {
+        "spotify": "243926",
+        "youtube": "243926",
+        "soundcloud": "243926",
+        "appleMusic": "243926"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "D.R.A.M. ft. Lil Yachty",
+      "title": "Broccoli (Herobust Busted Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2870677",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 305,
+      "mediaIds": {
+        "spotify": "323854",
+        "youtube": "323854",
+        "soundcloud": "323854",
+        "appleMusic": "323854"
+      },
+      "blendGroup": [
+        {
+          "artist": "D.R.A.M. ft. Lil Yachty",
+          "title": "Broccoli (Herobust Busted Remix)",
+          "remix": "",
+          "trackId": "2870677"
+        },
+        {
+          "artist": "graves & Coolights",
+          "title": "Say Things (Crankdat Re-Crank)",
+          "remix": "",
+          "trackId": "2870678"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "graves & Coolights",
+      "title": "Say Things (Crankdat Re-Crank)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2870678",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 357,
+      "mediaIds": {
+        "youtube": "312768",
+        "soundcloud": "312768"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Kendrick Lamar vs. QUIX & Ian Munro",
+      "title": "Humble vs. Purple Ford Falcon (Chuwe Edit)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)/AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "2870679",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 376,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Kendrick Lamar vs. QUIX & Ian Munro",
+          "title": "Humble vs. Purple Ford Falcon (Chuwe Edit)",
+          "remix": "",
+          "trackId": "2870679"
+        },
+        {
+          "artist": "2 Chainz ft. Cap 1",
+          "title": "Where U Been? (Acappella)",
+          "remix": "",
+          "trackId": "2870680"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "2 Chainz ft. Cap 1",
+      "title": "Where U Been? (Acappella)",
+      "remix": "",
+      "label": "DEF JAM",
+      "trackId": "2870680",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 429,
+      "mediaIds": {
+        "spotify": "156325",
+        "youtube": "198878",
+        "soundcloud": "198878",
+        "appleMusic": "156325"
+      },
+      "blendGroup": [
+        {
+          "artist": "2 Chainz ft. Cap 1",
+          "title": "Where U Been? (Acappella)",
+          "remix": "",
+          "trackId": "2870680"
+        },
+        {
+          "artist": "Slushii",
+          "title": "Emptiness",
+          "remix": "",
+          "trackId": "2872259"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Slushii",
+      "title": "Emptiness",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "2872259",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 430,
+      "mediaIds": {
+        "spotify": "307323",
+        "youtube": "307323",
+        "soundcloud": "307323",
+        "appleMusic": "307323"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Yeah Yeah Yeahs & A-Trak & Kid Kamillion vs. Rihanna vs. Mightyfools & Yellow Claw & Hasse De Moor",
+      "title": "Heads Will Roll vs. Work vs. Lick Dat (Flosstradamus Edit)",
+      "remix": "",
+      "label": "DGC/BARONG FAMILY/ROC NATION (SONY)",
+      "trackId": "2872260",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 456,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "YOGI ft. Pusha T",
+      "title": "Burial (Skrillex & TrollPhace Remix / Slushii Flip)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2870681",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 521,
+      "mediaIds": {
+        "soundcloud": "371404"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Future vs. Alison Wonderland & Vincent ft. Wayne Coyne",
+      "title": "Mask Off vs. U Don't Know (Benzi & Chuwe Edit)",
+      "remix": "",
+      "label": "EMI AUSTRALIA/FREEBANDZ",
+      "trackId": "2870682",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 617,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Future vs. Alison Wonderland & Vincent ft. Wayne Coyne",
+          "title": "Mask Off vs. U Don't Know (Benzi & Chuwe Edit)",
+          "remix": "",
+          "trackId": "2870682"
+        },
+        {
+          "artist": "Alison Wonderland ft. Wayne Coyne",
+          "title": "U Don't Know (Slushii Remix)",
+          "remix": "",
+          "trackId": "2872261"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alison Wonderland ft. Wayne Coyne",
+      "title": "U Don't Know (Slushii Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2872261",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 655,
+      "mediaIds": {
+        "youtube": "370574",
+        "soundcloud": "370574"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "DJ Snake ft. Justin Bieber",
+      "title": "Let Me Love You (Slushii Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "2870683",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 681,
+      "mediaIds": {
+        "youtube": "388677"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake ft. Justin Bieber",
+          "title": "Let Me Love You (Slushii Remix)",
+          "remix": "",
+          "trackId": "2870683"
+        },
+        {
+          "artist": "Ookay & Slushii",
+          "title": "Sandcastles",
+          "remix": "",
+          "trackId": "2872262"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ookay & Slushii",
+      "title": "Sandcastles",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2872262",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 742,
+      "mediaIds": {
+        "youtube": "544514",
+        "soundcloud": "544514"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Slushii",
+      "title": "Step By Step",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2870687",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 768,
+      "mediaIds": {
+        "spotify": "370422",
+        "appleMusic": "370422"
+      },
+      "blendGroup": [
+        {
+          "artist": "Slushii",
+          "title": "Step By Step",
+          "remix": "",
+          "trackId": "2870687"
+        },
+        {
+          "artist": "Skrillex",
+          "title": "Ruffneck (Flex) (ChodeGang Remix)",
+          "remix": "",
+          "trackId": "2872263"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex",
+      "title": "Ruffneck (Flex) (ChodeGang Remix)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "2872263",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 804,
+      "mediaIds": {
+        "youtube": "361158",
+        "soundcloud": "361158"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex",
+          "title": "Ruffneck (Flex) (ChodeGang Remix)",
+          "remix": "",
+          "trackId": "2872263"
+        },
+        {
+          "artist": "Zomboy",
+          "title": "Like A Bitch (Acappella)",
+          "remix": "",
+          "trackId": "2872264"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zomboy",
+      "title": "Like A Bitch (Acappella)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "2872264",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 825,
+      "mediaIds": {
+        "spotify": "349131",
+        "youtube": "349131",
+        "soundcloud": "349131",
+        "appleMusic": "349131"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Van Halen",
+      "title": "Jump",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "2870688",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 835,
+      "mediaIds": {
+        "spotify": "216632",
+        "youtube": "216632",
+        "soundcloud": "216632",
+        "appleMusic": "216632"
+      },
+      "blendGroup": [
+        {
+          "artist": "Van Halen",
+          "title": "Jump",
+          "remix": "",
+          "trackId": "2870688"
+        },
+        {
+          "artist": "GTA & Diplo",
+          "title": "Boy Oh Boy",
+          "remix": "",
+          "trackId": "2872265"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GTA & Diplo",
+      "title": "Boy Oh Boy",
+      "remix": "",
+      "label": "MAD DECENT/FREE",
+      "trackId": "2872265",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 873,
+      "mediaIds": {
+        "spotify": "117721",
+        "youtube": "117721",
+        "soundcloud": "117721",
+        "appleMusic": "117721"
+      },
+      "blendGroup": [
+        {
+          "artist": "GTA & Diplo",
+          "title": "Boy Oh Boy",
+          "remix": "",
+          "trackId": "2872265"
+        },
+        {
+          "artist": "Ricky Remedy & Diplo ft. Tunji Ige",
+          "title": "Chosen",
+          "remix": "",
+          "trackId": "2872266"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ricky Remedy & Diplo ft. Tunji Ige",
+      "title": "Chosen",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2872266",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 886,
+      "mediaIds": {
+        "spotify": "370597",
+        "youtube": "370597",
+        "soundcloud": "370597",
+        "appleMusic": "370597"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "A$AP Ferg ft. Future",
+      "title": "New Level",
+      "remix": "",
+      "label": "A$AP",
+      "trackId": "2870689",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 911,
+      "mediaIds": {
+        "spotify": "295297",
+        "youtube": "295297",
+        "soundcloud": "295297",
+        "appleMusic": "295297"
+      },
+      "blendGroup": [
+        {
+          "artist": "A$AP Ferg ft. Future",
+          "title": "New Level",
+          "remix": "",
+          "trackId": "2870689"
+        },
+        {
+          "artist": "Slushii",
+          "title": "Omae Wa Mou Shindeiru",
+          "remix": "",
+          "trackId": "2870690"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Slushii",
+      "title": "Omae Wa Mou Shindeiru",
+      "remix": "",
+      "label": "",
+      "trackId": "2870690",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 948,
+      "mediaIds": null
+    },
+    {
+      "pos": "13",
+      "artist": "Twenty One Pilots",
+      "title": "Ride",
+      "remix": "",
+      "label": "FUELED BY RAMEN",
+      "trackId": "2872267",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 976,
+      "mediaIds": {
+        "spotify": "297095",
+        "youtube": "297095",
+        "soundcloud": "297095",
+        "appleMusic": "297095"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Jack Ü ft. 2 Chainz",
+      "title": "Febreze",
+      "remix": "",
+      "label": "ATLANTIC/MAD DECENT",
+      "trackId": "2870691",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1020,
+      "mediaIds": {
+        "spotify": "220643",
+        "youtube": "220643",
+        "soundcloud": "220643",
+        "appleMusic": "220643"
+      },
+      "blendGroup": [
+        {
+          "artist": "Jack Ü ft. 2 Chainz",
+          "title": "Febreze",
+          "remix": "",
+          "trackId": "2870691"
+        },
+        {
+          "artist": "DJ Fresh ft. Ce'Cile",
+          "title": "Gold Dust (Flux Pavilion Remix)",
+          "remix": "",
+          "trackId": "2870702"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Fresh ft. Ce'Cile",
+      "title": "Gold Dust (Flux Pavilion Remix)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "2870702",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 1075,
+      "mediaIds": {
+        "spotify": "39869",
+        "youtube": "39869",
+        "soundcloud": "39869",
+        "appleMusic": "39869"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Dimitri Vegas & Like Mike & W&W",
+      "title": "Crowd Control",
+      "remix": "",
+      "label": "SMASH THE HOUSE/EPIC AMSTERDAM",
+      "trackId": "2870703",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1195,
+      "mediaIds": {
+        "spotify": "373794",
+        "youtube": "373794",
+        "appleMusic": "373794"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dimitri Vegas & Like Mike & W&W",
+          "title": "Crowd Control",
+          "remix": "",
+          "trackId": "2870703"
+        },
+        {
+          "artist": "Skrillex & The Doors",
+          "title": "Breakin' A Sweat (It's Alright)",
+          "remix": "",
+          "trackId": "2872268"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & The Doors",
+      "title": "Breakin' A Sweat (It's Alright)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "2872268",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 1223,
+      "mediaIds": {
+        "spotify": "52807",
+        "youtube": "52807",
+        "soundcloud": "52807",
+        "appleMusic": "52807"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Jack Ü ft. Bunji Garlin vs. Tchami & Oliverse ft. Stacy Barthe",
+      "title": "After Life (Slushii Edit)",
+      "remix": "",
+      "label": "ATLANTIC/MAD DECENT/UKF",
+      "trackId": "3000880",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Flow",
+      "title": "GO!!!",
+      "remix": "",
+      "label": "KI/OON",
+      "trackId": "2872271",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1298,
+      "mediaIds": {
+        "spotify": "341966",
+        "youtube": "341966",
+        "appleMusic": "341966"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Marshmello",
+      "title": "Alone (Slushii Remix)",
+      "remix": "",
+      "label": "MONSTERCAT",
+      "trackId": "2872272",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1332,
+      "mediaIds": {
+        "spotify": "316393",
+        "youtube": "316393",
+        "appleMusic": "316393"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Marshmello & Slushii",
+      "title": "Twinbow",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2870704",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 1354,
+      "mediaIds": {
+        "spotify": "350595",
+        "youtube": "350595",
+        "soundcloud": "350595",
+        "appleMusic": "350595"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Slushii",
+      "title": "Take My Hand",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2870706",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1460,
+      "mediaIds": {
+        "spotify": "307775",
+        "youtube": "307775",
+        "soundcloud": "307775",
+        "appleMusic": "307775"
+      },
+      "blendGroup": [
+        {
+          "artist": "Slushii",
+          "title": "Take My Hand",
+          "remix": "",
+          "trackId": "2870706"
+        },
+        {
+          "artist": "Wiwek & Skrillex ft. Eliphant",
+          "title": "Killa (Slushii Remix)",
+          "remix": "",
+          "trackId": "2872273"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wiwek & Skrillex ft. Eliphant",
+      "title": "Killa (Slushii Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2872273",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 1503,
+      "mediaIds": {
+        "spotify": "304930",
+        "youtube": "304930",
+        "soundcloud": "304930",
+        "appleMusic": "304930"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2870705",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 1500,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "2870705"
+        },
+        {
+          "artist": "DJ MERCER & DJ Snake",
+          "title": "Lunatic (Acappella)",
+          "remix": "",
+          "trackId": "2878882"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ MERCER & DJ Snake",
+      "title": "Lunatic (Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2878882",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "171632",
+        "youtube": "240808",
+        "soundcloud": "171632",
+        "appleMusic": "171632"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ MERCER & DJ Snake",
+          "title": "Lunatic (Acappella)",
+          "remix": "",
+          "trackId": "2878882"
+        },
+        {
+          "artist": "Slushii",
+          "title": "Catch Me",
+          "remix": "",
+          "trackId": "2872274"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Slushii",
+      "title": "Catch Me",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2872274",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 1526,
+      "mediaIds": {
+        "spotify": "348822",
+        "youtube": "348822",
+        "appleMusic": "348822"
+      }
+    },
+    {
+      "pos": "22",
+      "artist": "Ivan Gough & Feenixpawl ft. Georgi Kay",
+      "title": "In My Mind (Axwell Mix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "2870707",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 1555,
+      "mediaIds": {
+        "spotify": "59281",
+        "youtube": "59281",
+        "soundcloud": "59281",
+        "appleMusic": "59281"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ivan Gough & Feenixpawl ft. Georgi Kay",
+          "title": "In My Mind (Axwell Mix)",
+          "remix": "",
+          "trackId": "2870707"
+        },
+        {
+          "artist": "Zomboy & MUST DIE!",
+          "title": "Survivors",
+          "remix": "",
+          "trackId": "2872275"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zomboy & MUST DIE!",
+      "title": "Survivors",
+      "remix": "",
+      "label": "NEVER SAY DIE/NEST",
+      "trackId": "2872275",
+      "row": 22,
+      "type": "blend",
+      "cueTime": 1604,
+      "mediaIds": {
+        "spotify": "193905",
+        "youtube": "193905",
+        "soundcloud": "193905",
+        "appleMusic": "193905"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Flosstradamus & GTA vs. Slushii & Dion Timmer",
+      "title": "Prison Riot vs. Test Me (Slushii Edit)",
+      "remix": "",
+      "label": "ULTRA/FOOL'S GOLD/MONSTERCAT",
+      "trackId": "2870708",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 1640,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Avicii",
+      "title": "Levels (Skrillex Remix)",
+      "remix": "",
+      "label": "LE7ELS",
+      "trackId": "2872277",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 1701,
+      "mediaIds": {
+        "spotify": "57858",
+        "youtube": "57858",
+        "soundcloud": "57858",
+        "appleMusic": "57858"
+      },
+      "blendGroup": [
+        {
+          "artist": "Avicii",
+          "title": "Levels (Skrillex Remix)",
+          "remix": "",
+          "trackId": "2872277"
+        },
+        {
+          "artist": "Zomboy",
+          "title": "Like A Bitch (Slushii & Volt Edit)",
+          "remix": "",
+          "trackId": "2870710"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Zomboy",
+      "title": "Like A Bitch (Slushii & Volt Edit)",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "2870710",
+      "row": 24,
+      "type": "blend",
+      "cueTime": 1760,
+      "mediaIds": {
+        "youtube": "381201"
+      }
+    },
+    {
+      "pos": "25",
+      "artist": "Darude",
+      "title": "Sandstorm",
+      "remix": "",
+      "label": "NEO RECORDS/ROBBINS",
+      "trackId": "2870711",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 1809,
+      "mediaIds": {
+        "spotify": "17045",
+        "youtube": "17045",
+        "soundcloud": "17045",
+        "appleMusic": "17045"
+      },
+      "blendGroup": [
+        {
+          "artist": "Darude",
+          "title": "Sandstorm",
+          "remix": "",
+          "trackId": "2870711"
+        },
+        {
+          "artist": "Gorgon City ft. Katy Menditta",
+          "title": "Imagination (Skrillex Remix / Jauz Remake)",
+          "remix": "",
+          "trackId": "2872278"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gorgon City ft. Katy Menditta",
+      "title": "Imagination (Skrillex Remix / Jauz Remake)",
+      "remix": "",
+      "label": "VIRGIN EMI (UMG)",
+      "trackId": "2872278",
+      "row": 25,
+      "type": "blend",
+      "cueTime": 1847,
+      "mediaIds": {
+        "youtube": "373722",
+        "soundcloud": "373722"
+      }
+    },
+    {
+      "pos": "26",
+      "artist": "A$AP Ferg vs. MERCER & DJ Snake vs. Eptic & Breaux vs. Zombie Nation & W&W vs. Flosstradamus & Valentino Khan vs. Zomboy",
+      "title": "Work vs. Lunatic vs. The End vs. Kernkraft 400 vs. M.F.U. (Middle Fingers Up) vs. Like A Bitch (Slushii Edit)",
+      "remix": "",
+      "label": "A$AP/SPINNIN'/EPM/ULTRA/FOOL'S GOLD/NEVER SAY DIE",
+      "trackId": "2870719",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 1879,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "A$AP Ferg vs. MERCER & DJ Snake vs. Eptic & Breaux vs. Zombie Nation & W&W vs. Flosstradamus & Valentino Khan vs. Zomboy",
+          "title": "Work vs. Lunatic vs. The End vs. Kernkraft 400 vs. M.F.U. (Middle Fingers Up) vs. Like A Bitch (Slushii Edit)",
+          "remix": "",
+          "trackId": "2870719"
+        },
+        {
+          "artist": "KAYZO",
+          "title": "Whistle Wars (Slushii Bootleg)",
+          "remix": "",
+          "trackId": "2870720"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "KAYZO",
+      "title": "Whistle Wars (Slushii Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "2870720",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 1991,
+      "mediaIds": {
+        "youtube": "363485",
+        "soundcloud": "363485"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "GTA ft. DJ Funk",
+      "title": "Booty Bounce (GTA HYPRR MIX)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2870721",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 2053,
+      "mediaIds": {
+        "youtube": "244281",
+        "soundcloud": "244281"
+      },
+      "blendGroup": [
+        {
+          "artist": "GTA ft. DJ Funk",
+          "title": "Booty Bounce (GTA HYPRR MIX)",
+          "remix": "",
+          "trackId": "2870721"
+        },
+        {
+          "artist": "Slushii",
+          "title": "Level Up",
+          "remix": "",
+          "trackId": "2870722"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Slushii",
+      "title": "Level Up",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2870722",
+      "row": 27,
+      "type": "blend",
+      "cueTime": 2090,
+      "mediaIds": {
+        "spotify": "388591",
+        "youtube": "388591",
+        "appleMusic": "388591"
+      }
+    },
+    {
+      "pos": "28",
+      "artist": "Showtek ft. We Are Loud & Sonny Wilson",
+      "title": "Booyah",
+      "remix": "",
+      "label": "SPINNIN'/2DUTCH",
+      "trackId": "2870723",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 2116,
+      "mediaIds": {
+        "spotify": "142182",
+        "youtube": "142182",
+        "soundcloud": "142182",
+        "appleMusic": "142182"
+      },
+      "blendGroup": [
+        {
+          "artist": "Showtek ft. We Are Loud & Sonny Wilson",
+          "title": "Booyah",
+          "remix": "",
+          "trackId": "2870723"
+        },
+        {
+          "artist": "12th Planet & Juakali",
+          "title": "Reasons (Doctor P Remix)",
+          "remix": "",
+          "trackId": "2872279"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "12th Planet & Juakali",
+      "title": "Reasons (Doctor P Remix)",
+      "remix": "",
+      "label": "SMOG",
+      "trackId": "2872279",
+      "row": 28,
+      "type": "blend",
+      "cueTime": 2165,
+      "mediaIds": {
+        "spotify": "30973",
+        "youtube": "30973",
+        "soundcloud": "30973",
+        "appleMusic": "30973"
+      }
+    },
+    {
+      "pos": "29",
+      "artist": "Post Malone ft. Quavo vs. Marshmello & Ookay ft. Noah Cyrus",
+      "title": "Congratulations vs. Chasing Colors (FAED Bootleg)",
+      "remix": "",
+      "label": "JOYTIME COLLECTIVE/REPUBLIC (UMG)",
+      "trackId": "2872283",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 2193,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Post Malone ft. Quavo vs. Marshmello & Ookay ft. Noah Cyrus",
+          "title": "Congratulations vs. Chasing Colors (FAED Bootleg)",
+          "remix": "",
+          "trackId": "2872283"
+        },
+        {
+          "artist": "Ookay",
+          "title": "Thief",
+          "remix": "",
+          "trackId": "2872284"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Ookay",
+      "title": "Thief",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)",
+      "trackId": "2872284",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 2218,
+      "mediaIds": {
+        "spotify": "302288",
+        "youtube": "302288",
+        "soundcloud": "302288",
+        "appleMusic": "302288"
+      },
+      "blendGroup": [
+        {
+          "artist": "Ookay",
+          "title": "Thief",
+          "remix": "",
+          "trackId": "2872284"
+        },
+        {
+          "artist": "Boombox Cartel",
+          "title": "Jefe",
+          "remix": "",
+          "trackId": "2872285"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Boombox Cartel",
+      "title": "Jefe",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2872285",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 2257,
+      "mediaIds": {
+        "spotify": "348418",
+        "youtube": "348418",
+        "soundcloud": "348418",
+        "appleMusic": "348418"
+      },
+      "blendGroup": [
+        {
+          "artist": "Boombox Cartel",
+          "title": "Jefe",
+          "remix": "",
+          "trackId": "2872285"
+        },
+        {
+          "artist": "Dr. Ozi ft. MagMag",
+          "title": "HartyHar",
+          "remix": "",
+          "trackId": "2872286"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Dr. Ozi ft. MagMag",
+      "title": "HartyHar",
+      "remix": "",
+      "label": "NEVER SAY DIE",
+      "trackId": "2872286",
+      "row": 29,
+      "type": "blend",
+      "cueTime": 2269,
+      "mediaIds": {
+        "spotify": "351673",
+        "youtube": "351673",
+        "soundcloud": "351673",
+        "appleMusic": "351673"
+      }
+    },
+    {
+      "pos": "30",
+      "artist": "Skrillex & Rick Ross",
+      "title": "Purple Lamborghini",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "2872287",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 2334,
+      "mediaIds": {
+        "spotify": "318013",
+        "youtube": "318013",
+        "soundcloud": "318013",
+        "appleMusic": "318013"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Cascada vs. Dillon Francis & Sultan + Shepard ft. The Chain Gang Of 1974 & Zomboy",
+      "title": "Everytime We Touch vs. When We Were Young (Slushii Edit)",
+      "remix": "",
+      "label": "ZOO DIGITAL (ZOOLAND)/COLUMBIA (SONY)",
+      "trackId": "2872288",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 2359,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Oasis vs. Dimitri Vegas & Like Mike & Martin Garrix",
+      "title": "Tremor vs. Wonderwall (JӨSΣPH BΣ Edit)",
+      "remix": "",
+      "label": "CREATION/SPINNIN'",
+      "trackId": "2872289",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 2471,
+      "mediaIds": {
+        "soundcloud": "256826"
+      },
+      "blendGroup": [
+        {
+          "artist": "Oasis vs. Dimitri Vegas & Like Mike & Martin Garrix",
+          "title": "Tremor vs. Wonderwall (JӨSΣPH BΣ Edit)",
+          "remix": "",
+          "trackId": "2872289"
+        },
+        {
+          "artist": "JVST SAY YES & Virtual Riot",
+          "title": "Feel The Bass",
+          "remix": "",
+          "trackId": "2872290"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JVST SAY YES & Virtual Riot",
+      "title": "Feel The Bass",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "2872290",
+      "row": 32,
+      "type": "blend",
+      "cueTime": 2520,
+      "mediaIds": {
+        "spotify": "283788",
+        "youtube": "283788",
+        "soundcloud": "283788",
+        "appleMusic": "283788"
+      }
+    },
+    {
+      "pos": "33",
+      "artist": "Wuki ft. Run DMC",
+      "title": "Tricky",
+      "remix": "",
+      "label": "WUKILEAKS",
+      "trackId": "2872291",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 2563,
+      "mediaIds": {
+        "youtube": "376022",
+        "soundcloud": "376022"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "2 Live Crew",
+      "title": "We Want Some Pussy (Z&Z Wants Some Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "2872292",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 2630,
+      "mediaIds": {
+        "youtube": "186094",
+        "soundcloud": "186094"
+      },
+      "blendGroup": [
+        {
+          "artist": "2 Live Crew",
+          "title": "We Want Some Pussy (Z&Z Wants Some Remix)",
+          "remix": "",
+          "trackId": "2872292"
+        },
+        {
+          "artist": "Garmiani",
+          "title": "Bomb A Drop",
+          "remix": "",
+          "trackId": "2872293"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Garmiani",
+      "title": "Bomb A Drop",
+      "remix": "",
+      "label": "DIM MAK",
+      "trackId": "2872293",
+      "row": 34,
+      "type": "blend",
+      "cueTime": 2658,
+      "mediaIds": {
+        "spotify": "289358",
+        "youtube": "289358",
+        "soundcloud": "289358",
+        "appleMusic": "289358"
+      }
+    },
+    {
+      "pos": "35",
+      "artist": "Skrillex & Wolfgang Gartner vs. Daft Punk",
+      "title": "The Devil's Den (VIP) vs. Harder Better Faster Stronger (Skrillex Mashup)",
+      "remix": "",
+      "label": "VIRGIN/BIG BEAT (ATLANTIC)",
+      "trackId": "2870743",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 2690,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Skrillex & Wolfgang Gartner vs. Daft Punk",
+          "title": "The Devil's Den (VIP) vs. Harder Better Faster Stronger (Skrillex Mashup)",
+          "remix": "",
+          "trackId": "2870743"
+        },
+        {
+          "artist": "JAUZ & Crankdat ft. Slushii",
+          "title": "I Hold Still",
+          "remix": "",
+          "trackId": "2872280"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAUZ & Crankdat ft. Slushii",
+      "title": "I Hold Still",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "2872280",
+      "row": 35,
+      "type": "blend",
+      "cueTime": 2736,
+      "mediaIds": {
+        "spotify": "325378",
+        "youtube": "325378",
+        "soundcloud": "325378",
+        "appleMusic": "325378"
+      }
+    },
+    {
+      "pos": "36",
+      "artist": "Migos feat. Lil Uzi Vert vs. MC Hammer",
+      "title": "Bad And Boujee vs. U Can't Touch This (Guap Beats Super Freak Full Mashup)",
+      "remix": "",
+      "label": "CAPITOL (EMI)/QUALITY CONTROL",
+      "trackId": "2870745",
+      "row": 36,
+      "type": "normal",
+      "cueTime": 2770,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Migos feat. Lil Uzi Vert vs. MC Hammer",
+          "title": "Bad And Boujee vs. U Can't Touch This (Guap Beats Super Freak Full Mashup)",
+          "remix": "",
+          "trackId": "2870745"
+        },
+        {
+          "artist": "Excision & Dion Timmer",
+          "title": "Mirror",
+          "remix": "",
+          "trackId": "2870746"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Excision & Dion Timmer",
+      "title": "Mirror",
+      "remix": "",
+      "label": "ROTTUN",
+      "trackId": "2870746",
+      "row": 36,
+      "type": "blend",
+      "cueTime": 2827,
+      "mediaIds": {
+        "spotify": "331903",
+        "youtube": "331903",
+        "soundcloud": "331903",
+        "appleMusic": "331903"
+      }
+    },
+    {
+      "pos": "37",
+      "artist": "Dr. Dre ft. Snoop Dogg",
+      "title": "Still D.R.E. (Manuel Alvarez Bootleg)",
+      "remix": "",
+      "label": "",
+      "trackId": "2870747",
+      "row": 37,
+      "type": "normal",
+      "cueTime": 2863,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Dr. Dre ft. Snoop Dogg",
+          "title": "Still D.R.E. (Manuel Alvarez Bootleg)",
+          "remix": "",
+          "trackId": "2870747"
+        },
+        {
+          "artist": "Cesqeaux & KAYZO",
+          "title": "Home",
+          "remix": "",
+          "trackId": "2872281"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Cesqeaux & KAYZO",
+      "title": "Home",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "2872281",
+      "row": 37,
+      "type": "blend",
+      "cueTime": 2924,
+      "mediaIds": {
+        "spotify": "300954",
+        "youtube": "300954",
+        "soundcloud": "300954",
+        "appleMusic": "300954"
+      }
+    },
+    {
+      "pos": "38",
+      "artist": "Wuki",
+      "title": "DADADADA (Slushii Edit)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2870748",
+      "row": 38,
+      "type": "normal",
+      "cueTime": 2951,
+      "mediaIds": {
+        "youtube": "375165"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "39",
+      "artist": "Slushii ft. Madi",
+      "title": "So Long",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "2872282",
+      "row": 39,
+      "type": "normal",
+      "cueTime": 3004,
+      "mediaIds": {
+        "spotify": "317587",
+        "youtube": "317587",
+        "soundcloud": "317587",
+        "appleMusic": "317587"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "40",
+      "artist": "DJ Khaled ft. Ludacris & Rick Ross & T-Pain & Snoop Dogg vs. DJ Snake vs. 4B & Aazar vs. Phiso & Slushii",
+      "title": "All I Do Is Win vs. Propaganda vs. Pop That vs. Jotaro (Slushii Edit)",
+      "remix": "",
+      "label": "E1 MUSIC/SELF RELEASED/DJ SNAKE/INTERSCOPE/SMOG",
+      "trackId": "2870749",
+      "row": 40,
+      "type": "normal",
+      "cueTime": 3051,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "41",
+      "artist": "deadmau5 ft. Greta Svabo Bech",
+      "title": "Raise Your Weapon",
+      "remix": "",
+      "label": "ULTRA/MAU5TRAP",
+      "trackId": "2870750",
+      "row": 41,
+      "type": "normal",
+      "cueTime": 3173,
+      "mediaIds": {
+        "spotify": "21178",
+        "youtube": "21178",
+        "soundcloud": "21178",
+        "appleMusic": "21178"
+      },
+      "blendGroup": [
+        {
+          "artist": "deadmau5 ft. Greta Svabo Bech",
+          "title": "Raise Your Weapon",
+          "remix": "",
+          "trackId": "2870750"
+        },
+        {
+          "artist": "Alice Deejay",
+          "title": "Better Off Alone (BARELY ALIVE Remix)",
+          "remix": "",
+          "trackId": "2874546"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone (BARELY ALIVE Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "2874546",
+      "row": 41,
+      "type": "blend",
+      "cueTime": 3199,
+      "mediaIds": {
+        "youtube": "226731",
+        "soundcloud": "226731"
+      }
+    },
+    {
+      "pos": "42",
+      "artist": "Slushii",
+      "title": "I Still Recall",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2870753",
+      "row": 42,
+      "type": "normal",
+      "cueTime": 3332,
+      "mediaIds": {
+        "spotify": "346452",
+        "youtube": "346452",
+        "appleMusic": "346452"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "656726",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/342802128"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:59:06.647Z",
+  "scrapeVersion": 2
+}

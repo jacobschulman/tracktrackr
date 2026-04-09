@@ -1,0 +1,745 @@
+{
+  "tlId": "z8yxpxk",
+  "dj": "Alesso",
+  "stage": "Ultra Europe",
+  "date": "2025-07-11",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/z8yxpxk/alesso-mainstage-ultra-europe-croatia-2025-07-11.html",
+  "djs": [
+    {
+      "name": "Alesso",
+      "slug": "alesso"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Sentinel & Alesso",
+      "title": "Freedom",
+      "remix": "(Intro Edit)",
+      "label": "BODY HI",
+      "trackId": "12408566",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 7,
+      "mediaIds": {
+        "spotify": "1102439",
+        "youtube": "1102439",
+        "soundcloud": "1102439",
+        "appleMusic": "1102439"
+      },
+      "blendGroup": [
+        {
+          "artist": "Sentinel & Alesso",
+          "title": "Freedom",
+          "remix": "(Intro Edit)",
+          "trackId": "12408566"
+        },
+        {
+          "artist": "Alesso ft. Tove Lo",
+          "title": "Heroes (We Could Be) (Acappella)",
+          "remix": "",
+          "trackId": "12408567"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alesso ft. Tove Lo",
+      "title": "Heroes (We Could Be) (Acappella)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "12408567",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 23,
+      "mediaIds": {
+        "spotify": "201252",
+        "youtube": "219322",
+        "soundcloud": "201252",
+        "appleMusic": "201252"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "Alesso & Sentinel & SICK INDIVIDUALS",
+      "title": "Upside Down",
+      "remix": "",
+      "label": "TOMORROWLAND/BODY HI",
+      "trackId": "12408568",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 251,
+      "mediaIds": {
+        "spotify": "1026886",
+        "youtube": "1026886",
+        "soundcloud": "1026886",
+        "appleMusic": "1026886"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Calvin Harris & Alesso ft. Hurts",
+      "title": "Under Control",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "12408569",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 455,
+      "mediaIds": {
+        "spotify": "146189",
+        "youtube": "146189",
+        "soundcloud": "146189",
+        "appleMusic": "146189"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Alesso",
+      "title": "Stupidisco",
+      "remix": "",
+      "label": "BODY HI",
+      "trackId": "12408570",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 543,
+      "mediaIds": {
+        "youtube": "1010449"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso",
+          "title": "Stupidisco",
+          "remix": "",
+          "trackId": "12408570"
+        },
+        {
+          "artist": "Alesso & Hailee Steinfeld ft. Florida Georgia Line & Watt",
+          "title": "Let Me Go",
+          "remix": "(Acappella)",
+          "trackId": "12408678"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alesso & Hailee Steinfeld ft. Florida Georgia Line & Watt",
+      "title": "Let Me Go",
+      "remix": "(Acappella)",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "12408678",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 543,
+      "mediaIds": {
+        "spotify": "379741",
+        "youtube": "379741",
+        "soundcloud": "379741",
+        "appleMusic": "379741"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Alesso",
+      "title": "Hypnotize",
+      "remix": "",
+      "label": "BODY HI/CAPITOL",
+      "trackId": "12408571",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 725,
+      "mediaIds": {
+        "spotify": "887029",
+        "youtube": "887029",
+        "soundcloud": "887029",
+        "appleMusic": "887029"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Bingo Players vs. AC Slater & Curbi & No/Me",
+      "title": "Devotion vs. Brain On Drugs (Alesso Mashup)",
+      "remix": "",
+      "label": "SNEAKERZ (SPINNIN')/MONSTERCAT",
+      "trackId": "12408572",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 855,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Alesso & Zara Larsson vs. Sentinel & Nate Smith",
+      "title": "Words vs. I Like It (Alesso Mashup)",
+      "remix": "",
+      "label": "10:22PM/CAPITOL/BODY HI",
+      "trackId": "12408573",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 972,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Alesso vs. DubVision vs. The Chemical Brothers & ARTBAT",
+      "title": "Zig Zag vs. Run vs. Hey Boy, Hey Girl (Alesso Mashup)",
+      "remix": "",
+      "label": "BODY HI/POSITIVA/VIRGIN/STMPD",
+      "trackId": "12408574",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1150,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Deniz Koyu vs. Alesso & Katy Perry vs. Cat Dealers & Romeo Blanco",
+      "title": "Astral vs. When I'm Gone vs. Out Of Time (Alesso Mashup)",
+      "remix": "",
+      "label": "10:22PM/ARMADA/MUSICAL FREEDOM",
+      "trackId": "12408575",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1299,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Deniz Koyu vs. Alesso & Katy Perry vs. Cat Dealers & Romeo Blanco",
+          "title": "Astral vs. When I'm Gone vs. Out Of Time (Alesso Mashup)",
+          "remix": "",
+          "trackId": "12408575"
+        },
+        {
+          "artist": "GetCosy",
+          "title": "Slam",
+          "remix": "",
+          "trackId": "12408812"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GetCosy",
+      "title": "Slam",
+      "remix": "",
+      "label": "DISCO PASTRAMI",
+      "trackId": "12408812",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 1379,
+      "mediaIds": {
+        "spotify": "1082849",
+        "youtube": "1082849",
+        "soundcloud": "1082849",
+        "appleMusic": "1082849"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Sentinel",
+      "title": "Like Fire",
+      "remix": "",
+      "label": "BODY HI",
+      "trackId": "12408576",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1452,
+      "mediaIds": {
+        "spotify": "1158947",
+        "youtube": "1158947",
+        "soundcloud": "1158947",
+        "appleMusic": "1158947"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Calvin Harris & D.O.D ft. Florence Welch",
+      "title": "Sweet Nothing (2025 Edit)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "12408865",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1583,
+      "mediaIds": {
+        "spotify": "1094951",
+        "youtube": "1094951",
+        "soundcloud": "1094951",
+        "appleMusic": "1094951"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Alesso & Sentinel vs. Tove Lo",
+      "title": "Only You vs. Heroes (Alesso Mashup)",
+      "remix": "",
+      "label": "REFUNE/10:22PM",
+      "trackId": "12408866",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1772,
+      "mediaIds": {
+        "youtube": "790745"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso & Sentinel vs. Tove Lo",
+          "title": "Only You vs. Heroes (Alesso Mashup)",
+          "remix": "",
+          "trackId": "12408866"
+        },
+        {
+          "artist": "Nadia Ali & Starkillers & Alex Kenji",
+          "title": "Pressure (Alesso Remix)",
+          "remix": "",
+          "trackId": "12408867"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Nadia Ali & Starkillers & Alex Kenji",
+      "title": "Pressure (Alesso Remix)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "12408867",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 1992,
+      "mediaIds": {
+        "spotify": "32288",
+        "youtube": "32288",
+        "soundcloud": "32288",
+        "appleMusic": "32288"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Martin Garrix & Third ≡ Party vs. Alesso & Nico & Vinz",
+      "title": "Carry You vs. I Wanna Know (Alesso Mashup)",
+      "remix": "",
+      "label": "DEF JAM/STMPD",
+      "trackId": "12408868",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 2078,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Tina Guo & EWC & Hollywood Scoring",
+      "title": "Ascension (Alesso Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "12408869",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 2256,
+      "mediaIds": {
+        "spotify": "1108287",
+        "youtube": "1108287",
+        "soundcloud": "1108287"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Tiësto & Lucas & Steve",
+      "title": "Free Your Mind",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "12408870",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2464,
+      "mediaIds": {
+        "spotify": "1054298",
+        "youtube": "1054298",
+        "soundcloud": "1054298",
+        "appleMusic": "1054298"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12408871",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2603,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "12408871"
+        },
+        {
+          "artist": "Daft Punk",
+          "title": "One More Time (Acappella)",
+          "remix": "",
+          "trackId": "12408872"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Daft Punk",
+      "title": "One More Time (Acappella)",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE",
+      "trackId": "12408872",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 2605,
+      "mediaIds": {
+        "spotify": "1847",
+        "youtube": "1847",
+        "soundcloud": "1847",
+        "appleMusic": "1847"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "Anyma & Argy & Son Of Son",
+      "title": "Voices In My Head (Alesso Remix)",
+      "remix": "",
+      "label": "THE END OF GENESYS/INTERSCOPE",
+      "trackId": "12408873",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2778,
+      "mediaIds": {
+        "youtube": "1092477"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Alesso & Becky Hill",
+      "title": "Surrender (John Alto Remix)",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "12408874",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2970,
+      "mediaIds": {
+        "spotify": "1091850",
+        "youtube": "1091850",
+        "soundcloud": "1091850",
+        "appleMusic": "1091850"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Avicii",
+      "title": "Levels (Alesso Remix)",
+      "remix": "",
+      "label": "LE7ELS/UMG",
+      "trackId": "12408875",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 3180,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Liah vs. Alesso & Sick Individuals",
+      "title": "Bad vs. We Go Out (Alesso Mashup)",
+      "remix": "",
+      "label": "10:22PM/REVEALED",
+      "trackId": "12409000",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 3390,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Cassian & YOTTO & Da Hool",
+      "title": "Love Parade",
+      "remix": "",
+      "label": "AFTERLIFE",
+      "trackId": "12409001",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 3503,
+      "mediaIds": {
+        "spotify": "1064398",
+        "youtube": "1064398",
+        "soundcloud": "1064398",
+        "appleMusic": "1064398"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Alesso & John Alto",
+      "title": "Lonely Heart",
+      "remix": "",
+      "label": "BODY HI",
+      "trackId": "12409060",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3637,
+      "mediaIds": {
+        "spotify": "1027804",
+        "youtube": "1027804",
+        "soundcloud": "1027804",
+        "appleMusic": "1027804"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Alesso",
+      "title": "Zig Zag",
+      "remix": "",
+      "label": "BODY HI",
+      "trackId": "12409122",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3775,
+      "mediaIds": {
+        "spotify": "983586",
+        "youtube": "983586",
+        "soundcloud": "983586",
+        "appleMusic": "983586"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alesso",
+          "title": "Zig Zag",
+          "remix": "",
+          "trackId": "12409122"
+        },
+        {
+          "artist": "Fedde Le Grand",
+          "title": "Put Your Hands Up For Detroit (Acappella)",
+          "remix": "",
+          "trackId": "12409301"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fedde Le Grand",
+      "title": "Put Your Hands Up For Detroit (Acappella)",
+      "remix": "",
+      "label": "DATA REC. (MINISTRY OF SOUND)",
+      "trackId": "12409301",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 3775,
+      "mediaIds": {
+        "spotify": "1206",
+        "youtube": "9801",
+        "soundcloud": "1206",
+        "appleMusic": "1206"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fedde Le Grand",
+          "title": "Put Your Hands Up For Detroit (Acappella)",
+          "remix": "",
+          "trackId": "12409301"
+        },
+        {
+          "artist": "The Weeknd & Playboi Carti",
+          "title": "Timeless",
+          "remix": "(Acappella)",
+          "trackId": "12409302"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Weeknd & Playboi Carti",
+      "title": "Timeless",
+      "remix": "(Acappella)",
+      "label": "XO (REPUBLIC)",
+      "trackId": "12409302",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 3882,
+      "mediaIds": {
+        "spotify": "1039521",
+        "youtube": "1039521",
+        "soundcloud": "1039521",
+        "appleMusic": "1039521"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Steve Angello",
+      "title": "Hooligans",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "12409365",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3983,
+      "mediaIds": {
+        "spotify": "1044517",
+        "youtube": "1044517",
+        "soundcloud": "1044517",
+        "appleMusic": "1044517"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Valentino Khan",
+      "title": "Deep Down Low (JMBX Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "12409426",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 4056,
+      "mediaIds": {
+        "soundcloud": "1107087"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "David Guetta & Alesso ft. Madison Love",
+      "title": "Never Going Home Tonight",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "12409449",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 4194,
+      "mediaIds": {
+        "spotify": "990618",
+        "youtube": "990618",
+        "soundcloud": "990618",
+        "appleMusic": "990618"
+      },
+      "blendGroup": [
+        {
+          "artist": "David Guetta & Alesso ft. Madison Love",
+          "title": "Never Going Home Tonight",
+          "remix": "",
+          "trackId": "12409449"
+        },
+        {
+          "artist": "Gotye ft. Kimbra",
+          "title": "Somebody That I Used To Know (Acappella)",
+          "remix": "",
+          "trackId": "12409502"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Gotye ft. Kimbra",
+      "title": "Somebody That I Used To Know (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "12409502",
+      "row": 26,
+      "type": "blend",
+      "cueTime": 4305,
+      "mediaIds": {
+        "spotify": "45982",
+        "youtube": "59280",
+        "soundcloud": "45982",
+        "appleMusic": "45982"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "Sebastian Ingrosso & Céline Dion vs. Coldplay",
+      "title": "A New Day vs. A Sky Full Of Stars (Alesso Mashup)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)/SUPERHUMAN",
+      "trackId": "12409470",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 4407,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Alesso & OneRepublic vs. Sebastian Ingrosso & Tommy Trash",
+      "title": "If I Lose Myself vs. Reload (Alesso Mashup)",
+      "remix": "",
+      "label": "MOSLEY/INTERSCOPE/REFUNE",
+      "trackId": "12409504",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 4604,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Sebastian Ingrosso & Alesso & Ryan Tedder vs. Martin Garrix & Dua Lipa",
+      "title": "Calling vs. Scared To Be Lonely (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "REFUNE/STMPD",
+      "trackId": "12409533",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 4889,
+      "mediaIds": {
+        "appleMusic": "910593"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Martin Garrix & Alesso ft. Shaun Farrugia",
+      "title": "Inside Our Hearts",
+      "remix": "(Outro Edit)",
+      "label": "STMPD",
+      "trackId": "12409558",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 5165,
+      "mediaIds": {
+        "spotify": "878581",
+        "youtube": "878581",
+        "soundcloud": "878581",
+        "appleMusic": "878581"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "4865887",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=1L2Mg3jSJVE"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:28:43.932Z",
+  "scrapeVersion": 2
+}

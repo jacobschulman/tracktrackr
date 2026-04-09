@@ -1,0 +1,569 @@
+{
+  "tlId": "1lmf4011",
+  "dj": "Matroda",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-23",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/1lmf4011/matroda-stereobloom-edc-las-vegas-united-states-2021-10-23.html",
+  "djs": [
+    {
+      "name": "Matroda",
+      "slug": "matroda"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Matroda",
+      "title": "Storytelling",
+      "remix": "(Intro Edit)",
+      "label": "TERMINAL UNDERGROUND",
+      "trackId": "6867649",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "714834",
+        "youtube": "714834",
+        "soundcloud": "714834",
+        "appleMusic": "714834"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "J Balvin & Skrillex",
+      "title": "In Da Getto (Matroda Remix)",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "6867650",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 160,
+      "mediaIds": {
+        "youtube": "745954",
+        "soundcloud": "745954"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Biscits",
+      "title": "Wait A Minute",
+      "remix": "",
+      "label": "SOLOTOKO",
+      "trackId": "6867651",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 250,
+      "mediaIds": {
+        "spotify": "732292",
+        "youtube": "732292",
+        "soundcloud": "732292",
+        "appleMusic": "732292"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Matroda",
+      "title": "Gimme Some Keys",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6867652",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 380,
+      "mediaIds": {
+        "spotify": "653042",
+        "youtube": "653042",
+        "soundcloud": "653042",
+        "appleMusic": "653042"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "ACRAZE ft. Cherish",
+      "title": "Do It To It (Matroda Remix)",
+      "remix": "",
+      "label": "THRIVE MUSIC",
+      "trackId": "6867653",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 520,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Apashe",
+      "title": "Good News (Matroda Remix)",
+      "remix": "",
+      "label": "KANNIBALEN",
+      "trackId": "6867654",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 658,
+      "mediaIds": {
+        "spotify": "649077",
+        "youtube": "649077",
+        "soundcloud": "649077",
+        "appleMusic": "649077"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Benny Benassi pres. The Biz",
+      "title": "Satisfaction (Alex Van Diel Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6867655",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 805,
+      "mediaIds": {
+        "youtube": "504722",
+        "soundcloud": "504722"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Matroda",
+      "title": "High On You",
+      "remix": "",
+      "label": "TERMINAL UNDERGROUND",
+      "trackId": "6867656",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 1000,
+      "mediaIds": {
+        "spotify": "666551",
+        "youtube": "666551",
+        "soundcloud": "666551",
+        "appleMusic": "666551"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Matroda & Bleu Clair",
+      "title": "PWR",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6867657",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1140,
+      "mediaIds": {
+        "spotify": "791216",
+        "youtube": "791216",
+        "soundcloud": "791216",
+        "appleMusic": "791216"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "San Pacho",
+      "title": "Amor",
+      "remix": "",
+      "label": "TERMINAL UNDERGROUND/INSOMNIAC",
+      "trackId": "6867658",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1280,
+      "mediaIds": {
+        "spotify": "782002",
+        "youtube": "782002",
+        "soundcloud": "782002",
+        "appleMusic": "782002"
+      },
+      "blendGroup": [
+        {
+          "artist": "San Pacho",
+          "title": "Amor",
+          "remix": "",
+          "trackId": "6867658"
+        },
+        {
+          "artist": "Bleu Clair",
+          "title": "Poison Paradise",
+          "remix": "",
+          "trackId": "6909457"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Bleu Clair",
+      "title": "Poison Paradise",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6909457",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "557385",
+        "soundcloud": "557385"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Matroda",
+      "title": "Lifting",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6867659",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1370,
+      "mediaIds": {
+        "spotify": "730173",
+        "youtube": "730173",
+        "soundcloud": "730173",
+        "appleMusic": "730173"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Spencer & Hill",
+      "title": "Cool (AFROJACK Remix / Matroda Edit)",
+      "remix": "",
+      "label": "SNEAKERZ",
+      "trackId": "6867660",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1550,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Robin S",
+      "title": "Show Me Love (Matroda Remix)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "6867661",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1690,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Robin S",
+          "title": "Show Me Love (Matroda Remix)",
+          "remix": "",
+          "trackId": "6867661"
+        },
+        {
+          "artist": "INNDRIVE",
+          "title": "Shake It",
+          "remix": "",
+          "trackId": "6909458"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "INNDRIVE",
+      "title": "Shake It",
+      "remix": "",
+      "label": "HUB",
+      "trackId": "6909458",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "558100",
+        "youtube": "558100",
+        "soundcloud": "558100",
+        "appleMusic": "558100"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Matroda & Bleu Clair",
+      "title": "Disco Tool",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6867662",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1870,
+      "mediaIds": {
+        "spotify": "686476",
+        "youtube": "686476",
+        "soundcloud": "686476",
+        "appleMusic": "686476"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Matroda & Bleu Clair",
+      "title": "Disco Tool (OOTORO Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6867663",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1960,
+      "mediaIds": {
+        "spotify": "733953",
+        "youtube": "733953",
+        "soundcloud": "733953",
+        "appleMusic": "733953"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "DJ Snake & Malaa",
+      "title": "Ring The Alarm (Matroda Remix)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "6867664",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2050,
+      "mediaIds": {
+        "spotify": "736022",
+        "youtube": "736022",
+        "soundcloud": "736022",
+        "appleMusic": "736022"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Matroda",
+      "title": "D.A.N.C.I.N.G",
+      "remix": "",
+      "label": "TERMINAL UNDERGROUND",
+      "trackId": "6867665",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2250,
+      "mediaIds": {
+        "spotify": "559228",
+        "youtube": "559228",
+        "soundcloud": "559228",
+        "appleMusic": "559228"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Chris Lake ft. Alexis Roberts",
+      "title": "Turn Off The Lights (Gorillowz & Douth! Remix)",
+      "remix": "",
+      "label": "BLACK BOOK",
+      "trackId": "6867666",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2400,
+      "mediaIds": {
+        "youtube": "696479",
+        "soundcloud": "696479"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Matroda",
+      "title": "Touchin' Me",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6867667",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2520,
+      "mediaIds": {
+        "spotify": "772823",
+        "youtube": "772823",
+        "soundcloud": "772823",
+        "appleMusic": "772823"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Ninetoes",
+      "title": "Finder (Matroda Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "6907130",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2750,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Matroda",
+      "title": "Deep Inside 2020",
+      "remix": "",
+      "label": "TERMINAL UNDERGROUND",
+      "trackId": "6867668",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2830,
+      "mediaIds": {
+        "spotify": "568617",
+        "youtube": "568617",
+        "soundcloud": "568617",
+        "appleMusic": "568617"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Bleu Clair & OOTORO",
+      "title": "Beat Like This",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "6867669",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 3070,
+      "mediaIds": {
+        "spotify": "648425",
+        "youtube": "648425",
+        "soundcloud": "648425",
+        "appleMusic": "648425"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Matroda & San Pacho",
+      "title": "La Pasion",
+      "remix": "",
+      "label": "TERMINAL UNDERGROUND",
+      "trackId": "6867670",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 3160,
+      "mediaIds": {
+        "spotify": "708570",
+        "youtube": "708570",
+        "soundcloud": "708570",
+        "appleMusic": "708570"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "ABBA",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight) (Matroda Edit)",
+      "remix": "",
+      "label": "POLYDOR",
+      "trackId": "6867671",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3410,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "SNBRN ft. Kaleena Zanders",
+      "title": "California (Chris Lake & Matroda 2021 VIP)",
+      "remix": "",
+      "label": "RISING",
+      "trackId": "6867672",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3670,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Daft Punk",
+      "title": "One More Time (Matroda Remix)",
+      "remix": "",
+      "label": "SELF RELEASED",
+      "trackId": "6867673",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3945,
+      "mediaIds": {
+        "youtube": "657989",
+        "soundcloud": "657989",
+        "appleMusic": "657989"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Flux Pavilion",
+      "title": "I Can't Stop (Matroda Remix)",
+      "remix": "",
+      "label": "CIRCUS RECORDS",
+      "trackId": "6867674",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 4160,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Chris Lake vs. Matroda & Dances With White Girls",
+      "title": "Lose My Mind vs. Bang (Matroda Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "6867675",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 4310,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Matroda",
+      "title": "Forget It",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "6867676",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 4430,
+      "mediaIds": {
+        "spotify": "628668",
+        "youtube": "628668",
+        "soundcloud": "628668",
+        "appleMusic": "628668"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "2558752",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/1165800175"
+    },
+    {
+      "platform": "source_2",
+      "idMedia": "4120583",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/album/matroda-at-edc-las-vegas-2021-stereo-bloom-stage-dj-mix/1613436462/us/album/matroda-at-edc-las-vegas-2021-stereo-bloom-stage-dj-mix/1613436462?app=music&at=1000lwkw"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:36:30.957Z",
+  "scrapeVersion": 2
+}

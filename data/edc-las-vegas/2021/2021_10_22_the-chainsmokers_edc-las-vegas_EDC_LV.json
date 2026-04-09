@@ -1,0 +1,797 @@
+{
+  "tlId": "qpbsuyt",
+  "dj": "The Chainsmokers",
+  "stage": "EDC Las Vegas",
+  "date": "2021-10-22",
+  "year": 2021,
+  "url": "https://www.1001tracklists.com/tracklist/qpbsuyt/the-chainsmokers-kineticfield-edc-las-vegas-united-states-2021-10-22.html",
+  "djs": [
+    {
+      "name": "The Chainsmokers",
+      "slug": "thechainsmokers"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "The Chainsmokers & ILLENIUM ft. Lennon Stella",
+      "title": "Takeaway",
+      "remix": "(Intro)",
+      "label": "DISRUPTOR/ASTRALWERKS",
+      "trackId": "6864630",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 168,
+      "mediaIds": {
+        "spotify": "495685",
+        "youtube": "495685",
+        "soundcloud": "495685",
+        "appleMusic": "495685"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "The Chainsmokers & ILLENIUM ft. Lennon Stella",
+      "title": "Takeaway (VIP)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6864631",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 439,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Cesqeaux & Aazar",
+      "title": "Booty Time",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "6864632",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 471,
+      "mediaIds": {
+        "spotify": "392460",
+        "youtube": "392460",
+        "soundcloud": "392460",
+        "appleMusic": "392460"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Edison Cole & Lookas",
+      "title": "Voodoo",
+      "remix": "",
+      "label": "LOKO",
+      "trackId": "6864633",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 498,
+      "mediaIds": {
+        "spotify": "487061",
+        "youtube": "487061",
+        "soundcloud": "487061",
+        "appleMusic": "487061"
+      },
+      "blendGroup": [
+        {
+          "artist": "Edison Cole & Lookas",
+          "title": "Voodoo",
+          "remix": "",
+          "trackId": "6864633"
+        },
+        {
+          "artist": "The Chainsmokers",
+          "title": "Everybody Hates Me",
+          "remix": "",
+          "trackId": "6864634"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chainsmokers",
+      "title": "Everybody Hates Me",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "6864634",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "406162",
+        "youtube": "406162",
+        "soundcloud": "406162",
+        "appleMusic": "406162"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers",
+          "title": "Everybody Hates Me",
+          "remix": "",
+          "trackId": "6864634"
+        },
+        {
+          "artist": "The Chainsmokers & UNKWN",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6864635"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chainsmokers & UNKWN",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6864635",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 537,
+      "mediaIds": null
+    },
+    {
+      "pos": "05",
+      "artist": "Internet Money ft. Don Toliver & Lil Uzi Vert & Gunna",
+      "title": "His & Hers",
+      "remix": "",
+      "label": "TENTHOUSAND PROJECTS",
+      "trackId": "6864636",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 565,
+      "mediaIds": {
+        "spotify": "697730",
+        "youtube": "697730",
+        "soundcloud": "697730",
+        "appleMusic": "697730"
+      },
+      "blendGroup": [
+        {
+          "artist": "Internet Money ft. Don Toliver & Lil Uzi Vert & Gunna",
+          "title": "His & Hers",
+          "remix": "",
+          "trackId": "6864636"
+        },
+        {
+          "artist": "Edison Cole",
+          "title": "Crowd Control",
+          "remix": "",
+          "trackId": "6873417"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Edison Cole",
+      "title": "Crowd Control",
+      "remix": "",
+      "label": "",
+      "trackId": "6873417",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 570,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Edison Cole",
+          "title": "Crowd Control",
+          "remix": "",
+          "trackId": "6873417"
+        },
+        {
+          "artist": "Juelz & SSOS",
+          "title": "Drive-By City",
+          "remix": "",
+          "trackId": "6864637"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Juelz & SSOS",
+      "title": "Drive-By City",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "6864637",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 592,
+      "mediaIds": {
+        "spotify": "581986",
+        "youtube": "581986",
+        "soundcloud": "581986",
+        "appleMusic": "581986"
+      },
+      "blendGroup": [
+        {
+          "artist": "Juelz & SSOS",
+          "title": "Drive-By City",
+          "remix": "",
+          "trackId": "6864637"
+        },
+        {
+          "artist": "Edison Cole",
+          "title": "Carnage",
+          "remix": "",
+          "trackId": "6864638"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Edison Cole",
+      "title": "Carnage",
+      "remix": "",
+      "label": "",
+      "trackId": "6864638",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 604,
+      "mediaIds": null
+    },
+    {
+      "pos": "06",
+      "artist": "ISOxo",
+      "title": "Click",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "6864640",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 641,
+      "mediaIds": {
+        "spotify": "546428",
+        "youtube": "546428",
+        "soundcloud": "546428",
+        "appleMusic": "546428"
+      },
+      "blendGroup": [
+        {
+          "artist": "ISOxo",
+          "title": "Click",
+          "remix": "",
+          "trackId": "6864640"
+        },
+        {
+          "artist": "Travis Scott ft. Young Thug & M.I.A.",
+          "title": "Franchise",
+          "remix": "",
+          "trackId": "6864641"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Travis Scott ft. Young Thug & M.I.A.",
+      "title": "Franchise",
+      "remix": "",
+      "label": "CACTUS JACK",
+      "trackId": "6864641",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 643,
+      "mediaIds": {
+        "spotify": "619016",
+        "youtube": "619016",
+        "soundcloud": "619016",
+        "appleMusic": "619016"
+      },
+      "blendGroup": [
+        {
+          "artist": "Travis Scott ft. Young Thug & M.I.A.",
+          "title": "Franchise",
+          "remix": "",
+          "trackId": "6864641"
+        },
+        {
+          "artist": "The Chainsmokers & Boombox Cartel",
+          "title": "Bongo Beat (Working Title)",
+          "remix": "",
+          "trackId": "6864642"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chainsmokers & Boombox Cartel",
+      "title": "Bongo Beat (Working Title)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "6864642",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 703,
+      "mediaIds": {
+        "youtube": "443210",
+        "soundcloud": "443210"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "The Chainsmokers & W&W & Illenium & Zomboy ft. Daya vs. Papa Roach",
+      "title": "Don't Let Me Down vs. Last Resort (The Chainsmokers Mashup)",
+      "remix": "",
+      "label": "GEFFEN (UMG)/DISRUPTOR (SONY)",
+      "trackId": "6864643",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 739,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Zombie Nation vs. Dabow",
+      "title": "Kernkraft 400 vs. Olè (The Chainsmokers Mashup)",
+      "remix": "",
+      "label": "EPM/24-8",
+      "trackId": "6864644",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 968,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Masked Wolf",
+      "title": "Astronaut In The Ocean",
+      "remix": "",
+      "label": "ELEKTRA",
+      "trackId": "6864645",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1054,
+      "mediaIds": {
+        "spotify": "650588",
+        "youtube": "650588",
+        "soundcloud": "650588",
+        "appleMusic": "650588"
+      },
+      "blendGroup": [
+        {
+          "artist": "Masked Wolf",
+          "title": "Astronaut In The Ocean",
+          "remix": "",
+          "trackId": "6864645"
+        },
+        {
+          "artist": "Edison Cole",
+          "title": "Fight",
+          "remix": "",
+          "trackId": "6864646"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Edison Cole",
+      "title": "Fight",
+      "remix": "",
+      "label": "DISTROKID",
+      "trackId": "6864646",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 1088,
+      "mediaIds": {
+        "spotify": "824344",
+        "youtube": "824344",
+        "soundcloud": "824344",
+        "appleMusic": "824344"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Maliboux & Nitti Gritti vs. Drake",
+      "title": "Rock N Roll (Saber Way 2 Sexy Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "6864647",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1116,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Maliboux & Nitti Gritti vs. Drake",
+          "title": "Rock N Roll (Saber Way 2 Sexy Edit)",
+          "remix": "",
+          "trackId": "6864647"
+        },
+        {
+          "artist": "HEYZ",
+          "title": "Anyway",
+          "remix": "",
+          "trackId": "6864648"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "HEYZ",
+      "title": "Anyway",
+      "remix": "",
+      "label": "DEADBEATS",
+      "trackId": "6864648",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 1153,
+      "mediaIds": {
+        "spotify": "691773",
+        "youtube": "691773",
+        "soundcloud": "691773",
+        "appleMusic": "691773"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Cloonee",
+      "title": "Gospel",
+      "remix": "",
+      "label": "REPOPULATE MARS",
+      "trackId": "6864649",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1182,
+      "mediaIds": {
+        "spotify": "449721",
+        "youtube": "449721",
+        "soundcloud": "449721",
+        "appleMusic": "449721"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Chris Lake & NPC",
+      "title": "A Drug From God",
+      "remix": "",
+      "label": "BLACK BOOK/ASTRALWERKS",
+      "trackId": "6864650",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1223,
+      "mediaIds": {
+        "spotify": "715618",
+        "youtube": "715618",
+        "soundcloud": "715618",
+        "appleMusic": "715618"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Tiësto & The Chainsmokers vs. The White Stripes",
+      "title": "Split (The Chainsmokers Seven Nation Army Live Edit)",
+      "remix": "",
+      "label": "MUSICAL FREEDOM/XL",
+      "trackId": "6864651",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1275,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Tiësto & The Chainsmokers vs. The White Stripes",
+          "title": "Split (The Chainsmokers Seven Nation Army Live Edit)",
+          "remix": "",
+          "trackId": "6864651"
+        },
+        {
+          "artist": "The Chainsmokers ft. Halsey",
+          "title": "Closer (Acappella)",
+          "remix": "",
+          "trackId": "6864652"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chainsmokers ft. Halsey",
+      "title": "Closer (Acappella)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "6864652",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "317319",
+        "youtube": "340536",
+        "soundcloud": "317319",
+        "appleMusic": "317319"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers ft. Halsey",
+          "title": "Closer (Acappella)",
+          "remix": "",
+          "trackId": "6864652"
+        },
+        {
+          "artist": "The Chainsmokers & Stoltenhoff",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6864653"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chainsmokers & Stoltenhoff",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "6864653",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 1340,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers & Stoltenhoff",
+          "title": "ID",
+          "remix": "",
+          "trackId": "6864653"
+        },
+        {
+          "artist": "SAYMYNAME ft. Lil Debbie",
+          "title": "Say My Name",
+          "remix": "",
+          "trackId": "6864654"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "SAYMYNAME ft. Lil Debbie",
+      "title": "Say My Name",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "6864654",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 1417,
+      "mediaIds": {
+        "spotify": "433305",
+        "youtube": "433305",
+        "soundcloud": "433305",
+        "appleMusic": "433305"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Valentino Khan vs. The Isley Brothers vs. Bellorum & Aazar",
+      "title": "Lunchbox vs. Shout vs. Back Home (The Chainsmokers Mashup)",
+      "remix": "",
+      "label": "RCA VICTOR/FREE/BARONG FAMILY",
+      "trackId": "6864655",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1452,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "The Chainsmokers & NGHTMRE",
+      "title": "Save Yourself",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "6864656",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 1516,
+      "mediaIds": {
+        "spotify": "417013",
+        "youtube": "417013",
+        "soundcloud": "417013",
+        "appleMusic": "417013"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Calvin Harris ft. Florence Welch",
+      "title": "Sweet Nothing (Acappella)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "6864658",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "92181",
+        "youtube": "92181",
+        "soundcloud": "113114",
+        "appleMusic": "92181"
+      },
+      "blendGroup": [
+        {
+          "artist": "Calvin Harris ft. Florence Welch",
+          "title": "Sweet Nothing (Acappella)",
+          "remix": "",
+          "trackId": "6864658"
+        },
+        {
+          "artist": "NuEyes",
+          "title": "Freedom",
+          "remix": "",
+          "trackId": "6864659"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "NuEyes",
+      "title": "Freedom",
+      "remix": "",
+      "label": "TIME MACHINE (HEXAGON)",
+      "trackId": "6864659",
+      "row": 16,
+      "type": "blend",
+      "cueTime": 1624,
+      "mediaIds": {
+        "spotify": "680568",
+        "youtube": "680568",
+        "soundcloud": "680568",
+        "appleMusic": "680568"
+      }
+    },
+    {
+      "pos": "17",
+      "artist": "The Chainsmokers & Vincent & Pegboard Nerds ft. Emily Warren",
+      "title": "Paris (The Chainsmokers PB REF)",
+      "remix": "",
+      "label": "FREEMAISON/DISRUPTOR/COLUMBIA (SONY)",
+      "trackId": "6864660",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 1734,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "M83",
+      "title": "Midnight City",
+      "remix": "",
+      "label": "NAIVE",
+      "trackId": "6864661",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 1938,
+      "mediaIds": {
+        "spotify": "47318",
+        "youtube": "47318",
+        "soundcloud": "47318",
+        "appleMusic": "47318"
+      },
+      "blendGroup": [
+        {
+          "artist": "M83",
+          "title": "Midnight City",
+          "remix": "",
+          "trackId": "6864661"
+        },
+        {
+          "artist": "M83",
+          "title": "Midnight City (Rave Republic Remix)",
+          "remix": "",
+          "trackId": "6864662"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "M83",
+      "title": "Midnight City (Rave Republic Remix)",
+      "remix": "",
+      "label": "NAIVE",
+      "trackId": "6864662",
+      "row": 18,
+      "type": "blend",
+      "cueTime": 1976,
+      "mediaIds": {
+        "youtube": "505329",
+        "soundcloud": "505329"
+      }
+    },
+    {
+      "pos": "19",
+      "artist": "The Chainsmokers & Ship Wrek",
+      "title": "The Fall",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "6865617",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "803020",
+        "youtube": "803020",
+        "soundcloud": "803020",
+        "appleMusic": "803020"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "The Chainsmokers ft. Halsey",
+      "title": "Closer",
+      "remix": "",
+      "label": "DISRUPTOR/COLUMBIA",
+      "trackId": "6865618",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "317319",
+        "youtube": "317319",
+        "soundcloud": "317319",
+        "appleMusic": "317319"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers ft. Halsey",
+          "title": "Closer",
+          "remix": "",
+          "trackId": "6865618"
+        },
+        {
+          "artist": "The Chainsmokers ft. Halsey",
+          "title": "Closer (Dirtyphonics Remix)",
+          "remix": "",
+          "trackId": "6865619"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Chainsmokers ft. Halsey",
+      "title": "Closer (Dirtyphonics Remix)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "6865619",
+      "row": 20,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "332387",
+        "soundcloud": "332387"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2520042",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=hVuLfEQ5zIU"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "2520044",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=OwwjqoJoSlk"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "2514487",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/thedaniel3009"
+    }
+  ],
+  "scrapedAt": "2026-04-08T05:44:54.990Z",
+  "scrapeVersion": 2
+}

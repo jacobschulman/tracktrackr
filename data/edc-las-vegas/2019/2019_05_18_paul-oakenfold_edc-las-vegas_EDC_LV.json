@@ -1,0 +1,423 @@
+{
+  "tlId": "x211t99",
+  "dj": "Paul Oakenfold",
+  "stage": "EDC Las Vegas",
+  "date": "2019-05-18",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/x211t99/paul-oakenfold-quantumvalley-edc-las-vegas-united-states-2019-05-18.html",
+  "djs": [
+    {
+      "name": "Paul Oakenfold",
+      "slug": "pauloakenfold"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Tilstone",
+      "title": "Words From The North",
+      "remix": "",
+      "label": "PERFECTO",
+      "trackId": "4126969",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "471850",
+        "soundcloud": "471850"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Dimitri Vegas & Like Mike & Vini Vici vs. Liquid Soul",
+      "title": "Untz Untz",
+      "remix": "",
+      "label": "SMASH THE HOUSE/EPIC AMSTERDAM",
+      "trackId": "4126956",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 393,
+      "mediaIds": {
+        "spotify": "485511",
+        "youtube": "485511",
+        "soundcloud": "485511",
+        "appleMusic": "485511"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Symphonix",
+      "title": "Sexual Distortion",
+      "remix": "",
+      "label": "BLUE TUNES",
+      "trackId": "4126972",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 652,
+      "mediaIds": {
+        "spotify": "519577",
+        "youtube": "519577",
+        "soundcloud": "519577",
+        "appleMusic": "519577"
+      },
+      "blendGroup": [
+        {
+          "artist": "Symphonix",
+          "title": "Sexual Distortion",
+          "remix": "",
+          "trackId": "4126972"
+        },
+        {
+          "artist": "Darude",
+          "title": "Sandstorm",
+          "remix": "",
+          "trackId": "4126971"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Darude",
+      "title": "Sandstorm",
+      "remix": "",
+      "label": "NEO RECORDS/ROBBINS",
+      "trackId": "4126971",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "17045",
+        "youtube": "17045",
+        "soundcloud": "17045",
+        "appleMusic": "17045"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "4126957",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 980,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Cosmonaut & Satellites",
+      "title": "I Don't Know (Ksen Remix)",
+      "remix": "",
+      "label": "INTRICATE",
+      "trackId": "4126958",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1272,
+      "mediaIds": {
+        "spotify": "186933",
+        "soundcloud": "186933",
+        "appleMusic": "186933"
+      },
+      "blendGroup": [
+        {
+          "artist": "Cosmonaut & Satellites",
+          "title": "I Don't Know (Ksen Remix)",
+          "remix": "",
+          "trackId": "4126958"
+        },
+        {
+          "artist": "Paul Oakenfold",
+          "title": "Barber's Adagio For Strings",
+          "remix": "",
+          "trackId": "4134664"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Paul Oakenfold",
+      "title": "Barber's Adagio For Strings",
+      "remix": "",
+      "label": "PERFECTO",
+      "trackId": "4134664",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "200707",
+        "youtube": "200707",
+        "soundcloud": "200707",
+        "appleMusic": "200707"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Space Cat",
+      "title": "Mechanical Dream (Indra Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "4134722",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1705,
+      "mediaIds": {
+        "spotify": "492473",
+        "youtube": "492473"
+      },
+      "blendGroup": [
+        {
+          "artist": "Space Cat",
+          "title": "Mechanical Dream (Indra Remix)",
+          "remix": "",
+          "trackId": "4134722"
+        },
+        {
+          "artist": "Paul Oakenfold ft. Lizzy Land",
+          "title": "Waterfall",
+          "remix": "",
+          "trackId": "4134723"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Paul Oakenfold ft. Lizzy Land",
+      "title": "Waterfall",
+      "remix": "",
+      "label": "PERFECTO",
+      "trackId": "4134723",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "soundcloud": "376046"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Liquid Soul & Alex M.O.R.P.H.",
+      "title": "The Journey",
+      "remix": "",
+      "label": "UNIVERSAL NATION (BLACK HOLE)",
+      "trackId": "4134724",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 2039,
+      "mediaIds": {
+        "spotify": "271631",
+        "youtube": "271631",
+        "soundcloud": "271631",
+        "appleMusic": "271631"
+      },
+      "blendGroup": [
+        {
+          "artist": "Liquid Soul & Alex M.O.R.P.H.",
+          "title": "The Journey",
+          "remix": "",
+          "trackId": "4134724"
+        },
+        {
+          "artist": "The Prodigy",
+          "title": "Breathe",
+          "remix": "",
+          "trackId": "4134725"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "The Prodigy",
+      "title": "Breathe",
+      "remix": "",
+      "label": "XL",
+      "trackId": "4134725",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2756",
+        "youtube": "2756",
+        "soundcloud": "2756",
+        "appleMusic": "2756"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "RITMO",
+      "title": "De Festa (One Function Remix)",
+      "remix": "",
+      "label": "BLUE TUNES",
+      "trackId": "4134726",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 2329,
+      "mediaIds": {
+        "spotify": "492517",
+        "youtube": "492517",
+        "soundcloud": "492517",
+        "appleMusic": "492517"
+      },
+      "blendGroup": [
+        {
+          "artist": "RITMO",
+          "title": "De Festa (One Function Remix)",
+          "remix": "",
+          "trackId": "4134726"
+        },
+        {
+          "artist": "ATB",
+          "title": "9PM (Till I Come)",
+          "remix": "",
+          "trackId": "4134727"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ATB",
+      "title": "9PM (Till I Come)",
+      "remix": "",
+      "label": "KONTOR",
+      "trackId": "4134727",
+      "row": 8,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5521",
+        "youtube": "5521",
+        "soundcloud": "5521",
+        "appleMusic": "5521"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Metronome",
+      "title": "What Goes Up, Must Come Down",
+      "remix": "",
+      "label": "BLUE TUNES",
+      "trackId": "4134761",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 2650,
+      "mediaIds": {
+        "spotify": "344427",
+        "youtube": "344427",
+        "soundcloud": "344427"
+      },
+      "blendGroup": [
+        {
+          "artist": "Metronome",
+          "title": "What Goes Up, Must Come Down",
+          "remix": "",
+          "trackId": "4134761"
+        },
+        {
+          "artist": "Planet Perfecto Knights",
+          "title": "ResuRection (Roger-M Miami Music Week Remix)",
+          "remix": "",
+          "trackId": "4134762"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Planet Perfecto Knights",
+      "title": "ResuRection (Roger-M Miami Music Week Remix)",
+      "remix": "",
+      "label": "PERFECTO",
+      "trackId": "4134762",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "422712",
+        "soundcloud": "422712"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Casey Rasch",
+      "title": "Blacklisted",
+      "remix": "",
+      "label": "UNRSTRCTD",
+      "trackId": "4134763",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 3047,
+      "mediaIds": {
+        "spotify": "460883",
+        "appleMusic": "460883"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Vandeta",
+      "title": "Space Battle",
+      "remix": "",
+      "label": "SOLARTECH",
+      "trackId": "4134764",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 3378,
+      "mediaIds": {
+        "spotify": "222110",
+        "appleMusic": "222110"
+      },
+      "blendGroup": [
+        {
+          "artist": "Vandeta",
+          "title": "Space Battle",
+          "remix": "",
+          "trackId": "4134764"
+        },
+        {
+          "artist": "Paul Oakenfold",
+          "title": "Madagascar",
+          "remix": "",
+          "trackId": "4134765"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Paul Oakenfold",
+      "title": "Madagascar",
+      "remix": "",
+      "label": "PERFECTO FLUORO",
+      "trackId": "4134765",
+      "row": 11,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "192378",
+        "youtube": "192378",
+        "soundcloud": "192378"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "1198928",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/624423312"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "1194621",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=g6Y_ybmOYxY"
+    }
+  ],
+  "scrapedAt": "2026-04-08T06:15:46.231Z",
+  "scrapeVersion": 2
+}

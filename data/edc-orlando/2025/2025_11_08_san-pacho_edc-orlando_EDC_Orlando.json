@@ -1,0 +1,457 @@
+{
+  "tlId": "1mtbr0rk",
+  "dj": "San Pacho",
+  "stage": "EDC Orlando",
+  "date": "2025-11-08",
+  "year": 2025,
+  "url": "https://www.1001tracklists.com/tracklist/1mtbr0rk/san-pacho-stereobloom-edc-orlando-united-states-2025-11-08.html",
+  "djs": [
+    {
+      "name": "San Pacho",
+      "slug": "sanpacho"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "San Pacho",
+      "title": "Alcoholic",
+      "remix": "",
+      "label": "LIBERA",
+      "trackId": "12984106",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1162314",
+        "youtube": "1162314",
+        "soundcloud": "1162314",
+        "appleMusic": "1162314"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Robyn & Rye Rye",
+      "title": "Never Will Be Mine",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "12984107",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "38279",
+        "youtube": "38279"
+      },
+      "blendGroup": [
+        {
+          "artist": "Robyn & Rye Rye",
+          "title": "Never Will Be Mine",
+          "remix": "",
+          "trackId": "12984107"
+        },
+        {
+          "artist": "Fallon",
+          "title": "Diet Coke",
+          "remix": "",
+          "trackId": "12984108"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fallon",
+      "title": "Diet Coke",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "12984108",
+      "row": 2,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1102463",
+        "youtube": "1102463",
+        "soundcloud": "1102463",
+        "appleMusic": "1102463"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "JOSHWA",
+      "title": "Out Of My Mind",
+      "remix": "",
+      "label": "HELLBENT",
+      "trackId": "12984109",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1138825",
+        "youtube": "1138825",
+        "soundcloud": "1138825",
+        "appleMusic": "1138825"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Blank Sense & Bauti Tesei",
+      "title": "Drum Check",
+      "remix": "",
+      "label": "1001 REC.",
+      "trackId": "12984110",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1112966",
+        "youtube": "1112966",
+        "soundcloud": "1112966",
+        "appleMusic": "1112966"
+      },
+      "blendGroup": [
+        {
+          "artist": "Blank Sense & Bauti Tesei",
+          "title": "Drum Check",
+          "remix": "",
+          "trackId": "12984110"
+        },
+        {
+          "artist": "Technotronic",
+          "title": "Pump Up The Jam (Acappella)",
+          "remix": "",
+          "trackId": "12984111"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Technotronic",
+      "title": "Pump Up The Jam (Acappella)",
+      "remix": "",
+      "label": "EMI UK",
+      "trackId": "12984111",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "5108",
+        "youtube": "10191",
+        "soundcloud": "5108",
+        "appleMusic": "5108"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12984112",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Toman",
+      "title": "Verano en NY",
+      "remix": "",
+      "label": "SOLID GROOVES",
+      "trackId": "12984113",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1099251",
+        "youtube": "1099251",
+        "soundcloud": "1099251",
+        "appleMusic": "1099251"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "San Pacho & GREG 99",
+      "title": "Born Funky",
+      "remix": "",
+      "label": "TERMINAL UNDERGROUND",
+      "trackId": "12984114",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1082569",
+        "youtube": "1082569",
+        "soundcloud": "1082569",
+        "appleMusic": "1082569"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "San Pacho & Noah Scannell",
+      "title": "Stereo Love",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12984115",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1118916",
+        "soundcloud": "1118916"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Pedroz & GREG 99",
+      "title": "Music Is The Answer",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "12984116",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1114329"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "TOBEHONEST",
+      "title": "Ice T",
+      "remix": "",
+      "label": "",
+      "trackId": "12984117",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Public Enemy",
+      "title": "Caught, Can We Get A Witness?",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "12984118",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "141312",
+        "youtube": "141312",
+        "soundcloud": "141312",
+        "appleMusic": "141312"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Fergie",
+      "title": "London Bridge",
+      "remix": "",
+      "label": "A&M",
+      "trackId": "12984119",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "97557",
+        "youtube": "97557",
+        "soundcloud": "97557",
+        "appleMusic": "97557"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "San Pacho",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "12984120",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "GREG 99",
+      "title": "Waist Move",
+      "remix": "",
+      "label": "NERVOUS",
+      "trackId": "12984121",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1153036",
+        "soundcloud": "1153036",
+        "appleMusic": "1153036"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Mike Dunn pres. Mr. 69",
+      "title": "Phreaky MF (Matroda & GREG 99 Remix)",
+      "remix": "",
+      "label": "TERMINAL UNDERGROUND",
+      "trackId": "12984122",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1144404",
+        "youtube": "1144404",
+        "soundcloud": "1144404",
+        "appleMusic": "1144404"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "San Pacho",
+      "title": "Ride The Train",
+      "remix": "",
+      "label": "LIBERA",
+      "trackId": "12984123",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1081554",
+        "youtube": "1081554",
+        "soundcloud": "1081554",
+        "appleMusic": "1081554"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "San Pacho",
+      "title": "Baby Got Back",
+      "remix": "",
+      "label": "LIBERA",
+      "trackId": "12984124",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1049200",
+        "youtube": "1049200",
+        "soundcloud": "1049200",
+        "appleMusic": "1049200"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "San Pacho & TOBEHONEST",
+      "title": "Horny",
+      "remix": "",
+      "label": "INSOMNIAC",
+      "trackId": "12984125",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "1022388",
+        "youtube": "1022388",
+        "soundcloud": "1022388",
+        "appleMusic": "1022388"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Martha Wash",
+      "title": "Catch The Light (Matroda Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "12984126",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "BrEaCh",
+      "title": "Jack",
+      "remix": "",
+      "label": "DIRTYBIRD",
+      "trackId": "12984127",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "124762",
+        "youtube": "124762",
+        "soundcloud": "124762",
+        "appleMusic": "124762"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "House Of Pain",
+      "title": "Jump Around (San Pacho Remix)",
+      "remix": "",
+      "label": "TOMMY BOY",
+      "trackId": "12984128",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Black Eyed Peas",
+      "title": "The Time (Dirty Bit) (CHALANT Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "12984129",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1119951",
+        "soundcloud": "1119951"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "source_2",
+      "idMedia": "5106342",
+      "idSource": "2",
+      "url": "https://embed.music.apple.com/us/album/san-pacho-sunset-set-at-edc-orlando-2025-stereo-bloom/1857811868?app=music&at=1000lwkw"
+    },
+    {
+      "platform": "hearthis",
+      "idMedia": "5050588",
+      "idSource": "40",
+      "url": "https://hearthis.at/13074825/"
+    }
+  ],
+  "scrapedAt": "2026-04-08T15:35:25.264Z",
+  "scrapeVersion": 2
+}

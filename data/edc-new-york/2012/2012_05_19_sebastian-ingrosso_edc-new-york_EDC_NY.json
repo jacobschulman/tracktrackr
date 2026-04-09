@@ -1,0 +1,622 @@
+{
+  "tlId": "43kcht9",
+  "dj": "Sebastian Ingrosso",
+  "stage": "EDC New York",
+  "date": "2012-05-19",
+  "year": 2012,
+  "url": "https://www.1001tracklists.com/tracklist/43kcht9/sebastian-ingrosso-kineticfield-edc-new-york-united-states-2012-05-19.html",
+  "djs": [
+    {
+      "name": "Sebastian Ingrosso",
+      "slug": "sebastianingrosso"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Swedish House Mafia",
+      "title": "Greyhound",
+      "remix": "",
+      "label": "EMI",
+      "trackId": "226252",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "64824",
+        "youtube": "64824",
+        "soundcloud": "64824",
+        "appleMusic": "64824"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Hard Rock Sofa & Swanky Tunes",
+      "title": "Here We Go",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "226253",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "73507",
+        "youtube": "73507",
+        "soundcloud": "73507",
+        "appleMusic": "73507"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Ivan Gough & Feenixpawl ft. Georgi Kay",
+      "title": "In My Mind (Axwell Mix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "226254",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "59281",
+        "youtube": "59281",
+        "soundcloud": "59281",
+        "appleMusic": "59281"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Nari & Milani vs. Laidback Luke & Swedish House Mafia",
+      "title": "Leave The Atom (Steve Angello Cut)",
+      "remix": "",
+      "label": "AXTONE/SIZE",
+      "trackId": "226255",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Swedish House Mafia & Knife Party ft. ADL",
+      "title": "Antidote",
+      "remix": "",
+      "label": "POPHOUSE",
+      "trackId": "226256",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "43328",
+        "youtube": "43328",
+        "soundcloud": "43328",
+        "appleMusic": "43328"
+      },
+      "blendGroup": [
+        {
+          "artist": "Swedish House Mafia & Knife Party ft. ADL",
+          "title": "Antidote",
+          "remix": "",
+          "trackId": "226256"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "Internet Friends",
+          "remix": "",
+          "trackId": "226257"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "Internet Friends",
+      "remix": "",
+      "label": "EARSTORM",
+      "trackId": "226257",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "42147",
+        "youtube": "42147",
+        "soundcloud": "42147",
+        "appleMusic": "42147"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Dirty South & Those Usual Suspects & Erik Hecht vs. Swedish House Mafia & Tinie Tempah",
+      "title": "Walking Alone vs. Miami 2 Ibiza (Swedish House Mafia Mashup)",
+      "remix": "",
+      "label": "POPHOUSE/EMI/PHAZING",
+      "trackId": "226258",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "1066856"
+      },
+      "blendGroup": [
+        {
+          "artist": "Dirty South & Those Usual Suspects & Erik Hecht vs. Swedish House Mafia & Tinie Tempah",
+          "title": "Walking Alone vs. Miami 2 Ibiza (Swedish House Mafia Mashup)",
+          "remix": "",
+          "trackId": "226258"
+        },
+        {
+          "artist": "Energy 52",
+          "title": "Cafe Del Mar (Michael Woods Out Of Office Remix)",
+          "remix": "",
+          "trackId": "226712"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Energy 52",
+      "title": "Cafe Del Mar (Michael Woods Out Of Office Remix)",
+      "remix": "",
+      "label": "GRAND CASINO",
+      "trackId": "226712",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "8343",
+        "youtube": "8343",
+        "appleMusic": "8343"
+      },
+      "blendGroup": [
+        {
+          "artist": "Energy 52",
+          "title": "Cafe Del Mar (Michael Woods Out Of Office Remix)",
+          "remix": "",
+          "trackId": "226712"
+        },
+        {
+          "artist": "Mark Knight & Koen Groeneveld",
+          "title": "Put Your Hands Up (Acappella)",
+          "remix": "",
+          "trackId": "226259"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Mark Knight & Koen Groeneveld",
+      "title": "Put Your Hands Up (Acappella)",
+      "remix": "",
+      "label": "TOOLROOM TRAX",
+      "trackId": "226259",
+      "row": 6,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "12247",
+        "youtube": "12450"
+      }
+    },
+    {
+      "pos": "07",
+      "artist": "Skitzofrenix & Jeff Doubleu",
+      "title": "Rushin",
+      "remix": "",
+      "label": "SNEAKERZ (SPINNIN')",
+      "trackId": "226260",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "31648",
+        "youtube": "31648",
+        "soundcloud": "31648",
+        "appleMusic": "31648"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skitzofrenix & Jeff Doubleu",
+          "title": "Rushin",
+          "remix": "",
+          "trackId": "226260"
+        },
+        {
+          "artist": "Axwell & Sebastian Ingrosso ft. Michael Feiner",
+          "title": "Together (Acappella)",
+          "remix": "",
+          "trackId": "226261"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Axwell & Sebastian Ingrosso ft. Michael Feiner",
+      "title": "Together (Acappella)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "226261",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2414",
+        "youtube": "16298",
+        "soundcloud": "2414",
+        "appleMusic": "2414"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Michael Calfan & Axwell vs. Coldplay vs. Tim Mason & Steve Angello",
+      "title": "The Moment Of Resurrection In Paradise (Swedish House Mafia Bootleg)",
+      "remix": "",
+      "label": "SIZE/PARLOPHONE (WARNER MUSIC)/AXTONE",
+      "trackId": "226262",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Dyro & Jacob Van Hage vs. Nadia Ali & Alex Kenji & Starkillers",
+      "title": "EMP Pressure (Sebastian Ingrosso New York Bootleg)",
+      "remix": "",
+      "label": "SPINNIN'/SMASH THE HOUSE",
+      "trackId": "3247910",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Dyro & Jacob Van Hage vs. Nadia Ali & Alex Kenji & Starkillers",
+          "title": "EMP Pressure (Sebastian Ingrosso New York Bootleg)",
+          "remix": "",
+          "trackId": "3247910"
+        },
+        {
+          "artist": "M83",
+          "title": "Midnight City (Eric Prydz Private Remix)",
+          "remix": "",
+          "trackId": "226265"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "M83",
+      "title": "Midnight City (Eric Prydz Private Remix)",
+      "remix": "",
+      "label": "MUTE",
+      "trackId": "226265",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "59431",
+        "youtube": "59431",
+        "soundcloud": "59431",
+        "appleMusic": "59431"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Pendulum",
+      "title": "The Island, Pt. I (Dawn) (Steve Angello & AN21 & Max Vangeli Remix)",
+      "remix": "",
+      "label": "OMT (WARNER MUSIC)",
+      "trackId": "226266",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "20678",
+        "youtube": "20678",
+        "soundcloud": "20678",
+        "appleMusic": "20678"
+      },
+      "blendGroup": [
+        {
+          "artist": "Pendulum",
+          "title": "The Island, Pt. I (Dawn) (Steve Angello & AN21 & Max Vangeli Remix)",
+          "remix": "",
+          "trackId": "226266"
+        },
+        {
+          "artist": "Red Hot Chili Peppers",
+          "title": "Otherside (Third ≡ Party Remix)",
+          "remix": "",
+          "trackId": "226267"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Otherside (Third ≡ Party Remix)",
+      "remix": "",
+      "label": "WARNER BROS.",
+      "trackId": "226267",
+      "row": 10,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "45199",
+        "youtube": "45199",
+        "soundcloud": "45199"
+      }
+    },
+    {
+      "pos": "11",
+      "artist": "Sebastian Ingrosso & Alesso",
+      "title": "Calling",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "226268",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "39855",
+        "youtube": "39855",
+        "soundcloud": "39855",
+        "appleMusic": "39855"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Sebastian Ingrosso & Alesso ft. Ryan Tedder",
+      "title": "Calling (Lose My Mind)",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "226714",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "63652",
+        "youtube": "63652",
+        "soundcloud": "63652",
+        "appleMusic": "63652"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "DubVision",
+      "title": "All By Myself",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "226269",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "62767",
+        "youtube": "62767",
+        "soundcloud": "62767",
+        "appleMusic": "62767"
+      },
+      "blendGroup": [
+        {
+          "artist": "DubVision",
+          "title": "All By Myself",
+          "remix": "",
+          "trackId": "226269"
+        },
+        {
+          "artist": "Fatboy Slim",
+          "title": "Right Here, Right Now (Acappella)",
+          "remix": "",
+          "trackId": "227081"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fatboy Slim",
+      "title": "Right Here, Right Now (Acappella)",
+      "remix": "",
+      "label": "SKINT",
+      "trackId": "227081",
+      "row": 13,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "2605",
+        "youtube": "2605",
+        "soundcloud": "2605",
+        "appleMusic": "2605"
+      }
+    },
+    {
+      "pos": "14",
+      "artist": "Steve Angello",
+      "title": "Yeah",
+      "remix": "",
+      "label": "SIZE",
+      "trackId": "226270",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "75544",
+        "youtube": "75544",
+        "soundcloud": "75544",
+        "appleMusic": "75544"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Hard Rock Sofa vs. Diddy Dirty Money & Dirty South & Skylar Grey vs. Daft Punk",
+      "title": "Quasar vs. Coming Home vs. Aerodynamic (Swedish House Mafia Mashup)",
+      "remix": "",
+      "label": "DAFT LIFE/INTERSCOPE/AXTONE",
+      "trackId": "226271",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Steve Aoki ft. Wynter Gordon",
+      "title": "Ladi Dadi (Tommy Trash Instrumental Mix)",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "226272",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "63038",
+        "youtube": "63038",
+        "soundcloud": "63038",
+        "appleMusic": "63038"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "M-3ox & Matisse & Sadko vs. Temper Trap",
+      "title": "Beating Of My Heart In Sweet Disposition (Swedish House Mafia Bootleg)",
+      "remix": "",
+      "label": "SONY BMG/HEAT",
+      "trackId": "226273",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "74011"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Sebastian Ingrosso & Tommy Trash ft. John Martin",
+      "title": "Reload",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "226275",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "87479",
+        "youtube": "87479",
+        "soundcloud": "87479",
+        "appleMusic": "87479"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Tommy Trash",
+      "title": "The End",
+      "remix": "",
+      "label": "DOWNRIGHT (MINISTRY OF SOUND AU)",
+      "trackId": "226276",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "30223",
+        "youtube": "30223",
+        "soundcloud": "30223",
+        "appleMusic": "30223"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Alesso",
+      "title": "Clash",
+      "remix": "",
+      "label": "REFUNE",
+      "trackId": "226277",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "73999",
+        "youtube": "73999",
+        "soundcloud": "73999",
+        "appleMusic": "73999"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Tommy Trash vs. Florence + The Machine & Mark Knight vs. Swedish House Mafia",
+      "title": "The End vs. You've Got The Love vs. One (Swedish House Mafia Mashup)",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)/TOOLROOM/DOWNRIGHT (MINISTRY OF SOUND AU)",
+      "trackId": "226278",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Swedish House Mafia vs. Congorock vs. Gotye",
+      "title": "One Babylon vs. Somebody That I Used To Know (Dirty South Mashup)",
+      "remix": "",
+      "label": "ASTRALWERKS (UMG)/FOOL'S GOLD/INTERSCOPE",
+      "trackId": "226279",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Axwell vs. Swedish House Mafia & Knife Party vs. Ferry Corsten & Arty",
+      "title": "Heart Is King vs. Save The World vs. Punk (Swedish House Mafia Mashup)",
+      "remix": "",
+      "label": "FLASHOVER/AXTONE/VIRGIN",
+      "trackId": "226281",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "soundcloud",
+      "idMedia": "35543",
+      "idSource": "10",
+      "url": "https://api.soundcloud.com/tracks/47425946"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "35501",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=Re6zZNXpLxE"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "35193",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/DubShakerz"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:04:08.960Z",
+  "scrapeVersion": 2
+}

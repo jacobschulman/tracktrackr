@@ -1,0 +1,158 @@
+{
+  "tlId": "2fj99wv9",
+  "dj": "Autograf",
+  "stage": "EDC China",
+  "date": "2019-11-24",
+  "year": 2019,
+  "url": "https://www.1001tracklists.com/tracklist/2fj99wv9/autograf-circuitgrounds-edc-china-guangdong-2019-11-24.html",
+  "djs": [
+    {
+      "name": "Autograf",
+      "slug": "autograf"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Don Diablo",
+      "title": "Cutting Shapes",
+      "remix": "",
+      "label": "HEXAGON/SPINNIN'",
+      "trackId": "4510584",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "327407",
+        "youtube": "327407",
+        "soundcloud": "327407",
+        "appleMusic": "327407"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Kungs vs. Cookin' On 3 Burners ft. Kylie Auldist",
+      "title": "This Girl",
+      "remix": "",
+      "label": "UMG",
+      "trackId": "4510585",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "300139",
+        "youtube": "300139",
+        "soundcloud": "300139",
+        "appleMusic": "300139"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Autograf ft. Lils",
+      "title": "You Might Be (Gianni Kosta Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "4510586",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "521047",
+        "youtube": "521047",
+        "soundcloud": "521047",
+        "appleMusic": "521047"
+      },
+      "blendGroup": [
+        {
+          "artist": "Autograf ft. Lils",
+          "title": "You Might Be (Gianni Kosta Remix)",
+          "remix": "",
+          "trackId": "4510586"
+        },
+        {
+          "artist": "FISHER",
+          "title": "Losing It",
+          "remix": "",
+          "trackId": "4510587"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "FISHER",
+      "title": "Losing It",
+      "remix": "",
+      "label": "CATCH & RELEASE/ASTRALWERKS",
+      "trackId": "4510587",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "417888",
+        "youtube": "417888",
+        "soundcloud": "417888",
+        "appleMusic": "417888"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Autograf ft. Jared Lee",
+      "title": "Ain't Deep Enough",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "4510589",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "536307",
+        "youtube": "536307",
+        "appleMusic": "536307"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Don Diablo ft. Jessie J",
+      "title": "Brave",
+      "remix": "",
+      "label": "HEXAGON",
+      "trackId": "4510590",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "491431",
+        "youtube": "491431",
+        "soundcloud": "491431",
+        "appleMusic": "491431"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Daft Punk",
+      "title": "One More Time (Capital People Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "4510591",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "youtube": "394559",
+        "soundcloud": "394559"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-08T15:36:47.545Z",
+  "scrapeVersion": 2
+}

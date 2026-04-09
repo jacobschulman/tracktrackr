@@ -1,0 +1,925 @@
+{
+  "tlId": "2ffr1x71",
+  "dj": "Alan Walker",
+  "stage": "EDC Las Vegas",
+  "date": "2017-06-17",
+  "year": 2017,
+  "url": "https://www.1001tracklists.com/tracklist/2ffr1x71/alan-walker-circuitgrounds-edc-las-vegas-united-states-2017-06-17.html",
+  "djs": [
+    {
+      "name": "Alan Walker",
+      "slug": "alanwalker"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Alan Walker ft. Iselin Solheim",
+      "title": "Faded (PULLER Remix)",
+      "remix": "",
+      "label": "MER",
+      "trackId": "2699241",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 70,
+      "mediaIds": {
+        "youtube": "320895",
+        "soundcloud": "320895"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alan Walker ft. Iselin Solheim",
+          "title": "Faded (PULLER Remix)",
+          "remix": "",
+          "trackId": "2699241"
+        },
+        {
+          "artist": "Alan Walker ft. Iselin Solheim",
+          "title": "Faded (Slice N Dice Remix)",
+          "remix": "",
+          "trackId": "2736140"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alan Walker ft. Iselin Solheim",
+      "title": "Faded (Slice N Dice Remix)",
+      "remix": "",
+      "label": "MER",
+      "trackId": "2736140",
+      "row": 1,
+      "type": "blend",
+      "cueTime": 180,
+      "mediaIds": {
+        "youtube": "311774",
+        "soundcloud": "311774"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "VINAI & Olly James",
+      "title": "LIT",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2699242",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 231,
+      "mediaIds": {
+        "spotify": "299683",
+        "youtube": "299683",
+        "soundcloud": "299683",
+        "appleMusic": "299683"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Den BB & DJ Smaaland",
+      "title": "Tortuga (Brialala Relift)",
+      "remix": "",
+      "label": "ALTER EGO",
+      "trackId": "9067002",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 268,
+      "mediaIds": {
+        "youtube": "9067002",
+        "soundcloud": "9067002"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "LORDE & Flume vs. Sebastian Ingrosso & Tommy Trash",
+      "title": "Tennis Court Reload (Henry Fong Mashup)",
+      "remix": "",
+      "label": "REFUNE/UMG",
+      "trackId": "2699243",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 401,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "LORDE & Flume vs. Sebastian Ingrosso & Tommy Trash",
+          "title": "Tennis Court Reload (Henry Fong Mashup)",
+          "remix": "",
+          "trackId": "2699243"
+        },
+        {
+          "artist": "Skrillex & JAUZ ft. Fatman Scoop",
+          "title": "Squad Out (Acappella)",
+          "remix": "",
+          "trackId": "12694445"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Skrillex & JAUZ ft. Fatman Scoop",
+      "title": "Squad Out (Acappella)",
+      "remix": "",
+      "label": "OWSLA",
+      "trackId": "12694445",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 487,
+      "mediaIds": {
+        "spotify": "268533",
+        "youtube": "376613",
+        "soundcloud": "268533",
+        "appleMusic": "268533"
+      },
+      "blendGroup": [
+        {
+          "artist": "Skrillex & JAUZ ft. Fatman Scoop",
+          "title": "Squad Out (Acappella)",
+          "remix": "",
+          "trackId": "12694445"
+        },
+        {
+          "artist": "Vicetone & Nico Vega",
+          "title": "Beast",
+          "remix": "",
+          "trackId": "2699245"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Vicetone & Nico Vega",
+      "title": "Beast",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "2699245",
+      "row": 4,
+      "type": "blend",
+      "cueTime": 511,
+      "mediaIds": {
+        "spotify": "132509",
+        "youtube": "132509",
+        "soundcloud": "132509"
+      }
+    },
+    {
+      "pos": "05",
+      "artist": "Alan Walker & Alex Skrindo",
+      "title": "Sky (VIP)",
+      "remix": "",
+      "label": "NCS",
+      "trackId": "2699246",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 542,
+      "mediaIds": {
+        "spotify": "352700",
+        "youtube": "427478",
+        "soundcloud": "352700",
+        "appleMusic": "352700"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Sia",
+      "title": "Move Your Body (Alan Walker Remix)",
+      "remix": "",
+      "label": "MONKEY PUZZLE",
+      "trackId": "2699247",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 662,
+      "mediaIds": {
+        "spotify": "332972",
+        "youtube": "332972",
+        "soundcloud": "332972",
+        "appleMusic": "332972"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Alan Walker ft. Iselin Solheim",
+      "title": "Sing Me To Sleep",
+      "remix": "",
+      "label": "MER",
+      "trackId": "2699248",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 759,
+      "mediaIds": {
+        "spotify": "311776",
+        "youtube": "311776",
+        "soundcloud": "311776",
+        "appleMusic": "311776"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alan Walker ft. Iselin Solheim",
+          "title": "Sing Me To Sleep",
+          "remix": "",
+          "trackId": "2699248"
+        },
+        {
+          "artist": "Alan Walker ft. Iselin Solheim",
+          "title": "Sing Me To Sleep (Marshmello Remix)",
+          "remix": "",
+          "trackId": "2736139"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alan Walker ft. Iselin Solheim",
+      "title": "Sing Me To Sleep (Marshmello Remix)",
+      "remix": "",
+      "label": "MER",
+      "trackId": "2736139",
+      "row": 7,
+      "type": "blend",
+      "cueTime": 848,
+      "mediaIds": {
+        "spotify": "320313",
+        "youtube": "320313",
+        "soundcloud": "320313",
+        "appleMusic": "320313"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Alan Walker x David Whistle",
+      "title": "Routine",
+      "remix": "",
+      "label": "MER",
+      "trackId": "2699249",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 956,
+      "mediaIds": {
+        "spotify": "339935",
+        "youtube": "339935",
+        "soundcloud": "339935",
+        "appleMusic": "339935"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Alan Walker ft. Gavin James",
+      "title": "Tired (Alan Walker Remix)",
+      "remix": "",
+      "label": "MER",
+      "trackId": "9062868",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 1047,
+      "mediaIds": {
+        "spotify": "875842",
+        "youtube": "875842",
+        "soundcloud": "875842",
+        "appleMusic": "875842"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alan Walker ft. Gavin James",
+          "title": "Tired (Alan Walker Remix)",
+          "remix": "",
+          "trackId": "9062868"
+        },
+        {
+          "artist": "Alan Walker ft. Gavin James",
+          "title": "Tired (Axollo Remix)",
+          "remix": "",
+          "trackId": "2699250"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alan Walker ft. Gavin James",
+      "title": "Tired (Axollo Remix)",
+      "remix": "",
+      "label": "MER",
+      "trackId": "2699250",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 1127,
+      "mediaIds": {
+        "spotify": "366562",
+        "youtube": "366562",
+        "soundcloud": "366562",
+        "appleMusic": "366562"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Coldplay ft. Beyoncé",
+      "title": "Hymn For The Weekend (Alan Walker Remix)",
+      "remix": "",
+      "label": "PARLOPHONE (WARNER MUSIC)",
+      "trackId": "2696870",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 1297,
+      "mediaIds": {
+        "youtube": "316868",
+        "soundcloud": "316868"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Kovan",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2696873",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 1470,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "NWYR",
+      "title": "Voltage",
+      "remix": "",
+      "label": "NWYR",
+      "trackId": "2696871",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 1668,
+      "mediaIds": {
+        "spotify": "348051",
+        "youtube": "348051",
+        "soundcloud": "348051",
+        "appleMusic": "348051"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Da Hool vs. Valentino Khan vs. Skrillex & MUST DIE! vs. Raven & Kreyn",
+      "title": "Meet Her At The Love Parade vs. Deep Down Low vs. VIP's vs. Rock Now (Alan Walker Mashup)",
+      "remix": "",
+      "label": "KOSMO/OWSLA/GURU",
+      "trackId": "2696874",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 1834,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Broiler ft. Bekuh Boom & Alan Walker vs. KSHMR & Dallask vs. Loopers",
+      "title": "Tell Me - Money vs. Burn vs. Tell Me (Alan Walker Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "2696876",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 1934,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Axwell",
+      "title": "Barricade (Club Mix)",
+      "remix": "",
+      "label": "AXTONE",
+      "trackId": "2696878",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 2134,
+      "mediaIds": {
+        "spotify": "299363",
+        "youtube": "246580",
+        "soundcloud": "299363",
+        "appleMusic": "299363"
+      },
+      "blendGroup": [
+        {
+          "artist": "Axwell",
+          "title": "Barricade (Club Mix)",
+          "remix": "",
+          "trackId": "2696878"
+        },
+        {
+          "artist": "Merk & Kremont",
+          "title": "Get Get Down",
+          "remix": "",
+          "trackId": "2696880"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Merk & Kremont",
+      "title": "Get Get Down",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2696880",
+      "row": 15,
+      "type": "blend",
+      "cueTime": 2154,
+      "mediaIds": {
+        "spotify": "248877",
+        "youtube": "248877",
+        "soundcloud": "248877",
+        "appleMusic": "248877"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Calvin Harris",
+      "title": "My Way (Tiësto Remix)",
+      "remix": "",
+      "label": "SONY",
+      "trackId": "2699406",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 2244,
+      "mediaIds": {
+        "spotify": "332208",
+        "youtube": "332208",
+        "soundcloud": "332208",
+        "appleMusic": "332208"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "R3HAB & Skytech",
+      "title": "Everything",
+      "remix": "",
+      "label": "R3HAB MUSIC",
+      "trackId": "2699407",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 2307,
+      "mediaIds": {
+        "spotify": "337818",
+        "youtube": "337818",
+        "soundcloud": "337818",
+        "appleMusic": "337818"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "NIVIRO",
+      "title": "The Ghost",
+      "remix": "",
+      "label": "NCS",
+      "trackId": "2699408",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 2394,
+      "mediaIds": {
+        "spotify": "351516",
+        "youtube": "351516",
+        "soundcloud": "351516",
+        "appleMusic": "351516"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "The Chainsmokers & Coldplay",
+      "title": "Something Just Like This (Don Diablo Remix)",
+      "remix": "",
+      "label": "DISRUPTOR (SONY)",
+      "trackId": "2699409",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 2517,
+      "mediaIds": {
+        "spotify": "351708",
+        "youtube": "351708",
+        "soundcloud": "351708",
+        "appleMusic": "351708"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Chainsmokers & Coldplay",
+          "title": "Something Just Like This (Don Diablo Remix)",
+          "remix": "",
+          "trackId": "2699409"
+        },
+        {
+          "artist": "RetroVision ft. AWR",
+          "title": "We Are Together",
+          "remix": "",
+          "trackId": "2699410"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "RetroVision ft. AWR",
+      "title": "We Are Together",
+      "remix": "",
+      "label": "FUTURE HOUSE MUSIC",
+      "trackId": "2699410",
+      "row": 19,
+      "type": "blend",
+      "cueTime": 2567,
+      "mediaIds": {
+        "spotify": "348162",
+        "youtube": "348162",
+        "soundcloud": "348162",
+        "appleMusic": "348162"
+      }
+    },
+    {
+      "pos": "20",
+      "artist": "Kovan & Electro-Light",
+      "title": "Skyline",
+      "remix": "",
+      "label": "NCS",
+      "trackId": "2699411",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 2615,
+      "mediaIds": {
+        "spotify": "362306",
+        "youtube": "362306",
+        "soundcloud": "362306",
+        "appleMusic": "362306"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Brooks",
+      "title": "Make Your Move",
+      "remix": "",
+      "label": "2DUTCH",
+      "trackId": "2699412",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 2720,
+      "mediaIds": {
+        "spotify": "311550",
+        "youtube": "311550",
+        "soundcloud": "311550",
+        "appleMusic": "311550"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "MC Hammer",
+      "title": "U Can't Touch This (Melkers Remix)",
+      "remix": "",
+      "label": "CAPITOL (EMI)",
+      "trackId": "2699413",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 2826,
+      "mediaIds": {
+        "youtube": "427288",
+        "soundcloud": "427288"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "Desiigner",
+      "title": "Panda(Prod. by Menace)",
+      "remix": "",
+      "label": "GETTING OUT OUR DREAMS",
+      "trackId": "2699251",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 2916,
+      "mediaIds": {
+        "spotify": "297755",
+        "youtube": "297755",
+        "soundcloud": "297755",
+        "appleMusic": "297755"
+      },
+      "blendGroup": [
+        {
+          "artist": "Desiigner",
+          "title": "Panda(Prod. by Menace)",
+          "remix": "",
+          "trackId": "2699251"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "2699415"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "2699415",
+      "row": 23,
+      "type": "blend",
+      "cueTime": 2974,
+      "mediaIds": null
+    },
+    {
+      "pos": "24",
+      "artist": "Armin van Buuren vs. Vini Vici ft. Hilight Tribe",
+      "title": "Great Spirit",
+      "remix": "",
+      "label": "ARMIND (ARMADA)",
+      "trackId": "2699416",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 3017,
+      "mediaIds": {
+        "spotify": "336552",
+        "youtube": "336552",
+        "soundcloud": "336552",
+        "appleMusic": "336552"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Steve Aoki & Headhunterz",
+      "title": "The Power Of Now",
+      "remix": "",
+      "label": "ULTRA",
+      "trackId": "2699417",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 3105,
+      "mediaIds": {
+        "spotify": "268042",
+        "youtube": "268042",
+        "soundcloud": "268042",
+        "appleMusic": "268042"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Jonas Aden & ELS",
+      "title": "Blackbird",
+      "remix": "",
+      "label": "FUTURE HOUSE MUSIC",
+      "trackId": "2699418",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 3207,
+      "mediaIds": {
+        "spotify": "451320",
+        "youtube": "451320",
+        "soundcloud": "451320",
+        "appleMusic": "451320"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Alex Skrindo",
+      "title": "Anyway",
+      "remix": "",
+      "label": "OUTERTONE",
+      "trackId": "2699419",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 3270,
+      "mediaIds": {
+        "spotify": "349722",
+        "youtube": "349722",
+        "soundcloud": "349722",
+        "appleMusic": "349722"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Alan Walker ft. Jesper Borgen",
+      "title": "The Spectre",
+      "remix": "",
+      "label": "MER",
+      "trackId": "2699420",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 3355,
+      "mediaIds": {
+        "spotify": "311048",
+        "youtube": "311048",
+        "soundcloud": "311048",
+        "appleMusic": "311048"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "3rd Prototype",
+      "title": "Get In",
+      "remix": "",
+      "label": "NCS",
+      "trackId": "2699421",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 3495,
+      "mediaIds": {
+        "spotify": "343708",
+        "youtube": "343708",
+        "soundcloud": "343708",
+        "appleMusic": "343708"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Galantis",
+      "title": "No Money (MOTi Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "9062869",
+      "row": 30,
+      "type": "normal",
+      "cueTime": 3561,
+      "mediaIds": {
+        "spotify": "306860",
+        "youtube": "306860",
+        "soundcloud": "306860",
+        "appleMusic": "306860"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "31",
+      "artist": "Galantis & Dillon Francis vs. Curbi & Mesto",
+      "title": "No Money vs. Bruh (Alan Walker Mashup)",
+      "remix": "",
+      "label": "",
+      "trackId": "5510206",
+      "row": 31,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "Sikdope vs. DVBBS & BORGEOUS",
+      "title": "Old School vs. Tsunami (DJ KUBA & NEITAN VIP Edit)",
+      "remix": "",
+      "label": "DOORN (SPINNIN')/MUSICAL FREEDOM",
+      "trackId": "2699422",
+      "row": 32,
+      "type": "normal",
+      "cueTime": 3692,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "Martin Garrix & Dua Lipa",
+      "title": "Scared To Be Lonely (Brooks Remix)",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "2699423",
+      "row": 33,
+      "type": "normal",
+      "cueTime": 3758,
+      "mediaIds": {
+        "spotify": "350547",
+        "youtube": "350547",
+        "soundcloud": "350547",
+        "appleMusic": "350547"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "34",
+      "artist": "Alan Walker vs. RetroVision",
+      "title": "Alone vs. Get Down (Alan Walker Mashup)",
+      "remix": "",
+      "label": "MER/MUSICAL FREEDOM",
+      "trackId": "2699424",
+      "row": 34,
+      "type": "normal",
+      "cueTime": 3876,
+      "mediaIds": {
+        "youtube": "567367",
+        "appleMusic": "567367"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alan Walker vs. RetroVision",
+          "title": "Alone vs. Get Down (Alan Walker Mashup)",
+          "remix": "",
+          "trackId": "2699424"
+        },
+        {
+          "artist": "Alan Walker ft. Iselin Solheim",
+          "title": "Faded (Acappella)",
+          "remix": "",
+          "trackId": "9062845"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alan Walker ft. Iselin Solheim",
+      "title": "Faded (Acappella)",
+      "remix": "",
+      "label": "MER",
+      "trackId": "9062845",
+      "row": 34,
+      "type": "blend",
+      "cueTime": 4019,
+      "mediaIds": {
+        "spotify": "291547",
+        "youtube": "291547",
+        "soundcloud": "291547",
+        "appleMusic": "291547"
+      }
+    },
+    {
+      "pos": "35",
+      "artist": "Alan Walker ft. Iselin Solheim",
+      "title": "Faded",
+      "remix": "",
+      "label": "MER",
+      "trackId": "2699426",
+      "row": 35,
+      "type": "normal",
+      "cueTime": 4073,
+      "mediaIds": {
+        "spotify": "291547",
+        "youtube": "291547",
+        "soundcloud": "291547",
+        "appleMusic": "291547"
+      },
+      "blendGroup": [
+        {
+          "artist": "Alan Walker ft. Iselin Solheim",
+          "title": "Faded",
+          "remix": "",
+          "trackId": "2699426"
+        },
+        {
+          "artist": "Alan Walker ft. Iselin Solheim",
+          "title": "Faded (Tiësto Northern Lights Remix)",
+          "remix": "",
+          "trackId": "2699427"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Alan Walker ft. Iselin Solheim",
+      "title": "Faded (Tiësto Northern Lights Remix)",
+      "remix": "",
+      "label": "MER",
+      "trackId": "2699427",
+      "row": 35,
+      "type": "blend",
+      "cueTime": 4265,
+      "mediaIds": {
+        "spotify": "291548",
+        "youtube": "291548",
+        "soundcloud": "291548",
+        "appleMusic": "291548"
+      }
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "3377810",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=-sagDrhmnqI"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "788392",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=DSn0GIuVbBs"
+    },
+    {
+      "platform": "source_16",
+      "idMedia": "941324",
+      "idSource": "16",
+      "url": "https://www.mixcloud.com/Livesets2016"
+    }
+  ],
+  "scrapedAt": "2026-04-08T07:42:35.602Z",
+  "scrapeVersion": 2
+}

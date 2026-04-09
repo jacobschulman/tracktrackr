@@ -1,0 +1,707 @@
+{
+  "tlId": "2k49m9jt",
+  "dj": "Martin Garrix",
+  "stage": "Ultra Music Festival Japan",
+  "date": "2016-09-19",
+  "year": 2016,
+  "url": "https://www.1001tracklists.com/tracklist/2k49m9jt/martin-garrix-mainstage-ultra-music-festival-japan-2016-09-19.html",
+  "djs": [
+    {
+      "name": "Martin Garrix",
+      "slug": "martingarrix"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Martin Garrix",
+      "title": "Animals vs. Poison (Martin Garrix Intro Mashup)",
+      "remix": "",
+      "label": "STMPD/FREE",
+      "trackId": "2266981",
+      "row": 1,
+      "type": "normal",
+      "cueTime": 365,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Martin Garrix & Third ≡ Party ft. Max McElligott",
+      "title": "Lions In The Wild",
+      "remix": "",
+      "label": "STMPD/RELEASE",
+      "trackId": "2266982",
+      "row": 2,
+      "type": "normal",
+      "cueTime": 545,
+      "mediaIds": {
+        "spotify": "300244",
+        "youtube": "300244",
+        "soundcloud": "300244",
+        "appleMusic": "300244"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Bassjackers vs. Martin Garrix & Tiësto",
+      "title": "Crackin vs. The Only Way Is Up (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/MUSICAL FREEDOM/PM:AM",
+      "trackId": "2267154",
+      "row": 3,
+      "type": "normal",
+      "cueTime": 740,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Bassjackers vs. Martin Garrix & Tiësto",
+          "title": "Crackin vs. The Only Way Is Up (Martin Garrix Mashup)",
+          "remix": "",
+          "trackId": "2267154"
+        },
+        {
+          "artist": "Jamie Lewis ft. Michael Watford",
+          "title": "For You (Put Your Hands Up In The Air Acappella)",
+          "remix": "",
+          "trackId": "2266984"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Jamie Lewis ft. Michael Watford",
+      "title": "For You (Put Your Hands Up In The Air Acappella)",
+      "remix": "",
+      "label": "PURPLE MUSIC",
+      "trackId": "2266984",
+      "row": 3,
+      "type": "blend",
+      "cueTime": 763,
+      "mediaIds": {
+        "youtube": "14545"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "The Chemical Brothers & KAAZE vs. Martin Garrix & Florian Picasso",
+      "title": "Hey Boy, Hey Girl vs. Make Up Your Mind (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "VIRGIN/EPIC AMSTERDAM/STMPD",
+      "trackId": "2266985",
+      "row": 4,
+      "type": "normal",
+      "cueTime": 815,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Martin Garrix & Dimitri Vegas & Like Mike vs. Naughty Boy & James Egbert ft. Hardwell & W&W",
+      "title": "Tremor vs. La La La (Bassjackers Mashup)",
+      "remix": "",
+      "label": "REVEALED/SPINNIN'/EMI",
+      "trackId": "2266987",
+      "row": 5,
+      "type": "normal",
+      "cueTime": 1003,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Martin Garrix & Dimitri Vegas & Like Mike vs. Naughty Boy & James Egbert ft. Hardwell & W&W",
+          "title": "Tremor vs. La La La (Bassjackers Mashup)",
+          "remix": "",
+          "trackId": "2266987"
+        },
+        {
+          "artist": "Martin Garrix vs. Dimitri Vegas & Like Mike vs. Avicii ft. Simon Aldred",
+          "title": "Tremor vs. Waiting For Love (Martin Garrix Mashup)",
+          "remix": "",
+          "trackId": "2266988"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Garrix vs. Dimitri Vegas & Like Mike vs. Avicii ft. Simon Aldred",
+      "title": "Tremor vs. Waiting For Love (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/PRMD",
+      "trackId": "2266988",
+      "row": 5,
+      "type": "blend",
+      "cueTime": 1140,
+      "mediaIds": {
+        "appleMusic": "311266"
+      }
+    },
+    {
+      "pos": "06",
+      "artist": "Galantis & MOTi vs. AREA21",
+      "title": "No Money vs. Spaceships (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "STMPD/FREE/BIG BEAT (ATLANTIC)",
+      "trackId": "2266989",
+      "row": 6,
+      "type": "normal",
+      "cueTime": 1264,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Snavs & Fabian Mazur",
+      "title": "Wolves",
+      "remix": "",
+      "label": "MUSICAL FREEDOM",
+      "trackId": "7977649",
+      "row": 7,
+      "type": "normal",
+      "cueTime": 286,
+      "mediaIds": {
+        "spotify": "323075",
+        "youtube": "323075",
+        "soundcloud": "323075",
+        "appleMusic": "323075"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Martin Garrix & Jay Hardway",
+      "title": "Spotless",
+      "remix": "",
+      "label": "EPIC AMSTERDAM/STMPD",
+      "trackId": "7977651",
+      "row": 8,
+      "type": "normal",
+      "cueTime": 437,
+      "mediaIds": {
+        "spotify": "298183",
+        "youtube": "298183",
+        "soundcloud": "298183",
+        "appleMusic": "298183"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Bassjackers vs. AFROJACK & Martin Garrix",
+      "title": "Like That vs. Turn Up The Speakers (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/SMASH THE HOUSE",
+      "trackId": "7977672",
+      "row": 9,
+      "type": "normal",
+      "cueTime": 511,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Bassjackers vs. AFROJACK & Martin Garrix",
+          "title": "Like That vs. Turn Up The Speakers (Martin Garrix Mashup)",
+          "remix": "",
+          "trackId": "7977672"
+        },
+        {
+          "artist": "David Guetta & Showtek & Vassy vs. Afrojack & Martin Garrix",
+          "title": "BAD vs. Turn Up The Speakers (AFROJACK Tomorrowland Brasil Mashup)",
+          "remix": "",
+          "trackId": "7977674"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "David Guetta & Showtek & Vassy vs. Afrojack & Martin Garrix",
+      "title": "BAD vs. Turn Up The Speakers (AFROJACK Tomorrowland Brasil Mashup)",
+      "remix": "",
+      "label": "WHAT A MUSIC/PARLOPHONE/SPINNIN'",
+      "trackId": "7977674",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 1,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "David Guetta & Showtek & Vassy vs. Afrojack & Martin Garrix",
+          "title": "BAD vs. Turn Up The Speakers (AFROJACK Tomorrowland Brasil Mashup)",
+          "remix": "",
+          "trackId": "7977674"
+        },
+        {
+          "artist": "Martin Garrix & Pierce Fulton ft. Mike Shinoda",
+          "title": "Waiting For Tomorrow",
+          "remix": "",
+          "trackId": "7977675"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Garrix & Pierce Fulton ft. Mike Shinoda",
+      "title": "Waiting For Tomorrow",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "7977675",
+      "row": 9,
+      "type": "blend",
+      "cueTime": 21,
+      "mediaIds": {
+        "spotify": "303676",
+        "youtube": "303676",
+        "soundcloud": "303676",
+        "appleMusic": "303676"
+      }
+    },
+    {
+      "pos": "10",
+      "artist": "Martin Garrix & MOTi ft. Jenny Wahlström",
+      "title": "Virus (How About Now)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "7977944",
+      "row": 10,
+      "type": "normal",
+      "cueTime": 98,
+      "mediaIds": {
+        "spotify": "213610",
+        "youtube": "213610",
+        "soundcloud": "213610",
+        "appleMusic": "213610"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "The Weeknd",
+      "title": "Can't Feel My Face (Martin Garrix Remix)",
+      "remix": "",
+      "label": "XO (REPUBLIC)",
+      "trackId": "7977945",
+      "row": 11,
+      "type": "normal",
+      "cueTime": 306,
+      "mediaIds": {
+        "spotify": "263216",
+        "youtube": "263216",
+        "soundcloud": "263216",
+        "appleMusic": "263216"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Kid Cudi & Steve Aoki vs. Martin Garrix & Jay Hardway",
+      "title": "Pursuit Of Happiness vs. Error 404 (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "REPUBLIC/GOOD MUSIC/DOORN (SPINNIN')",
+      "trackId": "7977946",
+      "row": 12,
+      "type": "normal",
+      "cueTime": 428,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Kid Cudi & Steve Aoki vs. Martin Garrix & Jay Hardway",
+          "title": "Pursuit Of Happiness vs. Error 404 (Martin Garrix Mashup)",
+          "remix": "",
+          "trackId": "7977946"
+        },
+        {
+          "artist": "Martin Garrix ft. Justin Mylo & Mesto",
+          "title": "Bouncybob",
+          "remix": "",
+          "trackId": "7977947"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Garrix ft. Justin Mylo & Mesto",
+      "title": "Bouncybob",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "7977947",
+      "row": 12,
+      "type": "blend",
+      "cueTime": 488,
+      "mediaIds": {
+        "spotify": "247289",
+        "youtube": "247289",
+        "soundcloud": "247289",
+        "appleMusic": "247289"
+      }
+    },
+    {
+      "pos": "13",
+      "artist": "Jay Karama",
+      "title": "Keep Calm",
+      "remix": "",
+      "label": "BANZAI RECS",
+      "trackId": "7977963",
+      "row": 13,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "303127",
+        "youtube": "303127",
+        "soundcloud": "303127",
+        "appleMusic": "303127"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Martin Garrix & Jay Hardway vs. Firebeatz vs. Zedd & Lucky Date vs. Deorro & J-Trick & Hardwell vs. Bastille & Audien",
+      "title": "Wizard vs. Helicopter vs. Fall Into The Sky vs. Rambo vs. Pompeii (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "INTERSCOPE/SPINNIN'/VIRGIN/REVEALED",
+      "trackId": "7977676",
+      "row": 14,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Martin Garrix & Jay Hardway vs. Firebeatz vs. Zedd & Lucky Date vs. Deorro & J-Trick & Hardwell vs. Bastille & Audien",
+          "title": "Wizard vs. Helicopter vs. Fall Into The Sky vs. Rambo vs. Pompeii (Martin Garrix Mashup)",
+          "remix": "",
+          "trackId": "7977676"
+        },
+        {
+          "artist": "DallasK",
+          "title": "Powertrip",
+          "remix": "",
+          "trackId": "7977677"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DallasK",
+      "title": "Powertrip",
+      "remix": "",
+      "label": "REVEALED",
+      "trackId": "7977677",
+      "row": 14,
+      "type": "blend",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "290901",
+        "youtube": "290901",
+        "soundcloud": "290901",
+        "appleMusic": "290901"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Firebeatz vs. Fifth Harmony & Ty Dolla $ign & Brooks",
+      "title": "Arsonist vs. Work From Home (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/SIMCO",
+      "trackId": "7977689",
+      "row": 15,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Martin Garrix ft. Dawn Golden",
+      "title": "Sun Is Never Going Down",
+      "remix": "",
+      "label": "STMPD/EPIC AMSTERDAM",
+      "trackId": "7977690",
+      "row": 16,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "312785",
+        "youtube": "312785",
+        "soundcloud": "312785",
+        "appleMusic": "312785"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "Martin Garrix vs. Bassjackers & Brooks",
+      "title": "Animals vs. Alamo (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "STMPD/SKINK",
+      "trackId": "7977948",
+      "row": 17,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "Martin Garrix ft. John & Michel",
+      "title": "Now That I've Found You",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "7977691",
+      "row": 18,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "268538",
+        "youtube": "268538",
+        "soundcloud": "268538",
+        "appleMusic": "268538"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Martin Garrix & Matisse & Sadko ft. Max McElligott",
+      "title": "Together (Instrumental Mix)",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "7977692",
+      "row": 19,
+      "type": "normal",
+      "cueTime": 0,
+      "mediaIds": {
+        "spotify": "330645",
+        "youtube": "330645",
+        "soundcloud": "330645",
+        "appleMusic": "330645"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "20",
+      "artist": "Daft Punk",
+      "title": "One More Time (Zedd Remix)",
+      "remix": "",
+      "label": "VIRGIN",
+      "trackId": "7977874",
+      "row": 20,
+      "type": "normal",
+      "cueTime": 1,
+      "mediaIds": {
+        "youtube": "318252",
+        "soundcloud": "318252",
+        "appleMusic": "318252"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Martin Garrix",
+      "title": "Forbidden Voices",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "7977875",
+      "row": 21,
+      "type": "normal",
+      "cueTime": 137,
+      "mediaIds": {
+        "spotify": "232283",
+        "youtube": "232283",
+        "soundcloud": "232283",
+        "appleMusic": "232283"
+      },
+      "blendGroup": [
+        {
+          "artist": "Martin Garrix",
+          "title": "Forbidden Voices",
+          "remix": "",
+          "trackId": "7977875"
+        },
+        {
+          "artist": "Martin Garrix & Jake Liedo vs. Galantis",
+          "title": "Forbidden Voices vs. Runaway (Martin Garrix Ultra Mashup)",
+          "remix": "",
+          "trackId": "7977897"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Martin Garrix & Jake Liedo vs. Galantis",
+      "title": "Forbidden Voices vs. Runaway (Martin Garrix Ultra Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/BIG BEAT (ATLANTIC)",
+      "trackId": "7977897",
+      "row": 21,
+      "type": "blend",
+      "cueTime": 237,
+      "mediaIds": null
+    },
+    {
+      "pos": "22",
+      "artist": "Martin Garrix & Mesto vs. Fedde Le Grand & Nicky Romero & Matthew Koma",
+      "title": "WIEE vs. Sparks (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "FLAMINGO/EPIC AMSTERDAM/STMPD",
+      "trackId": "7977898",
+      "row": 22,
+      "type": "normal",
+      "cueTime": 357,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "The Chainsmokers ft. Daya",
+      "title": "Don't Let Me Down (Riggi & Piros Remix)",
+      "remix": "",
+      "label": "COLUMBIA (SONY)",
+      "trackId": "7977705",
+      "row": 23,
+      "type": "normal",
+      "cueTime": 538,
+      "mediaIds": {
+        "youtube": "301671",
+        "soundcloud": "301671"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "Martin Garrix",
+      "title": "Oops",
+      "remix": "",
+      "label": "STMPD",
+      "trackId": "7977706",
+      "row": 24,
+      "type": "normal",
+      "cueTime": 676,
+      "mediaIds": {
+        "spotify": "311184",
+        "youtube": "311184",
+        "soundcloud": "311184",
+        "appleMusic": "311184"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Martin Garrix & Matisse & Sadko ft. Pete Wilde",
+      "title": "Break Through The Silence",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "7977869",
+      "row": 25,
+      "type": "normal",
+      "cueTime": 840,
+      "mediaIds": {
+        "spotify": "214463",
+        "youtube": "214463",
+        "soundcloud": "214463",
+        "appleMusic": "214463"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Sander van Doorn & Martin Garrix & DVBBS ft. Aleesia",
+      "title": "Gold Skies",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "2267564",
+      "row": 26,
+      "type": "normal",
+      "cueTime": 1025,
+      "mediaIds": {
+        "spotify": "182675",
+        "youtube": "182675",
+        "soundcloud": "182675",
+        "appleMusic": "182675"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "27",
+      "artist": "Martin Garrix & Usher vs. Volt & State",
+      "title": "Don't Look Down vs. Sandcastles (Martin Garrix Mashup)",
+      "remix": "",
+      "label": "SPINNIN'/RCA/PROTOCOL",
+      "trackId": "7977870",
+      "row": 27,
+      "type": "normal",
+      "cueTime": 1179,
+      "mediaIds": {
+        "youtube": "817397"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "DubVision vs. Alesso vs. Kygo feat. Conrad Sewell",
+      "title": "Heart vs. Destinations vs. Firestone (D I M I T R O Mashup)",
+      "remix": "",
+      "label": "SONY/ULTRA/SPINNIN'/REFUNE",
+      "trackId": "7977873",
+      "row": 28,
+      "type": "normal",
+      "cueTime": 1412,
+      "mediaIds": {
+        "soundcloud": "277739"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Martin Garrix & Bebe Rexha",
+      "title": "In The Name Of Love",
+      "remix": "",
+      "label": "EPIC AMSTERDAM/STMPD",
+      "trackId": "2267565",
+      "row": 29,
+      "type": "normal",
+      "cueTime": 1629,
+      "mediaIds": {
+        "spotify": "304534",
+        "youtube": "304534",
+        "soundcloud": "304534",
+        "appleMusic": "304534"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [
+    {
+      "platform": "youtube",
+      "idMedia": "2901147",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=aothDJ8CjqI"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "493812",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=Qtt0-omQwmY"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "2901286",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=jGJuM7-qRUs"
+    },
+    {
+      "platform": "youtube",
+      "idMedia": "2901279",
+      "idSource": "13",
+      "url": "https://www.youtube.com/watch?v=aROSFYm5nmM"
+    },
+    {
+      "platform": "source_27",
+      "idMedia": "490103",
+      "idSource": "27",
+      "url": "https://www.dailymotion.com/embed/video/x4tsxyn_martin-garrix-live-ultra-japan-2016_music"
+    }
+  ],
+  "scrapedAt": "2026-04-08T16:02:33.618Z",
+  "scrapeVersion": 2
+}
