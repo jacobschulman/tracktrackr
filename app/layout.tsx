@@ -8,6 +8,7 @@ import { HashRedirect } from '@/components/HashRedirect';
 import { PlayerBar } from '@/components/PlayerBar';
 import { Analytics } from '@vercel/analytics/next';
 import { SpeedInsights } from '@vercel/speed-insights/next';
+import { GAPageView } from '@/components/GAPageView';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -34,7 +35,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-7CSFLQ7T60" />
         <script
           dangerouslySetInnerHTML={{
-            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-7CSFLQ7T60');`,
+            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-7CSFLQ7T60',{send_page_view:false});`,
           }}
         />
       </head>
@@ -67,6 +68,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </div>
         </main>
         <PlayerBar />
+        <GAPageView />
         <Analytics />
         <SpeedInsights />
       </body>
