@@ -34,9 +34,16 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <div id="view-container">
             {children}
             <footer className="site-footer">
-              <a href="/disclaimer">Disclaimer</a>
-              <span className="footer-sep">&middot;</span>
-              <span>Data last updated April 2026</span>
+              <div>
+                <a href="/disclaimer">Disclaimer</a>
+                <span className="footer-sep">&middot;</span>
+                <span>Data last updated April 2026</span>
+              </div>
+              <div className="footer-watermark">
+                <span>Powered by</span>
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src="/hedgebreeze.png" alt="Hedgebreeze" className="footer-hb-logo" />
+              </div>
             </footer>
           </div>
         </main>

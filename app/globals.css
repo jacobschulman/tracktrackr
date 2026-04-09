@@ -238,6 +238,23 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
 }
 .site-footer a:hover { color: var(--purple-lt); }
 .footer-sep { margin: 0 6px; opacity: 0.4; }
+.footer-watermark {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 8px;
+  font-size: 0.625rem;
+  color: var(--muted);
+  opacity: 0.5;
+}
+.footer-hb-logo {
+  height: 10px;
+  filter: invert(1);
+  opacity: 0.4;
+  position: relative;
+  top: 1px;
+}
 
 /* ── Mobile bottom tabs ─────────────────────────── */
 #mobile-tabs {
