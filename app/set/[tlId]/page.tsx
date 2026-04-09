@@ -173,52 +173,6 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
         />
       </div>
 
-      {/* DJ's other sets */}
-      {otherSets.length > 0 && (
-        <div
-          style={{
-            display: 'flex',
-            gap: '8px',
-            flexWrap: 'wrap',
-            marginBottom: '24px',
-          }}
-        >
-          <span
-            style={{
-              fontSize: '0.75rem',
-              color: 'var(--muted)',
-              alignSelf: 'center',
-            }}
-          >
-            {djName} sets:
-          </span>
-          {otherSets.slice(0, 12).map((s) => {
-            const label = s.festival === setData.festival && s.stage === setData.stage
-              ? `${s.year}`
-              : `${s.year} \u00B7 ${s.festivalName || s.festival}`;
-            return (
-              <Link
-                key={s.tlId}
-                href={`/set/${s.tlId}`}
-                className={`pill${s.year === setData.year && s.festival === setData.festival ? ' pill-purple' : ''}`}
-                style={{ cursor: 'pointer', fontSize: '0.6875rem' }}
-              >
-                {label}
-              </Link>
-            );
-          })}
-          {otherSets.length > 12 && (
-            <Link
-              href={`/dj/${djSlug}`}
-              className="pill"
-              style={{ cursor: 'pointer', fontSize: '0.6875rem' }}
-            >
-              +{otherSets.length - 12} more
-            </Link>
-          )}
-        </div>
-      )}
-
       {/* Tracklist */}
       <div className="card" style={{ marginBottom: '24px' }}>
         <div className="card-header">
@@ -467,6 +421,41 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
                 {s.djs.map((d) => d.name).join(' & ')}
               </Link>
             ))}
+          </div>
+        </div>
+      )}
+
+      {/* More sets by this DJ */}
+      {otherSets.length > 0 && (
+        <div className="card" style={{ marginTop: 24 }}>
+          <div className="card-header">
+            <div className="card-title">More sets by {djName}</div>
+          </div>
+          <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+            {otherSets.slice(0, 12).map((s) => {
+              const label = s.festival === setData.festival && s.stage === setData.stage
+                ? `${s.year}`
+                : `${s.year} \u00B7 ${s.festivalName || s.festival}`;
+              return (
+                <Link
+                  key={s.tlId}
+                  href={`/set/${s.tlId}`}
+                  className={`pill${s.year === setData.year && s.festival === setData.festival ? ' pill-purple' : ''}`}
+                  style={{ cursor: 'pointer', fontSize: '0.6875rem' }}
+                >
+                  {label}
+                </Link>
+              );
+            })}
+            {otherSets.length > 12 && (
+              <Link
+                href={`/dj/${djSlug}`}
+                className="pill"
+                style={{ cursor: 'pointer', fontSize: '0.6875rem' }}
+              >
+                +{otherSets.length - 12} more
+              </Link>
+            )}
           </div>
         </div>
       )}
