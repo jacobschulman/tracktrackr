@@ -47,7 +47,7 @@ export default function HomePage() {
       </div>
 
       {/* Global stats */}
-      <div className="stat-bar" style={{ marginBottom: 32 }}>
+      <div className="stat-bar" style={{ marginBottom: 32, maxWidth: 420, marginLeft: 'auto', marginRight: 'auto' }}>
         <div className="stat-card">
           <div className="stat-number">{fmt(totalFestivals)}</div>
           <div className="stat-label">Festivals</div>
@@ -75,21 +75,22 @@ export default function HomePage() {
             borderLeft: `4px solid ${recentFestival.accent}`,
           }}
         >
-          <div style={{ padding: '28px 24px' }}>
-            <div style={{ fontSize: '0.6875rem', color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.08em', fontWeight: 700, marginBottom: 10 }}>
-              Latest Festival
-            </div>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 8 }}>
-              <FestivalBadge festival={recentFestival.slug} size="md" />
-              <span style={{ fontSize: '2rem', fontWeight: 900, letterSpacing: '-0.02em' }}>
-                {recentFestival.shortName} {recentFestival.maxYear}
-              </span>
-            </div>
-            <div style={{ fontSize: '0.9375rem', color: 'var(--muted-lt)' }}>
-              {recentFestival.setCount} sets this year &middot; {fmt(recentFestival.totalSets)} total across {recentFestival.years.length} years
-            </div>
-            <div style={{ marginTop: 14, fontSize: '0.875rem', color: recentFestival.accent, fontWeight: 600 }}>
-              Explore {recentFestival.shortName} &rarr;
+          <div style={{ padding: '16px 20px' }}>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+              <div>
+                <div style={{ fontSize: '0.6875rem', color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.08em', fontWeight: 700, marginBottom: 6 }}>
+                  Latest Festival
+                </div>
+                <div style={{ fontSize: '1.5rem', fontWeight: 900, letterSpacing: '-0.02em', marginBottom: 4 }}>
+                  {recentFestival.shortName} {recentFestival.maxYear}
+                </div>
+                <div style={{ fontSize: '0.8125rem', color: 'var(--muted-lt)' }}>
+                  {recentFestival.setCount} sets &middot; {fmt(recentFestival.totalSets)} total across {recentFestival.years.length} years
+                </div>
+              </div>
+              <div style={{ fontSize: '0.8125rem', color: recentFestival.accent, fontWeight: 600 }}>
+                Explore &rarr;
+              </div>
             </div>
           </div>
         </Link>
@@ -108,14 +109,10 @@ export default function HomePage() {
             borderLeft: `4px solid ${upNextFestival.accent}`,
           }}
         >
-
-          <div style={{ padding: '16px 20px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
-              <FestivalBadge festival={upNextFestival.slug} size="md" />
-              <div>
-                <div style={{ fontSize: '0.6875rem', color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: 2 }}>Up Next</div>
-                <div style={{ fontWeight: 700, fontSize: '1.0625rem' }}>{upNextFestival.shortName}</div>
-              </div>
+          <div style={{ padding: '12px 20px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+              <div style={{ fontSize: '0.6875rem', color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.05em', fontWeight: 700 }}>Up Next:</div>
+              <div style={{ fontWeight: 700, fontSize: '1rem' }}>{upNextFestival.shortName}</div>
             </div>
             <div style={{ fontSize: '0.8125rem', color: upNextFestival.accent, fontWeight: 600 }}>
               View history &rarr;
@@ -163,7 +160,7 @@ export default function HomePage() {
       {topTracks.length > 0 && (
         <div className="card" style={{ marginBottom: 24 }}>
           <div className="card-header">
-            <div className="card-title">Most Played in {latestYear}</div>
+            <div className="card-title">Most Played in {latestYear} (So Far!)</div>
             <Link href="/tracks" style={{ fontSize: '0.75rem', color: 'var(--purple-lt)', textDecoration: 'none' }}>View all &rarr;</Link>
           </div>
           {topTracks.map((t, i) => {
@@ -204,6 +201,9 @@ export default function HomePage() {
       )}
 
       {/* Quick links */}
+      <div style={{ fontSize: '0.6875rem', color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.08em', fontWeight: 700, marginBottom: 10, textAlign: 'center' }}>
+        Explore More
+      </div>
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(180px, 1fr))', gap: 10 }}>
         <Link href="/djs" className="card" style={{ textDecoration: 'none', color: 'inherit', padding: '20px', textAlign: 'center' }}>
           <div style={{ fontSize: '1.5rem', marginBottom: 4 }}>&#9678;</div>
