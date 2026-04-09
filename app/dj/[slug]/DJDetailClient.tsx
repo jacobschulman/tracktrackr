@@ -69,6 +69,7 @@ export function DJDetailClient({ timelineBars, yearInfoMap, allSets, allFestival
   const [filterYear, setFilterYear] = useState<string>('all');
   const [filterFestival, setFilterFestival] = useState<string>('all');
   const [showAllSets, setShowAllSets] = useState(false);
+  const [showAllTimeline, setShowAllTimeline] = useState(false);
   const DEFAULT_SETS_SHOWN = 4;
 
   // Expand toggles for signature/supported track lists
@@ -117,41 +118,53 @@ export function DJDetailClient({ timelineBars, yearInfoMap, allSets, allFestival
   return (
     <>
       {/* Vertical Timeline */}
-      <div className="card" style={{ marginBottom: 24 }}>
-        <div className="card-header"><div className="card-title">Timeline</div></div>
-        <div className="vt-vertical">
-          {timelineBars.filter(b => b.active).reverse().map(bar => {
-            const info = yearInfoMap[bar.year];
-            const maxSets = Math.max(...timelineBars.filter(b => b.active).map(b => b.setCount));
-            const barPct = Math.max(8, (bar.setCount / maxSets) * 100);
-            return (
-              <div key={bar.year} className="vt-v-row">
-                <div className="vt-v-year">{bar.year}</div>
-                <div className="vt-v-bar-wrap">
-                  <div className="vt-v-bar" style={{ width: `${barPct}%` }}>
-                    {bar.festivals.map(f => (
-                      <div
-                        key={f}
-                        style={{
-                          flex: 1,
-                          background: festivalColors[f] || '#64748b',
-                          minWidth: 4,
-                        }}
-                      />
-                    ))}
+      {(() => {
+        const activeBars = timelineBars.filter(b => b.active).reverse();
+        const maxSets = Math.max(...activeBars.map(b => b.setCount), 1);
+        const DEFAULT_SHOW = 5;
+        const displayBars = showAllTimeline ? activeBars : activeBars.slice(0, DEFAULT_SHOW);
+        const hasMore = activeBars.length > DEFAULT_SHOW;
+
+        return (
+          <div className="card" style={{ marginBottom: 24 }}>
+            <div className="card-header"><div className="card-title">Timeline</div></div>
+            <div className="vt-vertical">
+              {displayBars.map(bar => {
+                const barPct = Math.max(6, (bar.setCount / maxSets) * 100);
+                return (
+                  <div key={bar.year} className="vt-v-row">
+                    <div className="vt-v-year">{bar.year}</div>
+                    <div className="vt-v-bar-wrap">
+                      <div className="vt-v-bar" style={{ width: `${barPct}%` }}>
+                        {bar.festivals.map(f => (
+                          <div
+                            key={f}
+                            style={{
+                              flex: 1,
+                              background: festivalColors[f] || '#64748b',
+                              minWidth: 4,
+                            }}
+                          />
+                        ))}
+                      </div>
+                      <span className="vt-v-count">{bar.setCount}</span>
+                    </div>
                   </div>
-                  <span className="vt-v-count">{bar.setCount} set{bar.setCount !== 1 ? 's' : ''}</span>
-                </div>
-                <div className="vt-v-festivals">
-                  {bar.festivals.map(f => (
-                    <FestivalBadge key={f} festival={f} size="sm" />
-                  ))}
-                </div>
-              </div>
-            );
-          })}
-        </div>
-      </div>
+                );
+              })}
+            </div>
+            {hasMore && (
+              <button
+                className="expand-btn"
+                onClick={() => setShowAllTimeline(!showAllTimeline)}
+                style={{ width: '100%', marginTop: 8 }}
+              >
+                {showAllTimeline ? 'Show recent' : `Show all ${activeBars.length} years`}
+              </button>
+            )}
+          </div>
+        );
+      })()}
 
       {/* All Sets (filterable) */}
       <div className="card" style={{ marginBottom: 24 }}>

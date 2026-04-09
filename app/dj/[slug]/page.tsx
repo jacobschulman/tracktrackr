@@ -115,14 +115,14 @@ export default async function DJPage({ params }: { params: Promise<{ slug: strin
   const allSetsSorted = [...history].sort((a, b) => b.date.localeCompare(a.date));
   const allFestivals = [...new Set(history.map(s => s.festival))].sort();
 
-  // -- All set track previews (5 per set) + recording info --
+  // -- Set track previews + recording info (only first 20 to keep load fast) --
   const setTrackPreviews: Record<string, { tracks: { artist: string; title: string; remix: string; isID: boolean }[]; totalTracks: number }> = {};
   const setRecordings: Record<string, { ytUrl?: string; scUrl?: string }> = {};
-  for (const s of history) {
+  const setsToEnrich = allSetsSorted.slice(0, 20);
+  for (const s of setsToEnrich) {
     if (!s.hasSetFile) continue;
     const setData = loadSet(s.tlId);
     if (!setData) continue;
-    // Track previews
     if (setData.tracks) {
       const tracks = setData.tracks.filter(t => t.type === 'normal' || t.type === 'blend');
       setTrackPreviews[s.tlId] = {
@@ -135,7 +135,6 @@ export default async function DJPage({ params }: { params: Promise<{ slug: strin
         })),
       };
     }
-    // Recordings
     const recordings = setData.recordings || [];
     const yt = recordings.find(r => r.platform === 'youtube');
     const sc = recordings.find(r => r.platform === 'soundcloud');
