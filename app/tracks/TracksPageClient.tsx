@@ -3,6 +3,7 @@
 import { useState, useMemo } from 'react';
 import Link from 'next/link';
 import { SpotifyButton } from '@/components/SpotifyButton';
+import { FestivalSelect } from '@/components/FestivalSelect';
 
 interface TrackRow {
   artist: string;
@@ -80,35 +81,7 @@ export function TracksPageClient({ tracks, years, festivalLabels }: TracksPageCl
       <h2>Tracks</h2>
 
       <div className="filters" style={{ display: 'flex', gap: 8, alignItems: 'center', flexWrap: 'wrap', marginBottom: 16 }}>
-        {/* Festival filter chips */}
-        {festivalLabels.length > 1 && (
-          <>
-            <button
-              className={`filter-chip${festivalFilter === '' ? ' active' : ''}`}
-              onClick={() => setFestivalFilter('')}
-            >
-              All Festivals
-            </button>
-            {festivalLabels.map(f => (
-              <button
-                key={f.slug}
-                className={`filter-chip${festivalFilter === f.slug ? ' active' : ''}`}
-                onClick={() => setFestivalFilter(f.slug)}
-                style={festivalFilter === f.slug ? {
-                  borderColor: f.accent,
-                  color: f.accent,
-                  background: `${f.accent}15`,
-                  boxShadow: `0 0 0 1px ${f.accent}, 0 1px 4px ${f.accent}40`,
-                } : undefined}
-              >
-                <span style={{ width: 6, height: 6, borderRadius: '50%', background: f.accent, flexShrink: 0 }} />
-                {f.shortName}
-              </button>
-            ))}
-            <span style={{ width: 1, height: 20, background: 'var(--border)', margin: '0 4px' }} />
-          </>
-        )}
-        {/* Year dropdown */}
+        <FestivalSelect festivalLabels={festivalLabels} value={festivalFilter} onChange={setFestivalFilter} />
         <select
           className="filter-select"
           value={yearFilter}
@@ -116,9 +89,7 @@ export function TracksPageClient({ tracks, years, festivalLabels }: TracksPageCl
         >
           <option value="">All Years</option>
           {sortedYears.map((y) => (
-            <option key={y} value={String(y)}>
-              {y}
-            </option>
+            <option key={y} value={String(y)}>{y}</option>
           ))}
         </select>
       </div>

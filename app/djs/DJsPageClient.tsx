@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
+import { FestivalSelect } from '@/components/FestivalSelect';
 
 interface DJAggregate {
   name: string;
@@ -70,33 +71,8 @@ export function DJsPageClient({ allDJs, djsByFestival, festivalLabels }: Props) 
             </div>
           </div>
 
-          {/* Festival filter chips */}
-          {festivalLabels.length > 1 && (
-            <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap' }}>
-              <button
-                className={`filter-chip${festivalFilter === '' ? ' active' : ''}`}
-                onClick={() => setFestivalFilter('')}
-              >
-                All Festivals
-              </button>
-              {festivalLabels.map(f => (
-                <button
-                  key={f.slug}
-                  className={`filter-chip${festivalFilter === f.slug ? ' active' : ''}`}
-                  onClick={() => setFestivalFilter(f.slug)}
-                  style={festivalFilter === f.slug ? {
-                    borderColor: f.accent,
-                    color: f.accent,
-                    background: `${f.accent}15`,
-                    boxShadow: `0 0 0 1px ${f.accent}, 0 1px 4px ${f.accent}40`,
-                  } : undefined}
-                >
-                  <span style={{ width: 6, height: 6, borderRadius: '50%', background: f.accent, flexShrink: 0 }} />
-                  {f.shortName}
-                </button>
-              ))}
-            </div>
-          )}
+          {/* Festival filter */}
+          <FestivalSelect festivalLabels={festivalLabels} value={festivalFilter} onChange={setFestivalFilter} />
         </div>
 
         {top50.length === 0 ? (
