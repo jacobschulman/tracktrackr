@@ -222,6 +222,56 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
 }
 .data-credit a:hover { color: var(--purple-lt); }
 
+/* ── Vertical Timeline (DJ page) ───────────────── */
+.vt-vertical {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 8px 0;
+}
+.vt-v-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 4px 0;
+}
+.vt-v-year {
+  font-size: 0.8125rem;
+  font-weight: 700;
+  color: var(--text-bright);
+  width: 40px;
+  text-align: right;
+  flex-shrink: 0;
+  font-variant-numeric: tabular-nums;
+}
+.vt-v-bar-wrap {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+}
+.vt-v-bar {
+  height: 20px;
+  border-radius: 4px;
+  display: flex;
+  gap: 1px;
+  overflow: hidden;
+  min-width: 4px;
+  transition: width 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+.vt-v-count {
+  font-size: 0.6875rem;
+  color: var(--muted);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vt-v-festivals {
+  display: flex;
+  gap: 4px;
+  flex-shrink: 0;
+}
+
 /* ── Site footer ────────────────────────────────── */
 .site-footer {
   margin-top: 48px;

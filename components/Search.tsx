@@ -126,8 +126,21 @@ export function Search() {
   const djResults = results.filter(r => r.type === 'dj') as DJResult[];
   const trackResults = results.filter(r => r.type === 'track') as TrackResult[];
 
+  const toggleMobileSearch = () => {
+    const el = containerRef.current;
+    if (!el) return;
+    el.classList.toggle('search-open');
+    if (el.classList.contains('search-open')) {
+      loadData();
+      setTimeout(() => inputRef.current?.focus(), 50);
+    }
+  };
+
   return (
     <div id="search-container" ref={containerRef}>
+      <button className="search-toggle" onClick={toggleMobileSearch} aria-label="Search">
+        &#128269;
+      </button>
       <input
         ref={inputRef}
         type="text"

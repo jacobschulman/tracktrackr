@@ -7,6 +7,7 @@ import { FestivalBadge } from '@/components/FestivalBadge';
 import Link from 'next/link';
 import type { SetMeta } from '@/lib/types';
 import { DJDetailClient } from './DJDetailClient';
+import { AnimatedNumber } from '@/components/AnimatedNumber';
 
 // Only pre-build top DJs; rest rendered on-demand by Vercel
 export function generateStaticParams() {
@@ -197,29 +198,29 @@ export default async function DJPage({ params }: { params: Promise<{ slug: strin
         )}
         <div className="dj-hero-stats">
           <div className="dj-hero-stat">
-            <div className="dj-hero-stat-val">{fmt(totalSets)}</div>
+            <div className="dj-hero-stat-val"><AnimatedNumber value={fmt(totalSets)} /></div>
             <div className="dj-hero-stat-label">sets</div>
           </div>
           <div className="dj-hero-stat">
-            <div className="dj-hero-stat-val">{uniqueYears}</div>
+            <div className="dj-hero-stat-val"><AnimatedNumber value={String(uniqueYears)} /></div>
             <div className="dj-hero-stat-label">years</div>
           </div>
           {streak > 1 && (
             <div className="dj-hero-stat accent">
-              <div className="dj-hero-stat-val">{streak}</div>
+              <div className="dj-hero-stat-val"><AnimatedNumber value={String(streak)} /></div>
               <div className="dj-hero-stat-label">yr streak</div>
             </div>
           )}
           <div className="dj-hero-stat">
-            <div className="dj-hero-stat-val">{fmt(repeatData.totalUniqueTracks)}</div>
+            <div className="dj-hero-stat-val"><AnimatedNumber value={fmt(repeatData.totalUniqueTracks)} /></div>
             <div className="dj-hero-stat-label">unique tracks</div>
           </div>
           <div className="dj-hero-stat">
-            <div className="dj-hero-stat-val">{(avgIdRate * 100).toFixed(0)}%</div>
+            <div className="dj-hero-stat-val"><AnimatedNumber value={`${(avgIdRate * 100).toFixed(0)}%`} /></div>
             <div className="dj-hero-stat-label">ID rate</div>
           </div>
           <div className="dj-hero-stat">
-            <div className="dj-hero-stat-val">{(repeatData.repeatRate * 100).toFixed(0)}%</div>
+            <div className="dj-hero-stat-val"><AnimatedNumber value={`${(repeatData.repeatRate * 100).toFixed(0)}%`} /></div>
             <div className="dj-hero-stat-label">repeat rate</div>
           </div>
         </div>
