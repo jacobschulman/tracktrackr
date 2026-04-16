@@ -1,0 +1,228 @@
+{
+  "tlId": "2hsbl1x1",
+  "dj": "Moby",
+  "stage": "Coachella Festival",
+  "date": "2026-04-10",
+  "year": 2026,
+  "url": "https://www.1001tracklists.com/tracklist/2hsbl1x1/moby-mojave-coachella-festival-weekend-1-united-states-2026-04-10.html",
+  "djs": [
+    {
+      "name": "Moby",
+      "slug": "moby"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Moby",
+      "title": "Bodyrock",
+      "remix": "",
+      "label": "LITTLE IDIOT",
+      "trackId": "13732001",
+      "row": 1,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "30784",
+        "youtube": "30784",
+        "soundcloud": "30784",
+        "appleMusic": "30784"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "02",
+      "artist": "Moby",
+      "title": "Go",
+      "remix": "",
+      "label": "LITTLE IDIOT",
+      "trackId": "13732002",
+      "row": 2,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "5914",
+        "youtube": "5914",
+        "soundcloud": "5914",
+        "appleMusic": "5914"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Moby",
+      "title": "Next is the E",
+      "remix": "",
+      "label": "LITTLE IDIOT",
+      "trackId": "13732003",
+      "row": 3,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "501379",
+        "youtube": "501379",
+        "soundcloud": "501379",
+        "appleMusic": "501379"
+      },
+      "blendGroup": [
+        {
+          "artist": "Moby",
+          "title": "Next is the E",
+          "remix": "",
+          "trackId": "13732003"
+        },
+        {
+          "artist": "Eminem",
+          "title": "Without Me (Acappella)",
+          "remix": "",
+          "trackId": "13732020"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Eminem",
+      "title": "Without Me (Acappella)",
+      "remix": "",
+      "label": "AFTERMATH ENTERTAINMENT (INTERSCOPE)",
+      "trackId": "13732020",
+      "row": 3,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "208260",
+        "youtube": "208260",
+        "soundcloud": "208260",
+        "appleMusic": "208260"
+      }
+    },
+    {
+      "pos": "04",
+      "artist": "Moby",
+      "title": "Porcelain",
+      "remix": "(Live)",
+      "label": "MUTE",
+      "trackId": "13732004",
+      "row": 4,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "6538",
+        "youtube": "6538",
+        "soundcloud": "6538",
+        "appleMusic": "6538"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Moby & Jacob Lusk",
+      "title": "When It's Cold I'd Like to Die",
+      "remix": "(Live)",
+      "label": "",
+      "trackId": "13732005",
+      "row": 5,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Moby & BLOND:ISH & Kiko Franco",
+      "title": "Natural Blues",
+      "remix": "(Live)",
+      "label": "DEFECTED",
+      "trackId": "13732006",
+      "row": 6,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1094711",
+        "youtube": "1094711",
+        "soundcloud": "1094711",
+        "appleMusic": "1094711"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "Moby ft. The Shining Light Gospel Choir",
+      "title": "Why Does My Heart Feel So Bad?",
+      "remix": "",
+      "label": "MUTE",
+      "trackId": "13732007",
+      "row": 7,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "100088",
+        "youtube": "100088",
+        "soundcloud": "100088",
+        "appleMusic": "100088"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Armin van Buuren & Moby",
+      "title": "Extreme Ways",
+      "remix": "",
+      "label": "ARMADA",
+      "trackId": "13732021",
+      "row": 8,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "985074",
+        "youtube": "985074",
+        "soundcloud": "985074",
+        "appleMusic": "985074"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "09",
+      "artist": "Moby",
+      "title": "Feeling So Real",
+      "remix": "",
+      "label": "MUTE",
+      "trackId": "13732022",
+      "row": 9,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "417717",
+        "youtube": "417717",
+        "soundcloud": "417717",
+        "appleMusic": "417717"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Moby",
+      "title": "Thousand",
+      "remix": "",
+      "label": "EQUATOR",
+      "trackId": "13732023",
+      "row": 10,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "28338",
+        "youtube": "28338",
+        "soundcloud": "28338",
+        "appleMusic": "28338"
+      },
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-13T14:47:22.063Z",
+  "scrapeVersion": 2
+}

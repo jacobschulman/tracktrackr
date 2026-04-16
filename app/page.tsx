@@ -19,7 +19,11 @@ export default function HomePage() {
       const fSets = index.sets.filter(s => s.festival === f.slug);
       const maxDate = fSets.reduce((max, s) => s.date > max ? s.date : max, '');
       const maxYear = fSets.reduce((max, s) => s.year > max ? s.year : max, 0);
-      return { ...f, maxDate, maxYear, setCount: fSets.filter(s => s.year === maxYear).length };
+      const latestYearSets = fSets.filter(s => s.year === maxYear);
+      const hasW1 = latestYearSets.some(s => /-weekend-1\b/i.test(s.url || ''));
+      const hasW2 = latestYearSets.some(s => /-weekend-2\b/i.test(s.url || ''));
+      const weekendLabel = hasW1 && !hasW2 ? 'Weekend 1' : !hasW1 && hasW2 ? 'Weekend 2' : '';
+      return { ...f, maxDate, maxYear, setCount: latestYearSets.length, weekendLabel };
     })
     .sort((a, b) => b.maxDate.localeCompare(a.maxDate))[0];
 
@@ -36,8 +40,9 @@ export default function HomePage() {
     .slice(0, 5);
   const maxPlayCount = topTracks[0]?.yearCounts?.[latestYear] ?? topTracks[0]?.playCount ?? 1;
 
-  // Up Next: Coachella (if it exists in the data)
-  const upNextFestival = festivalSummaries.find(f => f.slug === 'coachella') || null;
+  // Up Next: next festival after the most recent one (hardcoded next = EDC Las Vegas)
+  const upNextSlug = recentFestival?.slug === 'coachella' ? 'edc-las-vegas' : 'coachella';
+  const upNextFestival = festivalSummaries.find(f => f.slug === upNextSlug) || null;
 
   // Top festivals by set count for the grid
   const topFestivals = festivalSummaries.slice(0, 6);
@@ -91,6 +96,11 @@ export default function HomePage() {
                 </div>
                 <div style={{ fontSize: '1.5rem', fontWeight: 900, letterSpacing: '-0.02em', marginBottom: 4 }}>
                   {recentFestival.shortName} {recentFestival.maxYear}
+                  {recentFestival.weekendLabel && (
+                    <span style={{ fontSize: '0.875rem', fontWeight: 700, color: recentFestival.accent, marginLeft: 8, letterSpacing: '0.02em' }}>
+                      {recentFestival.weekendLabel}
+                    </span>
+                  )}
                 </div>
                 <div style={{ fontSize: '0.8125rem', color: 'var(--muted-lt)' }}>
                   {recentFestival.setCount} sets &middot; {fmt(recentFestival.totalSets)} total across {recentFestival.years.length} years

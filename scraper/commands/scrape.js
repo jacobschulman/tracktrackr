@@ -140,6 +140,15 @@ async function run(config, args) {
     log.info(`Filtered to year ${args.year}: ${queue.length} sets`);
   }
 
+  if (args.weekend) {
+    const wk = String(args.weekend);
+    queue = queue.filter(s => {
+      const isW2 = /-weekend-2\b/i.test(s.url || '') || /-weekend-2\b/i.test(s.dj || '');
+      return wk === '2' ? isW2 : !isW2;
+    });
+    log.info(`Filtered to weekend ${wk}: ${queue.length} sets`);
+  }
+
   if (args.filter) {
     const ids = new Set(args.filter.split(','));
     queue = queue.filter(s => ids.has(s.tlId));

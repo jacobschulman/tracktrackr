@@ -8,6 +8,7 @@
  *   node scrape-all.js --skip=ultra-miami         # skip festivals
  *   node scrape-all.js --only=edc-las-vegas       # just one
  *   node scrape-all.js --year=2025                 # only 2025 sets
+ *   node scrape-all.js --only=coachella --weekend=1 # only W1 (excludes -weekend-2 slugs)
  *   node scrape-all.js --delay=8000                # slower pacing (ms)
  */
 
