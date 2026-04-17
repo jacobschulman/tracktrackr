@@ -1,0 +1,556 @@
+/* ═══════════════════════════════════════════════════
+   Prototype — Playful Design Direction
+   Isolated from main app. Nothing here leaks out.
+   ═══════════════════════════════════════════════════ */
+
+.root {
+  --p-bg:        #0d0a1f;
+  --p-bg-warm:   #14102b;
+  --p-surface:   #1a1535;
+  --p-surface-2: #241d48;
+  --p-border:    #2c2458;
+  --p-text:      #f4f1ff;
+  --p-muted:     #a59cd1;
+
+  /* Vibrant accent palette — Radix-esque, tuned warmer */
+  --p-grape:     #a855f7;
+  --p-grape-dim: #6b21a8;
+  --p-sun:       #fbbf24;
+  --p-sun-dim:   #b45309;
+  --p-mint:      #34d399;
+  --p-mint-dim:  #065f46;
+  --p-rose:      #fb7185;
+  --p-rose-dim:  #9f1239;
+  --p-sky:       #38bdf8;
+  --p-sky-dim:   #0369a1;
+  --p-peach:     #fb923c;
+  --p-peach-dim: #9a3412;
+
+  /* Big, friendly radii */
+  --p-r-xl:  28px;
+  --p-r-lg:  20px;
+  --p-r-md:  14px;
+  --p-r-sm:  10px;
+  --p-r-pill: 999px;
+
+  /* 4px spacing grid */
+  --p-s-1: 4px;
+  --p-s-2: 8px;
+  --p-s-3: 12px;
+  --p-s-4: 16px;
+  --p-s-5: 20px;
+  --p-s-6: 24px;
+  --p-s-8: 32px;
+  --p-s-10: 40px;
+
+  background: radial-gradient(1200px 600px at 20% -10%, #2a1b5c 0%, transparent 60%),
+              radial-gradient(900px 500px at 90% 10%, #4a1d5c 0%, transparent 60%),
+              var(--p-bg);
+  min-height: 100vh;
+  padding: var(--p-s-10);
+  color: var(--p-text);
+  font-feature-settings: 'ss01', 'cv11';
+}
+
+.hero {
+  margin-bottom: var(--p-s-10);
+}
+
+.heroEyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--p-s-2);
+  padding: var(--p-s-2) var(--p-s-4);
+  border-radius: var(--p-r-pill);
+  background: rgba(168, 85, 247, 0.15);
+  color: var(--p-grape);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  margin-bottom: var(--p-s-4);
+}
+
+.heroEyebrow::before {
+  content: '';
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--p-grape);
+  box-shadow: 0 0 12px var(--p-grape);
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.6; transform: scale(0.9); }
+}
+
+.heroTitle {
+  font-family: var(--font-display), 'Space Grotesk', sans-serif;
+  font-size: clamp(40px, 6vw, 72px);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 0.95;
+  margin-bottom: var(--p-s-4);
+  background: linear-gradient(135deg, #fff 0%, #c4b5fd 60%, #f0abfc 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.heroSub {
+  font-size: 18px;
+  color: var(--p-muted);
+  max-width: 560px;
+  line-height: 1.5;
+}
+
+.sectionLabel {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--p-muted);
+  margin-bottom: var(--p-s-4);
+  display: flex;
+  align-items: center;
+  gap: var(--p-s-2);
+}
+
+.sectionLabel::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, var(--p-border) 0%, transparent 100%);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--p-s-8);
+  margin-bottom: var(--p-s-10);
+}
+
+@media (max-width: 900px) {
+  .grid { grid-template-columns: 1fr; }
+}
+
+/* ── DJ Card ────────────────────────────────────── */
+
+.djCard {
+  position: relative;
+  border-radius: var(--p-r-xl);
+  padding: var(--p-s-6);
+  overflow: hidden;
+  isolation: isolate;
+  background: var(--p-surface);
+  border: 1px solid var(--p-border);
+  transition: transform 300ms cubic-bezier(0.34, 1.56, 0.64, 1),
+              box-shadow 300ms ease;
+  cursor: pointer;
+}
+
+.djCard::before {
+  content: '';
+  position: absolute;
+  inset: -40% -40% auto auto;
+  width: 280px; height: 280px;
+  border-radius: 50%;
+  background: radial-gradient(circle, var(--accent, var(--p-grape)) 0%, transparent 70%);
+  opacity: 0.35;
+  z-index: -1;
+  transition: transform 500ms ease, opacity 300ms ease;
+}
+
+.djCard:hover {
+  transform: translateY(-4px) scale(1.01);
+  box-shadow: 0 20px 60px -20px var(--accent, var(--p-grape));
+}
+
+.djCard:hover::before {
+  transform: scale(1.2) translate(-20px, 20px);
+  opacity: 0.55;
+}
+
+.djCardHead {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--p-s-4);
+  margin-bottom: var(--p-s-5);
+}
+
+.djAvatar {
+  width: 64px; height: 64px;
+  border-radius: var(--p-r-lg);
+  background: var(--accent, var(--p-grape));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display), sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  color: #0d0a1f;
+  flex-shrink: 0;
+  box-shadow: 0 8px 24px -8px var(--accent, var(--p-grape));
+}
+
+.djNameWrap {
+  flex: 1;
+  min-width: 0;
+}
+
+.djName {
+  font-family: var(--font-display), 'Space Grotesk', sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  margin-bottom: var(--p-s-1);
+}
+
+.djMeta {
+  font-size: 13px;
+  color: var(--p-muted);
+  display: flex;
+  align-items: center;
+  gap: var(--p-s-2);
+}
+
+.streakPill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  border-radius: var(--p-r-pill);
+  background: rgba(251, 191, 36, 0.15);
+  color: var(--p-sun);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.statsRow {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--p-s-2);
+  margin-bottom: var(--p-s-5);
+}
+
+.stat {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: var(--p-r-md);
+  padding: var(--p-s-3) var(--p-s-3);
+  text-align: center;
+  transition: background 200ms ease;
+}
+
+.stat:hover {
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.statNum {
+  font-family: var(--font-display), sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  margin-bottom: 2px;
+  color: var(--accent, var(--p-grape));
+}
+
+.statLabel {
+  font-size: 11px;
+  color: var(--p-muted);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.sigHead {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--p-muted);
+  margin-bottom: var(--p-s-2);
+}
+
+.sigList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--p-s-2);
+  margin-bottom: var(--p-s-5);
+}
+
+.sigItem {
+  display: flex;
+  align-items: center;
+  gap: var(--p-s-3);
+  padding: var(--p-s-2) var(--p-s-3);
+  border-radius: var(--p-r-md);
+  background: rgba(255, 255, 255, 0.03);
+  transition: background 150ms ease, transform 150ms ease;
+}
+
+.sigItem:hover {
+  background: rgba(255, 255, 255, 0.07);
+  transform: translateX(4px);
+}
+
+.sigRank {
+  font-family: var(--font-display), sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--p-muted);
+  width: 20px;
+  font-variant-numeric: tabular-nums;
+}
+
+.sigTitle {
+  flex: 1;
+  min-width: 0;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.sigArtist {
+  font-size: 12px;
+  color: var(--p-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.sigCount {
+  font-family: var(--font-display), sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--accent, var(--p-grape));
+  font-variant-numeric: tabular-nums;
+  padding: 2px 8px;
+  border-radius: var(--p-r-pill);
+  background: color-mix(in srgb, var(--accent, var(--p-grape)) 15%, transparent);
+  flex-shrink: 0;
+}
+
+.festivalPills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--p-s-2);
+}
+
+.festPill {
+  padding: 6px 12px;
+  border-radius: var(--p-r-pill);
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--p-text);
+  text-transform: capitalize;
+  transition: all 150ms ease;
+}
+
+.festPill:hover {
+  background: var(--accent, var(--p-grape));
+  color: #0d0a1f;
+  border-color: transparent;
+  transform: translateY(-1px);
+}
+
+/* ── Track Row ──────────────────────────────────── */
+
+.trackList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--p-s-2);
+}
+
+.trackRow {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: var(--p-s-4);
+  padding: var(--p-s-3) var(--p-s-4);
+  border-radius: var(--p-r-lg);
+  background: var(--p-surface);
+  border: 1px solid var(--p-border);
+  transition: all 250ms cubic-bezier(0.34, 1.56, 0.64, 1);
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.trackRow::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, var(--accent, var(--p-grape)) 0%, transparent 40%);
+  opacity: 0;
+  transition: opacity 250ms ease;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.trackRow:hover {
+  transform: translateX(6px);
+  border-color: var(--accent, var(--p-grape));
+}
+
+.trackRow:hover::before {
+  opacity: 0.08;
+}
+
+.trackRow > * { position: relative; z-index: 1; }
+
+.playBtn {
+  width: 44px; height: 44px;
+  border-radius: 50%;
+  background: var(--accent, var(--p-grape));
+  color: #0d0a1f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: all 200ms ease;
+  box-shadow: 0 4px 16px -4px var(--accent, var(--p-grape));
+}
+
+.trackRow:hover .playBtn {
+  transform: scale(1.08) rotate(-5deg);
+  box-shadow: 0 8px 24px -4px var(--accent, var(--p-grape));
+}
+
+.playBtn svg {
+  width: 18px; height: 18px;
+  margin-left: 2px;
+}
+
+.trackMain {
+  flex: 1;
+  min-width: 0;
+}
+
+.trackTitle {
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  letter-spacing: -0.01em;
+}
+
+.trackArtist {
+  font-size: 13px;
+  color: var(--p-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.trackMeta {
+  display: flex;
+  align-items: center;
+  gap: var(--p-s-2);
+  flex-shrink: 0;
+}
+
+.trackStagePill {
+  padding: 4px 10px;
+  border-radius: var(--p-r-pill);
+  background: rgba(52, 211, 153, 0.12);
+  color: var(--p-mint);
+  font-size: 11px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.trackYearPill {
+  padding: 4px 10px;
+  border-radius: var(--p-r-pill);
+  background: rgba(56, 189, 248, 0.12);
+  color: var(--p-sky);
+  font-size: 11px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.trackCount {
+  font-family: var(--font-display), sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--accent, var(--p-grape));
+  font-variant-numeric: tabular-nums;
+  min-width: 28px;
+  text-align: right;
+  display: flex;
+  align-items: baseline;
+  gap: 3px;
+}
+
+.trackCount::after {
+  content: 'plays';
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--p-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ── Comparison panel ───────────────────────────── */
+
+.compare {
+  margin-top: var(--p-s-10);
+  padding: var(--p-s-6);
+  border-radius: var(--p-r-xl);
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px dashed var(--p-border);
+}
+
+.compareHead {
+  font-family: var(--font-display), sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: var(--p-s-4);
+}
+
+.compareNote {
+  font-size: 14px;
+  color: var(--p-muted);
+  line-height: 1.6;
+  max-width: 640px;
+}
+
+.compareNote strong { color: var(--p-text); }
+
+.notes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: var(--p-s-4);
+  margin-top: var(--p-s-5);
+}
+
+.noteCard {
+  padding: var(--p-s-4);
+  border-radius: var(--p-r-md);
+  background: rgba(255, 255, 255, 0.03);
+  border-left: 3px solid var(--noteAccent, var(--p-grape));
+}
+
+.noteTitle {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--noteAccent, var(--p-grape));
+  margin-bottom: var(--p-s-2);
+}
+
+.noteBody {
+  font-size: 13px;
+  color: var(--p-muted);
+  line-height: 1.5;
+}
