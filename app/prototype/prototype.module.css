@@ -16,7 +16,7 @@
   color: var(--text);
   min-height: 100vh;
   padding: 48px 40px 80px;
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
   -webkit-font-smoothing: antialiased;
 }
@@ -83,8 +83,8 @@
 
 .djGrid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 16px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
 }
 
 .djCard {
