@@ -57,6 +57,12 @@ export default function PrototypePage() {
 
   return (
     <div className={`${styles.root} ${spaceGrotesk.variable}`}>
+      {/* Hide the app shell — this prototype needs the full viewport */}
+      <style dangerouslySetInnerHTML={{ __html: `
+        #sidebar, #header, .site-footer, .mobile-tabs, .player-bar { display: none !important; }
+        #content { margin-left: 0 !important; padding: 0 !important; max-width: none !important; }
+        #view-container { max-width: none !important; }
+      ` }} />
       <section className={styles.hero}>
         <span className={styles.heroEyebrow}>Design prototype · v0.1</span>
         <h1 className={styles.heroTitle}>
