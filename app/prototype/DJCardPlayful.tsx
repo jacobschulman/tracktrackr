@@ -62,8 +62,10 @@ export function DJCardPlayful({
       {signatureTracks.slice(0, 3).map((t, i) => (
         <div key={i} className={styles.djTrack}>
           <span className={styles.djTrackNum}>{i + 1}</span>
-          <span className={styles.djTrackTitle}>{t.title}</span>
-          <span className={styles.djTrackArtist}>{t.artist}</span>
+          <div className={styles.djTrackBody}>
+            <div className={styles.djTrackTitle}>{t.title}</div>
+            <div className={styles.djTrackArtist}>{t.artist}</div>
+          </div>
           <span className={styles.djTrackCount}>{t.count}x</span>
         </div>
       ))}

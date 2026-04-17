@@ -1,15 +1,8 @@
-import { Space_Grotesk } from 'next/font/google';
 import fs from 'node:fs';
 import path from 'node:path';
 import styles from './prototype.module.css';
 import { DJCardPlayful } from './DJCardPlayful';
 import { TrackRowPlayful } from './TrackRowPlayful';
-
-const spaceGrotesk = Space_Grotesk({
-  subsets: ['latin'],
-  variable: '--font-display',
-  weight: ['500', '600', '700'],
-});
 
 export const metadata = { title: 'Prototype · TrackTrackr' };
 
@@ -45,7 +38,7 @@ export default function PrototypePage() {
   }));
 
   return (
-    <div className={`${styles.root} ${spaceGrotesk.variable}`}>
+    <div className={styles.root}>
       <style dangerouslySetInnerHTML={{ __html: `
         #sidebar, #header, .site-footer, .mobile-tabs, .player-bar { display: none !important; }
         #content { margin-left: 0 !important; padding: 0 !important; max-width: none !important; }
