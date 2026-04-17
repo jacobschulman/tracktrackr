@@ -28,124 +28,112 @@ function loadDJ(slug: string): DJData {
   return JSON.parse(fs.readFileSync(file, 'utf8'));
 }
 
-function initialsOf(name: string) {
-  return name
-    .split(/\s+/)
-    .map((w) => w[0])
-    .slice(0, 2)
-    .join('')
-    .toUpperCase();
-}
-
 export default function PrototypePage() {
   const anyma = loadDJ('anyma');
   const skrillex = loadDJ('skrillex');
   const fredagain = loadDJ('fredagain..');
 
-  const djs = [
-    { data: anyma, accent: '#a855f7' },
-    { data: skrillex, accent: '#fb7185' },
-    { data: fredagain, accent: '#34d399' },
+  const djs: { data: DJData; accent: string }[] = [
+    { data: anyma, accent: '#a78bfa' },
+    { data: skrillex, accent: '#f472b6' },
+    { data: fredagain, accent: '#6ee7b7' },
   ];
 
-  const trackAccents = ['#a855f7', '#fb923c', '#34d399', '#38bdf8', '#fbbf24', '#fb7185'];
-  const topTracks = anyma.signatureTracks.slice(0, 6).map((t, i) => ({
+  const topTracks = anyma.signatureTracks.slice(0, 8).map((t, i) => ({
     ...t,
-    accent: trackAccents[i % trackAccents.length],
-    stage: ['Main Stage', 'Sahara', 'Do LaB', 'Yuma', 'Mojave', 'Gobi'][i % 6],
+    stage: ['Main Stage', 'Sahara', 'Do LaB', 'Yuma', 'Mojave', 'Gobi', 'Sonora', 'Outdoor'][i % 8],
   }));
 
   return (
     <div className={`${styles.root} ${spaceGrotesk.variable}`}>
-      {/* Hide the app shell — this prototype needs the full viewport */}
       <style dangerouslySetInnerHTML={{ __html: `
         #sidebar, #header, .site-footer, .mobile-tabs, .player-bar { display: none !important; }
         #content { margin-left: 0 !important; padding: 0 !important; max-width: none !important; }
         #view-container { max-width: none !important; }
       ` }} />
+
       <section className={styles.hero}>
-        <span className={styles.heroEyebrow}>Design prototype · v0.1</span>
-        <h1 className={styles.heroTitle}>
-          Fun, not<br />spreadsheet.
-        </h1>
+        <div className={styles.heroLabel}>Design direction v2</div>
+        <h1 className={styles.heroTitle}>TrackTrackr</h1>
         <p className={styles.heroSub}>
-          A playful direction for TrackTrackr — bold color, confident type, and
-          a little bounce. Real data below.
+          Tighter, editorial, confident. Color as accent — not wallpaper.
+          Real data, real components. Hover around.
         </p>
       </section>
 
-      <div className={styles.grid}>
-        <div>
-          <div className={styles.sectionLabel}>DJ Cards</div>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 20 }}>
-            {djs.map(({ data, accent }) => (
-              <DJCardPlayful
-                key={data.name}
-                name={data.name}
-                initials={initialsOf(data.name)}
-                accent={accent}
-                streak={data.streak}
-                totalSets={data.totalSets}
-                uniqueTracks={data.totalUniqueTracks}
-                idRate={data.idRate}
-                signatureTracks={data.signatureTracks}
-                festivals={data.festivals}
-              />
-            ))}
-          </div>
+      <section className={styles.section}>
+        <div className={styles.sectionHead}>
+          <div className={styles.sectionTitle}>DJs</div>
+          <div className={styles.sectionCount}>{djs.length} shown</div>
         </div>
-        <div>
-          <div className={styles.sectionLabel}>Track Rows · Anyma signatures</div>
-          <div className={styles.trackList}>
-            {topTracks.map((t, i) => (
-              <TrackRowPlayful
-                key={i}
-                title={t.title}
-                artist={t.artist}
-                count={t.count}
-                years={t.years}
-                stage={t.stage}
-                accent={t.accent}
-              />
-            ))}
-          </div>
+        <div className={styles.djGrid}>
+          {djs.map(({ data, accent }) => (
+            <DJCardPlayful
+              key={data.name}
+              name={data.name}
+              initial={data.name[0]}
+              accent={accent}
+              streak={data.streak}
+              totalSets={data.totalSets}
+              uniqueTracks={data.totalUniqueTracks}
+              idRate={data.idRate}
+              signatureTracks={data.signatureTracks}
+              festivals={data.festivals}
+            />
+          ))}
         </div>
-      </div>
+      </section>
 
-      <section className={styles.compare}>
-        <div className={styles.compareHead}>What's different here</div>
-        <p className={styles.compareNote}>
-          This prototype is completely isolated — it doesn't touch your current
-          styles. Scroll around, hover things, compare with the rest of the site.
-          If the vibe lands, we'll codify the tokens and start migrating real pages.
-        </p>
-        <div className={styles.notes}>
-          <div className={styles.noteCard} style={{ ['--noteAccent' as string]: '#a855f7' }}>
-            <div className={styles.noteTitle}>Color</div>
+      <section className={styles.section}>
+        <div className={styles.sectionHead}>
+          <div className={styles.sectionTitle}>Tracks</div>
+          <div className={styles.sectionCount}>Anyma&apos;s signatures</div>
+        </div>
+        <div className={styles.trackList}>
+          {topTracks.map((t, i) => (
+            <TrackRowPlayful
+              key={i}
+              title={t.title}
+              artist={t.artist}
+              count={t.count}
+              years={t.years}
+              stage={t.stage}
+            />
+          ))}
+        </div>
+      </section>
+
+      <section className={styles.notes}>
+        <div className={styles.notesTitle}>What changed from v1</div>
+        <div className={styles.noteGrid}>
+          <div className={styles.noteCard}>
+            <div className={styles.noteLabel}>Restrained color</div>
             <div className={styles.noteBody}>
-              Warmer background, each DJ/track gets an accent hue. Gradients
-              and radial glows replace flat surfaces.
+              Color is accent, not atmosphere. No gradient backgrounds,
+              no tinted surfaces. White text does the heavy lifting.
             </div>
           </div>
-          <div className={styles.noteCard} style={{ ['--noteAccent' as string]: '#fb923c' }}>
-            <div className={styles.noteTitle}>Shape</div>
+          <div className={styles.noteCard}>
+            <div className={styles.noteLabel}>Tighter density</div>
             <div className={styles.noteBody}>
-              Bigger radii (14–28px). Pills for badges. Circular play buttons.
-              Nothing feels like a data grid anymore.
+              Track rows are a proper list, not isolated cards.
+              Stats are inline, not boxed. Info-dense but scannable.
             </div>
           </div>
-          <div className={styles.noteCard} style={{ ['--noteAccent' as string]: '#34d399' }}>
-            <div className={styles.noteTitle}>Type</div>
+          <div className={styles.noteCard}>
+            <div className={styles.noteLabel}>Editorial type</div>
             <div className={styles.noteBody}>
-              Space Grotesk for display / numbers — more character than Inter
-              alone. Inter stays for body copy.
+              Space Grotesk for display at large sizes.
+              Tight letter-spacing, confident weight. Reads like
+              a music publication, not a dashboard.
             </div>
           </div>
-          <div className={styles.noteCard} style={{ ['--noteAccent' as string]: '#38bdf8' }}>
-            <div className={styles.noteTitle}>Motion</div>
+          <div className={styles.noteCard}>
+            <div className={styles.noteLabel}>Quiet motion</div>
             <div className={styles.noteBody}>
-              Springy hover states (cubic-bezier overshoot). Rows slide, cards
-              lift, play buttons tilt. All CSS — no framer-motion yet.
+              Subtle hover shifts — no springs, no bouncing.
+              Play buttons invert on hover. Rows highlight.
+              Interactions feel calm and intentional.
             </div>
           </div>
         </div>

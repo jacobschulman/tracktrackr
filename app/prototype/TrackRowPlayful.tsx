@@ -5,28 +5,30 @@ type Props = {
   artist: string;
   count: number;
   years: number[];
-  accent: string;
   stage?: string;
 };
 
-export function TrackRowPlayful({ title, artist, count, years, accent, stage }: Props) {
+export function TrackRowPlayful({ title, artist, count, years, stage }: Props) {
   const yearLabel =
     years.length === 1 ? String(years[0]) : `${Math.min(...years)}–${Math.max(...years)}`;
   return (
-    <div className={styles.trackRow} style={{ ['--accent' as string]: accent }}>
-      <button className={styles.playBtn} aria-label={`Play ${title}`}>
+    <div className={styles.trackRow}>
+      <button className={styles.trackPlay} aria-label={`Play ${title}`}>
         <svg viewBox="0 0 24 24" fill="currentColor">
           <path d="M8 5v14l11-7z" />
         </svg>
       </button>
-      <div className={styles.trackMain}>
+      <div className={styles.trackBody}>
         <div className={styles.trackTitle}>{title}</div>
         <div className={styles.trackArtist}>{artist}</div>
       </div>
-      <div className={styles.trackMeta}>
-        {stage && <span className={styles.trackStagePill}>{stage}</span>}
-        <span className={styles.trackYearPill}>{yearLabel}</span>
-        <span className={styles.trackCount}>{count}</span>
+      <div className={styles.trackTags}>
+        {stage && <span className={styles.tag}>{stage}</span>}
+        <span className={styles.tag}>{yearLabel}</span>
+      </div>
+      <div>
+        <div className={styles.trackCount}>{count}</div>
+        <div className={styles.trackCountLabel}>plays</div>
       </div>
     </div>
   );
