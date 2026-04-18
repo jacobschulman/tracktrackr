@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import Link from 'next/link';
 import { loadIndex, getFestivalSummaries, getSetRecordings, fmt } from '@/lib/data';
 import { FestivalBadge } from '@/components/FestivalBadge';
@@ -83,13 +85,11 @@ export default function HomePage() {
     })
     .sort((a, b) => b.maxDate.localeCompare(a.maxDate))[0];
 
-  // --- PLAY NOW: recent sets with recordings ---
+  // --- PLAY NOW: random playable sets from this year ---
   const latestYear = Math.max(...index.years);
-  const recentSets = index.sets
-    .filter(s => s.year === latestYear)
-    .sort((a, b) => b.date.localeCompare(a.date));
 
-  const playableSets: {
+  // Collect ALL playable sets from this year, then shuffle for variety
+  const allPlayable: {
     tlId: string;
     dj: string;
     stage: string;
@@ -102,13 +102,12 @@ export default function HomePage() {
     tracksTotal: number;
   }[] = [];
 
-  for (const s of recentSets) {
-    if (playableSets.length >= 6) break;
+  for (const s of index.sets.filter(s => s.year === latestYear)) {
     const rec = getSetRecordings(s.tlId);
     if (!rec) continue;
     const platform = rec.ytUrl ? 'youtube' : 'soundcloud';
     const url = rec.ytUrl || rec.scUrl!;
-    playableSets.push({
+    allPlayable.push({
       tlId: s.tlId,
       dj: s.dj,
       stage: s.stage,
@@ -121,6 +120,14 @@ export default function HomePage() {
       tracksTotal: s.tracksTotal,
     });
   }
+
+  // Fisher-Yates shuffle so every page load is different
+  for (let i = allPlayable.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [allPlayable[i], allPlayable[j]] = [allPlayable[j], allPlayable[i]];
+  }
+  const playableSets = allPlayable.slice(0, 6);
+  const totalPlayable = allPlayable.length;
 
   // --- TRENDING TRACKS with per-track insights ---
   let allLeaderboard: LeaderboardEntry[] = [];
@@ -188,8 +195,8 @@ export default function HomePage() {
       {playableSets.length > 0 && (
         <div style={{ marginBottom: 32 }}>
           <div className="card-header" style={{ marginBottom: 0 }}>
-            <div className="card-title">Jump In — Recent Sets</div>
-            <Link href="/sets" style={{ fontSize: '0.75rem', color: 'var(--purple-lt)', textDecoration: 'none' }}>All sets &rarr;</Link>
+            <div className="card-title">Jump In</div>
+            <Link href="/sets" style={{ fontSize: '0.75rem', color: 'var(--purple-lt)', textDecoration: 'none' }}>All {totalPlayable} sets from {latestYear} &rarr;</Link>
           </div>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 10, marginTop: 12 }}>
             {playableSets.map(s => (
