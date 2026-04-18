@@ -302,10 +302,10 @@
 
 .trackRow {
   display: grid;
-  grid-template-columns: 28px 1fr auto auto;
+  grid-template-columns: 28px 1fr auto auto auto;
   align-items: center;
-  gap: 14px;
-  padding: 12px 14px;
+  gap: 16px;
+  padding: 14px 16px;
   border-radius: 8px;
   transition: background 150ms ease;
   cursor: pointer;
@@ -359,37 +359,81 @@
   color: var(--text-3);
 }
 
-.trackTags {
+/* Inline insights — the differentiator */
+.trackInsights {
   display: flex;
   align-items: center;
   gap: 4px;
-}
-
-.tag {
-  padding: 3px 8px;
-  border-radius: 4px;
-  background: rgba(255,255,255,0.04);
-  font-size: 11px;
-  font-weight: 500;
+  font-size: 12px;
   color: var(--text-3);
   white-space: nowrap;
 }
 
+.insight {}
+
+.insightNum {
+  font-weight: 700;
+  color: var(--text-2);
+  font-variant-numeric: tabular-nums;
+}
+
+.insightDot {
+  color: var(--border);
+}
+
+/* Last played context */
+.trackLastPlay {
+  text-align: right;
+  min-width: 0;
+}
+
+.lastPlayLine {
+  font-size: 12px;
+  color: var(--text-3);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.lastPlayLine strong {
+  color: var(--text-2);
+  font-weight: 600;
+}
+
+.lastPlaySub {
+  font-size: 11px;
+  color: var(--text-3);
+  opacity: 0.7;
+  white-space: nowrap;
+}
+
+/* Count + trend */
+.trackCountWrap {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  min-width: 52px;
+  justify-content: flex-end;
+}
+
 .trackCount {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 700;
   font-variant-numeric: tabular-nums;
   color: var(--text);
   text-align: right;
-  min-width: 20px;
 }
 
-.trackCountLabel {
-  font-size: 10px;
-  font-weight: 500;
-  color: var(--text-3);
-  text-align: right;
+.trackTrend {
+  font-size: 12px;
+  font-weight: 700;
+  width: 16px;
+  text-align: center;
 }
+
+.trendUp { color: #6ee7b7; }
+.trendDown { color: #fca5a5; }
+.trendFlat { color: var(--text-3); }
 
 /* ── Notes ──────────────────────────────────────── */
 
@@ -437,5 +481,6 @@
   .djCard:first-child { grid-row: auto; }
   .trackRow { grid-template-columns: 1fr auto; gap: 8px; }
   .trackPlay { display: none; }
-  .trackTags { display: none; }
+  .trackInsights { display: none; }
+  .trackLastPlay { display: none; }
 }
