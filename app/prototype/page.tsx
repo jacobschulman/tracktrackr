@@ -60,11 +60,10 @@ export default function PrototypePage() {
           <div className={styles.sectionCount}>{djs.length} shown</div>
         </div>
         <div className={styles.djGrid}>
-          {djs.map(({ data, accent }) => (
+          {djs.map(({ data, accent }, i) => (
             <DJCardPlayful
               key={data.name}
               name={data.name}
-              initial={data.name[0]}
               accent={accent}
               streak={data.streak}
               totalSets={data.totalSets}
@@ -72,6 +71,7 @@ export default function PrototypePage() {
               idRate={data.idRate}
               signatureTracks={data.signatureTracks}
               festivals={data.festivals}
+              featured={i === 0}
             />
           ))}
         </div>

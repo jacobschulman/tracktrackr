@@ -4,7 +4,6 @@ type SigTrack = { artist: string; title: string; count: number };
 
 type Props = {
   name: string;
-  initial: string;
   accent: string;
   streak?: number;
   totalSets: number;
@@ -12,11 +11,11 @@ type Props = {
   idRate: number;
   signatureTracks: SigTrack[];
   festivals: string[];
+  featured?: boolean;
 };
 
 export function DJCardPlayful({
   name,
-  initial,
   accent,
   streak,
   totalSets,
@@ -24,11 +23,12 @@ export function DJCardPlayful({
   idRate,
   signatureTracks,
   festivals,
+  featured,
 }: Props) {
+  const trackCount = featured ? 5 : 3;
   return (
     <article className={styles.djCard} style={{ ['--card-accent' as string]: accent }}>
       <div className={styles.djTop}>
-        <div className={styles.djInitial}>{initial}</div>
         <div className={styles.djInfo}>
           <div className={styles.djName}>{name}</div>
           <div className={styles.djMeta}>
@@ -59,7 +59,7 @@ export function DJCardPlayful({
       </div>
 
       <div className={styles.djTracksLabel}>Top tracks</div>
-      {signatureTracks.slice(0, 3).map((t, i) => (
+      {signatureTracks.slice(0, trackCount).map((t, i) => (
         <div key={i} className={styles.djTrack}>
           <span className={styles.djTrackNum}>{i + 1}</span>
           <div className={styles.djTrackBody}>

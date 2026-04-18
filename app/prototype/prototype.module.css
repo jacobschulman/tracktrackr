@@ -1,16 +1,16 @@
 /* ═══════════════════════════════════════════════════
-   Prototype v2 — Editorial / music-forward
+   Prototype v3 — Editorial, textured, not-Spotify
    ═══════════════════════════════════════════════════ */
 
 .root {
-  --bg:       #09090b;
-  --surface:  #131316;
-  --surface2: #1c1c21;
-  --border:   #27272a;
-  --text:     #fafafa;
-  --text-2:   #a1a1aa;
-  --text-3:   #71717a;
-  --accent:   #a78bfa;
+  --bg:       #0c0e14;
+  --surface:  #141722;
+  --surface2: #1a1e2c;
+  --border:   #232838;
+  --text:     #eef0f6;
+  --text-2:   #9ba1b5;
+  --text-3:   #5f6680;
+  --accent:   #c4b5fd;
 
   background: var(--bg);
   color: var(--text);
@@ -19,13 +19,29 @@
   max-width: 1400px;
   margin: 0 auto;
   -webkit-font-smoothing: antialiased;
+  position: relative;
 }
+
+/* Subtle film grain — breaks the "clean digital" feel */
+.root::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  opacity: 0.03;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 256px 256px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.root > * { position: relative; z-index: 1; }
 
 /* ── Hero ───────────────────────────────────────── */
 
 .hero {
-  margin-bottom: 64px;
-  padding-bottom: 48px;
+  margin-bottom: 56px;
+  padding-bottom: 40px;
   border-bottom: 1px solid var(--border);
 }
 
@@ -39,16 +55,15 @@
 }
 
 .heroTitle {
-  font-family: 'Inter', system-ui, sans-serif;
   font-size: clamp(48px, 7vw, 80px);
-  font-weight: 700;
+  font-weight: 800;
   letter-spacing: -0.04em;
   line-height: 0.9;
   margin-bottom: 20px;
 }
 
 .heroSub {
-  font-size: 17px;
+  font-size: 16px;
   color: var(--text-2);
   line-height: 1.6;
   max-width: 480px;
@@ -64,18 +79,18 @@
   display: flex;
   align-items: baseline;
   gap: 12px;
-  margin-bottom: 24px;
+  margin-bottom: 20px;
 }
 
 .sectionTitle {
-  font-family: 'Inter', system-ui, sans-serif;
-  font-size: 22px;
+  font-size: 15px;
   font-weight: 700;
-  letter-spacing: -0.02em;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 
 .sectionCount {
-  font-size: 14px;
+  font-size: 13px;
   color: var(--text-3);
 }
 
@@ -83,50 +98,61 @@
 
 .djGrid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1.2fr 1fr 1fr;
   gap: 12px;
+  align-items: start;
 }
 
 .djCard {
   background: var(--surface);
   border: 1px solid var(--border);
-  border-radius: 16px;
-  padding: 28px;
+  border-radius: 12px;
+  padding: 24px;
   transition: border-color 200ms ease, background 200ms ease;
   cursor: pointer;
+  position: relative;
+}
+
+/* Colored left accent stripe instead of avatar circle */
+.djCard::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 16px; bottom: 16px;
+  width: 3px;
+  border-radius: 0 3px 3px 0;
+  background: var(--card-accent, var(--accent));
 }
 
 .djCard:hover {
-  border-color: #3f3f46;
+  border-color: #343a4f;
   background: var(--surface2);
+}
+
+/* Featured first card */
+.djCard:first-child {
+  grid-row: 1 / 3;
+}
+
+.djCard:first-child .djName {
+  font-size: 28px;
+  margin-bottom: 4px;
+}
+
+.djCard:first-child .djStatNum {
+  font-size: 36px;
 }
 
 .djTop {
   display: flex;
-  align-items: center;
-  gap: 16px;
-  margin-bottom: 20px;
-}
-
-.djInitial {
-  width: 48px;
-  height: 48px;
-  border-radius: 12px;
-  background: var(--card-accent, var(--accent));
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Inter', system-ui, sans-serif;
-  font-size: 20px;
-  font-weight: 700;
-  color: #09090b;
-  flex-shrink: 0;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  padding-left: 12px;
 }
 
 .djInfo { flex: 1; min-width: 0; }
 
 .djName {
-  font-family: 'Inter', system-ui, sans-serif;
   font-size: 20px;
   font-weight: 700;
   letter-spacing: -0.02em;
@@ -148,9 +174,9 @@
 
 .djStats {
   display: flex;
-  gap: 24px;
-  margin-bottom: 20px;
-  padding: 16px 0;
+  gap: 20px;
+  margin-bottom: 16px;
+  padding: 14px 0 14px 12px;
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
 }
@@ -158,8 +184,7 @@
 .djStat {}
 
 .djStatNum {
-  font-family: 'Inter', system-ui, sans-serif;
-  font-size: 28px;
+  font-size: 24px;
   font-weight: 700;
   letter-spacing: -0.02em;
   line-height: 1;
@@ -167,34 +192,38 @@
 }
 
 .djStatLabel {
-  font-size: 11px;
+  font-size: 10px;
   color: var(--text-3);
   text-transform: uppercase;
   letter-spacing: 0.06em;
   font-weight: 500;
-  margin-top: 4px;
+  margin-top: 3px;
 }
 
 .djTracksLabel {
-  font-size: 11px;
+  font-size: 10px;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.06em;
   color: var(--text-3);
-  margin-bottom: 10px;
+  margin-bottom: 6px;
+  padding-left: 12px;
 }
 
 .djTrack {
   display: flex;
   align-items: flex-start;
-  gap: 10px;
-  padding: 10px 0;
-  font-size: 14px;
-  transition: padding-left 150ms ease;
+  gap: 8px;
+  padding: 8px 0 8px 12px;
+  font-size: 13px;
+  transition: background 150ms ease;
+  border-radius: 6px;
+  margin: 0 -4px;
+  padding-right: 4px;
 }
 
 .djTrack:hover {
-  padding-left: 4px;
+  background: rgba(255,255,255,0.03);
 }
 
 .djTrack + .djTrack {
@@ -202,10 +231,10 @@
 }
 
 .djTrackNum {
-  font-size: 12px;
+  font-size: 11px;
   color: var(--text-3);
   font-variant-numeric: tabular-nums;
-  width: 16px;
+  width: 14px;
   padding-top: 2px;
   flex-shrink: 0;
 }
@@ -221,14 +250,14 @@
 }
 
 .djTrackArtist {
-  font-size: 13px;
+  font-size: 12px;
   color: var(--text-3);
   line-height: 1.3;
   margin-top: 1px;
 }
 
 .djTrackCount {
-  font-size: 13px;
+  font-size: 12px;
   font-weight: 600;
   color: var(--text-2);
   font-variant-numeric: tabular-nums;
@@ -239,23 +268,25 @@
 .djFestivals {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px;
-  margin-top: 16px;
+  gap: 4px;
+  margin-top: 14px;
+  padding-left: 12px;
 }
 
 .festChip {
-  padding: 5px 12px;
-  border-radius: 8px;
-  background: rgba(255,255,255,0.05);
-  font-size: 12px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  background: rgba(255,255,255,0.04);
+  font-size: 11px;
   font-weight: 500;
-  color: var(--text-2);
+  color: var(--text-3);
   text-transform: capitalize;
-  transition: background 150ms ease;
+  transition: all 150ms ease;
 }
 
 .festChip:hover {
-  background: rgba(255,255,255,0.1);
+  background: rgba(255,255,255,0.08);
+  color: var(--text-2);
 }
 
 /* ── Track Row ──────────────────────────────────── */
@@ -263,39 +294,34 @@
 .trackList {
   display: flex;
   flex-direction: column;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 4px;
 }
 
 .trackRow {
   display: grid;
-  grid-template-columns: 32px 1fr auto auto;
+  grid-template-columns: 28px 1fr auto auto;
   align-items: center;
-  gap: 16px;
-  padding: 14px 16px;
-  border-radius: 10px;
+  gap: 14px;
+  padding: 12px 14px;
+  border-radius: 8px;
   transition: background 150ms ease;
   cursor: pointer;
 }
 
 .trackRow:hover {
-  background: var(--surface);
-}
-
-.trackRow + .trackRow {
-  border-top: 1px solid rgba(255,255,255,0.04);
-}
-
-.trackRow:hover + .trackRow,
-.trackRow + .trackRow:hover {
-  border-top-color: transparent;
+  background: rgba(255,255,255,0.03);
 }
 
 .trackPlay {
-  width: 32px;
-  height: 32px;
+  width: 28px;
+  height: 28px;
   border-radius: 50%;
   background: transparent;
   border: 1.5px solid var(--text-3);
-  color: var(--text-2);
+  color: var(--text-3);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -306,8 +332,8 @@
 }
 
 .trackPlay svg {
-  width: 12px;
-  height: 12px;
+  width: 10px;
+  height: 10px;
   margin-left: 1px;
 }
 
@@ -322,33 +348,27 @@
 }
 
 .trackTitle {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 600;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
   letter-spacing: -0.01em;
   margin-bottom: 1px;
 }
 
 .trackArtist {
-  font-size: 13px;
+  font-size: 12px;
   color: var(--text-3);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 .trackTags {
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: 4px;
 }
 
 .tag {
   padding: 3px 8px;
-  border-radius: 6px;
-  background: rgba(255,255,255,0.05);
+  border-radius: 4px;
+  background: rgba(255,255,255,0.04);
   font-size: 11px;
   font-weight: 500;
   color: var(--text-3);
@@ -356,8 +376,7 @@
 }
 
 .trackCount {
-  font-family: 'Inter', system-ui, sans-serif;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 700;
   font-variant-numeric: tabular-nums;
   color: var(--text);
@@ -366,45 +385,11 @@
 }
 
 .trackCountLabel {
-  font-size: 11px;
+  font-size: 10px;
   font-weight: 500;
   color: var(--text-3);
   text-align: right;
 }
-
-/* ── Side-by-side comparison ────────────────────── */
-
-.versus {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2px;
-  border-radius: 16px;
-  overflow: hidden;
-  margin-bottom: 56px;
-}
-
-.versusPanel {
-  padding: 32px;
-}
-
-.versusOld {
-  background: #0a0a0f;
-}
-
-.versusNew {
-  background: var(--surface);
-}
-
-.versusLabel {
-  font-size: 11px;
-  font-weight: 600;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  margin-bottom: 20px;
-}
-
-.versusLabelOld { color: var(--text-3); }
-.versusLabelNew { color: var(--accent); }
 
 /* ── Notes ──────────────────────────────────────── */
 
@@ -414,21 +399,22 @@
 }
 
 .notesTitle {
-  font-family: 'Inter', system-ui, sans-serif;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 700;
-  margin-bottom: 24px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-bottom: 20px;
 }
 
 .noteGrid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
 }
 
 .noteCard {
-  padding: 20px;
-  border-radius: 12px;
+  padding: 18px;
+  border-radius: 10px;
   background: var(--surface);
   border: 1px solid var(--border);
 }
@@ -436,19 +422,19 @@
 .noteLabel {
   font-size: 13px;
   font-weight: 600;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
 }
 
 .noteBody {
-  font-size: 13px;
+  font-size: 12px;
   color: var(--text-3);
   line-height: 1.55;
 }
 
-@media (max-width: 860px) {
+@media (max-width: 960px) {
   .root { padding: 24px 16px 60px; }
   .djGrid { grid-template-columns: 1fr; }
-  .versus { grid-template-columns: 1fr; }
+  .djCard:first-child { grid-row: auto; }
   .trackRow { grid-template-columns: 1fr auto; gap: 8px; }
   .trackPlay { display: none; }
   .trackTags { display: none; }
