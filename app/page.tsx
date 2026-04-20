@@ -80,9 +80,9 @@ export default function HomePage() {
       const maxDate = fSets.reduce((max, s) => s.date > max ? s.date : max, '');
       const maxYear = fSets.reduce((max, s) => s.year > max ? s.year : max, 0);
       const latestYearSets = fSets.filter(s => s.year === maxYear);
-      const hasW1 = latestYearSets.some(s => /-weekend-1\b/i.test(s.url || ''));
-      const hasW2 = latestYearSets.some(s => /-weekend-2\b/i.test(s.url || ''));
-      const weekendLabel = hasW1 && !hasW2 ? 'Weekend 1' : !hasW1 && hasW2 ? 'Weekend 2' : '';
+      const hasW1 = latestYearSets.some(s => s.weekend === 1);
+      const hasW2 = latestYearSets.some(s => s.weekend === 2);
+      const weekendLabel = hasW1 && !hasW2 ? 'Weekend 1' : hasW1 && hasW2 ? 'Both Weekends' : !hasW1 && hasW2 ? 'Weekend 2' : '';
       return { ...f, maxDate, maxYear, setCount: latestYearSets.length, weekendLabel };
     })
     .sort((a, b) => b.maxDate.localeCompare(a.maxDate))[0];

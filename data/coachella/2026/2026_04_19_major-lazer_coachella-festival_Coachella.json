@@ -1,0 +1,878 @@
+{
+  "tlId": "2jq5zs9t",
+  "dj": "Major Lazer",
+  "stage": "Coachella Festival",
+  "date": "2026-04-19",
+  "year": 2026,
+  "url": "https://www.1001tracklists.com/tracklist/2jq5zs9t/major-lazer-coachella-stage-coachella-festival-weekend-2-united-states-2026-04-19.html",
+  "djs": [
+    {
+      "name": "Major Lazer",
+      "slug": "majorlazer"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Major Lazer",
+      "title": "ID",
+      "remix": "(Lazer Sound 2026 Intro)",
+      "label": "",
+      "trackId": "13776976",
+      "row": 1,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Major Lazer",
+          "title": "ID",
+          "remix": "(Lazer Sound 2026 Intro)",
+          "trackId": "13776976"
+        },
+        {
+          "artist": "Major Lazer ft. America Foster & Bunji Garlin",
+          "title": "GOAT",
+          "remix": "",
+          "trackId": "13776977"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Major Lazer ft. America Foster & Bunji Garlin",
+      "title": "GOAT",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "13776977",
+      "row": 1,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1142657",
+        "youtube": "1142657",
+        "soundcloud": "1142657",
+        "appleMusic": "1142657"
+      },
+      "blendGroup": [
+        {
+          "artist": "Major Lazer ft. America Foster & Bunji Garlin",
+          "title": "GOAT",
+          "remix": "",
+          "trackId": "13776977"
+        },
+        {
+          "artist": "Major Lazer ft. America Foster & Bunji Garlin",
+          "title": "GOAT (VIP)",
+          "remix": "",
+          "trackId": "13776978"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Major Lazer ft. America Foster & Bunji Garlin",
+      "title": "GOAT (VIP)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "13776978",
+      "row": 1,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": null
+    },
+    {
+      "pos": "02",
+      "artist": "Zombie Nation vs. CHRYSTAL & NOTION & Major Lazer",
+      "title": "Kernkraft 404 vs. The Days (Major Lazer Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13776979",
+      "row": 2,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "03",
+      "artist": "Major Lazer ft. Parris Goebel & America Foster & SadBoi",
+      "title": "Bruk Down",
+      "remix": "",
+      "label": "DOWNTOWN",
+      "trackId": "13776983",
+      "row": 3,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1130242",
+        "youtube": "1130242",
+        "soundcloud": "1130242",
+        "appleMusic": "1130242"
+      },
+      "blendGroup": [
+        {
+          "artist": "Major Lazer ft. Parris Goebel & America Foster & SadBoi",
+          "title": "Bruk Down",
+          "remix": "",
+          "trackId": "13776983"
+        },
+        {
+          "artist": "Major Lazer ft. Parris Goebel & America Foster & SadBoi",
+          "title": "Bruk Down (DJ Fade Remix)",
+          "remix": "",
+          "trackId": "13776984"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Major Lazer ft. Parris Goebel & America Foster & SadBoi",
+      "title": "Bruk Down (DJ Fade Remix)",
+      "remix": "",
+      "label": "DOWNTOWN",
+      "trackId": "13776984",
+      "row": 3,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": null
+    },
+    {
+      "pos": "04",
+      "artist": "DJ MERCER & DJ Snake",
+      "title": "Lunatic (Acappella)",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "13776985",
+      "row": 4,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "171632",
+        "youtube": "240808",
+        "soundcloud": "171632",
+        "appleMusic": "171632"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ MERCER & DJ Snake",
+          "title": "Lunatic (Acappella)",
+          "remix": "",
+          "trackId": "13776985"
+        },
+        {
+          "artist": "Major Lazer ft. Tokischa",
+          "title": "PAPI",
+          "remix": "",
+          "trackId": "13776986"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Major Lazer ft. Tokischa",
+      "title": "PAPI",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "13776986",
+      "row": 4,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": null
+    },
+    {
+      "pos": "05",
+      "artist": "Pavo & Zany",
+      "title": "Here We Go (Major Lazer Remix)",
+      "remix": "",
+      "label": "FUSION RECORDS",
+      "trackId": "13776987",
+      "row": 5,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "Anyma & Argy & Son Of Son",
+      "title": "Voices In My Head",
+      "remix": "",
+      "label": "THE END OF GENESYS/INTERSCOPE",
+      "trackId": "13776988",
+      "row": 6,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1049761",
+        "youtube": "1049761",
+        "soundcloud": "1049761",
+        "appleMusic": "1049761"
+      },
+      "blendGroup": [
+        {
+          "artist": "Anyma & Argy & Son Of Son",
+          "title": "Voices In My Head",
+          "remix": "",
+          "trackId": "13776988"
+        },
+        {
+          "artist": "Major Lazer ft. Vybz Kartel",
+          "title": "Pon De Floor(Co-Prod. by AFROJACK) (VIP)",
+          "remix": "",
+          "trackId": "13776989"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Major Lazer ft. Vybz Kartel",
+      "title": "Pon De Floor(Co-Prod. by AFROJACK) (VIP)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "13776989",
+      "row": 6,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": null
+    },
+    {
+      "pos": "07",
+      "artist": "ENUR ft. Natasja",
+      "title": "Calabria (Major Lazer Remix)",
+      "remix": "",
+      "label": "SCORPIO",
+      "trackId": "13776990",
+      "row": 7,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ENUR ft. Natasja",
+          "title": "Calabria (Major Lazer Remix)",
+          "remix": "",
+          "trackId": "13776990"
+        },
+        {
+          "artist": "Masters At Work",
+          "title": "Work (Acappella)",
+          "remix": "",
+          "trackId": "13776991"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Masters At Work",
+      "title": "Work (Acappella)",
+      "remix": "",
+      "label": "MAW",
+      "trackId": "13776991",
+      "row": 7,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "2033",
+        "youtube": "8350",
+        "soundcloud": "2033",
+        "appleMusic": "2033"
+      }
+    },
+    {
+      "pos": "08",
+      "artist": "Major Lazer ft. America Foster",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13776992",
+      "row": 8,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Major Lazer ft. America Foster",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13776992"
+        },
+        {
+          "artist": "Masters At Work",
+          "title": "Work (Acappella)",
+          "remix": "",
+          "trackId": "13776993"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Masters At Work",
+      "title": "Work (Acappella)",
+      "remix": "",
+      "label": "MAW",
+      "trackId": "13776993",
+      "row": 8,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "2033",
+        "youtube": "8350",
+        "soundcloud": "2033",
+        "appleMusic": "2033"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "Charly Black & J Capri",
+      "title": "Whine & Kotch (Major Lazer Dub)",
+      "remix": "",
+      "label": "21ST HAPILOS",
+      "trackId": "13776994",
+      "row": 9,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "Major Lazer & Busy Signal & The Flexican & FS Green & Dimitri Vegas & Like Mike vs. Bingo Players vs. Blur vs. Darude",
+      "title": "Bumaye vs. Rattle vs. Song 2 vs. Jump vs. Sandstorm (Major Lazer Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13776995",
+      "row": 10,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "Major Lazer ft. Busy Signal",
+      "title": "Jump (VIP)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "13777000",
+      "row": 11,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "12",
+      "artist": "Major Lazer ft. J Balvin & El Alfa",
+      "title": "Que Calor (Vrod Beatz & Ktak Remix)",
+      "remix": "",
+      "label": "",
+      "trackId": "13777001",
+      "row": 12,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "youtube": "573987",
+        "soundcloud": "573987"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "Sean Paul",
+      "title": "Temperature (Serg Sniper Baile Funk Edit)",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "13777002",
+      "row": 13,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "youtube": "1130011"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Major Lazer",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13777003",
+      "row": 14,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "15",
+      "artist": "Major Lazer ft. America Foster",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13777004",
+      "row": 15,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "16",
+      "artist": "Major Lazer",
+      "title": "MINI SKIRT",
+      "remix": "",
+      "label": "",
+      "trackId": "13777005",
+      "row": 16,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "13777005",
+        "youtube": "13777005",
+        "soundcloud": "13777005",
+        "appleMusic": "13777005"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "17",
+      "artist": "House Of Pain vs. Major Lazer & America Foster & DJ Chipman",
+      "title": "Jump Around vs. JUMP & TWIST (Major Lazer Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13777006",
+      "row": 17,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "House Of Pain vs. Major Lazer & America Foster & DJ Chipman",
+          "title": "Jump Around vs. JUMP & TWIST (Major Lazer Edit)",
+          "remix": "",
+          "trackId": "13777006"
+        },
+        {
+          "artist": "Josh Wink",
+          "title": "Higher State Of Consciousness",
+          "remix": "",
+          "trackId": "13777007"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Josh Wink",
+      "title": "Higher State Of Consciousness",
+      "remix": "",
+      "label": "STRICTLY RHYTHM",
+      "trackId": "13777007",
+      "row": 17,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1204",
+        "youtube": "1204",
+        "soundcloud": "1204",
+        "appleMusic": "1204"
+      },
+      "blendGroup": [
+        {
+          "artist": "Josh Wink",
+          "title": "Higher State Of Consciousness",
+          "remix": "",
+          "trackId": "13777007"
+        },
+        {
+          "artist": "French Montana ft. Rick Ross & Drake & Lil Wayne",
+          "title": "Pop That (Acappella)",
+          "remix": "",
+          "trackId": "13777008"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "French Montana ft. Rick Ross & Drake & Lil Wayne",
+      "title": "Pop That (Acappella)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "13777008",
+      "row": 17,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "129779",
+        "youtube": "129779",
+        "soundcloud": "129779",
+        "appleMusic": "129779"
+      }
+    },
+    {
+      "pos": "18",
+      "artist": "Major Lazer & The Partysquad & Party Favor & Lights Out vs. Skrillex & Fred again.. & Flowdan & RIOT vs. Yellow Claw & ARMNHMR & nmgKeymo",
+      "title": "Original Don vs. Rumble vs. Keep Your Hands Up (Major Lazer Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13777009",
+      "row": 18,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "John Summit",
+      "title": "LIGHTS GO OUT (Major Lazer Remix)",
+      "remix": "",
+      "label": "EXPERTS ONLY/DARKROOM REC.",
+      "trackId": "13777010",
+      "row": 19,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1163778",
+        "youtube": "1163778",
+        "soundcloud": "1163778",
+        "appleMusic": "1163778"
+      },
+      "blendGroup": [
+        {
+          "artist": "John Summit",
+          "title": "LIGHTS GO OUT (Major Lazer Remix)",
+          "remix": "",
+          "trackId": "13777010"
+        },
+        {
+          "artist": "John Summit",
+          "title": "LIGHTS GO OUT (Major Lazer VIP Remix)",
+          "remix": "",
+          "trackId": "13777047"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "John Summit",
+      "title": "LIGHTS GO OUT (Major Lazer VIP Remix)",
+      "remix": "",
+      "label": "EXPERTS ONLY",
+      "trackId": "13777047",
+      "row": 19,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": null
+    },
+    {
+      "pos": "20",
+      "artist": "BLACKPINK",
+      "title": "JUMP (Major Lazer Dubplate)",
+      "remix": "",
+      "label": "YG",
+      "trackId": "13777062",
+      "row": 20,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "BLACKPINK",
+          "title": "JUMP (Major Lazer Dubplate)",
+          "remix": "",
+          "trackId": "13777062"
+        },
+        {
+          "artist": "Travis Scott ft. Juice WRLD & Sheck Wes",
+          "title": "NO BYSTANDERS",
+          "remix": "(Acappella)",
+          "trackId": "13777063"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Travis Scott ft. Juice WRLD & Sheck Wes",
+      "title": "NO BYSTANDERS",
+      "remix": "(Acappella)",
+      "label": "EPIC (SONY BMG)",
+      "trackId": "13777063",
+      "row": 20,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "436460",
+        "youtube": "436460",
+        "soundcloud": "436460",
+        "appleMusic": "436460"
+      }
+    },
+    {
+      "pos": "21",
+      "artist": "Musical Youth vs. Yeah Yeah Yeahs & A-Trak vs. Major Lazer vs. Good Times Ahead",
+      "title": "Pass The Dutchie vs. Heads Will Roll The Bass vs. Head Off (Major Lazer Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13777064",
+      "row": 21,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "Eptic & Breaux vs. Crime Mob & Lil Scrappy vs. Pickle vs. Jack Ü",
+      "title": "The End vs. Knuck If You Buck vs. Crank That vs. Boi To Get Low (Major Lazer Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13777068",
+      "row": 22,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "23",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13777011",
+      "row": 23,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13777011"
+        },
+        {
+          "artist": "GTA & Diplo",
+          "title": "Boy Oh Boy (Acappella)",
+          "remix": "",
+          "trackId": "13777073"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "GTA & Diplo",
+      "title": "Boy Oh Boy (Acappella)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "13777073",
+      "row": 23,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "117721",
+        "youtube": "117721",
+        "soundcloud": "117721",
+        "appleMusic": "117721"
+      }
+    },
+    {
+      "pos": "24",
+      "artist": "Major Lazer & Busy Signal & Kybba vs. Chaka Demus & Pliers",
+      "title": "GANGSTA vs. Murder She Wrote (Major Lazer Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13777074",
+      "row": 24,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "Moliy & Silent Addy & Major Lazer vs. Snoop Dogg & Pharrell",
+      "title": "Shake It To The Max (Fly) vs. Drop It Like It's Hot (Major Lazer Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13777077",
+      "row": 25,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Major Lazer ft. America Foster",
+      "title": "PEPPA POT",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "13777081",
+      "row": 26,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1166750",
+        "youtube": "1166750",
+        "soundcloud": "1166750",
+        "appleMusic": "1166750"
+      },
+      "blendGroup": [
+        {
+          "artist": "Major Lazer ft. America Foster",
+          "title": "PEPPA POT",
+          "remix": "",
+          "trackId": "13777081"
+        },
+        {
+          "artist": "Sean Paul",
+          "title": "Gimme The Light",
+          "remix": "",
+          "trackId": "13778440"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sean Paul",
+      "title": "Gimme The Light",
+      "remix": "",
+      "label": "WARNER MUSIC",
+      "trackId": "13778440",
+      "row": 26,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "38185",
+        "youtube": "38185",
+        "soundcloud": "38185",
+        "appleMusic": "38185"
+      }
+    },
+    {
+      "pos": "27",
+      "artist": "Bad Bunny & Daddy Yankee",
+      "title": "Yo Perreo Sola vs. Gasolina (Major Lazer Hype Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13777082",
+      "row": 27,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Major Lazer & DJ Snake ft. MØ/index.html\" class=\"notranslate tgHid\">�",
+      "title": "Lean On",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "13777085",
+      "row": 28,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "241988",
+        "youtube": "241988",
+        "soundcloud": "241988",
+        "appleMusic": "241988"
+      },
+      "blendGroup": [
+        {
+          "artist": "Major Lazer & DJ Snake ft. MØ/index.html\" class=\"notranslate tgHid\">�",
+          "title": "Lean On",
+          "remix": "",
+          "trackId": "13777085"
+        },
+        {
+          "artist": "Major Lazer & DJ Snake ft. MØ/index.html\" class=\"notranslate tgHid\">�",
+          "title": "Lean On (VIP Mix)",
+          "remix": "",
+          "trackId": "13777086"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Major Lazer & DJ Snake ft. MØ/index.html\" class=\"notranslate tgHid\">�",
+      "title": "Lean On (VIP Mix)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "13777086",
+      "row": 28,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "youtube": "311582"
+      },
+      "blendGroup": [
+        {
+          "artist": "Major Lazer & DJ Snake ft. MØ/index.html\" class=\"notranslate tgHid\">�",
+          "title": "Lean On (VIP Mix)",
+          "remix": "",
+          "trackId": "13777086"
+        },
+        {
+          "artist": "Major Lazer ft. Busy Signal & The Flexican & FS Green",
+          "title": "Watch Out For This (Bumaye)",
+          "remix": "",
+          "trackId": "13777087"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Major Lazer ft. Busy Signal & The Flexican & FS Green",
+      "title": "Watch Out For This (Bumaye)",
+      "remix": "",
+      "label": "MAD DECENT",
+      "trackId": "13777087",
+      "row": 28,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "62572",
+        "youtube": "62572",
+        "soundcloud": "62572",
+        "appleMusic": "62572"
+      }
+    },
+    {
+      "pos": "29",
+      "artist": "Major Lazer & Nyla & Fuse ODG vs. Quintino vs. Good Times Ahead & 4B",
+      "title": "Light It Up vs. Magnificent (Major Lazer Edit)",
+      "remix": "",
+      "label": "MAD DECENT/ULTRA",
+      "trackId": "13777091",
+      "row": 29,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "Major Lazer & Justin Bieber & MØ vs. Jack Ü",
+      "title": "Cold Water vs. Get Free / Cinema (VIP) (Major Lazer Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13777092",
+      "row": 30,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-20T13:52:25.595Z",
+  "scrapeVersion": 2
+}

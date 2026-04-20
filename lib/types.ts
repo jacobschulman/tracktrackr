@@ -20,6 +20,7 @@ export interface SetMeta {
   likes: number;
   url: string;
   hasSetFile: boolean;
+  weekend: number | null;
   festival: string;
   festivalName: string;
 }
