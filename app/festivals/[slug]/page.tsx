@@ -376,13 +376,15 @@ export default async function FestivalDetailPage({ params }: { params: Promise<{
                 <div className="card-title">Top Tracks &mdash; {latestYear}</div>
                 <span style={{ fontSize: '0.75rem', color: 'var(--muted)' }}>Top 10</span>
               </div>
-              {spotlight.topTracks.map((t, i) => {
-                const rank = i + 1;
+              {(() => {
+                let currentRank = 1;
+                return spotlight.topTracks.map((t, i) => {
+                if (i > 0 && t.playCount < spotlight.topTracks[i - 1].playCount) currentRank = i + 1;
                 const maxPlay = spotlight.topTracks[0]?.playCount ?? 1;
                 const pct = (t.playCount / maxPlay) * 100;
                 return (
                   <Link key={t.key} href={`/track/${trackSlug(t.artist, t.title)}`} className="leaderboard-row" style={{ textDecoration: 'none', cursor: 'pointer' }}>
-                    <div className={`leaderboard-rank ${rank <= 3 ? 'top3' : ''}`}>{rank}</div>
+                    <div className={`leaderboard-rank ${currentRank <= 3 ? 'top3' : ''}`}>{currentRank}</div>
                     <div className="leaderboard-info">
                       <div className="leaderboard-name">{t.artist} &mdash; {t.title}</div>
                       <div className="leaderboard-meta"><span>{t.djs.length} DJ{t.djs.length !== 1 ? 's' : ''}</span></div>
@@ -395,7 +397,8 @@ export default async function FestivalDetailPage({ params }: { params: Promise<{
                     <SpotifyButton artist={t.artist} title={t.title} />
                   </Link>
                 );
-              })}
+              });
+              })()}
             </div>
           )}
 

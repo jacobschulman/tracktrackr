@@ -357,8 +357,8 @@ export default function HomePage() {
             <div className="card-title">Most Played in {latestYear}</div>
             <Link href="/tracks" style={{ fontSize: '0.75rem', color: 'var(--purple-lt)', textDecoration: 'none' }}>View all &rarr;</Link>
           </div>
-          {thisYearRows.map(({ entry, insight, yearCount, lastPlay }, i) => {
-            const rank = i + 1;
+          {(() => { let rank = 1; return thisYearRows.map(({ entry, insight, yearCount, lastPlay }, i) => {
+            if (i > 0 && yearCount < thisYearRows[i - 1].yearCount) rank = i + 1;
             const pct = (yearCount / maxPlayThisYear) * 100;
             return (
               <Link
@@ -390,7 +390,7 @@ export default function HomePage() {
                 <SpotifyButton artist={entry.artist} title={entry.title} />
               </Link>
             );
-          })}
+          }); })()}
         </div>
       )}
 
@@ -401,8 +401,8 @@ export default function HomePage() {
             <div className="card-title">Most Played All Time</div>
             <Link href="/tracks" style={{ fontSize: '0.75rem', color: 'var(--purple-lt)', textDecoration: 'none' }}>View all &rarr;</Link>
           </div>
-          {allTimeRows.map(({ entry, insight, lastPlay }, i) => {
-            const rank = i + 1;
+          {(() => { let rank = 1; return allTimeRows.map(({ entry, insight, lastPlay }, i) => {
+            if (i > 0 && entry.playCount < allTimeRows[i - 1].entry.playCount) rank = i + 1;
             const maxAll = allTimeRows[0].entry.playCount;
             const pct = (entry.playCount / maxAll) * 100;
             return (
@@ -435,7 +435,7 @@ export default function HomePage() {
                 <SpotifyButton artist={entry.artist} title={entry.title} />
               </Link>
             );
-          })}
+          }); })()}
         </div>
       )}
 
