@@ -5,6 +5,7 @@ import { loadIndex, getFestivalSummaries, getSetRecordings, fmt } from '@/lib/da
 import { FESTIVALS } from '@/lib/festivals';
 import { FestivalBadge } from '@/components/FestivalBadge';
 import { SpotifyButton } from '@/components/SpotifyButton';
+import { HomePlayButton } from './HomePlayButton';
 import fs from 'fs';
 import path from 'path';
 
@@ -216,53 +217,6 @@ export default function HomePage() {
         <span><strong style={{ color: 'var(--text-bright)', fontSize: '1.25rem', fontWeight: 800, fontVariantNumeric: 'tabular-nums' }}>{fmt(index.years.length)}</strong> years</span>
       </div>
 
-      {/* ──── PLAY NOW ──── */}
-      {playableSets.length > 0 && (
-        <div style={{ marginBottom: 32 }}>
-          <div className="card-header" style={{ marginBottom: 0 }}>
-            <div className="card-title">Jump In</div>
-            <Link href="/sets" style={{ fontSize: '0.75rem', color: 'var(--purple-lt)', textDecoration: 'none' }}>All {totalPlayable} sets from {latestYear} &rarr;</Link>
-          </div>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 10, marginTop: 12 }}>
-            {playableSets.map(s => (
-              <Link
-                key={s.tlId}
-                href={`/set/${s.tlId}`}
-                className="card"
-                style={{ display: 'block', textDecoration: 'none', color: 'inherit', padding: '16px 18px' }}
-              >
-                <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: 10 }}>
-                  <div style={{ flex: 1, minWidth: 0 }}>
-                    <div style={{ fontWeight: 700, fontSize: '0.9375rem', marginBottom: 3 }}>{s.dj}</div>
-                    <div style={{ fontSize: '0.75rem', color: 'var(--muted)' }}>
-                      {s.stage} · {new Date(s.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
-                    </div>
-                    {s.tracksTotal > 0 && (
-                      <div style={{ fontSize: '0.6875rem', color: 'var(--muted)', marginTop: 4 }}>
-                        {s.tracksIdentified}/{s.tracksTotal} tracks ID&apos;d
-                      </div>
-                    )}
-                  </div>
-                  <div style={{
-                    width: 36, height: 36, borderRadius: '50%', flexShrink: 0,
-                    display: 'flex', alignItems: 'center', justifyContent: 'center',
-                    background: s.platform === 'youtube' ? 'rgba(255,0,0,0.15)' : 'rgba(255,85,0,0.15)',
-                    color: s.platform === 'youtube' ? '#f87171' : '#fb923c',
-                  }}>
-                    {s.platform === 'youtube' ? (
-                      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
-                    ) : (
-                      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
-                    )}
-                  </div>
-                </div>
-                <FestivalBadge festival={s.festival} size="sm" />
-              </Link>
-            ))}
-          </div>
-        </div>
-      )}
-
       {/* ──── COACHELLA 2026 SPOTLIGHT ──── */}
       {coachellaSets.length > 0 && (
         <div className="card" style={{ marginBottom: 12, borderLeft: `4px solid ${coachellaConfig.accent}`, overflow: 'hidden' }}>
@@ -291,7 +245,6 @@ export default function HomePage() {
                 Explore &rarr;
               </Link>
             </div>
-            {/* Most played tracks at Coachella this year */}
             {coachellaTopTracks.length > 0 && (
               <div>
                 <div style={{ fontSize: '0.6875rem', color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.06em', fontWeight: 700, marginBottom: 8 }}>
@@ -321,6 +274,47 @@ export default function HomePage() {
                 </div>
               </div>
             )}
+          </div>
+        </div>
+      )}
+
+      {/* ──── START LISTENING ──── */}
+      {playableSets.length > 0 && (
+        <div style={{ marginBottom: 32 }}>
+          <div className="card-header" style={{ marginBottom: 0 }}>
+            <div className="card-title">Start Listening</div>
+            <Link href="/sets" style={{ fontSize: '0.75rem', color: 'var(--purple-lt)', textDecoration: 'none' }}>All {totalPlayable} sets from {latestYear} &rarr;</Link>
+          </div>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 10, marginTop: 12 }}>
+            {playableSets.map(s => (
+              <Link
+                key={s.tlId}
+                href={`/set/${s.tlId}`}
+                className="card"
+                style={{ display: 'block', textDecoration: 'none', color: 'inherit', padding: '16px 18px' }}
+              >
+                <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: 10 }}>
+                  <div style={{ flex: 1, minWidth: 0 }}>
+                    <div style={{ fontWeight: 700, fontSize: '0.9375rem', marginBottom: 3 }}>{s.dj}</div>
+                    <div style={{ fontSize: '0.75rem', color: 'var(--muted)' }}>
+                      {s.stage} · {new Date(s.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+                    </div>
+                    {s.tracksTotal > 0 && (
+                      <div style={{ fontSize: '0.6875rem', color: 'var(--muted)', marginTop: 4 }}>
+                        {s.tracksIdentified}/{s.tracksTotal} tracks ID&apos;d
+                      </div>
+                    )}
+                  </div>
+                  <HomePlayButton
+                    platform={s.platform}
+                    url={s.url}
+                    title={`${s.dj} @ ${s.stage}`}
+                    tlId={s.tlId}
+                  />
+                </div>
+                <FestivalBadge festival={s.festival} size="sm" />
+              </Link>
+            ))}
           </div>
         </div>
       )}
@@ -474,32 +468,6 @@ export default function HomePage() {
         </div>
       </div>
 
-      {/* Quick links */}
-      <div style={{ fontSize: '0.6875rem', color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.08em', fontWeight: 700, marginBottom: 10, textAlign: 'center' }}>
-        Explore More
-      </div>
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(180px, 1fr))', gap: 10 }}>
-        <Link href="/djs" className="card" style={{ textDecoration: 'none', color: 'inherit', padding: '20px', textAlign: 'center' }}>
-          <div style={{ fontSize: '1.5rem', marginBottom: 4 }}>&#9678;</div>
-          <div style={{ fontWeight: 700, fontSize: '0.9375rem' }}>DJs</div>
-          <div style={{ fontSize: '0.75rem', color: 'var(--muted)' }}>Leaderboards & profiles</div>
-        </Link>
-        <Link href="/sets" className="card" style={{ textDecoration: 'none', color: 'inherit', padding: '20px', textAlign: 'center' }}>
-          <div style={{ fontSize: '1.5rem', marginBottom: 4 }}>&#9719;</div>
-          <div style={{ fontWeight: 700, fontSize: '0.9375rem' }}>Sets</div>
-          <div style={{ fontSize: '0.75rem', color: 'var(--muted)' }}>Browse & listen</div>
-        </Link>
-        <Link href="/tracks" className="card" style={{ textDecoration: 'none', color: 'inherit', padding: '20px', textAlign: 'center' }}>
-          <div style={{ fontSize: '1.5rem', marginBottom: 4 }}>&#9835;</div>
-          <div style={{ fontWeight: 700, fontSize: '0.9375rem' }}>Tracks</div>
-          <div style={{ fontSize: '0.75rem', color: 'var(--muted)' }}>Most played & trending</div>
-        </Link>
-        <Link href="/festivals" className="card" style={{ textDecoration: 'none', color: 'inherit', padding: '20px', textAlign: 'center' }}>
-          <div style={{ fontSize: '1.5rem', marginBottom: 4 }}>&#9733;</div>
-          <div style={{ fontWeight: 700, fontSize: '0.9375rem' }}>Festivals</div>
-          <div style={{ fontSize: '0.75rem', color: 'var(--muted)' }}>All {totalFestivals} festivals</div>
-        </Link>
-      </div>
     </>
   );
 }
