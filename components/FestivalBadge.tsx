@@ -4,6 +4,7 @@ export function FestivalBadge({ festival, size = 'sm' }: { festival: string; siz
   const config = FESTIVALS[festival];
   const name = config?.shortName || festival;
   const color = config?.accent || '#64748b';
+  const emoji = config?.emoji || '🎵';
 
   const fontSize = size === 'md' ? '0.75rem' : '0.625rem';
   const padding = size === 'md' ? '3px 8px' : '2px 6px';
@@ -24,7 +25,7 @@ export function FestivalBadge({ festival, size = 'sm' }: { festival: string; siz
         whiteSpace: 'nowrap',
       }}
     >
-      <span style={{ width: 6, height: 6, borderRadius: '50%', background: color, flexShrink: 0 }} />
+      <span style={{ fontSize: size === 'md' ? '0.75rem' : '0.625rem', lineHeight: 1 }}>{emoji}</span>
       {name}
     </span>
   );

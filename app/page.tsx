@@ -2,6 +2,7 @@ export const dynamic = 'force-dynamic';
 
 import Link from 'next/link';
 import { loadIndex, getFestivalSummaries, getSetRecordings, fmt } from '@/lib/data';
+import { FESTIVALS } from '@/lib/festivals';
 import { FestivalBadge } from '@/components/FestivalBadge';
 import { SpotifyButton } from '@/components/SpotifyButton';
 import fs from 'fs';
@@ -18,6 +19,7 @@ type LeaderboardEntry = {
   festivals: string[];
   festivalCounts: Record<string, number>;
   yearCounts: Record<string, number>;
+  yearFestivalCounts?: Record<string, number>;
 };
 
 type TrackFile = {
@@ -170,6 +172,29 @@ export default function HomePage() {
   const upNextSlug = recentFestival?.slug === 'coachella' ? 'edc-las-vegas' : 'coachella';
   const upNextFestival = festivalSummaries.find(f => f.slug === upNextSlug) || null;
 
+  // --- COACHELLA 2026 SPOTLIGHT ---
+  const coachellaConfig = FESTIVALS['coachella'];
+  const coachellaSets = index.sets.filter(s => s.festival === 'coachella' && s.year === latestYear);
+  const coachellaDJs = new Set(coachellaSets.flatMap(s => s.djs.map(d => d.slug)));
+  const coachellaStages = new Set(coachellaSets.map(s => s.stage));
+  const coachellaPlayable = coachellaSets.filter(s => {
+    const rec = getSetRecordings(s.tlId);
+    return rec && (rec.ytUrl || rec.scUrl);
+  });
+  // Get top played tracks at Coachella this year from the leaderboard
+  const coachellaTopTracks = allLeaderboard
+    .filter(t => t.yearFestivalCounts && Object.keys(t.yearFestivalCounts).some(k => k.startsWith(`${latestYear}:coachella`)))
+    .sort((a, b) => {
+      const aCount = Object.entries(a.yearFestivalCounts || {}).filter(([k]) => k.startsWith(`${latestYear}:coachella`)).reduce((sum, [, v]) => sum + (v as number), 0);
+      const bCount = Object.entries(b.yearFestivalCounts || {}).filter(([k]) => k.startsWith(`${latestYear}:coachella`)).reduce((sum, [, v]) => sum + (v as number), 0);
+      return bCount - aCount;
+    })
+    .slice(0, 5)
+    .map(t => {
+      const count = Object.entries(t.yearFestivalCounts || {}).filter(([k]) => k.startsWith(`${latestYear}:coachella`)).reduce((sum, [, v]) => sum + (v as number), 0);
+      return { artist: t.artist, title: t.title, slug: t.slug, count };
+    });
+
   const topFestivals = festivalSummaries.slice(0, 6);
 
   return (
@@ -238,43 +263,66 @@ export default function HomePage() {
         </div>
       )}
 
-      {/* Latest festival spotlight */}
-      {recentFestival && (
-        <Link
-          href={`/festivals/${recentFestival.slug}`}
-          className="card"
-          style={{
-            display: 'block',
-            marginBottom: 12,
-            textDecoration: 'none',
-            color: 'inherit',
-            borderLeft: `4px solid ${recentFestival.accent}`,
-          }}
-        >
-          <div style={{ padding: '16px 20px' }}>
-            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+      {/* ──── COACHELLA 2026 SPOTLIGHT ──── */}
+      {coachellaSets.length > 0 && (
+        <div className="card" style={{ marginBottom: 12, borderLeft: `4px solid ${coachellaConfig.accent}`, overflow: 'hidden' }}>
+          <div style={{ padding: '20px 20px 16px' }}>
+            <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', marginBottom: 16 }}>
               <div>
                 <div style={{ fontSize: '0.6875rem', color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.08em', fontWeight: 700, marginBottom: 6 }}>
-                  Latest Festival
+                  {coachellaConfig.emoji} Just In
                 </div>
-                <div style={{ fontSize: '1.5rem', fontWeight: 900, letterSpacing: '-0.02em', marginBottom: 4 }}>
-                  {recentFestival.shortName} {recentFestival.maxYear}
-                  {recentFestival.weekendLabel && (
-                    <span style={{ fontSize: '0.875rem', fontWeight: 700, color: recentFestival.accent, marginLeft: 8, letterSpacing: '0.02em' }}>
+                <div style={{ fontSize: '1.75rem', fontWeight: 900, letterSpacing: '-0.02em', marginBottom: 4 }}>
+                  Coachella {latestYear}
+                  {recentFestival?.weekendLabel && (
+                    <span style={{ fontSize: '0.875rem', fontWeight: 700, color: coachellaConfig.accent, marginLeft: 8 }}>
                       {recentFestival.weekendLabel}
                     </span>
                   )}
                 </div>
-                <div style={{ fontSize: '0.8125rem', color: 'var(--muted-lt)' }}>
-                  {recentFestival.setCount} sets &middot; {fmt(recentFestival.totalSets)} total across {recentFestival.years.length} years
+                <div style={{ display: 'flex', gap: 16, fontSize: '0.8125rem', color: 'var(--muted-lt)' }}>
+                  <span><strong style={{ color: 'var(--text-bright)' }}>{coachellaSets.length}</strong> sets</span>
+                  <span><strong style={{ color: 'var(--text-bright)' }}>{coachellaDJs.size}</strong> DJs</span>
+                  <span><strong style={{ color: 'var(--text-bright)' }}>{coachellaStages.size}</strong> stages</span>
+                  <span><strong style={{ color: 'var(--text-bright)' }}>{coachellaPlayable.length}</strong> with audio</span>
                 </div>
               </div>
-              <div style={{ fontSize: '0.8125rem', color: recentFestival.accent, fontWeight: 600 }}>
+              <Link href="/festivals/coachella" style={{ fontSize: '0.8125rem', color: coachellaConfig.accent, fontWeight: 600, textDecoration: 'none', whiteSpace: 'nowrap' }}>
                 Explore &rarr;
-              </div>
+              </Link>
             </div>
+            {/* Most played tracks at Coachella this year */}
+            {coachellaTopTracks.length > 0 && (
+              <div>
+                <div style={{ fontSize: '0.6875rem', color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.06em', fontWeight: 700, marginBottom: 8 }}>
+                  Most played at Coachella {latestYear}
+                </div>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: 0 }}>
+                  {coachellaTopTracks.map((t, i) => (
+                    <Link
+                      key={t.slug}
+                      href={`/track/${t.slug}`}
+                      style={{
+                        display: 'flex',
+                        alignItems: 'center',
+                        gap: 10,
+                        padding: '8px 0',
+                        textDecoration: 'none',
+                        color: 'inherit',
+                        borderTop: i > 0 ? '1px solid var(--border)' : 'none',
+                        fontSize: '0.8125rem',
+                      }}
+                    >
+                      <span style={{ color: 'var(--muted)', fontVariantNumeric: 'tabular-nums', width: 16, textAlign: 'right', fontSize: '0.75rem' }}>{i + 1}</span>
+                      <span style={{ flex: 1, minWidth: 0, fontWeight: 600 }}>{t.artist} &mdash; {t.title}</span>
+                      <span style={{ color: coachellaConfig.accent, fontWeight: 700, fontVariantNumeric: 'tabular-nums' }}>{t.count}x</span>
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
-        </Link>
+        </div>
       )}
 
       {/* Up Next */}
