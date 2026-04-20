@@ -6,8 +6,6 @@ import { MobileTabs } from '@/components/MobileTabs';
 import { Search } from '@/components/Search';
 import { HashRedirect } from '@/components/HashRedirect';
 import { PlayerBar } from '@/components/PlayerBar';
-import { Analytics } from '@vercel/analytics/next';
-import { SpeedInsights } from '@vercel/speed-insights/next';
 import { GAPageView } from '@/components/GAPageView';
 
 const inter = Inter({ subsets: ['latin'] });
@@ -69,8 +67,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </main>
         <PlayerBar />
         <GAPageView />
-        <Analytics />
-        <SpeedInsights />
       </body>
     </html>
   );
