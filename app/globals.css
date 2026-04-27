@@ -272,6 +272,37 @@ h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
   flex-shrink: 0;
 }
 
+/* ── Rename banner ──────────────────────────────── */
+.rename-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  background: var(--purple);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 10px 16px;
+  font-size: 0.875rem;
+  text-align: center;
+}
+.rename-banner strong { font-weight: 700; }
+.rename-banner button {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  opacity: 0.7;
+  padding: 0 4px;
+  flex-shrink: 0;
+}
+.rename-banner button:hover { opacity: 1; }
+
 /* ── Site footer ────────────────────────────────── */
 .site-footer {
   margin-top: 48px;

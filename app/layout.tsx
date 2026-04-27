@@ -7,21 +7,22 @@ import { Search } from '@/components/Search';
 import { HashRedirect } from '@/components/HashRedirect';
 import { PlayerBar } from '@/components/PlayerBar';
 import { GAPageView } from '@/components/GAPageView';
+import { RenameBanner } from '@/components/RenameBanner';
 
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'TrackTrackr',
+  title: 'FestivalSets.info',
   description: 'Listen to festival sets. Dive deep into tracklists. Discover your next favorite track.',
   openGraph: {
-    title: 'TrackTrackr',
+    title: 'FestivalSets.info',
     description: 'Listen to festival sets. Dive deep into tracklists. Discover your next favorite track.',
-    siteName: 'TrackTrackr',
+    siteName: 'FestivalSets.info',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'TrackTrackr',
+    title: 'FestivalSets.info',
     description: 'Listen to festival sets. Dive deep into tracklists. Discover your next favorite track.',
   },
 };
@@ -45,7 +46,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <header id="header">
             <a href="/" className="header-brand">
               <span className="header-brand-icon">🔊</span>
-              <span className="header-brand-text">TrackTrackr</span>
+              <span className="header-brand-text">FestivalSets</span>
             </a>
             <Search />
           </header>
@@ -65,6 +66,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </footer>
           </div>
         </main>
+        <RenameBanner />
         <PlayerBar />
         <GAPageView />
       </body>
