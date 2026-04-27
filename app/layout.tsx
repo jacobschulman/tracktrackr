@@ -43,6 +43,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Sidebar />
         <MobileTabs />
         <main id="content">
+          <RenameBanner />
           <header id="header">
             <a href="/" className="header-brand">
               <span className="header-brand-icon">🔊</span>
@@ -66,7 +67,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </footer>
           </div>
         </main>
-        <RenameBanner />
         <PlayerBar />
         <GAPageView />
       </body>

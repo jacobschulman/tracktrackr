@@ -18,7 +18,7 @@ export function RenameBanner() {
 
   return (
     <div className="rename-banner">
-      <span>🎉 TrackTrackr is now <strong>FestivalSets.info</strong></span>
+      <span>New name, who dis? TrackTrackr is now <strong>FestivalSets.info</strong></span>
       <button onClick={dismiss} aria-label="Dismiss">×</button>
     </div>
   );
