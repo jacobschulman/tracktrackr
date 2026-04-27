@@ -1,71 +1,79 @@
 # Deployment
 
-TrackTrackr is hosted on **Vercel** with automatic deployments from GitHub.
+TrackTrackr runs on a self-hosted **Hetzner VPS** in production. Vercel is used for preview deployments (branch previews) via the GitHub integration.
 
-## How it works
+## Production (Hetzner)
 
-- **Production**: every push to `main` auto-deploys to production
-- **Preview**: every push to any other branch gets its own preview URL
-- Builds take ~1 minute (66 static pages + on-demand rendering for everything else)
+| Property | Value |
+|---|---|
+| Host alias | `hetzner` (configure in `~/.ssh/config`) |
+| Deploy path | `/srv/festivalsets/app` |
+| Process manager | PM2 (process name: `festivalsets`) |
+| Port | 3200 |
+| URL | `https://tracktrackr.hedgebreeze.com` |
 
-## URLs
+### How to deploy
+
+```bash
+./scripts/deploy-hetzner.sh main
+```
+
+The script SSHes to the `hetzner` host, pulls the branch, runs `npm ci && npm run build`, then restarts PM2. Requires SSH key access to the server.
+
+### PM2 quick reference
+
+```bash
+# On the server
+pm2 status              # check process state
+pm2 logs festivalsets   # tail logs
+pm2 restart festivalsets
+pm2 save                # persist process list across reboots
+```
+
+### Environment variables
+
+Set these in `/srv/festivalsets/app/.env.local` on the server (never commit secrets):
+
+| Variable | Purpose | Default |
+|---|---|---|
+| `ADMIN_PASSWORD` | Protects `/admin` routes | `tracktrackr-admin` |
+
+## Previews (Vercel)
+
+Every branch pushed to GitHub gets an auto-deployed preview URL from Vercel:
 
 | Environment | URL |
 |---|---|
-| Production | `tracktrackr.hedgebreeze.com` |
-| Vercel default | `tracktrackr-jacobschulmans-projects.vercel.app` |
-| Preview branches | `tracktrackr-git-<branch>-jacobschulmans-projects.vercel.app` |
+| Preview branch | `tracktrackr-git-<branch>-jacobschulmans-projects.vercel.app` |
 
-## Workflow
+Preview deployments do **not** replace the Hetzner production server. They are read-only previews for reviewing PRs.
 
-```bash
-# Work on a feature
-git checkout -b feature/whatever
-# ... make changes ...
-git push -u origin feature/whatever
-# → Vercel deploys a preview URL automatically
+> The previous setup hosted production on Vercel too. That was migrated to Hetzner to avoid ISR billing. The Vercel project still exists for previews.
 
-# When ready, merge to main
-git checkout main
-git merge feature/whatever
-git push origin main
-# → Production updates automatically
-```
+## DNS (GoDaddy)
+
+| Type | Name | Value |
+|---|---|---|
+| A / CNAME | `tracktrackr` | Hetzner server IP |
+
+SSL is provisioned via Let's Encrypt on the server (or reverse proxy).
 
 ## Architecture
 
-### On-demand rendering
-
-Most pages are **not** pre-built at deploy time. Instead:
+### Rendering
 
 - Static pages (home, DJs list, tracks list, stages, etc.) are pre-rendered at build time (~66 pages)
-- Dynamic pages (`/set/[tlId]`, `/track/[id]`, `/dj/[slug]`, `/journeys/[id]`) render on first visit and are cached by Vercel automatically
-- This means adding new festival data doesn't require rebuilding every page
+- Dynamic pages (`/set/[tlId]`, `/track/[id]`, `/dj/[slug]`, `/journeys/[id]`) render on first request and are cached by Next.js
 
 ### Data
 
 - Festival data lives in `data/` as JSON files (index + individual set files)
 - Data is read server-side at runtime, not bundled as static assets
-- Search uses an API route (`/api/search`) that builds indexes on demand
+- Search uses an API route (`/api/search`)
 
 ### Analytics
 
-- Vercel Analytics and Speed Insights are enabled in the root layout
-- View in the Vercel dashboard under the Analytics tab
-
-## DNS (GoDaddy)
-
-The custom domain uses a CNAME record:
-
-| Type | Name | Value |
-|---|---|---|
-| CNAME | `tracktrackr` | `cname.vercel-dns.com` |
-
-SSL is provisioned automatically by Vercel.
-
-## Previous hosting
-
-The app was previously on GitHub Pages using `output: 'export'` (full static site). That workflow file is preserved in `.github/workflows-disabled/deploy.yml` but is no longer active.
+- Google Analytics (G-7CSFLQ7T60) with structured GA4 events
 
 ## Data pipeline
 
@@ -80,33 +88,29 @@ See [scraper-strategy.md](./scraper-strategy.md) for the full scraping architect
    ```bash
    ./scripts/rebuild-all.sh
    ```
-5. **Commit and push** to `main`
+5. **Commit and push**, then run `./scripts/deploy-hetzner.sh main`
 
 ### Adding new sets to an existing festival
 
-1. Drop set JSON files into the appropriate year directory (e.g. `data/ultra-miami/2026/`)
-2. Run the rebuild script: `./scripts/rebuild-all.sh`
-3. Commit and push
+1. Drop set JSON files into the appropriate year directory
+2. Run `./scripts/rebuild-all.sh`
+3. Commit, push, and deploy
 
 ### Data architecture
 
-TrackTrackr uses pre-built indexes to avoid loading thousands of files at runtime:
-
 | File | Size | Purpose |
 |---|---|---|
-| `data/<festival>/index.json` | ~50-500KB each | All set metadata for a festival (generated by `generate-index.js`) |
-| `data/djs/<slug>.json` | ~1-20KB each | Pre-computed DJ stats, timeline, signature tracks, most-supported tracks |
+| `data/<festival>/index.json` | ~50-500KB each | All set metadata for a festival |
+| `data/djs/<slug>.json` | ~1-20KB each | Pre-computed DJ stats, timeline, signature tracks |
 | `data/file-index.json` | ~580KB | Maps set tlId → file path for fast lookups |
 | `data/recordings.json` | ~295KB | Maps set tlId → YouTube/SoundCloud URLs |
-
-**Without indexes**: DJ pages would load 7,000+ individual set files. With indexes, they load ~10 small files.
 
 ### Build scripts
 
 | Script | Purpose |
 |---|---|
 | `scripts/rebuild-all.sh` | Runs everything below in order |
-| `scripts/generate-index.js <slug>` | Builds `index.json` for one festival from its set files |
+| `scripts/generate-index.js <slug>` | Builds `index.json` for one festival |
 | `scripts/build-dj-indexes.js` | Builds per-DJ indexes, file index, and recordings index |
 
 Run `rebuild-all.sh` whenever you add or change festival data. It takes ~30 seconds.
@@ -131,9 +135,10 @@ npm run dev
 # Production build (test locally)
 npm run build && npm start
 
-# Trigger a redeploy without code changes
-git commit --allow-empty -m "Trigger redeploy" && git push
-
-# Check deploy status
-gh run list --limit 5
+# Deploy to production
+./scripts/deploy-hetzner.sh main
 ```
+
+## Previous hosting
+
+The app was previously on GitHub Pages using `output: 'export'` (full static site). That workflow file is preserved in `.github/workflows-disabled/deploy.yml` but is no longer active. Production then moved to Vercel, and later migrated to Hetzner to avoid ISR billing.

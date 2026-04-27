@@ -21,6 +21,6 @@ actions:
 - Check `data/` structure and existing festival JSON files before touching data ingestion or indexing code.
 - After data changes, run `./scripts/rebuild-all.sh` to regenerate indexes.
 - The production deploy uses SSH to a Hetzner server (host alias `hetzner`) and requires SSH key access configured on the runner. The deploy script lives at `./scripts/deploy-hetzner.sh` and deploys to `/srv/festivalsets/app` (PM2 process `festivalsets`, port 3200).
-- Production domain: `tracktrackr.hedgebreeze.com`. # TODO: Confirm this is still the active domain.
+- Production domain: `tracktrackr.hedgebreeze.com` (Hetzner VPS). Vercel previews are active for all branches but do not serve production traffic.
 - `ADMIN_PASSWORD` env var protects admin API routes — default fallback is `'tracktrackr-admin'`. Do not commit secrets.
 - Keep PRs focused on the assigned HBHQ item. Do not merge your own PR.
