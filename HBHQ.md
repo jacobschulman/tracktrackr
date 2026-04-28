@@ -1,13 +1,13 @@
 ---
 deploy:
   working_dir: .
-  staging_command: # TODO: No staging environment currently configured. Add one and update this field.
-  staging_url: # TODO: No staging URL currently configured. Update when a staging environment exists.
-  prod_command: ./scripts/deploy-hetzner.sh main
+  staging_command: ./scripts/deploy-hetzner.sh staging
+  staging_url: https://staging.festivalsets.info
+  prod_command: ./scripts/deploy-hetzner.sh prod
   type: script
 actions:
-  staging_label: Deploy tracktrackr to staging
-  ship_label: Ship tracktrackr to production
+  staging_label: Deploy to staging
+  ship_label: Ship to production
   merge_label: Merge PR
   setup_merge_label: Merge HBHQ.md
   send_back_label: Send back to agent
@@ -20,7 +20,7 @@ actions:
 - Run `npm run build` to verify the Next.js build succeeds before marking work done.
 - Check `data/` structure and existing festival JSON files before touching data ingestion or indexing code.
 - After data changes, run `./scripts/rebuild-all.sh` to regenerate indexes.
-- The production deploy uses SSH to a Hetzner server (host alias `hetzner`) and requires SSH key access configured on the runner. The deploy script lives at `./scripts/deploy-hetzner.sh` and deploys to `/srv/festivalsets/app` (PM2 process `festivalsets`, port 3200).
-- Production domain: `tracktrackr.hedgebreeze.com`. # TODO: Confirm this is still the active domain.
+- Deploys use SSH to a Hetzner server (host alias `hetzner`). The deploy script is `./scripts/deploy-hetzner.sh`. Staging deploys the current branch to `/srv/festivalsets/staging` (PM2 `festivalsets-staging`, port 3201). Prod deploys `main` to `/srv/festivalsets/app` (PM2 `festivalsets`, port 3200).
+- Production domain: `https://festivalsets.info`. Staging: `https://staging.festivalsets.info`. `tracktrackr.com` redirects to prod.
 - `ADMIN_PASSWORD` env var protects admin API routes — default fallback is `'tracktrackr-admin'`. Do not commit secrets.
 - Keep PRs focused on the assigned HBHQ item. Do not merge your own PR.
