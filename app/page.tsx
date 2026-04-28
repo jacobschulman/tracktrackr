@@ -203,7 +203,7 @@ export default function HomePage() {
       {/* Hero — minimal */}
       <div style={{ padding: '40px 0 20px' }}>
         <h1 style={{ fontSize: '2.75rem', fontWeight: 900, letterSpacing: '-0.03em', margin: 0, lineHeight: 1.1 }}>
-          TrackTrackr
+          FestivalSets
         </h1>
         <p style={{ fontSize: '1.0625rem', color: 'var(--muted-lt)', marginTop: 12, maxWidth: 500, lineHeight: 1.5 }}>
           Listen to festival sets. Dive deep into tracklists. Discover your next favorite track.
