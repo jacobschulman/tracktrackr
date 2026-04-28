@@ -18,6 +18,7 @@ interface SetCardData {
   dateFormatted: string;
   duration: string;
   tracksIdentified: number;
+  weekend: number | null;
   hasYouTube: boolean;
   hasSoundCloud: boolean;
   ytUrl?: string;
@@ -139,6 +140,11 @@ export function SetsPageClient({ sets, festivalLabels, years, totalSets }: {
                 <span>{s.year}</span>
                 <span className="separator">&middot;</span>
                 <span>{s.dateFormatted}</span>
+                {s.weekend && (
+                  <span style={{ fontSize: '0.625rem', fontWeight: 700, color: 'var(--muted-lt)', background: 'var(--surface-hover)', padding: '1px 5px', borderRadius: 3 }}>
+                    W{s.weekend}
+                  </span>
+                )}
                 {s.duration && (
                   <>
                     <span className="separator">&middot;</span>

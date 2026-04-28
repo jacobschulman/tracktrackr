@@ -63,6 +63,10 @@ for (const entry of entries) {
         t.artist && t.artist !== 'ID' && t.title && t.title !== 'ID'
       ).length;
 
+      // Derive weekend from URL (e.g. "-weekend-1" or "-weekend-2")
+      const wkMatch = (data.url || '').match(/-weekend-(\d)/i);
+      const weekend = wkMatch ? parseInt(wkMatch[1]) : null;
+
       const setMeta = {
         tlId: data.tlId,
         dj: data.dj,
@@ -83,6 +87,7 @@ for (const entry of entries) {
         likes: data.likes || 0,
         url: data.url || '',
         hasSetFile: true,
+        weekend,
       };
 
       sets.push(setMeta);

@@ -1,5 +1,5 @@
 import { loadIndex, loadSet, loadDJIndex, trackKey, getDJHistory } from '@/lib/data';
-import { getStageColor } from '@/lib/festivals';
+import { getStageColor, getFestival } from '@/lib/festivals';
 import { fmt } from '@/lib/data';
 import { trackSlug, slugify } from '@/lib/slugs';
 import { StageBadge } from '@/components/StageBadge';
@@ -73,6 +73,9 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
   const djName = setData.dj || 'Unknown DJ';
   const dateFormatted = formatDate(setData.date);
   const stageColor = getStageColor(setData.festival || 'ultra-miami', setData.stage);
+  const setMeta = index.sets.find(s => s.tlId === tlId);
+  const festivalConfig = getFestival(setData.festival || '');
+  const weekend = setMeta?.weekend ?? null;
 
   // Same day sets on same stage
   const sameDaySets = index.sets
@@ -166,6 +169,19 @@ export default async function SetPage({ params }: { params: Promise<{ tlId: stri
         </h1>
         <div style={{ fontSize: '0.9375rem', color: 'var(--muted-lt)', marginBottom: 12 }}>
           {dateFormatted}
+          {weekend && (
+            <span style={{
+              marginLeft: 8,
+              fontSize: '0.75rem',
+              fontWeight: 700,
+              color: festivalConfig?.accent || 'var(--muted)',
+              background: `${festivalConfig?.accent || '#64748b'}18`,
+              padding: '2px 7px',
+              borderRadius: 4,
+            }}>
+              W{weekend}
+            </span>
+          )}
           {(setData as any).duration && <> &middot; {(setData as any).duration}</>}
           &nbsp;&middot;&nbsp;
           <StageBadge stage={setData.stage} />

@@ -76,6 +76,7 @@ export default function SetsPage() {
       dateFormatted: formatDateShort(s.date),
       duration: s.duration || '',
       tracksIdentified: s.tracksIdentified || 0,
+      weekend: s.weekend ?? null,
       hasYouTube: enrich?.hasYouTube || false,
       hasSoundCloud: enrich?.hasSoundCloud || false,
       ytUrl: enrich?.ytUrl,

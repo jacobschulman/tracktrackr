@@ -1,0 +1,982 @@
+{
+  "tlId": "2fwst0fk",
+  "dj": "DJ Snake & Knock2",
+  "stage": "Coachella Festival",
+  "date": "2026-04-18",
+  "year": 2026,
+  "url": "https://www.1001tracklists.com/tracklist/2fwst0fk/dj-snake-knock2-quasar-coachella-festival-weekend-2-united-states-2026-04-18.html",
+  "djs": [
+    {
+      "name": "DJ Snake",
+      "slug": "djsnake"
+    },
+    {
+      "name": "Knock2",
+      "slug": "knock2"
+    }
+  ],
+  "genre": "Afro House",
+  "tracksIdentified": 0,
+  "tracksTotal": 0,
+  "duration": "",
+  "tracks": [
+    {
+      "pos": "01",
+      "artist": "Knock2",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13771993",
+      "row": 1,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Knock2",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13771993"
+        },
+        {
+          "artist": "DJ Snake & MERCER ft. Jermaine Dupri",
+          "title": "Let's Get Ill",
+          "remix": "(Acappella)",
+          "trackId": "13771994"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Snake & MERCER ft. Jermaine Dupri",
+      "title": "Let's Get Ill",
+      "remix": "(Acappella)",
+      "label": "DJ SNAKE/GEFFEN",
+      "trackId": "13771994",
+      "row": 1,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "408001",
+        "youtube": "408001",
+        "soundcloud": "408001",
+        "appleMusic": "408001"
+      }
+    },
+    {
+      "pos": "02",
+      "artist": "DJ Snake & Tchami & Malaa & MERCER",
+      "title": "Made In France",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "13771995",
+      "row": 2,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "511944",
+        "youtube": "511944",
+        "soundcloud": "511944",
+        "appleMusic": "511944"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake & Tchami & Malaa & MERCER",
+          "title": "Made In France",
+          "remix": "",
+          "trackId": "13771995"
+        },
+        {
+          "artist": "Knock2",
+          "title": "murdah (VIP)",
+          "remix": "",
+          "trackId": "13771996"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knock2",
+      "title": "murdah (VIP)",
+      "remix": "",
+      "label": "NOLIMIT",
+      "trackId": "13771996",
+      "row": 2,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "youtube": "1130250",
+        "soundcloud": "1130250"
+      }
+    },
+    {
+      "pos": "03",
+      "artist": "DJ Snake & Moksi",
+      "title": "Pigalle",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "13771997",
+      "row": 3,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "316511",
+        "youtube": "316511",
+        "soundcloud": "316511",
+        "appleMusic": "316511"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "04",
+      "artist": "Knock2",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13771998",
+      "row": 4,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "05",
+      "artist": "Knock2",
+      "title": "sound di alarm",
+      "remix": "",
+      "label": "88RISING",
+      "trackId": "13772007",
+      "row": 5,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "soundcloud": "1136280"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "06",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13772000",
+      "row": 6,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "07",
+      "artist": "RemK",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13772692",
+      "row": 7,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "08",
+      "artist": "Nari & Milani pres.Dek 31",
+      "title": "Gnuk! (DJ Snake Remix)",
+      "remix": "",
+      "label": "JUICY",
+      "trackId": "13772001",
+      "row": 8,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Nari & Milani pres.Dek 31",
+          "title": "Gnuk! (DJ Snake Remix)",
+          "remix": "",
+          "trackId": "13772001"
+        },
+        {
+          "artist": "Masters At Work",
+          "title": "Work (Acappella)",
+          "remix": "",
+          "trackId": "13772002"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Masters At Work",
+      "title": "Work (Acappella)",
+      "remix": "",
+      "label": "MAW",
+      "trackId": "13772002",
+      "row": 8,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "2033",
+        "youtube": "8350",
+        "soundcloud": "2033",
+        "appleMusic": "2033"
+      }
+    },
+    {
+      "pos": "09",
+      "artist": "DJ Snake",
+      "title": "Kiki2000",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "13772003",
+      "row": 9,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1129581",
+        "youtube": "1129581",
+        "soundcloud": "1129581",
+        "appleMusic": "1129581"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "10",
+      "artist": "DJ Snake",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13772004",
+      "row": 10,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "11",
+      "artist": "The Weeknd ft. Anitta",
+      "title": "São Paulo",
+      "remix": "",
+      "label": "REPUBLIC (UMG)",
+      "trackId": "13772005",
+      "row": 11,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1052800",
+        "youtube": "1052800",
+        "soundcloud": "1052800",
+        "appleMusic": "1052800"
+      },
+      "blendGroup": [
+        {
+          "artist": "The Weeknd ft. Anitta",
+          "title": "São Paulo",
+          "remix": "",
+          "trackId": "13772005"
+        },
+        {
+          "artist": "Knock2",
+          "title": "JADE (ST3VN Baile Edit)",
+          "remix": "",
+          "trackId": "13772006"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knock2",
+      "title": "JADE (ST3VN Baile Edit)",
+      "remix": "",
+      "label": "SABLE VALLEY",
+      "trackId": "13772006",
+      "row": 11,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "soundcloud": "1144198"
+      }
+    },
+    {
+      "pos": "12",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13772138",
+      "row": 12,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "13",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13772139",
+      "row": 13,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "14",
+      "artist": "Missy Elliott ft. Ciara & Fatman Scoop",
+      "title": "Lose Control",
+      "remix": "",
+      "label": "ATLANTIC (WARNER MUSIC)",
+      "trackId": "13772140",
+      "row": 14,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "25067",
+        "youtube": "25067",
+        "soundcloud": "25067",
+        "appleMusic": "25067"
+      },
+      "blendGroup": [
+        {
+          "artist": "Missy Elliott ft. Ciara & Fatman Scoop",
+          "title": "Lose Control",
+          "remix": "",
+          "trackId": "13772140"
+        },
+        {
+          "artist": "Wiwek & Moksi",
+          "title": "Masta",
+          "remix": "",
+          "trackId": "13772141"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Wiwek & Moksi",
+      "title": "Masta",
+      "remix": "",
+      "label": "BARONG FAMILY",
+      "trackId": "13772141",
+      "row": 14,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "323339",
+        "youtube": "323339",
+        "soundcloud": "323339",
+        "appleMusic": "323339"
+      }
+    },
+    {
+      "pos": "15",
+      "artist": "Knock2",
+      "title": "dashstar*",
+      "remix": "",
+      "label": "NIGHTMODE",
+      "trackId": "13772159",
+      "row": 15,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "653419",
+        "youtube": "653419",
+        "soundcloud": "653419",
+        "appleMusic": "653419"
+      },
+      "blendGroup": [
+        {
+          "artist": "Knock2",
+          "title": "dashstar*",
+          "remix": "",
+          "trackId": "13772159"
+        },
+        {
+          "artist": "Knock2",
+          "title": "dashstar*",
+          "remix": "",
+          "trackId": "13772160"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knock2",
+      "title": "dashstar*",
+      "remix": "",
+      "label": "NIGHTMODE",
+      "trackId": "13772160",
+      "row": 15,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "653419",
+        "youtube": "653419",
+        "soundcloud": "653419",
+        "appleMusic": "653419"
+      }
+    },
+    {
+      "pos": "16",
+      "artist": "Alice Deejay vs. JAUZ & DJ Snake",
+      "title": "Better Off Alone vs. Gassed Up (JAUZ Mashup)",
+      "remix": "",
+      "label": "VIOLENT/BITE THIS!",
+      "trackId": "13772161",
+      "row": 16,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": [
+        {
+          "artist": "Alice Deejay vs. JAUZ & DJ Snake",
+          "title": "Better Off Alone vs. Gassed Up (JAUZ Mashup)",
+          "remix": "",
+          "trackId": "13772161"
+        },
+        {
+          "artist": "JAUZ & DJ Snake",
+          "title": "Gassed Up (The Outlaw Edit)",
+          "remix": "",
+          "trackId": "13772162"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "JAUZ & DJ Snake",
+      "title": "Gassed Up (The Outlaw Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13772162",
+      "row": 16,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": null
+    },
+    {
+      "pos": "17",
+      "artist": "ISOxo",
+      "title": "FUCK THE SPEAKERZ UP (The Outlaw Edit)",
+      "remix": "",
+      "label": "",
+      "trackId": "13772163",
+      "row": 17,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "18",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13772164",
+      "row": 18,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "19",
+      "artist": "Bountyhunter",
+      "title": "Woops (Los Dutis Tribal Remix)",
+      "remix": "",
+      "label": "BONZAI",
+      "trackId": "13772178",
+      "row": 19,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "youtube": "1150840"
+      },
+      "blendGroup": [
+        {
+          "artist": "Bountyhunter",
+          "title": "Woops (Los Dutis Tribal Remix)",
+          "remix": "",
+          "trackId": "13772178"
+        },
+        {
+          "artist": "DJ Snake",
+          "title": "Propaganda (Acappella)",
+          "remix": "",
+          "trackId": "13772179"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Snake",
+      "title": "Propaganda (Acappella)",
+      "remix": "",
+      "label": "FREE",
+      "trackId": "13772179",
+      "row": 19,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "288201",
+        "youtube": "307801",
+        "soundcloud": "288201",
+        "appleMusic": "288201"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake",
+          "title": "Propaganda (Acappella)",
+          "remix": "",
+          "trackId": "13772179"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13772180"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13772180",
+      "row": 19,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": null
+    },
+    {
+      "pos": "20",
+      "artist": "Knock2",
+      "title": "gettin' hott",
+      "remix": "",
+      "label": "NIGHTMODE",
+      "trackId": "13772181",
+      "row": 20,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "790642",
+        "youtube": "790642",
+        "soundcloud": "790642",
+        "appleMusic": "790642"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "21",
+      "artist": "Knock2",
+      "title": "Make U SWEAT! (VIP)",
+      "remix": "",
+      "label": "NIGHTMODE",
+      "trackId": "13772182",
+      "row": 21,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": null,
+      "blendGroup": null
+    },
+    {
+      "pos": "22",
+      "artist": "USH",
+      "title": "SELECTA",
+      "remix": "",
+      "label": "INDEPENDENT",
+      "trackId": "13772183",
+      "row": 22,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1092403",
+        "youtube": "1092403",
+        "soundcloud": "1092403",
+        "appleMusic": "1092403"
+      },
+      "blendGroup": [
+        {
+          "artist": "USH",
+          "title": "SELECTA",
+          "remix": "",
+          "trackId": "13772183"
+        },
+        {
+          "artist": "Virtual Riot",
+          "title": "Pray For Riddim",
+          "remix": "",
+          "trackId": "13772203"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Virtual Riot",
+      "title": "Pray For Riddim",
+      "remix": "",
+      "label": "DISCIPLE",
+      "trackId": "13772203",
+      "row": 22,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "397211",
+        "youtube": "397211",
+        "soundcloud": "397211",
+        "appleMusic": "397211"
+      },
+      "blendGroup": [
+        {
+          "artist": "Virtual Riot",
+          "title": "Pray For Riddim",
+          "remix": "",
+          "trackId": "13772203"
+        },
+        {
+          "artist": "DJ Snake & Zomboy",
+          "title": "Quiet Storm",
+          "remix": "",
+          "trackId": "13772204"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "DJ Snake & Zomboy",
+      "title": "Quiet Storm",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "13772204",
+      "row": 22,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "511543",
+        "youtube": "511543",
+        "soundcloud": "511543",
+        "appleMusic": "511543"
+      }
+    },
+    {
+      "pos": "23",
+      "artist": "Skrillex & ISOxo",
+      "title": "fuze",
+      "remix": "",
+      "label": "OWSLA/ATLANTIC",
+      "trackId": "13772205",
+      "row": 23,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1128852",
+        "youtube": "1128852",
+        "soundcloud": "1128852",
+        "appleMusic": "1128852"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "24",
+      "artist": "ISOKNOCK & RL Grime",
+      "title": "SMACK TALK",
+      "remix": "",
+      "label": "88RISING",
+      "trackId": "13772206",
+      "row": 24,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1012462",
+        "youtube": "1012462",
+        "soundcloud": "1012462",
+        "appleMusic": "1012462"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "25",
+      "artist": "RL Grime & Knock2 ft. Abi Flynn",
+      "title": "come aliv3",
+      "remix": "",
+      "label": "88RISING/SABLE VALLEY",
+      "trackId": "13772227",
+      "row": 25,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1007070",
+        "youtube": "1007070",
+        "soundcloud": "1007070",
+        "appleMusic": "1007070"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "26",
+      "artist": "Steve Angello & Laidback Luke ft. Robin S",
+      "title": "Show Me Love (DJ Snake Remix)",
+      "remix": "",
+      "label": "BIG BEAT (ATLANTIC)",
+      "trackId": "13772230",
+      "row": 26,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "youtube": "1096046"
+      },
+      "blendGroup": [
+        {
+          "artist": "Steve Angello & Laidback Luke ft. Robin S",
+          "title": "Show Me Love (DJ Snake Remix)",
+          "remix": "",
+          "trackId": "13772230"
+        },
+        {
+          "artist": "ID",
+          "title": "ID",
+          "remix": "",
+          "trackId": "13772231"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "ID",
+      "title": "ID",
+      "remix": "",
+      "label": "",
+      "trackId": "13772231",
+      "row": 26,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": null
+    },
+    {
+      "pos": "27",
+      "artist": "Armand van Helden ft. Duane Harden",
+      "title": "You Don't Know Me",
+      "remix": "",
+      "label": "FFRR (PARLOPHONE)",
+      "trackId": "13772232",
+      "row": 27,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "104897",
+        "youtube": "104897",
+        "soundcloud": "104897",
+        "appleMusic": "104897"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "28",
+      "artist": "Daft Punk",
+      "title": "One More Time",
+      "remix": "",
+      "label": "DAFT LIFE/WARNER FRANCE",
+      "trackId": "13772233",
+      "row": 28,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1847",
+        "youtube": "1847",
+        "soundcloud": "1847",
+        "appleMusic": "1847"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "29",
+      "artist": "Knock2",
+      "title": "feel U luv Me",
+      "remix": "",
+      "label": "88RISING",
+      "trackId": "13772255",
+      "row": 29,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "983896",
+        "youtube": "983896",
+        "soundcloud": "983896",
+        "appleMusic": "983896"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "30",
+      "artist": "DJ Snake",
+      "title": "You Are My High",
+      "remix": "",
+      "label": "DJ SNAKE",
+      "trackId": "13772256",
+      "row": 30,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "711868",
+        "youtube": "711868",
+        "soundcloud": "711868",
+        "appleMusic": "711868"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake",
+          "title": "You Are My High",
+          "remix": "",
+          "trackId": "13772256"
+        },
+        {
+          "artist": "Fedde Le Grand",
+          "title": "Put Your Hands Up For Detroit (Acappella)",
+          "remix": "",
+          "trackId": "13772278"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Fedde Le Grand",
+      "title": "Put Your Hands Up For Detroit (Acappella)",
+      "remix": "",
+      "label": "DATA REC. (MINISTRY OF SOUND)",
+      "trackId": "13772278",
+      "row": 30,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "1206",
+        "youtube": "9801",
+        "soundcloud": "1206",
+        "appleMusic": "1206"
+      },
+      "blendGroup": [
+        {
+          "artist": "Fedde Le Grand",
+          "title": "Put Your Hands Up For Detroit (Acappella)",
+          "remix": "",
+          "trackId": "13772278"
+        },
+        {
+          "artist": "Knife Party",
+          "title": "LRAD",
+          "remix": "",
+          "trackId": "13772279"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Knife Party",
+      "title": "LRAD",
+      "remix": "",
+      "label": "EARSTORM/BIG BEAT",
+      "trackId": "13772279",
+      "row": 30,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "117950",
+        "youtube": "117950",
+        "soundcloud": "117950",
+        "appleMusic": "117950"
+      }
+    },
+    {
+      "pos": "31",
+      "artist": "DJ Snake",
+      "title": "Nightbird",
+      "remix": "",
+      "label": "INTERSCOPE/DJ SNAKE",
+      "trackId": "13772280",
+      "row": 31,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "840534",
+        "youtube": "840534",
+        "soundcloud": "840534",
+        "appleMusic": "840534"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "32",
+      "artist": "BLR",
+      "title": "Carnival",
+      "remix": "",
+      "label": "SPINNIN'",
+      "trackId": "13772281",
+      "row": 32,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "926720",
+        "youtube": "926720",
+        "soundcloud": "926720",
+        "appleMusic": "926720"
+      },
+      "blendGroup": null
+    },
+    {
+      "pos": "33",
+      "artist": "DJ Snake ft. Justin Bieber",
+      "title": "Let Me Love You (DJ Snake 2025 Intro)",
+      "remix": "",
+      "label": "INTERSCOPE",
+      "trackId": "13772300",
+      "row": 33,
+      "type": "normal",
+      "cueTime": null,
+      "mediaIds": {
+        "youtube": "1104346"
+      },
+      "blendGroup": [
+        {
+          "artist": "DJ Snake ft. Justin Bieber",
+          "title": "Let Me Love You (DJ Snake 2025 Intro)",
+          "remix": "",
+          "trackId": "13772300"
+        },
+        {
+          "artist": "Sigma",
+          "title": "Nobody To Love",
+          "remix": "",
+          "trackId": "13772360"
+        }
+      ]
+    },
+    {
+      "pos": "w/",
+      "artist": "Sigma",
+      "title": "Nobody To Love",
+      "remix": "",
+      "label": "3BEAT",
+      "trackId": "13772360",
+      "row": 33,
+      "type": "blend",
+      "cueTime": null,
+      "mediaIds": {
+        "spotify": "186251",
+        "youtube": "186251",
+        "soundcloud": "186251",
+        "appleMusic": "186251"
+      }
+    }
+  ],
+  "recordings": [],
+  "scrapedAt": "2026-04-20T13:56:26.164Z",
+  "scrapeVersion": 2
+}

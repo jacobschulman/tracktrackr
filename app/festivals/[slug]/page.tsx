@@ -51,6 +51,29 @@ export default async function FestivalDetailPage({ params }: { params: Promise<{
     stages.add(s.stage);
   }
 
+  // Weekend breakdown for latest year (Coachella-style multi-weekend festivals)
+  const latestYearSets = festivalSets.filter(s => s.year === latestYear);
+  const weekends = [...new Set(latestYearSets.map(s => s.weekend).filter((w): w is number => w != null))].sort();
+  const hasMultipleWeekends = config.hasWeekends && weekends.length >= 2;
+
+  // Per-weekend DJ sets for cross-weekend comparison
+  const weekendDJs: Record<number, Set<string>> = {};
+  for (const wk of weekends) {
+    weekendDJs[wk] = new Set(
+      latestYearSets.filter(s => s.weekend === wk).flatMap(s => s.djs.map(d => d.slug))
+    );
+  }
+  // DJs who played both weekends vs only one
+  const bothWeekendsDJs = hasMultipleWeekends
+    ? [...weekendDJs[1]].filter(slug => weekendDJs[2]?.has(slug))
+    : [];
+  const w1Only = hasMultipleWeekends
+    ? [...weekendDJs[1]].filter(slug => !weekendDJs[2]?.has(slug))
+    : [];
+  const w2Only = hasMultipleWeekends
+    ? [...weekendDJs[2]].filter(slug => !weekendDJs[1]?.has(slug))
+    : [];
+
   // Stage history for this festival
   const stageData = getStageHistory(slug)
     .filter(s => s.stage !== 'Radio/Podcast' && s.stage !== 'Unknown Stage')
@@ -174,6 +197,64 @@ export default async function FestivalDetailPage({ params }: { params: Promise<{
         </div>
       </div>
 
+      {/* Weekend Breakdown — for multi-weekend festivals like Coachella */}
+      {hasMultipleWeekends && (
+        <div className="card" style={{ marginBottom: 24 }}>
+          <div className="card-header">
+            <div className="card-title">{config.shortName} {latestYear} — By Weekend</div>
+          </div>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12, padding: '16px 20px' }}>
+            {weekends.map(wk => {
+              const wkSets = latestYearSets.filter(s => s.weekend === wk);
+              const wkDJs = new Set(wkSets.flatMap(s => s.djs.map(d => d.slug)));
+              const wkStages = new Set(wkSets.map(s => s.stage));
+              const dates = wkSets.map(s => s.date).sort();
+              const startDate = dates[0];
+              const endDate = dates[dates.length - 1];
+              const formatShort = (d: string) => {
+                try {
+                  return new Date(d + 'T00:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+                } catch { return d; }
+              };
+              return (
+                <div key={wk} style={{
+                  background: 'var(--surface)',
+                  borderRadius: 8,
+                  padding: '14px 16px',
+                  borderLeft: `3px solid ${config.accent}`,
+                }}>
+                  <div style={{ fontSize: '1rem', fontWeight: 800, marginBottom: 6 }}>
+                    Weekend {wk}
+                    <span style={{ fontSize: '0.75rem', fontWeight: 500, color: 'var(--muted-lt)', marginLeft: 8 }}>
+                      {formatShort(startDate)}&ndash;{formatShort(endDate)}
+                    </span>
+                  </div>
+                  <div style={{ fontSize: '0.8125rem', color: 'var(--muted-lt)', lineHeight: 1.6 }}>
+                    {wkSets.length} sets &middot; {wkDJs.size} DJs &middot; {wkStages.size} stages
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+          {/* Cross-weekend comparison */}
+          <div style={{ padding: '0 20px 16px', display: 'flex', gap: 16, fontSize: '0.8125rem', flexWrap: 'wrap' }}>
+            <span style={{ color: 'var(--muted-lt)' }}>
+              <strong style={{ color: 'var(--text-bright)' }}>{bothWeekendsDJs.length}</strong> DJs played both
+            </span>
+            {w1Only.length > 0 && (
+              <span style={{ color: 'var(--muted-lt)' }}>
+                <strong style={{ color: 'var(--text-bright)' }}>{w1Only.length}</strong> W1 only
+              </span>
+            )}
+            {w2Only.length > 0 && (
+              <span style={{ color: 'var(--muted-lt)' }}>
+                <strong style={{ color: 'var(--text-bright)' }}>{w2Only.length}</strong> W2 only
+              </span>
+            )}
+          </div>
+        </div>
+      )}
+
       {/* Insight Cards */}
       <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16, marginBottom: 24 }}>
         {mostTenured && (
@@ -295,13 +376,15 @@ export default async function FestivalDetailPage({ params }: { params: Promise<{
                 <div className="card-title">Top Tracks &mdash; {latestYear}</div>
                 <span style={{ fontSize: '0.75rem', color: 'var(--muted)' }}>Top 10</span>
               </div>
-              {spotlight.topTracks.map((t, i) => {
-                const rank = i + 1;
+              {(() => {
+                let currentRank = 1;
+                return spotlight.topTracks.map((t, i) => {
+                if (i > 0 && t.playCount < spotlight.topTracks[i - 1].playCount) currentRank = i + 1;
                 const maxPlay = spotlight.topTracks[0]?.playCount ?? 1;
                 const pct = (t.playCount / maxPlay) * 100;
                 return (
                   <Link key={t.key} href={`/track/${trackSlug(t.artist, t.title)}`} className="leaderboard-row" style={{ textDecoration: 'none', cursor: 'pointer' }}>
-                    <div className={`leaderboard-rank ${rank <= 3 ? 'top3' : ''}`}>{rank}</div>
+                    <div className={`leaderboard-rank ${currentRank <= 3 ? 'top3' : ''}`}>{currentRank}</div>
                     <div className="leaderboard-info">
                       <div className="leaderboard-name">{t.artist} &mdash; {t.title}</div>
                       <div className="leaderboard-meta"><span>{t.djs.length} DJ{t.djs.length !== 1 ? 's' : ''}</span></div>
@@ -314,7 +397,8 @@ export default async function FestivalDetailPage({ params }: { params: Promise<{
                     <SpotifyButton artist={t.artist} title={t.title} />
                   </Link>
                 );
-              })}
+              });
+              })()}
             </div>
           )}
 

@@ -75,6 +75,13 @@ export function seekPlayer(time: number) {
 
 // ── Component ─────────────────────────────────────
 export function PlayerBar() {
+  // Preload APIs on mount so they're ready before the first tap.
+  // Without this, the async load inside startPlayback breaks mobile gesture context.
+  useEffect(() => {
+    loadYTApi();
+    loadSCApi();
+  }, []);
+
   const [state, setState] = useState<PlayerState>({
     platform: null,
     playing: false,
@@ -155,8 +162,10 @@ export function PlayerBar() {
   );
 
   // ── Start playback (called via bus event) ───────
+  // Must stay synchronous — any await breaks mobile gesture context and
+  // causes iOS/Android to block autoplay.
   const startPlayback = useCallback(
-    async (platform: Platform, url: string, title: string, tlId: string) => {
+    (platform: Platform, url: string, title: string, tlId: string) => {
       cleanup();
 
       let externalUrl = '';
@@ -182,7 +191,6 @@ export function PlayerBar() {
       document.body.classList.add('player-open');
 
       if (platform === 'youtube') {
-        await loadYTApi();
         const YT = (window as any).YT;
         if (!YT?.Player) return;
         const ytId = url.includes('youtube.com/watch')
@@ -202,7 +210,6 @@ export function PlayerBar() {
               e.target.playVideo();
               const dur = e.target.getDuration();
               setState((prev) => ({ ...prev, playing: true, duration: dur }));
-              // Start polling for progress
               pollRef.current = setInterval(() => {
                 try {
                   const cur = e.target.getCurrentTime();
@@ -219,7 +226,6 @@ export function PlayerBar() {
           },
         });
       } else if (platform === 'soundcloud') {
-        await loadSCApi();
         const SC = (window as any).SC;
         if (!SC?.Widget) return;
 
@@ -267,7 +273,7 @@ export function PlayerBar() {
     if (!playerBus) return;
     const handler = (e: Event) => {
       const { platform, url, title, tlId } = (e as CustomEvent).detail;
-      startPlayback(platform, url, title, tlId);
+      startPlayback(platform as Platform, url, title, tlId);
     };
     playerBus.addEventListener('play', handler);
     return () => playerBus.removeEventListener('play', handler);

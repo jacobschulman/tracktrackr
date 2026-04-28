@@ -41,7 +41,7 @@ export function Sidebar() {
     <nav id="sidebar">
       <Link href="/" className="logo">
         <span className="logo-icon">🔊</span>
-        <span className="logo-text">TrackTrackr</span>
+        <span className="logo-text">FestivalSets</span>
       </Link>
 
       <div className="nav-links">

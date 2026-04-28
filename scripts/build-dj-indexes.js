@@ -330,16 +330,18 @@ for (const [slug, djTracks] of tracksByDJ) {
       });
     }
     const entry = trackAgg.get(key);
-    entry.totalPlays += t.count;
     entry.djs.add(slug);
-    for (const y of t.years) {
-      entry.years.add(y);
-      entry.yearCounts[y] = (entry.yearCounts[y] || 0) + t.count;
-    }
-    // Festival info from set metadata + year-festival cross counts
+    // Deduplicate by tlId — B2B sets and aliases cause the same set to
+    // appear across multiple DJ entries; only count each set once.
+    if (!entry.seenTlIds) entry.seenTlIds = new Set();
     for (const tlId of t.sets) {
+      if (entry.seenTlIds.has(tlId)) continue;
+      entry.seenTlIds.add(tlId);
+      entry.totalPlays++;
       const setMeta = allSets.find(s => s.tlId === tlId);
       if (setMeta) {
+        entry.years.add(setMeta.year);
+        entry.yearCounts[setMeta.year] = (entry.yearCounts[setMeta.year] || 0) + 1;
         entry.festivals.add(setMeta.festival);
         entry.festivalCounts[setMeta.festival] = (entry.festivalCounts[setMeta.festival] || 0) + 1;
         const yfKey = `${setMeta.year}:${setMeta.festival}`;

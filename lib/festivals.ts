@@ -4,6 +4,8 @@ export interface FestivalConfig {
   shortName: string;
   stageColors: Record<string, string>;
   accent: string;
+  emoji: string;
+  hasWeekends?: boolean;
 }
 
 export const FESTIVALS: Record<string, FestivalConfig> = {
@@ -12,6 +14,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Ultra Music Festival Miami',
     shortName: 'Ultra Miami',
     accent: '#a855f7',
+    emoji: '🟣',
     stageColors: {
       'Mainstage': '#a855f7',
       'Worldwide Stage': '#22c55e',
@@ -60,6 +63,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Tomorrowland',
     shortName: 'Tomorrowland',
     accent: '#f59e0b',
+    emoji: '🦋',
     stageColors: {},
   },
   'coachella': {
@@ -67,6 +71,8 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Coachella Valley Music and Arts Festival',
     shortName: 'Coachella',
     accent: '#f97316',
+    emoji: '🌴',
+    hasWeekends: true,
     stageColors: {},
   },
   'edc-las-vegas': {
@@ -74,6 +80,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Electric Daisy Carnival Las Vegas',
     shortName: 'EDC Las Vegas',
     accent: '#06b6d4',
+    emoji: '🎡',
     stageColors: {},
   },
   'edc-china': {
@@ -81,6 +88,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Electric Daisy Carnival China',
     shortName: 'EDC China',
     accent: '#0ea5e9',
+    emoji: '🎡',
     stageColors: {},
   },
   'edc-dallas': {
@@ -88,6 +96,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Electric Daisy Carnival Dallas',
     shortName: 'EDC Dallas',
     accent: '#38bdf8',
+    emoji: '🎡',
     stageColors: {},
   },
   'edc-los-angeles': {
@@ -95,6 +104,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Electric Daisy Carnival Los Angeles',
     shortName: 'EDC Los Angeles',
     accent: '#22d3ee',
+    emoji: '🎡',
     stageColors: {},
   },
   'edc-mexico': {
@@ -102,6 +112,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Electric Daisy Carnival Mexico',
     shortName: 'EDC Mexico',
     accent: '#2dd4bf',
+    emoji: '🎡',
     stageColors: {},
   },
   'edc-new-york': {
@@ -109,6 +120,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Electric Daisy Carnival New York',
     shortName: 'EDC New York',
     accent: '#67e8f9',
+    emoji: '🎡',
     stageColors: {},
   },
   'edc-orlando': {
@@ -116,6 +128,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Electric Daisy Carnival Orlando',
     shortName: 'EDC Orlando',
     accent: '#5eead4',
+    emoji: '🎡',
     stageColors: {},
   },
   'electric-zoo': {
@@ -123,6 +136,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Electric Zoo',
     shortName: 'Electric Zoo',
     accent: '#22c55e',
+    emoji: '⚡',
     stageColors: {},
   },
   'ultra-chile': {
@@ -130,6 +144,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Ultra Chile',
     shortName: 'Ultra Chile',
     accent: '#c084fc',
+    emoji: '🟣',
     stageColors: {},
   },
   'ultra-europe': {
@@ -137,6 +152,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Ultra Europe',
     shortName: 'Ultra Europe',
     accent: '#d946ef',
+    emoji: '🟣',
     stageColors: {},
   },
   'ultra-japan': {
@@ -144,6 +160,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Ultra Japan',
     shortName: 'Ultra Japan',
     accent: '#e879f9',
+    emoji: '🟣',
     stageColors: {},
   },
   'creamfields': {
@@ -151,6 +168,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Creamfields',
     shortName: 'Creamfields',
     accent: '#ec4899',
+    emoji: '🎶',
     stageColors: {},
   },
   'lollapalooza': {
@@ -158,6 +176,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Lollapalooza',
     shortName: 'Lollapalooza',
     accent: '#8b5cf6',
+    emoji: '🎸',
     stageColors: {},
   },
   'mysteryland': {
@@ -165,6 +184,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Mysteryland',
     shortName: 'Mysteryland',
     accent: '#14b8a6',
+    emoji: '🔮',
     stageColors: {},
   },
   'parookaville': {
@@ -172,6 +192,7 @@ export const FESTIVALS: Record<string, FestivalConfig> = {
     name: 'Parookaville',
     shortName: 'Parookaville',
     accent: '#ef4444',
+    emoji: '🏰',
     stageColors: {},
   },
 };
