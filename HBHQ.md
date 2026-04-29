@@ -1,21 +1,19 @@
 ---
 deploy:
-  type: script
-  working_dir: /srv/tracktrackr
-  staging_command: ./scripts/deploy-hetzner.sh staging {branch}
-  staging_url: https://staging.festivalsets.info
-  prod_command: ./scripts/deploy-hetzner.sh prod
+  type: none
 actions:
-  staging_label: Deploy to staging
-  ship_label: Ship to production
+  staging_label: Vercel preview
+  ship_label: Merge to production
   merge_label: Merge PR
   setup_merge_label: Merge HBHQ.md
-  send_back_label: Send back to agent
+  send_back_label: Request changes
 ---
 
 # Tracktrackr HBHQ Contract
 
-Tracktrackr is a Next.js app for festival/social tracking. HBHQ dispatches feature and bug work into this repo, deploys feature branches to the staging Festivalsets instance, and ships merged work to production through the repo deploy script.
+Tracktrackr is a Next.js app for festival/social tracking. HBHQ dispatches feature and bug work into this repo, and GitHub/Vercel handle preview and production deploys automatically.
+
+HBHQ should treat this as merge-only until a first-class Vercel deploy integration exists. Pushed feature branches get Vercel preview deployments, and merges to `main` deploy production.
 
 ## Build And Test
 
@@ -25,10 +23,12 @@ Tracktrackr is a Next.js app for festival/social tracking. HBHQ dispatches featu
 
 ## Deploy
 
-- Deploy script: `./scripts/deploy-hetzner.sh`.
-- Staging: `./scripts/deploy-hetzner.sh staging {branch}` deploys to `/srv/festivalsets/staging`, PM2 `festivalsets-staging`, port `3201`.
-- Production: `./scripts/deploy-hetzner.sh prod` deploys `main` to `/srv/festivalsets/app`, PM2 `festivalsets`, port `3200`.
-- Production domain: `https://festivalsets.info`. Staging: `https://staging.festivalsets.info`. `tracktrackr.com` redirects to production.
+- Production: pushes to `main` auto-deploy through Vercel.
+- Preview: pushes to feature branches auto-create Vercel preview deployments.
+- Production URL: `https://tracktrackr.hedgebreeze.com`.
+- Vercel default URL: `https://tracktrackr-jacobschulmans-projects.vercel.app`.
+- Branch preview URL pattern: `https://tracktrackr-git-<branch>-jacobschulmans-projects.vercel.app`, with Vercel's branch-name normalization.
+- The legacy `scripts/deploy-hetzner.sh` script references an old FestivalSets self-hosted path. Do not use it for HBHQ deploys unless hosting is intentionally changed back.
 
 ## Agent Notes
 
